@@ -6,16 +6,23 @@
 
 git fetch && git pull
 
-# +================================+
-# | Convert MD to PDF using Pandoc |
-# +================================+
+# +===============================================+
+# | Convert MD to PDF using Pandoc and MD to HTML |
+# +===============================================+
 
-if [ -e Statnice.pdf ]
+if [ -e pdfVersion/Statnice.pdf ]
 then
-   rm Statnice.pdf && \
-   pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks --output=Statnice.pdf Statnice.md 
+   rm pdfVersion/Statnice.pdf && \
+   pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks --output=pdfVersion/Statnice.pdf Statnice.md
 else
-   pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks --output=Statnice.pdf Statnice.md
+   pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks --output=pdfVersion/Statnice.pdf Statnice.md
+fi && \
+if [ -e dist/index.html ]
+then
+   rm dist/index.html && \
+   pandoc Statnice.md -f markdown -t html -s -o dist/index.html
+else
+   pandoc Statnice.md -f markdown -t html -s -o dist/index.html
 fi && \
 git status
 
@@ -39,4 +46,3 @@ case $doit in
   git commit -m "$commitMessage"
   git push -u origin master ;;
 esac
-
