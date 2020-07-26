@@ -11,6 +11,7 @@ jobs:
         with:
           args: >- # allows you to break string into multiple lines
             --wrap=preserve
-            --standalone
-            --output=Statnice.pdf
-            ${{ env.FILELIST }}
+            --output=output/result.pdf ${{ env.FILELIST }}
+            #--standalone
+            #--output=Statnice.pdf
+            #${{ env.FILELIST }}
