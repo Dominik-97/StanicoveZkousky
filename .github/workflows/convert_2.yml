@@ -13,4 +13,4 @@ jobs:
             --wrap=preserve
             --standalone
             --output=Statnice.pdf
-            Statnice.md
+            ${{ env.FILELIST }}
