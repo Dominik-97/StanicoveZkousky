@@ -1,5 +1,4 @@
-![Advanced Usage](https://github.com/Dominik-97/StanicoveZkousky/workflows/Advanced%20Usage/badge.svg) ![Build and Deploy](https://github.com/Dominik-97/StanicoveZkousky/workflows/Build%20and%20Deploy/badge.svg)
-
+![Advanced Usage](https://github.com/Dominik-97/StanicoveZkousky/workflows/Advanced%20Usage/badge.svg)
 # Repository storing my finals documentation
 
 Cloned from [Bachelors Work](https://github.com/Dominik-97/BachelorsWork/tree/Statni_Zkousky) repository, commit 407.
