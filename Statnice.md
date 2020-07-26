@@ -29,9 +29,11 @@ output:
 
 #### Otázka 1 - Občanské právo hmotné – pojem, předmět, prameny, systém, systematika občanského zákoníku, dispozitivní a kogentní normy v občanském právu.
 
-\|---------\| <br>
-\| Úkoly \| <br>
-\|---------\| <br>
+
+
+\|---------\| \\\ <br>
+\| Úkoly \| \\\ <br>
+\|---------\| \\\ <br>
 
 - [x] § 1 - 14 
 - [ ] Dodělat ostatní části této otázky
