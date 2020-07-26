@@ -17,6 +17,8 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: >- 
+            --toc
+            -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks
             --wrap=preserve
             --output=output/result.pdf ${{ env.FILELIST }}
       - uses: actions/upload-artifact@main
@@ -39,3 +41,23 @@ jobs:
             #--standalone
             #--output=Statnice.pdf
             #Statnice.md
+            
+            
+            
+#name: Convert
+
+#on: push
+
+#jobs:
+  #convert_via_pandoc:
+    #runs-on: ubuntu-18.04
+    #steps:
+     # - run: echo "::set-env name=FILELIST::$(printf Statnice.md)" #echo "foo" > input.txt # create an example file
+     # - uses: docker://pandoc/core:2.9
+       # with:
+         # args: >- # allows you to break string into multiple lines
+          #  --wrap=preserve
+          #  --output=output/result.pdf ${{ env.FILELIST }}
+            #--standalone
+            #--output=Statnice.pdf
+            #${{ env.FILELIST }}
