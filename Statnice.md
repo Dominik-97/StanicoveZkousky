@@ -1,4 +1,4 @@
-----
+---
 header-includes:
   - \usepackage{enumitem}
   - \setlistdepth{20}
@@ -12,7 +12,7 @@ output:
     rmarkdown::pdf_document:
       keep_tex: yes
 indent: false
-----
+---
 
 # Učební pomůcka státní závěrečné zkoušky
 
@@ -2641,6 +2641,3 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 
 PDF s OCR je k dispozici [zde](Podklady/Ekonomie_a_Podnikove_finance/zakladnich_pojmu.pdf).
-
-
-<script src="expandable.js"></script>

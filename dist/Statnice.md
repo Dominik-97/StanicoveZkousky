@@ -1,4 +1,4 @@
-----
+---
 header-includes:
   - \usepackage{enumitem}
   - \setlistdepth{20}
@@ -12,7 +12,7 @@ output:
     rmarkdown::pdf_document:
       keep_tex: yes
 indent: false
-----
+---
 
 # Učební pomůcka státní závěrečné zkoušky
 

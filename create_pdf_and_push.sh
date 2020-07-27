@@ -20,9 +20,9 @@ fi && \
 if [ -e dist/index.html ]
 then
    rm dist/index.html && \
-   pandoc Statnice.md -f markdown -t html -s -o dist/index.html
+   pandoc dist/Statnice.md -f markdown -t html -s -o dist/index.html
 else
-   pandoc Statnice.md -f markdown -t html -s -o dist/index.html
+   pandoc dist/Statnice.md -f markdown -t html -s -o dist/index.html
 fi && \
 git status
 
