@@ -11,8 +11,8 @@ git fetch && git pull
 # +====================================================================+
 
 cp -f dist/Statnice.md . && \
-sed -E -i -e 's/(\:\:\:\ content)|(\:\:\:)|(\<script\ src\=\"expandable\.js\"\>\<\/script\>)//' Statnice.md && \
-rm Statnice.md-e
+sed -E -ibak -e 's/(\:\:\:\ content)|(\:\:\:)|(\<script\ src\=\"expandable\.js\"\>\<\/script\>)//' Statnice.md && \
+rm Statnice.mdbak
 
 # +===============================================+
 # | Convert MD to PDF using Pandoc and MD to HTML |
@@ -40,6 +40,9 @@ git status
 
 sed -e 's/^<h4/<button class="collapsible">&/' -e 's:</h4>:&</button>:' dist/index2.html > dist/index.html && \
 rm dist/index2.html && \
+sed -ibak -e 's/\(Information.md\)/\.\.\/&/g
+        s/\(Podklady\)/\.\.\/&/g' dist/index.html && \
+rm dist/index.htmlbak && \
 # +=========================+
 # | Push changes from local |
 # +=========================+
