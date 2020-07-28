@@ -11,7 +11,8 @@ git fetch && git pull
 # +====================================================================+
 
 cp -f dist/Statnice.md . && \
-sed -i -e -E 's/  SCRIPT, :::, ::: content  /\<\/div\>\<button\>\1\2\3 \<\/button\>\<div\>/' Statnice.md
+sed -E -i -e 's/(\:\:\:\ content)|(\:\:\:)|(\<script\ src\=\"expandable\.js\"\>\<\/script\>)//' Statnice.md && \
+rm Statnice.md-e
 
 # +===============================================+
 # | Convert MD to PDF using Pandoc and MD to HTML |
@@ -24,12 +25,12 @@ then
 else
    pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks --output=pdfVersion/Statnice.pdf Statnice.md
 fi && \
-if [ -e dist/index.html ]
+if [ -e dist/index2.html ]
 then
-   rm dist/index.html && \
-   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index.html
+   rm dist/index2.html && \
+   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index2.html
 else
-   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index.html
+   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index2.html
 fi && \
 git status
 
@@ -37,7 +38,8 @@ git status
 # | Add button to questions |
 # +=========================+
 
-# sed -i -e -E 's/ <h4>, </h4>  / <button>\1\2</button>   /' Statnice.md
+sed -e 's/^<h4/<button class="collapsible">&/' -e 's:</h4>:&</button>:' dist/index2.html > dist/index.html && \
+rm dist/index2.html
 
 # +=========================+
 # | Push changes from local |
