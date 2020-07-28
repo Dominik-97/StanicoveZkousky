@@ -6,6 +6,13 @@
 
 git fetch && git pull
 
+# +====================================================================+
+# | Move working MD file to root and remove unecessary HTML formatting |
+# +====================================================================+
+
+cp -f dist/Statnice.md . && \
+sed -i -e -E 's/  SCRIPT, :::, ::: content  /\<\/div\>\<button\>\1\2\3 \<\/button\>\<div\>/' Statnice.md
+
 # +===============================================+
 # | Convert MD to PDF using Pandoc and MD to HTML |
 # +===============================================+
@@ -20,11 +27,17 @@ fi && \
 if [ -e dist/index.html ]
 then
    rm dist/index.html && \
-   pandoc dist/Statnice.md -f markdown -t html -s -o dist/index.html
+   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index.html
 else
-   pandoc dist/Statnice.md -f markdown -t html -s -o dist/index.html
+   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index.html
 fi && \
 git status
+
+# +=========================+
+# | Add button to questions |
+# +=========================+
+
+# sed -i -e -E 's/ <h4>, </h4>  / <button>\1\2</button>   /' Statnice.md
 
 # +=========================+
 # | Push changes from local |
