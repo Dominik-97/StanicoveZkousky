@@ -28,9 +28,9 @@ fi && \
 if [ -e dist/index2.html ]
 then
    rm dist/index2.html && \
-   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index2.html
+   pandoc dist/Statnice.md -f markdown -t html -s --css=style.css -o dist/index2.html
 else
-   pandoc dist/Statnice.md -f markdown -t html -s --css=dist/style.css -o dist/index2.html
+   pandoc dist/Statnice.md -f markdown -t html -s --css=style.css -o dist/index2.html
 fi && \
 git status
 
@@ -39,12 +39,10 @@ git status
 # +=========================+
 
 sed -e 's/^<h4/<button class="collapsible">&/' -e 's:</h4>:&</button>:' dist/index2.html > dist/index.html && \
-rm dist/index2.html
-
+rm dist/index2.html && \
 # +=========================+
 # | Push changes from local |
 # +=========================+
-
 read -n1 -p "Push that? [y,n] Press Any button to manually specify what to push" doit
 case $doit in
   y|Y)
