@@ -42,37 +42,37 @@ Be advised that the script is tested on MacOS only, so there is no way I can ens
 
 ## Tree
 
-.
-├── Information.md
-├── Otazky
-│   ├── Bc_EKONOMIE A PODNIKOVÉ FINANCE.pdf
-│   ├── Bc_OBCHODNÍ PRÁVO.pdf
-│   ├── Bc_OBČANSKÉ PRÁVO.pdf
-│   └── Statnicove_Okruhy_a_Jejich_Zdroje.xlsx
-├── Podklady
-│   ├── Ekonomie_a_Podnikove_finance
-│   │   ├── 1. Vyvoj_ekonomickeho_mysleni.ppt
-│   │   ├── PEPF-T1-T4.pdf
-│   │   ├── PEPF-T5-T8.pdf
-│   │   ├── PEPF-T9-T12.pdf
-│   │   ├── Toky_v_ekonomice.jpg
-│   │   ├── dist_opora_Ekonomie.pdf
-│   │   ├── podnikova-ekonomika-a-podnikove-finance-do_1.pdf
-│   │   └── zakladnich_pojmu.pdf
-│   ├── Obcanske_pravo
-│   └── Obchodni_pravo
-├── README.md
-├── Statnice.md
-├── create_pdf_and_push.sh
-├── dist
-│   ├── Statnice.md
-│   ├── expandable.js
-│   ├── index.html
-│   └── style.css
-├── enumitem.sty
-├── pdfVersion
-│   └── Statnice.pdf
-├── tests.txt
-└── timeManagement
-    ├── Gantt.twb
-    └── Gantt.xlsx
+.<br>
+├── Information.md<br>
+├── Otazky<br>
+│   ├── Bc_EKONOMIE A PODNIKOVÉ FINANCE.pdf<br>
+│   ├── Bc_OBCHODNÍ PRÁVO.pdf<br>
+│   ├── Bc_OBČANSKÉ PRÁVO.pdf<br>
+│   └── Statnicove_Okruhy_a_Jejich_Zdroje.xlsx<br>
+├── Podklady<br>
+│   ├── Ekonomie_a_Podnikove_finance<br>
+│   │   ├── 1. Vyvoj_ekonomickeho_mysleni.ppt<br>
+│   │   ├── PEPF-T1-T4.pdf<br>
+│   │   ├── PEPF-T5-T8.pdf<br>
+│   │   ├── PEPF-T9-T12.pdf<br>
+│   │   ├── Toky_v_ekonomice.jpg<br>
+│   │   ├── dist_opora_Ekonomie.pdf<br>
+│   │   ├── podnikova-ekonomika-a-podnikove-finance-do_1.pdf<br>
+│   │   └── zakladnich_pojmu.pdf<br>
+│   ├── Obcanske_pravo<br>
+│   └── Obchodni_pravo<br>
+├── README.md<br>
+├── Statnice.md<br>
+├── create_pdf_and_push.sh<br>
+├── dist<br>
+│   ├── Statnice.md<br>
+│   ├── expandable.js<br>
+│   ├── index.html<br>
+│   └── style.css<br>
+├── enumitem.sty<br>
+├── pdfVersion<br>
+│   └── Statnice.pdf<br>
+├── tests.txt<br>
+└── timeManagement<br>
+    ├── Gantt.twb<br>
+    └── Gantt.xlsx<br>
