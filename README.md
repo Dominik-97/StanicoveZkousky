@@ -42,6 +42,7 @@ Be advised that the script is tested on MacOS only, so there is no way I can ens
 
 ## Tree
 
+```plaintext
 .<br>
 ├── Information.md<br>
 ├── Otazky<br>
@@ -76,3 +77,4 @@ Be advised that the script is tested on MacOS only, so there is no way I can ens
 └── timeManagement<br>
     ├── Gantt.twb<br>
     └── Gantt.xlsx<br>
+```
