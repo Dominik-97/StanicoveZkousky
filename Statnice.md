@@ -12,7 +12,7 @@ output:
     rmarkdown::pdf_document:
       keep_tex: yes
 indent: false
-title: statnice
+title: Státnice
 ---
 
 # Učební pomůcka státní závěrečné zkoušky
@@ -64,8 +64,6 @@ title: statnice
 ----
 
 #### Otázka 1 - Občanské právo hmotné – pojem, předmět, prameny, systém, systematika občanského zákoníku, dispozitivní a kogentní normy v občanském právu. \
-
-\-\-\-\-
 
 
 
