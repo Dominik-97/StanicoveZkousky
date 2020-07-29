@@ -1859,10 +1859,25 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků
     - Ekonomika vyrábí **efektivně** pokud se svou produkcí pohybuje na hranici produkčních možností, nemůže vyrábět více jednoho statku bez toho, aby vyráběle méně jiného statku
 - Teoretické zdůvodnění různých přístupů k trhu
-  - Doplnit
-  - Merkantilismus
-  - Klasickou ekonomii
-  - Keynesiánství
+  - ~~Doplnit~~
+  - **Merkantilismus** - ranný merkantilismus se dá definovat zákazem vývozu peněz ze země, ochranářskou obchodní politikou a podporou vysokých cen. Fungovalo i v době zlatého standardu v Anglii (od roku 1664 do roku 1914).
+    - Důležitou roli hrál vztah mezi obchodní bilancí a reálnými ekonomickými zdroji země.
+    - Merkantilisté tlačili na celkovou aktivní bilanci země a příliv peněz do země (toto považovali za zdroj růstu bohatství), peníze považovali za kapitál.
+      - Aktivní bilance mělo být dosahováno za pomoci:
+      - Cílené struktury vývozu a dovozu,
+      - ochranářské politiky,
+      - kontroly růstu mezd,
+      - podporou vytváření exportních monopolů,
+      - podporou tranzitního obchodu (reexport).
+    - Stát ekonomicky zasahoval.
+    - **Kritika**:
+      - První směr, který odmýtl merkantilismus byli fyziokraté, nicméně k pravému odstranění merkantilismu došlo ve Velké Británii v průběhu 18. Století, v 19. století byla již pak teorie merkantilismu úplně překonána.
+      - Zásadním nedostatkem je přímý vliv (přímá neúměra) množství peněž v ekonomice na ceny zboží a rovněž množství zboží v ekonomice, které se s ohledem na své vzrůstající množství oproti jiným statkům stává levnější.
+      - Export drahých kovů z jiných zemí a jejich import do dané země tak ve svém důsledku znamenal zlevňování drahých kovů v místě importu a zdražování drahých kovů v místě exportu. Eventuálně se tak stal další export ekonomicky nevýhodným a obchod směřoval k obrácení obchodní bilance.
+  - **Klasickou ekonomii** - celkové nahrazení merkantilistických systémů představovala **klasická politická ekonomie** Adama Smitha.
+    - Rozvoj v souvislosti, respektive v období, anglické průmyslové revoluce.
+  - **Keynesiánství**
+    - Bretton-Woodská konference.
 - Výsledek potlačení trhu
   - Doplnit
 - Teorém pavučiny
@@ -2232,9 +2247,37 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Peníze a měna
+  - [ ] Funkce peněz
+  - [ ] Formy peněz
+- [ ] Zavádění společné měny Euro
+  - [ ] Postup
+  - [ ] Výhody
+  - [ ] Rizika
+  - [ ] Maastrichtská kritéria
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
+
+- Peníze a měna
+  - Doplnit
+  - Funkce peněz
+    - Doplnit
+  - Formy peněz
+    - Doplnit
+- Zavádění společné měny Euro
+  - Doplnit
+  - Postup
+    - Doplnit
+  - Výhody
+    - Doplnit
+  - Rizika
+    - Doplnit
+  - Maastrichtská kritéria
+    - Doplnit
 
 ----
 :::
