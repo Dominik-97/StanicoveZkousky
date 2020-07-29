@@ -2330,9 +2330,50 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Fiskální politika
+  - [ ] Cíle
+  - [ ] Hlavní subjekty
+  - [ ] Nástroje
+- [ ] Analýza vládních výdajů
+  - [ ] Obecné problémy
+  - [ ] Restriktivní a expanzivní přístup
+  - [ ] Vestavěné stabilizátory
+  - [ ] Vliv dotací a subvencí
+  - [ ] Deficity
+  - [ ] A Vytěsňování soukromých investic
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
+
+- Fiskální politika
+  - Doplnit
+  - Cíle
+    - Doplnit
+  - Hlavní subjekty
+    - Doplnit
+  - Nástroje
+    - Doplnit
+- Analýza vládních výdajů
+  - Doplnit
+  - Obecné problémy
+    - Doplnit
+  - Restriktivní a expanzivní přístup
+    - Doplnit
+    - Restriktivní přístup
+      - Doplnit
+    - Expanzivní přístup
+      - Doplnit
+  - Vestavěné stabilizátory
+    - Doplnit
+  - Vliv dotací a subvencí
+    - Doplnit
+  - Deficity
+    - Doplnit
+  - Vytěsňování soukromých investic
+    - Doplnit
 
 ----
 

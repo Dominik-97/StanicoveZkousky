@@ -39,3 +39,40 @@ When pushing, please always use the `create_pdf_and_push.sh` script, as it is th
 You can run the script by navigating to the root folder of this repository and running it by typing `./create_pdf_and_push.sh`, you might need to allow execution for example by running `chmod 755 ./create_pdf_and_push.sh`.
 
 Be advised that the script is tested on MacOS only, so there is no way I can ensure that it will be functional on other operating systems.
+
+## Tree
+
+.
+├── Information.md
+├── Otazky
+│   ├── Bc_EKONOMIE A PODNIKOVÉ FINANCE.pdf
+│   ├── Bc_OBCHODNÍ PRÁVO.pdf
+│   ├── Bc_OBČANSKÉ PRÁVO.pdf
+│   └── Statnicove_Okruhy_a_Jejich_Zdroje.xlsx
+├── Podklady
+│   ├── Ekonomie_a_Podnikove_finance
+│   │   ├── 1. Vyvoj_ekonomickeho_mysleni.ppt
+│   │   ├── PEPF-T1-T4.pdf
+│   │   ├── PEPF-T5-T8.pdf
+│   │   ├── PEPF-T9-T12.pdf
+│   │   ├── Toky_v_ekonomice.jpg
+│   │   ├── dist_opora_Ekonomie.pdf
+│   │   ├── podnikova-ekonomika-a-podnikove-finance-do_1.pdf
+│   │   └── zakladnich_pojmu.pdf
+│   ├── Obcanske_pravo
+│   └── Obchodni_pravo
+├── README.md
+├── Statnice.md
+├── create_pdf_and_push.sh
+├── dist
+│   ├── Statnice.md
+│   ├── expandable.js
+│   ├── index.html
+│   └── style.css
+├── enumitem.sty
+├── pdfVersion
+│   └── Statnice.pdf
+├── tests.txt
+└── timeManagement
+    ├── Gantt.twb
+    └── Gantt.xlsx
