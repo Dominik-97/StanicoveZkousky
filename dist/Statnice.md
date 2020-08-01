@@ -1805,6 +1805,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Model tržního hospodářství v systému právního státu**
     * Uzavřená ekonomika (uzavřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
     * Otevřená ekonomika (otevřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
+* **Jednoduchý** a **úplný** koloběh
+  * Jednoduchý koloběh je ve zkratce **dvousektor**
+  * Úplný koloběh je **čtyřsektor**
+  * Níže vyobrazený koloběh je úplným koloběhem (jsou zahrnuty všechny 4 sektory, pokud bychom však ignorovali stát a zahraničí, jednalo by se o jednoduchý koloběh)
+  * ![Koloběh](Podklady/Ekonomie_a_Podnikove_finance/ekonomicky_kolobeh.png)
+  * **Jednoduchý koloběh**:
+    * Firmy a domácnosti v rovném postavení, zisky z trhu zboží a služeb jdou přímo firmám, zisky z výrobních faktorů přímo domácnostem, neexistence státu a zahraničí (dvousektor, který je uzavřenou ekonomikou), neexistují finanční instituce.
+  * **Úplný koloběh**:
+    * Doplnit.
 * V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. **Rovnováha** - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. **Nerovnováha** - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = stagflace. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = deflace. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = inflace.
@@ -1850,6 +1859,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Trh individuální** - trh jediného kupujícího
     - Podle typu zboží:
       - **Automobilový**, **počítačový** etc.
+    - Trhy dle ekonomického koloběhu:
+      - Trh zboží a služeb: Je.
+      - Trh kapitálu: Je.
+      - Finanční trhy: Je.
   - **Subjekty trhu** - 3 základní ekonomické subjekty, ty pak vstupují na trh s různými ekonomickými cíly, a to jak na stranně nabídky, tak na stranně poptávky:
     - Souvisí s **ekonomickým koloběhem** - tzn. firmy, domácnosti a stát (+ **zahraničí**).
     - **Firmy**
