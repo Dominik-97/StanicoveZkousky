@@ -1838,21 +1838,40 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
     - **Zákon ekonomie času** - lidé se snaží zvyšovat svojí produktivitu práce.
     - **Teorie potřeb** - každý z nás má jiné potřeby a potřeba je pociťována nedostatkem
+      - Silou, která žene lidi k cílevědomé činnosti, je určitý pocit nedostatku, který se lidi snaží odstranit. Tento pocit = potřeba
       - Je několik členění potřeb, základní je na:
-        - Potřeby hmotné
-        - Potřeby nehmotné - například přátelství, svoboda, kulturní zážitky
-        - Potřeby zbytné
-        - Potřeby nezbytné
-      - Potřeby uspokojujeme pomocí konzumace statků
+        - Potřeby **hmotné**
+        - Potřeby **nehmotné** - například přátelství, svoboda, kulturní zážitky
+        - Potřeby **zbytné**
+        - Potřeby **nezbytné**
+        - **Individuální** a **kolektivní**, individuální jsou všechny potřeby jednotlivce, kolektivními jsou potřeby celku, například tedy obrana státu.
+        - **Vrozené** a **získané**
+      - Potřeby uspokojujeme pomocí konzumace statků, koncept **vzácnosti** zdrojů, které jsou nám subjektivně **užitečné**. Potřeby lidí uspokojují užitečné komodity - statky.
     - **Členíní statků**:
       - Hmotné: věci
+        - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem
+      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas)
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
       - Spotřební - slouží přímo k uspokojování potřeb
       - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
       - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
+    - **Další informace ke statkům**:
+      - Ekonomické statky vznikají jako výsledek (**output**) ekonomických (výrobních, zhodnocovacích, zpracovatelských) procesů.
+      - Podle druhů procesů lze rozlišovat následující **sektory ekonomiky**:
+      - **Třísektorový model**:
+        - **Primární** - průmysl spojený přímo s přírodními zdroji, například těžba surovin
+        - **Sekundární** - zpracovatelský průmysl, spojený se zpracováním **outputů** primárního sektoru
+        - **Terciální** - poskytování služeb všeho druhu
+      - **Pětisektorový model**: ve 20. století se rozhodlo, že by se terciální sektor měl dále rozlišovat na:
+        - **Kvartérní** - věda a výzkum
+        - **Kvintérní** - vědci, odborníci, vládní úředníci - lidé s vysokými pozicemi a širokými pravomocemi
+      - **Rozlišení dle vlastnictví**:
+        - **Veřejný sektor** - vlastněný státem, provozovaný za účelem zajištění nutných služem státem
+        - **Soukromý sektor** - vlastněný soukromníky, provozovaný za účelem dosažení zisku
+        - **Dobrovolný sektor** - neziskový sektor, spojený s občanskou společností
   - ~~Statky~~
     - ~~Doplnit~~
   - **Hranice produkčních možností**
