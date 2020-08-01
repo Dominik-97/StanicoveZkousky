@@ -1720,13 +1720,23 @@ Studuje chování jednotlivců, je to věda o lidském jednání.
 
 Není objektivně měřitelná, je to společenská věda.
 
-Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů**.
+Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití).
 
 Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
 
 Racionální volba: **jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?**
 
-Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
+Ekonomie založila pojem člověka ekonomického (homo oeconomicus) - člověk snažící se chovat racionálně (ekonomicky), tj. Maximalizovat svůj užitek a minimalizovat své úsilí.
+
+Ekonomie se **člení** na:
+
+​	**Makroekonomii** - Studuje ekonomiku jako celek a zabývá se jevy jako nezaměstnanost, inflace a hrubý domácí produkt.
+
+​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy).
+
+**Ekonomie** a **ekonomika**.
+
+Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
 
 **Rozhodování ekonomických subjektů**
 
@@ -1750,11 +1760,12 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
-* Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky.
+* Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky, nejzákladnější ekonomickou otázkou je, jakým způsobem společnost rozděluje vzácné zdroje.
+  * Dalším základním ekonomickým problémem (otázkou) je jak existující zdroje alokovat.
   * Těmito základními ekonomickými, které se týkají nalezení systému, který umožňuje spojovat síly subjektů na trhu a efektivně využívat dostupné zdroje, otázkami jsou:
-    * **Co a kolik** se má ve společnosti vyrábět
+    * **Co a kolik** se má ve společnosti vyrábět a čeho se má společnost vzdát, co se má dovézt ze zahraničí
     * **Jak vyrábět** jakou technologií a s jakými faktory práce (práce, půda, přírodní zdroje, kapitál)
-    * **Jak se rozdělí** to co bylo vyrobeno
+    * **Jak se rozdělí** to co bylo vyrobeno, neboť nelze vyprodukovat dostatek statků pro všechny, rozdělování může probíhat podle různých klíčů (například stranická příslušnost, urozenost, dnes probíhá na základě distribuční funkce peněz, je tedy rozdělováno těm, kteří si to mohou dovolit koupit, tato funkce je trochu narušena vládními zásahy do ekonomiky a přerozdělováním)
 * Základní kategorie jsou:
   * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici. Dělba práce uvnitř relativně malé skupiny, **co a kolik** vyrobit rozhodoval náčelník nebo rada starších na základě zkušeností s předchozími generacemi. Členové skupiny pracovali podle svých schopností ve prospěch všech a podíl na vyrobených statcích a službách byl určen náčelníkem.
   * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
@@ -1869,7 +1880,7 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
         - **Kvartérní** - věda a výzkum
         - **Kvintérní** - vědci, odborníci, vládní úředníci - lidé s vysokými pozicemi a širokými pravomocemi
       - **Rozlišení dle vlastnictví**:
-        - **Veřejný sektor** - vlastněný státem, provozovaný za účelem zajištění nutných služem státem
+        - **Veřejný sektor** - vlastněný státem, provozovaný za účelem zajištění nutných služeb státem
         - **Soukromý sektor** - vlastněný soukromníky, provozovaný za účelem dosažení zisku
         - **Dobrovolný sektor** - neziskový sektor, spojený s občanskou společností
   - ~~Statky~~
