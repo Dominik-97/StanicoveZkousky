@@ -1766,10 +1766,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * V tržní ekonomice svoboná směna a tržní ceny zajišťují soulad mezi prospěchem jednotlivce a společným prospěchem. **Ceny a zisk vedou výrobce k tomu, aby dělali to, co chtějí spotřebitelé**. Přestože výrobcům vůbec nejde o spotřebitele ale o vlastní zisky. (Zákon nabídky a poptávky.)
 * Kvůli neviditelné ruce trhu tak nemusí existovat žádná centrální autorita předávající informace co kdo potřebujeme, díky dělbě práce a neviditelné ruce trhu je zajištěno, že všichni dokážeme spolupracovat a spolufungovat v tržní ekonomice, tak, že na konci veškerých procesů vznikají věci a služby, který každý z nás chce. (Záleží tedy na měnících preferencích spotřebitelů, v měnících se výrobních technologiích, nebo v měnící se vzácnosti různých zdrojů, lidé na tyto změny reagují a přizpůsobují se jim ve smyslu co mají vyrábět a spotřebovávat, kde to mají prodávat a kupovat, do čeho mají investovat.) Tyto informace sedimentují pouze v cenách.
 * **Funkce cen**:
-  * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod.
-  * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více.
-  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností.
-  * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit.
+  * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod. a signalizuje hodnotu, kterou společnost v daném statku vidí i náklady na jeho výrobu ( = jeho relativní vzácnost)
+  * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více. Motivuje tedy výrobce, aby vyráběl více a spotřebitele, aby více spotřebovával.
+  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké.
+  * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit. Zboží získá ten, kdo bude schopný za něj zaplatit nejvíce, tedy ten, kdo z něho bude mít největší užitek a nejefektivněji ho využije. -> **systém aukce** - vede k maximálnímu zhodnocení ekonomických zdrojů. Rovněž odpovídá na otázku v rámci tržně-smíšeného ekonomického modelu **komu** / **jak rozdělit**.
+  * (**Hodnototvorná funkce**): peněžní ocenění hodnoty zboží a služem, osobně tuto funkci považuji za součást funkce informační.
 * Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje zákon jediné ceny. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
 
 **Teoretické modely ekonomických systémů**
@@ -1822,7 +1823,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Nerovnováha** - pokud se nerovnají, jedná se o nerovnováhu, dle toho pak bude výše národního důchodu klesat, nebo stoupat.
   * Více viz. v **distanční opoře na straně 6, nebo [zde](http://www.ius-wiki.eu/tnh/pfuk/tnh/zkouska/otazka-49)**.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = **stagflace**. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = **deflace**. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = **inflace**. - OPRAVIT STAGFALCI
+* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
+* Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
   * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE
   * **Deflace** - 
   * **Stagflace** - 
@@ -1855,8 +1857,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 
 - Trh a jeho funce
-  - Trh jest oblastí ekonomiky, ve které dochází k **výměně činností mezi jednotlivými ekonomickými subjekty prostřednictvím směny zboží**, přičemž prostředek směny bývají standardně peníze.
+  - Trh jest oblastí ekonomiky, ve které dochází k **výměně činností mezi jednotlivými ekonomickými subjekty prostřednictvím směny zboží**, přičemž prostředek směny bývají standardně peníze, vytváří se na něm cena.
   - Jedná se tedy o místo, kde se střetává **nabídka s poptávkou** a kde dochází ke směně zboží a služeb prostřednictvím koupě a prodeje.
+  - V demokratických zemích - tržní systém (smíšený), na kterém existují systém svobodného podnikání a existence soukromého vlastnictví.
+  - **Proč společnost bohatne?**
+    - Kvůli vzniku a rozvoji trhu (dělba práce a specializace umožnila zvýšení produktivity a efektivity práce a vznik nadproduktu). Rovněž kvůli inovacím.
+  - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
+    - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
     - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent.
   - **Členění trhu**
@@ -1889,10 +1896,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Nejdokonalešjí regulátor a stimulátor ekonomického rozvoje.
     - Jeho základní funkcí je **optimální alokace zdrojů**.
     - **Optimální alokací zdrojů** se rozumí takové rozdělení vzácných zdrojů mezi jednotlivé ekonomické subjekty trhu, které umožňují jejich neúččinnější využití s ohledem na potřeby společnosti.
-    - Každý trh musí řešit tři základní otázky:
+    - Každý trh musí řešit tři základní otázky (Tržní (cenový) systém):
       - **Co vyrábět**: ceny a množství se přizpůsobují tak dlouho, dokud nedojde k tržní rovnováze, kdy nedochází ani k tržnímu přebytku, ani k tržnímu nedostatku, tedy dokud nedojde k bodu, kdy se nabídka střetává s poptávkou - viz **teorém pavučiny**
       - **Jak vyrábět**: cena také určuje, jaké se používají výrobní faktory, tedy za kolik se bude vyrábět, v jaké kvalitě a s jakými technologickými postupy
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
+    - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
+    - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
+    - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
   - Ekonomická vzácnost
     - To co nemůžeme mít vždycky a v jakémkoliv množstí je pro nás vzácné, opakem jsou volné statky.
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
