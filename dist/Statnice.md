@@ -1771,7 +1771,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké.
   * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit. Zboží získá ten, kdo bude schopný za něj zaplatit nejvíce, tedy ten, kdo z něho bude mít největší užitek a nejefektivněji ho využije. -> **systém aukce** - vede k maximálnímu zhodnocení ekonomických zdrojů. Rovněž odpovídá na otázku v rámci tržně-smíšeného ekonomického modelu **komu** / **jak rozdělit**.
   * (**Hodnototvorná funkce**): peněžní ocenění hodnoty zboží a služem, osobně tuto funkci považuji za součást funkce informační.
-* Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje zákon jediné ceny. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
+* Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje **zákon jediné ceny**. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
@@ -1881,6 +1881,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Trh zboží a služeb: Je.
       - Trh kapitálu: Je.
       - Finanční trhy: Je.
+    - Obecně lze trhy členit dle:
+      - Subjektů
+      - Charakteru statků
+      - Podmínek na trhu dominujících
+      - Stupně organizovanosti nebo regulace
+      - Teritoriálního určení
+      - Podle otevřenosti a možnosti přístupu
+      - Podle stupně elasticity
+      - A podobně...
   - **Subjekty trhu** - 3 základní ekonomické subjekty, ty pak vstupují na trh s různými ekonomickými cíly, a to jak na stranně nabídky, tak na stranně poptávky:
     - Souvisí s **ekonomickým koloběhem** - tzn. firmy, domácnosti a stát (+ **zahraničí**).
     - **Firmy**
@@ -1903,6 +1912,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
     - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
     - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
+    - Dobrý zdroj je [zde](https://czu.natalya.cz/czufiles/files3/OEI-zk-ustni.pdf).
   - Ekonomická vzácnost
     - To co nemůžeme mít vždycky a v jakémkoliv množstí je pro nás vzácné, opakem jsou volné statky.
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
@@ -1973,12 +1983,17 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
 - Tržní selhání
-  - Selhání trhu má 4 základní typy:
+  - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
+      - **Monopolizace**
+    - **Externality**
       - Doplnit
-    - Externality
-    - Veřejné statky
-    - Nedokonalé informace
+    - **Veřejné statky**
+      - Doplnit
+    - **Nedokonalé informace**
+      - Doplnit
+    - **(Deformací vlivem státních zásahů do cenového mechanismu)**
+      - Doplnit
 - Nabídka a poptávka, její změna a souvislosti
   - Doplnit
 
