@@ -1720,13 +1720,37 @@ Studuje chování jednotlivců, je to věda o lidském jednání.
 
 Není objektivně měřitelná, je to společenská věda.
 
-Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů**.
+Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití).
 
 Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
 
 Racionální volba: **jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?**
 
-Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
+Ekonomie založila pojem člověka ekonomického (homo oeconomicus) - člověk snažící se chovat racionálně (ekonomicky), tj. Maximalizovat svůj užitek a minimalizovat své úsilí.
+
+Ekonomie se **člení** na:
+
+​	**Makroekonomii** - Studuje ekonomiku jako celek a zabývá se jevy jako nezaměstnanost, inflace a hrubý domácí produkt.
+
+​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy) a trhy.
+
+**Ekonomie** a **ekonomika**.
+
+Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
+
+**Další dodatečné informace**, blížeji popsáno pak také v distanční opoře na stranně 4 (například používané metody a tak podobně) [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf):
+
+​	Předmět ekonomie jako vědní disciplíny = **studium**:
+
+​		Vzácnosti (omezenosti) zdrojů (x neomezenosti potřeb)
+
+​		Volby (rozhodování)
+
+​	**Přístupy k ekonomii**
+
+​		**Pozitivní** ekonomie - zkoumá svět takový, jaký je.
+
+​		**Normativní** ekonomie - zkoumá svět takový, jaký by měl dle jejího pohledu být.
 
 **Rozhodování ekonomických subjektů**
 
@@ -1750,16 +1774,19 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
-* Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky.
+* Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky, nejzákladnější ekonomickou otázkou je, jakým způsobem společnost rozděluje vzácné zdroje.
+  * Dalším základním ekonomickým problémem (otázkou) je jak existující zdroje alokovat.
   * Těmito základními ekonomickými, které se týkají nalezení systému, který umožňuje spojovat síly subjektů na trhu a efektivně využívat dostupné zdroje, otázkami jsou:
-    * **Co a kolik** se má ve společnosti vyrábět
+    * **Co a kolik** se má ve společnosti vyrábět a čeho se má společnost vzdát, co se má dovézt ze zahraničí
     * **Jak vyrábět** jakou technologií a s jakými faktory práce (práce, půda, přírodní zdroje, kapitál)
-    * **Jak se rozdělí** to co bylo vyrobeno
+    * **Jak se rozdělí** to co bylo vyrobeno, neboť nelze vyprodukovat dostatek statků pro všechny, rozdělování může probíhat podle různých klíčů (například stranická příslušnost, urozenost, dnes probíhá na základě distribuční funkce peněz, je tedy rozdělováno těm, kteří si to mohou dovolit koupit, tato funkce je trochu narušena vládními zásahy do ekonomiky a přerozdělováním)
 * Základní kategorie jsou:
   * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici. Dělba práce uvnitř relativně malé skupiny, **co a kolik** vyrobit rozhodoval náčelník nebo rada starších na základě zkušeností s předchozími generacemi. Členové skupiny pracovali podle svých schopností ve prospěch všech a podíl na vyrobených statcích a službách byl určen náčelníkem.
   * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
   * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**.
   * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu.
+* Základem ekonomických sytémů je tedy charakter vlastnictví, dělí se podle způsobů jak společnost odpovídá na otázku co-jak-pro-koho.
+* Ve vztahu k ekonomickým proudům se dá řící, že centrálně plánovaná ekonomika vychází například z **Marxismu**, tržní systém vychází z **liberálních směrů**, **klasické politické ekonomie** a soudobé **konzervativní teorie**, současná tržně-smíšená ekonomika vychází z názorů **Keynese** a jeho žáků, německý **ordoliberalismus** a další.
 
 **Ekonomický koloběh**
 
@@ -1838,21 +1865,40 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
     - **Zákon ekonomie času** - lidé se snaží zvyšovat svojí produktivitu práce.
     - **Teorie potřeb** - každý z nás má jiné potřeby a potřeba je pociťována nedostatkem
+      - Silou, která žene lidi k cílevědomé činnosti, je určitý pocit nedostatku, který se lidi snaží odstranit. Tento pocit = potřeba
       - Je několik členění potřeb, základní je na:
-        - Potřeby hmotné
-        - Potřeby nehmotné - například přátelství, svoboda, kulturní zážitky
-        - Potřeby zbytné
-        - Potřeby nezbytné
-      - Potřeby uspokojujeme pomocí konzumace statků
+        - Potřeby **hmotné**
+        - Potřeby **nehmotné** - například přátelství, svoboda, kulturní zážitky
+        - Potřeby **zbytné**
+        - Potřeby **nezbytné**
+        - **Individuální** a **kolektivní**, individuální jsou všechny potřeby jednotlivce, kolektivními jsou potřeby celku, například tedy obrana státu.
+        - **Vrozené** a **získané**
+      - Potřeby uspokojujeme pomocí konzumace statků, koncept **vzácnosti** zdrojů, které jsou nám subjektivně **užitečné**. Potřeby lidí uspokojují užitečné komodity - statky.
     - **Členíní statků**:
       - Hmotné: věci
+        - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem
+      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas)
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
       - Spotřební - slouží přímo k uspokojování potřeb
       - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
       - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
+    - **Další informace ke statkům**:
+      - Ekonomické statky vznikají jako výsledek (**output**) ekonomických (výrobních, zhodnocovacích, zpracovatelských) procesů.
+      - Podle druhů procesů lze rozlišovat následující **sektory ekonomiky**:
+      - **Třísektorový model**:
+        - **Primární** - průmysl spojený přímo s přírodními zdroji, například těžba surovin
+        - **Sekundární** - zpracovatelský průmysl, spojený se zpracováním **outputů** primárního sektoru
+        - **Terciální** - poskytování služeb všeho druhu
+      - **Pětisektorový model**: ve 20. století se rozhodlo, že by se terciální sektor měl dále rozlišovat na:
+        - **Kvartérní** - věda a výzkum
+        - **Kvintérní** - vědci, odborníci, vládní úředníci - lidé s vysokými pozicemi a širokými pravomocemi
+      - **Rozlišení dle vlastnictví**:
+        - **Veřejný sektor** - vlastněný státem, provozovaný za účelem zajištění nutných služeb státem
+        - **Soukromý sektor** - vlastněný soukromníky, provozovaný za účelem dosažení zisku
+        - **Dobrovolný sektor** - neziskový sektor, spojený s občanskou společností
   - ~~Statky~~
     - ~~Doplnit~~
   - **Hranice produkčních možností**
