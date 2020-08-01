@@ -1732,11 +1732,25 @@ Ekonomie se **člení** na:
 
 ​	**Makroekonomii** - Studuje ekonomiku jako celek a zabývá se jevy jako nezaměstnanost, inflace a hrubý domácí produkt.
 
-​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy).
+​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy) a trhy.
 
 **Ekonomie** a **ekonomika**.
 
 Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
+
+**Další dodatečné informace**, blížeji popsáno pak také v distanční opoře na stranně 4 (například používané metody a tak podobně) [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf):
+
+​	Předmět ekonomie jako vědní disciplíny = **studium**:
+
+​		Vzácnosti (omezenosti) zdrojů (x neomezenosti potřeb)
+
+​		Volby (rozhodování)
+
+​	**Přístupy k ekonomii**
+
+​		**Pozitivní** ekonomie - zkoumá svět takový, jaký je.
+
+​		**Normativní** ekonomie - zkoumá svět takový, jaký by měl dle jejího pohledu být.
 
 **Rozhodování ekonomických subjektů**
 
@@ -1771,6 +1785,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
   * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**.
   * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu.
+* Základem ekonomických sytémů je tedy charakter vlastnictví, dělí se podle způsobů jak společnost odpovídá na otázku co-jak-pro-koho.
+* Ve vztahu k ekonomickým proudům se dá řící, že centrálně plánovaná ekonomika vychází například z **Marxismu**, tržní systém vychází z **liberálních směrů**, **klasické politické ekonomie** a soudobé **konzervativní teorie**, současná tržně-smíšená ekonomika vychází z názorů **Keynese** a jeho žáků, německý **ordoliberalismus** a další.
 
 **Ekonomický koloběh**
 
