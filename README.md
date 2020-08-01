@@ -42,7 +42,8 @@ Be advised that the script is tested on MacOS only, so there is no way I can ens
 
 ## Tree
 
-.
+```plaintext
+.<br>
 ├── Information.md
 ├── Otazky
 │   ├── Bc_EKONOMIE A PODNIKOVÉ FINANCE.pdf
@@ -76,3 +77,4 @@ Be advised that the script is tested on MacOS only, so there is no way I can ens
 └── timeManagement
     ├── Gantt.twb
     └── Gantt.xlsx
+```
