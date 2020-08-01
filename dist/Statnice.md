@@ -1813,10 +1813,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Jednoduchý koloběh**:
     * Firmy a domácnosti v rovném postavení, zisky z trhu zboží a služeb jdou přímo firmám, zisky z výrobních faktorů přímo domácnostem, neexistence státu a zahraničí (dvousektor, který je uzavřenou ekonomikou), neexistují finanční instituce.
   * **Úplný koloběh**:
-    * Doplnit.
+    * Realističtější model, zahrnuje i třetí a čtvrtý sektor. Předpokládá, že domácnosti mohou svůj důchod buď utratit, nebo i uspořit. Obsahuje finanční společnosti, u kterých domácnosti spoří, ty naspořené prostředky půjčují firmám na rozšiřování a inovace, mohou tedy rozšířit svoji výrobu (přispívá k ekonomickému růstu a bohatnutí společnosti).
+    * Stát pak odčerpává nějaké prostředky z finančních toků v podobě daní a ostatních ze zákona povinných plateb, poukazuje domácnostem **transferové platby** a firmám **dotace**.
+      * **Transferová platba**: jest platbou neekvivalentní, tzn. stát za ni neočekává žádné odpovídající plnění, jedná se tak například o sociální dávky, důchody a tak podobně, většinou se jedná o takzvané **mandatorní výdaje**.
+    * Zahrnuje rovněž zahraničí (uvažujeme obchodní bilanci), tzn. toky kapitálu ze zahraničí a toky kapitálu do zahraničí.
 * V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. **Rovnováha** - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. **Nerovnováha** - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
+  * **Rovnováha** - při rovnosti toho co domácnosti utratí a firmy prodají, tedy toho co firmy utratí za výrobní faktory a prodají za zboží a pokud se úspory domácností rovnají investicím firem v **jednoduchém** koloběhu. V **úplném** koloběhu pokud se souhrn investic, státních výdajů na spotřebu zboží a služeb, vývozu zboží a služeb a dovozu kapitálu bude rovnat souhrnu úspor domácností, daňových příjmů státu, dovozu zboží a vývozu kapitálu.
+  * **Nerovnováha** - pokud se nerovnají, jedná se o nerovnováhu, dle toho pak bude výše národního důchodu klesat, nebo stoupat.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = stagflace. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = deflace. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = inflace.
+* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = **stagflace**. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = **deflace**. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = **inflace**.
 
 ----
 :::
