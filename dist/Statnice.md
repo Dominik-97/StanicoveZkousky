@@ -1987,11 +1987,22 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Nedokonalá konkurence
       - **Monopolizace**
     - **Externality**
-      - Doplnit
+      - V situaci, když nejsou vlastníci ekonomických zdrojů vybaveni zákonnou autoritou k jejich ochranně a využití; trh tyto zdroje nedokáže efektivně využívat; nebo když nejsou vlastnická práva k určitým zdrojům dostatečně jasně vymezena a definována.
     - **Veřejné statky**
       - Doplnit
     - **Nedokonalé informace**
-      - Doplnit
+      - Asymetrické informace u jednotlivých ekonomických subjektů.
+      - Řešení je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
+      - Dalším řešením je zákonná ochrana slabšího, respektive slabší strany, (zákon o ochraně spotřebitele, záruční doba, možnost vrátit výrobek).
+      - Povinná informovanost se uplatňuje i na jiných trzích (například povinnost uvádět složení).
+      - Nedokonalá informovanost může vést například k úspěšnému prodeji nekvalitního zboží nebo služeb kvůli lživému popisu, nebo zamlčení důležitých informací.
+      - Značně souvisí s **hospodářskou soutěží** a její ochranou.
+      - Vzniká ze dvou důvodů:
+        - **Utajená činnost** - nepozorovatelnost nákladů ostatních subjektů
+        - **Utajené informace** - jedna strana trhu má více odborných znalostí nebo informací než druhá
+      - Může vyůstit do **degenerace trhu** ve smyslu:
+        - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
+        - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
       - Doplnit
 - Nabídka a poptávka, její změna a souvislosti
