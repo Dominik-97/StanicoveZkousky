@@ -1821,7 +1821,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Rovnováha** - při rovnosti toho co domácnosti utratí a firmy prodají, tedy toho co firmy utratí za výrobní faktory a prodají za zboží a pokud se úspory domácností rovnají investicím firem v **jednoduchém** koloběhu. V **úplném** koloběhu pokud se souhrn investic, státních výdajů na spotřebu zboží a služeb, vývozu zboží a služeb a dovozu kapitálu bude rovnat souhrnu úspor domácností, daňových příjmů státu, dovozu zboží a vývozu kapitálu.
   * **Nerovnováha** - pokud se nerovnají, jedná se o nerovnováhu, dle toho pak bude výše národního důchodu klesat, nebo stoupat.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = **stagflace**. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = **deflace**. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = **inflace**.
+* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = **stagflace**. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = **deflace**. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = **inflace**. - OPRAVIT STAGFALCI
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE
+  * **Deflace** - 
+  * **Stagflace** - 
+* **Vytváření peněz**
+  * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka.
 
 ----
 :::
