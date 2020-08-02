@@ -1825,7 +1825,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není
   * **Deflace** - 
   * **Stagflace** - 
 * **Vytváření peněz**
@@ -2348,6 +2348,26 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
+- **Makroekonomii** lze definovat jako součást ekonomie, která studuje chování národního hospodářství jako celku.
+  - Makroekonomie se zabývá zkoumáním celkové úrovně produkce či makroekonomického výstupu, zaměstnanosti či nezaměstnanosti, vývoje cenové hladiny a zahraničně-ekonomickými vztahy země.
+  - Makroekonomie odráží vývoj ekonomiky prostřednictvím veličin, které jsou označovány jako **MAKROEKONOMICKÉ AGREGÁTY**
+    - V **jednoduchém ekonomickém modelu, respektive koloběhu** se dvěma subjekty (firmy a domácnosti) platí, že vytvořený produkt (**Y**) je součtem spotřeby domácností a jejich úspor.
+    - Platí že **Y = C + S**, kde **C** je consumpiton = spotřeba a **S** je savings = úspory
+    - Doplnit
+  - HDP
+    - Doplnit
+  - HNP
+    - Doplnit
+  - Investice
+    - Doplnit
+  - Spotřeba
+    - Doplnit
+  - Měření výkonnosti
+    - Doplnit
+- Faktory ekonomického růstu
+  - Doplnit
 
 ----
 :::
