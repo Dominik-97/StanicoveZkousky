@@ -2337,6 +2337,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
+  - [ ] HDP
+  - [ ] HNP
+  - [ ] Investice
+  - [ ] Spotřeba
+  - [ ] Měření výkonnosti
+- [ ] Faktory ekonomického růstu
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
