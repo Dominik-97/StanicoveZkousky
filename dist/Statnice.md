@@ -1985,14 +1985,19 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
-      - **Monopolizace**
+      - **Monopolizace**, popřípadě oligopol, monopson a tak dále.
+        - Na takovémto trhu jsou větší ceny než na trhu volné konkurence.
+        - Ceny nejsou stanoveny tržně, není tlak na inovace, zkvalitňování, o všem rozhoduje jeden, nebo skupina, subjektů.
+        - **Řešení**: vhodná veřejná politika, tedy například vhodné antitrustové zákony - zákaz praktik omezujících konkurenci
+          - V případě **přirozených monopolů** - státní regulace cen, případně i jejich služeb může být v praxi také obtížná -> vyžaduje, aby státní orgány zjišťovaly skutečné náklady přirozeného monopolu (dochází pak k jejich nadsazování); ale tato forma je nejčastější - provádí je nezávislé regulační orgány
+          - **Soukromé řešení**: co nejmenší státní zásahy, řešení nechat na soukromé iniciativě při ochraně práv a náhrady škody.
     - **Externality**
       - V situaci, když nejsou vlastníci ekonomických zdrojů vybaveni zákonnou autoritou k jejich ochranně a využití; trh tyto zdroje nedokáže efektivně využívat; nebo když nejsou vlastnická práva k určitým zdrojům dostatečně jasně vymezena a definována.
     - **Veřejné statky**
       - Doplnit
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
-      - Řešení je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
+      - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
       - Dalším řešením je zákonná ochrana slabšího, respektive slabší strany, (zákon o ochraně spotřebitele, záruční doba, možnost vrátit výrobek).
       - Povinná informovanost se uplatňuje i na jiných trzích (například povinnost uvádět složení).
       - Nedokonalá informovanost může vést například k úspěšnému prodeji nekvalitního zboží nebo služeb kvůli lživému popisu, nebo zamlčení důležitých informací.
@@ -2004,7 +2009,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
         - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
-      - Doplnit
+      - Nejčastěji z důvodu zdanění a přímé regulace cen.
+      - Negativní důsledky cenové regulace:
+        - Vytváří alternativní distribuční mechanismy (známosti, štěstí)
+        - Vysílá falešné signály investorům o potřebě zdrojů v různých oblastech ekonomiky
+        - **Řešení**: (Úloha státu) -> zkvalitnit rozhodování státu (veřejné zakázky)
+          - **Soukromé řešení**: co nejnižší zdanění a státní zásahy, vše ponechat na soukromé iniciativě (problém, že to musí chtít většina voličů)
 - Nabídka a poptávka, její změna a souvislosti
   - Doplnit
 
