@@ -2366,6 +2366,22 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Tento efekt převládá při **vysokých mzdách**.
     - Podle toho, který efekt převládá, tak bude člověk nabízet **více**, nebo **méně** práce.
     - Graf nabídky práce má tak podobu velkého **U** převráceného o 90 stupňů směrem do prava.
+  - **Nominální a reálné zvyšování mzdy**:
+    - Každé zvýšení mzdy nevede nutně k zvýšení nabízeného množství práce
+    - **Nominální zvýšení** znamená zvýšení odměny o nějakou hodnotu, to však nutně nemusí znamenat, že si o tuto hodnotu může zaměstnanec koupit více statků, neboť o stejnou hodnotu se může zvýšit cena spotřebitelského koše, který zaměstnanec kupuje, jedná se tedy o inflaci, pokud je stejná jako nominální zvýšní mzdy, nejedná se o **reálné zvýšení mzdy**.
+    - **O reálné zvýšení mzdy** se jedná v případě, že si zaměstnanec při zvýšení o 10% koupí alespoň o 10 + Y% více statků.
+    - V případě **nominálního zvýšení** tak zaměstnanec nebude nabízet více práce, v případě **reálného zvýšení** může nabízet více práce.
+    - Z tohoto plyne, že **funkce nabídky práce vyjadřuje závislost nabízené práce na reálné mzdě**.
+    - **Poptávka po práci rovněž závisí na reálné mzdě**, pokud by se ceny zvýšily více, než mzdové náklady, byly by firmy ochotny zaměstnávat více lidí, respektive práce.
+    - **Reálné zvýšení mezd zjistíme, když index nominálních mezd dělíme indexem cen spotřebních statků**.
+      - Tedy například pokud mzdy rostly o 30% a spotřebitelské ceny o 25%, tak je reálné zvýšení mezd = 1,30 / 1,25 = 1,04, což znamená, že reálné mzdy rostly o 4 procenta.
+  - **Trh práce jako takový**
+    - Trh práce existuje jak ve vztahu k jedné profesi, tak i obecně.
+    - Obecně si lze představit jak nabídku práce, tak i poptávku práce, v obou případech je možné přijmout lidi a zaškolit je nebo rekvalifikovat je na pozici, kterou firma potřebuje, to samé může udělat i člověk sám, může se tedy rekvalifikovat a hledat práci v novém oboru.
+    - Kvůli přelevání lidí z trhu jedné profese do trhů druhé profese je možné v dlouhém období abstrahovat od odlišností jednotlivých profesí a představit si práci obecně.
+    - Na trhu práce existuje rovněž **konkurence** na straně nabídky, i na straně poptávky.
+    - **Tržní nabídka práce** je součtem individuálních nabídek prácea vyplývá z rozhodování jednotlivých lidí vyrovnávajících mezní užitek **reálné mzdy** s mezním užitkem **volného času**.
+    - **Tržní poptávka price** je součtem individuálních poptávek práce a vyplývá z rozhodování firem vyrovnávajících **mzdu** s mezním **produktem práce**.
 
 ----
 :::
@@ -2387,6 +2403,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - [ ] Investice
   - [ ] Spotřeba
   - [ ] Měření výkonnosti
+  - [ ] Stanovování inflace
 - [ ] Faktory ekonomického růstu
 
 \|------------------------------\| <br>
@@ -2410,6 +2427,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Doplnit
   - Měření výkonnosti
     - Doplnit
+  - Stanovování inflace
+    - Spotřební koš, index spotřebitelských cen
 - Faktory ekonomického růstu
   - Doplnit
 
