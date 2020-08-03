@@ -1831,6 +1831,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Vytváření peněz**
   * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
+* Jak bohatne země, ekonomika, jak probíhá hospodářský růst
+  * Viz otázka hospodářský růst
 
 ----
 :::
@@ -1936,7 +1938,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Hmotné: věci
         - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statky
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statkya
       - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas), často se jedná o výsledky lidské činnosti
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
@@ -2348,7 +2350,22 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Práce člověku přináší **plat** nebo **mzdu**, či jinou **finanční odměnu**, nepráce člověku přináší **volný čas**, z pohledu člověka se tak jedná o porovnání dvou možností, zda pracovat, nebo nepracovat, rozhoduje se podle toho, co mu přináší větší **užitek**, podle tohoto se i rozhoduje kolik času práci věnuje a kolik již ne.
   - Stejně jako u spotřeby jiného statku platí **zákon klesajícího mezního užitku**, mezní užitek z každé další hodiny práce tak pro zaměstnance **klesá**, respektive **klesá mezní užitek**, který má člověk z **odměny** za práci, neboť je touto odměnou stále více **nasycenější**.
   - Člověk má rovněž mezní užitek z každé hodiny volného času, ten je ovšem také **klesající**, pokud se tedy člověk rozhodne pracovat, **obětuje mezní užitek svého volného času**, jedná se tedy o jakési **náklady obětované příležitosti**.
-  - Dokud je **mezní užitek, který zaměstnanec obětuje menší** než
+  - Dokud je **mezní užitek, který zaměstnanec obětuje menší** než **mezní užitek, který zaměstnanec získá prací** bude ochoten pracovat.
+  - Mezní užitek z práce lze zvyšovat mnoha faktory (například motivací, pracovním prostředím a tak podobně), pro ekonomi je zásadní změna mezního užitku při **změně odměny za práci**.
+  - Při zvýšení **odměny za práci** se zvýší mezní užitek za každou další vykonanou hodinu práce a člověk tak **bude chtít více pracovat**.
+  - Mezní užitek se měří v penězích.
+  - Čas lze v podstatě považovat jako **statek** peníze lze rovněž považovat za **zvláštní druh statku**, který vyjadřuje hodnotu jiných statků, za které je směňován, ve své podstatě nabývá rozhodování člověka zda má, nebo nemá pracovat podobu **spotřebitelského rozhodování** jaký statek zvolit.
+  - Z důvodu, že se mezní užitek měří v penězích, je potřeba mezní užitek statku čas vyjádřit v peněžní hodnotě v rámci kardinalistické teorie, obecně se dá říci, že **cenou volného času je mzda**, kterou by člověk získal, pokud by se volného času vzdal.
+  - **Jak působí mzda na nabízené množství práce**:
+    - Působí zde dva protikladné efekty:
+    - **Substituční efekt**: poněvadž je mzda cenou volného času, tak když se mzda zvýší, tak se i zdraží volný čas, lidé pak budou chtít mít méně volného času a budou jej **substituovat** jiným statkem, v tomto případě budou chtít **substituovat** volný čas **větším množstvím práce**.
+      - Jiank se tomuto efektu říká: **substituční efekt zvýšení mzdy** = růst mzdy motivuje člověka k tomu, aby si kupoval méně volného času, tedy aby nabízel více práce.
+      - Tento efekt převládá při **nízkých mzdách**.
+    - **Důchodový efekt**: mzda ale není jen cenou volného času, je i **důchodem**, při zvýšení mzdy tak budou lidi bohatší. Když jsou lidé bohatší, tak **si kupují více statků, včetně volného času**.
+      - Jinak se tomuto efektu říká: **důchodový efekt zvýšení mzdy** = růst mzdy motivuje člověka k tomu, aby si kupoval také více volného času, tedy aby nabízel méně práce.
+      - Tento efekt převládá při **vysokých mzdách**.
+    - Podle toho, který efekt převládá, tak bude člověk nabízet **více**, nebo **méně** práce.
+    - Graf nabídky práce má tak podobu velkého **U** převráceného o 90 stupňů směrem do prava.
 
 ----
 :::
