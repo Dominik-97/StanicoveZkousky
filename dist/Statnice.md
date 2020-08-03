@@ -1825,7 +1825,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není, rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala.
   * **Deflace** - 
   * **Stagflace** - (past na likviditu)
 * **Vytváření peněz**
@@ -2420,7 +2420,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Svědčí o tom, že část nezaměstnanosti má skutečně **cyklickou povahu**.
       - Ukazuje korelaci mezi mírou nezaměstnanosti a růstem hrubého domácího produktu, ukazuje, že pří růstu nezaměstnanosti nad její přirozenou míru úměrně klesá hrubý domácí produkt oproti **potenciálnímu domácímu produktu**, jinak taky vztah mezi růstem HDP a poklesem míry nezaměstnan, o každé procento o které se zvýší HDP nad potenciální produkt se sníží o polovinu míra nezaměstnanosti nad úrovní přirozené míry nezaměstnanosti - pokud se tedy HDP zvýší o 3%, sníží se nezaměstnanost o 1,5%.
     - **Phillipsova křivka**:
-      - Doplnit
+      - Původně ukazovala souvislost mezi mzdovou inflací (růstem nominálních mezd) a mírou nezaměstnanosti.
+      - **Když je malá nezaměstnanost, rostou mzdy rychleji, když je velká nezaměstnanost, může docházet i ke snižování nominálních mezd.**
+      - Toto se děje kvůli tomu, že když je malá nezaměstnanost, konkurují si **cenově** zaměstnavatelé a když je velká nezaměstnanost, tak si konkurují **cenově** zaměstnanci.
+      - **Proč však rostou mzdy, když je nějaká nezaměstnanost** - vždy existuje přirozená míra nezaměstnanosti, míra nezaměstnanosti jinými slovy nikdy nemůže být nulová, i v případě, že je hodně nízká tak zaměstnavatelé pociťují nedostatek pracovní síly na trhu, pokud by nezaměstnanost byla nulová, nedostatek pracovní síly by vedl k prudkému růstu mezd.
+      - Phillipsova křivka byla později upravena, v rámci vztahu mezi ročním růstem mezd a mírou nezaměstnanosti, jež má podobu klesající křivky (podobně jako poptávka), byl nahrazen roční růst mezd ročním růstem cen, tedy **inflací**.
     - **Dobrovolná a nedobrovolná nezaměstnanost**:
       - **Dobrovolná nezaměstnanost** - je taková nezaměstnanost, kdy nezaměstnaný hledá práci, ovšem za vyšší mzdu, než která na trhu práce převládá, proto má také obtíže si práci najít.
       - Dobrovolnost nespočívá v tom, že by lidé byli dobrovolně nezaměstnaní, ale zkrátka v tom, že hledají práci s vyšší odměnou, než kterou jim trh nabízí.
