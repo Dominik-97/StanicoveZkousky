@@ -2331,14 +2331,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Trh práce
-  - [ ] Nabídka práce
+- [x] Trh práce
+  - [x] Nabídka práce
 - [ ] Nezaměstnanost
   - [ ] Pojem
   - [ ] Měření
   - [ ] Druhy
 - [ ] Vztah vývoje ekonomiky a nezaměstnanosti
-  - [ ] Okunův zákon
+  - [x] Okunův zákon
   - [ ] Phillipsova křivka
 
 \|------------------------------\| <br>
@@ -2412,8 +2412,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Frikční** - nezaměstnanost vznikající při změně zaměstnání, je dočasná
       - **Strukturální** - ke strukturální nezaměstnanosti dochází v důsledku strukturálních změn v ekonomice, kdy se některá odvětví zmenšují a jiná zvětšují, lidé tak přecházejí z jednoho odvětví do druhého odvětví a v mezidobí jsou nezaměstnaní, v takovémto případě se jedná o strukturální nezaměstnanost, tyto strukturální změny znamenájí, že klesá poptávka po určitých odvětvích, ale po jiných se zvyšuje, zaměstnanci se tak při přechodu musejí **rekvalifikovat**, strukturální nezaměstnanost obvykle **trvá déle** než například frikční nezaměstnanost, je absolutně přirozená, stejně tak jako frikční nezaměstnanost.
       - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru.
-      - **Sezónní**
-    - Doplnita
+      - **Sezónní** - přechodná nezaměstnanost, která nástává například u sezónních pracovníků v zemědělství v důsledku výkyvů počasí, ročních období a podobně.
+    - Míra nezaměstnanosti záleží na hospodářském cyklu, respektive na tempu růstu ekonomiky, **v konjunktuře je výše nezaměstnanosti niží, v období ekonomické recese, nebo stagnace je míra nezaměstnanosti vyšší**.
+    - **Okunův zákon:**
+      - Říká, že **když domácí produkt roste rychleji, míra nezaměstnanosti klesá, a když naopak domácí produkt roste pomalu, nebo klesá, míra nezaměstnanosti se zvyšuje.**
+      - Svědčí o tom, že část nezaměstnanosti má skutečně **cyklickou povahu**.
+    - **Dobrovolná a nedobrovolná nezaměstnanost**:
+      - **Dobrovolná nezaměstnanost** - je taková nezaměstnanost, kdy nezaměstnaný hledá práci, ovšem za vyšší mzdu, než která na trhu práce převládá, proto má také obtíže si práci najít.
+      - Dobrovolnost nespočívá v tom, že by lidé byli dobrovolně nezaměstnaní, ale zkrátka v tom, že hledají práci s vyšší odměnou, než kterou jim trh nabízí.
+      - **Za nedobrovolnou nezaměstnost** je považována situace, kdy zaměstnanci hledají práci za takovou odměnu, kterou jim nabízí trh práce, ale nemohou ji najít.
 
 ----
 :::
