@@ -2394,11 +2394,26 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Změna rovnováhy na trhu práce ze strany poptávky**:
       - Ke změně rovnováhy na trhu práce dochází při **přílivu zahraničního kapitálu**
       - Například v České republice jsou nižší reálné mzdy než v Německu, to může kvůli levnější práci přilákat investice z Německa, Němci investující kapitál v České republice zvyšují **kapitálovou vybavenost**, ta ve svém důsledku zvyšuje poptávku po práci a tedy i reálnou mzdu a zaměstnanost.
-      - Toto zapříčiní odliv kapitálu z Německa, to vede k poklesu poptávky po práci a tedy **zaměstnanosti** a výši **reálné mzdy**, ta však standardně nebude klesat nominálně, pouze její nominální růst bude **nižší**, než růst **spotřebitelských cen** a reálné mzdy v Německu se tak budou snižovat.
+      - Toto zapříčiní odliv kapitálu z Německa, to vede k poklesu poptávky po práci a tedy **zaměstnanosti** a výši **reálné mzdy**, ta však standardně nebude klesat nominálně, pouze její nominální růst bude **nižší**, než růst **spotřebitelských cen** a reálné mzdy v Německu se tak budou snižovat, i kvůli tomuto je **cílená inflace** důležitá.
       - Investoři pochopitelně neinvestují v levnějších zemích kvůli tomu, aby zvýšili tamním občanům reálné mzdy, ale kvůli tomu, že výroba v levnějších zemích jim **sníží náklady a v souvislosti s tím jim umožní dosahovat většího zisku**.
       - **Změna poptávky na trhu práce mění reálnou mzdu i zaměstnanost stejným směrem, tedy růst poptávky po práci zvyšuje reálnou mzdu a zaměstnanost a naopak.**
     - **Změna rovnováhy na trhu práce ze strany nabídky**
       - **Pokles nabídky práce snižuje zaměstnanost a zvyšuje reálnou mzdu, růst nabídky práce by naopak zvýšil zaměstnanost a snížil reálnou mzdu**.
+- Nezaměstnanost
+  - Na trhu práce se vyskytuje **nezaměstnanost**, tu měříme pomocí ukazatele **míry nezaměstnanosti**: u = U / (L + U), kde u je míra nezaměstnanosti (vyjádřena v %), U je počet nezaměstnaných a L je počet zaměstnaných.
+  - **Koho považovat za nezaměstnaného?**
+    - Například studenti a důchodni nejsou považování za nezaměstnané, ale pouze za **ekonomicky neaktivní**.
+    - **Za nezaměstnaného je považován ten, kdo nemá práci a nějakou si hledá.**
+    - Hledání práce je důležitým faktorem, který musí být splněn, aby se dal daný člověk považovat za nezaměstnaného, pokud by byl daný člověk nezaměstnaný a ani by si práci nehledal, není považován za nezaměstnaného.
+  - Jak poznat, že si někdo práci hledá nebo nehledá?
+  - Prakticky se míra nezaměstnanosti zjišťuje tak, že se mezi nezaměstnané zařadí lidé, kteří se hlásí na úřadech práce - **registrovaná nezaměstnanost**, né všichni se ale musí nutně hlásit na úřadech práce a přesto si práci hledají - **skutečná nezaměstnanost**, **skutečná nezaměstnanost** je tak vždy logicky vyšší než **registrovaná nezaměstnanost**.
+  - **Typy nezaměstnanosti**:
+    - Existují 4 typy nezaměstnanosti:
+      - **Frikční**
+      - **Strukturální**
+      - **Cyklická**
+      - **Sezónní**
+    - Doplnit
 
 ----
 :::
