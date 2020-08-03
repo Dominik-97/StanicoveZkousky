@@ -1716,7 +1716,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 **Ekonomie**
 
-Studuje chování jednotlivců, je to věda o lidském jednání.
+Studuje chování jednotlivců, je to věda o lidském jednání, respektive o rozhodování ekonomických subjektů v různých ekonomických situacích, předmětem zkoumání je **ekonomika**.
 
 Není objektivně měřitelná, je to společenská věda.
 
@@ -1732,9 +1732,9 @@ Ekonomie se **člení** na:
 
 ​	**Makroekonomii** - Studuje ekonomiku jako celek a zabývá se jevy jako nezaměstnanost, inflace a hrubý domácí produkt.
 
-​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy) a trhy.
+​	**Mikroekonomii** - Zkoumá chování jednotlivých ekonomických subjektů spotřebitelé (domácnosti) a podniky (firmy) a trhy a jejich vztahy, tedy například **rozhodování lidí při uspokojování různých potřeb**, **chování firem**.
 
-**Ekonomie** a **ekonomika**.
+**Ekonomie** (věda) a **ekonomika **(souhrn hospodářských činností ekonomických subjektů, které tyto subjekty vykonávají za účelem uspokojení svých potřeb).
 
 Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
 
@@ -2335,10 +2335,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 
 - **Trh práce**, **nabídka práce**, **poptávka po práci**
-- Jedná se o rozhodování, zda **pracovat**, nebo **nepracovat** - práci nabízejí zaměstnanci, a zaměstnavatelé jí poptávají jako **výrobní faktor**.
-- Práce člověku přináší **plat** nebo **mzdu**, či jinou **finanční odměnu**, nepráce člověku přináší **volný čas**, z pohledu člověka se tak jedná o porovnání dvou možností, zda pracovat, nebo nepracovat, rozhoduje se podle toho, co mu přináší větší **užitek**, podle tohoto se i rozhoduje kolik času práci věnuje a kolik již ne.
-- Stejně jako u spotřeby jiného statku platí **zákon klesajícího mezního užitku**, mezní užitek z každé další hodiny práce tak pro zaměstnance **klesá**, respektive **klesá mezní užitek**, který má člověk z **odměny** za práci, neboť je touto odměnou stále více **nasycenější**.
-- Člověk má rovněž mezní užitek z každé hodiny volného času, ten je ovšem také **klesající**, pokud se tedy člověk rozhodne pracovat, **obětuje mezní užitek svého volného času**, jedná se tedy o jakési **náklady obětované příležitosti**.
+  - Jedná se o rozhodování, zda **pracovat**, nebo **nepracovat** - práci nabízejí zaměstnanci, a zaměstnavatelé jí poptávají jako **výrobní faktor**.
+  - Práce člověku přináší **plat** nebo **mzdu**, či jinou **finanční odměnu**, nepráce člověku přináší **volný čas**, z pohledu člověka se tak jedná o porovnání dvou možností, zda pracovat, nebo nepracovat, rozhoduje se podle toho, co mu přináší větší **užitek**, podle tohoto se i rozhoduje kolik času práci věnuje a kolik již ne.
+  - Stejně jako u spotřeby jiného statku platí **zákon klesajícího mezního užitku**, mezní užitek z každé další hodiny práce tak pro zaměstnance **klesá**, respektive **klesá mezní užitek**, který má člověk z **odměny** za práci, neboť je touto odměnou stále více **nasycenější**.
+  - Člověk má rovněž mezní užitek z každé hodiny volného času, ten je ovšem také **klesající**, pokud se tedy člověk rozhodne pracovat, **obětuje mezní užitek svého volného času**, jedná se tedy o jakési **náklady obětované příležitosti**.
+  - Dokud je **mezní užitek, který zaměstnanec obětuje menší** než
 
 ----
 :::
