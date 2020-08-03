@@ -2418,6 +2418,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Okunův zákon:**
       - Říká, že **když domácí produkt roste rychleji, míra nezaměstnanosti klesá, a když naopak domácí produkt roste pomalu, nebo klesá, míra nezaměstnanosti se zvyšuje.**
       - Svědčí o tom, že část nezaměstnanosti má skutečně **cyklickou povahu**.
+      - Ukazuje korelaci mezi mírou nezaměstnanosti a růstem hrubého domácího produktu, ukazuje, že pří růstu nezaměstnanosti nad její přirozenou míru úměrně klesá hrubý domácí produkt oproti **potenciálnímu domácímu produktu**, jinak taky vztah mezi růstem HDP a poklesem míry nezaměstnan, o každé procento o které se zvýší HDP nad potenciální produkt se sníží o polovinu míra nezaměstnanosti nad úrovní přirozené míry nezaměstnanosti - pokud se tedy HDP zvýší o 3%, sníží se nezaměstnanost o 1,5%.
     - **Phillipsova křivka**:
       - Doplnit
     - **Dobrovolná a nedobrovolná nezaměstnanost**:
