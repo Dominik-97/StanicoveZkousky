@@ -1825,7 +1825,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není, rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala.
   * **Deflace** - 
   * **Stagflace** - (past na likviditu)
 * **Vytváření peněz**
@@ -2333,10 +2333,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - [x] Trh práce
   - [x] Nabídka práce
-- [ ] Nezaměstnanost
-  - [ ] Pojem
-  - [ ] Měření
-  - [ ] Druhy
+- [x] Nezaměstnanost
+  - [x] Pojem
+  - [x] Měření
+  - [x] Druhy
 - [ ] Vztah vývoje ekonomiky a nezaměstnanosti
   - [x] Okunův zákon
   - [ ] Phillipsova křivka
@@ -2411,16 +2411,47 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Existují 4 typy nezaměstnanosti:
       - **Frikční** - nezaměstnanost vznikající při změně zaměstnání, je dočasná
       - **Strukturální** - ke strukturální nezaměstnanosti dochází v důsledku strukturálních změn v ekonomice, kdy se některá odvětví zmenšují a jiná zvětšují, lidé tak přecházejí z jednoho odvětví do druhého odvětví a v mezidobí jsou nezaměstnaní, v takovémto případě se jedná o strukturální nezaměstnanost, tyto strukturální změny znamenájí, že klesá poptávka po určitých odvětvích, ale po jiných se zvyšuje, zaměstnanci se tak při přechodu musejí **rekvalifikovat**, strukturální nezaměstnanost obvykle **trvá déle** než například frikční nezaměstnanost, je absolutně přirozená, stejně tak jako frikční nezaměstnanost.
-      - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru.
+      - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru, **cyklická nezaměstnanost může mít dlouhodobý charakter**.
       - **Sezónní** - přechodná nezaměstnanost, která nástává například u sezónních pracovníků v zemědělství v důsledku výkyvů počasí, ročních období a podobně.
+      - **Přirozená míra nezaměstnanosti** - skládá se z frikční a strukturální nezaměsnanosti, jedná se o míru nezaměstnanosti, ke které ekonomika dlouhodobě směřuje, jedná se o přirozenou míru nezaměstnanosti související s **potenciálním produktem** (**potenciální produkt**  -maximální udržitelný výkon ekonomiky za optimálního využití výrobních zdrojů).
     - Míra nezaměstnanosti záleží na hospodářském cyklu, respektive na tempu růstu ekonomiky, **v konjunktuře je výše nezaměstnanosti niží, v období ekonomické recese, nebo stagnace je míra nezaměstnanosti vyšší**.
     - **Okunův zákon:**
       - Říká, že **když domácí produkt roste rychleji, míra nezaměstnanosti klesá, a když naopak domácí produkt roste pomalu, nebo klesá, míra nezaměstnanosti se zvyšuje.**
       - Svědčí o tom, že část nezaměstnanosti má skutečně **cyklickou povahu**.
+      - Ukazuje korelaci mezi mírou nezaměstnanosti a růstem hrubého domácího produktu, ukazuje, že pří růstu nezaměstnanosti nad její přirozenou míru úměrně klesá hrubý domácí produkt oproti **potenciálnímu domácímu produktu**, jinak taky vztah mezi růstem HDP a poklesem míry nezaměstnan, o každé procento o které se zvýší HDP nad potenciální produkt se sníží o polovinu míra nezaměstnanosti nad úrovní přirozené míry nezaměstnanosti - pokud se tedy HDP zvýší o 3%, sníží se nezaměstnanost o 1,5%.
+    - **Phillipsova křivka**:
+      - Původně ukazovala souvislost mezi mzdovou inflací (růstem nominálních mezd) a mírou nezaměstnanosti.
+      - **Když je malá nezaměstnanost, rostou mzdy rychleji, když je velká nezaměstnanost, může docházet i ke snižování nominálních mezd.**
+      - Toto se děje kvůli tomu, že když je malá nezaměstnanost, konkurují si **cenově** zaměstnavatelé a když je velká nezaměstnanost, tak si konkurují **cenově** zaměstnanci.
+      - **Proč však rostou mzdy, když je nějaká nezaměstnanost** - vždy existuje přirozená míra nezaměstnanosti, míra nezaměstnanosti jinými slovy nikdy nemůže být nulová, i v případě, že je hodně nízká tak zaměstnavatelé pociťují nedostatek pracovní síly na trhu, pokud by nezaměstnanost byla nulová, nedostatek pracovní síly by vedl k prudkému růstu mezd.
+      - Phillipsova křivka byla později upravena, v rámci vztahu mezi ročním růstem mezd a mírou nezaměstnanosti, jež má podobu klesající křivky (podobně jako poptávka), byl nahrazen roční růst mezd ročním růstem cen, tedy **inflací**.
     - **Dobrovolná a nedobrovolná nezaměstnanost**:
       - **Dobrovolná nezaměstnanost** - je taková nezaměstnanost, kdy nezaměstnaný hledá práci, ovšem za vyšší mzdu, než která na trhu práce převládá, proto má také obtíže si práci najít.
       - Dobrovolnost nespočívá v tom, že by lidé byli dobrovolně nezaměstnaní, ale zkrátka v tom, že hledají práci s vyšší odměnou, než kterou jim trh nabízí.
-      - **Za nedobrovolnou nezaměstnost** je považována situace, kdy zaměstnanci hledají práci za takovou odměnu, kterou jim nabízí trh práce, ale nemohou ji najít.
+      - Na čem závisí výše a délka trvání **dobrovolné nezaměstnanosti** - na tom jaké alternativní příležitosti mají nezaměstnaní, mezi alternativy patří například podpora v nezaměstnanosti - když je nízká a trvá krátkou dobou, bude mít daný člověk větší iniciativu si najít práci a bude tak menší dobu nezaměstnaný a naopak.
+      - **Za nedobrovolnou nezaměstnost** je považována situace, kdy zaměstnanci hledají práci za takovou odměnu, kterou jim nabízí trh práce, nebo by klidně akceptovali i nižší mzdu, ale nemohou ji najít.
+      - Příčiny nedobrovolné nezaměstnanosti jsou překážky bránící poklesu mezd, jednou z nich bývají **odbory**, pokud si jako jeden z hlavních cílů vytknou prosazování vysokých mezd.
+      - Nedobrovolná nezaměstnanost má pro člověka horší důsledky než dobrovolná nezaměstnanost.
+      - **Nedobrovolná nezaměstnanost** může postihovat hodně lidi, kteří nemají dobré alternativní příležitosti, protože je pro ně rekvalifikace nebo nalezení jiného zdroje obživy velmi obtížné.
+      - **Příčinou nedobrovolné nezaměstnanosti se může stát i uzákoněná minimální mzda.**
+      - Nemusí být totiž vždy pravdou, že firmy mají rezervy, které mohou rozpustit do mezd, kvůli tomu, že se na konkurenčních trzích prosazuje tendence k **nulovým ekonomickým ziskům** a mzdy odpovídají **meznímu produktu práce**, v případě zvyšování mezd tak firma nemusí mít na **mzdové náklady**, respektive **mezní mzdové náklady** mohou převýšit **mezní produkt práce** a potenciální i **mezní zisk** a tím se firmě nebude vyplácet zaměstnávat tolik pracovníků.
+      - **Zvýšení minimální mzdy vede ke zvýšení nabídky práce, ale ke snížení poptávky po práci, neboť práce bude dražší.**
+      - **Registrovaná míra nezaměstnanosti obsahuje kromě nedobrovolné nezaměstnanosti i nějakou dobrovolnou nezaměstnanost.**
+    - **Dlouhodobá nezaměstnanost**:
+      - Přirozeným znakem tržní ekonomiky je, že se svou strukturou neustále přizpůsobuje měnícím se poptávkám, průvodní jevem jsou pohyby na pracovních trzích, při nichž mnoho lidí stále do zaměstnanosti vstupuje a opět z ní vystupuje.
+      - Pokud je nazaměstnanost krátkodobá, nepůsobí lidem žádné problémy, skutečným problémem pak může být dlouhodobá nezaměstnanost.
+      - **Nezaměstnanost by tak měla být posuzována nejen podle její výše, tak i podle její dlouhodobosti**.
+      - **Dlouhodobá nezaměstnanost se někdy samovolně mění z nedobrovolné v dobrovolnou, protože je-li člověk dlouho nezaměstnaný, mění se jeho způsob života i jeho postoje k zaměstnání.**
+      - Dlouhodobá nezaměstnanost může představovat problém jak z individuálního hlediska, **tak i pro celou ekonomiku**.
+      - Problém pro ekonomiku spočívá v nižší pružnosti pracovních trhů, to se poté odráží v **hospodářském růstu**.
+      - Příčinou nižší pružnosti pracovního trhu může být právě dlouhodobá nezaměstnanost, která může být způsobena například pracovním zákonodárstvím, tedy například vysokými podporami v nezaměstnanosti nebo velkou ochranou zaměstnanců, to může způsobit to, že firmy nemusí nabírat nové zaměstnance, neboť se bojí, že by je v krizi nemohli propustit - to vede k vyšší nezaměstnanosti a i k dlouhodobé nezaměstnanosti.
+    - **Vytváření pracovních míst**:
+      - **Snaha zabránit růstu nezaměstnanosti vede často vládu k tomu, aby pomocí vládních výdajů vytvářela nebo alespoň chránila pracovní místa v soukromém sektoru.**
+      - Tato taktika však v dlouhodobém hledisku může vést ke zpomalení hospodářského růstu.
+      - Problém kdy peníze do subvencí, placení dluhů, nebo dávání státních zakázek a podobně ze státního rozpočtu vyčlenit, jedná se však o politické gesto, politici například na venek vypadají, že zachránili mnoho pracovních míst, ve chvíli, kdy ale finance vynaložili špatně, udržovali by se neefektivně fungující podniky a neefektivní pracovní místa, přitom toto místo na trhu by mohlo být zabráno jiným výrobcem, který by byl efektivní.
+      - **Toto financování platí ve finále danoví poplatníci, a to pak může směřovat neperspektivně, i když by mohlo být vynaloženo jinak a vhodněji.**
+      - Domnívám se však, že podpora firem nemusí být vždy špatná, zejména pak v době hospodářské recese, kdy je potřeba rozpumpovat ekonomiku, podpořit spotřebu a omezit nezaměstnanost, takováto podpora pak může být dobrá, a to zejména ve chvíli, kdy by firma v následném ekonomickém růstu znovu začala prosperovat.
+      - Nesmí však být při životě udržovány neefektivní firmy.
 
 ----
 
