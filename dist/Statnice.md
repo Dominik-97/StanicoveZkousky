@@ -2409,11 +2409,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Prakticky se míra nezaměstnanosti zjišťuje tak, že se mezi nezaměstnané zařadí lidé, kteří se hlásí na úřadech práce - **registrovaná nezaměstnanost**, né všichni se ale musí nutně hlásit na úřadech práce a přesto si práci hledají - **skutečná nezaměstnanost**, **skutečná nezaměstnanost** je tak vždy logicky vyšší než **registrovaná nezaměstnanost**.
   - **Typy nezaměstnanosti**:
     - Existují 4 typy nezaměstnanosti:
-      - **Frikční**
-      - **Strukturální**
-      - **Cyklická**
+      - **Frikční** - nezaměstnanost vznikající při změně zaměstnání, je dočasná
+      - **Strukturální** - ke strukturální nezaměstnanosti dochází v důsledku strukturálních změn v ekonomice, kdy se některá odvětví zmenšují a jiná zvětšují, lidé tak přecházejí z jednoho odvětví do druhého odvětví a v mezidobí jsou nezaměstnaní, v takovémto případě se jedná o strukturální nezaměstnanost, tyto strukturální změny znamenájí, že klesá poptávka po určitých odvětvích, ale po jiných se zvyšuje, zaměstnanci se tak při přechodu musejí **rekvalifikovat**, strukturální nezaměstnanost obvykle **trvá déle** než například frikční nezaměstnanost, je absolutně přirozená, stejně tak jako frikční nezaměstnanost.
+      - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru.
       - **Sezónní**
-    - Doplnit
+    - Doplnita
 
 ----
 :::
