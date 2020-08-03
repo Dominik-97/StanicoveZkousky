@@ -1892,13 +1892,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Podle stupně elasticity
       - A podobně...
   - **Subjekty trhu** - 3 základní ekonomické subjekty, ty pak vstupují na trh s různými ekonomickými cíly, a to jak na stranně nabídky, tak na stranně poptávky:
-    - Souvisí s **ekonomickým koloběhem** - tzn. firmy, domácnosti a stát (+ **zahraničí**).
+    - Souvisí s **ekonomickým koloběhem** - tzn. firmy, domácnosti a stát (+ **zahraničí**, tedy souhrn domácností, firem a vlád, které vstupují na trh zvenčí, tedy ze zahraničí).
     - **Firmy**
       - Vstupují na trh zboží a služeb na straně nabídky a na trh výrobních faktorů na straně poptávky, dále viz ekonomický koloběh
+      - Jejich účelem je **maximalizace zisku**, jejich odměnou je **zisk**.
+      - Jsou tvořeny **vlastníky výrobních faktorů**.
     - **Domácnosti**
       - Jako firmy, jen opačně, dále viz ekonomický koloběh
+      - Jejich účelem je **maximalizace užitku**, jejich odměnou je **důchod**.
     - **Stát**
-      - Stát působí jako: **regulátor** - vytváří právní rámce pro fungování tržního mechanismu, **subjekt** - který může na obou trzích vystupovat jan na straně poptávky, tak i na straně nabídky
+      - Stát působí jako: **regulátor** - vytváří právní rámce pro fungování tržního mechanismu, **subjekt** - který může na obou trzích vystupovat jak na straně poptávky, tak i na straně nabídky, může být i v pozici domácností, tedy jako vlastník výrobních faktorů, tak i v pozici firem, výrobce zboží a poskytovatel služeb
     - Všechny subjekty vstupují na trh a do vzájemných interakcí, to ve svém důsledku vytváří ekonomický, nebo hospodářský, koloběh.
   - Toky v ekonomice - rovněž souvisí s ekonomickým koloběhem:
     - ![Toky v ekonomice](Podklady/Ekonomie_a_Podnikove_finance/Toky_v_ekonomice.jpg)
@@ -1928,6 +1931,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Individuální** a **kolektivní**, individuální jsou všechny potřeby jednotlivce, kolektivními jsou potřeby celku, například tedy obrana státu.
         - **Vrozené** a **získané**
       - Potřeby uspokojujeme pomocí konzumace statků, koncept **vzácnosti** zdrojů, které jsou nám subjektivně **užitečné**. Potřeby lidí uspokojují užitečné komodity - statky.
+      - Uspokojování potřeb je hnací silou ekonomického života.
     - **Členíní statků**:
       - Hmotné: věci
         - **Zboží**: Hmotné statky určené pro trh
