@@ -1827,9 +1827,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
   * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není
   * **Deflace** - 
-  * **Stagflace** - 
+  * **Stagflace** - (past na likviditu)
 * **Vytváření peněz**
   * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka.
+  * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
 
 ----
 :::
@@ -2319,9 +2320,25 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Trh práce
+  - [ ] Nabídka práce
+- [ ] Nezaměstnanost
+  - [ ] Pojem
+  - [ ] Měření
+  - [ ] Druhy
+- [ ] Vztah vývoje ekonomiky a nezaměstnanosti
+  - [ ] Okunův zákon
+  - [ ] Phillipsova křivka
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Trh práce**, **nabídka práce**, **poptávka po práci**
+- Jedná se o rozhodování, zda **pracovat**, nebo **nepracovat** - práci nabízejí zaměstnanci, a zaměstnavatelé jí poptávají jako **výrobní faktor**.
+- Práce člověku přináší **plat** nebo **mzdu**, či jinou **finanční odměnu**, nepráce člověku přináší **volný čas**, z pohledu člověka se tak jedná o porovnání dvou možností, zda pracovat, nebo nepracovat, rozhoduje se podle toho, co mu přináší větší **užitek**, podle tohoto se i rozhoduje kolik času práci věnuje a kolik již ne.
+- Stejně jako u spotřeby jiného statku platí **zákon klesajícího mezního užitku**, mezní užitek z každé další hodiny práce tak pro zaměstnance **klesá**, respektive **klesá mezní užitek**, který má člověk z **odměny** za práci, neboť je touto odměnou stále více **nasycenější**.
+- Člověk má rovněž mezní užitek z každé hodiny volného času, ten je ovšem také **klesající**, pokud se tedy člověk rozhodne pracovat, **obětuje mezní užitek svého volného času**, jedná se tedy o jakési **náklady obětované příležitosti**.
 
 ----
 :::
@@ -2545,6 +2562,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 
 ----
 :::
