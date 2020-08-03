@@ -2420,7 +2420,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Dobrovolná a nedobrovolná nezaměstnanost**:
       - **Dobrovolná nezaměstnanost** - je taková nezaměstnanost, kdy nezaměstnaný hledá práci, ovšem za vyšší mzdu, než která na trhu práce převládá, proto má také obtíže si práci najít.
       - Dobrovolnost nespočívá v tom, že by lidé byli dobrovolně nezaměstnaní, ale zkrátka v tom, že hledají práci s vyšší odměnou, než kterou jim trh nabízí.
-      - **Za nedobrovolnou nezaměstnost** je považována situace, kdy zaměstnanci hledají práci za takovou odměnu, kterou jim nabízí trh práce, ale nemohou ji najít.
+      - Na čem závisí výše a délka trvání **dobrovolné nezaměstnanosti** - na tom jaké alternativní příležitosti mají nezaměstnaní, mezi alternativy patří například podpora v nezaměstnanosti - když je nízká a trvá krátkou dobou, bude mít daný člověk větší iniciativu si najít práci a bude tak menší dobu nezaměstnaný a naopak.
+      - **Za nedobrovolnou nezaměstnost** je považována situace, kdy zaměstnanci hledají práci za takovou odměnu, kterou jim nabízí trh práce, nebo by klidně akceptovali i nižší mzdu, ale nemohou ji najít.
+      - Příčiny nedobrovolné nezaměstnanosti jsou překážky bránící poklesu mezd, jednou z nich bývají **odbory**, pokud si jako jeden z hlavních cílů vytknou prosazování vysokých mezd.
+      - Nedobrovolná nezaměstnanost má pro člověka horší důsledky než dobrovolná nezaměstnanost.
+      - **Nedobrovolná nezaměstnanost** může postihovat hodně lidi, kteří nemají dobré alternativní příležitosti, protože je pro ně rekvalifikace nebo nalezení jiného zdroje obživy velmi obtížné.
+      - **Příčinou nedobrovolné nezaměstnanosti se může stát i uzákoněná minimální mzda.**
+      - Nemusí být totiž vždy pravdou, že firmy mají rezervy, které mohou rozpustit do mezd, kvůli tomu, že se na konkurenčních trzích prosazuje tendence k **nulovým ekonomickým ziskům** a mzdy odpovídají **meznímu produktu práce**, v případě zvyšování mezd tak firma nemusí mít na **mzdové náklady**, respektive **mezní mzdové náklady** mohou převýšit **mezní produkt práce** a potenciální i **mezní zisk** a tím se firmě nebude vyplácet zaměstnávat tolik pracovníků.
+      - **Zvýšení minimální mzdy vede ke zvýšení nabídky práce, ale ke snížení poptávky po práci, neboť práce bude dražší.**
+      - Doplnit
 
 ----
 :::
