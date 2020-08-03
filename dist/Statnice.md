@@ -1936,7 +1936,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Hmotné: věci
         - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-        - **Služby**: činnost, která uspokojuje potřebu svým průběhem
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statky
       - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas), často se jedná o výsledky lidské činnosti
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
@@ -2067,6 +2067,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Ekonomický blahobyt**: rovnovážné ceny, které na trhu vznikají, vedou svou alokační funkcí k takovému rozdělení zdrojů, které maximalizuje užitek všech zúčastněných; kupujících i prodávajících.
   - **Ekonomie blahobytu**: typická metodika začíná odvozením (nebo předpokladem) funkce sociální péče, kterou lze poté použít k hodnocení ekonomicky proveditelných alokací zdrojů z hlediska sociální péče, kterou představují. Takové funkce obvykle zahrnují opatření ekonomické účinnosti a spravedlnosti, i když novější pokusy o kvantifikaci sociálního blahobytu zahrnovaly širší škálu opatření včetně ekonomické svobody (jako v přístupu založeném na schopnostech).
 - **Náklady obětované příležitosti**
+  - Člověk je každý den vystaven rozhodnutí, kterou potřebu uspokojí, a který statek si k tomu vybere.
+    - Čelí tak volbě mezi několika variantami (viz spotřebitelská racionalita)
+    - Při zvolení jedné z variant se ale člověk vzdává variant ostatních, což mu přináší takzvané **alternativní náklady**.
+    - **Alternativní náklady** lze chápat jako **ušlý užitek**.
+    - Hodnotu ušlého zisku z druhé nejpříznivější varianty pak označujeme také jako **náklady obětované příležitosti**.
   - Kupováním jednoho statku obětuje člověk jiný statek respektive nějakou jinou příležitost.
   - **Analýza nákladů a výnosů** (cost-benefit analýza). Výnosem je získávaný užitek a nákladem je obětovaný užitek.
   - Dokud je mezní užitek jednoho statku vyšší než mezní užitek druhého statku, snaží se spotřebitel přesunout své zdroje (peníze, volný čas) ze statku s nižším mezním užitkem na statek s vyšším mezním užitkem.
