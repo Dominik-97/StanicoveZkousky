@@ -2356,6 +2356,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Mezní užitek se měří v penězích.
   - Čas lze v podstatě považovat jako **statek** peníze lze rovněž považovat za **zvláštní druh statku**, který vyjadřuje hodnotu jiných statků, za které je směňován, ve své podstatě nabývá rozhodování člověka zda má, nebo nemá pracovat podobu **spotřebitelského rozhodování** jaký statek zvolit.
   - Z důvodu, že se mezní užitek měří v penězích, je potřeba mezní užitek statku čas vyjádřit v peněžní hodnotě v rámci kardinalistické teorie, obecně se dá říci, že **cenou volného času je mzda**, kterou by člověk získal, pokud by se volného času vzdal.
+  - Maximalizaci užitku v rámci **odměny za práci** a **obětovaného volného času** lze zjistit také za pomoci **indiferenční křivky**, kdy na jedné ose bude počet hodit a na druhé ose bude odměna pracovníka za práci.
   - **Jak působí mzda na nabízené množství práce**:
     - Působí zde dva protikladné efekty:
     - **Substituční efekt**: poněvadž je mzda cenou volného času, tak když se mzda zvýší, tak se i zdraží volný čas, lidé pak budou chtít mít méně volného času a budou jej **substituovat** jiným statkem, v tomto případě budou chtít **substituovat** volný čas **větším množstvím práce**.
@@ -2381,7 +2382,23 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Kvůli přelevání lidí z trhu jedné profese do trhů druhé profese je možné v dlouhém období abstrahovat od odlišností jednotlivých profesí a představit si práci obecně.
     - Na trhu práce existuje rovněž **konkurence** na straně nabídky, i na straně poptávky.
     - **Tržní nabídka práce** je součtem individuálních nabídek prácea vyplývá z rozhodování jednotlivých lidí vyrovnávajících mezní užitek **reálné mzdy** s mezním užitkem **volného času**.
-    - **Tržní poptávka price** je součtem individuálních poptávek práce a vyplývá z rozhodování firem vyrovnávajících **mzdu** s mezním **produktem práce**.
+    - **Tržní poptávka práce** je součtem individuálních poptávek práce a vyplývá z rozhodování firem vyrovnávajících **mzdu** s mezním **produktem práce**.
+    - **Rovnováha na trhu práce**: nastává v bodě, kde se protíná křivka nabídky práce a křivka poptávky práce, tedy v bodě kdy je stejná nabídka práce, jako je po ní poptávka, v protnutém bodě je rovněž **rovnovážná mzda**.
+    - **Nerovnováha na trhu práce**
+      - Buď je převis poptávky, nebo nabídky, jedná se o **přechodnou situaci**, která se vyrovnává změnou **reálné mzdy**.
+      - Převis poptávky = firmy nebudou nacházet takové množství práce, které potřebují
+      - Převis nabídky = je více lidí bez práce
+    - **Proč se země výrazně liší ve výši reálné mzdy?**
+      - Záleží na tom, jak vysoko je umístěna křivka poptávky po práci, pokud je vyšší, je vyšší reálná mzda a naopak
+      - To jak vysoko je umístěna křivka poptávky záleží na produktivitě práce, výše produktivity práce pak záleží na kapitálové vybavenosti, tzn. když je kapitál větší, je větší produktivita, je větší poptávka a o to jsou větší reálné mzdy
+    - **Změna rovnováhy na trhu práce ze strany poptávky**:
+      - Ke změně rovnováhy na trhu práce dochází při **přílivu zahraničního kapitálu**
+      - Například v České republice jsou nižší reálné mzdy než v Německu, to může kvůli levnější práci přilákat investice z Německa, Němci investující kapitál v České republice zvyšují **kapitálovou vybavenost**, ta ve svém důsledku zvyšuje poptávku po práci a tedy i reálnou mzdu a zaměstnanost.
+      - Toto zapříčiní odliv kapitálu z Německa, to vede k poklesu poptávky po práci a tedy **zaměstnanosti** a výši **reálné mzdy**, ta však standardně nebude klesat nominálně, pouze její nominální růst bude **nižší**, než růst **spotřebitelských cen** a reálné mzdy v Německu se tak budou snižovat.
+      - Investoři pochopitelně neinvestují v levnějších zemích kvůli tomu, aby zvýšili tamním občanům reálné mzdy, ale kvůli tomu, že výroba v levnějších zemích jim **sníží náklady a v souvislosti s tím jim umožní dosahovat většího zisku**.
+      - **Změna poptávky na trhu práce mění reálnou mzdu i zaměstnanost stejným směrem, tedy růst poptávky po práci zvyšuje reálnou mzdu a zaměstnanost a naopak.**
+    - **Změna rovnováhy na trhu práce ze strany nabídky**
+      - **Pokles nabídky práce snižuje zaměstnanost a zvyšuje reálnou mzdu, růst nabídky práce by naopak zvýšil zaměstnanost a snížil reálnou mzdu**.
 
 ----
 :::
