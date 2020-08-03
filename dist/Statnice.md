@@ -2411,7 +2411,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Existují 4 typy nezaměstnanosti:
       - **Frikční** - nezaměstnanost vznikající při změně zaměstnání, je dočasná
       - **Strukturální** - ke strukturální nezaměstnanosti dochází v důsledku strukturálních změn v ekonomice, kdy se některá odvětví zmenšují a jiná zvětšují, lidé tak přecházejí z jednoho odvětví do druhého odvětví a v mezidobí jsou nezaměstnaní, v takovémto případě se jedná o strukturální nezaměstnanost, tyto strukturální změny znamenájí, že klesá poptávka po určitých odvětvích, ale po jiných se zvyšuje, zaměstnanci se tak při přechodu musejí **rekvalifikovat**, strukturální nezaměstnanost obvykle **trvá déle** než například frikční nezaměstnanost, je absolutně přirozená, stejně tak jako frikční nezaměstnanost.
-      - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru.
+      - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru, **cyklická nezaměstnanost může mít dlouhodobý charakter**.
       - **Sezónní** - přechodná nezaměstnanost, která nástává například u sezónních pracovníků v zemědělství v důsledku výkyvů počasí, ročních období a podobně.
     - Míra nezaměstnanosti záleží na hospodářském cyklu, respektive na tempu růstu ekonomiky, **v konjunktuře je výše nezaměstnanosti niží, v období ekonomické recese, nebo stagnace je míra nezaměstnanosti vyšší**.
     - **Okunův zákon:**
@@ -2428,7 +2428,22 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Příčinou nedobrovolné nezaměstnanosti se může stát i uzákoněná minimální mzda.**
       - Nemusí být totiž vždy pravdou, že firmy mají rezervy, které mohou rozpustit do mezd, kvůli tomu, že se na konkurenčních trzích prosazuje tendence k **nulovým ekonomickým ziskům** a mzdy odpovídají **meznímu produktu práce**, v případě zvyšování mezd tak firma nemusí mít na **mzdové náklady**, respektive **mezní mzdové náklady** mohou převýšit **mezní produkt práce** a potenciální i **mezní zisk** a tím se firmě nebude vyplácet zaměstnávat tolik pracovníků.
       - **Zvýšení minimální mzdy vede ke zvýšení nabídky práce, ale ke snížení poptávky po práci, neboť práce bude dražší.**
-      - Doplnit
+      - **Registrovaná míra nezaměstnanosti obsahuje kromě nedobrovolné nezaměstnanosti i nějakou dobrovolnou nezaměstnanost.**
+    - **Dlouhodobá nezaměstnanost**:
+      - Přirozeným znakem tržní ekonomiky je, že se svou strukturou neustále přizpůsobuje měnícím se poptávkám, průvodní jevem jsou pohyby na pracovních trzích, při nichž mnoho lidí stále do zaměstnanosti vstupuje a opět z ní vystupuje.
+      - Pokud je nazaměstnanost krátkodobá, nepůsobí lidem žádné problémy, skutečným problémem pak může být dlouhodobá nezaměstnanost.
+      - **Nezaměstnanost by tak měla být posuzována nejen podle její výše, tak i podle její dlouhodobosti**.
+      - **Dlouhodobá nezaměstnanost se někdy samovolně mění z nedobrovolné v dobrovolnou, protože je-li člověk dlouho nezaměstnaný, mění se jeho způsob života i jeho postoje k zaměstnání.**
+      - Dlouhodobá nezaměstnanost může představovat problém jak z individuálního hlediska, **tak i pro celou ekonomiku**.
+      - Problém pro ekonomiku spočívá v nižší pružnosti pracovních trhů, to se poté odráží v **hospodářském růstu**.
+      - Příčinou nižší pružnosti pracovního trhu může být právě dlouhodobá nezaměstnanost, která může být způsobena například pracovním zákonodárstvím, tedy například vysokými podporami v nezaměstnanosti nebo velkou ochranou zaměstnanců, to může způsobit to, že firmy nemusí nabírat nové zaměstnance, neboť se bojí, že by je v krizi nemohli propustit - to vede k vyšší nezaměstnanosti a i k dlouhodobé nezaměstnanosti.
+    - **Vytváření pracovních míst**:
+      - **Snaha zabránit růstu nezaměstnanosti vede často vládu k tomu, aby pomocí vládních výdajů vytvářela nebo alespoň chránila pracovní místa v soukromém sektoru.**
+      - Tato taktika však v dlouhodobém hledisku může vést ke zpomalení hospodářského růstu.
+      - Problém kdy peníze do subvencí, placení dluhů, nebo dávání státních zakázek a podobně ze státního rozpočtu vyčlenit, jedná se však o politické gesto, politici například na venek vypadají, že zachránili mnoho pracovních míst, ve chvíli, kdy ale finance vynaložili špatně, udržovali by se neefektivně fungující podniky a neefektivní pracovní místa, přitom toto místo na trhu by mohlo být zabráno jiným výrobcem, který by byl efektivní.
+      - **Toto financování platí ve finále danoví poplatníci, a to pak může směřovat neperspektivně, i když by mohlo být vynaloženo jinak a vhodněji.**
+      - Domnívám se však, že podpora firem nemusí být vždy špatná, zejména pak v době hospodářské recese, kdy je potřeba rozpumpovat ekonomiku, podpořit spotřebu a omezit nezaměstnanost, takováto podpora pak může být dobrá, a to zejména ve chvíli, kdy by firma v následném ekonomickém růstu znovu začala prosperovat.
+      - Nesmí však být při životě udržovány neefektivní firmy.
 
 ----
 :::
