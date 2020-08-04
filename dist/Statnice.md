@@ -2501,10 +2501,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Zahraniční obchod**, respektive **obchodní bilance**, počítá se jako **Čistý vývoz (X)** = **Export** - **Import**.
   - Základní makroekonomickými agregáty jsou **národní a domácí produkt**, **čistý domácí produkt**, **nominální a reálný produkt (běžné a stálé ceny)**, **národní důchod, disponibilní důchod** a někdy také **čistý ekonomický blahobyt**.
     - Měření výstupů ekonomiky za pomocí makroekonomických agregátů je možné vypočíst třemi základními způsoby:
-      - **Výdajová metoda:**
-      - **Produkční metoda:**
-      - **Důchodová metoda:**
-    - Všemi metodami by se mělo dosáhnout stejného výsledku.
+      - **Výdajová metoda:** jedná se o součet hodnoty finálních statků a služeb spotřebovaných v jednotlivých sektorech, počítá se pomocí Y = C (consumption) + I (investment) + G (výdaje vlády) + X (čistý vývoz)
+      - **Produkční metoda:** v rámci jednotlivých fází produkčního řetězce se připočítává **přidaná hodnota**, mezi produkt se nepočítá jedná se tedy o cenu, za kterou je statek prodán - hodnotu vstupu, dá se počítat za pomocí informací, které lze získaz z daňového systému
+      - **Důchodová metoda:** jedná se o součet hodnoty příjmů realizovaných v jednotlivých sektorech ekonomiky, jako jsou **mzdy, zisky, renty, úroky** a dále se započtením **amortizace** a **nepřímých daní**, počítá se jako Yd = w (mzdy) + r (renty) + i (úroky) + z (zisky) + a (amortizace) + n (nepřímé daně), w + r + i + z se dá zapsat i jako národní důchod, celá rovnice se tedy dá zapsat jako **národní důchod + amortizace + nepřímé daně**
+    - Všemi metodami by se mělo dosáhnout stejného výsledku, **tedy výpočtu HDP**.
   - HDP
     - Doplnit
   - HNP
