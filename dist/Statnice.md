@@ -1825,7 +1825,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není, rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala.
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není, rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala. Inflační očekávání.
   * **Deflace** - 
   * **Stagflace** - (past na likviditu)
 * **Vytváření peněz**
@@ -2413,7 +2413,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Strukturální** - ke strukturální nezaměstnanosti dochází v důsledku strukturálních změn v ekonomice, kdy se některá odvětví zmenšují a jiná zvětšují, lidé tak přecházejí z jednoho odvětví do druhého odvětví a v mezidobí jsou nezaměstnaní, v takovémto případě se jedná o strukturální nezaměstnanost, tyto strukturální změny znamenájí, že klesá poptávka po určitých odvětvích, ale po jiných se zvyšuje, zaměstnanci se tak při přechodu musejí **rekvalifikovat**, strukturální nezaměstnanost obvykle **trvá déle** než například frikční nezaměstnanost, je absolutně přirozená, stejně tak jako frikční nezaměstnanost.
       - **Cyklická** - souvisí s cyklickými vývoji ekonomiky, pokud se například v exportní ekonomice sníží zahraniční poptávka po exportovaném zboží, musí zaměstnavatelé na pokles poptávky reagovat například propouštěním, bude větší nezaměstnanost, lidé nebudou tolik utrácet, a tak se tento pokles poptávky přenese i do spotřebního odvětví, lidé, kteří přišli o práci ve svém odvětví však v důsledku celkového poklesu hospodářského růstu, poklesu poptávky po práci a zvýšení nezaměstnanosti, nemusí najít uplatnění v jiném oboru, **cyklická nezaměstnanost může mít dlouhodobý charakter**.
       - **Sezónní** - přechodná nezaměstnanost, která nástává například u sezónních pracovníků v zemědělství v důsledku výkyvů počasí, ročních období a podobně.
-      - **Přirozená míra nezaměstnanosti** - skládá se z frikční a strukturální nezaměsnanosti, jedná se o míru nezaměstnanosti, ke které ekonomika dlouhodobě směřuje, jedná se o přirozenou míru nezaměstnanosti související s **potenciálním produktem** (**potenciální produkt**  -maximální udržitelný výkon ekonomiky za optimálního využití výrobních zdrojů).
+      - **Přirozená míra nezaměstnanosti** - skládá se z frikční a strukturální nezaměsnanosti, jedná se o míru nezaměstnanosti, ke které ekonomika dlouhodobě směřuje, jedná se o přirozenou míru nezaměstnanosti související s **potenciálním produktem** (**potenciální produkt**  -maximální udržitelný výkon ekonomiky za optimálního využití výrobních zdrojů), přirozená míra nezaměstnanosti se projevuje tím, že není ani nedostatek pracovníků, ani nedobrovolná nezaměstnanost.
     - Míra nezaměstnanosti záleží na hospodářském cyklu, respektive na tempu růstu ekonomiky, **v konjunktuře je výše nezaměstnanosti niží, v období ekonomické recese, nebo stagnace je míra nezaměstnanosti vyšší**.
     - **Okunův zákon:**
       - Říká, že **když domácí produkt roste rychleji, míra nezaměstnanosti klesá, a když naopak domácí produkt roste pomalu, nebo klesá, míra nezaměstnanosti se zvyšuje.**
@@ -2425,6 +2425,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Toto se děje kvůli tomu, že když je malá nezaměstnanost, konkurují si **cenově** zaměstnavatelé a když je velká nezaměstnanost, tak si konkurují **cenově** zaměstnanci.
       - **Proč však rostou mzdy, když je nějaká nezaměstnanost** - vždy existuje přirozená míra nezaměstnanosti, míra nezaměstnanosti jinými slovy nikdy nemůže být nulová, i v případě, že je hodně nízká tak zaměstnavatelé pociťují nedostatek pracovní síly na trhu, pokud by nezaměstnanost byla nulová, nedostatek pracovní síly by vedl k prudkému růstu mezd.
       - Phillipsova křivka byla později upravena, v rámci vztahu mezi ročním růstem mezd a mírou nezaměstnanosti, jež má podobu klesající křivky (podobně jako poptávka), byl nahrazen roční růst mezd ročním růstem cen, tedy **inflací**.
+      - Úprava vychází z toho, že byl dán dohromady vzájemný vztah mezi růst nominálních mezd, produktivity práce a cen, firmy v průměru zvyšují ceny podle toho, jak se jim zvyšují pracovní náklady, pracovní náklady se pak zvyšují podle toho, jak nominální mzdy předbíhají růst produktivity práce, platí pak p (růst cen) = w (růst nominálních mezd) - n (růst produktivity práce), v případě růstu produktivity práce o 2% a a nominálních mezd o 8%, budou ceny růst přibližně o 6%.
+      - **Takto nově upravená křivka vedla mnoho ekonomů k myšlence, že existuje volba mezi inflací a nezaměstnaností, tedy že nezaměstnanost lze snížít za cenu zvýšení inflace a naopak.**
+      - **Upravená křivka říkala, že při vysoké inflaci je malá nezaměstnanost a při nízké inflaci je vysoká nezaměstnanost, tato představa zakořeněná především v Keynesiánství byla však zbourána v 70 letech, kdy došlo v souvislosti s ropnou krizí k takzvané stagfalci, tedy k vysoké míře inflace ale zároveň vysoké míře nezaměstnanosti.**
+      - Phillipsova křivka naráží na přirozenou míru nezaměstnanosti, pokud se jí snaží vláda uměle snižovat zvyšováním inflace (tedy zvyšováním peněžní zásoby), je tak schopna učinit pouze krátkodobě, neboť v dlouhodobém hledisku se uměle snížená míra nezaměstnanosti vrátí na svojí původní míru.
+      - Jedná se pouze o peněžní iluzi, lidé a firmy si uvědomí, že se pro ně v podstatě nic nezměnilo, opět se tak sníží nabídka práce a firmy opět snižují produkci a nezaměstnanost se vrátí zpět na svojí přirozenou hodnotu.
+      - Peněžní iluze je způsobena zvětšením peněžní zásoby a zvýšením vládních výdajů, tím se stimuluje poptávka, která se zvyšuje a tím se zvýší nominální mzdy a ceny, lidé podlehnou peněžní iluzi a pod jejím vlivem zvyšují nabídku práce a produkci.
     - **Dobrovolná a nedobrovolná nezaměstnanost**:
       - **Dobrovolná nezaměstnanost** - je taková nezaměstnanost, kdy nezaměstnaný hledá práci, ovšem za vyšší mzdu, než která na trhu práce převládá, proto má také obtíže si práci najít.
       - Dobrovolnost nespočívá v tom, že by lidé byli dobrovolně nezaměstnaní, ale zkrátka v tom, že hledají práci s vyšší odměnou, než kterou jim trh nabízí.
@@ -2500,7 +2506,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Stanovování inflace
     - Spotřební koš, index spotřebitelských cen
 - Faktory ekonomického růstu
-  - Doplnit
+  - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
+  - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okonův zákon.
 
 ----
 :::
