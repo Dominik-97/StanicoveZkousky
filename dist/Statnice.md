@@ -2518,7 +2518,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
     - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
   - Investice
-    - Doplnit
+    - V rámci makroekonomický výpočtů jsou zařazovány finální náklady, v rámci investic se tak nezapočítávají například akcie nebo obligace.
+    - Pro udržení produkčních možností musí být v ekonomice investice při nejmenším v takové míře, aby nahradili opotřebený kapitál.
+    - **Čisté investice:** investice nad úroveň minulého roku a nad nahrazení amortizace.
+    - **Hrubé investice:** čisté investice a nahrazení amortizace
+    - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
   - Spotřeba
     - Doplnit
   - Měření výkonnosti
