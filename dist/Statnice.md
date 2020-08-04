@@ -2476,9 +2476,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [ ] Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
   - [x] HDP
   - [x] HNP
-  - [ ] Investice
+  - [x] Investice
   - [ ] Spotřeba
-  - [ ] Měření výkonnosti
+  - [x] Měření výkonnosti
   - [ ] Stanovování inflace
 - [ ] Faktory ekonomického růstu
 
@@ -2502,7 +2502,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Základní makroekonomickými agregáty jsou **národní a domácí produkt**, **čistý domácí produkt**, **nominální a reálný produkt (běžné a stálé ceny)**, **národní důchod, disponibilní důchod** a někdy také **čistý ekonomický blahobyt**.
     - Měření výstupů ekonomiky za pomocí makroekonomických agregátů je možné vypočíst třemi základními způsoby:
       - **Výdajová metoda:** jedná se o součet hodnoty finálních statků a služeb spotřebovaných v jednotlivých sektorech, počítá se pomocí Y = C (consumption) + I (investment) + G (výdaje vlády) + X (čistý vývoz)
-      - **Produkční metoda:** v rámci jednotlivých fází produkčního řetězce se připočítává **přidaná hodnota**, mezi produkt se nepočítá jedná se tedy o cenu, za kterou je statek prodán - hodnotu vstupu, dá se počítat za pomocí informací, které lze získaz z daňového systému
+      - **Produkční metoda:** v rámci jednotlivých fází produkčního řetězce se připočítává **přidaná hodnota**, **meziprodukt** se nepočítá jedná se tedy o cenu, za kterou je statek prodán - hodnotu vstupu, dá se počítat za pomocí informací, které lze získaz z daňového systému
       - **Důchodová metoda:** jedná se o součet hodnoty příjmů realizovaných v jednotlivých sektorech ekonomiky, jako jsou **mzdy, zisky, renty, úroky** a dále se započtením **amortizace** a **nepřímých daní**, počítá se jako Yd = w (mzdy) + r (renty) + i (úroky) + z (zisky) + a (amortizace) + n (nepřímé daně), w + r + i + z se dá zapsat i jako národní důchod, celá rovnice se tedy dá zapsat jako **národní důchod + amortizace + nepřímé daně**
     - Všemi metodami by se mělo dosáhnout stejného výsledku, **tedy výpočtu HDP**.
   - HDP/ČDP
@@ -2526,9 +2526,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Spotřeba
     - Doplnit
   - Měření výkonnosti
-    - Doplnit
+    - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
     - Spotřební koš, index spotřebitelských cen
+  - Agregátní poptávka a agregátní nabídka
+    - Doplnit
 - Faktory ekonomického růstu
   - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
   - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okonův zákon.
