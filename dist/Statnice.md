@@ -2535,9 +2535,21 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Hospodářský cyklus
+  - [ ] Pojem
+  - [ ] Vnější a vnitřní příčiny vzniku
+  - [ ] Příklady
+  - [ ] Časové rozlišení
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Hospodářský cyklus**
+  - **Časové rozlišení**
+    - **Krátkodobý:**
+    - **Střednědobý:**
+    - **Dlouhodobý:**
 
 ----
 :::
@@ -2633,6 +2645,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Monetární politika
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
@@ -2670,7 +2684,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 
 - Fiskální politika
-  - Doplnit
+  - Fiskální politika je politikou státu.
+  - Jedná se o rozpočtovou politiku, která může být buď **expanzivního, nebo restriktivního charakteru**.
   - Cíle
     - Doplnit
   - Hlavní subjekty
