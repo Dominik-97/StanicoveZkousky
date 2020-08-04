@@ -2517,6 +2517,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Skutečný a potenciální
     - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
     - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
+  - Čistý ekonomický blahobyt
+    - HDP však nezahrnuje všechno, nezahrnuje zejména další faktory přispívající k čístému ekonomickému bohatství - net economic welfare.
+    - Jedná se o alternativní výpočet HNP doplněný o odhad:
+      - Produkce stínové ekonomiky,
+      - netržní produkci (samozásobitelství) - například to co si kutil zvládne sám udělat v domácnosti,
+      - o hodnotu volného času,
+      - o vyšší kvalitu vyráběných výrobků,
+      - o externality - pozitivní i negativní - viz **selhání thru**.
   - Investice
     - V rámci makroekonomický výpočtů jsou zařazovány finální náklady, v rámci investic se tak nezapočítávají například akcie nebo obligace.
     - Pro udržení produkčních možností musí být v ekonomice investice při nejmenším v takové míře, aby nahradili opotřebený kapitál.
@@ -2530,7 +2538,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Stanovování inflace
     - Spotřební koš, index spotřebitelských cen
   - Agregátní poptávka a agregátní nabídka
-    - Doplnit
+    - Jedná se o něco jiného než je **tržní poptávka**, vyjadřuje poptávku nebo nabídku zahrnující veškeré statky, ty se ale vzhledek k tomu, že nejsou sčitatelné musí vyjadřovat jinak - vyjadřují se proto v **penězích**.
+    - Agregátní nabídka je celková nabídka všech zboží a služeb, které byli v ekonomic vyrobeny a firmy je chtějí prodávat.
+    - Průběh křivky agregátní nabídky se liší podle délky období, **v krátkém období má tendeci stoupat při zvyšování cenové hladiny, neboť množstí vyrobených statků se odvíjí od zisku, respektive mezního příjmu, ten stoupá, neboť mnoho vstupů a nákladových položek totiž v krátkém období neroste úměrně s cenou výrobku, protože jsou fixovány na delší časový úsek, protože suma takovýchto fixovaných nákladů se v krátkém období nemění, má průběh křivky stoupající tendenci**.
+    - Průběh křivky agregátní nabídky v dlouhém období je však neměný, neboť nakonec dochází ke zvyšování vstupních nákladů a tedy i mezních nákladů a tím klesá mezní příjem, firmy na to reagují snížením objemu výroby.
+    - **Agregátní poptávka**: jedná se vždy o výdaje domácností na nákupy spotřebních statků krátkodobé i dlouhodobé spotřeby, výdaje podniků na investice, vládní nákupy statků a služeb a v otevřené ekonomice čisté vývozy.
+    - Křivka agregátní poptávky má klesající charakter.
+    - **Vzájemné vztahy:** viz otázka číslo jedna:
+      - Rovnováha - cenová hladina ani nezaměstnanost nebudou růst ani klesat,
+      - Deflační mezera - poptávka je nižší než nabídka, za následek nevyužití ekonomických zdrojů - nezaměstnanost,
+      - Inflační mezera - poptávka je vyšší než nabídka, jako následek má větší inflaci
 - Faktory ekonomického růstu
   - Ekonomický růst je **růst schopnosti země vyrábět zboží a poskytovat služby**, to vede ke zvýšení reálného národního důchodu a k vyšší spotřebě => ekonomický růst, jedná se tedy o **produktivitu práce, či zvětšování kapitálu, který zapříčiňuje růst potenciálního produktu**.
   - Stabilní ekonomický růst nespočívá v samotných cyklech, ale v souvislém růstu potenciálního produktu, okolo kterého skutečný produkt osciluje.
@@ -2563,6 +2580,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Hospodářský cyklus**
   - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
+  - 
   - **Má čtyři fáze:**
     - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
     - **Dno:** představuje bod obratu, kdy recese přechází do oživení.
