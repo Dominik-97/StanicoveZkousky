@@ -2337,9 +2337,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - [x] Pojem
   - [x] Měření
   - [x] Druhy
-- [ ] Vztah vývoje ekonomiky a nezaměstnanosti
+- [x] Vztah vývoje ekonomiky a nezaměstnanosti
   - [x] Okunův zákon
-  - [ ] Phillipsova křivka
+  - [x] Phillipsova křivka
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -2492,7 +2492,19 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Makroekonomie odráží vývoj ekonomiky prostřednictvím veličin, které jsou označovány jako **MAKROEKONOMICKÉ AGREGÁTY**
     - V **jednoduchém ekonomickém modelu, respektive koloběhu** se dvěma subjekty (firmy a domácnosti) platí, že vytvořený produkt (**Y**) je součtem spotřeby domácností a jejich úspor.
     - Platí že **Y = C + S**, kde **C** je consumpiton = spotřeba a **S** je savings = úspory
-    - Doplnit
+    - Velikost spotřeby závisí na **disponibilním důchodu domácností** a na úrokové míře, podíl spotřeby na disponibilním důchodu se s růstem důchodu snižuje.
+    - K efektivnímu využití vzácných zdrojů dochází, když jsou úspory domácností použity jako investice ve firmách, tedy když I = S.
+    - Investice se dělí na **hrubé** = bez započtení amortizace, jedná se o celkově vynaložené investice a **čisté** = vynaloženy navíc oproti předchozímu cyklu, se započtením amortizace, **čisté investice umožňují ekonomický růst**.
+    - **Důchodotvorný účinek investic:** přírůstek investic vyvolá přírůstek důchodů, a tím i přírůstek spotřeby, hodně je investováno například když jsou levné peníze, souvisí s **inflací**.
+    - **V úplném ekonomické koloběhu se ale ekonomické agregáty počítají jinak, musí se totiž zahrnout i stát a zahraničí.**
+    - Výdaje vlády (**G**) - svázány s veřejnými rozpočty, vláda na ně používá peníze, které získala z **přímých a nepřímých daní** a jiných odvodů do státního rozpočtu.
+    - **Zahraniční obchod**, respektive **obchodní bilance**, počítá se jako **Čistý vývoz (X)** = **Export** - **Import**.
+  - Základní makroekonomickými agregáty jsou **národní a domácí produkt**, **čistý domácí produkt**, **nominální a reálný produkt (běžné a stálé ceny)**, **národní důchod, disponibilní důchod** a někdy také **čistý ekonomický blahobyt**.
+    - Měření výstupů ekonomiky za pomocí makroekonomických agregátů je možné vypočíst třemi základními způsoby:
+      - **Výdajová metoda:**
+      - **Produkční metoda:**
+      - **Důchodová metoda:**
+    - Všemi metodami by se mělo dosáhnout stejného výsledku.
   - HDP
     - Doplnit
   - HNP
@@ -2587,9 +2599,25 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Finanční trhy
+  - [ ] Pojem
+  - [ ] Členění
+  - [ ] Subjekty
+  - [ ] Instrumenty finančního trh
+    - [ ] Typy cenných papírů
+  - [ ] Úloha finančních trhů v ekonomice
+  - [ ] Investiční rozhodování
+  - [ ] Časová hodnota peněz
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Finanční trhy**
+  - Jedná se o trhy.
+  - Členění
+    - Peněžní trh
+      - PRIBOR
 
 ----
 :::
