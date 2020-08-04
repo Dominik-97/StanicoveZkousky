@@ -2633,7 +2633,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Výhody
     - Doplnit
   - Rizika
-    - Doplnit
+    - **Ztráta samostatné měnové politiky**: 
+    - **Cena za zapojení se do Evropského stabilizačního mechanismu:** 
+    - **Riziko vnímané inflace**: 
+    - **Jednorázové náklady na zavedení eura:** 
   - Maastrichtská kritéria
     - Doplnit
 
