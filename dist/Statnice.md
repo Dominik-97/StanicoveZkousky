@@ -2474,8 +2474,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [ ] Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
-  - [ ] HDP
-  - [ ] HNP
+  - [x] HDP
+  - [x] HNP
   - [ ] Investice
   - [ ] Spotřeba
   - [ ] Měření výkonnosti
@@ -2505,10 +2505,18 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Produkční metoda:** v rámci jednotlivých fází produkčního řetězce se připočítává **přidaná hodnota**, mezi produkt se nepočítá jedná se tedy o cenu, za kterou je statek prodán - hodnotu vstupu, dá se počítat za pomocí informací, které lze získaz z daňového systému
       - **Důchodová metoda:** jedná se o součet hodnoty příjmů realizovaných v jednotlivých sektorech ekonomiky, jako jsou **mzdy, zisky, renty, úroky** a dále se započtením **amortizace** a **nepřímých daní**, počítá se jako Yd = w (mzdy) + r (renty) + i (úroky) + z (zisky) + a (amortizace) + n (nepřímé daně), w + r + i + z se dá zapsat i jako národní důchod, celá rovnice se tedy dá zapsat jako **národní důchod + amortizace + nepřímé daně**
     - Všemi metodami by se mělo dosáhnout stejného výsledku, **tedy výpočtu HDP**.
-  - HDP
-    - Doplnit
-  - HNP
-    - Doplnit
+  - HDP/ČDP
+    - Hrubý domácí produkt - celková hodnota všech finálních výrobků a služeb vyrobených v daném čase **na území daného státu**
+    - Čistý domácí produkt je produkt po odpočtu amortizace
+  - HNP/ČNP
+    - To samé jako HDP, ale místo území se počítá hodnota všech výrobků a služeb **vyrobenými národními výrobními faktory**
+    - Čistý národní produkt je také po odpočtu amortizace
+  - Nominální a reálný
+    - **Nominální je vyjadřován v běžných cenách - tedy v nominální hodnotě cen**
+    - **Reálný je vyjádřen ve stálých cenách - tedy změna produktu například mezi roky 2010 a 2011 je počítána v zcenách z období roku 2010, jedná se tedy o cenu očištěnou o inflaci**
+  - Skutečný a potenciální
+    - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
+    - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
   - Investice
     - Doplnit
   - Spotřeba
