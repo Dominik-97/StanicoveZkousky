@@ -1832,7 +1832,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     * Pokud je inflace způsobená přemírou peněz na trhu, tak deflace je způsobena **nedostatkem peněz na trhu**.
   * **Stagflace** - (past na likviditu), nejhorší možný scénář, jedná se zároveň o stagnaci ekonomiky a zároveň o vysoký růst inflace a vysokou nezaměstnanost, dříve popíralo Keynesiánství a Phillipsova křivka, vedlo ke krizím v souvislosti s ropnými šoky v 70. letech minulého století.
     * **V souvislosti se stagflací se zrodila myšlenka MIltona Friedmana o přirozené míře nezaměstnanosti, problém spočívá v tom, že nezaměstnanost nelze snižovat pod přirozenou míru nezaměstnanosti, neboť to způsobí inflaci, ale nezaměstnanost se vrátí zpět na svojí původní honotu i přes prvotně způsobenou peněžní iluzi a ekonomický růst, ve finále se tedy docílí stejné nezaměstnanosti, ale nově dosažená inflace se ustálí a stane se novým standardem - tvz. novým inflačním očekáváním.**
-    * Dále
+    * Inflační spirála se zastaví až ve chvíli, kdy se nezaměstnanost ustálí na své přirozené míře.
 * **Vytváření peněz**
   * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
