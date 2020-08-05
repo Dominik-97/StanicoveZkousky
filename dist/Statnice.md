@@ -1838,6 +1838,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Vytváření peněz**
   * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
+  * Viz otázka peníze.
 * Jak bohatne země, ekonomika, jak probíhá hospodářský růst
   * Viz otázka hospodářský růst
 
@@ -1855,7 +1856,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Trh a jeho funkce
+- [x] Trh a jeho funkce
 - [ ] Teoretické zdůvodnění různých přístupů k trhu
 - [ ] Výsledek potalčení trhu
 - [ ] Definice tržního selhání
@@ -1888,9 +1889,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Podle typu zboží:
       - **Automobilový**, **počítačový** etc.
     - Trhy dle ekonomického koloběhu:
-      - Trh zboží a služeb: Je.
-      - Trh kapitálu: Je.
-      - Finanční trhy: Je.
+      - Trh zboží a služeb: Je them, na kterém se střetává nabídka a poptávka ve vztahu ke spotřebním statkům.
+      - Finanční trhy: Je trh, na kterém se střetává nabídka a poptávka ve vztahu k finančním prostředkům, cenným papírům a komoditám.
+      - Trh kapitálu, respektive výrobních faktorů: Je trh, na kterém se střetává nabídka a poptávka po výrobních faktorech domácností ze strany firem.
     - Obecně lze trhy členit dle:
       - Subjektů
       - Charakteru statků
