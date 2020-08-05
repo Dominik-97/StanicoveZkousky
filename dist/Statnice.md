@@ -1991,6 +1991,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Export drahých kovů z jiných zemí a jejich import do dané země tak ve svém důsledku znamenal zlevňování drahých kovů v místě importu a zdražování drahých kovů v místě exportu. Eventuálně se tak stal další export ekonomicky nevýhodným a obchod směřoval k obrácení obchodní bilance.
   - **Klasickou ekonomii** - celkové nahrazení merkantilistických systémů představovala **klasická politická ekonomie** Adama Smitha.
     - Rozvoj v souvislosti, respektive v období, anglické průmyslové revoluce.
+    - Podporovala ekonomický liberalismus a trine řízení ekonomiky bez státních zásahů.
+    - Důležité pojmy: neviditelná ruka trhu, lassiez faire, ekonomové této teorie chápali hospodářství jako samoregulující se systém ovládaný vlastními zákonitostmi.
+    - Končí na konci 19. století společně s **marginalistickou revolucí**.
+    - Vznik kvůi technickému rozvoji, vzniku kapitalistické třídy a nefunkci merkantilismu.
   - **Keynesiánství**
     - Bretton-Woodská konference. Zlatý standard.
 - Výsledek potlačení trhu
