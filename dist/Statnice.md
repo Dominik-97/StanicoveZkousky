@@ -2043,7 +2043,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Řešení**: (Úloha státu) -> zkvalitnit rozhodování státu (veřejné zakázky)
           - **Soukromé řešení**: co nejnižší zdanění a státní zásahy, vše ponechat na soukromé iniciativě (problém, že to musí chtít většina voličů)
 - Nabídka a poptávka, její změna a souvislosti
-  - Doplnit
+  - Změna nabídky a poptávky probíhá z důvodů, kvůli kterým se posouvá nabídková nebo potávková křivka, **ze strany nabídky je to například v případech změny ceny vstupů, vznik nových ziskových příležitostí - přesun k výrobě jiného produktu, nabídka ostatních produktů proto poklesne, změna kvůli očekávání do budoucna, změna v přístupu na trh - například v případě deregulace nějakého trhu**, pokud bychom se podívali na stranu poptávky, tak se jedná o faktory, které ivlivňují samotnou poptávku, viz další otázka.
+  - V takovémto případě vznikne nový rovnovážný bod na trhu a pomocí změny cen, nákladů a nabízeného množství, společně s poptávkou se trh dostane do nového rovnovážného bodu, najde si tedy novou tržní cenu.
 
 
 
