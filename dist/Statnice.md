@@ -1995,8 +1995,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Důležité pojmy: neviditelná ruka trhu, lassiez faire, ekonomové této teorie chápali hospodářství jako samoregulující se systém ovládaný vlastními zákonitostmi.
     - Končí na konci 19. století společně s **marginalistickou revolucí**.
     - Vznik kvůi technickému rozvoji, vzniku kapitalistické třídy a nefunkci merkantilismu.
+    - **Marginalismus**:
+    - **Monetarismus**: 
+    - **Neoklasicismus**: 
+    - **Nová klasická makroekonomie**:
   - **Keynesiánství**
     - Bretton-Woodská konference. Zlatý standard.
+    - **Neokeynesiánství**: 
+    - **Postkeynesiánství**:
+  - Současné ekonomické směry:
+    - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
   - Doplnit
 - Teorém pavučiny
