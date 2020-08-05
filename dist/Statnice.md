@@ -1992,7 +1992,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Klasickou ekonomii** - celkové nahrazení merkantilistických systémů představovala **klasická politická ekonomie** Adama Smitha.
     - Rozvoj v souvislosti, respektive v období, anglické průmyslové revoluce.
   - **Keynesiánství**
-    - Bretton-Woodská konference.
+    - Bretton-Woodská konference. Zlatý standard.
 - Výsledek potlačení trhu
   - Doplnit
 - Teorém pavučiny
