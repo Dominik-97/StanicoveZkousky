@@ -1736,7 +1736,7 @@ Ekonomie se **člení** na:
 
 **Ekonomie** (věda) a **ekonomika **(souhrn hospodářských činností ekonomických subjektů, které tyto subjekty vykonávají za účelem uspokojení svých potřeb).
 
-Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
+Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného - hranice produkčních možností.
 
 **Další dodatečné informace**, blížeji popsáno pak také v distanční opoře na stranně 4 (například používané metody a tak podobně) [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf):
 
@@ -1768,7 +1768,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Funkce cen**:
   * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod. a signalizuje hodnotu, kterou společnost v daném statku vidí i náklady na jeho výrobu ( = jeho relativní vzácnost)
   * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více. Motivuje tedy výrobce, aby vyráběl více a spotřebitele, aby více spotřebovával.
-  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké.
+  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké - souvisí se strukturálnímy výkyvy ekonomiky a strukturální nezaměstnaností.
   * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit. Zboží získá ten, kdo bude schopný za něj zaplatit nejvíce, tedy ten, kdo z něho bude mít největší užitek a nejefektivněji ho využije. -> **systém aukce** - vede k maximálnímu zhodnocení ekonomických zdrojů. Rovněž odpovídá na otázku v rámci tržně-smíšeného ekonomického modelu **komu** / **jak rozdělit**.
   * (**Hodnototvorná funkce**): peněžní ocenění hodnoty zboží a služem, osobně tuto funkci považuji za součást funkce informační.
 * Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje **zákon jediné ceny**. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
@@ -1794,7 +1794,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * Záleží na tom, kolik sektorů uvažujeme (**dva**, **tři**, nebo **čtyři**).
 * Nejzákladnějším případem je dvousektorová ekonomika složená ze **sektoru domácností** a ze **sektoru firem**.
 * **Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál + podnikatelské schopnosti**. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze ve formě mezd, platů, renty, úroků (dividendů), zisku , které domácnosti od firem utží se nazývají **důchody domácností**.
-* Za důchody domácností pak domácnosti od firem nakupují na trhu zboží a služeb jednotlivé statky, tyto výdaje se nazývají **spotřebitelské výdaje / spotřeba domácností**. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory. Firmy takto získané peníze rovněž používají k vytváření nových výrobních kapacit -> zvyšuje se poptávka po výrobních faktorech a zvyšuje se produkce. Do této kategories firem také rovněž spadají finanční podniky - banky, spořitelny, pojišťovny a tak dále, ty jen převádějí peníze od těch, kteří úspory vyttvářejí k těm, kteří si je půjčují.
+* Za důchody domácností pak domácnosti od firem nakupují na trhu zboží a služeb jednotlivé statky, tyto výdaje se nazývají **spotřebitelské výdaje / spotřeba domácností**. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory. Firmy takto získané peníze rovněž používají k vytváření nových výrobních kapacit -> zvyšuje se poptávka po výrobních faktorech a zvyšuje se produkce. Do této kategories firem také rovněž spadají finanční podniky - banky, spořitelny, pojišťovny a tak dále, ty jen převádějí peníze od těch, kteří úspory vyttvářejí k těm, kteří si je půjčují - fungují zejména na **finanních trzích**.
 * Ekonomika funguje jako nepřetržitý koloběh.
 * **Třísektor** obsahuje i **stát** - ten kontroluje, nastavuje rovné prostředí a daní a rovněž se účastní na celém koloběhu (dal by se považovat jako firma), **čtyřsektor** i **zahraničí**, tedy export a import a investice a dividendy, obecně tedy cizinci kupují to co se tady vyrobí - tedy poskytují národnímu hospodářství kapitál, a naopak využívají ve svých ekonomikách vyvážený domácí kapitál.
 * Obchoduje se standardně na třech typech trhů v rámci ekonomického koloběhu:
@@ -1805,7 +1805,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * Mezi těmito trhy probíhají hmotné a finanční toky
   * **Model tržního hospodářství v systému právního státu**
     * Uzavřená ekonomika (uzavřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
-    * Otevřená ekonomika (otevřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
+    * Otevřená ekonomika (otevřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3 + Sektor 4
 * **Jednoduchý** a **úplný** koloběh
   * Jednoduchý koloběh je ve zkratce **dvousektor**
   * Úplný koloběh je **čtyřsektor**
