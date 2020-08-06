@@ -2725,6 +2725,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Doplnit
       - Trh dlouhodobých úvěrů
       - Trh dlouhodobých cenných papírů
+      - Derivátové trhy info [zde](https://www.penize.cz/15864-burzy-a-mimoburzovni-trhy)
     - Trh drahých kovů (komoditní trh)
       - Doplnit
     - Trh s cizími měnami (devizový trh)
