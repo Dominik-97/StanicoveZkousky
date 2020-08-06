@@ -2719,6 +2719,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Členění
     - Peněžní trh
       - PRIBOR
+      - Trh krátkodobých úvěrů
+      - Trh krátkodobých cených papírů
+    - Kapitálový trh
+      - Doplnit
+      - Trh dlouhodobých úvěrů
+      - Trh dlouhodobých cenných papírů
+    - Trh drahých kovů (komoditní trh)
+      - Doplnit
+    - Trh s cizími měnami (devizový trh)
 
 ----
 :::
@@ -2739,6 +2748,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Kvantitativní uvolňování
+
+Automatické facility
+
+PRIBOR
+
+REPO
+
+Lombardni
+
+Diskontni
+
+Operace na peneznim trhu
+
+Devalvace a revalvace měny - prodej a nákup deviz
+
+Minimalni bankovni rezervy
 
 ----
 :::
