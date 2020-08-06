@@ -1859,8 +1859,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [x] Trh a jeho funkce
 - [ ] Teoretické zdůvodnění různých přístupů k trhu
 - [ ] Výsledek potalčení trhu
-- [ ] Definice tržního selhání
-- [ ] Podívat se i na nabídku a poptávku
+- [x] Definice tržního selhání
+- [x] Podívat se i na nabídku a poptávku
 - [ ] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
 
 \|------------------------------\| <br>
@@ -2009,6 +2009,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Doplnit
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
+  - 
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
