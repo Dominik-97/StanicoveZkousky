@@ -2031,7 +2031,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Poukázky na znečištění**: obdobné jako daně, finanční zatížení negativních externalit.
         - **Soukromé řešení (Coaseův teorém)**: možnost dosažení řešení za pomocí vyjednávání dotčených stran (například společnosti a občanů), při nízkých nákladech, tedy například **transakčních nákladech** se mohou strany domluvit na řešením výhodném pro všechny strany, například pokud by strana dotčená externalitou nabídla firmě větší množství určitého statku (například peněz), než by představoval mezní užitek společnosti z investice v dané oblasti, bude to pro ní přiznivější a nabídku přijme, může se tak dosáhnout takzvaného **Paretova optima** (Paretovo optimum je ekonomický stav, kdy jeden ze seubjektů na trhu již nemůže dosáhnout lepšího postavení bez toho, aby se zhoršilo postavení jiného ekonomického subjektu), tedy například pokud je můj mezní užitek z poslechu hlasité hudby **100 Euro** a soused by svojí škoda (tedy jakýsi mezní náklad) z poslechu hlasité hudby ocenil například na **200 Euro**, je možné situaci vyřešit tak, že by mi soused dal **150 Euro**, tím by snížil svůj mezní náklad o **50 Euro** a můj mezní užitek by se zvýšil taky o **50 Euro**, oba bychom tedy vydělali, je ale vidět, že kvůli tomuto vyčíslení je absolutně nezbytné, aby byly malé transakční náklady, pokud budou velké, toto vyrovnání již nebude fungovat.
     - **Veřejné statky**
-      - Doplnit
+      - Jedná se standardně o statky, které trh nedokáže efektivně poskytovat, ale jsou důležité pro správné fungování společnosti, standardně spadá do úloh státu.
+      - Jedná se například o veřejné osvětlení, národní ochranu - armádu a podobně.
+      - **Proč trh tyto statky neposkytuje?**
+        - Nelze od jednotlivců vymáhat adekvátní protiplnění a navíc je ze spotřeby daného statku nelze vyloučit (**problém černého pasažéra**) - firma by tedy měla velký problém se zajišťováním svého vlastního zisku.
+        - **Vysoké vstupní investice, které by mohli způsobit následnou vysokou cenu statku  pro část společnosti, navíc mají dané statky malou a dlouhotrvající míru návratnosti**.
+      - **Řešení**:
+        - Potenciálně třeba státní monopol, nebo státem zřízený monopol, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
       - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
