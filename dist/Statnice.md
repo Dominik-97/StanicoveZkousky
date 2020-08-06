@@ -2630,7 +2630,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Má čtyři fáze:**
     - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
     - **Dno:** představuje bod obratu, kdy recese přechází do oživení.
-    - **Vrchol:** představuje bod zlomu po oživení, kdy kvůli určitému důvodu ekonomika přechází do recese, ekonomika je v tomto bodě na vrcholu a je také značně přehřátá.
+    - **Vrchol:** představuje bod zlomu po oživení, kdy kvůli určitému důvodu ekonomika přechází do recese, ekonomika je v tomto bodě na vrcholu a je také značně přehřátá, reálný produkt je nad potenciálním produktem, to je způsobeno především zahraničním kapitálem, respektive ten způsobuje to, že je reálný produkt nad potenciálním.
     - **Oživení:** roste agregátní poptávka, zaměstnanost, ceny i zisky, růst investic je založen na očekávání vysokých zisků, kvůli investicím roste produktivita práce a roste ekonomika - zvyšuje se potenciální produkt, skutečný produkt se dostává nad potenciální produkt v důsledku zahraničních investic a ekonomika se přehřívá, hodně se projevují inflační tlaky.
   - **Časové rozlišení**
     - **Krátkodobý:**
