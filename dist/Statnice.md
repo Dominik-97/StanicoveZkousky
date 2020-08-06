@@ -2767,6 +2767,10 @@ Devalvace a revalvace měny - prodej a nákup deviz
 
 Minimalni bankovni rezervy
 
+Kurzy
+
+​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
+
 ----
 :::
 #### Otázka 11 - Fiskální politika (cíle, hlavní subjekty a nástroje), analýza vládních výdajů (obecné problémy, restriktivní a expanzivní přístup, vestavěné stabilizátory, vliv dotací a subvencí, deficity a vytěsňování soukromých investic). \
