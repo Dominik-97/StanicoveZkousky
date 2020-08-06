@@ -2020,6 +2020,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
           - **Soukromé řešení**: co nejmenší státní zásahy, řešení nechat na soukromé iniciativě při ochraně práv a náhrady škody.
     - **Externality**
       - V situaci, když nejsou vlastníci ekonomických zdrojů vybaveni zákonnou autoritou k jejich ochranně a využití; trh tyto zdroje nedokáže efektivně využívat; nebo když nejsou vlastnická práva k určitým zdrojům dostatečně jasně vymezena a definována.
+      - Vedlejší účinky soukromých ekonomických aktivit - jejich náklady a výnosy ale neprocházejí trhem a trh je nedokáže ocenit.
+      - Důsledkem externalit je, že ekonomické subjekty nevěnují, respektive subjekty externalit, nevěnují při svém rozhodování dostatečnou pozornost vnějším dopadům své činnosti, protože je k tomu nevedou tržní stimuly - **trh hodnotu externalit nedokáže ocenit**.
+      - Existují **dva typy** externalit:
+        - **Pozitivní**: například zlepšení veřejného prostranství jako vedlejší produkt nějaké investice, stát toto může podporovat za pomocí **subvencí**.
+        - **Negativní**: Přesný opak pozitivních externalit, například negativní dopad investice na životní prostředí, stát může omezovat negativní externality například s použitím **ekologických daní**, **poukázek na znečištění** etc.
+      - **Řešení**: existuje několik způsobů řešení:
+        - **Regulace**: povinnosti zamezit znečišťování, povinnost zkvalitňovat okolí etc. cena za vyprodukovaný statek pak zahrnuje i cenu externality.
+        - **Daně**: pozitivní ve smyslu snížení daňové zátěže při pozitivních externalitách, nebo jeho zvýšení při negativních externalitách.
+        - **Poukázky na znečištění**: obdobné jako daně, finanční zatížení negativních externalit.
+        - **Soukromé řešení (Coaseův teorém)**: možnost dosažení řešení za pomocí vyjednávání dotčených stran (například společnosti a občanů), při nízkých nákladech, tedy například **transakčních nákladech** se mohou strany domluvit na řešením výhodném pro všechny strany, například pokud by strana dotčená externalitou nabídla firmě větší množství určitého statku (například peněz), než by představoval mezní užitek společnosti z investice v dané oblasti, bude to pro ní přiznivější a nabídku přijme, může se tak dosáhnout takzvaného **Paretova optima** (Paretovo optimum je ekonomický stav, kdy jeden ze seubjektů na trhu již nemůže dosáhnout lepšího postavení bez toho, aby se zhoršilo postavení jiného ekonomického subjektu), tedy například pokud je můj mezní užitek z poslechu hlasité hudby **100 Euro** a soused by svojí škoda (tedy jakýsi mezní náklad) z poslechu hlasité hudby ocenil například na **200 Euro**, je možné situaci vyřešit tak, že by mi soused dal **150 Euro**, tím by snížil svůj mezní náklad o **50 Euro** a můj mezní užitek by se zvýšil taky o **50 Euro**, oba bychom tedy vydělali, je ale vidět, že kvůli tomuto vyčíslení je absolutně nezbytné, aby byly malé transakční náklady, pokud budou velké, toto vyrovnání již nebude fungovat.
     - **Veřejné statky**
       - Doplnit
     - **Nedokonalé informace**
