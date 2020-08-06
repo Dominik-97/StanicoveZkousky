@@ -2037,7 +2037,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - Nelze od jednotlivců vymáhat adekvátní protiplnění a navíc je ze spotřeby daného statku nelze vyloučit (**problém černého pasažéra**) - firma by tedy měla velký problém se zajišťováním svého vlastního zisku.
         - **Vysoké vstupní investice, které by mohli způsobit následnou vysokou cenu statku  pro část společnosti, navíc mají dané statky malou a dlouhotrvající míru návratnosti**.
       - **Řešení**:
-        - Potenciálně třeba státní monopol, nebo státem zřízený monopol, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
+        - Potenciálně třeba státní monopol, nebo **státem zřízený monopol**, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
       - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
@@ -2164,9 +2164,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - eˇd = (ZMĚNA Q / Q) / (ZMĚNA P / P)
     - Je-li změna poptávky v absolutní hodnotě větší než 1 = elastická poptávka, zvýšení ceny o jedno procento vyvolá více než jednoprocentní pokles poptávky po daném statku a sníží se spotřebitolovi výdaje na daný statek.
     - Je-li elasticita menší než 1 = neelastická poptávka, zvýšení ceny se neprojevý takovým snížením poptávky a spotřebitelé si za statek připlatí.
-    - Pokud je elasticita rovná 1, tak se jedná o jednotkově elastickou poptávku a změna ceny ponechá výdaje na stetek beze změny.
+    - Pokud je elasticita rovná 1, tak se jedná o jednotkově elastickou poptávku a změna ceny ponechá výdaje na stetek beze změny, procentní změna ceny tedy vyvolá stejnou procentuální změnu poptávky.
     - Záleží i na dlouhém a krátkém období, některé statky jsou elastické jak v krátkém, tak i v dlouhém období, některé statky jsou však například v krátkém období méně elastické, než v období dlouhém.
     - Na elasticitu poptávky má vliv zejména to, zda je možné statek substituovat jiným statekem a zda jsou to statky zbytné, nebo nezbytné.
+    - **Dokonale elastická a dokonale neelastická poptávka**: při dokonale elastické poptávce (například na trhu dokonalé konkurence) se při změně ceny o jakékoliv množství nekonečně změní poptávka směrem dolů nebo nahoru, při dokonale neelastické poptávce se poptávka při jakékoliv změně ceny absolutně nezmění.
 - Změna samotné poptávky
   - Je důležité odlišovat od změny poptávaného množství, což je jen posun po křivce.
   - Nicméně může se měnit i samotná funkce poptávky posouváním po grafu.
