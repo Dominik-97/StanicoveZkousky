@@ -2579,6 +2579,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
     - Spotřební koš, index spotřebitelských cen
+    - Inflace tažená poptávkou
+    - Inflace tažená nabídkou
   - Agregátní poptávka a agregátní nabídka
     - Jedná se o něco jiného než je **tržní poptávka**, vyjadřuje poptávku nebo nabídku zahrnující veškeré statky, ty se ale vzhledek k tomu, že nejsou sčitatelné musí vyjadřovat jinak - vyjadřují se proto v **penězích**.
     - Agregátní nabídka je celková nabídka všech zboží a služeb, které byli v ekonomic vyrobeny a firmy je chtějí prodávat.
