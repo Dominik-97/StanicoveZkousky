@@ -1861,7 +1861,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [ ] Výsledek potalčení trhu
 - [x] Definice tržního selhání
 - [x] Podívat se i na nabídku a poptávku
-- [ ] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
+- [x] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -2009,7 +2009,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Doplnit
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
-  - 
+  - Jsou 4 typy - konvergující - nejčastější, divergující, stálá a oscilující
+  - Záleží na tvaru křivek nabídky a poptávky.
+  - Určuje jakým způsobem se vyrovnává cena a nabídka ve chvíli, kdy existuje nadprodukce a je stanovena vyšší cena.
+  - Proces je obecně následující: P1,Q1 -> P2,Q2 -> P3,Q3 -> tržní cenová rovnováha, tzn. výrobce mění cenu a nabízené množství v závislosti na poptávce, s každou změnou se přibližuje tržnímu optimu až ho eventuálně dosáhne (v případě konvergující pavučiny).
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
