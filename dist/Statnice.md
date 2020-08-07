@@ -2237,6 +2237,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
   - Výrobce tak může změnami své produkce do určité míry ovlivnit docilovanou cenu. Takový trh je nedokonalý (též nedokonale konkurenční).
   - Z hlediska trhů nedokonalé konkurence je ideální monopolistická konkurence, monopoly a oligopoly podléhají regulaci ze strany regulačních orgánů - Ministerstvo financí, Úřad pro ochranu hospodářské soutěže, Energetický regulační úřad, Telekomunikační úřad atd.
+  - Výrobce není pouze příjemcem ceny, ale může jí i tvořit, a to ne pouze snižováním výrobních nákladů, ale klasickými způsoby tvorby ceny (trhy nedokonalé konkurence nejsou dokonale elastické, takže i když bude cena nad tržní rovnovážnou cenou, neznamená to nulovou poptávku po daném statku), druhy tvorby cen jsou následující:
+  - **Nákladová:** náklady na výrobu + stanovená marže,
+  - **Hodnotová:** cena je stanovena podle hodnoty, kterou zákaznící v produktu vidí,
+  - **Poptávková:** cena je stanovena podle poptávky po produktu,
+  - **Konkurenční:** cena je stanovena podle konkurence a jejich cen na trhu.
   - Mezní příjem a cenová tvorba na nedokonalém trhu
     - Mezní příjem: přírůstek celkového příjmu dosažený zvýšením prodeje o jednotku.
     - Mezní náklady: přírůstek celkových nákladů díky zvýšení prodeje o jednotku.
