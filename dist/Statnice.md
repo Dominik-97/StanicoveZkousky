@@ -2083,6 +2083,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Vztah nabídky a poptávky na trhu:**
     - Při konkurenci prodávajícího a spotřebitele každý maximalizuje svůj užitek jiným způsobem, spotřebitel maximalizuje svůj užitek při spotřebe co největšího množství za co nejnižší cenu a výrobce maximalizuje svůj užitek při prodeji co největšího množství statku za co nejvyšší cenu.
     - Na trhu je proto bod, ve kterém se protíná nabídka a poptávka, tomuto bodu se říká **rovnovážná cena**, jedná se o cenu která vyhovuje jak prodávajícím, tak i nakupujícím, jedná se o cenu, při které exituje rovnováha mezi množstvím statku, které jsou výrobci za určitou cenu ochotni prodat a mezi množstvím, které jsou ochotni spotřebitelé při určité ceně koupit.
+    - Pokud by cena byla vyšší, než je rovnovážná cena, byl by na trhu **přebytek**, v opačném případě by byla větší **poptávka než je nabídka a zboží by na trhu bylo nedostatek**.
+    - Skutečná cena však nikdy nebude rovná **rovnovážné ceně**, ale bude kolem ní oscilovat - **teorém pavučiny**.
+    - Při rovnovážné ceně pak část výrobců dosáhne **přebytku výrobce** a část nakupujících dosáhne **přebytku spotřebitele**, výrobci, kteří by chtěli prodávat za vyšší cenu, nebo poptávající, kteří by chtěli kupovat za nižší cenu, než je rovnovážná cena pak na trhu budou tvořit **neuspokojenou (nerealizovanou) nabídku nebo potávku** a musejí hledat své možnosti na alternativních trzích substitutů.
+    - Vliv na nabídku a poptávku mají rovněž vliv i **daně**, **cla**, či jiné **transakční náklady** spojené s tím, aby se zboží dostalo od prodávajícího ke kupujícímu, tyto platí zákazník, ale k výrobci se nikdy nedostanou.
 
 
 
