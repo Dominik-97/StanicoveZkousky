@@ -2333,6 +2333,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Každá firma tedy ve svém důsledku dělá jen to, že vyrovnává své mezní náklady s mezním příjmem.
     - V případě změn na trhu se může na trh dostat další prodejce, který bude taky ziskový, poptávka se střetne s větším počtem firem na trhu a to povede ke snížení cen a ke snížení celkového ekonomického zisku jednotlivých letišť.
     - Je zajímavé zmínit teorii her, respektive takzvané vězňovo dilema, pokud firmy spolupracují, dosáhnout největších zisků. Může se zde například řadit kartelová dohoda, ta však narušuje hospodářskou soutěž, v Čr jsou takové dohody neplatné.
+    - **Oligopol koluzivní** - tajná dohoda mezi dvěma či více firmami o stanovení ceny (cenového kartelu), podmínek odbytu a odbytových či nákupních cen, blíží se dominanci, vychází z **Teorie her** a také z **Vězňova dilemata**, tedy že při spolupráci dosáhnou všechny strany pro ně přiznivějšího efektu, než kdyby stáli proti sobě.
   - Monopolistická konkurence
     - Nejběžnější typ nedokonalého trhu.
     - Heterogenní výrobek je tvořen blízkými substituty.
