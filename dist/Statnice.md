@@ -3083,7 +3083,7 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 
 - Zisk podniku, náklady podniku, příjmy podniku
   - Doplnit
-  - Účetní zisk - celkový příjem - explicitní náklady
+  - Účetní zisk - celkový příjem - explicitní náklady, zisk je tedy TR - TC
   - Ekonomický zisk - Účetní zisk - implicitní náklady
 
 ----
