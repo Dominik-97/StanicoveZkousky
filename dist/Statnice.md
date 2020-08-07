@@ -2223,6 +2223,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Nepatrné zvýšení ceny se na takovémto trhu projeví ztrátou veškerých zákazníků, zatímco nepatrně snížení ceny se projeví tím, že u daného prodejce budou chtít kupovat daný statek úplně všichni, nicméně prodejce nedokáže uspokojit celkovou agregátní poptávku.
   - Výrobce tedy nemůže změnami své produkce ovlivnit docilovanou cenu. Pokud toto platí pro všechny výrobce dodávající na daný trh, říkáme o takovém trhu, že je dokonalý (též dokonale konkurenční).
   - Dokonale elastická nebo neelastická poptávka je poptávkou: kdy i nepatrná změna ceny má nekonečný vliv na odezvu nabídky resp. poptávky, a naopak **dokonale neelastická nabídka/poptávka**, kdy nabídka nebo poptávka po daném zboží je zcela nezávislá na její ceně.
+  - Tím, že žádný prodejce nedokáže ovlivňovat cenu, jsou všichni výrobci pouze příjemnce rovnovážné ceny, dokážou jí částečně ovlivňovat pouze snižováním svých nákladů, ale kvůli dokonale elastické poptávce ji pak nejsou schopni uspokojit.
+  - Efektivnost tržního rozdělování zdrojů - ekonomická rovnováha je ekonomicky efektivní v tom smyslu, že výroba je produkována při nejmenších možných nákladech.
   - Podmínky
     - Podmínky, které musí trh splňovat, aby se dal považovat za dokonale konkurenční jsou:
       - Dokonalá informovanost kupujících a prodávajících: tato podmínka bývá splňována pouze na územně centralizovaných trzích
