@@ -2127,6 +2127,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Pokud je tato podmínka splněna lze hovořit o **optimální spotřebitelské alokaci**.
 - Poptávka
   - **Poptávka** ukazuje, jak závisí poptávané množství statku na ceně.
+  - **Motivem, který ovlivňuje spotřebitelovo chování je:**
+    - cena produktu +
+    - preference
+    - celková výše spotřeby
+    - statní zboží, tedy suplementy a komplementy
+    - očekávání příjmu, cen i vkusu
   - Znázorněna pomocí křivky poptávky.
   - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků - tedy při stavu **ceteris paribus**.
   - Křivka poptávky v zásadě kopíruje křivku mezního užitku - jedná se o zákon klesající poptávky. Každý její bod říká, že cena, kterou spotřebitel platí, odpovídá meznímu užitku statku.
@@ -2289,6 +2295,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Monopol
     - Na trhu je pouze jeden prodávající.
     - Zakládní charakteristikou je: nemožnost substituování daného statku ze strany poptávajících - musí za něj buď zaplatit, nebo se bez něj obejít a překážky vstupu na trh pro další nabízející, existují například přírodní, technologické, legislativní-licence, patentové překážky vstupu na trh.
+    - Poptávky bude spíše neelastická kvůli absenci **substitučního efektu**.
     - Je nejvzdálenější podmínkám dokonalé soutěže, největší ztráty ekonomické efektivnosti, křivka poptávky po statcích monopolu je shodná s křivkou tržní poptávky.
     - Určení, zda má firma dominantní postavení na trhu je těžké určit.
     - Možnosti cenové diskriminace a artificiálního určování cen.
