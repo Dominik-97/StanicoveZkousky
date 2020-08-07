@@ -2236,6 +2236,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Poptávka na trhu s nedokonalou konkurencí není dokonale elastická.
   - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
   - Výrobce tak může změnami své produkce do určité míry ovlivnit docilovanou cenu. Takový trh je nedokonalý (též nedokonale konkurenční).
+  - Z hlediska trhů nedokonalé konkurence je ideální monopolistická konkurence, monopoly a oligopoly podléhají regulaci ze strany regulačních orgánů - Ministerstvo financí, Úřad pro ochranu hospodářské soutěže, Energetický regulační úřad, Telekomunikační úřad atd.
   - Mezní příjem a cenová tvorba na nedokonalém trhu
     - Mezní příjem: přírůstek celkového příjmu dosažený zvýšením prodeje o jednotku.
     - Mezní náklady: přírůstek celkových nákladů díky zvýšení prodeje o jednotku.
