@@ -2079,6 +2079,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Elasticita nabídky** - měří pružnost reakce nabídky na změnu ceny
     - Záleží na tom, jak rychle je schopen výrobce zareagovat na změnu poptávky na trhu (změnu poptávkové křivky), obecně nějaká odvětví reagují rychleji - jsou pržnější a nějaká pomaleji - jsou méně pružnější.
     - **V krátkodobém hledisku jsou obecně všechny nabídky nepružné, v dlouhém období jsou však pružnější.**
+    - Výrobci mohou na změny poptávky reagovat i pokud mají **zásoby hotových výrobků**, standardně se může jednat o levné zboží, které se dá rychle vyrobit a nepodléhá tak rychle zkáze, zásoby tedy ovlivňují pružnost nabídky, ale pro výrobce není efektivní tvořit jich mnoho, neboť na sebe mohou vázat prostředky (kapitál), které by mohli být investovány efektivněji.
+  - **Vztah nabídky a poptávky na trhu:**
+    - Při konkurenci prodávajícího a spotřebitele každý maximalizuje svůj užitek jiným způsobem, spotřebitel maximalizuje svůj užitek při spotřebe co největšího množství za co nejnižší cenu a výrobce maximalizuje svůj užitek při prodeji co největšího množství statku za co nejvyšší cenu.
+    - Na trhu je proto bod, ve kterém se protíná nabídka a poptávka, tomuto bodu se říká **rovnovážná cena**, jedná se o cenu která vyhovuje jak prodávajícím, tak i nakupujícím, jedná se o cenu, při které exituje rovnováha mezi množstvím statku, které jsou výrobci za určitou cenu ochotni prodat a mezi množstvím, které jsou ochotni spotřebitelé při určité ceně koupit.
 
 
 
