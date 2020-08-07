@@ -2149,6 +2149,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Pokud je tato podmínka splněna lze hovořit o **optimální spotřebitelské alokaci**.
 - Poptávka
   - **Poptávka** ukazuje, jak závisí poptávané množství statku na ceně.
+  - **Poptávka je klesající, protože v rámci kardinalistické teorie lze odvodit od mezního užitku, u kterého platí zákon klesajícího mezního užitku, zákazník totiž maximalizuje svůj užitek, respektive je v optimu, když MU = P respektive MU = MC, přičemž logicky P = MC v případě kupovaného statku, tím, že se mezní užitek měří v penězích, lze na osy zanést hodnoty P a Q, tedy stejné hodnoty, které se používají pro zobrazování poptávky, klesající mezní užitek tedy způsobuje klesající poptávku, respektive křivka poptávky kopíruje křivku mezního užitku, v případě nabídky je to obdobné, protože neboť mezní příjem (dalo by se řící mezní užitek) s každým prodaným kusem roste.**
   - **Motivem, který ovlivňuje spotřebitelovo chování je:**
     - cena produktu +
     - preference
