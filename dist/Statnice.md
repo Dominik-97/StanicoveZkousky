@@ -2902,6 +2902,14 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 
 Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
 
+Dlouhodobé a krátkodobé období.
+
+Práce = L = Variabilní náklady
+
+Kapitál = K = Fixní náklady
+
+Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+
 ----
 :::
 #### Otázka 13 - Efektivnost podniku a její základní kategorie, cíle a funkce podniku (poslání a vize podniku, S.M.A.R.T. cíle, ziskové a neziskové formy podnikání, podnikatelské objevování), investiční rozhodování podniku (základní metody a jejich užití). \
