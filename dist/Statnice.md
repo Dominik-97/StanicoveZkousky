@@ -2074,6 +2074,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - nabídce alternativních zdrojů, které by mohl výrobce se stejnými zdroji vyrábět,
       - nabídce zboží, které výrobce současně vyrábí - souvisí s **alokační funkcí ceny**,
       - dalších neočekávaných vlivech na nabídku.
+    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální,
+    - Dále by se dalo hovořit o **zcela elastické nabídce**, kdy je křivka horizontální, jako příklad by se dal uvést **trh dokonalé konkurence**.
+  - **Elasticita nabídky** - měří pružnost reakce nabídky na změnu ceny
+    - Záleží na tom, jak rychle je schopen výrobce zareagovat na změnu poptávky na trhu (změnu poptávkové křivky), obecně nějaká odvětví reagují rychleji - jsou pržnější a nějaká pomaleji - jsou méně pružnější.
+    - **V krátkodobém hledisku jsou obecně všechny nabídky nepružné, v dlouhém období jsou však pružnější.**
 
 
 
