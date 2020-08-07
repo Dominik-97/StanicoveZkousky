@@ -2128,7 +2128,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - Poptávka
   - **Poptávka** ukazuje, jak závisí poptávané množství statku na ceně.
   - Znázorněna pomocí křivky poptávky.
-  - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků.
+  - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků - tedy při stavu **ceteris paribus**.
   - Křivka poptávky v zásadě kopíruje křivku mezního užitku - jedná se o zákon klesající poptávky. Každý její bod říká, že cena, kterou spotřebitel platí, odpovídá meznímu užitku statku.
   - **Poptávané množství** je množství statku, které spotřebitel při určité ceně poptává, to je klesající funkcí. Zatímco poptávka je celou funkcí, nicméně tato funkce může sama o sobě také klesat, nebo stoupat jejím posunem v grafu. Obecně by sa dalo říci, že poptávka záleží na ceně, nikoliv cena na poptávce, toto je vysloveno například zde [tady](http://www.imaturita.cz/maturitni-otazky/marketing-a-management/poptavka/373/).
   - **Zákon klesající poptávky** - důchodový a substituční efekt
