@@ -3072,6 +3072,8 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 
 - Zisk podniku, náklady podniku, příjmy podniku
   - Doplnit
+  - Účetní zisk - celkový příjem - explicitní náklady
+  - Ekonomický zisk - Účetní zisk - implicitní náklady
 
 ----
 :::
