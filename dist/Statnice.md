@@ -2935,6 +2935,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Financování podniku
+  - Doplnit
+
 ----
 :::
 #### Otázka 15 - Podnikové řízení (rámec strategického řízení, taktické a operativní řízení), oddělení vlastnictví a řízení podniku, správa a řízení velké společnosti (korporátní strategie, nadnárodní společnosti). Organizační výstavba podniku (typická oddělení v podniku, organizační inovace). \
@@ -2952,6 +2955,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Mezinárodní obchod
+  - V souvislost s nadnárodní společností
 
 ----
 :::
@@ -3025,6 +3031,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Výrobní faktory
+  - Doplnit
+
 ----
 :::
 #### Otázka 20 - Majetek podniku – charakteristika, členění, rozdíl mezi dlouhodobým a krátkodobým majetkem, oceňování, pořízení, odepisování, vyřazení. \
@@ -3060,6 +3069,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Zisk podniku, náklady podniku, příjmy podniku
+  - Doplnit
 
 ----
 :::
