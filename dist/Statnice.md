@@ -2292,9 +2292,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Je nejvzdálenější podmínkám dokonalé soutěže, největší ztráty ekonomické efektivnosti, křivka poptávky po statcích monopolu je shodná s křivkou tržní poptávky.
     - Určení, zda má firma dominantní postavení na trhu je těžké určit.
     - Možnosti cenové diskriminace a artificiálního určování cen.
+    - Mezní příjmy monopolu jsou vždy nižší než cena.
+    - Monopol však vždy prodává svoje statky za vyšší cenu než jsou jeho mezní náklady - výhodné pro jeho vlastníky - dosažení vyššího -> monopolního zisku.
+    - Je neefektivní - může například vyrábět málo, kdyby vyráběl víc, tak by to spotřebitelům přineslo **větší užitek, než by byly náklady monopolu spojené s větší výrobou**, přesto víc nevyrábí, tato neefektivnost je spojena s vyšší cenou.
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
+      - Výlučná kontrola nad přírodními omezenými zdroji či vstupy - **přírodní monopol**
       - Výlučná kontrola nad určitými vstupy výroby
-      - Výrazné úspory z rozsahu výroby (přirozený monopol)
+      - Výrazné úspory z rozsahu výroby (**přirozený monopol**)
         - Vzniká kvůli extrémním cenovým barierám vstupu na trh
         - Například síťové služby
         - Tyto přirozené monopoly jsou standardně regulovány státem
@@ -2302,10 +2306,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Poskytování státních licencí
     - Tržně neefektivní: zdroje neefektivnosti jsou například, selhávání tržní motivace, nedostatečný zájem o kvalitu výroby a úrověn poskytovaných služeb zákazníkům.
     - Státem vytvářené monopoly
-      - Státem zavedené monopoly - buď udělí stát výsadní právo produkovat statek jedné firmě, nebo kvůli existenci právních restrikcí v podobě: patentů, autorských práv, licencí, koncesí a podobně.
+      - **Státem zavedené monopoly** - buď udělí stát výsadní právo produkovat statek jedné firmě, nebo kvůli existenci právních restrikcí v podobě: patentů, autorských práv (**institucionální monopol**), licencí, koncesí a podobně.
       - Státní monopoly, jinak nazývané govopoly: jsou monopoly, které nejenže přímo provozuje stát, ale brání ostatním firmám produkovat stejný nebo podobný statek.
         - Příklady: tisk a emise peněz, armáda, policie a soudy, státní podniky, pošta, železnice a podobně.
       - Stát provozuje státní monopoly například z důvodu jejich společenské potřeby, ale tržní neudržitelnosti, národní bezpečnosti a podobně.
+      - Postupnou koncentrací a centralizací kapitálových zdrojů může dosáhnout firma úspor z rozsahu, což dává vzniknout **monopolu ekonomické síly**, dochází k němu pomocí **fůzí** a **akvizicí**, repsketive **přátelskému** a **nepřátelskému** **převzetí firmy**, například k tomu může dojít, když jedna společnost nastaví **dumpingové ceny** a jako důsledek převezme společnost, která nemůže při takto nastavených cenách společnosti konkurovat.
+        - **Hlavní kategorie fůzí:**
+          - **Horizontální fůze** - spojení dvou firem působících ve stejné oblasti,
+          - **Vertikální fůze** - spojení firem působících v různých článcích téhož výrobního procesu,
+          - **Konglomerační fůze** - spojení podniků, kt. spolu ekonomicky nesouvisejí
     - Regulace monopolů
       - Má chránit ekonomiku před neefektivností nedokonalé soutěže.
       - Tvoří se protimonopolním zákonodárstvím, regulací monopolů, využívání veřejného vlastnictví monopolů (například ve formě státního podniku, nebo akciové společnosti).
