@@ -2229,7 +2229,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Nulové náklady na změnu dodavatele
       - Homogenní produkt: tzn. stejná kvalita výrobku či pověst firmy, rozhodování je založené pouze na ceně. Na nedokonalých trzích jsou výrobky heterogenní.
       - Velký počet prodávajících: kteří ovládají pouze velice malou část trhu
-      - Pokud jsou všechny tyto 4 podmínky splněny, pak se jedná o dokonalý trh, pokud alespoň jedna splněna není, tak se jedná o trh nedokonalý
+      - Pokud jsou všechny tyto 4 podmínky splněny, pak se jedná o dokonalý trh, pokud alespoň jedna splněna není, tak se jedná o trh nedokonalý, jako další podmínka by se dala zařadit ještě neexistence jakýchkoliv bariér vstupu na trh
 - Nedokonalá konkurence
   - Poptávka na trhu s nedokonalou konkurencí není dokonale elastická.
   - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
