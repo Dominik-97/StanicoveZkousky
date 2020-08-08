@@ -2821,6 +2821,16 @@ Kurzy
 
 ​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
 
+Měnová politika expanzivní
+
+Měnová politika restriktivní
+
+Aktivistická měnová politika
+
+Měnová politika stálého pravidla
+
+Měnová politika cílování inflace
+
 ----
 :::
 #### Otázka 11 - Fiskální politika (cíle, hlavní subjekty a nástroje), analýza vládních výdajů (obecné problémy, restriktivní a expanzivní přístup, vestavěné stabilizátory, vliv dotací a subvencí, deficity a vytěsňování soukromých investic). \
