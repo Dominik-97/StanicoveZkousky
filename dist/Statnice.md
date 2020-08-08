@@ -3132,6 +3132,10 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Účetní závěrka se skládá z výsledovky (výkaz zisků a ztrát) a z rozvahy, přehled o finančních tocích, změny vlastního kapitálu a příloha k účetní závěrce, tou je komentář k účetní závěrce.
+
+Krom toho firma ještě podává přiznání k dani z příjmu právníckých osob a přiznání k dani z přidané hodnoty společně s kontrolním a souhrnným hlášením.
+
 ----
 :::
 #### Otázka 23 - Daně z hlediska hospodaření podniku, druhy a diskuse v rámci daňové reformy. \
