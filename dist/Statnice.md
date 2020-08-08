@@ -2583,6 +2583,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - V **jednoduchém ekonomickém modelu, respektive koloběhu** se dvěma subjekty (firmy a domácnosti) platí, že vytvořený produkt (**Y**) je součtem spotřeby domácností a jejich úspor.
     - Platí že **Y = C + S**, kde **C** je consumpiton = spotřeba a **S** je savings = úspory
     - Velikost spotřeby závisí na **disponibilním důchodu domácností** a na úrokové míře, podíl spotřeby na disponibilním důchodu se s růstem důchodu snižuje.
+    - **Disponobilní důchod** pak vyjadřuje reálnou míru bohatství domácností, zahrnuje v sobě **transferové platby** a je od něj potřeba **odečíst daně**.
     - K efektivnímu využití vzácných zdrojů dochází, když jsou úspory domácností použity jako investice ve firmách, tedy když I = S.
     - Investice se dělí na **hrubé** = bez započtení amortizace, jedná se o celkově vynaložené investice a **čisté** = vynaloženy navíc oproti předchozímu cyklu, se započtením amortizace, **čisté investice umožňují ekonomický růst**.
     - **Důchodotvorný účinek investic:** přírůstek investic vyvolá přírůstek důchodů, a tím i přírůstek spotřeby, hodně je investováno například když jsou levné peníze, souvisí s **inflací**.
