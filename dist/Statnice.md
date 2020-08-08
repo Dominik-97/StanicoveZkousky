@@ -2909,6 +2909,8 @@ Měnová politika cílování inflace
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Podnikání je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku.
+
 Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 
 Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
@@ -3087,6 +3089,21 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Pohledávky a závazky podniku
+  - [ ] Vznik a členění
+  - [ ] Zásada opatrnosti
+  - [ ] Cizí a vlastní zdroje (kapitál)
+- [ ] Náklady a výnos
+  - [ ] Zisk podniku, náklady podniku, příjmy podniku (Ekonomický pohled z distanční opory)
+  - [ ] Druhy
+  - [ ] Pravidla účtování
+  - [ ] Odrza v účetních výkazech
+- [ ] Řízení a účtování zásob
+  - [ ] Charakteristika
+  - [ ] Členění
+  - [ ] Způsoby účtování
+  - [ ] Oceňování spotřeby
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
