@@ -1736,7 +1736,7 @@ Ekonomie se **člení** na:
 
 **Ekonomie** (věda) a **ekonomika **(souhrn hospodářských činností ekonomických subjektů, které tyto subjekty vykonávají za účelem uspokojení svých potřeb).
 
-Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného.
+Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného - hranice produkčních možností.
 
 **Další dodatečné informace**, blížeji popsáno pak také v distanční opoře na stranně 4 (například používané metody a tak podobně) [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf):
 
@@ -1768,7 +1768,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Funkce cen**:
   * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod. a signalizuje hodnotu, kterou společnost v daném statku vidí i náklady na jeho výrobu ( = jeho relativní vzácnost)
   * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více. Motivuje tedy výrobce, aby vyráběl více a spotřebitele, aby více spotřebovával.
-  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké.
+  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností. Vede výrobce tedy k tomu, aby alokovat své zdroje tam, kde ceny převyšují náklady a odvádí je z oblastní, kde se mu již nevyplatí setrvávat, tedy například z oblastí, kde jsou ceny nízké - souvisí se strukturálnímy výkyvy ekonomiky a strukturální nezaměstnaností.
   * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit. Zboží získá ten, kdo bude schopný za něj zaplatit nejvíce, tedy ten, kdo z něho bude mít největší užitek a nejefektivněji ho využije. -> **systém aukce** - vede k maximálnímu zhodnocení ekonomických zdrojů. Rovněž odpovídá na otázku v rámci tržně-smíšeného ekonomického modelu **komu** / **jak rozdělit**.
   * (**Hodnototvorná funkce**): peněžní ocenění hodnoty zboží a služem, osobně tuto funkci považuji za součást funkce informační.
 * Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje **zákon jediné ceny**. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
@@ -1793,8 +1793,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 * Záleží na tom, kolik sektorů uvažujeme (**dva**, **tři**, nebo **čtyři**).
 * Nejzákladnějším případem je dvousektorová ekonomika složená ze **sektoru domácností** a ze **sektoru firem**.
-* **Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál + podnikatelské schopnosti**. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze ve formě mezd, platů, renty, úroků (dividendů), zisku , které domácnosti od firem utží se nazývají **důchody domácností**.
-* Za důchody domácností pak domácnosti od firem nakupují na trhu zboží a služeb jednotlivé statky, tyto výdaje se nazývají **spotřebitelské výdaje / spotřeba domácností**. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory. Firmy takto získané peníze rovněž používají k vytváření nových výrobních kapacit -> zvyšuje se poptávka po výrobních faktorech a zvyšuje se produkce. Do této kategories firem také rovněž spadají finanční podniky - banky, spořitelny, pojišťovny a tak dále, ty jen převádějí peníze od těch, kteří úspory vyttvářejí k těm, kteří si je půjčují.
+* **Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál + podnikatelské schopnosti (respektive čtvrtý faktor - nehmotný kapitál, lidský, intelektuální, sociální a plus právě ty podnikatelské schopnosti)**. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze ve formě mezd, platů, renty, úroků (dividendů), zisku , které domácnosti od firem utží se nazývají **důchody domácností**.
+* Za důchody domácností pak domácnosti od firem nakupují na trhu zboží a služeb jednotlivé statky, tyto výdaje se nazývají **spotřebitelské výdaje / spotřeba domácností**. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory. Firmy takto získané peníze rovněž používají k vytváření nových výrobních kapacit -> zvyšuje se poptávka po výrobních faktorech a zvyšuje se produkce. Do této kategories firem také rovněž spadají finanční podniky - banky, spořitelny, pojišťovny a tak dále, ty jen převádějí peníze od těch, kteří úspory vyttvářejí k těm, kteří si je půjčují - fungují zejména na **finanních trzích**.
 * Ekonomika funguje jako nepřetržitý koloběh.
 * **Třísektor** obsahuje i **stát** - ten kontroluje, nastavuje rovné prostředí a daní a rovněž se účastní na celém koloběhu (dal by se považovat jako firma), **čtyřsektor** i **zahraničí**, tedy export a import a investice a dividendy, obecně tedy cizinci kupují to co se tady vyrobí - tedy poskytují národnímu hospodářství kapitál, a naopak využívají ve svých ekonomikách vyvážený domácí kapitál.
 * Obchoduje se standardně na třech typech trhů v rámci ekonomického koloběhu:
@@ -1805,7 +1805,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * Mezi těmito trhy probíhají hmotné a finanční toky
   * **Model tržního hospodářství v systému právního státu**
     * Uzavřená ekonomika (uzavřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
-    * Otevřená ekonomika (otevřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3
+    * Otevřená ekonomika (otevřený koloběh) = Sektor 1 + Sektor 2 + Sektor 3 + Sektor 4
 * **Jednoduchý** a **úplný** koloběh
   * Jednoduchý koloběh je ve zkratce **dvousektor**
   * Úplný koloběh je **čtyřsektor**
@@ -1825,12 +1825,20 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě. - ZJISTIT JESTLI JE DOBRÁ NULOVÁ INFLACE - není, rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala. Inflační očekávání.
-  * **Deflace** - 
-  * **Stagflace** - (past na likviditu)
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě, je vedlejším produktem zvětšování peněžní báze a zlevňování peněz, o to se snaží centrální banka která se tim snaží udržet ekonomický růst okolo potenciálního produktu, ten ale předem nikdy nelze odhadnout, proto jedna z teorií říká, že za ekonomické cykly může svým rozhodováním i centrální banka s ohledem na velikost peněžní zásoby.
+    * **Nulová inflace** - není dobrá, neboť zvyšuje reálnou hodnotu dluhů, kvůli tomu mají lidé méně peněz volných k utrácení = zpomalení růstu ekonomiky, **dále zvyšuje reálné úrokové míry** = menší zájem o peníze, menší množství investic, menší ekonomický růst, **odklad spotřeby** = menší spotřeba, menší utrácení, menší zisky firem, menší ekonomický růst, **indikátor malého ekonomického růstu, nebo dokonce ekonomického poklesu**, **těžší stanovení cen, neboť se není možné spolehnout na inflační očekávání**. ~~rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala. Inflační očekávání.~~
+    * **Inflační spiral** - tlak na zvyšování mezd způsobí tlak na zvyšování cen, to způsobí tlak na zvyšování mezd a tak podobně.
+    * **Větší než cílovaná inflace** - neefektivní fungování trhů, znesnadňování sestavování dlouhodobých plánů, cenových kalkulací a rozpočtů, brzda produktivity práce kvůli nutnosti přesouvat zdroje od poskytování výrobků a služeb k finančním operacím s cílem zabezpečit se proti ztrátám, nedůvěra v měnu, přesun k naturálním směnám, nejistota ohledně budoucí kupní síly peněz odrazuje od investic a spoření, rovněž může způsobit taxflaci.
+    * **Pozitiva inflace** - vyšší pružnost trhů, neboť inflace může působit na menší reálné zvyšování mzdy, což je například ve vztahu k nedobrovolné nezaměstnanosti občas potřeba, inflace tedy může působit na reálné snižování mezd a dostat tak trh práce a trh obecně zpět do rovnováhy, mírná inflace rovněž zajistí, že nominální úrokové sazby zůstanou dostatečně vysoké, aby v případě potřeby mohla centrální banka nominální úrokové míry snížit pomocí monetární politiky, **jedná se tedy o jakýsi manévrovací prostor centrální banky**.
+  * **Deflace** - Mnoho podobných negativních faktorů jako u nulové inflace, může však být i pozitivní **například při technologickém vývoji a snížení nákladů v určitých odvětvích** - **způsobí větší výrobu za nižší ceny = to způsobí větší spotřebu a pozitivně působí na růst ekonomiky**, celková deflace v ekonomice však může působit velké problémy = zdražování dluhů, odkládání spotřeby, menší snaha o investice, neboť peníze se zhodnocují i když doma leží ladem, díky deflaci tak ekonomika může zklouznout i do recese, reálně klesají i zisky firem - ty musí dělat odpovídající opatření - například snižovat obejm výroby, propouštět zaměstnance a tak podobně.
+    * Pokud je inflace způsobená přemírou peněz na trhu, tak deflace je způsobena **nedostatkem peněz na trhu**.
+  * **Stagflace** - (past na likviditu), nejhorší možný scénář, jedná se zároveň o stagnaci ekonomiky a zároveň o vysoký růst inflace a vysokou nezaměstnanost, dříve popíralo Keynesiánství a Phillipsova křivka, vedlo ke krizím v souvislosti s ropnými šoky v 70. letech minulého století.
+    * **V souvislosti se stagflací se zrodila myšlenka MIltona Friedmana o přirozené míře nezaměstnanosti, problém spočívá v tom, že nezaměstnanost nelze snižovat pod přirozenou míru nezaměstnanosti, neboť to způsobí inflaci, ale nezaměstnanost se vrátí zpět na svojí původní honotu i přes prvotně způsobenou peněžní iluzi a ekonomický růst, ve finále se tedy docílí stejné nezaměstnanosti, ale nově dosažená inflace se ustálí a stane se novým standardem - tvz. novým inflačním očekáváním.**
+    * Inflační spirála se zastaví až ve chvíli, kdy se nezaměstnanost ustálí na své přirozené míře.
 * **Vytváření peněz**
-  * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka.
+  * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
+  * Viz otázka peníze.
 * Jak bohatne země, ekonomika, jak probíhá hospodářský růst
   * Viz otázka hospodářský růst
 
@@ -1848,12 +1856,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Trh a jeho funkce
+- [x] Trh a jeho funkce
 - [ ] Teoretické zdůvodnění různých přístupů k trhu
 - [ ] Výsledek potalčení trhu
-- [ ] Definice tržního selhání
-- [ ] Podívat se i na nabídku a poptávku
-- [ ] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
+- [x] Definice tržního selhání
+- [x] Podívat se i na nabídku a poptávku
+- [x] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -1881,9 +1889,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Podle typu zboží:
       - **Automobilový**, **počítačový** etc.
     - Trhy dle ekonomického koloběhu:
-      - Trh zboží a služeb: Je.
-      - Trh kapitálu: Je.
-      - Finanční trhy: Je.
+      - Trh zboží a služeb: Je them, na kterém se střetává nabídka a poptávka ve vztahu ke spotřebním statkům.
+      - Finanční trhy: Je trh, na kterém se střetává nabídka a poptávka ve vztahu k finančním prostředkům, cenným papírům a komoditám.
+      - Trh kapitálu, respektive výrobních faktorů: Je trh, na kterém se střetává nabídka a poptávka po výrobních faktorech domácností ze strany firem.
     - Obecně lze trhy členit dle:
       - Subjektů
       - Charakteru statků
@@ -1983,12 +1991,28 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Export drahých kovů z jiných zemí a jejich import do dané země tak ve svém důsledku znamenal zlevňování drahých kovů v místě importu a zdražování drahých kovů v místě exportu. Eventuálně se tak stal další export ekonomicky nevýhodným a obchod směřoval k obrácení obchodní bilance.
   - **Klasickou ekonomii** - celkové nahrazení merkantilistických systémů představovala **klasická politická ekonomie** Adama Smitha.
     - Rozvoj v souvislosti, respektive v období, anglické průmyslové revoluce.
+    - Podporovala ekonomický liberalismus a trine řízení ekonomiky bez státních zásahů.
+    - Důležité pojmy: neviditelná ruka trhu, lassiez faire, ekonomové této teorie chápali hospodářství jako samoregulující se systém ovládaný vlastními zákonitostmi.
+    - Končí na konci 19. století společně s **marginalistickou revolucí**.
+    - Vznik kvůi technickému rozvoji, vzniku kapitalistické třídy a nefunkci merkantilismu.
+    - **Marginalismus**:
+    - **Monetarismus**: 
+    - **Neoklasicismus**: 
+    - **Nová klasická makroekonomie**:
   - **Keynesiánství**
-    - Bretton-Woodská konference.
+    - Bretton-Woodská konference. Zlatý standard.
+    - **Neokeynesiánství**: 
+    - **Postkeynesiánství**:
+  - Současné ekonomické směry:
+    - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
   - Doplnit
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
+  - Jsou 4 typy - konvergující - nejčastější, divergující, stálá a oscilující
+  - Záleží na tvaru křivek nabídky a poptávky.
+  - Určuje jakým způsobem se vyrovnává cena a nabídka ve chvíli, kdy existuje nadprodukce a je stanovena vyšší cena.
+  - Proces je obecně následující: P1,Q1 -> P2,Q2 -> P3,Q3 -> tržní cenová rovnováha, tzn. výrobce mění cenu a nabízené množství v závislosti na poptávce, s každou změnou se přibližuje tržnímu optimu až ho eventuálně dosáhne (v případě konvergující pavučiny).
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
@@ -2000,8 +2024,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
           - **Soukromé řešení**: co nejmenší státní zásahy, řešení nechat na soukromé iniciativě při ochraně práv a náhrady škody.
     - **Externality**
       - V situaci, když nejsou vlastníci ekonomických zdrojů vybaveni zákonnou autoritou k jejich ochranně a využití; trh tyto zdroje nedokáže efektivně využívat; nebo když nejsou vlastnická práva k určitým zdrojům dostatečně jasně vymezena a definována.
+      - Vedlejší účinky soukromých ekonomických aktivit - jejich náklady a výnosy ale neprocházejí trhem a trh je nedokáže ocenit.
+      - Důsledkem externalit je, že ekonomické subjekty nevěnují, respektive subjekty externalit, nevěnují při svém rozhodování dostatečnou pozornost vnějším dopadům své činnosti, protože je k tomu nevedou tržní stimuly - **trh hodnotu externalit nedokáže ocenit**.
+      - Existují **dva typy** externalit:
+        - **Pozitivní**: například zlepšení veřejného prostranství jako vedlejší produkt nějaké investice, stát toto může podporovat za pomocí **subvencí**.
+        - **Negativní**: Přesný opak pozitivních externalit, například negativní dopad investice na životní prostředí, stát může omezovat negativní externality například s použitím **ekologických daní**, **poukázek na znečištění** etc.
+      - **Řešení**: existuje několik způsobů řešení:
+        - **Regulace**: povinnosti zamezit znečišťování, povinnost zkvalitňovat okolí etc. cena za vyprodukovaný statek pak zahrnuje i cenu externality.
+        - **Daně**: pozitivní ve smyslu snížení daňové zátěže při pozitivních externalitách, nebo jeho zvýšení při negativních externalitách.
+        - **Poukázky na znečištění**: obdobné jako daně, finanční zatížení negativních externalit.
+        - **Soukromé řešení (Coaseův teorém)**: možnost dosažení řešení za pomocí vyjednávání dotčených stran (například společnosti a občanů), při nízkých nákladech, tedy například **transakčních nákladech** se mohou strany domluvit na řešením výhodném pro všechny strany, například pokud by strana dotčená externalitou nabídla firmě větší množství určitého statku (například peněz), než by představoval mezní užitek společnosti z investice v dané oblasti, bude to pro ní přiznivější a nabídku přijme, může se tak dosáhnout takzvaného **Paretova optima** (Paretovo optimum je ekonomický stav, kdy jeden ze seubjektů na trhu již nemůže dosáhnout lepšího postavení bez toho, aby se zhoršilo postavení jiného ekonomického subjektu), tedy například pokud je můj mezní užitek z poslechu hlasité hudby **100 Euro** a soused by svojí škoda (tedy jakýsi mezní náklad) z poslechu hlasité hudby ocenil například na **200 Euro**, je možné situaci vyřešit tak, že by mi soused dal **150 Euro**, tím by snížil svůj mezní náklad o **50 Euro** a můj mezní užitek by se zvýšil taky o **50 Euro**, oba bychom tedy vydělali, je ale vidět, že kvůli tomuto vyčíslení je absolutně nezbytné, aby byly malé transakční náklady, pokud budou velké, toto vyrovnání již nebude fungovat.
     - **Veřejné statky**
-      - Doplnit
+      - Jedná se standardně o statky, které trh nedokáže efektivně poskytovat, ale jsou důležité pro správné fungování společnosti, standardně spadá do úloh státu.
+      - Jedná se například o veřejné osvětlení, národní ochranu - armádu a podobně.
+      - **Proč trh tyto statky neposkytuje?**
+        - Nelze od jednotlivců vymáhat adekvátní protiplnění a navíc je ze spotřeby daného statku nelze vyloučit (**problém černého pasažéra**) - firma by tedy měla velký problém se zajišťováním svého vlastního zisku.
+        - **Vysoké vstupní investice, které by mohli způsobit následnou vysokou cenu statku  pro část společnosti, navíc mají dané statky malou a dlouhotrvající míru návratnosti**.
+      - **Řešení**:
+        - Potenciálně třeba státní monopol, nebo **státem zřízený monopol**, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
       - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
@@ -2023,7 +2063,30 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Řešení**: (Úloha státu) -> zkvalitnit rozhodování státu (veřejné zakázky)
           - **Soukromé řešení**: co nejnižší zdanění a státní zásahy, vše ponechat na soukromé iniciativě (problém, že to musí chtít většina voličů)
 - Nabídka a poptávka, její změna a souvislosti
-  - Doplnit
+  - Změna nabídky a poptávky probíhá z důvodů, kvůli kterým se posouvá nabídková nebo potávková křivka, **ze strany nabídky je to například v případech změny ceny vstupů, vznik nových ziskových příležitostí - přesun k výrobě jiného produktu, nabídka ostatních produktů proto poklesne, změna kvůli očekávání do budoucna, změna v přístupu na trh - například v případě deregulace nějakého trhu**, pokud bychom se podívali na stranu poptávky, tak se jedná o faktory, které ivlivňují samotnou poptávku, viz další otázka.
+  - V takovémto případě vznikne nový rovnovážný bod na trhu a pomocí změny cen, nákladů a nabízeného množství, společně s poptávkou se trh dostane do nového rovnovážného bodu, najde si tedy novou tržní cenu.
+  - **Ještě něco k nabídce:**
+    - Nabídka na trhu zboží a služeb je množství zboží, kterou jsou výrobci ochotni a schopni prodat za určitou cenu.
+    - Ochoto nabízet se odvíjí především od toho, jak se výrobcům vyplatí statek nabízet, tedy především zda jsou náklady menší než cena, za který se dá daný statek nabízet a v souvislosti s tím i prodat.
+    - **Nabídka jako taková pak závisí zejména na:**
+      - ceně zboží,
+      - nákladech na výrobu zboží,
+      - nabídce alternativních zdrojů, které by mohl výrobce se stejnými zdroji vyrábět,
+      - nabídce zboží, které výrobce současně vyrábí - souvisí s **alokační funkcí ceny**,
+      - dalších neočekávaných vlivech na nabídku.
+    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální,
+    - Dále by se dalo hovořit o **zcela elastické nabídce**, kdy je křivka horizontální, jako příklad by se dal uvést **trh dokonalé konkurence**.
+  - **Elasticita nabídky** - měří pružnost reakce nabídky na změnu ceny
+    - Záleží na tom, jak rychle je schopen výrobce zareagovat na změnu poptávky na trhu (změnu poptávkové křivky), obecně nějaká odvětví reagují rychleji - jsou pržnější a nějaká pomaleji - jsou méně pružnější.
+    - **V krátkodobém hledisku jsou obecně všechny nabídky nepružné, v dlouhém období jsou však pružnější.**
+    - Výrobci mohou na změny poptávky reagovat i pokud mají **zásoby hotových výrobků**, standardně se může jednat o levné zboží, které se dá rychle vyrobit a nepodléhá tak rychle zkáze, zásoby tedy ovlivňují pružnost nabídky, ale pro výrobce není efektivní tvořit jich mnoho, neboť na sebe mohou vázat prostředky (kapitál), které by mohli být investovány efektivněji.
+  - **Vztah nabídky a poptávky na trhu:**
+    - Při konkurenci prodávajícího a spotřebitele každý maximalizuje svůj užitek jiným způsobem, spotřebitel maximalizuje svůj užitek při spotřebe co největšího množství za co nejnižší cenu a výrobce maximalizuje svůj užitek při prodeji co největšího množství statku za co nejvyšší cenu.
+    - Na trhu je proto bod, ve kterém se protíná nabídka a poptávka, tomuto bodu se říká **rovnovážná cena**, jedná se o cenu která vyhovuje jak prodávajícím, tak i nakupujícím, jedná se o cenu, při které exituje rovnováha mezi množstvím statku, které jsou výrobci za určitou cenu ochotni prodat a mezi množstvím, které jsou ochotni spotřebitelé při určité ceně koupit.
+    - Pokud by cena byla vyšší, než je rovnovážná cena, byl by na trhu **přebytek**, v opačném případě by byla větší **poptávka než je nabídka a zboží by na trhu bylo nedostatek**.
+    - Skutečná cena však nikdy nebude rovná **rovnovážné ceně**, ale bude kolem ní oscilovat - **teorém pavučiny**.
+    - Při rovnovážné ceně pak část výrobců dosáhne **přebytku výrobce** a část nakupujících dosáhne **přebytku spotřebitele**, výrobci, kteří by chtěli prodávat za vyšší cenu, nebo poptávající, kteří by chtěli kupovat za nižší cenu, než je rovnovážná cena pak na trhu budou tvořit **neuspokojenou (nerealizovanou) nabídku nebo potávku** a musejí hledat své možnosti na alternativních trzích substitutů.
+    - Vliv na nabídku a poptávku mají rovněž vliv i **daně**, **cla**, či jiné **transakční náklady** spojené s tím, aby se zboží dostalo od prodávajícího ke kupujícímu, tyto platí zákazník, ale k výrobci se nikdy nedostanou.
 
 
 
@@ -2086,8 +2149,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Pokud je tato podmínka splněna lze hovořit o **optimální spotřebitelské alokaci**.
 - Poptávka
   - **Poptávka** ukazuje, jak závisí poptávané množství statku na ceně.
+  - **Poptávka je klesající, protože v rámci kardinalistické teorie lze odvodit od mezního užitku, u kterého platí zákon klesajícího mezního užitku, zákazník totiž maximalizuje svůj užitek, respektive je v optimu, když MU = P respektive MU = MC, přičemž logicky P = MC v případě kupovaného statku, tím, že se mezní užitek měří v penězích, lze na osy zanést hodnoty P a Q, tedy stejné hodnoty, které se používají pro zobrazování poptávky, klesající mezní užitek tedy způsobuje klesající poptávku, respektive křivka poptávky kopíruje křivku mezního užitku, v případě nabídky je to obdobné, protože neboť mezní příjem (dalo by se řící mezní užitek) s každým prodaným kusem roste.**
+  - **Motivem, který ovlivňuje spotřebitelovo chování je:**
+    - cena produktu +
+    - preference
+    - celková výše spotřeby
+    - statní zboží, tedy suplementy a komplementy
+    - očekávání příjmu, cen i vkusu
   - Znázorněna pomocí křivky poptávky.
-  - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků.
+  - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků - tedy při stavu **ceteris paribus**.
   - Křivka poptávky v zásadě kopíruje křivku mezního užitku - jedná se o zákon klesající poptávky. Každý její bod říká, že cena, kterou spotřebitel platí, odpovídá meznímu užitku statku.
   - **Poptávané množství** je množství statku, které spotřebitel při určité ceně poptává, to je klesající funkcí. Zatímco poptávka je celou funkcí, nicméně tato funkce může sama o sobě také klesat, nebo stoupat jejím posunem v grafu. Obecně by sa dalo říci, že poptávka záleží na ceně, nikoliv cena na poptávce, toto je vysloveno například zde [tady](http://www.imaturita.cz/maturitni-otazky/marketing-a-management/poptavka/373/).
   - **Zákon klesající poptávky** - důchodový a substituční efekt
@@ -2127,9 +2197,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - eˇd = (ZMĚNA Q / Q) / (ZMĚNA P / P)
     - Je-li změna poptávky v absolutní hodnotě větší než 1 = elastická poptávka, zvýšení ceny o jedno procento vyvolá více než jednoprocentní pokles poptávky po daném statku a sníží se spotřebitolovi výdaje na daný statek.
     - Je-li elasticita menší než 1 = neelastická poptávka, zvýšení ceny se neprojevý takovým snížením poptávky a spotřebitelé si za statek připlatí.
-    - Pokud je elasticita rovná 1, tak se jedná o jednotkově elastickou poptávku a změna ceny ponechá výdaje na stetek beze změny.
+    - Pokud je elasticita rovná 1, tak se jedná o jednotkově elastickou poptávku a změna ceny ponechá výdaje na stetek beze změny, procentní změna ceny tedy vyvolá stejnou procentuální změnu poptávky.
     - Záleží i na dlouhém a krátkém období, některé statky jsou elastické jak v krátkém, tak i v dlouhém období, některé statky jsou však například v krátkém období méně elastické, než v období dlouhém.
     - Na elasticitu poptávky má vliv zejména to, zda je možné statek substituovat jiným statekem a zda jsou to statky zbytné, nebo nezbytné.
+    - **Dokonale elastická a dokonale neelastická poptávka**: při dokonale elastické poptávce (například na trhu dokonalé konkurence) se při změně ceny o jakékoliv množství nekonečně změní poptávka směrem dolů nebo nahoru, při dokonale neelastické poptávce se poptávka při jakékoliv změně ceny absolutně nezmění.
 - Změna samotné poptávky
   - Je důležité odlišovat od změny poptávaného množství, což je jen posun po křivce.
   - Nicméně může se měnit i samotná funkce poptávky posouváním po grafu.
@@ -2181,17 +2252,25 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Nepatrné zvýšení ceny se na takovémto trhu projeví ztrátou veškerých zákazníků, zatímco nepatrně snížení ceny se projeví tím, že u daného prodejce budou chtít kupovat daný statek úplně všichni, nicméně prodejce nedokáže uspokojit celkovou agregátní poptávku.
   - Výrobce tedy nemůže změnami své produkce ovlivnit docilovanou cenu. Pokud toto platí pro všechny výrobce dodávající na daný trh, říkáme o takovém trhu, že je dokonalý (též dokonale konkurenční).
   - Dokonale elastická nebo neelastická poptávka je poptávkou: kdy i nepatrná změna ceny má nekonečný vliv na odezvu nabídky resp. poptávky, a naopak **dokonale neelastická nabídka/poptávka**, kdy nabídka nebo poptávka po daném zboží je zcela nezávislá na její ceně.
+  - Tím, že žádný prodejce nedokáže ovlivňovat cenu, jsou všichni výrobci pouze příjemnce rovnovážné ceny, dokážou jí částečně ovlivňovat pouze snižováním svých nákladů, ale kvůli dokonale elastické poptávce ji pak nejsou schopni uspokojit.
+  - Efektivnost tržního rozdělování zdrojů - ekonomická rovnováha je ekonomicky efektivní v tom smyslu, že výroba je produkována při nejmenších možných nákladech.
   - Podmínky
     - Podmínky, které musí trh splňovat, aby se dal považovat za dokonale konkurenční jsou:
       - Dokonalá informovanost kupujících a prodávajících: tato podmínka bývá splňována pouze na územně centralizovaných trzích
       - Nulové náklady na změnu dodavatele
       - Homogenní produkt: tzn. stejná kvalita výrobku či pověst firmy, rozhodování je založené pouze na ceně. Na nedokonalých trzích jsou výrobky heterogenní.
       - Velký počet prodávajících: kteří ovládají pouze velice malou část trhu
-      - Pokud jsou všechny tyto 4 podmínky splněny, pak se jedná o dokonalý trh, pokud alespoň jedna splněna není, tak se jedná o trh nedokonalý
+      - Pokud jsou všechny tyto 4 podmínky splněny, pak se jedná o dokonalý trh, pokud alespoň jedna splněna není, tak se jedná o trh nedokonalý, jako další podmínka by se dala zařadit ještě neexistence jakýchkoliv bariér vstupu na trh
 - Nedokonalá konkurence
   - Poptávka na trhu s nedokonalou konkurencí není dokonale elastická.
   - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
   - Výrobce tak může změnami své produkce do určité míry ovlivnit docilovanou cenu. Takový trh je nedokonalý (též nedokonale konkurenční).
+  - Z hlediska trhů nedokonalé konkurence je ideální monopolistická konkurence, monopoly a oligopoly podléhají regulaci ze strany regulačních orgánů - Ministerstvo financí, Úřad pro ochranu hospodářské soutěže, Energetický regulační úřad, Telekomunikační úřad atd.
+  - Výrobce není pouze příjemcem ceny, ale může jí i tvořit, a to ne pouze snižováním výrobních nákladů, ale klasickými způsoby tvorby ceny (trhy nedokonalé konkurence nejsou dokonale elastické, takže i když bude cena nad tržní rovnovážnou cenou, neznamená to nulovou poptávku po daném statku), druhy tvorby cen jsou následující:
+  - **Nákladová:** náklady na výrobu + stanovená marže,
+  - **Hodnotová:** cena je stanovena podle hodnoty, kterou zákaznící v produktu vidí,
+  - **Poptávková:** cena je stanovena podle poptávky po produktu,
+  - **Konkurenční:** cena je stanovena podle konkurence a jejich cen na trhu.
   - Mezní příjem a cenová tvorba na nedokonalém trhu
     - Mezní příjem: přírůstek celkového příjmu dosažený zvýšením prodeje o jednotku.
     - Mezní náklady: přírůstek celkových nákladů díky zvýšení prodeje o jednotku.
@@ -2239,12 +2318,17 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Monopol
     - Na trhu je pouze jeden prodávající.
     - Zakládní charakteristikou je: nemožnost substituování daného statku ze strany poptávajících - musí za něj buď zaplatit, nebo se bez něj obejít a překážky vstupu na trh pro další nabízející, existují například přírodní, technologické, legislativní-licence, patentové překážky vstupu na trh.
+    - Poptávky bude spíše neelastická kvůli absenci **substitučního efektu**.
     - Je nejvzdálenější podmínkám dokonalé soutěže, největší ztráty ekonomické efektivnosti, křivka poptávky po statcích monopolu je shodná s křivkou tržní poptávky.
     - Určení, zda má firma dominantní postavení na trhu je těžké určit.
     - Možnosti cenové diskriminace a artificiálního určování cen.
+    - Mezní příjmy monopolu jsou vždy nižší než cena.
+    - Monopol však vždy prodává svoje statky za vyšší cenu než jsou jeho mezní náklady - výhodné pro jeho vlastníky - dosažení vyššího -> monopolního zisku.
+    - Je neefektivní - může například vyrábět málo, kdyby vyráběl víc, tak by to spotřebitelům přineslo **větší užitek, než by byly náklady monopolu spojené s větší výrobou**, přesto víc nevyrábí, tato neefektivnost je spojena s vyšší cenou.
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
+      - Výlučná kontrola nad přírodními omezenými zdroji či vstupy - **přírodní monopol**
       - Výlučná kontrola nad určitými vstupy výroby
-      - Výrazné úspory z rozsahu výroby (přirozený monopol)
+      - Výrazné úspory z rozsahu výroby (**přirozený monopol**)
         - Vzniká kvůli extrémním cenovým barierám vstupu na trh
         - Například síťové služby
         - Tyto přirozené monopoly jsou standardně regulovány státem
@@ -2252,10 +2336,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Poskytování státních licencí
     - Tržně neefektivní: zdroje neefektivnosti jsou například, selhávání tržní motivace, nedostatečný zájem o kvalitu výroby a úrověn poskytovaných služeb zákazníkům.
     - Státem vytvářené monopoly
-      - Státem zavedené monopoly - buď udělí stát výsadní právo produkovat statek jedné firmě, nebo kvůli existenci právních restrikcí v podobě: patentů, autorských práv, licencí, koncesí a podobně.
+      - **Státem zavedené monopoly** - buď udělí stát výsadní právo produkovat statek jedné firmě, nebo kvůli existenci právních restrikcí v podobě: patentů, autorských práv (**institucionální monopol**), licencí, koncesí a podobně.
       - Státní monopoly, jinak nazývané govopoly: jsou monopoly, které nejenže přímo provozuje stát, ale brání ostatním firmám produkovat stejný nebo podobný statek.
         - Příklady: tisk a emise peněz, armáda, policie a soudy, státní podniky, pošta, železnice a podobně.
       - Stát provozuje státní monopoly například z důvodu jejich společenské potřeby, ale tržní neudržitelnosti, národní bezpečnosti a podobně.
+      - Postupnou koncentrací a centralizací kapitálových zdrojů může dosáhnout firma úspor z rozsahu, což dává vzniknout **monopolu ekonomické síly**, dochází k němu pomocí **fůzí** a **akvizicí**, repsketive **přátelskému** a **nepřátelskému** **převzetí firmy**, například k tomu může dojít, když jedna společnost nastaví **dumpingové ceny** a jako důsledek převezme společnost, která nemůže při takto nastavených cenách společnosti konkurovat.
+        - **Hlavní kategorie fůzí:**
+          - **Horizontální fůze** - spojení dvou firem působících ve stejné oblasti,
+          - **Vertikální fůze** - spojení firem působících v různých článcích téhož výrobního procesu,
+          - **Konglomerační fůze** - spojení podniků, kt. spolu ekonomicky nesouvisejí
     - Regulace monopolů
       - Má chránit ekonomiku před neefektivností nedokonalé soutěže.
       - Tvoří se protimonopolním zákonodárstvím, regulací monopolů, využívání veřejného vlastnictví monopolů (například ve formě státního podniku, nebo akciové společnosti).
@@ -2283,6 +2372,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Každá firma tedy ve svém důsledku dělá jen to, že vyrovnává své mezní náklady s mezním příjmem.
     - V případě změn na trhu se může na trh dostat další prodejce, který bude taky ziskový, poptávka se střetne s větším počtem firem na trhu a to povede ke snížení cen a ke snížení celkového ekonomického zisku jednotlivých letišť.
     - Je zajímavé zmínit teorii her, respektive takzvané vězňovo dilema, pokud firmy spolupracují, dosáhnout největších zisků. Může se zde například řadit kartelová dohoda, ta však narušuje hospodářskou soutěž, v Čr jsou takové dohody neplatné.
+    - **Oligopol koluzivní** - tajná dohoda mezi dvěma či více firmami o stanovení ceny (cenového kartelu), podmínek odbytu a odbytových či nákupních cen, blíží se dominanci, vychází z **Teorie her** a také z **Vězňova dilemata**, tedy že při spolupráci dosáhnou všechny strany pro ně přiznivějšího efektu, než kdyby stáli proti sobě.
   - Monopolistická konkurence
     - Nejběžnější typ nedokonalého trhu.
     - Heterogenní výrobek je tvořen blízkými substituty.
@@ -2517,6 +2607,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Skutečný a potenciální
     - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
     - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
+  - Čistý ekonomický blahobyt
+    - HDP však nezahrnuje všechno, nezahrnuje zejména další faktory přispívající k čístému ekonomickému bohatství - net economic welfare.
+    - Jedná se o alternativní výpočet HNP doplněný o odhad:
+      - Produkce stínové ekonomiky,
+      - netržní produkci (samozásobitelství) - například to co si kutil zvládne sám udělat v domácnosti,
+      - o hodnotu volného času,
+      - o vyšší kvalitu vyráběných výrobků,
+      - o externality - pozitivní i negativní - viz **selhání thru**.
   - Investice
     - V rámci makroekonomický výpočtů jsou zařazovány finální náklady, v rámci investic se tak nezapočítávají například akcie nebo obligace.
     - Pro udržení produkčních možností musí být v ekonomice investice při nejmenším v takové míře, aby nahradili opotřebený kapitál.
@@ -2524,14 +2622,27 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Hrubé investice:** čisté investice a nahrazení amortizace
     - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
   - Spotřeba
-    - Doplnit
+    - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
   - Měření výkonnosti
     - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
     - Spotřební koš, index spotřebitelských cen
+    - Inflace tažená poptávkou
+    - Inflace tažená nabídkou
   - Agregátní poptávka a agregátní nabídka
-    - Doplnit
+    - Jedná se o něco jiného než je **tržní poptávka**, vyjadřuje poptávku nebo nabídku zahrnující veškeré statky, ty se ale vzhledek k tomu, že nejsou sčitatelné musí vyjadřovat jinak - vyjadřují se proto v **penězích**.
+    - Agregátní nabídka je celková nabídka všech zboží a služeb, které byli v ekonomic vyrobeny a firmy je chtějí prodávat.
+    - Průběh křivky agregátní nabídky se liší podle délky období, **v krátkém období má tendeci stoupat při zvyšování cenové hladiny, neboť množstí vyrobených statků se odvíjí od zisku, respektive mezního příjmu, ten stoupá, neboť mnoho vstupů a nákladových položek totiž v krátkém období neroste úměrně s cenou výrobku, protože jsou fixovány na delší časový úsek, protože suma takovýchto fixovaných nákladů se v krátkém období nemění, má průběh křivky stoupající tendenci**.
+    - Průběh křivky agregátní nabídky v dlouhém období je však neměný, neboť nakonec dochází ke zvyšování vstupních nákladů a tedy i mezních nákladů a tím klesá mezní příjem, firmy na to reagují snížením objemu výroby.
+    - **Agregátní poptávka**: jedná se vždy o výdaje domácností na nákupy spotřebních statků krátkodobé i dlouhodobé spotřeby, výdaje podniků na investice, vládní nákupy statků a služeb a v otevřené ekonomice čisté vývozy.
+    - Křivka agregátní poptávky má klesající charakter.
+    - **Vzájemné vztahy:** viz otázka číslo jedna:
+      - Rovnováha - cenová hladina ani nezaměstnanost nebudou růst ani klesat,
+      - Deflační mezera - poptávka je nižší než nabídka, za následek nevyužití ekonomických zdrojů - nezaměstnanost,
+      - Inflační mezera - poptávka je vyšší než nabídka, jako následek má větší inflaci
 - Faktory ekonomického růstu
+  - Ekonomický růst je **růst schopnosti země vyrábět zboží a poskytovat služby**, to vede ke zvýšení reálného národního důchodu a k vyšší spotřebě => ekonomický růst, jedná se tedy o **produktivitu práce, či zvětšování kapitálu, který zapříčiňuje růst potenciálního produktu**.
+  - Stabilní ekonomický růst nespočívá v samotných cyklech, ale v souvislém růstu potenciálního produktu, okolo kterého skutečný produkt osciluje.
   - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
   - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okonův zákon.
 
@@ -2560,6 +2671,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 
 - **Hospodářský cyklus**
+  - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
+  - Je potřeba rozlišovat **strukturální** a **cyklické** výkyvy, hospodářský cyklus stojí právě na **cyklických výkyvech**.
+  - Strukturální výkyvy jsou v pořádku, znamenají pružnost ekonomiky, souvisí se **strukturální nezaměstnaností** a pouze ukazují, že se některá odvětví (neperspektivní ve smyslu komparativní výhody) smršťují, a jiná perspektivní naopak rostou, před strukturálními výkyvy nelze chránit například ochranářskou politikou a cly, neboť ta brání neperspektivní odvětví a brání perspektivním odvětvím v tom, aby se prosadila, tím se i snižuje zahraniční obchod - právě kvůli **komparativní výhodě, respektive nevýhodě** a žádná země nemůže v moderním světě přežít bez zahraničního obchodu.
+  - **Cyklické výkyvy jsou ale charakterizovány všeobecným poklesem ekonomiky, ne jen určitého odvětví, a poté zase růstem výroby a zaměstnanosti v celé ekonomice, ne jen v určitých odvětvích.**
+  - **Má čtyři fáze:**
+    - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
+    - **Dno:** představuje bod obratu, kdy recese přechází do oživení.
+    - **Vrchol:** představuje bod zlomu po oživení, kdy kvůli určitému důvodu ekonomika přechází do recese, ekonomika je v tomto bodě na vrcholu a je také značně přehřátá, reálný produkt je nad potenciálním produktem, to je způsobeno především zahraničním kapitálem, respektive ten způsobuje to, že je reálný produkt nad potenciálním.
+    - **Oživení:** roste agregátní poptávka, zaměstnanost, ceny i zisky, růst investic je založen na očekávání vysokých zisků, kvůli investicím roste produktivita práce a roste ekonomika - zvyšuje se potenciální produkt, skutečný produkt se dostává nad potenciální produkt v důsledku zahraničních investic a ekonomika se přehřívá, hodně se projevují inflační tlaky.
   - **Časové rozlišení**
     - **Krátkodobý:**
     - **Střednědobý:**
@@ -2607,7 +2727,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Výhody
     - Doplnit
   - Rizika
-    - Doplnit
+    - **Ztráta samostatné měnové politiky**: 
+    - **Cena za zapojení se do Evropského stabilizačního mechanismu:** 
+    - **Riziko vnímané inflace**: 
+    - **Jednorázové náklady na zavedení eura:** 
   - Maastrichtská kritéria
     - Doplnit
 
@@ -2644,6 +2767,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Členění
     - Peněžní trh
       - PRIBOR
+      - Trh krátkodobých úvěrů
+      - Trh krátkodobých cených papírů
+    - Kapitálový trh
+      - Doplnit
+      - Trh dlouhodobých úvěrů
+      - Trh dlouhodobých cenných papírů
+      - Derivátové trhy info [zde](https://www.penize.cz/15864-burzy-a-mimoburzovni-trhy)
+    - Trh drahých kovů (komoditní trh)
+      - Doplnit
+    - Trh s cizími měnami (devizový trh)
 
 ----
 
@@ -2664,6 +2797,28 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Kvantitativní uvolňování
+
+Automatické facility
+
+PRIBOR
+
+REPO
+
+Lombardni
+
+Diskontni
+
+Operace na peneznim trhu
+
+Devalvace a revalvace měny - prodej a nákup deviz
+
+Minimalni bankovni rezervy
+
+Kurzy
+
+​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
 
 ----
 
@@ -2745,6 +2900,16 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 
+Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
+
+Dlouhodobé a krátkodobé období.
+
+Práce = L = Variabilní náklady
+
+Kapitál = K = Fixní náklady
+
+Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+
 ----
 
 #### Otázka 13 - Efektivnost podniku a její základní kategorie, cíle a funkce podniku (poslání a vize podniku, S.M.A.R.T. cíle, ziskové a neziskové formy podnikání, podnikatelské objevování), investiční rozhodování podniku (základní metody a jejich užití). \
@@ -2781,6 +2946,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Financování podniku
+  - Doplnit
+
 ----
 
 #### Otázka 15 - Podnikové řízení (rámec strategického řízení, taktické a operativní řízení), oddělení vlastnictví a řízení podniku, správa a řízení velké společnosti (korporátní strategie, nadnárodní společnosti). Organizační výstavba podniku (typická oddělení v podniku, organizační inovace). \
@@ -2798,6 +2966,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Mezinárodní obchod
+  - V souvislost s nadnárodní společností
 
 ----
 
@@ -2871,6 +3042,9 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Výrobní faktory
+  - Doplnit
+
 ----
 
 #### Otázka 20 - Majetek podniku – charakteristika, členění, rozdíl mezi dlouhodobým a krátkodobým majetkem, oceňování, pořízení, odepisování, vyřazení. \
@@ -2906,6 +3080,11 @@ Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Zisk podniku, náklady podniku, příjmy podniku
+  - Doplnit
+  - Účetní zisk - celkový příjem - explicitní náklady, zisk je tedy TR - TC
+  - Ekonomický zisk - Účetní zisk - implicitní náklady
 
 ----
 
