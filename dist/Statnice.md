@@ -1932,9 +1932,20 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
     - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
     - **Trh cenu rovněž tvoří.**
+    - **V rámci tržního systému je trh založen na volném působení sil, které prostřednictvím trhu koordinují ekonomiku, k jeho základní pilířům lze řadit důraz na soukromé vlastnictví, vynutitelnost práva, konkurenci, nabídku a poptávku a cenový mechanismus - tedy tvorbu cen a jejich funkce a s tím související nabídku a poptávku.**
+    - **Tržní mechanismus** - pomocí ceny se vyrovnává nabídka a poptávka.
     - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
-    - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
+    - **Rovnovážná tržní cena** (rovnovážné tržní množství) - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
     - Dobrý zdroj je [zde](https://czu.natalya.cz/czufiles/files3/OEI-zk-ustni.pdf).
+  - Konkurence
+    - Důležitou součástí trhu je konkurence.
+      - Konkurence mezi výrobci.
+      - Konkurence mezi spotřebitely.
+      - Konkurence mezi výrobci a spotřebitely navzájem.
+    - Druhy konkurence:
+      - Cenová konkurence
+      - Necenová konkurence
+      - Kobinace obou druhů
   - Ekonomická vzácnost
     - To co nemůžeme mít vždycky a v jakémkoliv množstí je pro nás vzácné, opakem jsou volné statky.
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
@@ -2016,13 +2027,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Současné ekonomické směry:
     - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
-  - Doplnit
+  - Tuto otázku 
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
   - Jsou 4 typy - konvergující - nejčastější, divergující, stálá a oscilující
   - Záleží na tvaru křivek nabídky a poptávky.
   - Určuje jakým způsobem se vyrovnává cena a nabídka ve chvíli, kdy existuje nadprodukce a je stanovena vyšší cena.
   - Proces je obecně následující: P1,Q1 -> P2,Q2 -> P3,Q3 -> tržní cenová rovnováha, tzn. výrobce mění cenu a nabízené množství v závislosti na poptávce, s každou změnou se přibližuje tržnímu optimu až ho eventuálně dosáhne (v případě konvergující pavučiny).
+  - Pokud je na trhu **přebytek** budou firmy vyrábět více než chtějí prodat a na trhu bude více uchazečů o zaměstnání než budou chtít firmy přijmou - odhalí totiž, že nejsou v optimu, tím že nějakou část zboží neprodají, budou již v bodě klesající křivky v rámci celkových příjmů (mezní náklady na výrobu neprodaných statků budou vyšší než mezní příjem z daných neprodaných statků), dle teorému pavučiny se to vyřeší snížením ceny a počtu vyráběného zboží, což povede ke zvyšování poptávky a trh by se měl dostat do optima.
+  - Pokud je na trhu **nedostatek** budou firmy vyrábět méně statků, než kolik spotřebitelé poptávají, řešení tedy opět poskytuje teorém pavučiny, firmy zvýší produkci a cenu a tím klesne poptávka, trh by se tedy opět měl dostat do optima.
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
