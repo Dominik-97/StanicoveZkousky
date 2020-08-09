@@ -1883,7 +1883,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
     - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
-    - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent.
+    - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent statků, viz peníze, měna je potom zákonné platidlo na území daného státu.
   - **Členění trhu**
     - Místní:
       - **Trh místní** - například jarmark, trh v jednotlivých městech
@@ -1992,7 +1992,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - ~~Doplnit~~
   - **Hranice produkčních možností**
     - Výrobní faktory jsou omezené
-    - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků
+    - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků - zde působí efektivní alokace trhu
     - Ekonomika vyrábí **efektivně** pokud se svou produkcí pohybuje na hranici produkčních možností, nemůže vyrábět více jednoho statku bez toho, aby vyráběle méně jiného statku
 - Teoretické zdůvodnění různých přístupů k trhu
   - ~~Doplnit~~
@@ -2087,7 +2087,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - Potenciálně třeba státní monopol, nebo **státem zřízený monopol**, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
-      - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
+      - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových (finančních).
       - Dalším řešením je zákonná ochrana slabšího, respektive slabší strany, (zákon o ochraně spotřebitele, záruční doba, možnost vrátit výrobek).
       - Povinná informovanost se uplatňuje i na jiných trzích (například povinnost uvádět složení).
       - Nedokonalá informovanost může vést například k úspěšnému prodeji nekvalitního zboží nebo služeb kvůli lživému popisu, nebo zamlčení důležitých informací.
@@ -2099,6 +2099,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
         - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
+      - Jedná se také o potlačení trhu
       - Nejčastěji z důvodu zdanění a přímé regulace cen.
       - Negativní důsledky cenové regulace:
         - Vytváří alternativní distribuční mechanismy (známosti, štěstí)
@@ -2117,7 +2118,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - nabídce alternativních zdrojů, které by mohl výrobce se stejnými zdroji vyrábět,
       - nabídce zboží, které výrobce současně vyrábí - souvisí s **alokační funkcí ceny**,
       - dalších neočekávaných vlivech na nabídku.
-    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální,
+    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální - například peněžní zásoba,
     - Dále by se dalo hovořit o **zcela elastické nabídce**, kdy je křivka horizontální, jako příklad by se dal uvést **trh dokonalé konkurence**.
   - **Elasticita nabídky** - měří pružnost reakce nabídky na změnu ceny
     - Záleží na tom, jak rychle je schopen výrobce zareagovat na změnu poptávky na trhu (změnu poptávkové křivky), obecně nějaká odvětví reagují rychleji - jsou pržnější a nějaká pomaleji - jsou méně pružnější.
@@ -2130,6 +2131,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Skutečná cena však nikdy nebude rovná **rovnovážné ceně**, ale bude kolem ní oscilovat - **teorém pavučiny**.
     - Při rovnovážné ceně pak část výrobců dosáhne **přebytku výrobce** a část nakupujících dosáhne **přebytku spotřebitele**, výrobci, kteří by chtěli prodávat za vyšší cenu, nebo poptávající, kteří by chtěli kupovat za nižší cenu, než je rovnovážná cena pak na trhu budou tvořit **neuspokojenou (nerealizovanou) nabídku nebo potávku** a musejí hledat své možnosti na alternativních trzích substitutů.
     - Vliv na nabídku a poptávku mají rovněž vliv i **daně**, **cla**, či jiné **transakční náklady** spojené s tím, aby se zboží dostalo od prodávajícího ke kupujícímu, tyto platí zákazník, ale k výrobci se nikdy nedostanou.
+- Náklady firem
+  - Učebnice ekonomie, strana 83.
 
 
 
