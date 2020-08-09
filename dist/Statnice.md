@@ -1863,8 +1863,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [x] Trh a jeho funkce
-- [ ] Teoretické zdůvodnění různých přístupů k trhu
-- [ ] Výsledek potalčení trhu
+- [x] Teoretické zdůvodnění různých přístupů k trhu
+- [x] Výsledek potalčení trhu
 - [x] Definice tržního selhání
 - [x] Podívat se i na nabídku a poptávku
 - [x] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
@@ -2016,14 +2016,30 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Důležité pojmy: neviditelná ruka trhu, lassiez faire, ekonomové této teorie chápali hospodářství jako samoregulující se systém ovládaný vlastními zákonitostmi.
     - Končí na konci 19. století společně s **marginalistickou revolucí**.
     - Vznik kvůi technickému rozvoji, vzniku kapitalistické třídy a nefunkci merkantilismu.
-    - **Marginalismus**:
-    - **Monetarismus**: 
-    - **Neoklasicismus**: 
-    - **Nová klasická makroekonomie**:
+    - Orientována na makroekonomii a **na nabídku**.
+    - Skutečné bohatsví je skryto a vytvářeno ve výrobě a její produktivitě a hospodářství je svébytný organismus se zákonitostmi, které je nutno poznávat a respektovat.
+    - Princip absolutních a komparativních výhod - oproti merkantilismu tedy nebylo tak cíleno na pozitivní saldo obchodní bilance, ale na efektivitu výroby.
+    - Významným faktorem ekonomického růstu je dělba práce, další podmínkou je pak akumulace kapitálu, ta ovlivňuje úroveň produktivity práce - vyšší kapitálová vybavenost = vyšší produktivita práce.
+    - Předpoklad, že automaticky dochází v přeměnu úspor na investice.
+    - Sklon ke směňování, který je lidem z důvodu rozdílných potřeb a jejich uspokojování, vlastní představuje impuls, který uvádí do pohybu celý hospodářský systém.
+    - **Marginalismus**: přineslo do ekonomie mezní veličiny.
+    - **Monetarismus**: odmítání státních zásahů, zdůrazňuje význam peněz a jejich samoregulační funkci, monetarismus dále tvrdí, že peněžní zásoba ovlivňují národní produkci v krátkodobém časovém úseku a v dlouhodobě cenovou hladinu.
+    - **Neoklasicismus**: zavedlo marginalismus a více se orientovalo i na spotřebitele a jeho vnímání ceny.
+    - **Nová klasická makroekonomie**: klasická ekonomie, která je však více založená na mikroekonomii, oproti makroekonomii, na kterí je založená klasická politická ekonomie, dále si zakládá na racionalitě spotřebitele.
   - **Keynesiánství**
-    - Bretton-Woodská konference. Zlatý standard.
-    - **Neokeynesiánství**: 
-    - **Postkeynesiánství**:
+    - Zaměřuje se na **agregátní poptávkovou stranu**, která minimálně v krátkém období a v době ekonomické recese velice ovlivňuje ekonomickou produkci.
+    - Ospravedlňuje zásahy státu do ekonomiky.
+    - Dle Keynesiánství ovlivňuje poptávka produkci (růst ekonomiky), nezaměstnanost a inflaci.
+    - Její myšlenku vyslovil John Maynard Keynes ve své knize Obecná teorie zaměstnanosti, úroku a peněz z roku 1936.
+    - Keynesiánství staví na názoru, že z důvodu **nestabilní poptávky** tržní hospodářství pociťuje často negativní makroekonomické výstupy ve formě ekonomické recese, když je poptávka malá a inflace, když je poptávka vysoká.
+    - Problémy vznikající v hospodářství mohou být podle Keynesiánství zmírněny reakcemi hospodářské politiky, tedy především **monetární politiky** a **fiskální politiky**, které mohou pomoci stabilizovat objem výroby po dobu hospodářského cyklu a pomoci ekonomice v problematických chvílích, tedy jistým zpomalením ekonomiky když je v expanzi a vzrůstá nad potenciální produkt, aby nedošlo k přehřátí a k podpoře poptávky, když je ekonomika v recesi.
+    - Keynesiánství stále staví na tržní ekonomice, ale s aktivními zásahy státu do ekonomiky především v době recese.
+    - Bretton-Woodská konference, ukončila Zlatý standard u většiny měn, jediná měna, která zůstala navázána na zlato byl dollar, ten byl jediný i za zlato směnitelný, Bretton-Woodský systém byl opuštěn v roce 1971.
+    - Keynesiánství stavělo v rámci nezaměstnanosti a inflace na Phillipsově křivce, podle které bylo možné cílovat inflaci a nezaměstnanost, tato představa se ukázala jako milná v roce 1973, kdy došlo k ropné krizi a stagflaci, státní zásahy do ekonomiky tuto situaci však nedokázaly efektivně vyřešit.
+    - Milton Friedman v této souvislosti představil přirozenou míru nezaměstnanosti viz. trh práce.
+    - Stagflace není řešitelná standardní cestou, neboť zásahy mířící ke snížení inflace tedy omezení peněžní zásoby vedou ke zvyšování nezaměstnanosti a zvýšení peněžní zásoby zase k růstu inflace, řešení se tak může nabízet ve formě zvyšování produktivity práce (například snižováním daní, což vede k vyšší koupěschopnosti) a zároveň k omezení peněžní nabídky zvýšení bankovních rezerv a úrokových sazeb z půjček, což omezuje možnosti si půjčovat. Kombinací těchto dvou scénářů by mělo vést k neinflačnímu ekonomickému růstu, ale předpokládám, že za cenu velkých deficitů veřejných rozpočtů.
+    - **Neokeynesiánství**: jistá syntéza klasické teorie a keynesiánství.
+    - ~~**Postkeynesiánství**:~~
   - Současné ekonomické směry:
     - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
