@@ -1837,7 +1837,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     * **V souvislosti se stagflací se zrodila myšlenka MIltona Friedmana o přirozené míře nezaměstnanosti, problém spočívá v tom, že nezaměstnanost nelze snižovat pod přirozenou míru nezaměstnanosti, neboť to způsobí inflaci, ale nezaměstnanost se vrátí zpět na svojí původní honotu i přes prvotně způsobenou peněžní iluzi a ekonomický růst, ve finále se tedy docílí stejné nezaměstnanosti, ale nově dosažená inflace se ustálí a stane se novým standardem - tvz. novým inflačním očekáváním.**
     * Inflační spirála se zastaví až ve chvíli, kdy se nezaměstnanost ustálí na své přirozené míře.
 * **Vytváření peněz**
-  * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
+  * Peněžní ~~bázi~~ zásobu zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
+  * Česká národní banka rovněž ovlivňuje peněžní zásobu za pomocí operací na volném trhu.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
   * Viz otázka peníze.
 * Jak bohatne země, ekonomika, jak probíhá hospodářský růst
