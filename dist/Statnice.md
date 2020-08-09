@@ -1720,7 +1720,9 @@ Studuje chování jednotlivců, je to věda o lidském jednání, respektive o r
 
 Není objektivně měřitelná, je to společenská věda.
 
-Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití).
+Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití), užitek každého subjektu je subjektivní a nezáleží tedy na tom zda je daný užitek považovaný za racionální, nebo nikoli, protože toto ostatně nelze ani zhodnotit, záleží pouze na tom, jaku cestu člověk zvolil , aby se k danému cíli dostal, racionální člověk zvolí cestu s nejmenším úsilím, ze které získá největší užitek.
+
+Zájmy jedněch lidí jsou vyvažovány zájmy druhých lidí.
 
 Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky), volné statky = statky za které spotřebitele neplatí, nebo jsou hrazeny z pojištění, tedy například procházka ve višňovém sadu, nebo zdravotní pojištění (volné statky jsou ale často hrazeny v rámci daní a pojištění), veřejné statky - viz selhání trhu, statky které musí být poskytovány bezplatně a nejde z jejich užívání nikoho vyloučit - **problém černého pasažéra**, u těchto statků rovněž platí **nerivalita ve spotřebě**.
 
