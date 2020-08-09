@@ -2027,7 +2027,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Současné ekonomické směry:
     - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
-  - Tuto otázku 
+  - Tuto otázku chápu jako implementaci takové politiky, která potlačuje základní principy tržního ale dokonce i tržně-smíšeného hospodářství.
+  - Takovou to politikou je třeba centrálně plánované hospodářství, které namísto samoregulační funkce trhu dává prostor centralizovaným dlouhodobým plánům.
+  - Obecně je problém v nedostatku inovací, zboží je pak na světovém trhu nekonkurenceschopné.
+  - Plánovači nejsou obecně schopni pružně reagovat na změny potřeb lidí a změny situací ve společnosti, na to tržní ekonomika reaguje pomocí trhu a nabídky a poptávky, trhy si tak udržují schopnost vytvářet směnitelnou produkci, v plánované ekonomice je téměř nemožné odhadnout jak bude vypadat nabídka a poptávka.
+  - Důsledky potlačení trhů tak spočívají v nekonkurenceschopnosti trhu, nedostatku toho co je potřeba a nadbytku toho co není potřeba, nedostatek zboží mohou rovněž způsobit i regulované ceny, na trhu není iniciativa pro investice a inovace, kvalitní zboží se tak stává drahým (například Tuzex v Československu), vzniká šedá zóna ekonomiky i korupce, kvůli potlačení trhu neni ani vhodné řící, zda je jisté odvětví perspektivní a nebo nikoliv, to může vést k podpoře neperspektivních odvětví a znemožnění rozvoje perspektivnívh odvětví, což ve svém důsledku může vést ke snižování produktivity práce a e ekonomické recesi a úpadku, problém v rámci nedostaků může představovat i vysoká inflace a kvůli udržování neperspektivních oblastí bez existence politicky prosazované povinné zaměstnanosti může docházet i k nezaměstnanosti, což ve svém důsledku může ekonomiku absolutně ochromit a zapříčinit i stagflaci.
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
   - Jsou 4 typy - konvergující - nejčastější, divergující, stálá a oscilující
