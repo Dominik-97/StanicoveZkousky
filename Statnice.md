@@ -1863,8 +1863,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [x] Trh a jeho funkce
-- [ ] Teoretické zdůvodnění různých přístupů k trhu
-- [ ] Výsledek potalčení trhu
+- [x] Teoretické zdůvodnění různých přístupů k trhu
+- [x] Výsledek potalčení trhu
 - [x] Definice tržního selhání
 - [x] Podívat se i na nabídku a poptávku
 - [x] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
@@ -1932,9 +1932,20 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
     - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
     - **Trh cenu rovněž tvoří.**
+    - **V rámci tržního systému je trh založen na volném působení sil, které prostřednictvím trhu koordinují ekonomiku, k jeho základní pilířům lze řadit důraz na soukromé vlastnictví, vynutitelnost práva, konkurenci, nabídku a poptávku a cenový mechanismus - tedy tvorbu cen a jejich funkce a s tím související nabídku a poptávku.**
+    - **Tržní mechanismus** - pomocí ceny se vyrovnává nabídka a poptávka.
     - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
-    - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
+    - **Rovnovážná tržní cena** (rovnovážné tržní množství) - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
     - Dobrý zdroj je [zde](https://czu.natalya.cz/czufiles/files3/OEI-zk-ustni.pdf).
+  - Konkurence
+    - Důležitou součástí trhu je konkurence.
+      - Konkurence mezi výrobci.
+      - Konkurence mezi spotřebitely.
+      - Konkurence mezi výrobci a spotřebitely navzájem.
+    - Druhy konkurence:
+      - Cenová konkurence
+      - Necenová konkurence
+      - Kobinace obou druhů
   - Ekonomická vzácnost
     - To co nemůžeme mít vždycky a v jakémkoliv množstí je pro nás vzácné, opakem jsou volné statky.
     - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
@@ -2005,24 +2016,46 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Důležité pojmy: neviditelná ruka trhu, lassiez faire, ekonomové této teorie chápali hospodářství jako samoregulující se systém ovládaný vlastními zákonitostmi.
     - Končí na konci 19. století společně s **marginalistickou revolucí**.
     - Vznik kvůi technickému rozvoji, vzniku kapitalistické třídy a nefunkci merkantilismu.
-    - **Marginalismus**:
-    - **Monetarismus**: 
-    - **Neoklasicismus**: 
-    - **Nová klasická makroekonomie**:
+    - Orientována na makroekonomii a **na nabídku**.
+    - Skutečné bohatsví je skryto a vytvářeno ve výrobě a její produktivitě a hospodářství je svébytný organismus se zákonitostmi, které je nutno poznávat a respektovat.
+    - Princip absolutních a komparativních výhod - oproti merkantilismu tedy nebylo tak cíleno na pozitivní saldo obchodní bilance, ale na efektivitu výroby.
+    - Významným faktorem ekonomického růstu je dělba práce, další podmínkou je pak akumulace kapitálu, ta ovlivňuje úroveň produktivity práce - vyšší kapitálová vybavenost = vyšší produktivita práce.
+    - Předpoklad, že automaticky dochází v přeměnu úspor na investice.
+    - Sklon ke směňování, který je lidem z důvodu rozdílných potřeb a jejich uspokojování, vlastní představuje impuls, který uvádí do pohybu celý hospodářský systém.
+    - **Marginalismus**: přineslo do ekonomie mezní veličiny.
+    - **Monetarismus**: odmítání státních zásahů, zdůrazňuje význam peněz a jejich samoregulační funkci, monetarismus dále tvrdí, že peněžní zásoba ovlivňují národní produkci v krátkodobém časovém úseku a v dlouhodobě cenovou hladinu.
+    - **Neoklasicismus**: zavedlo marginalismus a více se orientovalo i na spotřebitele a jeho vnímání ceny.
+    - **Nová klasická makroekonomie**: klasická ekonomie, která je však více založená na mikroekonomii, oproti makroekonomii, na kterí je založená klasická politická ekonomie, dále si zakládá na racionalitě spotřebitele.
   - **Keynesiánství**
-    - Bretton-Woodská konference. Zlatý standard.
-    - **Neokeynesiánství**: 
-    - **Postkeynesiánství**:
+    - Zaměřuje se na **agregátní poptávkovou stranu**, která minimálně v krátkém období a v době ekonomické recese velice ovlivňuje ekonomickou produkci.
+    - Ospravedlňuje zásahy státu do ekonomiky.
+    - Dle Keynesiánství ovlivňuje poptávka produkci (růst ekonomiky), nezaměstnanost a inflaci.
+    - Její myšlenku vyslovil John Maynard Keynes ve své knize Obecná teorie zaměstnanosti, úroku a peněz z roku 1936.
+    - Keynesiánství staví na názoru, že z důvodu **nestabilní poptávky** tržní hospodářství pociťuje často negativní makroekonomické výstupy ve formě ekonomické recese, když je poptávka malá a inflace, když je poptávka vysoká.
+    - Problémy vznikající v hospodářství mohou být podle Keynesiánství zmírněny reakcemi hospodářské politiky, tedy především **monetární politiky** a **fiskální politiky**, které mohou pomoci stabilizovat objem výroby po dobu hospodářského cyklu a pomoci ekonomice v problematických chvílích, tedy jistým zpomalením ekonomiky když je v expanzi a vzrůstá nad potenciální produkt, aby nedošlo k přehřátí a k podpoře poptávky, když je ekonomika v recesi.
+    - Keynesiánství stále staví na tržní ekonomice, ale s aktivními zásahy státu do ekonomiky především v době recese.
+    - Bretton-Woodská konference, ukončila Zlatý standard u většiny měn, jediná měna, která zůstala navázána na zlato byl dollar, ten byl jediný i za zlato směnitelný, Bretton-Woodský systém byl opuštěn v roce 1971.
+    - Keynesiánství stavělo v rámci nezaměstnanosti a inflace na Phillipsově křivce, podle které bylo možné cílovat inflaci a nezaměstnanost, tato představa se ukázala jako milná v roce 1973, kdy došlo k ropné krizi a stagflaci, státní zásahy do ekonomiky tuto situaci však nedokázaly efektivně vyřešit.
+    - Milton Friedman v této souvislosti představil přirozenou míru nezaměstnanosti viz. trh práce.
+    - Stagflace není řešitelná standardní cestou, neboť zásahy mířící ke snížení inflace tedy omezení peněžní zásoby vedou ke zvyšování nezaměstnanosti a zvýšení peněžní zásoby zase k růstu inflace, řešení se tak může nabízet ve formě zvyšování produktivity práce (například snižováním daní, což vede k vyšší koupěschopnosti) a zároveň k omezení peněžní nabídky zvýšení bankovních rezerv a úrokových sazeb z půjček, což omezuje možnosti si půjčovat. Kombinací těchto dvou scénářů by mělo vést k neinflačnímu ekonomickému růstu, ale předpokládám, že za cenu velkých deficitů veřejných rozpočtů.
+    - **Neokeynesiánství**: jistá syntéza klasické teorie a keynesiánství.
+    - ~~**Postkeynesiánství**:~~
   - Současné ekonomické směry:
     - Například postkeynesiánství, ekologická ekonomie, institucionalismus etc.
 - Výsledek potlačení trhu
-  - Doplnit
+  - Tuto otázku chápu jako implementaci takové politiky, která potlačuje základní principy tržního ale dokonce i tržně-smíšeného hospodářství.
+  - Takovou to politikou je třeba centrálně plánované hospodářství, které namísto samoregulační funkce trhu dává prostor centralizovaným dlouhodobým plánům.
+  - Obecně je problém v nedostatku inovací, zboží je pak na světovém trhu nekonkurenceschopné.
+  - Plánovači nejsou obecně schopni pružně reagovat na změny potřeb lidí a změny situací ve společnosti, na to tržní ekonomika reaguje pomocí trhu a ceny na trhu a nabídky a poptávky, trhy si tak udržují schopnost vytvářet směnitelnou produkci, v plánované ekonomice je téměř nemožné odhadnout jak bude vypadat nabídka a poptávka.
+  - Důsledky potlačení trhů tak spočívají v nekonkurenceschopnosti trhu, nedostatku toho co je potřeba a nadbytku toho co není potřeba, nedostatek zboží mohou rovněž způsobit i regulované ceny, na trhu není iniciativa pro investice a inovace, kvalitní zboží se tak stává drahým (například Tuzex v Československu), vzniká šedá zóna ekonomiky i korupce, kvůli potlačení trhu neni ani možné řící, zda je jisté odvětví perspektivní a nebo nikoliv, to může vést k podpoře neperspektivních odvětví a znemožnění rozvoje perspektivnívh odvětví, což ve svém důsledku může vést ke snižování produktivity práce a e ekonomické recesi a úpadku, problém v rámci nedostaků může představovat i vysoká inflace a kvůli udržování neperspektivních oblastí bez existence politicky prosazované povinné zaměstnanosti může docházet i k nezaměstnanosti, což ve svém důsledku může ekonomiku absolutně ochromit a zapříčinit i stagflaci.
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
   - Jsou 4 typy - konvergující - nejčastější, divergující, stálá a oscilující
   - Záleží na tvaru křivek nabídky a poptávky.
   - Určuje jakým způsobem se vyrovnává cena a nabídka ve chvíli, kdy existuje nadprodukce a je stanovena vyšší cena.
   - Proces je obecně následující: P1,Q1 -> P2,Q2 -> P3,Q3 -> tržní cenová rovnováha, tzn. výrobce mění cenu a nabízené množství v závislosti na poptávce, s každou změnou se přibližuje tržnímu optimu až ho eventuálně dosáhne (v případě konvergující pavučiny).
+  - Pokud je na trhu **přebytek** budou firmy vyrábět více než chtějí prodat a na trhu bude více uchazečů o zaměstnání než budou chtít firmy přijmou - odhalí totiž, že nejsou v optimu, tím že nějakou část zboží neprodají, budou již v bodě klesající křivky v rámci celkových příjmů (mezní náklady na výrobu neprodaných statků budou vyšší než mezní příjem z daných neprodaných statků), dle teorému pavučiny se to vyřeší snížením ceny a počtu vyráběného zboží, což povede ke zvyšování poptávky a trh by se měl dostat do optima.
+  - Pokud je na trhu **nedostatek** budou firmy vyrábět méně statků, než kolik spotřebitelé poptávají, řešení tedy opět poskytuje teorém pavučiny, firmy zvýší produkci a cenu a tím klesne poptávka, trh by se tedy opět měl dostat do optima.
 - Tržní selhání
   - Selhání trhu má 4 (5) základní typy:
     - Nedokonalá konkurence
