@@ -1827,7 +1827,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Nerovnováha** - pokud se nerovnají, jedná se o nerovnováhu, dle toho pak bude výše národního důchodu klesat, nebo stoupat.
   * Více viz. v **distanční opoře na straně 6, nebo [zde](http://www.ius-wiki.eu/tnh/pfuk/tnh/zkouska/otazka-49)**.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-  * **Čistý domácí produkt je hrubý domácí produkt očištěný o odpisy, tedy o amortizaci**, národní důchod je tedy makroekonomický agregát, který lze počítat jednou z metod pro výpočet HDP, specificky **důchodovou metodou**, ta se počítá jako mzdy + renty + úroky + zisky + amortizace + nepřímé daně, pokud chceme získat čistý produkt, tak odečteme odpisy, pokud z toho pak chceme dostat národní důchod, tak odečteme nepřímé daně.
+  * **Čistý domácí produkt je hrubý domácí produkt očištěný o odpisy, tedy o amortizaci**, národní důchod je tedy makroekonomický agregát, který lze počítat jednou z metod pro výpočet HDP, specificky **důchodovou metodou**, ta se počítá jako mzdy (za práci) + renty (za půdu) + úroky (za kapitál) + zisky + amortizace + nepřímé daně, pokud chceme získat čistý produkt, tak odečteme odpisy, pokud z toho pak chceme dostat národní důchod, tak odečteme nepřímé daně.
 * Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o **deflační mezeru** = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o **inflační mezeru** = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
   * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě, je vedlejším produktem zvětšování peněžní ~~báze~~ zásoby, peněžní nebo měnová báze je souhrn oběživa a bankovních rezerv, používá se v měnové politice, a zlevňování peněz, o to se snaží centrální banka která se tim snaží udržet ekonomický růst okolo potenciálního produktu, ten ale předem nikdy nelze odhadnout, proto jedna z teorií říká, že za ekonomické cykly může svým rozhodováním způsobovat i centrální banka s ohledem na velikost peněžní zásoby.
@@ -1952,10 +1952,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Hmotné: věci
         - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statkya
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statky, ty lze dále dělit na **věcné** - zaměřené na obnovu statků - například servisy, a na **osobní** služby zaměřené na člověka, například kino, poradenské služby a tak dále.
       - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas), často se jedná o výsledky lidské činnosti
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
+        - **Primární** - nejsou výsledkem předchozí výroby - přírodní
+        - **Sekundární** - jsou výsledkem předchozí výroby - stroje
       - Spotřební - slouží přímo k uspokojování potřeb
       - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
       - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
