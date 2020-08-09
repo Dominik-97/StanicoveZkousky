@@ -1789,7 +1789,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici. Dělba práce uvnitř relativně malé skupiny, **co a kolik** vyrobit rozhodoval náčelník nebo rada starších na základě zkušeností s předchozími generacemi. Členové skupiny pracovali podle svých schopností ve prospěch všech a podíl na vyrobených statcích a službách byl určen náčelníkem.
   * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
   * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**, stát by měl poskytovat jen základní tržby a například vytvořit právní rámec a zajišťovat jistotu právní ochrany na trhu, neměli by však být používány nástroje fiskální a monetární politiky.
-  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu, nevýhodou potom je, že toto korigování nemusí být vždy provedeno správně a může tak přispět i k nestabilitě na trhu, kterou by jinak trh sám vyřešil - **například monetární teorie poptávkových šoků v rámci ekonomických cyklů, ekonomického růstu a ekonomické recese**.
+  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu, nevýhodou potom je, že toto korigování nemusí být vždy provedeno správně a může tak přispět i k nestabilitě na trhu, kterou by jinak trh sám vyřešil - **například monetární teorie poptávkových šoků v rámci ekonomických cyklů, ekonomického růstu a ekonomické recese**, toto pojetí tedy doplňuje tržní systém o viditelnou ruku trhu.
 * Základem ekonomických sytémů je tedy charakter vlastnictví, dělí se podle způsobů jak společnost odpovídá na otázku co-jak-pro-koho.
 * Ve vztahu k ekonomickým proudům se dá řící, že centrálně plánovaná ekonomika vychází například z **Marxismu**, tržní systém vychází z **liberálních směrů**, **klasické politické ekonomie** a soudobé **konzervativní teorie**, současná tržně-smíšená ekonomika vychází z názorů **Keynese** a jeho žáků, německý **ordoliberalismus** a další, dalším důležitým směrem je například **neokeynesiánství**, které vytvořilo syntézu keynesiánství a neoklasické ekonomie.
 
@@ -1879,6 +1879,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - V demokratických zemích - tržní systém (smíšený), na kterém existují systém svobodného podnikání a existence soukromého vlastnictví.
   - **Proč společnost bohatne?**
     - Kvůli vzniku a rozvoji trhu (dělba práce a specializace umožnila zvýšení produktivity a efektivity práce a vznik nadproduktu). Rovněž kvůli inovacím.
+    - Mělo dopad na produkční možnosti společnosti.
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
     - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
@@ -2632,6 +2633,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
   - Spotřeba
     - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
+    - Spotřeba se rozlišuje na **soukromou** - soukromé subjekty a **veřejnou** - stát.
   - Měření výkonnosti
     - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
@@ -2683,6 +2685,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
   - Je potřeba rozlišovat **strukturální** a **cyklické** výkyvy, hospodářský cyklus stojí právě na **cyklických výkyvech**.
   - Strukturální výkyvy jsou v pořádku, znamenají pružnost ekonomiky, souvisí se **strukturální nezaměstnaností** a pouze ukazují, že se některá odvětví (neperspektivní ve smyslu komparativní výhody) smršťují, a jiná perspektivní naopak rostou, před strukturálními výkyvy nelze chránit například ochranářskou politikou a cly, neboť ta brání neperspektivní odvětví a brání perspektivním odvětvím v tom, aby se prosadila, tím se i snižuje zahraniční obchod - právě kvůli **komparativní výhodě, respektive nevýhodě** a žádná země nemůže v moderním světě přežít bez zahraničního obchodu.
+    - **Komparativní výhoda spočívá v tom, že některá země je v produkci nějakého statku efektivnější než země jiná, proto je výhodné tyto statky dovážet do zemí, kde by jinak jejich produkce nebyla efektivní a alokovat volné zdroje na produkci statku, ve kterém má daná země komparativní výhodu.**
   - **Cyklické výkyvy jsou ale charakterizovány všeobecným poklesem ekonomiky, ne jen určitého odvětví, a poté zase růstem výroby a zaměstnanosti v celé ekonomice, ne jen v určitých odvětvích.**
   - **Má čtyři fáze:**
     - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
@@ -2693,6 +2696,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Krátkodobý:**
     - **Střednědobý:**
     - **Dlouhodobý:**
+  - **Hospodářský proces**
+    - Výroba - první fáze je vyrobení statku
+    - Rozdělení - ti kdo se na výrobě statku podíleli získávají odměnu
+    - Směna - prodej na trhu, lidé kupují k uspokojení svých potřeb
+    - Spotřebě - lidé uspokojují své potřeby spotřebou
+    - Značně souvisí s ekonomickým koloběhem
 
 ----
 :::
