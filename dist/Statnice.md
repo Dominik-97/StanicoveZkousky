@@ -1931,6 +1931,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Jak vyrábět**: cena také určuje, jaké se používají výrobní faktory, tedy za kolik se bude vyrábět, v jaké kvalitě a s jakými technologickými postupy
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
     - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
+    - **Trh cenu rovněž tvoří.**
     - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
     - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
     - Dobrý zdroj je [zde](https://czu.natalya.cz/czufiles/files3/OEI-zk-ustni.pdf).
@@ -1954,12 +1955,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
         - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statky, ty lze dále dělit na **věcné** - zaměřené na obnovu statků - například servisy, a na **osobní** služby zaměřené na člověka, například kino, poradenské služby a tak dále.
-      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
+      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí (jsou ještě volné zdroje, to jsou zdroje, které jsou využívány bezplatně, avšak i když nemusé volné zdroje přinášet uživatelům náklady, může se jednat i o vzácné zdroje - například parkování, neboť se spotřebitelé omezují a udržování takovéhoto zdroje něco stojí - často třeba město)
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas), často se jedná o výsledky lidské činnosti
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
         - **Primární** - nejsou výsledkem předchozí výroby - přírodní
         - **Sekundární** - jsou výsledkem předchozí výroby - stroje
-      - Spotřební - slouží přímo k uspokojování potřeb
+      - Spotřební (finální) - slouží přímo k uspokojování potřeb
       - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
       - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
     - **Další informace ke statkům**:
