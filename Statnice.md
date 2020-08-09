@@ -1720,9 +1720,11 @@ Studuje chování jednotlivců, je to věda o lidském jednání, respektive o r
 
 Není objektivně měřitelná, je to společenská věda.
 
-Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití).
+Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů** (jinak by se dalo rovněž říci, že Ekonomie je věda o tom, jak se ekonomické subjekty chovají (rozhodují) při využívání vzácných zdrojů, které mají alternativní využití), užitek každého subjektu je subjektivní a nezáleží tedy na tom zda je daný užitek považovaný za racionální, nebo nikoli, protože toto ostatně nelze ani zhodnotit, záleží pouze na tom, jaku cestu člověk zvolil, aby se k danému cíli dostal, racionální člověk zvolí cestu s nejmenším úsilím, ze které získá největší užitek, téměř všechny zdroje, kterými lidí uspokojují své potřeby jsou vzácné.
 
-Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
+Zájmy jedněch lidí jsou vyvažovány zájmy druhých lidí.
+
+Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky), volné statky = statky za které spotřebitele neplatí, nebo jsou hrazeny z pojištění, tedy například procházka ve višňovém sadu, nebo zdravotní pojištění (volné statky jsou ale často hrazeny v rámci daní a pojištění), veřejné statky - viz selhání trhu, statky které musí být poskytovány bezplatně a nejde z jejich užívání nikoho vyloučit - **problém černého pasažéra**, u těchto statků rovněž platí **nerivalita ve spotřebě**.
 
 Racionální volba: **jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?**
 
@@ -1736,7 +1738,7 @@ Ekonomie se **člení** na:
 
 **Ekonomie** (věda) a **ekonomika **(souhrn hospodářských činností ekonomických subjektů, které tyto subjekty vykonávají za účelem uspokojení svých potřeb).
 
-Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného - hranice produkčních možností.
+Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic dalšího - jedinným způsobem, jak zvýšit výrobu určitého statku, je snížit výrobu něčeho jiného - **hranice produkčních možností**.
 
 **Další dodatečné informace**, blížeji popsáno pak také v distanční opoře na stranně 4 (například používané metody a tak podobně) [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf):
 
@@ -1758,13 +1760,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * **Průměrné (celkové) uspokojení** vs. **Mezní uspokojení** (užitek, přírůstek uspokojení).
 * Pokud chceme rozdělit svůj vzácný zdroj (třeba čas nebo peníze) mezi více příležitostí, porovnáváme důsledky uspokojení z těchto příležitostí.
 * V kardinalistické teorii jasně stanoveným číselným užitkem, v rámci ordinalistické teorie za pomocí indiferenčních křivek - křivka v grafu je konvexní.
+* Člověk, který chce rozdělit svůj vzácný zdroj (například čas) mezi více příležitostí, porovnává přírůstky uspokojení z těchto příležitostí, optimálního budu dosáhne tam, kde spotřeba každé další jednotky téhož statku přinese menší uspokojení než první jednotka druhého statku, tedy pokud je mezní užitek ze spotřeby další jednotky jednoho statku nižší, než mezní užitek ze spotřeby druhého statku, přestane racionální spotřebitel v dané chvíli spotřebovávat první statek a začne spotřebovávat druhý statek.
 * **Hranice produkčních možností** ukazuje všechny možné kombinace dvou výrobků, které je možné získat s daným zdrojem (s danými zdroji) - křivka v fragu je konkávní. Toto v kombinaci s uspokojením (ať už osobním, nebo ve smyslu za jaký produkt dostane více peněž) určuje **optimální bod na hranici produkčních možností** - bod v němž bude přírůstek uspokojení z jednoho výrobku pokud možno stejný jako přírůstek uspokojení z druhého výrobku.
-* **Zákon klesajícího výnosu** - vlastnost výrobního procesu, u kterého mezní produkt každého výrobního faktoru klesá s přidáním každé další jednotky tohoto faktoru, pokud ostatní výrobní faktory zůstanou na stejné úrovni. Jedná se tedy v podstatě o situaci, kdy každý další výrobní faktor například na poli (o nezměněné velikosti), přičemž za výrobní faktor lze považovat třeba pracovníka na sklizeň přinese menší mezní produkt, než pracovník na sklizeň předchozí.
+* **Zákon klesajícího výnosu** - vlastnost výrobního procesu, u kterého mezní produkt každého výrobního faktoru klesá s přidáním každé další jednotky tohoto faktoru, pokud ostatní výrobní faktory zůstanou na stejné úrovni. Jedná se tedy v podstatě o situaci, kdy každý další výrobní faktor například na poli (o nezměněné velikosti), přičemž za výrobní faktor lze považovat třeba pracovníka na sklizeň přinese menší mezní produkt, než pracovník na sklizeň předchozí, má nejdříve stoupající tendenci, pak začíná klesat, pokud bychom chtěli měnit více vstupů, museli bychom použít **produkční funkci**, průběh produkční funkce může být jak stoupající, tak i klesající, **produkční funkce ukazuje maximální objem výstupu, který je firma s danými vstupy schopná vytvořit, souvisí tedy s chováním firmy v rámci mikroekonomie, v rámci makroekonomie pak určuje poptávkovou stranu na trhu práce**.
 * Lidé se chovají v souladu s ekonomickými zákony, i když tyto zákony neznají a nikdy je nestudovali. (Jedná se zkrátka o princip chybou se učíš, pokud by se tak nechovali, tak by brzi poznali, že si škodí.)
 * Racionalita tak nespočívá v tom, že je člověk ekonomický neomylný, ale že systematicky neopakuje chyby, nýbrž se z nich učí a napravuje je.
 * Člověk dále sleduje vlastní zájem, tento vlastní zájem je však v souladu s obecným zájmem. **Racionální chování jednotlivce tedy vede k efektivnímu výsledku**. Adam Smith popsal v díle Pojednání o podstatě a původu bohatství národů z roku 1776 o takzvané **neviditelné ruce trhu**. Tato neviditelná ruka trhu slaďuje zájmy jednotlivců se zájmy společnosti, neviditelná ruka trhu spočívá v tržních cenách.
 * V tržní ekonomice svoboná směna a tržní ceny zajišťují soulad mezi prospěchem jednotlivce a společným prospěchem. **Ceny a zisk vedou výrobce k tomu, aby dělali to, co chtějí spotřebitelé**. Přestože výrobcům vůbec nejde o spotřebitele ale o vlastní zisky. (Zákon nabídky a poptávky.)
-* Kvůli neviditelné ruce trhu tak nemusí existovat žádná centrální autorita předávající informace co kdo potřebujeme, díky dělbě práce a neviditelné ruce trhu je zajištěno, že všichni dokážeme spolupracovat a spolufungovat v tržní ekonomice, tak, že na konci veškerých procesů vznikají věci a služby, který každý z nás chce. (Záleží tedy na měnících preferencích spotřebitelů, v měnících se výrobních technologiích, nebo v měnící se vzácnosti různých zdrojů, lidé na tyto změny reagují a přizpůsobují se jim ve smyslu co mají vyrábět a spotřebovávat, kde to mají prodávat a kupovat, do čeho mají investovat.) Tyto informace sedimentují pouze v cenách.
+* Kvůli neviditelné ruce trhu tak nemusí existovat žádná centrální autorita předávající informace co kdo potřebujeme, díky dělbě práce a neviditelné ruce trhu je zajištěno, že všichni dokážeme spolupracovat a spolufungovat v tržní ekonomice, tak, že na konci veškerých procesů vznikají věci a služby, který každý z nás chce. (Záleží tedy na měnících preferencích spotřebitelů, v měnících se výrobních technologiích, nebo v měnící se vzácnosti různých zdrojů, lidé na tyto změny reagují a přizpůsobují se jim ve smyslu co mají vyrábět a spotřebovávat, kde to mají prodávat a kupovat, do čeho mají investovat.) Tyto informace sedimentují pouze v cenách, dalo by se říci, že i ve **spekulacích, ty se opírají i o další informace, spekulace se však projeví v cenách a to je důležitá informace pro další subjekty na trhu**, spekulace rovněž urychlují přenos informací.
+* Důležitý je přenos informací, ty přenášejí ceny za pomoci **informační funkce ceny**, jak se ale tuto informaci dozvědí ostatní výrobci a splní se tedy i **motivační funkce ceny**, tuto informaci přenášejí obchodníci a spotřebitelé ve své nabídce a poptávce, rovněž jí po celém světe přenášejí **spekulanti**, kteří například začnou daný statek nakupovat a v důsledku toho se zvýší i cena, což dává impuls výrobcům k větší produkci daného statku.
 * **Funkce cen**:
   * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod. a signalizuje hodnotu, kterou společnost v daném statku vidí i náklady na jeho výrobu ( = jeho relativní vzácnost)
   * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více. Motivuje tedy výrobce, aby vyráběl více a spotřebitele, aby více spotřebovával.
@@ -1784,10 +1788,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 * Základní kategorie jsou:
   * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici. Dělba práce uvnitř relativně malé skupiny, **co a kolik** vyrobit rozhodoval náčelník nebo rada starších na základě zkušeností s předchozími generacemi. Členové skupiny pracovali podle svých schopností ve prospěch všech a podíl na vyrobených statcích a službách byl určen náčelníkem.
   * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
-  * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**.
-  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu.
+  * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**, stát by měl poskytovat jen základní tržby a například vytvořit právní rámec a zajišťovat jistotu právní ochrany na trhu, neměli by však být používány nástroje fiskální a monetární politiky.
+  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu, nevýhodou potom je, že toto korigování nemusí být vždy provedeno správně a může tak přispět i k nestabilitě na trhu, kterou by jinak trh sám vyřešil - **například monetární teorie poptávkových šoků v rámci ekonomických cyklů, ekonomického růstu a ekonomické recese**, toto pojetí tedy doplňuje tržní systém o viditelnou ruku trhu.
 * Základem ekonomických sytémů je tedy charakter vlastnictví, dělí se podle způsobů jak společnost odpovídá na otázku co-jak-pro-koho.
-* Ve vztahu k ekonomickým proudům se dá řící, že centrálně plánovaná ekonomika vychází například z **Marxismu**, tržní systém vychází z **liberálních směrů**, **klasické politické ekonomie** a soudobé **konzervativní teorie**, současná tržně-smíšená ekonomika vychází z názorů **Keynese** a jeho žáků, německý **ordoliberalismus** a další.
+* Ve vztahu k ekonomickým proudům se dá řící, že centrálně plánovaná ekonomika vychází například z **Marxismu**, tržní systém vychází z **liberálních směrů**, **klasické politické ekonomie** a soudobé **konzervativní teorie**, současná tržně-smíšená ekonomika vychází z názorů **Keynese** a jeho žáků, německý **ordoliberalismus** a další, dalším důležitým směrem je například **neokeynesiánství**, které vytvořilo syntézu keynesiánství a neoklasické ekonomie.
 
 **Ekonomický koloběh** - ukazuje vztahy mezi ekonomickými subjekty, neboť ty zastávají různé role (pracují, vyrábějí, nakupují a prodávají, najímají a pronajímají...), samotný koloběh pak zachycuje vzájemné vztahy mezi jednotlivými subjekty.
 
@@ -1814,29 +1818,31 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   * **Jednoduchý koloběh**:
     * Firmy a domácnosti v rovném postavení, zisky z trhu zboží a služeb jdou přímo firmám, zisky z výrobních faktorů přímo domácnostem, neexistence státu a zahraničí (dvousektor, který je uzavřenou ekonomikou), neexistují finanční instituce.
   * **Úplný koloběh**:
-    * Realističtější model, zahrnuje i třetí a čtvrtý sektor. Předpokládá, že domácnosti mohou svůj důchod buď utratit, nebo i uspořit. Obsahuje finanční společnosti, u kterých domácnosti spoří, ty naspořené prostředky půjčují firmám na rozšiřování a inovace, mohou tedy rozšířit svoji výrobu (přispívá k ekonomickému růstu a bohatnutí společnosti).
+    * Realističtější model, zahrnuje i třetí a čtvrtý sektor. Předpokládá, že domácnosti mohou svůj důchod buď utratit, nebo i uspořit. Obsahuje finanční společnosti, u kterých domácnosti spoří, ty naspořené prostředky půjčují firmám na rozšiřování a inovace, mohou tedy rozšířit svoji výrobu (přispívá k ekonomickému růstu a bohatnutí společnosti), u finančních institucí si lze rovněž půjčovat, to také přispívá ke zvýšení investicí a ekonomickému růstu, na finančních trzích se může taktéž obchodovat s finančními aktivy, tedy cennými papíry emitovanými společnostmi, centrální bankou, nebo státem, dluhopisy pak může vydávat i fyzická osoba.
     * Stát pak odčerpává nějaké prostředky z finančních toků v podobě daní a ostatních ze zákona povinných plateb, poukazuje domácnostem **transferové platby** a firmám **dotace**.
       * **Transferová platba**: jest platbou neekvivalentní, tzn. stát za ni neočekává žádné odpovídající plnění, jedná se tak například o sociální dávky, důchody a tak podobně, většinou se jedná o takzvané **mandatorní výdaje**.
-    * Zahrnuje rovněž zahraničí (uvažujeme obchodní bilanci), tzn. toky kapitálu ze zahraničí a toky kapitálu do zahraničí.
+    * Zahrnuje rovněž zahraničí (uvažujeme obchodní bilanci), tzn. toky kapitálu ze zahraničí a toky kapitálu do zahraničí, respektive tedy celkové platební bilanci obsahující i další účty, přičemž export a import jsou součástí obchodní bilance, která je na běžném účtu platební bilance.
 * V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. **Rovnováha** - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. **Nerovnováha** - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
   * **Rovnováha** - při rovnosti toho co domácnosti utratí a firmy prodají, tedy toho co firmy utratí za výrobní faktory a prodají za zboží a pokud se úspory domácností rovnají investicím firem v **jednoduchém** koloběhu. V **úplném** koloběhu pokud se souhrn investic, státních výdajů na spotřebu zboží a služeb, vývozu zboží a služeb a dovozu kapitálu bude rovnat souhrnu úspor domácností, daňových příjmů státu, dovozu zboží a vývozu kapitálu.
   * **Nerovnováha** - pokud se nerovnají, jedná se o nerovnováhu, dle toho pak bude výše národního důchodu klesat, nebo stoupat.
   * Více viz. v **distanční opoře na straně 6, nebo [zde](http://www.ius-wiki.eu/tnh/pfuk/tnh/zkouska/otazka-49)**.
 * **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
+  * **Čistý domácí produkt je hrubý domácí produkt očištěný o odpisy, tedy o amortizaci**, národní důchod je tedy makroekonomický agregát, který lze počítat jednou z metod pro výpočet HDP, specificky **důchodovou metodou**, ta se počítá jako mzdy (za práci) + renty (za půdu) + úroky (za kapitál) + zisky + amortizace + nepřímé daně, pokud chceme získat čistý produkt, tak odečteme odpisy, pokud z toho pak chceme dostat národní důchod, tak odečteme nepřímé daně.
+* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**, více v **distanční opoře na straně 7**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat, ani nebude růst nezaměstnanost = ~~**stagflace**~~, v reálu je situace nerovnovážná - mění se ceny a úroveň zaměstnanosti. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o **deflační mezeru** = ~~**deflace**~~ hodnota, o kterou je potřeba zvýšit agregátní poptávku, aby se vyrovnala s agregátní nabídkou. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o **inflační mezeru** = ~~**inflace**~~ hodnota, o kterou se musí agregátní poptávka pro dosažení příslušné rovnováhy při stálých cenách snížit.
 * Domnívám se že v případě AP = AN se bude jednat o nulovou inflaci, v případě AP > AN se bude jednat o inflaci a v případě AP < AN se bude jednat o deflaci.
-  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě, je vedlejším produktem zvětšování peněžní báze a zlevňování peněz, o to se snaží centrální banka která se tim snaží udržet ekonomický růst okolo potenciálního produktu, ten ale předem nikdy nelze odhadnout, proto jedna z teorií říká, že za ekonomické cykly může svým rozhodováním i centrální banka s ohledem na velikost peněžní zásoby.
+  * **Inflace** - Podporuje investice, protože pokud by se peníze nechali ležet ladem, ztráceli by na hodnotě, je vedlejším produktem zvětšování peněžní ~~báze~~ zásoby, peněžní nebo měnová báze je souhrn oběživa a bankovních rezerv, používá se v měnové politice, a zlevňování peněz, o to se snaží centrální banka která se tim snaží udržet ekonomický růst okolo potenciálního produktu, ten ale předem nikdy nelze odhadnout, proto jedna z teorií říká, že za ekonomické cykly může svým rozhodováním způsobovat i centrální banka s ohledem na velikost peněžní zásoby.
     * **Nulová inflace** - není dobrá, neboť zvyšuje reálnou hodnotu dluhů, kvůli tomu mají lidé méně peněz volných k utrácení = zpomalení růstu ekonomiky, **dále zvyšuje reálné úrokové míry** = menší zájem o peníze, menší množství investic, menší ekonomický růst, **odklad spotřeby** = menší spotřeba, menší utrácení, menší zisky firem, menší ekonomický růst, **indikátor malého ekonomického růstu, nebo dokonce ekonomického poklesu**, **těžší stanovení cen, neboť se není možné spolehnout na inflační očekávání**. ~~rovněž je deflace dobrá pro dlužníky, pokud by byla deflace, hodnota dluhu by se zvyšovala. Inflační očekávání.~~
     * **Inflační spiral** - tlak na zvyšování mezd způsobí tlak na zvyšování cen, to způsobí tlak na zvyšování mezd a tak podobně.
     * **Větší než cílovaná inflace** - neefektivní fungování trhů, znesnadňování sestavování dlouhodobých plánů, cenových kalkulací a rozpočtů, brzda produktivity práce kvůli nutnosti přesouvat zdroje od poskytování výrobků a služeb k finančním operacím s cílem zabezpečit se proti ztrátám, nedůvěra v měnu, přesun k naturálním směnám, nejistota ohledně budoucí kupní síly peněz odrazuje od investic a spoření, rovněž může způsobit taxflaci.
-    * **Pozitiva inflace** - vyšší pružnost trhů, neboť inflace může působit na menší reálné zvyšování mzdy, což je například ve vztahu k nedobrovolné nezaměstnanosti občas potřeba, inflace tedy může působit na reálné snižování mezd a dostat tak trh práce a trh obecně zpět do rovnováhy, mírná inflace rovněž zajistí, že nominální úrokové sazby zůstanou dostatečně vysoké, aby v případě potřeby mohla centrální banka nominální úrokové míry snížit pomocí monetární politiky, **jedná se tedy o jakýsi manévrovací prostor centrální banky**.
+    * **Pozitiva inflace** - vyšší pružnost trhů, neboť inflace může působit na menší reálné zvyšování mzdy, což je například ve vztahu k nedobrovolné nezaměstnanosti občas potřeba, inflace tedy může působit na reálné snižování mezd a dostat tak trh práce a trh obecně zpět do rovnováhy, mírná inflace rovněž zajistí, že nominální úrokové sazby zůstanou dostatečně vysoké, aby v případě potřeby mohla centrální banka nominální úrokové míry snížit pomocí monetární politiky, **jedná se tedy o jakýsi manévrovací prostor centrální banky**, rovněž malá ale stálá inflace nutní lidi investovat a spořit (spořit ve smyslu ukládání oběživa do banky, ta pak může pomocí peněžního multiplikátoru v ekonomice vytvořit spoustu nových peněz, které mohou firmy použít například jako půjčky a tyto peníze pak investovat).
   * **Deflace** - Mnoho podobných negativních faktorů jako u nulové inflace, může však být i pozitivní **například při technologickém vývoji a snížení nákladů v určitých odvětvích** - **způsobí větší výrobu za nižší ceny = to způsobí větší spotřebu a pozitivně působí na růst ekonomiky**, celková deflace v ekonomice však může působit velké problémy = zdražování dluhů, odkládání spotřeby, menší snaha o investice, neboť peníze se zhodnocují i když doma leží ladem, díky deflaci tak ekonomika může zklouznout i do recese, reálně klesají i zisky firem - ty musí dělat odpovídající opatření - například snižovat obejm výroby, propouštět zaměstnance a tak podobně.
-    * Pokud je inflace způsobená přemírou peněz na trhu, tak deflace je způsobena **nedostatkem peněz na trhu**.
+    * Pokud je inflace způsobená přemírou peněz na trhu, tak deflace je způsobena **nedostatkem peněz na trhu**, toto souvisí i s nabídkou peněz, neboť zvyšování vertikální přímky nabídky peněz se posouvá doprava po křivce poptávky po penězích a tím klesá i reálná úroková míra, snižování peněžní zásoby se projevuje posunem verikální přímky nabídky peněz do leva, to s ohledem na klesající křivku poptávky způsobí zvýšení reálných úrokových sazeb, na vertikální ose je přitom úroková sazba, na vodorovné ose je množství peněz.
   * **Stagflace** - (past na likviditu), nejhorší možný scénář, jedná se zároveň o stagnaci ekonomiky a zároveň o vysoký růst inflace a vysokou nezaměstnanost, dříve popíralo Keynesiánství a Phillipsova křivka, vedlo ke krizím v souvislosti s ropnými šoky v 70. letech minulého století.
     * **V souvislosti se stagflací se zrodila myšlenka MIltona Friedmana o přirozené míře nezaměstnanosti, problém spočívá v tom, že nezaměstnanost nelze snižovat pod přirozenou míru nezaměstnanosti, neboť to způsobí inflaci, ale nezaměstnanost se vrátí zpět na svojí původní honotu i přes prvotně způsobenou peněžní iluzi a ekonomický růst, ve finále se tedy docílí stejné nezaměstnanosti, ale nově dosažená inflace se ustálí a stane se novým standardem - tvz. novým inflačním očekáváním.**
     * Inflační spirála se zastaví až ve chvíli, kdy se nezaměstnanost ustálí na své přirozené míře.
 * **Vytváření peněz**
-  * Peněžní bázi zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
+  * Peněžní ~~bázi~~ zásobu zvyšují komerční banky úvěry, částečně mohou poskytovat větší úvěry když mají větší aktiva, ty může pomocí repo sazby, diskontní sazby, nebo lombardní sazby vytvářet i sama centrální banka, dále může měnit minimální povinné bankovní rezervy (minimální množství peněz, které musí mít banka uložené na účtu u Centrální banky ze všech svých závazků z primárních zdrojů - tedy z vkladů), tím také přispívá ke zlevňování, nebo zdražování peněz.
+  * Česká národní banka rovněž ovlivňuje peněžní zásobu za pomocí operací na volném trhu.
   * Oběživo v rámci peněžní báze se dostává do oběhu tím, že banka směňuje svojí likviditu za oběživo, které si pak občané mohou vybírat z bankomatů.
   * Viz otázka peníze.
 * Jak bohatne země, ekonomika, jak probíhá hospodářský růst
@@ -1873,6 +1879,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - V demokratických zemích - tržní systém (smíšený), na kterém existují systém svobodného podnikání a existence soukromého vlastnictví.
   - **Proč společnost bohatne?**
     - Kvůli vzniku a rozvoji trhu (dělba práce a specializace umožnila zvýšení produktivity a efektivity práce a vznik nadproduktu). Rovněž kvůli inovacím.
+    - Mělo dopad na produkční možnosti společnosti.
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
     - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
@@ -1924,6 +1931,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Jak vyrábět**: cena také určuje, jaké se používají výrobní faktory, tedy za kolik se bude vyrábět, v jaké kvalitě a s jakými technologickými postupy
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
     - **Cena** - peněžní ocenění hodnoty zboží a služeb, signalizují hodnotu, kterou ekonomické subjekty v daném statku vidí, i náklady, které je třeba vynaložit, aby určitý statek mohl být vyroben - tj. jeho relativní vzácnost. -> tržní systém - **systém cenový**, či **cenově řízený**.
+    - **Trh cenu rovněž tvoří.**
     - Další funkce trhu a cen jsou shodné s funkcí cen popsanou v první otázce.
     - **Rovnovážná tržní cena** - vzniká vzájemným působením nabídky a poptávky, je to cena vyrovnávající nabídku a poptávku - množství statku, které mají spotřebitelé při této ceně zájem koupit a výrobci prodat, je stejná, takže na trhu nevzniká ani nedostatek, ani nadbytek zboží = ideální stav, tržní cena kolem tohoto bodu osciluje = jedná se tedy o bod, ve kterém se protíná křivka nabídky a křivka poptávky, cena okole něj osciluje = jedná se o teorém pavučiny.
     - Dobrý zdroj je [zde](https://czu.natalya.cz/czufiles/files3/OEI-zk-ustni.pdf).
@@ -1946,11 +1954,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - Hmotné: věci
         - **Zboží**: Hmotné statky určené pro trh
       - Nehmotné: například znalosti, vlastnosti, dovednosti
-        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statkya
-      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí
+        - **Služby**: činnost, která uspokojuje potřebu svým průběhem, lze je charakterizovat jako nehmotné, neskladovatelné a nezkazitelné ekonomické statky, ty lze dále dělit na **věcné** - zaměřené na obnovu statků - například servisy, a na **osobní** služby zaměřené na člověka, například kino, poradenské služby a tak dále.
+      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch, není potřeba vyvinout zvláštní úsilí (jsou ještě volné zdroje, to jsou zdroje, které jsou využívány bezplatně, avšak i když nemusé volné zdroje přinášet uživatelům náklady, může se jednat i o vzácné zdroje - například parkování, neboť se spotřebitelé omezují a udržování takovéhoto zdroje něco stojí - často třeba město)
       - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas), často se jedná o výsledky lidské činnosti
       - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
-      - Spotřební - slouží přímo k uspokojování potřeb
+        - **Primární** - nejsou výsledkem předchozí výroby - přírodní
+        - **Sekundární** - jsou výsledkem předchozí výroby - stroje
+      - Spotřební (finální) - slouží přímo k uspokojování potřeb
       - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
       - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
     - **Další informace ke statkům**:
@@ -2583,6 +2593,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - V **jednoduchém ekonomickém modelu, respektive koloběhu** se dvěma subjekty (firmy a domácnosti) platí, že vytvořený produkt (**Y**) je součtem spotřeby domácností a jejich úspor.
     - Platí že **Y = C + S**, kde **C** je consumpiton = spotřeba a **S** je savings = úspory
     - Velikost spotřeby závisí na **disponibilním důchodu domácností** a na úrokové míře, podíl spotřeby na disponibilním důchodu se s růstem důchodu snižuje.
+    - **Disponobilní důchod** pak vyjadřuje reálnou míru bohatství domácností, zahrnuje v sobě **transferové platby** a je od něj potřeba **odečíst daně**.
     - K efektivnímu využití vzácných zdrojů dochází, když jsou úspory domácností použity jako investice ve firmách, tedy když I = S.
     - Investice se dělí na **hrubé** = bez započtení amortizace, jedná se o celkově vynaložené investice a **čisté** = vynaloženy navíc oproti předchozímu cyklu, se započtením amortizace, **čisté investice umožňují ekonomický růst**.
     - **Důchodotvorný účinek investic:** přírůstek investic vyvolá přírůstek důchodů, a tím i přírůstek spotřeby, hodně je investováno například když jsou levné peníze, souvisí s **inflací**.
@@ -2623,6 +2634,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
   - Spotřeba
     - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
+    - Spotřeba se rozlišuje na **soukromou** - soukromé subjekty a **veřejnou** - stát.
   - Měření výkonnosti
     - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
@@ -2674,6 +2686,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
   - Je potřeba rozlišovat **strukturální** a **cyklické** výkyvy, hospodářský cyklus stojí právě na **cyklických výkyvech**.
   - Strukturální výkyvy jsou v pořádku, znamenají pružnost ekonomiky, souvisí se **strukturální nezaměstnaností** a pouze ukazují, že se některá odvětví (neperspektivní ve smyslu komparativní výhody) smršťují, a jiná perspektivní naopak rostou, před strukturálními výkyvy nelze chránit například ochranářskou politikou a cly, neboť ta brání neperspektivní odvětví a brání perspektivním odvětvím v tom, aby se prosadila, tím se i snižuje zahraniční obchod - právě kvůli **komparativní výhodě, respektive nevýhodě** a žádná země nemůže v moderním světě přežít bez zahraničního obchodu.
+    - **Komparativní výhoda spočívá v tom, že některá země je v produkci nějakého statku efektivnější než země jiná, proto je výhodné tyto statky dovážet do zemí, kde by jinak jejich produkce nebyla efektivní a alokovat volné zdroje na produkci statku, ve kterém má daná země komparativní výhodu.**
   - **Cyklické výkyvy jsou ale charakterizovány všeobecným poklesem ekonomiky, ne jen určitého odvětví, a poté zase růstem výroby a zaměstnanosti v celé ekonomice, ne jen v určitých odvětvích.**
   - **Má čtyři fáze:**
     - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
@@ -2684,6 +2697,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Krátkodobý:**
     - **Střednědobý:**
     - **Dlouhodobý:**
+  - **Hospodářský proces**
+    - Výroba - první fáze je vyrobení statku
+    - Rozdělení - ti kdo se na výrobě statku podíleli získávají odměnu
+    - Směna - prodej na trhu, lidé kupují k uspokojení svých potřeb
+    - Spotřebě - lidé uspokojují své potřeby spotřebou
+    - Značně souvisí s ekonomickým koloběhem
 
 ----
 
@@ -2820,6 +2839,16 @@ Kurzy
 
 ​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
 
+Měnová politika expanzivní
+
+Měnová politika restriktivní
+
+Aktivistická měnová politika
+
+Měnová politika stálého pravidla
+
+Měnová politika cílování inflace
+
 ----
 
 #### Otázka 11 - Fiskální politika (cíle, hlavní subjekty a nástroje), analýza vládních výdajů (obecné problémy, restriktivní a expanzivní přístup, vestavěné stabilizátory, vliv dotací a subvencí, deficity a vytěsňování soukromých investic). \
@@ -2897,6 +2926,8 @@ Kurzy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Podnikání je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku.
 
 Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 
@@ -3077,6 +3108,21 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Pohledávky a závazky podniku
+  - [ ] Vznik a členění
+  - [ ] Zásada opatrnosti
+  - [ ] Cizí a vlastní zdroje (kapitál)
+- [ ] Náklady a výnos
+  - [ ] Zisk podniku, náklady podniku, příjmy podniku (Ekonomický pohled z distanční opory)
+  - [ ] Druhy
+  - [ ] Pravidla účtování
+  - [ ] Odrza v účetních výkazech
+- [ ] Řízení a účtování zásob
+  - [ ] Charakteristika
+  - [ ] Členění
+  - [ ] Způsoby účtování
+  - [ ] Oceňování spotřeby
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
@@ -3103,6 +3149,10 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Účetní závěrka (uzávěrka) se skládá z výsledovky (výkaz zisků a ztrát) a z rozvahy, přehled o finančních tocích, změny vlastního kapitálu a příloha k účetní závěrce, tou je komentář k účetní závěrce.
+
+Krom toho firma ještě podává přiznání k dani z příjmu právníckých osob a přiznání k dani z přidané hodnoty společně s kontrolním a souhrnným hlášením.
 
 ----
 
