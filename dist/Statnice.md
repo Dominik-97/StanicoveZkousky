@@ -2645,12 +2645,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - HDP/ČDP
     - Hrubý domácí produkt - celková hodnota všech finálních výrobků a služeb vyrobených v daném čase **na území daného státu**
     - Čistý domácí produkt je produkt po odpočtu amortizace
+    - Ve zkratce se tedy počítá produkt vyrobený na území daného státu
   - HNP/ČNP
     - To samé jako HDP, ale místo území se počítá hodnota všech výrobků a služeb **vyrobenými národními výrobními faktory**
     - Čistý národní produkt je také po odpočtu amortizace
+    - Ve zkratce se tedy počítá produkt vyrobený národními faktory i na území cizího státu - tedy například produkt českého občana pracujícího v Německu
   - Nominální a reálný
     - **Nominální je vyjadřován v běžných cenách - tedy v nominální hodnotě cen**
     - **Reálný je vyjádřen ve stálých cenách - tedy změna produktu například mezi roky 2010 a 2011 je počítána v zcenách z období roku 2010, jedná se tedy o cenu očištěnou o inflaci**
+    - Nominální se soustředí na ceny, reálný na růst produkce
   - Skutečný a potenciální
     - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
     - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
