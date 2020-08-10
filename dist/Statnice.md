@@ -2671,6 +2671,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Čisté investice:** investice nad úroveň minulého roku a nad nahrazení amortizace.
     - **Hrubé investice:** čisté investice a nahrazení amortizace
     - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce, na ekonomický růst ale může působit i samotná investice, například při přílivu zahraničního kapitálu.
+    - Ke vzniku kapitálu jsou potřebné investice, investicemi je výroba kapitálových statků namísto spotřebních statků, je tedy potřeba odložit část spotřeby do budoucna, investice tedy vznikají odložením přítomné spotřeby v zájmu toho, aby se v budoucnu spotřeba zvýšila.
+    - Výnosem z investice je zvýšení zisku.
   - Spotřeba
     - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
     - Spotřeba se rozlišuje na **soukromou** - soukromé subjekty a **veřejnou** - stát.
