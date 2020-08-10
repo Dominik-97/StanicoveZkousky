@@ -2869,29 +2869,63 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Měnová (monetární) politika**
   - Je součástí **hospodářské politiky státu**.
+  
   - Tvoří jí centrální banka, která je však **absolutně nezávislá na vládě**.
+  
   - Je souhrnem opatření a zásad, které mají prostřednictvím **měnových nástrojů** prosazovat **plnění měnových cílů**.
-  - Tvoří jí Česká národní banka, ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
+  
+  - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
+  
   - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
-  - Je to banka bank a dohlíží na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
+  
+  - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
+  
   - V česku je na první pozici v rámci **dvoustupňového bankovního systému**.
+  
   - Banka ve svém důsledku cílí na ovlivňování třech základních konečných cílů, viz níže.
+  
   - **Proces by se tedy dal popsat jako:**
+    
     - Využití nějakého nástroje měnové politiky,
     - Tento nástroj ovlivní zprostředkující cíl,
-    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst**, **nezaměstnanost**.
+    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru).
+    
   - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
+  
+  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                         |
+    | ------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita |
+  
   - 
+  
   - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
+  
   - **Centrální banka se primárně soustředí na:**
+  
     - Kontrolu množství peněz v ekonomice,
-    - Regulaci úrokových měr,
+    - Regulaci úrokových měr (tohoto dosahuje pomocí regulace množství peněz na trhu),
     - stanovení podmínek úvěrování.
+  
   - **Monetární politika může nabývat podob:**
+  
     - **Expanzivní** - používání dostupných nástrojů české národní banky ke zvýšení peněz v oběhu,
     - **Restriktivní** - používání těchtýž dostupných nástrojů ke snížení peněz v oběhu.
-  - **Současným cílem České národní banky je cílování inflace na hodnotu 2%.**
-  - 
+  
+  - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
+  
+  - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
+  
+  - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
+  
+    - **Operace na volném trhu** - tedy prodávání nebo nakupování cenných papírů na finančních trzích (trhy primární a sekundární), nakupování cenných papírů zvyšuje nabídku peněz a jedná se tak o expanzivní měnovou politiku, zatímco prodávání, nebo vydávání a emitování cenných papírů snižuje peněžní zásobu a jedná se tak o restriktivní měnovou politiku.
+    - **Devizové intervence** - prodávání, nebo nakupování deviz (cizích měn), to na grafu poptávky po české koruně způsobí posun nabídky buď do leva, nebo do prava - zvýší se, nebo sníží poptávka po české koruně, dle toho se sníží, nebo zvýší kurz koruny, to souvisí se zahraničním obchodem a salda běžného účtu platební bilance (obchodní bilance), devalvace (depreciace) koruny pozitivně působí na export (zvyšování čistého exportu), zatímco revalvace (apreciace) koruny pozitivně působí na import (snižování čistého exportu), s ohledem na to, že čistý export je součástí výpočtu HDP výdajovou metodou, působí devizové intervence na snížení hospodářského růstu (zchlazení ekonomiky při konjunktuře a přehřívání), nebo na zvýšení hospodářského růstu (snaha nastartovat ekonomiku v hospodářské recesi).
+    - **Změny úrokových sazeb:**
+      - **REPO sazba** - týká se především takzvané **2T**, tedy dvojtýdenní sazby REPO operací, za pomoci REPO sazby je úročena přebytečná likvidita komerčních bank, kterou si mohou fromou REPO tendrů (probíhá formou Americké aukce) komerční banky u ČNB uložit, ta jim je po uplynutí sjednané doby vrátí i s dohodnutým úrokem ve výši REPO sazby, probíhá formou nákupu dluhopisů ČNB komerčními bankami - jedná se o **restriktivní měnovou politiku, zvyšování těchto sazeb působí na snižování peněžní zásoby**.
+      - **Diskontní sazba** - týká se takzvaných automatických facilit, banky si mohou přes noc u ČNB uložit svojí přebytečnou likviditu, ta je jim úročena diskontní sazbou. **Diskontní sazbou** jsou rovněž úročeny takzvané **diskontní úvěry**, které si mohou banky od ČNB brát, aby překlenuly dočasný nedostatek likvidity.
+      - **Lombardní sazba** - stanovuje se u takzvaných **lombardních úvěrů**, ty ČNB poskytuje bankám s nedostatečnou likviditou, jedná se tedy o půjčku ze strany ČNB komerčním bankám, tvoří horní mez pro půjčky na mezibankovním trhu, tedy pro **PRIBOR**.
+    - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
+  
+  - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
 
 Kvantitativní uvolňování
 
