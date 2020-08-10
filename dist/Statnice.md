@@ -2670,7 +2670,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Pro udržení produkčních možností musí být v ekonomice investice při nejmenším v takové míře, aby nahradili opotřebený kapitál.
     - **Čisté investice:** investice nad úroveň minulého roku a nad nahrazení amortizace.
     - **Hrubé investice:** čisté investice a nahrazení amortizace
-    - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
+    - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce, na ekonomický růst ale může působit i samotná investice, například při přílivu zahraničního kapitálu.
   - Spotřeba
     - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
     - Spotřeba se rozlišuje na **soukromou** - soukromé subjekty a **veřejnou** - stát.
