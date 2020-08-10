@@ -2782,6 +2782,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Doplnit
 - Zavádění společné měny Euro
   - Doplnit
+  - Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.
   - Postup
     - Doplnit
   - Výhody
@@ -2853,10 +2854,44 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [ ] Monetární politika
+  - [ ] Cíle
+  - [ ] Hlavní subjekt a měnové nástroje ČNB
+  - [ ] Inflace
+    - [ ] Příčiny
+    - [ ] Pojem
+    - [ ] Typy
+    - [ ] Měření
+    - [ ] Důsledky
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Měnová (monetární) politika**
+  - Je součástí **hospodářské politiky státu**.
+  - Tvoří jí centrální banka, která je však **absolutně nezávislá na vládě**.
+  - Je souhrnem opatření a zásad, které mají prostřednictvím **měnových nástrojů** prosazovat **plnění měnových cílů**.
+  - Tvoří jí Česká národní banka, ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
+  - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
+  - Je to banka bank a dohlíží na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
+  - V česku je na první pozici v rámci **dvoustupňového bankovního systému**.
+  - Banka ve svém důsledku cílí na ovlivňování třech základních konečných cílů, viz níže.
+  - **Proces by se tedy dal popsat jako:**
+    - Využití nějakého nástroje měnové politiky,
+    - Tento nástroj ovlivní zprostředkující cíl,
+    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst**, **nezaměstnanost**.
+  - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
+  - 
+  - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
+  - **Centrální banka se primárně soustředí na:**
+    - Kontrolu množství peněz v ekonomice,
+    - Regulaci úrokových měr,
+    - stanovení podmínek úvěrování.
+  - **Monetární politika může nabývat podob:**
+    - **Expanzivní** - používání dostupných nástrojů české národní banky ke zvýšení peněz v oběhu,
+    - **Restriktivní** - používání těchtýž dostupných nástrojů ke snížení peněz v oběhu.
+  - **Současným cílem České národní banky je cílování inflace na hodnotu 2%.**
+  - 
 
 Kvantitativní uvolňování
 
