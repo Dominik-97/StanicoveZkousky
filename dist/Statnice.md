@@ -2695,7 +2695,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Ekonomický růst je **růst schopnosti země vyrábět zboží a poskytovat služby**, to vede ke zvýšení reálného národního důchodu a k vyšší spotřebě => ekonomický růst, jedná se tedy o **produktivitu práce, či zvětšování kapitálu, který zapříčiňuje růst potenciálního produktu**.
   - Stabilní ekonomický růst nespočívá v samotných cyklech, ale v souvislém růstu potenciálního produktu, okolo kterého skutečný produkt osciluje.
   - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
-  - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okonův zákon.
+  - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okunův zákon.
 
 ----
 :::
