@@ -1883,7 +1883,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
     - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
-    - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent.
+    - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent statků, viz peníze, měna je potom zákonné platidlo na území daného státu.
   - **Členění trhu**
     - Místní:
       - **Trh místní** - například jarmark, trh v jednotlivých městech
@@ -1992,7 +1992,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - ~~Doplnit~~
   - **Hranice produkčních možností**
     - Výrobní faktory jsou omezené
-    - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků
+    - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků - zde působí efektivní alokace trhu
     - Ekonomika vyrábí **efektivně** pokud se svou produkcí pohybuje na hranici produkčních možností, nemůže vyrábět více jednoho statku bez toho, aby vyráběle méně jiného statku
 - Teoretické zdůvodnění různých přístupů k trhu
   - ~~Doplnit~~
@@ -2087,7 +2087,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - Potenciálně třeba státní monopol, nebo **státem zřízený monopol**, popřípadě poskytování státních licencí na provozování určitých statků a jejich následnou regulaci.
     - **Nedokonalé informace**
       - Asymetrické informace u jednotlivých ekonomických subjektů.
-      - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových.
+      - **Řešení** je úlohou státu, ten to řeší tak, že na některých trzích je povinně zavedená informovanost, například na kapitálových (finančních).
       - Dalším řešením je zákonná ochrana slabšího, respektive slabší strany, (zákon o ochraně spotřebitele, záruční doba, možnost vrátit výrobek).
       - Povinná informovanost se uplatňuje i na jiných trzích (například povinnost uvádět složení).
       - Nedokonalá informovanost může vést například k úspěšnému prodeji nekvalitního zboží nebo služeb kvůli lživému popisu, nebo zamlčení důležitých informací.
@@ -2099,6 +2099,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
         - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
+      - Jedná se také o potlačení trhu
       - Nejčastěji z důvodu zdanění a přímé regulace cen.
       - Negativní důsledky cenové regulace:
         - Vytváří alternativní distribuční mechanismy (známosti, štěstí)
@@ -2117,7 +2118,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - nabídce alternativních zdrojů, které by mohl výrobce se stejnými zdroji vyrábět,
       - nabídce zboží, které výrobce současně vyrábí - souvisí s **alokační funkcí ceny**,
       - dalších neočekávaných vlivech na nabídku.
-    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální,
+    - Teoreticky existuje i **fixní nabídka** - křivka je vertikální - například peněžní zásoba,
     - Dále by se dalo hovořit o **zcela elastické nabídce**, kdy je křivka horizontální, jako příklad by se dal uvést **trh dokonalé konkurence**.
   - **Elasticita nabídky** - měří pružnost reakce nabídky na změnu ceny
     - Záleží na tom, jak rychle je schopen výrobce zareagovat na změnu poptávky na trhu (změnu poptávkové křivky), obecně nějaká odvětví reagují rychleji - jsou pržnější a nějaká pomaleji - jsou méně pružnější.
@@ -2130,6 +2131,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Skutečná cena však nikdy nebude rovná **rovnovážné ceně**, ale bude kolem ní oscilovat - **teorém pavučiny**.
     - Při rovnovážné ceně pak část výrobců dosáhne **přebytku výrobce** a část nakupujících dosáhne **přebytku spotřebitele**, výrobci, kteří by chtěli prodávat za vyšší cenu, nebo poptávající, kteří by chtěli kupovat za nižší cenu, než je rovnovážná cena pak na trhu budou tvořit **neuspokojenou (nerealizovanou) nabídku nebo potávku** a musejí hledat své možnosti na alternativních trzích substitutů.
     - Vliv na nabídku a poptávku mají rovněž vliv i **daně**, **cla**, či jiné **transakční náklady** spojené s tím, aby se zboží dostalo od prodávajícího ke kupujícímu, tyto platí zákazník, ale k výrobci se nikdy nedostanou.
+- Náklady firem
+  - Učebnice ekonomie, strana 83.
 
 
 
@@ -2642,12 +2645,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - HDP/ČDP
     - Hrubý domácí produkt - celková hodnota všech finálních výrobků a služeb vyrobených v daném čase **na území daného státu**
     - Čistý domácí produkt je produkt po odpočtu amortizace
+    - Ve zkratce se tedy počítá produkt vyrobený na území daného státu
   - HNP/ČNP
     - To samé jako HDP, ale místo území se počítá hodnota všech výrobků a služeb **vyrobenými národními výrobními faktory**
     - Čistý národní produkt je také po odpočtu amortizace
+    - Ve zkratce se tedy počítá produkt vyrobený národními faktory i na území cizího státu - tedy například produkt českého občana pracujícího v Německu
   - Nominální a reálný
     - **Nominální je vyjadřován v běžných cenách - tedy v nominální hodnotě cen**
     - **Reálný je vyjádřen ve stálých cenách - tedy změna produktu například mezi roky 2010 a 2011 je počítána v zcenách z období roku 2010, jedná se tedy o cenu očištěnou o inflaci**
+    - Nominální se soustředí na ceny, reálný na růst produkce
   - Skutečný a potenciální
     - **Potenciální produkt je důležitý ve vztahu k ekonomickému růstu, vyjadřuje kolik je národní ekonomika schopná při plném využití svých vlastních zdrojů vyrobit**
     - **Skutečný produkt je faktické HDP, kterého národní ekonomika dosahuje - může být jak pod potenciálním produktem - recese, tak i nad potenciálním produktem - expanze, konjunktura**
@@ -2664,7 +2670,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Pro udržení produkčních možností musí být v ekonomice investice při nejmenším v takové míře, aby nahradili opotřebený kapitál.
     - **Čisté investice:** investice nad úroveň minulého roku a nad nahrazení amortizace.
     - **Hrubé investice:** čisté investice a nahrazení amortizace
-    - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce.
+    - Investice podněcují ekonomický růst kvůli zvyšování produktivity práce, na ekonomický růst ale může působit i samotná investice, například při přílivu zahraničního kapitálu.
+    - Ke vzniku kapitálu jsou potřebné investice, investicemi je výroba kapitálových statků namísto spotřebních statků, je tedy potřeba odložit část spotřeby do budoucna, investice tedy vznikají odložením přítomné spotřeby v zájmu toho, aby se v budoucnu spotřeba zvýšila.
+    - Výnosem z investice je zvýšení zisku.
   - Spotřeba
     - Ovlivňuje poptávku, investice a spotřeba zvyšují národní důchod a tím i poptávku a spotřebu, to startuje expanzi v rámci **hospodářského cyklu**.
     - Spotřeba se rozlišuje na **soukromou** - soukromé subjekty a **veřejnou** - stát.
@@ -2689,7 +2697,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Ekonomický růst je **růst schopnosti země vyrábět zboží a poskytovat služby**, to vede ke zvýšení reálného národního důchodu a k vyšší spotřebě => ekonomický růst, jedná se tedy o **produktivitu práce, či zvětšování kapitálu, který zapříčiňuje růst potenciálního produktu**.
   - Stabilní ekonomický růst nespočívá v samotných cyklech, ale v souvislém růstu potenciálního produktu, okolo kterého skutečný produkt osciluje.
   - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
-  - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okonův zákon.
+  - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okunův zákon.
 
 ----
 
@@ -2774,6 +2782,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Doplnit
 - Zavádění společné měny Euro
   - Doplnit
+  - Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.
   - Postup
     - Doplnit
   - Výhody
@@ -2845,10 +2854,78 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [ ] Monetární politika
+  - [ ] Cíle
+  - [ ] Hlavní subjekt a měnové nástroje ČNB
+  - [ ] Inflace
+    - [ ] Příčiny
+    - [ ] Pojem
+    - [ ] Typy
+    - [ ] Měření
+    - [ ] Důsledky
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Měnová (monetární) politika**
+  - Je součástí **hospodářské politiky státu**.
+  
+  - Tvoří jí centrální banka, která je však **absolutně nezávislá na vládě**.
+  
+  - Je souhrnem opatření a zásad, které mají prostřednictvím **měnových nástrojů** prosazovat **plnění měnových cílů**.
+  
+  - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
+  
+  - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
+  
+  - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
+  
+  - V česku je na první pozici v rámci **dvoustupňového bankovního systému**.
+  
+  - Banka ve svém důsledku cílí na ovlivňování třech základních konečných cílů, viz níže.
+  
+  - **Proces by se tedy dal popsat jako:**
+    
+    - Využití nějakého nástroje měnové politiky,
+    - Tento nástroj ovlivní zprostředkující cíl,
+    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru).
+    
+  - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
+  
+  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                         |
+    | ------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita |
+  
+  - 
+  
+  - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
+  
+  - **Centrální banka se primárně soustředí na:**
+  
+    - Kontrolu množství peněz v ekonomice,
+    - Regulaci úrokových měr (tohoto dosahuje pomocí regulace množství peněz na trhu),
+    - stanovení podmínek úvěrování.
+  
+  - **Monetární politika může nabývat podob:**
+  
+    - **Expanzivní** - používání dostupných nástrojů české národní banky ke zvýšení peněz v oběhu,
+    - **Restriktivní** - používání těchtýž dostupných nástrojů ke snížení peněz v oběhu.
+  
+  - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
+  
+  - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
+  
+  - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
+  
+    - **Operace na volném trhu** - tedy prodávání nebo nakupování cenných papírů na finančních trzích (trhy primární a sekundární), nakupování cenných papírů zvyšuje nabídku peněz a jedná se tak o expanzivní měnovou politiku, zatímco prodávání, nebo vydávání a emitování cenných papírů snižuje peněžní zásobu a jedná se tak o restriktivní měnovou politiku.
+    - **Devizové intervence** - prodávání, nebo nakupování deviz (cizích měn), to na grafu poptávky po české koruně způsobí posun nabídky buď do leva, nebo do prava - zvýší se, nebo sníží poptávka po české koruně, dle toho se sníží, nebo zvýší kurz koruny, to souvisí se zahraničním obchodem a salda běžného účtu platební bilance (obchodní bilance), devalvace (depreciace) koruny pozitivně působí na export (zvyšování čistého exportu), zatímco revalvace (apreciace) koruny pozitivně působí na import (snižování čistého exportu), s ohledem na to, že čistý export je součástí výpočtu HDP výdajovou metodou, působí devizové intervence na snížení hospodářského růstu (zchlazení ekonomiky při konjunktuře a přehřívání), nebo na zvýšení hospodářského růstu (snaha nastartovat ekonomiku v hospodářské recesi).
+    - **Změny úrokových sazeb:**
+      - **REPO sazba** - týká se především takzvané **2T**, tedy dvojtýdenní sazby REPO operací, za pomoci REPO sazby je úročena přebytečná likvidita komerčních bank, kterou si mohou fromou REPO tendrů (probíhá formou Americké aukce) komerční banky u ČNB uložit, ta jim je po uplynutí sjednané doby vrátí i s dohodnutým úrokem ve výši REPO sazby, probíhá formou nákupu dluhopisů ČNB komerčními bankami - jedná se o **restriktivní měnovou politiku, zvyšování těchto sazeb působí na snižování peněžní zásoby**.
+      - **Diskontní sazba** - týká se takzvaných automatických facilit, banky si mohou přes noc u ČNB uložit svojí přebytečnou likviditu, ta je jim úročena diskontní sazbou. **Diskontní sazbou** jsou rovněž úročeny takzvané **diskontní úvěry**, které si mohou banky od ČNB brát, aby překlenuly dočasný nedostatek likvidity.
+      - **Lombardní sazba** - stanovuje se u takzvaných **lombardních úvěrů**, ty ČNB poskytuje bankám s nedostatečnou likviditou, jedná se tedy o půjčku ze strany ČNB komerčním bankám, tvoří horní mez pro půjčky na mezibankovním trhu, tedy pro **PRIBOR**.
+    - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
+  
+  - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
 
 Kvantitativní uvolňování
 
