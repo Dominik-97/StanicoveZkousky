@@ -2766,6 +2766,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [ ] Peníze a měna
   - [ ] Funkce peněz
   - [ ] Formy peněz
+  - [ ] Vytváření peněz v ekonomice pomocí banky
+  - [ ] Měnové agregáty
 - [ ] Zavádění společné měny Euro
   - [ ] Postup
   - [ ] Výhody
