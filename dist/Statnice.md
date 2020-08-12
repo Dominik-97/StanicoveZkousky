@@ -3014,8 +3014,12 @@ Kurzy
       - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou**
         - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny.
         - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka.
+    - **Dle typu**:
+      - **Čistá inflace**:
+      - **Hrubá inflace**:
   - **Měření**:
-    - Ahoj
+    - Měření inflace se prodáví za pomocí jednoho ze tří typů měření inflace:
+      - Index spotřebitelských cen: provádí se za pomocí provonání cen ve spotřebitelsém koši
   - **Důsledky**
     - Ahoj
 
