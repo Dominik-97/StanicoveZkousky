@@ -2858,8 +2858,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [ ] Monetární politika
-  - [ ] Cíle
-  - [ ] Hlavní subjekt a měnové nástroje ČNB
+  - [x] Cíle
+  - [x] Hlavní subjekt a měnové nástroje ČNB
   - [ ] Inflace
     - [ ] Příčiny
     - [ ] Pojem
@@ -2997,7 +2997,27 @@ Kurzy
 ~~Měnová politika cílování inflace~~
 
 - **Inflace**
-  - Inflací jest snižování kupní síly peněz, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
+  - **Pojem**:
+    - Inflací jest snižování kupní síly peněz, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
+    - Inflace však není snižování kupní síly lidí, ta se projevuje v reálném důchodu domácností.
+    - Inflace zvyšuje všechny ceny, zvyšuje tedy také mzdy, nájemné, úroky a ceny ostatních výrobních faktorů, avšak ne vždy všechny o stejnou úroveň.
+  - **Příčiny**:
+    - Ahoj
+  - **Typy**:
+    - Typy lze rozdělit dle několika hledisek.
+    - **Výše inflace**:
+      - Nulová inflace (desinflace): 0%
+      - Mírná inflace: 1 - 10%
+      - Kráčivá, nebo pádivá inflace: 10 - 99%
+      - Hyperinflace: nad 100%
+    - **Dle příčiny**:
+      - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou**
+        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny.
+        - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka.
+  - **Měření**:
+    - Ahoj
+  - **Důsledky**
+    - Ahoj
 
 ----
 :::
