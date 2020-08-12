@@ -3000,11 +3000,12 @@ Kurzy
 
 - **Inflace**
   - **Pojem**:
-    - Inflací jest snižování kupní síly peněz, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
+    - Inflací jest snižování kupní síly peněz za určité období, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
     - Inflace však není snižování kupní síly lidí, ta se projevuje v reálném důchodu domácností.
     - Inflace zvyšuje všechny ceny, zvyšuje tedy také mzdy, nájemné, úroky a ceny ostatních výrobních faktorů, avšak ne vždy všechny o stejnou úroveň.
+    - Opakem je **deflace**.
   - **Příčiny**:
-    - Ahoj
+    - Viz Typy Dle příčiny.
   - **Typy**:
     - Typy lze rozdělit dle několika hledisek.
     - **Výše inflace**:
@@ -3014,8 +3015,13 @@ Kurzy
       - Hyperinflace: nad 100%
     - **Dle příčiny**:
       - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou**
-        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny.
-        - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka.
+        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny, je tedy způsobena impulzy na poptávkové straně - zvýšení důchodů, snižování daná, snadný přístup k úvěrům atd.
+        - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka, proti této inflaci fungují měnové nástroje hůře.
+        - **Hybridní inflace** - současné působení obou faktorů, například při zvyšování vstupních nákladů i poptávky, zvyšování mezd a platů.
+        - **Další faktory spolupůsobící na vznik inflace**:
+          - Expanzivní rozpočtová politika - souvisí s inflací taženou poptávkou,
+          - Nedokonalá konkurence - oligopol, monopol,
+          - Monopolní postavení odborů.
     - **Dle typu**:
       - **Čistá inflace**: jedná se o inflaci vypočítanou jen s pomocí statků ve spotřebním koši, které nepodléhají státní regulaci cen.
       - **Hrubá inflace**: jedná se o inflace vypočítanou s veškerými statky ve spotřebním koši.
@@ -3023,9 +3029,18 @@ Kurzy
     - Měření inflace se prodáví za pomocí jednoho ze tří typů měření inflace:
       - **Index spotřebitelských cen**: provádí se za pomocí porovnání cen ve spotřebitelském koši, porovnává se nominální zvýšení ceny a váha jednotlivých statků ve spotřebím koši.
       - **Index cen výrobců**: rovněž se používá jakýsi koš statků, ale počítá se inflace týkající se kapitálových statků, tedy nikoli statků finální spotřeby, ale statků, které se používají jako vstupy ve výrobě.
-      - **Deflátor HDP**: počítá se jako rozdíl nominálního HDP minulého období oproti nominálnímu HDP současného období, je nejkomplexnější, neboť obsahuje všechny statky, je ho ale možné dopočítat až zpětně.
+      - **Deflátor HDP**: počítá se jako rozdíl nominálního HDP minulého období oproti nominálnímu HDP současného období, je nejkomplexnější, neboť obsahuje všechny statky, je ho ale možné dopočítat až zpětně, deflátor je vypočítán důchodovou metodou (G + I + C + X)
+      - **Existují další indexy, tři výše zmíněné jsou ale hlavní.**
   - **Důsledky**
-    - Ahoj
+    - **Inflační spirála** - při zvýšení cen na trhu požadují zaměstnanci vyšší zvýšení mez, což se opět promítne do vyšších cen na trhu, což se opět například při kolektivním investování promítne do požadavků na výši mezd -> rozjela se inflační spirála. Inflaci si lidi rovněž zabudovávají do svých předpokladů a vzniká tak **inflační očekávání**, jedná se o **adaptivní očekávání** založené na základu zkušeností z minulého období, ekonomické subjekty tak počítají i do budoucna s inflací -> **setrvačná inflace**, inflace se zvyšuje i bez inflačních impulzů.
+    - **Negativní, krátkodobě pozitivní:**
+    - **Přerozdělování**:
+      - Z pohledu dlužníka - pokud je inflace vyšší než úrok, splácí dlužník fakticky peníze s menší hodnotou, než kterou si původně od věřitele vypůjčil - vydělává dlužník.
+      - Z pohledu věřitele - pokud je inflace vyšší než úrok, věřitel prodělá, pokud je úrok vyšší, než inflace, věřitel vydělá.
+    - **Pohled státu (daňové a ost. výnosy)**
+      - Daňové výnosy:
+      - Ostatní výnosy:
+      - Státní dluh: Domácí, Zahraniční
 
 ----
 :::
