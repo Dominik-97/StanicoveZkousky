@@ -3015,11 +3015,13 @@ Kurzy
         - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny.
         - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka.
     - **Dle typu**:
-      - **Čistá inflace**:
-      - **Hrubá inflace**:
+      - **Čistá inflace**: jedná se o inflaci vypočítanou jen s pomocí statků ve spotřebním koši, které nepodléhají státní regulaci cen.
+      - **Hrubá inflace**: jedná se o inflace vypočítanou s veškerými statky ve spotřebním koši.
   - **Měření**:
     - Měření inflace se prodáví za pomocí jednoho ze tří typů měření inflace:
-      - Index spotřebitelských cen: provádí se za pomocí provonání cen ve spotřebitelsém koši
+      - **Index spotřebitelských cen**: provádí se za pomocí porovnání cen ve spotřebitelském koši, porovnává se nominální zvýšení ceny a váha jednotlivých statků ve spotřebím koši.
+      - **Index cen výrobců**: rovněž se používá jakýsi koš statků, ale počítá se inflace týkající se kapitálových statků, tedy nikoli statků finální spotřeby, ale statků, které se používají jako vstupy ve výrobě.
+      - **Deflátor HDP**: počítá se jako rozdíl nominálního HDP minulého období oproti nominálnímu HDP současného období, je nejkomplexnější, neboť obsahuje všechny statky, je ho ale možné dopočítat až zpětně.
   - **Důsledky**
     - Ahoj
 
@@ -3056,20 +3058,27 @@ Kurzy
 
 
 - Fiskální politika
+  - Je součástí hospodářské politiky.
   - Fiskální politika je politikou státu.
   - Jedná se o rozpočtovou politiku, která může být buď **expanzivního, nebo restriktivního charakteru**.
   - Cíle
-    - Doplnit
+    - Ovlivňování ekonomiky pomocí veřejných rozpočtů ve smyslu výdajové stránky veřejných rozpočtů i příjmové stránky veřejných rozpočtů.
+    - Cíle jsou podobné jako u monetární politiky, vláda se pomocí fiskální politiky snaží zajistit makroekonomickou stabilitu, tedy zejména cenovou stabilitu, nízkou nezaměstnanost a udržitelný hospodářský růst.
   - Hlavní subjekty
     - Doplnit
   - Nástroje
     - Doplnit
+    - Vestavěné stabilizátory
+    - Aktivní politika
+    - Veřejné statky
+    - Rozpočet, přebytkový, vyrovnaný,schodkový.
 - Analýza vládních výdajů
   - Doplnit
   - Obecné problémy
     - Doplnit
   - Restriktivní a expanzivní přístup
     - Doplnit
+    - Jedná se o použití nástrojů fiskální politiky určitým způsobem.
     - Restriktivní přístup
       - Doplnit
     - Expanzivní přístup
