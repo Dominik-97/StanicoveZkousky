@@ -2876,6 +2876,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   
   - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
   
+  - Úkolem banky podle zákona je: *zabezpečit stabilitu české měny a za tím účelem určovat měnovou politiku*.
+  
   - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
   
   - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
@@ -2888,15 +2890,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     
     - Využití nějakého nástroje měnové politiky,
     - Tento nástroj ovlivní zprostředkující cíl,
-    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru).
+    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru) a udržení vyrovnané **bilance zboží a služeb**.
     
   - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
   
-  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                         |
-    | ------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita |
+  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                                  |
+    | ------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita / Bilance zboží a služeb (Obchodní bilance na běžném účtu platební bilance) |
   
-  - 
+  - Co se samotných nástojů týče:
+  
+  - | Nástroj                       | Zprostředkující cíl | Konečný cíl            |
+    | ----------------------------- | ------------------- | ---------------------- |
+    | Diskontní sazba               | Peněžní zásoba      | Nezaměstnanost         |
+    | Operace na volném trhu        | Úroková míra        | Inflace                |
+    | PMR                           |                     |                        |
+    | Devizové rezervy (intervence) | Měnový kurz         | Bilance zboží a služeb |
+  
+  - Co se úrokové míry týče, ta je určena nabídkou a poptávkou po penězích, když se tedy zvýší peněžní zásoba, snižuje se úroková sazba a naopak.
   
   - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
   
@@ -2913,6 +2924,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   
   - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
   
+  - **Je potřeba říci, že finální cíle centrální banky nejsou slučitelné, nástroje expanzivní politiky snižují nezaměstnanost a zvyšují inflaci a prostřednictvím depreciace měny zvyšují saldo obchodní bilance, zatímco nástroje restriktivní politiky zvyšují nezaměstnanost a snižují inflaci (krátkodobá Phillipsova křivka) a snižují saldo obchodní bilance kvůli apreciaci měny (jedná se o příliv a naopak odliv zahraničního kapitálu).**
+  
+  - **Měnová politika funguje jen krátkodobě, z dlouhodobého hlediska zůstává pouze inflace, měnová politika funguje dlouhodobě jen v případě ekonomického růstu (reálného ekonomického růstu, tedy růstu potenciálního produktu).**
+  
   - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
   
   - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
@@ -2926,6 +2941,13 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
   
   - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
+  
+- Politika centrálních bank
+
+  - Centrální banky ve vztahu k využívání svých nástrojů vyzkoušely mnoho různých politik:
+    - **Aktivistická politika**: v rámci hospodářské expanze se uplatňuje restriktivní měnová politika (zchlazení přehřívající se ekonomiky) a v době hospodářské recese se uplatňuje expanzivní měnová politika (nakopnutí ekonomiky), problémem je, že uplatnění dané politiky má **velké zpoždení** a v době jeho uplatnění se již ekonomika mohla z cyklu dostat sama a daná uplatněná politika jí spíše znovu **destabilizuje**, problém aktivistické politiky je navíc zhoršen při **racionálních očekáváních** obyvatel, ty tak nepodléhají peněžní iluzi, ale pouze zabudují inflační očekávání do svých cen, aktivistická politika je tak navíc schopna fungovat pouze při **adaptivních očekáváních** a to jenom v krátkém období.
+    - **Ukotvení měnovým kurzem**: jedná se o ukotvení kurzu na jinou měnu, problém je, že tato politika neumožňuje centrální bance provádět expanzivní, nebo restriktivní politiku, protože ta dopadá na zvyšování, nebo snižování kurzu, následný závazek banky vrátit kurz na starou hodnotu znamená využití nástrojů, které jdou přímo proti původně použitým nástrojům, které byli použity za účelem restriktivní nebo expanzivní měnové politiky.
+    - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**.
 
 Kvantitativní uvolňování
 
