@@ -2744,6 +2744,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Směna - prodej na trhu, lidé kupují k uspokojení svých potřeb
     - Spotřebě - lidé uspokojují své potřeby spotřebou
     - Značně souvisí s ekonomickým koloběhem
+  - Ekonomika obecně
+    - Veskrze vše závisí na nabídce a poptávce, posuny poptávkových a nabídkových křivek jsou určující nebo doprovodné faktory veskrze veškerých ekonomických činností a opatření.
+    - Posuny křivek stanovují ceny, růst ekonomiky, zaměstnanost, inflaci, úrokové míry i cykly v ekonomice.
+    - Cykly samotné nevedou k reálnému růstu ekonomiky, k tomu vede potenciální produkt, změny poptávky a nabídky tak v dlouhodobém období znamenají i hospodářský růst za předpokladu, že roste produktivita práce a s ním spojený potenciální produkt.
 
 ----
 :::
@@ -2947,7 +2951,18 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Centrální banky ve vztahu k využívání svých nástrojů vyzkoušely mnoho různých politik:
     - **Aktivistická politika**: v rámci hospodářské expanze se uplatňuje restriktivní měnová politika (zchlazení přehřívající se ekonomiky) a v době hospodářské recese se uplatňuje expanzivní měnová politika (nakopnutí ekonomiky), problémem je, že uplatnění dané politiky má **velké zpoždení** a v době jeho uplatnění se již ekonomika mohla z cyklu dostat sama a daná uplatněná politika jí spíše znovu **destabilizuje**, problém aktivistické politiky je navíc zhoršen při **racionálních očekáváních** obyvatel, ty tak nepodléhají peněžní iluzi, ale pouze zabudují inflační očekávání do svých cen, aktivistická politika je tak navíc schopna fungovat pouze při **adaptivních očekáváních** a to jenom v krátkém období.
     - **Ukotvení měnovým kurzem**: jedná se o ukotvení kurzu na jinou měnu, problém je, že tato politika neumožňuje centrální bance provádět expanzivní, nebo restriktivní politiku, protože ta dopadá na zvyšování, nebo snižování kurzu, následný závazek banky vrátit kurz na starou hodnotu znamená využití nástrojů, které jdou přímo proti původně použitým nástrojům, které byli použity za účelem restriktivní nebo expanzivní měnové politiky.
-    - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**.
+    - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**, při této politice se tak může ustálit **inflační očekávání na poměrně nízké úrovni** a bude docházet i ke stálému ekonomickému růstu, problémem však je, že banka nemá úplnou kontrolu nad růstem peněžní zásoby, ta totiž závisí na tom, jak velké rezervy chtějí udržovat komerční banky a podle toho s buď snižuje, nebo zvyšuje peněžní multiplikátor, centrální banka musí při uplatňování této politiky rovněž za žádných okolností neměnit výši uvolňovaných peněz.
+    - **Politika inflačního cílování**: jedná se o politiku, kterou **využívá Česká národní banka**, místo výše peněžní zásoby se cíluje inflace, což je konec konců pro spotřebitele a výrobce mnohem více vypovídající informace, než informace říkající o kolik procent poroste peněžní zásoba. Touto politikou dokáže ČNB ovlivňovat i samotná inflační očekávání. Problém může nastat, pokud se ČNB "netrefí" do jím vyhlášeného **inflačního cíle**, to může v ekonomice vzhledem k **inflačním očekáváním, která jsou nastavená podle inflačního cíle** způsobit poměrně velké problémy.
+  
+- Dezinflační politika centrálních bank
+
+  - V případě vysoké inflace může být zájem inflaci snížit.
+  - Existují dva typy desinflační politiky:
+    - **Razantní desinflační politika**: jedná se o razantní snížení peněžní zásoby v krátkém období, je vykoupena vysokým propadem HDP, který ale trvá kratší dobu.
+    - **Pozvolná desinflační politika**: jedná se o pozvolné snížení peněžní zásoby v několika vlnách v dlouhém období, je vykoupena pozvolným poklesem HDP, který al trvá dlouhou dobu.
+  - Nedá se úplně říci, která politika je lepší, v případě ekonomiky, kde jsou firmy hodně závislé na bankovních úvěrech j vhodné uplatnit **pozvolnou desinflační politiku**, v zemích, kde je tomu naopak je možné uplatnit i **razantní desinflační politiku**.
+
+**Pojmy**:
 
 Kvantitativní uvolňování
 
@@ -2955,31 +2970,34 @@ Automatické facility
 
 PRIBOR
 
-REPO
+~~REPO~~
 
-Lombardni
+~~Lombardni~~
 
-Diskontni
+~~Diskontni~~
 
 Operace na peneznim trhu
 
-Devalvace a revalvace měny - prodej a nákup deviz
+~~Devalvace a revalvace měny - prodej a nákup deviz~~
 
-Minimalni bankovni rezervy
+~~Minimalni bankovni rezervy~~
 
 Kurzy
 
 ​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
 
-Měnová politika expanzivní
+~~Měnová politika expanzivní~~
 
-Měnová politika restriktivní
+~~Měnová politika restriktivní~~
 
-Aktivistická měnová politika
+~~Aktivistická měnová politika~~
 
-Měnová politika stálého pravidla
+~~Měnová politika stálého pravidla~~
 
-Měnová politika cílování inflace
+~~Měnová politika cílování inflace~~
+
+- **Inflace**
+  - Inflací jest snižování kupní síly peněz, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
 
 ----
 :::
