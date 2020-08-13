@@ -3148,24 +3148,27 @@ Kurzy
     - V obecné rovině si tak pod pojmem podnik lze představit právnickou osobu.
   - Obchodní závod (věc hromadná) je tvořen složkou majetkovou - hromadná věc sloužící k podnikání, složkou osobní - podnikatel a složkou nehmotnou - například know-how.
   - Věci sloužící k podnikání se nazívají **obchodní majetek**.
-  - **Podnik** slouží k poskytování zboží a služeb a v rámci **hospodářského koloběhu** tak tvoří jednu ze základních jednotek na nabídkové straně trhu (podnikatel FO, nebo podnikatel PO a jeho podnik).
+  - **Podnik** slouží k poskytování zboží a služeb a v rámci **hospodářského koloběhu** tak tvoří jednu ze základních jednotek, či stavebních kamenů, na nabídkové straně trhu (podnikatel FO, nebo podnikatel PO a jeho podnik).
   - Obchodní závod (podnik) u FO tedy tvoří veškerý provozní majetek (kapitál) a to jak hmotný, tak i nehmotný - lze ho tak jako věc hromadnou i převést a jinou osobu, u PO je tedy obchodní závodem rovněž veškerý provozní majetek (kapitál), nemá právní subjektivitu.
   - **Pobočka** - nemá právní subjektivitu
   - **Odštěpný závod** - nemá právní subjektivitu
   - **Provozovna** - nemá právní subjektivitu
 - **Okolí**
     - Musí být příznivé pro podnikání.
-  
+  - Součástí trhu, ekonomiky, hospodářství.
+  - Působí na něj vnější faktory.
+  - Tyto faktory ovlivňují podnikání.
+  - Pokud je tak například daná oblast (stát) postavená na netržních pojetích hospodářství - například uzavřená, centrálně plánovaná ekonomika, podnikat tam určitě nepůjde.
+- **Ekonomická podstata podnikání**
+    - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
+    - Působit jako důležitý subjekt v rámci trhu.
+    - Důležité v rámci rozvoje ekonomiky, hospodářství, technologie a ekonomického růstu a uspokojování potřeb, dále specializace a dělba práce, vytváření blahobytu.
+    - Zjišťování poptávky a uspokojování poptávky na tržním principu a cenovém principu a principu vzácnosti zdrojů, oproti například centrálně plánované ekonomice jsou v tomto společnosti velice dobré.
 - Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
-
 - Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
-
 - Dlouhodobé a krátkodobé období.
-
 - Práce = L = Variabilní náklady
-
 - Kapitál = K = Fixní náklady
-
 - Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
 
 ----
