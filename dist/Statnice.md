@@ -3164,6 +3164,10 @@ Kurzy
     - Působit jako důležitý subjekt v rámci trhu.
     - Důležité v rámci rozvoje ekonomiky, hospodářství, technologie a ekonomického růstu a uspokojování potřeb, dále specializace a dělba práce, vytváření blahobytu.
     - Zjišťování poptávky a uspokojování poptávky na tržním principu a cenovém principu a principu vzácnosti zdrojů, oproti například centrálně plánované ekonomice jsou v tomto společnosti velice dobré.
+- **Právní formy podnikání**
+    - 6ivnostenské podnikání
+    - NEŽIVNOSTENSKÉ PODNIKÁNÍ
+    - Právnické osoby.
 - Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 - Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
 - Dlouhodobé a krátkodobé období.
