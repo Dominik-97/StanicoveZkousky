@@ -3174,6 +3174,7 @@ Kurzy
 - Práce = L = Variabilní náklady
 - Kapitál = K = Fixní náklady
 - Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+- **Konkurenční okolí podniku**
 
 ----
 :::
@@ -3192,6 +3193,26 @@ Kurzy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**Cíle podniku**
+
+​				Cíle podniku
+
+​						 |
+
+​						/ \\
+
+v teorii												 |  v praxi
+
+maximalizace zisku						   |  maximalizace zisku
+
+maximalizace zisku na akcii            |   ukazatele ROE
+
+tržní cena akcie                                 |  
+
+shareholder value                            |   shareholder value
+
+MVA, EVA                                           |   MVA, EVA
 
 ----
 :::
