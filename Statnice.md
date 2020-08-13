@@ -2744,6 +2744,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Směna - prodej na trhu, lidé kupují k uspokojení svých potřeb
     - Spotřebě - lidé uspokojují své potřeby spotřebou
     - Značně souvisí s ekonomickým koloběhem
+  - Ekonomika obecně
+    - Veskrze vše závisí na nabídce a poptávce, posuny poptávkových a nabídkových křivek jsou určující nebo doprovodné faktory veskrze veškerých ekonomických činností a opatření.
+    - Posuny křivek stanovují ceny, růst ekonomiky, zaměstnanost, inflaci, úrokové míry i cykly v ekonomice.
+    - Cykly samotné nevedou k reálnému růstu ekonomiky, k tomu vede potenciální produkt, změny poptávky a nabídky tak v dlouhodobém období znamenají i hospodářský růst za předpokladu, že roste produktivita práce a s ním spojený potenciální produkt.
 
 ----
 
@@ -2762,6 +2766,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [ ] Peníze a měna
   - [ ] Funkce peněz
   - [ ] Formy peněz
+  - [ ] Vytváření peněz v ekonomice pomocí banky
+  - [ ] Měnové agregáty
 - [ ] Zavádění společné měny Euro
   - [ ] Postup
   - [ ] Výhody
@@ -2854,8 +2860,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \|---------\| <br>
 
 - [ ] Monetární politika
-  - [ ] Cíle
-  - [ ] Hlavní subjekt a měnové nástroje ČNB
+  - [x] Cíle
+  - [x] Hlavní subjekt a měnové nástroje ČNB
   - [ ] Inflace
     - [ ] Příčiny
     - [ ] Pojem
@@ -2876,6 +2882,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   
   - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
   
+  - Úkolem banky podle zákona je: *zabezpečit stabilitu české měny a za tím účelem určovat měnovou politiku*.
+  
   - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
   
   - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
@@ -2888,15 +2896,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     
     - Využití nějakého nástroje měnové politiky,
     - Tento nástroj ovlivní zprostředkující cíl,
-    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru).
+    - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru) a udržení vyrovnané **bilance zboží a služeb**.
     
   - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
   
-  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                         |
-    | ------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita |
+  - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                                  |
+    | ------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+    | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita / Bilance zboží a služeb (Obchodní bilance na běžném účtu platební bilance) |
   
-  - 
+  - Co se samotných nástojů týče:
+  
+  - | Nástroj                       | Zprostředkující cíl | Konečný cíl            |
+    | ----------------------------- | ------------------- | ---------------------- |
+    | Diskontní sazba               | Peněžní zásoba      | Nezaměstnanost         |
+    | Operace na volném trhu        | Úroková míra        | Inflace                |
+    | PMR                           |                     |                        |
+    | Devizové rezervy (intervence) | Měnový kurz         | Bilance zboží a služeb |
+  
+  - Co se úrokové míry týče, ta je určena nabídkou a poptávkou po penězích, když se tedy zvýší peněžní zásoba, snižuje se úroková sazba a naopak.
   
   - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
   
@@ -2913,6 +2930,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   
   - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
   
+  - **Je potřeba říci, že finální cíle centrální banky nejsou slučitelné, nástroje expanzivní politiky snižují nezaměstnanost a zvyšují inflaci a prostřednictvím depreciace měny zvyšují saldo obchodní bilance, zatímco nástroje restriktivní politiky zvyšují nezaměstnanost a snižují inflaci (krátkodobá Phillipsova křivka) a snižují saldo obchodní bilance kvůli apreciaci měny (jedná se o příliv a naopak odliv zahraničního kapitálu).**
+  
+  - **Měnová politika funguje jen krátkodobě, z dlouhodobého hlediska zůstává pouze inflace, měnová politika funguje dlouhodobě jen v případě ekonomického růstu (reálného ekonomického růstu, tedy růstu potenciálního produktu).**
+  
   - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
   
   - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
@@ -2926,6 +2947,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
   
   - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
+  
+- Politika centrálních bank
+
+  - Centrální banky ve vztahu k využívání svých nástrojů vyzkoušely mnoho různých politik:
+    - **Aktivistická politika**: v rámci hospodářské expanze se uplatňuje restriktivní měnová politika (zchlazení přehřívající se ekonomiky) a v době hospodářské recese se uplatňuje expanzivní měnová politika (nakopnutí ekonomiky), problémem je, že uplatnění dané politiky má **velké zpoždení** a v době jeho uplatnění se již ekonomika mohla z cyklu dostat sama a daná uplatněná politika jí spíše znovu **destabilizuje**, problém aktivistické politiky je navíc zhoršen při **racionálních očekáváních** obyvatel, ty tak nepodléhají peněžní iluzi, ale pouze zabudují inflační očekávání do svých cen, aktivistická politika je tak navíc schopna fungovat pouze při **adaptivních očekáváních** a to jenom v krátkém období.
+    - **Ukotvení měnovým kurzem**: jedná se o ukotvení kurzu na jinou měnu, problém je, že tato politika neumožňuje centrální bance provádět expanzivní, nebo restriktivní politiku, protože ta dopadá na zvyšování, nebo snižování kurzu, následný závazek banky vrátit kurz na starou hodnotu znamená využití nástrojů, které jdou přímo proti původně použitým nástrojům, které byli použity za účelem restriktivní nebo expanzivní měnové politiky.
+    - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**, při této politice se tak může ustálit **inflační očekávání na poměrně nízké úrovni** a bude docházet i ke stálému ekonomickému růstu, problémem však je, že banka nemá úplnou kontrolu nad růstem peněžní zásoby, ta totiž závisí na tom, jak velké rezervy chtějí udržovat komerční banky a podle toho s buď snižuje, nebo zvyšuje peněžní multiplikátor, centrální banka musí při uplatňování této politiky rovněž za žádných okolností neměnit výši uvolňovaných peněz.
+    - **Politika inflačního cílování**: jedná se o politiku, kterou **využívá Česká národní banka**, místo výše peněžní zásoby se cíluje inflace, což je konec konců pro spotřebitele a výrobce mnohem více vypovídající informace, než informace říkající o kolik procent poroste peněžní zásoba. Touto politikou dokáže ČNB ovlivňovat i samotná inflační očekávání. Problém může nastat, pokud se ČNB "netrefí" do jím vyhlášeného **inflačního cíle**, to může v ekonomice vzhledem k **inflačním očekáváním, která jsou nastavená podle inflačního cíle** způsobit poměrně velké problémy.
+  
+- Dezinflační politika centrálních bank
+
+  - V případě vysoké inflace může být zájem inflaci snížit.
+  - Existují dva typy desinflační politiky:
+    - **Razantní desinflační politika**: jedná se o razantní snížení peněžní zásoby v krátkém období, je vykoupena vysokým propadem HDP, který ale trvá kratší dobu.
+    - **Pozvolná desinflační politika**: jedná se o pozvolné snížení peněžní zásoby v několika vlnách v dlouhém období, je vykoupena pozvolným poklesem HDP, který al trvá dlouhou dobu.
+  - Nedá se úplně říci, která politika je lepší, v případě ekonomiky, kde jsou firmy hodně závislé na bankovních úvěrech j vhodné uplatnit **pozvolnou desinflační politiku**, v zemích, kde je tomu naopak je možné uplatnit i **razantní desinflační politiku**.
+
+**Pojmy**:
 
 Kvantitativní uvolňování
 
@@ -2933,31 +2972,75 @@ Automatické facility
 
 PRIBOR
 
-REPO
+~~REPO~~
 
-Lombardni
+~~Lombardni~~
 
-Diskontni
+~~Diskontni~~
 
 Operace na peneznim trhu
 
-Devalvace a revalvace měny - prodej a nákup deviz
+~~Devalvace a revalvace měny - prodej a nákup deviz~~
 
-Minimalni bankovni rezervy
+~~Minimalni bankovni rezervy~~
 
 Kurzy
 
 ​	Druhy kurzů, pevní, fixní, určovaný, vázaný, plovoucí, volný
 
-Měnová politika expanzivní
+~~Měnová politika expanzivní~~
 
-Měnová politika restriktivní
+~~Měnová politika restriktivní~~
 
-Aktivistická měnová politika
+~~Aktivistická měnová politika~~
 
-Měnová politika stálého pravidla
+~~Měnová politika stálého pravidla~~
 
-Měnová politika cílování inflace
+~~Měnová politika cílování inflace~~
+
+- **Inflace**
+  - **Pojem**:
+    - Inflací jest snižování kupní síly peněz za určité období, tedy jejich reálné hodnoty, nominální hodnota je stále stejná, je ale možné koupit si za ní v důsledku **změny cenové hladiny** jiné množství statků.
+    - Inflace však není snižování kupní síly lidí, ta se projevuje v reálném důchodu domácností.
+    - Inflace zvyšuje všechny ceny, zvyšuje tedy také mzdy, nájemné, úroky a ceny ostatních výrobních faktorů, avšak ne vždy všechny o stejnou úroveň.
+    - Opakem je **deflace**.
+  - **Příčiny**:
+    - Viz Typy Dle příčiny.
+  - **Typy**:
+    - Typy lze rozdělit dle několika hledisek.
+    - **Výše inflace**:
+      - Nulová inflace (desinflace): 0%
+      - Mírná inflace: 1 - 10%
+      - Kráčivá, nebo pádivá inflace: 10 - 99%
+      - Hyperinflace: nad 100%
+    - **Dle příčiny**:
+      - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou**
+        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny, je tedy způsobena impulzy na poptávkové straně - zvýšení důchodů, snižování daná, snadný přístup k úvěrům atd.
+        - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka, proti této inflaci fungují měnové nástroje hůře.
+        - **Hybridní inflace** - současné působení obou faktorů, například při zvyšování vstupních nákladů i poptávky, zvyšování mezd a platů.
+        - **Další faktory spolupůsobící na vznik inflace**:
+          - Expanzivní rozpočtová politika - souvisí s inflací taženou poptávkou,
+          - Nedokonalá konkurence - oligopol, monopol,
+          - Monopolní postavení odborů.
+    - **Dle typu**:
+      - **Čistá inflace**: jedná se o inflaci vypočítanou jen s pomocí statků ve spotřebním koši, které nepodléhají státní regulaci cen.
+      - **Hrubá inflace**: jedná se o inflace vypočítanou s veškerými statky ve spotřebním koši.
+  - **Měření**:
+    - Měření inflace se prodáví za pomocí jednoho ze tří typů měření inflace:
+      - **Index spotřebitelských cen**: provádí se za pomocí porovnání cen ve spotřebitelském koši, porovnává se nominální zvýšení ceny a váha jednotlivých statků ve spotřebím koši.
+      - **Index cen výrobců**: rovněž se používá jakýsi koš statků, ale počítá se inflace týkající se kapitálových statků, tedy nikoli statků finální spotřeby, ale statků, které se používají jako vstupy ve výrobě.
+      - **Deflátor HDP**: počítá se jako rozdíl nominálního HDP minulého období oproti nominálnímu HDP současného období, je nejkomplexnější, neboť obsahuje všechny statky, je ho ale možné dopočítat až zpětně, deflátor je vypočítán důchodovou metodou (G + I + C + X)
+      - **Existují další indexy, tři výše zmíněné jsou ale hlavní.**
+  - **Důsledky**
+    - **Inflační spirála** - při zvýšení cen na trhu požadují zaměstnanci vyšší zvýšení mez, což se opět promítne do vyšších cen na trhu, což se opět například při kolektivním investování promítne do požadavků na výši mezd -> rozjela se inflační spirála. Inflaci si lidi rovněž zabudovávají do svých předpokladů a vzniká tak **inflační očekávání**, jedná se o **adaptivní očekávání** založené na základu zkušeností z minulého období, ekonomické subjekty tak počítají i do budoucna s inflací -> **setrvačná inflace**, inflace se zvyšuje i bez inflačních impulzů.
+    - **Negativní, krátkodobě pozitivní:**
+    - **Přerozdělování**:
+      - Z pohledu dlužníka - pokud je inflace vyšší než úrok, splácí dlužník fakticky peníze s menší hodnotou, než kterou si původně od věřitele vypůjčil - vydělává dlužník.
+      - Z pohledu věřitele - pokud je inflace vyšší než úrok, věřitel prodělá, pokud je úrok vyšší, než inflace, věřitel vydělá.
+    - **Pohled státu (daňové a ost. výnosy)**
+      - Daňové výnosy:
+      - Ostatní výnosy:
+      - Státní dluh: Domácí, Zahraniční
 
 ----
 
@@ -2992,20 +3075,27 @@ Měnová politika cílování inflace
 
 
 - Fiskální politika
+  - Je součástí hospodářské politiky.
   - Fiskální politika je politikou státu.
   - Jedná se o rozpočtovou politiku, která může být buď **expanzivního, nebo restriktivního charakteru**.
   - Cíle
-    - Doplnit
+    - Ovlivňování ekonomiky pomocí veřejných rozpočtů ve smyslu výdajové stránky veřejných rozpočtů i příjmové stránky veřejných rozpočtů.
+    - Cíle jsou podobné jako u monetární politiky, vláda se pomocí fiskální politiky snaží zajistit makroekonomickou stabilitu, tedy zejména cenovou stabilitu, nízkou nezaměstnanost a udržitelný hospodářský růst.
   - Hlavní subjekty
     - Doplnit
   - Nástroje
     - Doplnit
+    - Vestavěné stabilizátory
+    - Aktivní politika
+    - Veřejné statky
+    - Rozpočet, přebytkový, vyrovnaný,schodkový.
 - Analýza vládních výdajů
   - Doplnit
   - Obecné problémy
     - Doplnit
   - Restriktivní a expanzivní přístup
     - Doplnit
+    - Jedná se o použití nástrojů fiskální politiky určitým způsobem.
     - Restriktivní přístup
       - Doplnit
     - Expanzivní přístup
@@ -3033,23 +3123,58 @@ Měnová politika cílování inflace
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Podnik
+  - [ ] Vymezení
+  - [ ] Okolí
+  - [ ] Ekonomická podstata podnikání
+  - [ ] Právní formy podnikání
+- [ ] Konkurenční okolí podniku
+  - [ ] Možnosti a metody srovnání s konkurencí
+    - [ ] Potenciální konkurence
+    - [ ] Koncentrace v odvětví
+    - [ ] Relevantní trh
+    - [ ] Odvětvová klasifikace ekonomických činností
+    - [ ] Benchmarking - DEA a SWOT analýza
+    - [ ] Competitive Intelligence
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Podnikání je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku.
-
-Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
-
-Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
-
-Dlouhodobé a krátkodobé období.
-
-Práce = L = Variabilní náklady
-
-Kapitál = K = Fixní náklady
-
-Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+- **Podnik**
+  - **Podnikání** je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku v mezích zákona.
+  - **Podnik** v ekonomické rovině jde o totéž jako **firma**, v právní rovině se podnik označuje jako **obchodní závod**, je ekonomicko právním subjektem, jehož charakterizuje ekonomická samostatnost. V rámci právního pojetí nejde o subjekt práva, ale o organizovaný souhrn jmění, kterí podnikatel vyčlenil za účelem provozování jeho činnosti.
+    - Podnik je možné "zaměnit" za **právnickou osobu**, která jako podnikající osoba vyčlenila část svého majetku právě na zřízení obchodního závodu, tedy podniku.
+    - V obecné rovině si tak pod pojmem podnik lze představit právnickou osobu.
+  - Obchodní závod (věc hromadná) je tvořen složkou majetkovou - hromadná věc sloužící k podnikání, složkou osobní - podnikatel a složkou nehmotnou - například know-how.
+  - Věci sloužící k podnikání se nazívají **obchodní majetek**.
+  - **Podnik** slouží k poskytování zboží a služeb a v rámci **hospodářského koloběhu** tak tvoří jednu ze základních jednotek, či stavebních kamenů, na nabídkové straně trhu (podnikatel FO, nebo podnikatel PO a jeho podnik).
+  - Obchodní závod (podnik) u FO tedy tvoří veškerý provozní majetek (kapitál) a to jak hmotný, tak i nehmotný - lze ho tak jako věc hromadnou i převést a jinou osobu, u PO je tedy obchodní závodem rovněž veškerý provozní majetek (kapitál), nemá právní subjektivitu.
+  - **Pobočka** - nemá právní subjektivitu
+  - **Odštěpný závod** - nemá právní subjektivitu
+  - **Provozovna** - nemá právní subjektivitu
+- **Okolí**
+    - Musí být příznivé pro podnikání.
+  - Součástí trhu, ekonomiky, hospodářství.
+  - Působí na něj vnější faktory.
+  - Tyto faktory ovlivňují podnikání.
+  - Pokud je tak například daná oblast (stát) postavená na netržních pojetích hospodářství - například uzavřená, centrálně plánovaná ekonomika, podnikat tam určitě nepůjde.
+- **Ekonomická podstata podnikání**
+    - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
+    - Působit jako důležitý subjekt v rámci trhu.
+    - Důležité v rámci rozvoje ekonomiky, hospodářství, technologie a ekonomického růstu a uspokojování potřeb, dále specializace a dělba práce, vytváření blahobytu.
+    - Zjišťování poptávky a uspokojování poptávky na tržním principu a cenovém principu a principu vzácnosti zdrojů, oproti například centrálně plánované ekonomice jsou v tomto společnosti velice dobré.
+- **Právní formy podnikání**
+    - 6ivnostenské podnikání
+    - NEŽIVNOSTENSKÉ PODNIKÁNÍ
+    - Právnické osoby.
+- Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
+- Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
+- Dlouhodobé a krátkodobé období.
+- Práce = L = Variabilní náklady
+- Kapitál = K = Fixní náklady
+- Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+- **Konkurenční okolí podniku**
 
 ----
 
@@ -3068,6 +3193,26 @@ Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**Cíle podniku**
+
+​				Cíle podniku
+
+​						 |
+
+​						/ \\
+
+v teorii												 |  v praxi
+
+maximalizace zisku						   |  maximalizace zisku
+
+maximalizace zisku na akcii            |   ukazatele ROE
+
+tržní cena akcie                                 |  
+
+shareholder value                            |   shareholder value
+
+MVA, EVA                                           |   MVA, EVA
 
 ----
 
