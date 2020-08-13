@@ -3123,23 +3123,48 @@ Kurzy
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Podnik
+  - [ ] Vymezení
+  - [ ] Okolí
+  - [ ] Ekonomická podstata podnikání
+  - [ ] Právní formy podnikání
+- [ ] Konkurenční okolí podniku
+  - [ ] Možnosti a metody srovnání s konkurencí
+    - [ ] Potenciální konkurence
+    - [ ] Koncentrace v odvětví
+    - [ ] Relevantní trh
+    - [ ] Odvětvová klasifikace ekonomických činností
+    - [ ] Benchmarking - DEA a SWOT analýza
+    - [ ] Competitive Intelligence
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Podnikání je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku.
+- **Podnik**
+  - **Podnikání** je legální soustavná činnost prováděná vlastním jménem na vlastní odpovědnost za účelem dosažení zisku v mezích zákona.
+  - **Podnik** v ekonomické rovině jde o totéž jako **firma**, v právní rovině se podnik označuje jako **obchodní závod**, je ekonomicko právním subjektem, jehož charakterizuje ekonomická samostatnost. V rámci právního pojetí nejde o subjekt práva, ale o organizovaný souhrn jmění, kterí podnikatel vyčlenil za účelem provozování jeho činnosti.
+    - Podnik je možné "zaměnit" za **právnickou osobu**, která jako podnikající osoba vyčlenila část svého majetku právě na zřízení obchodního závodu, tedy podniku.
+    - V obecné rovině si tak pod pojmem podnik lze představit právnickou osobu.
+  - Obchodní závod (věc hromadná) je tvořen složkou majetkovou - hromadná věc sloužící k podnikání, složkou osobní - podnikatel a složkou nehmotnou - například know-how.
+  - Věci sloužící k podnikání se nazívají **obchodní majetek**.
+  - **Podnik** slouží k poskytování zboží a služeb a v rámci **hospodářského koloběhu** tak tvoří jednu ze základních jednotek na nabídkové straně trhu (podnikatel FO, nebo podnikatel PO a jeho podnik).
+  - Obchodní závod (podnik) u FO tedy tvoří veškerý provozní majetek (kapitál) a to jak hmotný, tak i nehmotný - lze ho tak jako věc hromadnou i převést a jinou osobu, u PO je tedy obchodní závodem rovněž veškerý provozní majetek (kapitál).
+  - **Pobočka** - nemá právní subjektivitu
+  - **Odštěpný závod** - nemá právní subjektivitu
+  - **Provozovna** - nemá právní subjektivitu
 
-Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
+- Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 
-Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
+- Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
 
-Dlouhodobé a krátkodobé období.
+- Dlouhodobé a krátkodobé období.
 
-Práce = L = Variabilní náklady
+- Práce = L = Variabilní náklady
 
-Kapitál = K = Fixní náklady
+- Kapitál = K = Fixní náklady
 
-Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+- Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
 
 ----
 :::
