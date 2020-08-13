@@ -3159,6 +3159,18 @@ Kurzy
   - Působí na něj vnější faktory.
   - Tyto faktory ovlivňují podnikání.
   - Pokud je tak například daná oblast (stát) postavená na netržních pojetích hospodářství - například uzavřená, centrálně plánovaná ekonomika, podnikat tam určitě nepůjde.
+  - Okolí podniku tvoří kvůli globalizaci prakticky celý svět.
+  - Jsou hmotné a nehmotné prvky okolý podniku.
+  - Česko je součástí **evropského jednotného trhu** což v rámci okolí podniku otevřelo mnoho nových možností ale také zvýšilo konkurenci.
+  - **Jednotlivé prvky okolí podniku**:
+    - Geografické,
+    - sociální - okolí ve smyslu důsledků své činnosti pro společnost, jedná se o jakousi sociální odpovědnost podniku, který by měl být prospěšný i svému okolí,
+    - politické a právní,
+    - ekonomické,
+    - ekologické,
+    - technologické,
+    - etické,
+    - kulturně historické.
 - **Ekonomická podstata podnikání**
     - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
     - Působit jako důležitý subjekt v rámci trhu.
