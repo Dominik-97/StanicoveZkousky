@@ -97,8 +97,8 @@ title: Státnice
 * Pojem
   * [Občanské právo hmotné](https://www.smarteca.cz/my-reader/15471_20160525_0?fileName=obcanske_pravo_hmotne_dil1_-_2016-epub-6.xhtml&location=pi-167), obash mám jako komentář k nadpisu
   * [Dobrá prezentace na toto téma](https://is.muni.cz/el/1441/podzim2011/OV2MP_VKPR/Obcanske_pravo_hmotne-prezentace.pdf) - zastaralé, odkazuje ještě na původní Občanský zákoník
-  * Lidé se při svém chování sledující uspokojení nejrůznějších potřeb a zájmů dostávájí mezi sebou do vzájemných vztahů (společenských vztahů).
-  * Aby tyto vztahy fungovaly správně a nevznikal chaos a nepořádek usmyslela si společnost určitý řád (consensus, jedná se o lidský konstrukt).
+  * Lidé se při svém chování sledující uspokojení nejrůznějších potřeb a zájmů dostávájí mezi sebou do vzájemných vztahů (společenských vztahů), ale nejenom mezi sebou, uspokojení potřeb se týká například i zvířat, věcí neživých (hmotných a nehmotných) a podobně.
+  * Aby tyto vztahy fungovaly správně (aby se zajistila nějaká funkčnost) a nevznikal chaos a nepořádek usmyslela si společnost určitý řád (consensus, jedná se o lidský konstrukt).
   * Tyto pravidla jsou **vyjádřením zásad, na kterých společnost spočívá**, s vývojem společnosti se vyvíjel i tento řád, ten udržuje společnost ve stavu, kde platí jakýsi řád a umožňuje tak společnosti rozvíjet se - například správně nastavený řád je základem pro správné fungování ekonomiky a je asi nejdůležitějším faktorem v rámci okolí firem, bez kterého by firmy nemohly fungovat.
   * Tento řád byl z prvu tvořen zvyklostmi, úzusy, náboženskými pravidly, morálkou a podobně -> některé z těchto nepsaných pravidel se začala diferenciovat a stávat společensky **závaznými** (všeobecně příjmanými, respektive obecně závaznými) a **vynutitelnými**.
   * Tento řád upravoval základní pravidla, na kterých bylo z hlediska různých sociálních konfliktů **zvláštní společenský zájem**, aby se zajistil **pořádek a mír**, zachování a vynutitelnost těchto pravidel se staly pro další společenský rozvoj **nezbytnou nutností**.
