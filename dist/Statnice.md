@@ -77,6 +77,12 @@ title: Státnice
 
 - [x] § 1 - 14
 - [ ] Dodělat ostatní části této otázky
+- [ ] Pojem
+- [ ] Předmět
+- [ ] Prameny
+- [ ] Systém
+- [ ] Systematika občanského zákoníku
+- [ ] Dispozitivní a kogentní normy v občanském právu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -91,6 +97,15 @@ title: Státnice
 * Pojem
   * [Občanské právo hmotné](https://www.smarteca.cz/my-reader/15471_20160525_0?fileName=obcanske_pravo_hmotne_dil1_-_2016-epub-6.xhtml&location=pi-167), obash mám jako komentář k nadpisu
   * [Dobrá prezentace na toto téma](https://is.muni.cz/el/1441/podzim2011/OV2MP_VKPR/Obcanske_pravo_hmotne-prezentace.pdf) - zastaralé, odkazuje ještě na původní Občanský zákoník
+  * Lidé se při svém chování sledující uspokojení nejrůznějších potřeb a zájmů dostávájí mezi sebou do vzájemných vztahů (společenských vztahů).
+  * Aby tyto vztahy fungovaly správně a nevznikal chaos a nepořádek usmyslela si společnost určitý řád (consensus, jedná se o lidský konstrukt).
+  * Tyto pravidla jsou **vyjádřením zásad, na kterých společnost spočívá**, s vývojem společnosti se vyvíjel i tento řád, ten udržuje společnost ve stavu, kde platí jakýsi řád a umožňuje tak společnosti rozvíjet se - například správně nastavený řád je základem pro správné fungování ekonomiky a je asi nejdůležitějším faktorem v rámci okolí firem, bez kterého by firmy nemohly fungovat.
+  * Tento řád byl z prvu tvořen zvyklostmi, úzusy, náboženskými pravidly, morálkou a podobně -> některé z těchto nepsaných pravidel se začala diferenciovat a stávat společensky **závaznými** (všeobecně příjmanými, respektive obecně závaznými) a **vynutitelnými**.
+  * Tento řád upravoval základní pravidla, na kterých bylo z hlediska různých sociálních konfliktů **zvláštní společenský zájem**, aby se zajistil **pořádek a mír**, zachování a vynutitelnost těchto pravidel se staly pro další společenský rozvoj **nezbytnou nutností**.
+  * Při určitém stupni vývoje tento řád začala pro všechny lidi vynucovat jakási **centrální autorita**, tou byl **stát**, který tvořil a garantoval uplatnitelnost a vynutitelnost těchto pravidel jako **představitel veřejné moci**.
+  * **Tyto pravidla se nazývají jako právní pravidla (právní normy), souhrnem těchto norem právní řád, respektive právní systém v objektivním slova smylsu (tvz. objektivní právo), jehož součástí, ačkoli někdy nepsanou, jsou i právní zásady (společně s normami utvářejí funkční strukturu práva).**
+  * Právo v objektivním smyslu - právní rámec, stanovuje příkazy a zákazy, jedná se tedy ve své podstatě o psané právo.
+  * Právo v subjektivním smyslu - právo chovat se podle obejktivního práva, tedy právo na to chovat se určitým způsobem.
 * Předmět
   * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
 mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
@@ -100,6 +115,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * Systém
   * Ibid.
 * Systematika občanského zákoníku
+  * Právní síla.
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
