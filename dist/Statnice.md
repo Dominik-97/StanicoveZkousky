@@ -280,6 +280,19 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Více opatrovníku jedná společně.
   - **Opatrovnictví - specifická ustanovení**
     - Soud jmenuje opatrovníka opatrovanci, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem: například při omezení na svéprávnosti, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání, nebo tomu, jehož zdravotní stav mu působí obtíže při správě svého majetku nebo hájení svých práv.
+    - Úkolem opatrovníka je udržovat s opatrovancem spojení, projevovat o opatrovance skutečný zájem, dbát o jeho zdravotní stav, starat se o naplnění jeho práv a chránit jeho zájmy.
+    - Opatrovník naplňuje plní svoje povinosti s ohledem na přání opatrovance, není-li to možné tak s ohledem na jeho nejlepší zájmy.
+    - Soud jmenuje opatrovníka v souladu s přáním opatrovance, nebo jím jmenuje osobu blízkou primárně.
+    - **Opatrovnická rada** - v případě, že je jmenován opatrovník, může opatrovanec, nebo kterákoliv osoba jemu blízká.
+      - Opatrovnická rada může schvalovat jistá specifická jednání opatrovníkovi, který je bez jejího souhlasu nemůže vykonat.
+      - Pokud je projeven zájem o opatrovnickou radu, ta ale není z nějakého důvodů možné zřídil, převezme její schvalovací práva soud.
+      - Opatrovnická rada projednává zprávy opatrovníka, soupisy jmění, může podat návrh na změnu výše odměny opatrovníka, nebo může k soudu podat návrh na odvolání opatrovníka.
+    - Opatrovník vyhotovuje soupis jmění pokud spravuje majetek opatrovance a při skončení správy vyhotoví rovněž vyúčtování správy.
+  - **Opatrovnictví právnické osoby**
+    - Soud jmenuje právnické osobě opatrovníka pokud je to potřeba, aby mohly být spravovány její zájmy, nebo hájená její práva.
+    - Opatrovníkem může být jmenován jen ten, který splňuje požadavky na členství ve statutárním orgánu (například plná svéprávnost, bezúhonnost ve smyslu živnostenského zákona, neprobíhající konkurz etc.)
+    - Opatrovník usiluje o obnovení správně funkčnosti a činnosti statutárního orgánu.
+    - Zakladatelské právní jednání může určovat kdo má být pro tyto případy jemnován opatrovníkem.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
