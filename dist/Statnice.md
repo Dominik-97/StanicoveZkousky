@@ -1039,7 +1039,7 @@ finanční arbitr
   - Rozhodčí řízení
   - Finanční arbitráž
   - Mezinárodní arbitráž
-  - Alternativní řešení sporů u ČOI, TKÚ a ERÚ
+  - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ
 - Řešení sporů spotřebitele a podnikatele, nebo jiných osob.
 - Mediace u ČOI se nazývá konciliace.
 
