@@ -327,6 +327,38 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - Věci
   - Vše co je odlišné od osoby a slouží potřebě lidí.
   - Věc určená k obecnému užívání je veřejný statek.
+  - **Plod** - co poskytuje věc ze své přirozené povahy.
+  - **Užitek** - co věc pravidelně poskytuje ze své právní povahy.
+  - **Cena** - hodnota věci v penězích, určí se jako cena obvyklá pokud není ujednáno jinak, nebo jinak nestanoví zákon.
+  - Lidské tělo ani jeho část není věcí.
+  - Rovněž živé zvíře není věcí, nýbrž se jedná o živé zvíře, ustanovení o věci se na něj použijí jen v rozsahu, ve kterém to neodporuje jeho povaze.
+  - **Majetek** - souhrn všeho co osobě patří.
+  - **Jmění** - souhrn majetku a dluhů.
+  - Rozdělení věcí jako takové:
+    - **Věci hmotné a nehmotné** -
+    - **Ovladatelné přírodní síly** - 
+    - **Nemovité a movité věci** - 
+    - **Zastupitelné věci** - 
+    - **Zuživatelné věci** - 
+    - **Hromadné věci** - 
+    - **Obchodní závod** - 
+    - **Pobočka** - 
+    - **Obchodní tajemství** -
+- Součást věci a její příslušenství
+  - **Součást** -
+  - **Příslušenství** - 
+- Cenný papír
+  - Cenný papír je papír, se kterým je spojeno právo, které bez daného cenného papíru nelze uplatnit nebo převést - jedná se tedy o právo potvrzené daným cenným papírem.
+  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky etc.
+  - **Zastupitelné cenné papíry** - jedná se o **věc zastupitelnou**, tedy o cenné papíry téhož druhu jež jsou svým právním obsahem stejné,~~, pokud je uplatněno právo z jednoho, ostatní zanikají.~~ jedná se tedy například o akcie, vydané stejným emitentem se stejnou formou o stejné jmenovité hodnotě.
+  - **Forma cenného papíru:**
+    - Na jméno - 
+    - Na řad - 
+    - Na doručitele - 
+  - **Emise cenného papíru** - 
+  - **Vydání cenného papíru** - 
+  - **Stejnopisy cenného papíru** - 
+  - **Kupón** - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
