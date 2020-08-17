@@ -420,6 +420,11 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Právní skutečnosti**
+  - Právní skutečností jest.
+- **Právní jednání**
+  - 
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -1017,6 +1022,24 @@ Svépomoc je okolností vylučující protiprávnost.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Jedná se o způsob řešení sporů mimo klasické soudní řízení.
+
+Základnímy typy jsou:
+
+rozhodčí řízení
+
+mediace a konsiliace
+
+finanční arbitr
+
+- **Alternativní řešení sporů**
+  - Předarbitrážní urovnání sporů
+  - Mediace
+  - Rozhodčí řízení
+  - Finanční arbitráž
+  - Mezinárodní arbitráž
+  - Alternativní řešení sporů u ČOI, TKÚ a ERÚ
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
