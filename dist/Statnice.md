@@ -119,6 +119,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
+  * V novém občanském zákoníku platí zásada autonomie vůle, jak si mezi sebou tedy strany ujednají vzájemná práva a povinnosti je čistě na nich, musí se jen řídit základními ustanoveními zákona a rovněž se nesmí odchýlit od kogentních norem daného zákona.
   * Dispozitivní[^1]
     * Ibid.
     * Strany se podle svého uvážení, avšak v mezích zákona, mohou od zákona odchýlit
@@ -250,9 +251,35 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce.
   - Existují dva druhy zastoupení **příme** a **nepřímé**, u přímého jedná zástupce na účet a jménem zastoupeného, práva a povinnosti tedy vznikají přímo zastoupenému, u nepřímého jedná na účet zastoupeného, ale svým vlastním jménem, právní následky tedy vznikají přímo u zástupce, a užitek ze zastoupení potom na zastoupeného musí převést.
   - Druhy zastoupení:
-    - **Smluvní zastoupení**
+    - **Smluvní zastoupení** a **prokura**
     - **Zákonné zastoupení**
     - **Opatrovnictví**
+  - **Smluvní zastoupení**
+    - Strany: **Zmocnitel** a **zmocněnec**.
+    - Rozsah zmocnění je uveden v plné moci, u té postačí ověřené podpisy.
+    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku.
+    - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
+    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán.
+    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět.
+    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
+    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran, pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
+    - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
+  - **Prokura**
+    - Podnikatel zapsaný v obchodním rejstříku uděluje prokuru prokuristovi a zmocňuje ho tím ke všem právním jednáním, ke kterým dochází při provozu obchodního závodu nebo pobočky, zcizení a nebo zatížení však je možné pouze, pokud je to výslovně ujednáno.
+    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru.
+    - Výkon s péčí řádného hospodáře, vnitřní předpisy omezující prokuru nejsou závazné vůči třetím osobám i když byly zveřejněny.
+    - Zánik: obdobný jako u smluvního zastoupení + převodem nebo pachtem obchodního závodu, smrtí podnikatele nezaniká, ledaže bylo ujednáno něco jiného.
+  - **Zákonné zastoupení a opatrovnictví**
+    - Sleduje ochranu zastoupeného a jeho práv.
+    - Není třeba jakéhokoliv pověření, zastoupení stanovuje přímo zákon - například zastoupení nezletilích dětí v právním styku, kteří nemají plnou svéprávnost ze zákona.
+    - V případě střetu zájmů - soud jmenuje kolizního opatrovníka.
+    - Zákonnému zástupci a opatrovníkovi náleží běžná správa majetku zastoupeného, pokud jej spravují.
+    - Není možné za zastoupení požadovat odměnu - odměna je možná pouze pokud je spravován majetek, o její výši rozhoduje soud.
+    - Opatrovníka opatrovanci (zastoupené osobě) jmenuje soud a rovněž určí rozsah jeho práv a povinností.
+    - Soud opatrovníka odvolá v případě: opatrovník o to požádá, nebo neplní své povinnosti, soud rovněž jmenuje nového opatrovníka.
+    - Více opatrovníku jedná společně.
+  - **Opatrovnictví - specifická ustanovení**
+    - Soud jmenuje opatrovníka opatrovanci, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem: například při omezení na svéprávnosti, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání, nebo tomu, jehož zdravotní stav mu působí obtíže při správě svého majetku nebo hájení svých práv.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
