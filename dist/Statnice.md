@@ -1040,6 +1040,8 @@ finanční arbitr
   - Finanční arbitráž
   - Mezinárodní arbitráž
   - Alternativní řešení sporů u ČOI, TKÚ a ERÚ
+- Řešení sporů spotřebitele a podnikatele, nebo jiných osob.
+- Mediace u ČOI se nazývá konciliace.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
