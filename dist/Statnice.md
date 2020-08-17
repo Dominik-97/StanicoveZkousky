@@ -172,6 +172,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Zastoupení členem domácnosti
   * Omezení svéprávnosti
 * Koblížek.
+* Definiční znaky
+* Nasciturus
+* Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -225,6 +228,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 436 - 488
+- [ ] Zastoupení
+- [ ] Opatrovnictví
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -235,6 +240,19 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Zastoupení**
+  - O zastoupení se jedná v případě, že jeden jedná za druhého jeho jménem a z tohoto jednání vznikají práva a povinnosti zatupovanému.
+  - V případě, že není zřejmé, že někdo jedná za někoho jiného platí, že jedná na vlastní jméno - prokázat, že jedná za jiného může **plnou mocí**.
+  - Zástupcem nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže zastupený o takovémto rozporu věděl, nebo vědět musel.
+  - Zástupce musí jednat vždy osobně, jednat může i prostřednictvím zástupce, ale pouze pokud si to ujednal se zastoupeným, nebo vyžaduje-li to nutná potřeba, odpovídá však za výběr zástupce.
+  - Pokud má zastoupený pro tutéž záležitost více zástupců platí, že každý zástupce může jednat samostatně.
+  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce.
+  - Existují dva druhy zastoupení **příme** a **nepřímé**, u přímého jedná zástupce na účet a jménem zastoupeného, práva a povinnosti tedy vznikají přímo zastoupenému, u nepřímého jedná na účet zastoupeného, ale svým vlastním jménem, právní následky tedy vznikají přímo u zástupce, a užitek ze zastoupení potom na zastoupeného musí převést.
+  - Druhy zastoupení:
+    - **Smluvní zastoupení**
+    - **Zákonné zastoupení**
+    - **Opatrovnictví**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
