@@ -312,6 +312,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Věci
+- [ ] Součást a příslušenství
+- [ ] Cenný papír
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -319,6 +323,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Věci
+  - Vše co je odlišné od osoby a slouží potřebě lidí.
+  - Věc určená k obecnému užívání je veřejný statek.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -365,6 +373,12 @@ Svépomoc je okolností vylučující protiprávnost.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Právní skutečnosti
+- [ ] Právní jednání
+  - [ ] Pojem
+  - [ ] Náležitosti
+  - [ ] Vady a jejich následky
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
