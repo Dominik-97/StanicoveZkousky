@@ -1039,18 +1039,24 @@ finanční arbitr
   - Řídí se odlišnými pravidly a uplatňují se v nich jiné principy.
   - Jsou standardně uplatňované v rámci spotřebitelských sporů, ale je možné je uplatnit i v klasických sporech.
   - Řídí se podle několika zákonů, a to především: **Občanský soudní řád**, **Zákon o mediaci**, **Zákon o rozhodčím řízení**, **Zákon o ochraně spotřebitele**, **Občanský zákoník**, **Zákon o zvláštních řízeních soudních** a **Zákon o České obchodní inspekci**.
-  - V rámci těchto zákonů existuje několik druhů mimosoudního řešení sporů:
-    - Předarbitrážní urovnání sporů
-      - Smírčí skupina - neformální doporučení skupiny několik nestranných osob seznámených s dannou činností, mohou být rozhodci v případné arbitráže.
-      - 
-    - Mediace
-    - Rozhodčí řízení (arbitráž)
-    - Finanční arbitráž u finančního arbitra
-    - Mezinárodní arbitráž
-    - Soudní smír (smírčí řízení)
-    - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ a další (například ČAK, Ombudsman u České asociace pojišťoven atd.) - mělo by se svojí formou jednat o mediaci
+  - V rámci těchto zákonů existuje několik druhů mimosoudního řešení sporů, a to jak zákonnem upravených, tak i zákonnem neupravených:
+    - Zákonem neupravené řešení sporů
+      - **Níže popsané způsoby se týkají zejména dlouhodobých smluvních vztahů.**
+      - **Renegociace** - znovuvyjednání podmínek, změn, které vyřeší spor, jedná se spíše o prevenci řešení sporů, záleží na stranách a na jejich vůli, aby si mezi sebou nové podmínky upravili.
+      - **Předarbitrážní urovnání sporů** - jedná se o specifické formy urovnání sporů, které jsou běžně na vůli stran bez zákonného vymezení (**až na předarbitrážní řízení před rozhodčím**)
+        - **Smírčí skupina** - neformální doporučení skupiny několik nestranných osob seznámených s dannou činností, mohou být rozhodci v případné arbitráže, vydávají tedy nezávazné doporučení, na základě kterého může proběhnout například zmíněná renegociace.
+        - **Expertní zásah** - jedná se o nestranného experta, který posuzuje výhradně otázky technického směru, pokud se strany smluvně dohodnout, mohou tyto posouzení pro ně být závazné - tento způsob řešení sporu je podporován **Mezinárodní obchodní komorou**.
+        - **Předarbitrážní řízení před rozhodčím** - do 30 dnů rozhodce vydá určitý příkaz na žádost některé ze stran, jedná se o obdobu **soudního předběžného opatření**, jeho účelem je dočasně upravit poměry stran za účelem pozdějšího řízení a rozhodnutí sporu
+    - Zákonem upravené řešení sporů
+      - Mediace - závazná v případě potvrzení soudem a nebo sepsáním notářské smlouvy s přímou vykonatelností.
+      - Rozhodčí řízení (arbitráž)
+      - Finanční arbitráž u finančního arbitra
+      - Mezinárodní arbitráž
+      - Soudní smír (smírčí řízení)
+      - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ a další (například ČAK, Ombudsman u České asociace pojišťoven atd.) - mělo by se svojí formou jednat o mediaci
 - Řešení sporů spotřebitele a podnikatele, nebo jiných osob.
 - Mediace u ČOI se nazývá konciliace.
+- Abstrahovat
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
