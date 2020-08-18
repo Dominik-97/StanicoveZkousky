@@ -1048,7 +1048,7 @@ finanční arbitr
         - **Expertní zásah** - jedná se o nestranného experta, který posuzuje výhradně otázky technického směru, pokud se strany smluvně dohodnout, mohou tyto posouzení pro ně být závazné - tento způsob řešení sporu je podporován **Mezinárodní obchodní komorou**.
         - **Předarbitrážní řízení před rozhodčím** - do 30 dnů rozhodce vydá určitý příkaz na žádost některé ze stran, jedná se o obdobu **soudního předběžného opatření**, jeho účelem je dočasně upravit poměry stran za účelem pozdějšího řízení a rozhodnutí sporu
     - Zákonem upravené řešení sporů
-      - Mediace - závazná v případě potvrzení soudem a nebo sepsáním notářské smlouvy s přímou vykonatelností.
+      - Mediace - závazná v případě potvrzení soudem a nebo sepsáním notářské zápisy se svolením k přímé vykonatelnosti.
       - Rozhodčí řízení (arbitráž)
       - Finanční arbitráž u finančního arbitra
       - Mezinárodní arbitráž
