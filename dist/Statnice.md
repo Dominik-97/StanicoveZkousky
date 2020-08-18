@@ -1033,13 +1033,22 @@ mediace a konsiliace
 
 finanční arbitr
 
-- **Alternativní řešení sporů**
-  - Předarbitrážní urovnání sporů
-  - Mediace
-  - Rozhodčí řízení
-  - Finanční arbitráž
-  - Mezinárodní arbitráž
-  - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ
+- **Alternativní řešení sporů (Mimosoudní řešení sporů)**
+  - Jedná se o alternativní řešení ke klasickému soudnímu sporu, strany sporu si je můžou dobrovolně zvolit, je tedy fakultativní a může být započato jen na návrh některých ze stran.
+  - Jsou standardně poskytovány osobami soukromé povahy a účastníci mají velký možnost ovlivnit celý průběh a tím i výsledek celého procesu.
+  - Řídí se odlišnými pravidly a uplatňují se v nich jiné principy.
+  - Jsou standardně uplatňované v rámci spotřebitelských sporů, ale je možné je uplatnit i v klasických sporech.
+  - Řídí se podle několika zákonů, a to především: **Občanský soudní řád**, **Zákon o mediaci**, **Zákon o rozhodčím řízení**, **Zákon o ochraně spotřebitele**, **Občanský zákoník**, **Zákon o zvláštních řízeních soudních** a **Zákon o České obchodní inspekci**.
+  - V rámci těchto zákonů existuje několik druhů mimosoudního řešení sporů:
+    - Předarbitrážní urovnání sporů
+      - Smírčí skupina - neformální doporučení skupiny několik nestranných osob seznámených s dannou činností, mohou být rozhodci v případné arbitráže.
+      - 
+    - Mediace
+    - Rozhodčí řízení (arbitráž)
+    - Finanční arbitráž u finančního arbitra
+    - Mezinárodní arbitráž
+    - Soudní smír (smírčí řízení)
+    - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ a další (například ČAK, Ombudsman u České asociace pojišťoven atd.) - mělo by se svojí formou jednat o mediaci
 - Řešení sporů spotřebitele a podnikatele, nebo jiných osob.
 - Mediace u ČOI se nazývá konciliace.
 
