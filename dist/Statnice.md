@@ -1082,6 +1082,8 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+Částečně v obchod-A_2017_18
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1107,6 +1109,8 @@ finanční arbitr
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1159,6 +1163,8 @@ finanční arbitr
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1238,6 +1244,8 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+V obchod-A_2017_18
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1263,6 +1271,8 @@ finanční arbitr
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
