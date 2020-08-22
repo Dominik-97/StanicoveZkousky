@@ -3452,6 +3452,10 @@ MVA, EVA                                           |   MVA, EVA
 
 - Mezinárodní obchod
   - V souvislost s nadnárodní společností
+- Existují tři druhy plánů:
+  - Komplexní strategické plány
+  - Taktické plány
+  - Operativní plány
 
 ----
 :::
@@ -3842,9 +3846,55 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Nákup
+- [ ] Logistika
+- [ ] Zásobování
+- [ ] Hlavní úkoly logistického oddělení
+- [ ] Logistické metody
+- [ ] Řízení zásoby
+- [ ] Marketingový nákupní mix
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Nákup**
+  - Řízeno útvarem nákupu/útvarem zásobování standardně.
+  - Účel - **efektivní uspokojování potřeb vycházejících z plánovaného průběhu základních, pomocných a obslužných výrobních a nevýrobních procesů**.
+  - Lidsky řečeno má za úkol nákup veškerého **materiálu**, který je spojen s provozem daného subjektu.
+  - **Potřeba zásaního uplatňování nákupního marketingu**
+    - Nákup - aktivní článek v procesu plnění strategických cílů podnikání, které jsou vrcholovými kritérii rozhodování.
+    - Informační základna a přenos informací od prodeje k nákupu - odpovídající chování na straně nákupu ve smyslu materiálů, kvantity, kvality, logistiky a podobně.
+    - Snaha vidět dodavatele jako partnera-spojence a fér protihráče na tržním kolbišti.
+  - **Plán nákupu je důležitým nástrojem managementu i v tržních podmínkách - je předpokladem efektivního řízení nákupního procesu.**
+  - Plán nákupu začíná **včasným a reálným vyjasněním potřeb (nákupní marketing) a pokračuje nákupním výzkumem a volbou dodavatele jako východiskem pro všasné zahájení nákupní komunikace (to vše také marketing).**
+  - **Proč marketingové pojetí?** Těžiště aktivitu nákupů je nutné přesunout z **operativních plánů** do **strategických plánů**, jinak bude podnik bez vlastní nákupní strategie zaostávat za konkurencí a dostane se pouze do vleku vnějších tržních partnerů.
+- **Logistika**
+  - Doplnit (je v knize)
+- **Zásobování**
+  - Doplnit (je v knize)
+- **Hlavní úkoly logistického oddělení**
+  - Doplnit (je v knize)
+- **Logistické metody**
+  - Doplnit (neni v knize)
+  - Logistické řetězce
+- **Řízení zásob**
+  - Doplnit (je v knize)
+- **Marketingový nákupní mix**
+  - Součástí **marketingového pojetí nákupu**.
+    - Uplatňování marketingových přístupů, metod a techniky v oblasti nákupu.
+    - Jedná se tedy o marketingový přístup uplatněný na straně nákupu spočívající v průzkumu a výzkumu dodavatelského trhu (potenciální nabídky), rozhodování o optimálním dodavateli, režimu a podmínkách dodávek (cenových, dodacích, platebních, logistických atd.), zásobách a logistickém zajištění nákupních procesů atd.
+    - Snaha o dlouhodobé partnerské, vzájemně výhodné dodavatelsko-odběratelské vztahy ve všem možných otázkách, tedy například v kvalitě výrobků, spolehlivosti, pružnosti a efektivnosti plnění smluv, komunikaci apod.
+    - **Smyslem marketingového pojetí nákupu je propojení celého výrobního řetězce v rámci firmy.**
+    - Lepší, než kdyby bylo nákupní oddělení se svým vlastním plánem, nesesynchronizovaným s marketingovým plánem, nebo které by nakupovalo *ad hoc*.
+    - Nejde vlastně o nic jiného než o propojení vstupní a výstupní strany celého výrobního řetězce řízeného marketingovým způsobem.
+    - Nákupní marketingem podnikový logistický řetězec začíná a marketingem na straně prodeje a konečným odbytem končí, opačným směrem probíhá informační tok - od marketingu na straně prodeje k marketingu na straně nákupu.
+    - Obě hraniční funkce májí to podstatné společné: zprostředkovávají propojení vnitropodnikového prostředí s vnějšími tržními subjekty, důležitým předpokladem (kritickým faktorem úspěchu) je vzájemná komunikace tržních partnerů - dodavatelů, či odběratelů (zprostředkovatelů či spotřebitele).
+  - **Co to vlastně je ten nákupní marketingový mix?**
+    - **Informační a komunikační nákupní mix**
+    - **Výrobkový mix a mix služeb**
+    - **Cenový a kontrakční mix**
+    - **Logistický a dodávkový mix**
 
 ----
 :::
@@ -3964,6 +4014,8 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Jedná se o celé pojetí výrobního procesu - viz fáze v odmaturuj (dopsat)
 
 ----
 :::
