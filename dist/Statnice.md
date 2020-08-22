@@ -3412,6 +3412,19 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Finanční řízení podniku
+  - [ ] Finanční management - organizace
+  - [ ] Finanční management - hlavní úkoly
+- [ ] Finanční analýza
+  - [ ] Nástroje pro rozhodování finančního managementu
+- [ ] Financování podniku
+  - [ ] Vnější a vnitřní zdroje
+  - [ ] Finanční uzávěrka - rozvaha
+- [ ] Hospodářský výsledek podniku
+  - [ ] Rentabilita
+  - [ ] Výsledovka
+- [ ] Majetková a kapitálová struktura podniku
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
@@ -3472,9 +3485,141 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Cenová strategie
+- [x] Odbyt a marketing
+  - [x] Marketingový mix
+  - [x] Životní cyklus produktu
+  - [x] Řízení distribučních kanálů
+  - [x] Marketingová komunikace
+  - [x] Propagační mix
+  - [x] Marketingová inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Cenová strategie**
+
+  - Za jaké ceny bude firma prodávat své zboží a služby?
+  - V rámci jednotlivých fází - vstup na trhu, působení na trhu a obchod z trhu potřebuje firma dosahovat různých cílů, vzhledem k monopolistické konkurenci jim cenová politika pomáhá v jednotlivých fázích ve smyslu cenové konkurence.
+  - Týká se:
+    - Stanovení ceny,
+    - jednotnosti ceny, nebo jejich rozdílnost - targeting positioning, segmentace,
+    - Vývoj cen v čase a jejich změny,
+    - důvody změny cen.
+  - Probíhá zde vytváření cen:
+    - Hodnotová,
+    - tržní (poptávková),
+    - nákladová,
+    - konkurenční.
+  - Cenová politika má své cíle: vstup na tri, dosažení vyššího podílu na trhu,maximalizace zisku, přežití etc.
+  - Nejčastější nástroje cenové politiky: **slevy**, **zaváděcí ceny**, **dumping**, **vysoká cena u luxusního zboží - image**.
+
+- Odbyt a marketing
+
+  - **Odbyt** - završení podnikového reprodukčního procesu zaměřeného na uspokojování potřeb - dovedení výrobku ke spotřebiteli - dosažení cíle podnikání - tedy přenechání statku jinému subjektu za určité protiplnění.
+
+  - V tržním hospodářstí není problém zboží vyrobit, ale prodat jej, neboť trh prodávajícího je nahrazen trhem kupujícího - záleží tedy na poptávce (potřebě).
+
+  - Aby firmy **měly odbyt** musí se ve své činnosti orientovat na potřeby a přání svých zákazníků, členů, klientů - **Marketing**.
+
+  - **Marketing není jen dělání reklamy, je to poměrně rozsáhlý souhrn činností!!**
+
+  - Marketing musí tyto potřeby zjišťovat, popřípadě **je vyvolávat** a současně s tím hledat způsoby jak je uspokojovat.
+
+  - Jedna z definic marketingu může znít: *"Marketing je lidská činnost, umožňující organizaci zjistit neuspokojené potřeby a přání, přeměnit je do podoby ziskových příležitostí a tento zisk realizovat."*
+
+  - Pro uplatňování marketingového přístupu musí být splněny jisté podmínky ve smylu **okolí podniku** - tedy například **ekonomické, sociální, právní, politické** - například centrální řízení a omezená funkce trhu na straně nabídky nebo poptávky marketing téměř neumožňuje!!
+
+  - Marketingová forma odbytu funguje pouze v tržním prostředí, neplatí však, že sama existence tržního prostředí nezbytně vede k tomu, že jediná forma odbytu je marketingová forma.
+
+  - Dílčí oblastí v rámci odbytu je **prodej** - prodávající se zavazuje převést na kupujícího vlastnické právo k užívání a kupující se zavazuje uhradit kupní cenu.
+
+  - **Při prodeji se tedy uplatňuje několik dílčích činností:**
+
+    - tvorba strategie a plánování prodeje,
+    - příjem zakázek a zakázkové řízení,
+    - kontakty se zákazníky,
+    - analýza prodeje,
+    - fyzická distribuce,
+    - řízení zásob hotových výrobků a jejich skladování,
+    - balení a adjust ace,
+    - předání příkazu k fakturaci.
+
+  - Firma pro tytyo činnosti nemusí využívat marketingový přístup, u společností, které marketing využívají spadají tyto dílčí činnosti pod **marketingový plán**.
+
+  - **Do marketingu spadají i další věci, například marketingové přístupy a metody v oblasti nákupních činností podniku - to totiž značně souvisí s plánováním zásob, výroby a prodeje.**
+
+  - **K nejdůležitějším funkcím marketingu patří rozhodování o tom, jaké výrobky a komu nabídnout, jak komunikovat se zákazníkem, a jakou cenu mu nabídnout + inovace.**
+
+  - **Marketingový plán**
+
+    - Marketingový plán odbytu má několik dílčích kroků:
+      1. tržní diagnóza - momentální tržní situace a finanční stránka podniku, **marketignové oddělení musí rovněž sbírat a vyhodnocovat veškeré relevantní informace**,
+      2. tržní prognóza - vývoj na trhu,
+      3. plánování cílů - strategické - obecné a taktické - jednotlivé cíle odbytové politiky,
+      4. plánování **marketingového mixu**,
+         - Také takzvaný **4P**,
+         - produkt - vše co se týká výrobu, inovace a její výsledky, má dopad i na business plán,
+         - price - stanovování ceny, viz cenová strategie výše,
+         - propagace - segmantace, targeting a positioning, reklama, public relations,
+           - Propagace musí zákazníkovi přinést následující informace:
+             - Výrobek existuje, kde lze získat, k čemu slouží, cena, péče o výrobek, používání výrobku, životnost výrobku - zde se jedná o **komunikační mix**.
+         - place (distribuce) - jakými kanály zboří prodávat - standardně - **prodejna**, **přímý prodej**, **velkoobchod**, **prodejce** (dealer, broker, prodejní agentura etc.), **jen přes internet**.
+      5. sestavení rozpočtu - porovnání příjmů a výdajů spojených s dosaženým požadované výše odbytu.
+    - **Pro největší spokojenost zákazníka se používá taktika čtyř C:**
+      - celkový užitek zákazníka,
+      - celkové i nefinanční náklady na získání a užití výrobku,
+      - komfort spojený s nákupem výrobku, s jeho užíváním a s jeho následnou likvidací,
+      - Oboustranná komunikace - acquisition and retention.
+
+  - Životní cyklus produktu
+
+    - **BCG matice** - také popisuje jednotlivé fáze produktu a říká jak s nimi naložit:
+
+      - |                   | Vysoký tržní podíl | Nízký tržní podíl |
+        | ----------------- | ------------------ | ----------------- |
+        | Vysoká míra růstu | Hvězdy             | Otazníky          |
+        | Nízká míra růstu  | Dojné krávy        | Bídní psy         |
+
+        Hvězdy - předělat v dojné krávy, dojné krávy - udržet, stabilní zisk pro firmu, otazníky - rozdělit na perspektivní -> dojné krávy, ostatní eliminovat, bídní psy - utlumit výrobu a stáhnout z trhu.
+
+    - Životní cyklus produktu jest časovým úsekem mezi zavedením a stažením produktu z trhu, má několik fází.
+
+      - **Vývojová fáze** - vývoj produktu, nulový zisk, vysoké náklady - ztráta na produktu
+      - **Fáze zavádějící** - uvedení na trh, risk, zda se produktu uchytí, výdaje mohou být stále větší než příjmy
+      - **Fáze růstová** - prosazení na trhu - zisk,
+      - **Fáze zralosti** - produkt je zavedený a kupovaný, tato fáze trvá dlouho a postupně se přeléva v úpadek, zisky jsou stabilní ale postupně začínají klesat - tendence vyššího investování do marketingu - může být prodloužena modifikací produktu, trhu nebo marketingového mixu
+      - **Fáze úpadku** - záleží na typu produktu, některé jsou nestárnoucí, ale produkt je časem překonám, změní se preference spotřebitelů etc. - začnou klesat prodeje a zisky, společně s fází zralosti dvě nejdeší části - může být na čas zvráceno **inovací** - produktu, nové variace, vyřazování výrobku - cenová politika, snížení ceny.
+
+  - **Distribuční kanály**
+
+    - Viz marketingový mix
+    - Standardně prodej napřímo, nebo pomocí zprostředkovatelů - velkoobchody, maloobchody etc.
+    - Záleží na mnoha faktorech - umístění, velikosti, segmentaci, targetingu etc.
+    - Záleží i na cílovém trhu.
+
+  - **Marketingová komunikace**
+
+    - Komunikace informací novým a stávajícím zákazníkům.
+    - Komerční - například akvizice a prodej, nekomerční - support.
+    - Patří sem jak osobní komunikační kanály - například event marketing, tak i neosobní - offline reklama (venkovní reklama), internetová reklama (obsahovka, PPC).
+    - Důležitou informační součástí **CRM**.
+
+  - **Propagační mix:**
+
+    - Cílené oslovení kupujících s určitým sdělením, snaha ovlivnit chování zákazníka a přinutit ho ke koupi.
+    - podpora prodeje - například kupóny, dárky, ochutnávky, cenové stimuly, soutěže, prémie, věrnostní programy etc.,
+    - reklama
+    - prodejní personál,
+    - PR - vytváření dobé image, press relation, firemní akce, sponzoring etc.,
+    - přímý marketing - oslovování klientů na základě dat z databáze, přímé oslovování etc.
+
+  - **Marketingové inovace:**
+
+    - Jedná se o zavedení nových marketingových metod zahrnujících zásadní změny v produkt design nebo packaging, product plamenent, product promotion nebo pricing.
+    - Zaměřená na lepší vyhodnocování a reakci na potřeby zákazníků, otevírání nových trhů, nový positioning produktu na trhu s cílem zvýšení prodejů firmy a jejich zisků.
+    - Zásadní rozdíl mezi inovací a pouhou změnou tkví v implementaci marketingové metody, která nebyla nikdy předtím používána, musí být součástí nového marketigového konceptu nebo strategie zvýrazněný zásadní změnou oproti stávajícím firemním marketingovým metodám.
 
 ----
 :::
@@ -3490,9 +3635,27 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Tržní hodnota podniku
+  - [ ] Faktory tvorby hodnoty
+  - [ ] Měření hodnoty podniku
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Tržní hodnota podniku**
+  - Tržní hodnota firmy a její růst.
+  - Patří k základním cílům finančního managementu.
+  - Neexistuje univerzální ocenění podniku, jen mnoho druhů, používá se řada metod a postupů, metody je třeba vždy volit v souladu s účelem ocenění.
+  - Ocenění má krátkodobý charakter - mění se jak vnější tak i vnitřní podnímky podniku.
+  - **Faktory tvorby hodnoty**
+    - Doplnit
+  - **Měření hodnoty podniku**
+    - Majetkový princip - účetní hodnota, substanční hodnota
+    - Výnosový princip - kapitalizované výnosy, dividendový diskontní mdel, diskontovaný FGFE, FCFF, EVA
+    - Kombinovaný
+    - Na tržním principu - tržní multiplikátor, srovnatelných trancakcí
+    - Reálných opcí
 
 ----
 :::
