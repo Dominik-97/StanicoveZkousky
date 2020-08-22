@@ -3446,6 +3446,18 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Podnikové řízení
+  - [ ] Strategické řízení
+  - [ ] Taktické řízení
+  - [ ] Operativní řízení
+  - [ ] Oddělení vlastnictví a řízení podniku
+  - [ ] Správa a řízení velké společnosti
+    - [ ] Korporátní strategie
+    - [ ] Nadnárodní společnosti
+- [ ] Organizační výstavba podniku
+  - [ ] Typická oddělení v podniku
+  - [ ] Organizační inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
@@ -3456,6 +3468,12 @@ MVA, EVA                                           |   MVA, EVA
   - Komplexní strategické plány
   - Taktické plány
   - Operativní plány
+- Organizační výstavba podniku
+  - Doplnit
+  - OSCAR
+  - **Typická oddělení v podniku**
+    1. Ředitel
+    2. Výzkum a vývoj, Technika, Výroba, Obchod, Personalistika, Marketing, Právní oddělení, Metodika, Controlling, Účetní etc.
 
 ----
 :::
@@ -3891,6 +3909,7 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - Nákupní marketingem podnikový logistický řetězec začíná a marketingem na straně prodeje a konečným odbytem končí, opačným směrem probíhá informační tok - od marketingu na straně prodeje k marketingu na straně nákupu.
     - Obě hraniční funkce májí to podstatné společné: zprostředkovávají propojení vnitropodnikového prostředí s vnějšími tržními subjekty, důležitým předpokladem (kritickým faktorem úspěchu) je vzájemná komunikace tržních partnerů - dodavatelů, či odběratelů (zprostředkovatelů či spotřebitele).
   - **Co to vlastně je ten nákupní marketingový mix?**
+    - Vychází z marketingového mixnu nákupního (4P)
     - **Informační a komunikační nákupní mix**
     - **Výrobkový mix a mix služeb**
     - **Cenový a kontrakční mix**
