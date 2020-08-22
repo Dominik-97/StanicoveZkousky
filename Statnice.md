@@ -77,6 +77,12 @@ title: Státnice
 
 - [x] § 1 - 14
 - [ ] Dodělat ostatní části této otázky
+- [ ] Pojem
+- [ ] Předmět
+- [ ] Prameny
+- [ ] Systém
+- [ ] Systematika občanského zákoníku
+- [ ] Dispozitivní a kogentní normy v občanském právu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -91,6 +97,15 @@ title: Státnice
 * Pojem
   * [Občanské právo hmotné](https://www.smarteca.cz/my-reader/15471_20160525_0?fileName=obcanske_pravo_hmotne_dil1_-_2016-epub-6.xhtml&location=pi-167), obash mám jako komentář k nadpisu
   * [Dobrá prezentace na toto téma](https://is.muni.cz/el/1441/podzim2011/OV2MP_VKPR/Obcanske_pravo_hmotne-prezentace.pdf) - zastaralé, odkazuje ještě na původní Občanský zákoník
+  * Lidé se při svém chování sledující uspokojení nejrůznějších potřeb a zájmů dostávájí mezi sebou do vzájemných vztahů (společenských vztahů), ale nejenom mezi sebou, uspokojení potřeb se týká například i zvířat, věcí neživých (hmotných a nehmotných) a podobně.
+  * Aby tyto vztahy fungovaly správně (aby se zajistila nějaká funkčnost) a nevznikal chaos a nepořádek usmyslela si společnost určitý řád (consensus, jedná se o lidský konstrukt).
+  * Tyto pravidla jsou **vyjádřením zásad, na kterých společnost spočívá**, s vývojem společnosti se vyvíjel i tento řád, ten udržuje společnost ve stavu, kde platí jakýsi řád a umožňuje tak společnosti rozvíjet se - například správně nastavený řád je základem pro správné fungování ekonomiky a je asi nejdůležitějším faktorem v rámci okolí firem, bez kterého by firmy nemohly fungovat.
+  * Tento řád byl z prvu tvořen zvyklostmi, úzusy, náboženskými pravidly, morálkou a podobně -> některé z těchto nepsaných pravidel se začala diferenciovat a stávat společensky **závaznými** (všeobecně příjmanými, respektive obecně závaznými) a **vynutitelnými**.
+  * Tento řád upravoval základní pravidla, na kterých bylo z hlediska různých sociálních konfliktů **zvláštní společenský zájem**, aby se zajistil **pořádek a mír**, zachování a vynutitelnost těchto pravidel se staly pro další společenský rozvoj **nezbytnou nutností**.
+  * Při určitém stupni vývoje tento řád začala pro všechny lidi vynucovat jakási **centrální autorita**, tou byl **stát**, který tvořil a garantoval uplatnitelnost a vynutitelnost těchto pravidel jako **představitel veřejné moci**.
+  * **Tyto pravidla se nazývají jako právní pravidla (právní normy), souhrnem těchto norem právní řád, respektive právní systém v objektivním slova smylsu (tvz. objektivní právo), jehož součástí, ačkoli někdy nepsanou, jsou i právní zásady (společně s normami utvářejí funkční strukturu práva).**
+  * Právo v objektivním smyslu - právní rámec, stanovuje příkazy a zákazy, jedná se tedy ve své podstatě o psané právo.
+  * Právo v subjektivním smyslu - právo chovat se podle obejktivního práva, tedy právo na to chovat se určitým způsobem.
 * Předmět
   * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
 mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
@@ -100,9 +115,11 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * Systém
   * Ibid.
 * Systematika občanského zákoníku
+  * Právní síla.
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
+  * V novém občanském zákoníku platí zásada autonomie vůle, jak si mezi sebou tedy strany ujednají vzájemná práva a povinnosti je čistě na nich, musí se jen řídit základními ustanoveními zákona a rovněž se nesmí odchýlit od kogentních norem daného zákona.
   * Dispozitivní[^1]
     * Ibid.
     * Strany se podle svého uvážení, avšak v mezích zákona, mohou od zákona odchýlit
@@ -156,6 +173,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Zastoupení členem domácnosti
   * Omezení svéprávnosti
 * Koblížek.
+* Definiční znaky
+* Nasciturus
+* Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -209,6 +229,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 436 - 488
+- [ ] Zastoupení
+- [ ] Opatrovnictví
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -219,6 +241,58 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Zastoupení**
+  - O zastoupení se jedná v případě, že jeden jedná za druhého jeho jménem a z tohoto jednání vznikají práva a povinnosti zatupovanému.
+  - V případě, že není zřejmé, že někdo jedná za někoho jiného platí, že jedná na vlastní jméno - prokázat, že jedná za jiného může **plnou mocí**.
+  - Zástupcem nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže zastupený o takovémto rozporu věděl, nebo vědět musel.
+  - Zástupce musí jednat vždy osobně, jednat může i prostřednictvím zástupce, ale pouze pokud si to ujednal se zastoupeným, nebo vyžaduje-li to nutná potřeba, odpovídá však za výběr zástupce.
+  - Pokud má zastoupený pro tutéž záležitost více zástupců platí, že každý zástupce může jednat samostatně.
+  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce.
+  - Existují dva druhy zastoupení **příme** a **nepřímé**, u přímého jedná zástupce na účet a jménem zastoupeného, práva a povinnosti tedy vznikají přímo zastoupenému, u nepřímého jedná na účet zastoupeného, ale svým vlastním jménem, právní následky tedy vznikají přímo u zástupce, a užitek ze zastoupení potom na zastoupeného musí převést.
+  - Druhy zastoupení:
+    - **Smluvní zastoupení** a **prokura**
+    - **Zákonné zastoupení**
+    - **Opatrovnictví**
+  - **Smluvní zastoupení**
+    - Strany: **Zmocnitel** a **zmocněnec**.
+    - Rozsah zmocnění je uveden v plné moci, u té postačí ověřené podpisy.
+    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku.
+    - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
+    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán.
+    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět.
+    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
+    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran, pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
+    - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
+  - **Prokura**
+    - Podnikatel zapsaný v obchodním rejstříku uděluje prokuru prokuristovi a zmocňuje ho tím ke všem právním jednáním, ke kterým dochází při provozu obchodního závodu nebo pobočky, zcizení a nebo zatížení však je možné pouze, pokud je to výslovně ujednáno.
+    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru.
+    - Výkon s péčí řádného hospodáře, vnitřní předpisy omezující prokuru nejsou závazné vůči třetím osobám i když byly zveřejněny.
+    - Zánik: obdobný jako u smluvního zastoupení + převodem nebo pachtem obchodního závodu, smrtí podnikatele nezaniká, ledaže bylo ujednáno něco jiného.
+  - **Zákonné zastoupení a opatrovnictví**
+    - Sleduje ochranu zastoupeného a jeho práv.
+    - Není třeba jakéhokoliv pověření, zastoupení stanovuje přímo zákon - například zastoupení nezletilích dětí v právním styku, kteří nemají plnou svéprávnost ze zákona.
+    - V případě střetu zájmů - soud jmenuje kolizního opatrovníka.
+    - Zákonnému zástupci a opatrovníkovi náleží běžná správa majetku zastoupeného, pokud jej spravují.
+    - Není možné za zastoupení požadovat odměnu - odměna je možná pouze pokud je spravován majetek, o její výši rozhoduje soud.
+    - Opatrovníka opatrovanci (zastoupené osobě) jmenuje soud a rovněž určí rozsah jeho práv a povinností.
+    - Soud opatrovníka odvolá v případě: opatrovník o to požádá, nebo neplní své povinnosti, soud rovněž jmenuje nového opatrovníka.
+    - Více opatrovníku jedná společně.
+  - **Opatrovnictví - specifická ustanovení**
+    - Soud jmenuje opatrovníka opatrovanci, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem: například při omezení na svéprávnosti, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání, nebo tomu, jehož zdravotní stav mu působí obtíže při správě svého majetku nebo hájení svých práv.
+    - Úkolem opatrovníka je udržovat s opatrovancem spojení, projevovat o opatrovance skutečný zájem, dbát o jeho zdravotní stav, starat se o naplnění jeho práv a chránit jeho zájmy.
+    - Opatrovník naplňuje plní svoje povinosti s ohledem na přání opatrovance, není-li to možné tak s ohledem na jeho nejlepší zájmy.
+    - Soud jmenuje opatrovníka v souladu s přáním opatrovance, nebo jím jmenuje osobu blízkou primárně.
+    - **Opatrovnická rada** - v případě, že je jmenován opatrovník, může opatrovanec, nebo kterákoliv osoba jemu blízká.
+      - Opatrovnická rada může schvalovat jistá specifická jednání opatrovníkovi, který je bez jejího souhlasu nemůže vykonat.
+      - Pokud je projeven zájem o opatrovnickou radu, ta ale není z nějakého důvodů možné zřídil, převezme její schvalovací práva soud.
+      - Opatrovnická rada projednává zprávy opatrovníka, soupisy jmění, může podat návrh na změnu výše odměny opatrovníka, nebo může k soudu podat návrh na odvolání opatrovníka.
+    - Opatrovník vyhotovuje soupis jmění pokud spravuje majetek opatrovance a při skončení správy vyhotoví rovněž vyúčtování správy.
+  - **Opatrovnictví právnické osoby**
+    - Soud jmenuje právnické osobě opatrovníka pokud je to potřeba, aby mohly být spravovány její zájmy, nebo hájená její práva.
+    - Opatrovníkem může být jmenován jen ten, který splňuje požadavky na členství ve statutárním orgánu (například plná svéprávnost, bezúhonnost ve smyslu živnostenského zákona, neprobíhající konkurz etc.)
+    - Opatrovník usiluje o obnovení správně funkčnosti a činnosti statutárního orgánu.
+    - Zakladatelské právní jednání může určovat kdo má být pro tyto případy jemnován opatrovníkem.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -238,6 +312,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Věci
+- [ ] Součást a příslušenství
+- [ ] Cenný papír
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -245,6 +323,42 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Věci
+  - Vše co je odlišné od osoby a slouží potřebě lidí.
+  - Věc určená k obecnému užívání je veřejný statek.
+  - **Plod** - co poskytuje věc ze své přirozené povahy.
+  - **Užitek** - co věc pravidelně poskytuje ze své právní povahy.
+  - **Cena** - hodnota věci v penězích, určí se jako cena obvyklá pokud není ujednáno jinak, nebo jinak nestanoví zákon.
+  - Lidské tělo ani jeho část není věcí.
+  - Rovněž živé zvíře není věcí, nýbrž se jedná o živé zvíře, ustanovení o věci se na něj použijí jen v rozsahu, ve kterém to neodporuje jeho povaze.
+  - **Majetek** - souhrn všeho co osobě patří.
+  - **Jmění** - souhrn majetku a dluhů.
+  - Rozdělení věcí jako takové:
+    - **Věci hmotné a nehmotné** -
+    - **Ovladatelné přírodní síly** - 
+    - **Nemovité a movité věci** - 
+    - **Zastupitelné věci** - 
+    - **Zuživatelné věci** - 
+    - **Hromadné věci** - 
+    - **Obchodní závod** - 
+    - **Pobočka** - 
+    - **Obchodní tajemství** -
+- Součást věci a její příslušenství
+  - **Součást** -
+  - **Příslušenství** - 
+- Cenný papír
+  - Cenný papír je papír, se kterým je spojeno právo, které bez daného cenného papíru nelze uplatnit nebo převést - jedná se tedy o právo potvrzené daným cenným papírem.
+  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky etc.
+  - **Zastupitelné cenné papíry** - jedná se o **věc zastupitelnou**, tedy o cenné papíry téhož druhu jež jsou svým právním obsahem stejné,~~, pokud je uplatněno právo z jednoho, ostatní zanikají.~~ jedná se tedy například o akcie, vydané stejným emitentem se stejnou formou o stejné jmenovité hodnotě.
+  - **Forma cenného papíru:**
+    - Na jméno - 
+    - Na řad - 
+    - Na doručitele - 
+  - **Emise cenného papíru** - 
+  - **Vydání cenného papíru** - 
+  - **Stejnopisy cenného papíru** - 
+  - **Kupón** - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -272,6 +386,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Svépomoc je okolností vylučující protiprávnost.
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -290,6 +406,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Právní skutečnosti
+- [ ] Právní jednání
+  - [ ] Pojem
+  - [ ] Náležitosti
+  - [ ] Vady a jejich následky
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -297,6 +419,11 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Právní skutečnosti**
+  - Právní skutečností jest.
+- **Právní jednání**
+  - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -896,6 +1023,41 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Jedná se o způsob řešení sporů mimo klasické soudní řízení.
+
+Základnímy typy jsou:
+
+rozhodčí řízení
+
+mediace a konsiliace
+
+finanční arbitr
+
+- **Alternativní řešení sporů (Mimosoudní řešení sporů)**
+  - Jedná se o alternativní řešení ke klasickému soudnímu sporu, strany sporu si je můžou dobrovolně zvolit, je tedy fakultativní a může být započato jen na návrh některých ze stran.
+  - Jsou standardně poskytovány osobami soukromé povahy a účastníci mají velký možnost ovlivnit celý průběh a tím i výsledek celého procesu.
+  - Řídí se odlišnými pravidly a uplatňují se v nich jiné principy.
+  - Jsou standardně uplatňované v rámci spotřebitelských sporů, ale je možné je uplatnit i v klasických sporech.
+  - Řídí se podle několika zákonů, a to především: **Občanský soudní řád**, **Zákon o mediaci**, **Zákon o rozhodčím řízení**, **Zákon o ochraně spotřebitele**, **Občanský zákoník**, **Zákon o zvláštních řízeních soudních** a **Zákon o České obchodní inspekci**.
+  - V rámci těchto zákonů existuje několik druhů mimosoudního řešení sporů, a to jak zákonnem upravených, tak i zákonnem neupravených:
+    - Zákonem neupravené řešení sporů
+      - **Níže popsané způsoby se týkají zejména dlouhodobých smluvních vztahů.**
+      - **Renegociace** - znovuvyjednání podmínek, změn, které vyřeší spor, jedná se spíše o prevenci řešení sporů, záleží na stranách a na jejich vůli, aby si mezi sebou nové podmínky upravili.
+      - **Předarbitrážní urovnání sporů** - jedná se o specifické formy urovnání sporů, které jsou běžně na vůli stran bez zákonného vymezení (**až na předarbitrážní řízení před rozhodčím**)
+        - **Smírčí skupina** - neformální doporučení skupiny několik nestranných osob seznámených s dannou činností, mohou být rozhodci v případné arbitráže, vydávají tedy nezávazné doporučení, na základě kterého může proběhnout například zmíněná renegociace.
+        - **Expertní zásah** - jedná se o nestranného experta, který posuzuje výhradně otázky technického směru, pokud se strany smluvně dohodnout, mohou tyto posouzení pro ně být závazné - tento způsob řešení sporu je podporován **Mezinárodní obchodní komorou**.
+        - **Předarbitrážní řízení před rozhodčím** - do 30 dnů rozhodce vydá určitý příkaz na žádost některé ze stran, jedná se o obdobu **soudního předběžného opatření**, jeho účelem je dočasně upravit poměry stran za účelem pozdějšího řízení a rozhodnutí sporu
+    - Zákonem upravené řešení sporů
+      - Mediace - závazná v případě potvrzení soudem a nebo sepsáním notářské zápisy se svolením k přímé vykonatelnosti.
+      - Rozhodčí řízení (arbitráž)
+      - Finanční arbitráž u finančního arbitra
+      - Mezinárodní arbitráž
+      - Soudní smír (smírčí řízení)
+      - Alternativní řešení sporů (ADR) u ČOI, TKÚ a ERÚ a další (například ČAK, Ombudsman u České asociace pojišťoven atd.) - mělo by se svojí formou jednat o mediaci
+- Řešení sporů spotřebitele a podnikatele, nebo jiných osob.
+- Mediace u ČOI se nazývá konciliace.
+- Abstrahovat
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -919,6 +1081,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -945,6 +1109,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -997,6 +1163,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1076,6 +1244,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+V obchod-A_2017_18
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1101,6 +1271,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+Částečně v obchod-A_2017_18
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -3159,6 +3331,18 @@ Kurzy
   - Působí na něj vnější faktory.
   - Tyto faktory ovlivňují podnikání.
   - Pokud je tak například daná oblast (stát) postavená na netržních pojetích hospodářství - například uzavřená, centrálně plánovaná ekonomika, podnikat tam určitě nepůjde.
+  - Okolí podniku tvoří kvůli globalizaci prakticky celý svět.
+  - Jsou hmotné a nehmotné prvky okolý podniku.
+  - Česko je součástí **evropského jednotného trhu** což v rámci okolí podniku otevřelo mnoho nových možností ale také zvýšilo konkurenci.
+  - **Jednotlivé prvky okolí podniku**:
+    - Geografické,
+    - sociální - okolí ve smyslu důsledků své činnosti pro společnost, jedná se o jakousi sociální odpovědnost podniku, který by měl být prospěšný i svému okolí,
+    - politické a právní,
+    - ekonomické,
+    - ekologické,
+    - technologické,
+    - etické,
+    - kulturně historické.
 - **Ekonomická podstata podnikání**
     - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
     - Působit jako důležitý subjekt v rámci trhu.
@@ -3228,6 +3412,19 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Finanční řízení podniku
+  - [ ] Finanční management - organizace
+  - [ ] Finanční management - hlavní úkoly
+- [ ] Finanční analýza
+  - [ ] Nástroje pro rozhodování finančního managementu
+- [ ] Financování podniku
+  - [ ] Vnější a vnitřní zdroje
+  - [ ] Finanční uzávěrka - rozvaha
+- [ ] Hospodářský výsledek podniku
+  - [ ] Rentabilita
+  - [ ] Výsledovka
+- [ ] Majetková a kapitálová struktura podniku
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
@@ -3288,9 +3485,141 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Cenová strategie
+- [x] Odbyt a marketing
+  - [x] Marketingový mix
+  - [x] Životní cyklus produktu
+  - [x] Řízení distribučních kanálů
+  - [x] Marketingová komunikace
+  - [x] Propagační mix
+  - [x] Marketingová inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Cenová strategie**
+
+  - Za jaké ceny bude firma prodávat své zboží a služby?
+  - V rámci jednotlivých fází - vstup na trhu, působení na trhu a obchod z trhu potřebuje firma dosahovat různých cílů, vzhledem k monopolistické konkurenci jim cenová politika pomáhá v jednotlivých fázích ve smyslu cenové konkurence.
+  - Týká se:
+    - Stanovení ceny,
+    - jednotnosti ceny, nebo jejich rozdílnost - targeting positioning, segmentace,
+    - Vývoj cen v čase a jejich změny,
+    - důvody změny cen.
+  - Probíhá zde vytváření cen:
+    - Hodnotová,
+    - tržní (poptávková),
+    - nákladová,
+    - konkurenční.
+  - Cenová politika má své cíle: vstup na tri, dosažení vyššího podílu na trhu,maximalizace zisku, přežití etc.
+  - Nejčastější nástroje cenové politiky: **slevy**, **zaváděcí ceny**, **dumping**, **vysoká cena u luxusního zboží - image**.
+
+- Odbyt a marketing
+
+  - **Odbyt** - završení podnikového reprodukčního procesu zaměřeného na uspokojování potřeb - dovedení výrobku ke spotřebiteli - dosažení cíle podnikání - tedy přenechání statku jinému subjektu za určité protiplnění.
+
+  - V tržním hospodářstí není problém zboží vyrobit, ale prodat jej, neboť trh prodávajícího je nahrazen trhem kupujícího - záleží tedy na poptávce (potřebě).
+
+  - Aby firmy **měly odbyt** musí se ve své činnosti orientovat na potřeby a přání svých zákazníků, členů, klientů - **Marketing**.
+
+  - **Marketing není jen dělání reklamy, je to poměrně rozsáhlý souhrn činností!!**
+
+  - Marketing musí tyto potřeby zjišťovat, popřípadě **je vyvolávat** a současně s tím hledat způsoby jak je uspokojovat.
+
+  - Jedna z definic marketingu může znít: *"Marketing je lidská činnost, umožňující organizaci zjistit neuspokojené potřeby a přání, přeměnit je do podoby ziskových příležitostí a tento zisk realizovat."*
+
+  - Pro uplatňování marketingového přístupu musí být splněny jisté podmínky ve smylu **okolí podniku** - tedy například **ekonomické, sociální, právní, politické** - například centrální řízení a omezená funkce trhu na straně nabídky nebo poptávky marketing téměř neumožňuje!!
+
+  - Marketingová forma odbytu funguje pouze v tržním prostředí, neplatí však, že sama existence tržního prostředí nezbytně vede k tomu, že jediná forma odbytu je marketingová forma.
+
+  - Dílčí oblastí v rámci odbytu je **prodej** - prodávající se zavazuje převést na kupujícího vlastnické právo k užívání a kupující se zavazuje uhradit kupní cenu.
+
+  - **Při prodeji se tedy uplatňuje několik dílčích činností:**
+
+    - tvorba strategie a plánování prodeje,
+    - příjem zakázek a zakázkové řízení,
+    - kontakty se zákazníky,
+    - analýza prodeje,
+    - fyzická distribuce,
+    - řízení zásob hotových výrobků a jejich skladování,
+    - balení a adjust ace,
+    - předání příkazu k fakturaci.
+
+  - Firma pro tytyo činnosti nemusí využívat marketingový přístup, u společností, které marketing využívají spadají tyto dílčí činnosti pod **marketingový plán**.
+
+  - **Do marketingu spadají i další věci, například marketingové přístupy a metody v oblasti nákupních činností podniku - to totiž značně souvisí s plánováním zásob, výroby a prodeje.**
+
+  - **K nejdůležitějším funkcím marketingu patří rozhodování o tom, jaké výrobky a komu nabídnout, jak komunikovat se zákazníkem, a jakou cenu mu nabídnout + inovace.**
+
+  - **Marketingový plán**
+
+    - Marketingový plán odbytu má několik dílčích kroků:
+      1. tržní diagnóza - momentální tržní situace a finanční stránka podniku, **marketignové oddělení musí rovněž sbírat a vyhodnocovat veškeré relevantní informace**,
+      2. tržní prognóza - vývoj na trhu,
+      3. plánování cílů - strategické - obecné a taktické - jednotlivé cíle odbytové politiky,
+      4. plánování **marketingového mixu**,
+         - Také takzvaný **4P**,
+         - produkt - vše co se týká výrobu, inovace a její výsledky, má dopad i na business plán,
+         - price - stanovování ceny, viz cenová strategie výše,
+         - propagace - segmantace, targeting a positioning, reklama, public relations,
+           - Propagace musí zákazníkovi přinést následující informace:
+             - Výrobek existuje, kde lze získat, k čemu slouží, cena, péče o výrobek, používání výrobku, životnost výrobku - zde se jedná o **komunikační mix**.
+         - place (distribuce) - jakými kanály zboří prodávat - standardně - **prodejna**, **přímý prodej**, **velkoobchod**, **prodejce** (dealer, broker, prodejní agentura etc.), **jen přes internet**.
+      5. sestavení rozpočtu - porovnání příjmů a výdajů spojených s dosaženým požadované výše odbytu.
+    - **Pro největší spokojenost zákazníka se používá taktika čtyř C:**
+      - celkový užitek zákazníka,
+      - celkové i nefinanční náklady na získání a užití výrobku,
+      - komfort spojený s nákupem výrobku, s jeho užíváním a s jeho následnou likvidací,
+      - Oboustranná komunikace - acquisition and retention.
+
+  - Životní cyklus produktu
+
+    - **BCG matice** - také popisuje jednotlivé fáze produktu a říká jak s nimi naložit:
+
+      - |                   | Vysoký tržní podíl | Nízký tržní podíl |
+        | ----------------- | ------------------ | ----------------- |
+        | Vysoká míra růstu | Hvězdy             | Otazníky          |
+        | Nízká míra růstu  | Dojné krávy        | Bídní psy         |
+
+        Hvězdy - předělat v dojné krávy, dojné krávy - udržet, stabilní zisk pro firmu, otazníky - rozdělit na perspektivní -> dojné krávy, ostatní eliminovat, bídní psy - utlumit výrobu a stáhnout z trhu.
+
+    - Životní cyklus produktu jest časovým úsekem mezi zavedením a stažením produktu z trhu, má několik fází.
+
+      - **Vývojová fáze** - vývoj produktu, nulový zisk, vysoké náklady - ztráta na produktu
+      - **Fáze zavádějící** - uvedení na trh, risk, zda se produktu uchytí, výdaje mohou být stále větší než příjmy
+      - **Fáze růstová** - prosazení na trhu - zisk,
+      - **Fáze zralosti** - produkt je zavedený a kupovaný, tato fáze trvá dlouho a postupně se přeléva v úpadek, zisky jsou stabilní ale postupně začínají klesat - tendence vyššího investování do marketingu - může být prodloužena modifikací produktu, trhu nebo marketingového mixu
+      - **Fáze úpadku** - záleží na typu produktu, některé jsou nestárnoucí, ale produkt je časem překonám, změní se preference spotřebitelů etc. - začnou klesat prodeje a zisky, společně s fází zralosti dvě nejdeší části - může být na čas zvráceno **inovací** - produktu, nové variace, vyřazování výrobku - cenová politika, snížení ceny.
+
+  - **Distribuční kanály**
+
+    - Viz marketingový mix
+    - Standardně prodej napřímo, nebo pomocí zprostředkovatelů - velkoobchody, maloobchody etc.
+    - Záleží na mnoha faktorech - umístění, velikosti, segmentaci, targetingu etc.
+    - Záleží i na cílovém trhu.
+
+  - **Marketingová komunikace**
+
+    - Komunikace informací novým a stávajícím zákazníkům.
+    - Komerční - například akvizice a prodej, nekomerční - support.
+    - Patří sem jak osobní komunikační kanály - například event marketing, tak i neosobní - offline reklama (venkovní reklama), internetová reklama (obsahovka, PPC).
+    - Důležitou informační součástí **CRM**.
+
+  - **Propagační mix:**
+
+    - Cílené oslovení kupujících s určitým sdělením, snaha ovlivnit chování zákazníka a přinutit ho ke koupi.
+    - podpora prodeje - například kupóny, dárky, ochutnávky, cenové stimuly, soutěže, prémie, věrnostní programy etc.,
+    - reklama
+    - prodejní personál,
+    - PR - vytváření dobé image, press relation, firemní akce, sponzoring etc.,
+    - přímý marketing - oslovování klientů na základě dat z databáze, přímé oslovování etc.
+
+  - **Marketingové inovace:**
+
+    - Jedná se o zavedení nových marketingových metod zahrnujících zásadní změny v produkt design nebo packaging, product plamenent, product promotion nebo pricing.
+    - Zaměřená na lepší vyhodnocování a reakci na potřeby zákazníků, otevírání nových trhů, nový positioning produktu na trhu s cílem zvýšení prodejů firmy a jejich zisků.
+    - Zásadní rozdíl mezi inovací a pouhou změnou tkví v implementaci marketingové metody, která nebyla nikdy předtím používána, musí být součástí nového marketigového konceptu nebo strategie zvýrazněný zásadní změnou oproti stávajícím firemním marketingovým metodám.
 
 ----
 
@@ -3306,9 +3635,27 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Tržní hodnota podniku
+  - [ ] Faktory tvorby hodnoty
+  - [ ] Měření hodnoty podniku
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Tržní hodnota podniku**
+  - Tržní hodnota firmy a její růst.
+  - Patří k základním cílům finančního managementu.
+  - Neexistuje univerzální ocenění podniku, jen mnoho druhů, používá se řada metod a postupů, metody je třeba vždy volit v souladu s účelem ocenění.
+  - Ocenění má krátkodobý charakter - mění se jak vnější tak i vnitřní podnímky podniku.
+  - **Faktory tvorby hodnoty**
+    - Doplnit
+  - **Měření hodnoty podniku**
+    - Majetkový princip - účetní hodnota, substanční hodnota
+    - Výnosový princip - kapitalizované výnosy, dividendový diskontní mdel, diskontovaný FGFE, FCFF, EVA
+    - Kombinovaný
+    - Na tržním principu - tržní multiplikátor, srovnatelných trancakcí
+    - Reálných opcí
 
 ----
 
@@ -3531,9 +3878,33 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Projektové řézení
+  - [ ] Dilema projektového řízení
+  - [x] Věcná a proesní stránka projektu
+  - [ ] Faktory úspěchu projektu
+  - [ ] Projektová řídící struktura
+  - [ ] Nástroje pro řízení projetku
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Dilema projektového řízení**
+  - Záměr projektu je třeba realizovat v daném čase s danými zdroji
+  - Jedná se tedy o trojúhelník
+  - Tyto parametry spolu souvisí a nelze je nezávisle měnit
+  - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Dilema_projektu.png)
+- **Věcná a procesní stránka projektu**
+  - Jsou to dvě složky projetku
+  - Vedou k úspěchu projektu
+  - Všechny dílčí fáze spadají pod tři hlavní nadfáze - 1. Příprava, 2. Plán a Realizace, 3. Využívání
+  - **Věcná stránka zahrnuje několik dílčích fází v procesu**
+    - Diagnóza (jedná se o zhodnocení stávající situace - například SWOT, rizika, konkurence, příležitosti etc.) -> Vize (vize jak reagovat na diagnózu, tzn. obchodní záměr, cílový stav, přínosy etc.) -> Design (vesměs se jedná o plány a o organizaci projetku jako takového, tedy například akceptační kritéria, formy komunikace, hodnocení úspěchu, rozpočet, návrh řešení etc.) -> Řešení (fáze ve které se účastníci projetku snaží vyřešit nadesignované řešení, jedná se tedy o realizaci řešení před jeho implementací, koordinace, kontrola, reporting, testování etc.) -> Zavedení (jedná se o zavedení vytvořených změn do provozu, nemusí být ostrý provoz, může se jednat o finální testing, kontrolu kvality, pilotní ověření, realizaci změn, výsledky vyhodnocení, rozpočty vyhodnocení, uvedení do provozu, kontroling, dokumentace) -> Provoz (uvedení do ostrého provozu, rutinní používání, vyhodnocení real life přínosů, zpětná vazba)
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Vecne_rizeni.png)
+  - **Procesní stránka projektu**
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Procesni_rizeni.png)
+  - **Faktory úspěchu projektu**
+    - Faktory úspěchu projektu jsou faktory, dle nichž lze hodnotit úspěch projektu v rámci jeho finální fáze, tedy **Využívání**.
 
 ----
 

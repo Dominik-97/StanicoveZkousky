@@ -3893,16 +3893,16 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - Záměr projektu je třeba realizovat v daném čase s danými zdroji
   - Jedná se tedy o trojúhelník
   - Tyto parametry spolu souvisí a nelze je nezávisle měnit
-  - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Dilema_projektu.pgn)
+  - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Dilema_projektu.png)
 - **Věcná a procesní stránka projektu**
   - Jsou to dvě složky projetku
   - Vedou k úspěchu projektu
   - Všechny dílčí fáze spadají pod tři hlavní nadfáze - 1. Příprava, 2. Plán a Realizace, 3. Využívání
   - **Věcná stránka zahrnuje několik dílčích fází v procesu**
     - Diagnóza (jedná se o zhodnocení stávající situace - například SWOT, rizika, konkurence, příležitosti etc.) -> Vize (vize jak reagovat na diagnózu, tzn. obchodní záměr, cílový stav, přínosy etc.) -> Design (vesměs se jedná o plány a o organizaci projetku jako takového, tedy například akceptační kritéria, formy komunikace, hodnocení úspěchu, rozpočet, návrh řešení etc.) -> Řešení (fáze ve které se účastníci projetku snaží vyřešit nadesignované řešení, jedná se tedy o realizaci řešení před jeho implementací, koordinace, kontrola, reporting, testování etc.) -> Zavedení (jedná se o zavedení vytvořených změn do provozu, nemusí být ostrý provoz, může se jednat o finální testing, kontrolu kvality, pilotní ověření, realizaci změn, výsledky vyhodnocení, rozpočty vyhodnocení, uvedení do provozu, kontroling, dokumentace) -> Provoz (uvedení do ostrého provozu, rutinní používání, vyhodnocení real life přínosů, zpětná vazba)
-    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Vecne_rizeni.pgn)
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Vecne_rizeni.png)
   - **Procesní stránka projektu**
-    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Procesni_rizeni.pgn)
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Procesni_rizeni.png)
   - **Faktory úspěchu projektu**
     - Faktory úspěchu projektu jsou faktory, dle nichž lze hodnotit úspěch projektu v rámci jeho finální fáze, tedy **Využívání**.
 
