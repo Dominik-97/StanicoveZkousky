@@ -3861,7 +3861,7 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|---------\| <br>
 
 - [ ] Řízení rizik
-  - [ ] Definice rizika a nejistoty
+  - [x] Definice rizika a nejistoty
   - [ ] Kategorizace rizik
   - [ ] Metody měření a ošetření rizik
   - [ ] Risk Apettite
@@ -3889,6 +3889,10 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - Podle firemní procesů - 
     - Podle podnikatelských aktivit - 
     - Podle obecně závazných pravidel - 
+- **Metody měření a ošetření rizika**
+  - No
+- **Risk Appetite**
+  - Jedná se o ochotu akceptovat riziko - riziková expozice, kterou je daný subjekt ve sledovaném období ochoten akceptovat v podmínkách existence daného rizika, odvozuje se například od variability ROE (return on equity) a výše vlastního jmění (vlastního kapitálu).
 
 ----
 :::
