@@ -3860,9 +3860,35 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Řízení rizik
+  - [ ] Definice rizika a nejistoty
+  - [ ] Kategorizace rizik
+  - [ ] Metody měření a ošetření rizik
+  - [ ] Risk Apettite
+  - [ ] Organizace řízení rizik ve společnosti
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Definice rizika a nejistoty**
+  - Riziko je hrozba, že určité jednání nebo událost negativně ovlivní schopnost instituce naplnit strategii a dosáhnout cílů
+  - Riziko je hrozba, že s určitou pravděpodobností dojde k události, jež se liší od předpokládaného stavu či vývoje, přitom:
+    - výsledek musí být nejistý, existují alespoň dvě varianty řešení
+    - alespoň jeden z možných výsledků musí být nežádoucí
+  - **Riziko má dvě dimenze**
+    - Pravděpodobnost, že nastane
+    - Velikost jeho dopadu
+  - **Riziko musí být:**
+    - Identifikovatelné
+    - Hodnotitelné
+    - Uchopitelné pro rozhodování o jeho ošetření
+  - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
+- **Kategorizace rizik**
+  - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
+    - Podle firemní procesů - 
+    - Podle podnikatelských aktivit - 
+    - Podle obecně závazných pravidel - 
 
 ----
 :::
@@ -3882,7 +3908,7 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - [ ] Dilema projektového řízení
   - [x] Věcná a proesní stránka projektu
   - [ ] Faktory úspěchu projektu
-  - [ ] Projektová řídící struktura
+  - [x] Projektová řídící struktura
   - [ ] Nástroje pro řízení projetku
 
 \|------------------------------\| <br>
@@ -3905,6 +3931,17 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Procesni_rizeni.png)
   - **Faktory úspěchu projektu**
     - Faktory úspěchu projektu jsou faktory, dle nichž lze hodnotit úspěch projektu v rámci jeho finální fáze, tedy **Využívání**.
+    - Ke zhodnocení úspěchu projektu je nutné stanovit **měřitelné indikátory**.
+  - **Projektová řídící struktura**
+    - Jedná se o jednotlivé články projektu, standardně se dá vyobrazit následovně:
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Ridici_struktura.png)
+    - Je však nutné říci, že každý projekt může mýt nastavenou různou projektovou řídící strukturu a do projektu mohou být zapojeny různí jednotlivci a organizace.
+    - **Zákazník projektu** - zadavatel projetku, například firma, jednotlivec, stát, obec
+    - **Sponzor projektu** - standardně owner projetku, tedy odpovědný zástupce zákazníka projetku **manažer**, **oddělení**
+    - **Kontrolor projetku** - jak na straně zákazníka, tak dodavatele (může být, měl by být), záleží jestli je projekt outsorcován nějakému dodavateli, nebo zda se uvolní interní pracovní síla k realizaci projektu.
+    - **Řídící výbor** - většinou se sestává ze sponzora projektu, a dalších vrcholných řídících článků projektu (tedy většinou manažerů projektu)
+  - **Nástroje pro řízení projektu**
+    - Doplnit
 
 ----
 :::
