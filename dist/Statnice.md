@@ -1236,7 +1236,13 @@ finanční arbitr
   - **Sídlo podnikatele**
     - Druhý nejdůležitější identifikační údaj.
     - Je důležitý pro určování příslušnosti Orgánu Veřejné Moci, soudu etc.
-    - Doplnit
+    - = *prostor, ve kterém podnikatel reálně provozuje podnikatelskou činnost či odkud je jeho podnikatelská činnost řízena (**sídlo skutečné**),* nebo *jakýkoli prostor označený podnikatelem jako jeho sídlo, i když není jeho skutečným sídlem (**sídlo formální, statutární**)*
+    - OZ rozlišuje sídlo podnikatele zapsaného v OR a sídlo nezapsaného podnikatele
+    - sídlo podnikatele ve VR musí být v prostorách, ke kterým má podnikatel **relevantní právní titul** (§ 14 ZVR)
+    - u PO může být v zakladatelském p. jednání jen název obce, ale ve VR pak vždy celá adresa sídla
+    - podnikatel-FO, který není v OR: jeho sídlem je místo, kde má hlavní závod, nemá-li ho > jeho bydliště (bydlištěm je místo, kde se podnikatel zdržuje s úmyslem žít tam trvale)
+    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného 
+    - zahraniční osoba může do ČR přemístit sídlo, ale musí zvolit p. formu české PO, bude se řídit českým právem, nelze u OK v likvidaci, insolvenci (platí obdobně i pro české osoby, umožňuje-li to p. řád státu, kam přemisťují)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
