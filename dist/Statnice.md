@@ -1262,6 +1262,11 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Obchodní firma
+- [ ] Obchodní tajemství
+- [ ] Jejich ochrana
+- [ ] Obchodní listiny
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1269,6 +1274,11 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Obchodní listiny**
+  - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
+  - Obchodními listinami budou všechny listiny, které používá podnikatel v právním styku při své podnikatelské činnosti.
+  - Obchodními listinami však nejsou interní listiny, které podnikatel používá v rámci svého závodu.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1289,6 +1299,13 @@ finanční arbitr
 \|---------\| <br>
 
 Částečně v obchod-A_2017_18
+
+- [ ] Právní jednání podnikatele FO
+- [ ] Právní jednání podnikatele PO
+- [ ] Prokura
+- [ ] Opatrovník
+- [ ] Vedoucí odštěpného závodu
+- [ ] Osoba pověřená určitou činností při provozu závodu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1316,6 +1333,8 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Právní úprava živnostenského podnikání
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1341,6 +1360,10 @@ finanční arbitr
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Právní úprava neživnostenského podnikání
+
+- [ ] Podnikání zahraničních osob v České republice
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1369,6 +1392,11 @@ finanční arbitr
 \|---------\| <br>
 
 V obchod-A_2017_18
+
+- [ ] Obchodní rejstřík
+- [ ] Pojem a faunkce obchodního rejstříku
+- [ ] Princip publicity
+- [ ] Živnostenský rejstřík
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
