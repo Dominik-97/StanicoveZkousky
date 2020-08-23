@@ -1126,8 +1126,8 @@ finanční arbitr
   - **Prameny obchodního práva**
     - zásadní je kodifikace z roku 2012, historicky byl pramenem obchodní/hospodářský zákoník
     - v roce 2012 -> kodifikace soukromého práva -> primárním pramenem se tedy stal občanský zákoník a zákon o obchodních korporacích a živnostenský zákon
-    - základním vnitrostátním pramenem ObP je tedy **občanský zákoník (OZ)** – obsahuje def. podnikatele, úpravu jeho jednání, firemního práva, sídla podnikatele a další úpravy, **které jsou základem obecné části ObP** + odchylná úprava závazkového práva, dále v OZ cenné papíry, vymezení závodu a pobočky,
-    - úprava obch. korporací (vznik, založení a vnitřní poměry) upravuje **zákon o obchodních korporacích (ZOK)**
+    - základním vnitrostátním pramenem ObP je tedy **občanský zákoník (OZ)** – obsahuje def. podnikatele, úpravu jeho jednání, firemního práva, sídla podnikatele a další úpravy, **které jsou základem obecné části ObP** + odchylná úprava závazkového práva, dále v OZ cenné papíry, vymezení závodu a pobočky, obecná úprava
+    - úprava obch. korporací (vznik, založení a vnitřní poměry) upravuje **zákon o obchodních korporacích (ZOK)**, specifická úprava
     - **Krom těchto hlavních pramenů jsou pro obchodní právo důležité i další právní předpisy**
       - Zákon o přeměnách obchodních společností a družstvem, zákon o nabídkách převzetí
       - Zákony upravující postavení specifických typů podnikatelů, například zákon o ČNB, zákon o bankách, zákon o státním podniku, zákon o pojišťovnictví
