@@ -1084,10 +1084,10 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
-- [ ] Pojem
-- [ ] Povaha
-- [ ] Předmět
-- [ ] Systém a prameny obchodního práva
+- [x] Pojem
+- [x] Povaha
+- [x] Předmět
+- [x] Systém a prameny obchodního práva
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1135,7 +1135,16 @@ finanční arbitr
       - zákon o veřejných rejstřících PO a FO -> součást úpravy i OR = **veřejný rejstřík**, do něhož se povinně zapisují podnikající FO a PO splňující zákonná kritéria a další osoby, jimž tuto povinnost stanoví zákon a další skutečnosti, které mohou být na vůli daného podnikatele (například odštěpný závod)
       - a další zákony jako, zákon o ochraně hospodářské soutěže, zákon o účetnictví, insolvenční zákon (o úpadku a způsobu jeho řešení), zákon o ochraně spotřebitele a další
     - Dalšími prameny Obchodního práva jsou **podzákoné právní předpisy** nebo **právní zásady (principy)**
-      - Doplnit
+      - Jak tradiční principy soukromého práva, jejichž příkladný výčet obsahuje OZ, tak i principy formulované judikaturou soudů a další specifické obchodní principy -> například zásada profesionality a odborné péče, zásada poctivého obchodního styku, zákaz zneužití hlasovacích práv k újmě Obchodní korporace, zásada "kdo volí, odvolává", zásada rovného zacházení se všemi akcionáři atd.
+    - Konečně jsou důležitým pramenem Obchodního práva **obchodní zvyklosti**
+      - Jedná se o pravidla ustálená obchodní praxí, která jsou podnikateli uplatňována a respektována **všeobecně v obchodě**, **v některém** obchodním odvětví či pouze **mezi konkrétními smluvními stranami**.
+      - samy o sobě nejsou pramenem práva - normativní funkci mají díky normě obsažené v **§558 odstavec 2**:
+        - v právním styku podnikatelů se k nim přihlíží ledaže to vyloučí ujednání stran nebo zákon,
+        - obchodní zvyklosti mají přednost před ustanovením zákona, které nemá **donucující účinky, tedy není kogentní**, lze se jich dovolat prokáže-li se, že je druhá strana musela znát a s postupem podle nich byla srozuměna
+    - Jako poslední pramen je **soudní judikatura** - naše soudy i evropská judikatura
+    - a **prameny Obchodního práva EU**
+      - především právo hospodářské soutěže, judikatura EU, respektive Evropského soudního dvora, primární i sekundární právo EU
+      - eurokonformní výklad, možnosti **předběžné otázky**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1157,6 +1166,17 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
+- [ ] Pojmy podnikatel
+  - [ ] Podnikání
+  - [x] Obchodní závod
+  - [x] Pobočka
+  - [x] Odštěpný závod
+  - [x] Majetek
+  - [x] Jmění
+- [ ] Členění podnikatelů
+  - [ ] Právnické osoby
+- [ ] Sídlo podnikatele
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1164,6 +1184,52 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Podnikatel**
+  - Pojem podnikatel  - všechny osoby, které fakticky podnikají, a to bez ohledu na jejich věk nebo schopnosti.
+  - (§ 5(2) nelze proti vůli dotčené (chráněné) strany zpochybnit povahu nebo platnost PJ jen proto, že ten, kdo jednal, neměl k činnosti oprávnění nebo mu byla zakázána - kdokoliv, kdo se prohlásí za podnikatele v právním styku
+  - Definice podnikatele pomocí znaků vykonnávané činnosti (podle § 420 OZ) - **podnikání**
+    - **vykonává výdělečnou činnost** - je vykonávána za úplatu, má být zdrojem příjmů,
+    - **samostatně** - sám, podle své úvahy, vylučuje například závislou práci,
+    - **na vlastní účet a odpovědnost** - daná osoba nese rizika z provozované činnosti,
+    - **živnostenským nebo obdobným způsobem** - *spory o výklad (existence VP oprávnění X výkon činností v ŽivZ či jiných předpisech i bez oprávnění X nabízení zboží a služeb 3. osobám)*,
+    - **se záměrem činnit tak soustavně** - musí být úmysl činnost opakovat,
+    - **za účelem dosažení zisku** - ziskem (prospěchem) je třeba rozumět kladný hosp. výsledek
+  - není podstatné, jestli podnikatel vykonává hlavní nebo vedlejší činnost, respektive zda je podnikání hlavním, nebo vedlejším předmětem jeho činnosti, v soukromoprávních jednáních vystupuje jako podnikatel v takových jednáních, která se týkají jeho podnikatelské činnosti, v ostatních vystupuje jako běžná osoba
+  - **důležitá je objektivní pozice určité osoby jako podnikatele**, nikoli jestli je tento stav znám i druhé straně
+  - **plnoprávní podnikatelé**
+    - doplnit
+  - **neplnoprávní podnikatelé**
+    - doplnit
+- **Podnikání**
+  - Podníkání jest.
+- **Obchodní závod**
+  - § 502 OZ - Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
+  - Ve své podstatě se tak jedná o veškeré jmění, které podnikatel FO používá pro výkon své činnosti.
+  - U FO se za obchodní závod dá považovat obchodní majetek, společně s pasivi.
+- **Pobočka**
+  - § 503 OZ - (1) Pobočka je taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou.
+- **Odštěpný závod**
+  - § 503 OZ - (2) Je-li pobočka zapsána do obchodního rejstříku, jedná se o odštěpný závod; to platí i o jiné organizační složce, pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku. Vedoucí odštěpného závodu je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl jako vedoucí odštěpného závodu zapsán do obchodního rejstříku.
+- **Majetek**
+  - § 495 OZ - Souhrn všeho, co osobě patří, tvoří její majetek.
+- **Jmění**
+  - § 495 OZ - Jmění osoby tvoří souhrn jejího majetku a jejích dluhů.
+- **Členění podnikatelů**
+  - Podnikat může buď právnická nebo fyzická osoba
+  - Je tedy možné členit dle jednotlivých forem, tedy OSVČ u FO a jednotlivé formy právnických osob u PO
+  - **Členění, které je myšleno v této otázce je ale asi následující**
+    - **plnoprávní podnikatelé** 
+      - a) fikce podnikatele pro osoby zapsané v OR - § 421 (1)
+      - b) vyvratitelná právní domněnka pro osoby, které mají živnostenské nebo jiné oprávnění - § 421 (2)
+    - **neplnoprávní podnikatelé**
+      - fikce podnikatele jen pro určité účely (ochrana spotřebitele a opožděné platby v obchodních transakcích - § 1963) vůči profesionálům, s nimiž jsou spotřebitelé fakticky v nerovném postavení
+      - a) každá osoba, která uzavírá smlouvou související s vlastní obchodní nebo výrobní činností (i když této osobě chybí jeden ze znaků podnikání)
+      - b) osoba, která uzavírá smlouvy při samostatném výkonu svého povolání (např. advokáti, lékaři) – *problematické zařazení, splňují totiž současně znaky podnikání dle § 420 (1)*
+      - c) osoba jednající jménem nebo na účet podnikatele (sem ale nepatří zaměstnanci nebo jiní zástupci, jejichž jednání podnikatele přímo zavazuje; může jít tedy akorát o osoby-nepodnikatele, kt. jednají jménem podnikatele neoprávněně a jsou pak samy z PJ zavázány)
+  - Členění právnických osob
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
