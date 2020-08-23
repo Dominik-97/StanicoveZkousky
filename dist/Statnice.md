@@ -1166,15 +1166,15 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
-- [ ] Pojmy podnikatel
-  - [ ] Podnikání
+- [x] Pojmy podnikatel
+  - [x] Podnikání
   - [x] Obchodní závod
   - [x] Pobočka
   - [x] Odštěpný závod
   - [x] Majetek
   - [x] Jmění
-- [ ] Členění podnikatelů
-  - [ ] Právnické osoby
+- [x] Členění podnikatelů
+  - [x] Právnické osoby
 - [ ] Sídlo podnikatele
 
 \|--------------\| <br>
@@ -1198,9 +1198,9 @@ finanční arbitr
   - není podstatné, jestli podnikatel vykonává hlavní nebo vedlejší činnost, respektive zda je podnikání hlavním, nebo vedlejším předmětem jeho činnosti, v soukromoprávních jednáních vystupuje jako podnikatel v takových jednáních, která se týkají jeho podnikatelské činnosti, v ostatních vystupuje jako běžná osoba
   - **důležitá je objektivní pozice určité osoby jako podnikatele**, nikoli jestli je tento stav znám i druhé straně
   - **plnoprávní podnikatelé**
-    - doplnit
+    - Viz členění
   - **neplnoprávní podnikatelé**
-    - doplnit
+    - Viz členění
 - **Podnikání**
   - Podníkání jest.
 - **Obchodní závod**
@@ -1227,9 +1227,16 @@ finanční arbitr
       - a) každá osoba, která uzavírá smlouvou související s vlastní obchodní nebo výrobní činností (i když této osobě chybí jeden ze znaků podnikání)
       - b) osoba, která uzavírá smlouvy při samostatném výkonu svého povolání (např. advokáti, lékaři) – *problematické zařazení, splňují totiž současně znaky podnikání dle § 420 (1)*
       - c) osoba jednající jménem nebo na účet podnikatele (sem ale nepatří zaměstnanci nebo jiní zástupci, jejichž jednání podnikatele přímo zavazuje; může jít tedy akorát o osoby-nepodnikatele, kt. jednají jménem podnikatele neoprávněně a jsou pak samy z PJ zavázány)
-  - Členění právnických osob
-
-
+  - **Členění právnických osob**
+    - Nejobecněji právnické osoby - soukromoprávní a veřejnoprávní (obce a kraje)
+    - Další specifičtější členění na:
+      - **Korporace** - **spolek** a **obchodní korporace**, tvořeny corpusem = tělem, důležitá je tedy osobní složka
+      - **Fundace** - **nadace** a **nadační fondy**, tvořeny majetkem = podstatná je věcná část
+      - **Ústavy** - osobní a majetková část jsou spojeny
+  - **Sídlo podnikatele**
+    - Druhý nejdůležitější identifikační údaj.
+    - Je důležitý pro určování příslušnosti Orgánu Veřejné Moci, soudu etc.
+    - Doplnit
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
