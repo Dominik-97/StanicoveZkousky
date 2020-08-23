@@ -1084,6 +1084,11 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
+- [ ] Pojem
+- [ ] Povaha
+- [ ] Předmět
+- [ ] Systém a prameny obchodního práva
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1091,6 +1096,46 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Pojem**
+  - obchod-A_2017_18
+  - ObP = *soubor speciálních právních pravidel vztahujících se ke zvláštnostem obchodního života a upravujících postavení podnikatelů jako jeho hlavních účastníků*
+  - ObP je subsystémem občanského práva -> dáno zvláštní povahou podnikatele jako profesionála - §5 a §420 OZ
+    - dílčí odchylky od obecné úpravy (běžného subjektu občanského práva - občana, nepodnikající fyzické osoby) -> zpřísnění nároků na podnikatele, někdy odepření ochrany, co mají ostatní účastníci, nebo poskytnutí zvl. ochrany slabšímu podnikateli, ochrana spotřebitele jako slabší strany oproti podnikateli apod.
+  - i v ObP je nezbytné vycházet ze základních principů a dalších pravidel soukromého práva
+- **Povaha**
+  - ObP je **právem** **soukromým**, i když nese i určité **prvky** **práva** **veřejného** (OR, veřejnoprávní podnikání firem, soutěžní právo a hosp. soutěž,…) -> znak prolínání soukromého práva s veřejným
+    - ↪*soubor zvl. právních norem, jejichž obsahem jsou soukromoprávní pravidla upravující (specifické) postavení podnikatele + normy veřejného práva regulující rámec podnikatelské činnosti*
+  - veřejnoprávní úprava podnikání (ingerence státu do ekonomiky) bývá označována jako **právo hospodářské**
+  - pro ObP je typické výrazné spojení ekonomického a právního přístupu (např. používání ryze ekonomických pojmů jako např. *relevantní trh, dominantní či monopolní postavení*)
+- **Předmět**
+  - co je předmětem ObP? 2 koncepce:
+    - *objektivní princip* = vztahy související s obchodním PJ, s podnikáním; bez ohledu na povahu účastníků; Code de commerce 1807; starší koncepce
+    - *subjektivní princip* = vztahy, kterých se **účastní podnikatel** (obchodník), jako profesionál a to bez ohledu na povahu druhé strany; -> v praxi prolínání obou principů s převahou principu subjektivního
+  - podnikatel, dle **§ 5(1) OZ** je profesionál, který je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena (jedná-li bez ní > k jeho tíži)
+- **Systém a prameny obchodního práva**
+  - **Systém**
+    - **obecná část** ObP - Občanský zákoník
+      - **úprava podnikatelských subjektů** (jejich právního postavení, sídla, jednání, zastupování včetně prokury) a podmínky podnikání
+      - **otázky majetkového režimu** (úprava závodu, odštěpný a rodinný závod, organizační složky)
+        - otázky průmyslového vlastnictví, právo nekalé soutěže
+      - **obchodní obligační právo** (ustanovení o uzavírání smluv, změny a zánik závazků,…)
+    - **zvláštní část** ObP
+      - úprava smluvních typů uzavíraných výlučně podnikateli
+      - spadá sem také **úprava obchodních korporací** - Zákon o obchodních korporacích
+  - **Prameny obchodního práva**
+    - zásadní je kodifikace z roku 2012, historicky byl pramenem obchodní/hospodářský zákoník
+    - v roce 2012 -> kodifikace soukromého práva -> primárním pramenem se tedy stal občanský zákoník a zákon o obchodních korporacích a živnostenský zákon
+    - základním vnitrostátním pramenem ObP je tedy **občanský zákoník (OZ)** – obsahuje def. podnikatele, úpravu jeho jednání, firemního práva, sídla podnikatele a další úpravy, **které jsou základem obecné části ObP** + odchylná úprava závazkového práva, dále v OZ cenné papíry, vymezení závodu a pobočky,
+    - úprava obch. korporací (vznik, založení a vnitřní poměry) upravuje **zákon o obchodních korporacích (ZOK)**
+    - **Krom těchto hlavních pramenů jsou pro obchodní právo důležité i další právní předpisy**
+      - Zákon o přeměnách obchodních společností a družstvem, zákon o nabídkách převzetí
+      - Zákony upravující postavení specifických typů podnikatelů, například zákon o ČNB, zákon o bankách, zákon o státním podniku, zákon o pojišťovnictví
+      - zákon o podnikání na kapitálovém trhu, zákon o živnostenském podnikání - veřejnoprávní ingerence do podmínek podnikání a v důsledku toho i do Obchodního práva -> právo podnikat je chráněno Listinou základních práv a svobod (Ústavním pořádkem) čl. 26
+      - zákon o veřejných rejstřících PO a FO -> součást úpravy i OR = **veřejný rejstřík**, do něhož se povinně zapisují podnikající FO a PO splňující zákonná kritéria a další osoby, jimž tuto povinnost stanoví zákon a další skutečnosti, které mohou být na vůli daného podnikatele (například odštěpný závod)
+      - a další zákony jako, zákon o ochraně hospodářské soutěže, zákon o účetnictví, insolvenční zákon (o úpadku a způsobu jeho řešení), zákon o ochraně spotřebitele a další
+    - Dalšími prameny Obchodního práva jsou **podzákoné právní předpisy** nebo **právní zásady (principy)**
+      - Doplnit
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
