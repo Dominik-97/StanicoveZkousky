@@ -1465,6 +1465,7 @@ finanční arbitr
 - Buď jako fyzická osoba podnikatel podle živnostenského zákona
 - Nebo jako podnikatel ale ne podle živnostenského zákona
 - Nebo jako PO a založit si v Čr odštěpný závod
+  - Je povinen ve smyslu živnostenského zákona jmenovat odpovědnou osobu pro získání živnostenského oprávnění
 - Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
 
 \|------------------------------\| <br>
