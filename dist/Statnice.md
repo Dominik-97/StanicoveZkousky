@@ -1167,7 +1167,7 @@ finanční arbitr
 Částečně v obchod-A_2017_18
 
 - [x] Pojmy podnikatel
-  - [x] Podnikání
+  - [ ] Podnikání
   - [x] Obchodní závod
   - [x] Pobočka
   - [x] Odštěpný závod
@@ -1281,6 +1281,7 @@ finanční arbitr
     - Jměné podnikatele zapsaného do OR = obchodní firma
     - Jména ostatních podnikatelů, co nejsou v OR (PO - například Ústav, který se zapisuje do rejstříku ústavů/FO)
   - Každá PO má název, ten je upraven v §132 a dále (obecná úprava), **obchodní firma je označení pro název firmy, která je zapsaná do OR**
+  - FO podniká pod svým jménem (názvem), může k němu ale připojit dodatek, pokud by chtěl podnikat pod fantazijním názvem, musel by podnikat jako PO, může však používat pseudonym (oficiálně ale stále podniká pod svým jménem)
   - **Obchodní firma**
     - **Objektivní firemní právo** = právem stanovená pravidla pro tvorbu firmy
     - **Subjektivní firemní právo** = výlučné právo na užívání obchodní firmy v právním styku a na jeho ochranu
@@ -1386,16 +1387,22 @@ finanční arbitr
 
 - **Právní jednání podnikatel FO**
   - Jedná sám za sebe, ale může se nechat zastoupit.
+  - **obchod-A_2017_18, otázka 3**
 - **Právní jednání podnikatele PO**
   - Má právní subjektivitu - tedy právo mít práva a povinnosti, ale nemá svéprávnost - nemůže daná práva a povinnosti nabývat sama, musí jí proto někdo zastupovat - standardně orgán společnosti.
+  - **obchod-A_2017_18, otázka 3**
 - **Prokura**
   - Doplnit
+  - **obchod-A_2017_18, otázka 3**
 - **Opatrovník**
   - Doplnit
+  - **obchod-A_2017_18, otázka 3**
 - **Vedoucí odštěpného závodu**
   - Doplnit
+  - **obchod-A_2017_18, otázka 3**
 - **Osoba pověřená určitou činností při provozu závodu**
   - Doplnit
+  - **obchod-A_2017_18, otázka 3**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1450,6 +1457,15 @@ finanční arbitr
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
+
+**Podnikání zahraničních osob**
+
+- Zahraniční osoba - fyzická osoba s bydlištěm mimo území Čr a právnická osoba se sídlem mimo Čr
+
+- Buď jako fyzická osoba podnikatel podle živnostenského zákona
+- Nebo jako podnikatel ale ne podle živnostenského zákona
+- Nebo jako PO a založit si v Čr odštěpný závod
+- Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
