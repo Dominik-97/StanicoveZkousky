@@ -1361,6 +1361,11 @@ finanční arbitr
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Právní jednání podnikatel FO**
+  - Jedná sám za sebe, ale může se nechat zastoupit.
+- **Právní jednání podnikatele PO**
+  - Má právní subjektivitu - tedy právo mít práva a povinnosti, ale nemá svéprávnost - nemůže daná práva a povinnosti nabývat sama, musí jí proto někdo zastupovat - standardně orgán společnosti.
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
