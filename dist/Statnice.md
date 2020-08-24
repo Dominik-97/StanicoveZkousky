@@ -1262,7 +1262,7 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Obchodní firma
+- [x] Obchodní firma
 - [ ] Obchodní tajemství
 - [ ] Jejich ochrana
 - [ ] Obchodní listiny
@@ -1280,6 +1280,7 @@ finanční arbitr
   - Označení pod kterým podnikatel vystupuje v právních vztazích, právně jedná
     - Jměné podnikatele zapsaného do OR = obchodní firma
     - Jména ostatních podnikatelů, co nejsou v OR (PO - například Ústav, který se zapisuje do rejstříku ústavů/FO)
+  - Každá PO má název, ten je upraven v §132 a dále (obecná úprava), **obchodní firma je označení pro název firmy, která je zapsaná do OR**
   - **Obchodní firma**
     - **Objektivní firemní právo** = právem stanovená pravidla pro tvorbu firmy
     - **Subjektivní firemní právo** = výlučné právo na užívání obchodní firmy v právním styku a na jeho ochranu
@@ -1309,8 +1310,16 @@ finanční arbitr
   - Učím se ze zpracov
 - **Ochrana obchodní firmy a obchodního tajemství**
   - **Ochrana jména podnikatele**
-    - Doplnit
-  - **Ochrana obchodních tajemství**
+    - Sourprávních nástrojů, které má podnikatel k dispozici před neoprávněnými zásahy jiných osob do práv k jeho jménu
+    - Pokud byl podnikatel dotčen v právu ke své obchodní firmě -> **stejná ochrana jako při ochraně před nekalou soutěží**
+    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména), 
+    - **Ochrana absolutní** - směřuje proti komukoliv,
+      - **Jednotlivé ochrany** - jak u relativní, tak i u absolutní ochrany
+        - **zdržovací nárok** - zdržení se protiprávního jednání
+        - **odstraňující nárok** - odstranění závadného stavu
+        - **Náhrada škody - náhrada majetkové újmy**, **přiměřené zadostiučinění - vyrovnání nemajetkové újmy** a **vydání bezdůvodného obohacení**
+        - zdržovací a odstraňující nárok nepodléhá promlčení, ale plynutím času se oslabuje
+  - **Ochrana obchodních tajemství** a know-how
     - Doplnit
 - **Obchodní listiny**
   - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
