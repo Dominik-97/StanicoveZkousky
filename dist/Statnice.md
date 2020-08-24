@@ -1175,7 +1175,7 @@ finanční arbitr
   - [x] Jmění
 - [x] Členění podnikatelů
   - [x] Právnické osoby
-- [ ] Sídlo podnikatele
+- [x] Sídlo podnikatele
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1275,6 +1275,43 @@ finanční arbitr
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Obchodní firma**
+  - Jedná se o jméno podnikatele = identifikační znak podnikatele - **funkce rozlišovací**
+  - Označení pod kterým podnikatel vystupuje v právních vztazích, právně jedná
+    - Jměné podnikatele zapsaného do OR = obchodní firma
+    - Jména ostatních podnikatelů, co nejsou v OR (PO - například Ústav, který se zapisuje do rejstříku ústavů/FO)
+  - **Obchodní firma**
+    - **Objektivní firemní právo** = právem stanovená pravidla pro tvorbu firmy
+    - **Subjektivní firemní právo** = výlučné právo na užívání obchodní firmy v právním styku a na jeho ochranu
+    - Podnikatel musí v právních vztazích vystupovat pod svojí obchodní firmou, pokud se liší od jeho jména
+    - **Obchodní firma je nehmotným statkem** = má vlastní hodnotu a je předmětem vlastnického práva
+      - Existují 4 druhy firem:
+      - **Osobní** - jméno člověka, standardně u FO, může ale být i u PO, pokud má daná firma k danému jménu zvláštní vztah, k využití jména je nutný souhlas daného člověka, ten je možný odvolat (i právní nástupce), nelze-li spravedlivě požadovat, aby bylo dále využíváno
+      - **Věcná** - musí vyplývat jaký je předmět činnosti společnosti, nebo předmětu podnikání, poviné je jen u některých osob, například banka a pojišťovna
+      - **Fantazijní **- jakékoliv běžně vymyšlené jméno, které si podnikatel zvolí, například Alza, a.s.
+      - **Smíšená** - obsahuje například věcnou a osobní složku (Například Karel John, nakladatelství)
+    - **Struktura firmy**
+      - **Kmen** - část firmy bez dodatku (tedy bez a.s., s.r.o. etc.), může se skládat z několik slov, pak lze rozlišovat **silnou** část a **slabou** část, například ČEZ (silná část) Distribuce (slabá část)
+      - **Dodatek** - právní forma osoby, tedy a.s., s.r.o. a další, například **v likvidaci**
+    - **Nová vs. stará firma**
+      - **Nová firma** - nově vytvořené jméno podnikatele
+      - **Stará firma** - firma převzatá + nástupnický dodatek
+    - **Pokud není podnikatel zapsaný v OR** - jedná pod svým jménem - FO dle § 77 OZ jménem a příjmením, popřípadě dalšími jmény (například druhé jméno), PO (například spolek, fundace a ústav) jednají pod svým názvem PO - § 132 OZ, musí dodržet nezaměnitelnost a zákaz klamavosti.
+    - **Zásady platící u firmy**
+      - **zásada jednotnosti firmy** - jeden subjekt může mít pouze jednu firmu
+      - **zásada nezaměnitelnosti firmy** - podle dojmu průměrného zákazníka (posuzování) nesmí existovat dvě firmy, které jsou podle firmy zaměnitelné, nezaměnitelnost musí být splněna u **kmenu**, **firmy v koncernu mohou mít podobná jména - ČEZ Energie, a.s., ČEZ Distribuce, s.r.o.**, překontrolovává rejstříkový soud nebo notář při zápisu firmy do OR
+      - **zásada neklamavosti firmy** - zákaz vyvolání klamavého dojmu o totožnosti osoby, její povaze či činnosti, například u FO zapsané v OR musí být zřejmé, že se jedná o FO
+      - **zásada priority firmy** - ochrana práv k firmě náleží tomu, kdo firmu poprvé použil
+    - **Obchodní firmu lze samostatně převádět, předpokladem je že převoditel si zvolí novou obchodní firmu**
+    - **Nabude-li firmu právní nástupce, musí být firma firma doplněna dodatkem, například "nástupce", "dědic" etc.**
+    - **Firma může přejít jen na jednoho právního nástupce s jeho souhlasem, souhlas jiné osoby se nevyžaduje, pokud má PO více právních nástupců a nedohodnou-li se, na kterého právní firma přejde, tak nepřechází na nikoho**
+- **Obchodní tajemství**
+  - Učím se ze zpracov
+- **Ochrana obchodní firmy a obchodního tajemství**
+  - **Ochrana jména podnikatele**
+    - Doplnit
+  - **Ochrana obchodních tajemství**
+    - Doplnit
 - **Obchodní listiny**
   - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
   - Obchodními listinami budou všechny listiny, které používá podnikatel v právním styku při své podnikatelské činnosti.
