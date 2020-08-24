@@ -1263,9 +1263,9 @@ finanční arbitr
 \|---------\| <br>
 
 - [x] Obchodní firma
-- [ ] Obchodní tajemství
-- [ ] Jejich ochrana
-- [ ] Obchodní listiny
+- [x] Obchodní tajemství
+- [x] Jejich ochrana
+- [x] Obchodní listiny
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1320,11 +1320,33 @@ finanční arbitr
         - **Náhrada škody - náhrada majetkové újmy**, **přiměřené zadostiučinění - vyrovnání nemajetkové újmy** a **vydání bezdůvodného obohacení**
         - zdržovací a odstraňující nárok nepodléhá promlčení, ale plynutím času se oslabuje
   - **Ochrana obchodních tajemství** a know-how
-    - Doplnit
+    - § 504 OZ - Obchodní tajemství tvoří konkurenčně významné, určitelné, ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti, které souvisejí se závodem a jejichž vlastník zajišťuje ve svém zájmu odpovídajícím způsobem jejich utajení.
+    - **Kumulativně tedy 6 pojmových znaků**
+      - souvisí se závodem (pro podnikání relevantní)
+      - konkurenčně významné
+      - ocenitelné
+      - určitelné
+      - utajené
+      - utajení musí být vlastníkem v jeho zájmu zajištěno odpovídajícím způsobem (sejf, omezení přístup,..)
+    - jako nositel obchodního tajemství = **vlastník**, nikoli podnikatel
+    - Jedná se o nehmotnou věc -> **ochrana instituty vlastnického práva** -> například žaloba negatorní -> zdržení se protiprávního zasahování do vlastnického práva
+    - Ochrana ve smyslu **nekalé soutěže** - § 2985 OZ - relativní ochrana, porušení OT = jednající jinému neoprávněně sdělí/zpřístupní či pro sebe či jiného využije.
+    - **Ochrana je tedy stejná jako u ochrany obchodní firmy**
 - **Obchodní listiny**
   - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
-  - Obchodními listinami budou všechny listiny, které používá podnikatel v právním styku při své podnikatelské činnosti.
-  - Obchodními listinami však nejsou interní listiny, které podnikatel používá v rámci svého závodu.
+    - Jméno,
+    - sídlo,
+    - údaj o zápisu do veřejného rejstříku (je-li podnikatel zapsán),
+    - a identifikační údaj, byl-li podnikateli přiřazen.
+  - Obchodními listinami budou všechny listiny, které používá podnikatel v právním (obchodním) styku při své podnikatelské činnosti.
+  - Obchodními listinami však nejsou interní listiny, které podnikatel používá v rámci svého závodu pro vnitřní účely.
+  - Příklady obchodních listin:
+    - obchodní dopisy,
+    - objednávky a potvrzení objednávek,
+    - faktury,
+    - smlouvy apod.
+  - Dle ZOK, pokud se uvádí údaj o základním kapitálu, je možné uvádět pouze upsanou a splacenou částku.
+  - a.s. má dále povinost zřídit internetové stránky.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1365,6 +1387,14 @@ finanční arbitr
   - Jedná sám za sebe, ale může se nechat zastoupit.
 - **Právní jednání podnikatele PO**
   - Má právní subjektivitu - tedy právo mít práva a povinnosti, ale nemá svéprávnost - nemůže daná práva a povinnosti nabývat sama, musí jí proto někdo zastupovat - standardně orgán společnosti.
+- **Prokura**
+  - Doplnit
+- **Opatrovník**
+  - Doplnit
+- **Vedoucí odštěpného závodu**
+  - Doplnit
+- **Osoba pověřená určitou činností při provozu závodu**
+  - Doplnit
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
