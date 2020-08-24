@@ -43,18 +43,18 @@ Hotovo 0/30
 
 Hotovo 2/30
 
-- [x] Otázka 1
-- [x] Otázka 2
-- [ ] Otázka 3
-- [ ] Otázka 4
-- [ ] Otázka 5
-- [ ] Otázka 6
-- [ ] Otázka 7
-- [ ] Otázka 8
-- [ ] Otázka 9
-- [ ] Otázka 10
-- [ ] Otázka 11
-- [ ] Otázka 12
+- [x] Otázka 1 - dist/Statnice.md
+- [x] Otázka 2 - dist/Statnice.md
+- [x] Otázka 3 - dist/Statnice.md
+- [ ] Otázka 4 - Podklady
+- [ ] Otázka 5 - Podklady
+- [ ] Otázka 6 - Podklady
+- [ ] Otázka 7 - Podklady
+- [ ] Otázka 8 - Podklady
+- [ ] Otázka 9 - Podklady
+- [ ] Otázka 10 - Podklady
+- [ ] Otázka 11 - Podklady
+- [ ] Otázka 12 - Podklady
 - [ ] Otázka 13
 - [ ] Otázka 14
 - [ ] Otázka 15
@@ -78,11 +78,11 @@ Hotovo 2/30
 
 Hotovo 5/30
 
-- [x] Otázka 1
-- [x] Otázka 2
-- [x] Otázka 3
-- [x] Otázka 4
-- [x] Otázka 5
+- [x] Otázka 1 - dist/Statnice.md
+- [x] Otázka 2 - dist/Statnice.md
+- [x] Otázka 3 - dist/Statnice.md
+- [x] Otázka 4 - dist/Statnice.md
+- [x] Otázka 5 - dist/Statnice.md
 - [ ] Otázka 6
 - [ ] Otázka 7
 - [ ] Otázka 8

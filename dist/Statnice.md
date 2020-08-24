@@ -1332,6 +1332,7 @@ finanční arbitr
     - Jedná se o nehmotnou věc -> **ochrana instituty vlastnického práva** -> například žaloba negatorní -> zdržení se protiprávního zasahování do vlastnického práva
     - Ochrana ve smyslu **nekalé soutěže** - § 2985 OZ - relativní ochrana, porušení OT = jednající jinému neoprávněně sdělí/zpřístupní či pro sebe či jiného využije.
     - **Ochrana je tedy stejná jako u ochrany obchodní firmy**
+    - **Co se týče know-how** - podobné jako obchodní tajemství, kumulativně vymezeno - utajené, podstatné pro provozování závodu, určitelné, ochrana z § 2976 - generální klauzule nekalé soutěže - tedy *"Kdo se dostane v hospodářském styku do rozporu s dobrými mravy soutěže jednáním způsobilým přivodit újmu jiným soutěžitelům nebo zákazníkům, dopustí se nekalé soutěže. Nekalá soutěž se zakazuje."*
 - **Obchodní listiny**
   - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
     - Jméno,
