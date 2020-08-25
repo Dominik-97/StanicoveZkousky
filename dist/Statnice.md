@@ -137,6 +137,7 @@ title: Státnice
   * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
 mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
 pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze definovat předmět občanského práva hmotného jako: _Občanské právo lze vymezit jako obecné soukromé právo, jehož předmětem jsou osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva a na všechny občanskoprávní záležitosti, jež se mezi nimi navzájem příznačně realizují na zásadách jejich autonomie vůle a rovného (rozuměj hmotněprávního) postavení jako nejvýraznějších projevů jejich svobody, důstojnosti a rovnosti v soukromém právu._
+  * **Předmět** -> obecné soukromé právo, jehož předmětem jsou -> osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva + na všechny občanskoprávní záležitosti
 * Prameny
   * Ve stejné publikaci Občanské právo hmotné od Wolters Kluwer.
   * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském etc.
@@ -149,7 +150,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Děleno do 5 částí:
     * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
     * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
-    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva), dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo), dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
     * Část čtvrtá - **relativní majetková práva **- závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
     * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
 * Systematika občanského zákoníku
@@ -265,16 +266,50 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     * Plná svéprávnost -> plně svéprávný je:
       * **Zletilý člověk, který není omezen na svéprávnosti**
       * **Plně zesvéprávněný nezletilý -> hovoří se pak o takzvaném plně svéprávném nezletilém**
-        * V případě, že dosáhl 16 roku života a nechal se **A) zesvéprávnit soudem** **B) uzavřel manželství**
-* Podpůrná opatření při narušení schopnosti zletilého právně jednat
-  * Předběžné prohlášení
-  * Nápomoc při rozhodování
-  * Zastoupení členem domácnosti
-  * Omezení svéprávnosti
-* Koblížek.
-* Definiční znaky
-* Nasciturus
-* Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti
+        * V případě, že dosáhl 16 roku života a nechal se **A) zesvéprávnit soudem** (přiznání svéprávnosti) **B) uzavřel manželství**
+    * Svéprávnost se nabívá postupně
+    * Plnou svéprávnost nemá - nezletilý, ten jehož svéprávnost byla omezena rozhodnutím soudu, podle § 581 rovněž osoba jednající v duševní poruše, která jí činí neschopnou právně jednat, tady se ale jedná o speciální institut
+    * **Blíže k přiznání svéprávnosti nezletilému**
+      * § 31 - má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy **přiměřeným rozumové a volní vyspělosti nezletilých jeho věku**.
+      * **Zesvéprávnění**
+        * Uzavřením manželství - § 30
+          * neztrácí se zánikem manželství, ani jeho prohlášením za neplatné
+          * do 18 let -> plně svéprávný nezletilý
+          * § 672 (2) -> nejdříve v 16 letech
+          * Ve výjimečných důvodech, jsou-li pro to důležité důvody
+        * Přiznání svéprávnosti - § 37
+          * podmínky
+            * nezletilý dosáhne 16 let
+            * osvědčena jeho schopnost sám se živit a obstarat si své záležitosti
+            * souhlas zákonného zástupce
+          * soud může vyhovět i v ostatních případech, je-li to z vážných důvodů v zájmu nezletilého
+          * na návrh nezletilého nebo zákonného zástupce
+    * **Blíže ke vzniku a zániku (smrt) právní subjektivity**
+      * Vzniká narozením
+      * Zaniká smrtí
+      * **Blíže ke smrti**
+        * smrt je definována v transplantačním zákoně - ztráta funkce celého mozku, včetně mozkového kmene, nebo nevratná zástava krevního oběhu
+        * **Důkaz smrti, prokazování smrti**
+          * Smrt člověka se prokazuje veřejnou listinou vystavenou po prohlédnutí těla mrtvého stanoveným způsobem -> vyvratitelná právní domněnka, že tam kde bylo nalezeno tělo je i místo úmrtí
+          * Lékař po ohledání a konstatování smrti zašle oznámení matričnímu úřadu -> ten vydá **úmrtní list** (to je ta veřejná listina)
+          * Pokud tělo nelze prohlédnout -> prohlásí člověka za mrtvého i bez návrhu soud -> pokud byl člověk účastníkem takové události, že jeho smrt se jeví vzhledem k okolnostem jako jistá -> místo úmrtí to, kde naposledy člověk pobýval živý.
+          * **Úmrtní list obsahuje údaje zapsané v matriční knize úmrtí, do té lze zápis provést právě na základě výše uvedených skutečností -> listu o prohlídce zemřelého/pravomocné rozhodnutí soudu o prohlášení člověka za mrtvého**
+        * **Pokud právní následek záleží na tom, zda někdo přežil někoho jiného a není-li jisté kdo koho přežil -> platí, že všichni zemřeli ve stejnou chvíli.**
+      * **Prohlášení za nezvěstného**
+        * Prohlášení soudem/pokud nastala právní událost naplňující zákonné předpoklady
+        * § 66 - prohlášení soudem -> pokud svéprávný člověk opustil své bydliště, nepodal o sobě zprávu a není známo, kde se zdržuje -> **na návrh osoby, která na tom má právní zájem**
+        * § 75 - nezvěstnost jako účastník události, při níž byl v ohrožení větší počet osob -> důležité pro okamžik, od kterého může být prohlášen za mrtvého
+        * **Právní následky nezvěstnosti**
+          * Finguje se, že osoba není
+* ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
+  * ~~Předběžné prohlášení~~
+  * ~~Nápomoc při rozhodování~~
+  * ~~Zastoupení členem domácnosti~~
+  * ~~Omezení svéprávnosti~~
+* ~~Koblížek.~~
+* ~~Definiční znaky~~
+* ~~Nasciturus~~
+* ~~Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
