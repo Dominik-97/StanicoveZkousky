@@ -243,7 +243,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * **Deliktní způsobilost**
   * způsob založit svou odpovědnost, tedy nést nepříznivé právní následky za zaviněné protiprávní jednání - například náhrada škody
   * způsobilost k zaviněným protiprávním jednáním
-  * § 24 - každý člověk odpovídá za své jednání, je-li s to posoudit jej a ovládnout.
+  * § 24 - každý člověk odpovídá za své jednání, je-li s to posoudit jej a ovládnout - posouzení je tedy ve vazbě na schopnost posoudit své jednání a své jednání ovládnout.
     * kdo se vlastní vinou přivede do stavu, kdy by jinak za své jednání neodpovídal -> odpovídá za své jednání
     * § 2922 - ti, kteří svým přičiněním přivedli osobu do daného stavu s ní odpovídají společně a nerozdílně
   * v plném rozsahu se nabije plnou svéprávností - nezletilý například nemá plnou deliktní způsobilost -> protože nemůže uzavírat všechny právní jednání
@@ -290,6 +290,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
             * souhlas zákonného zástupce
           * soud může vyhovět i v ostatních případech, je-li to z vážných důvodů v zájmu nezletilého
           * na návrh nezletilého nebo zákonného zástupce
+        * Existují ještě další dva instituty, kdy může nezletilý jednat ve větším rozsahu
+          * Přivolení jeho zákonného zástupce - ve shodě se zvyklostmi běžného života k právnímu jednání nebo dosažení určitého účelu - pokud to není zákonem zakázáno, může vzít zpět, stačí souhlas jednoho zákonného zástupce, pokud více zákonných zástupců není ve shodě - nepřihlíží se k projevu žádného z nich.
+          * Přivolení zákonného zástupce s provozováním obchodního závodu nebo k jiné obdobné výdělečné činnosti -> nezletilý je způsobilý k právním jednáním spojeným s danou činností nebo provozování závodu -> je potřeba přivolení soudu -> to nahrazuje požadavek věku -> může být odvoláno pouze s přivolením soudu
     * **Blíže ke vzniku a zániku (smrt) právní subjektivity**
       * Vzniká narozením
       * Zaniká smrtí
@@ -465,6 +468,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Soud opatrovníka odvolá v případě: opatrovník o to požádá, nebo neplní své povinnosti, soud rovněž jmenuje nového opatrovníka.
     - Více opatrovníku jedná společně.
   - **Opatrovnictví - specifická ustanovení**
+    - NOZ předpokládá u osoby rozum průměrného člověka i schopnost užívat jej s běžnou péčí a opatrností, to samé od ní může každá osoba v právním styku očekávat.
+      - Pokud není -> může soud přistoupit k omezení svéprávnosti, vždy je ale dávána priorita takzvaným náhradním, neboli podporovaným rozhodnutím - tedy ostatním 3 druhům podpůrných opatření.
     - Soud jmenuje opatrovníka opatrovanci, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem: například při omezení na svéprávnosti, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání, nebo tomu, jehož zdravotní stav mu působí obtíže při správě svého majetku nebo hájení svých práv.
     - Úkolem opatrovníka je udržovat s opatrovancem spojení, projevovat o opatrovance skutečný zájem, dbát o jeho zdravotní stav, starat se o naplnění jeho práv a chránit jeho zájmy.
     - Opatrovník naplňuje plní svoje povinosti s ohledem na přání opatrovance, není-li to možné tak s ohledem na jeho nejlepší zájmy.
