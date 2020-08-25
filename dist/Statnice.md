@@ -212,7 +212,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 15 - 117  [^3]
-- [ ] Osoby v právním smyslu
+- [x] Osoby v právním smyslu
 - [ ] Fyzické osoby
 - [ ] Ochrana osobnosti člověka
 
@@ -231,12 +231,23 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Subjekty občanského práva**
   - Subjekt = osoba, pouze osoba je nositelem práv a povinností a pouze po ní je možné je vymáhat § 17 OZ
   - Pokud je zřízeno právo něčemu, co osoba není, přičte se takové právo osobě, které po právu náleží -> tzn. pokud by bylo zřízeno právo věci, přičetlo by se vlastníkovi dané věci.
+- **Primárně je potřebné definovat jednotlivé způsobilost a právní osobnost**
 
-* Rozdíl mezi právní osobností a svéprávností.
+* Rozdíl mezi **právní osobností** a **svéprávností**.
   * Právní osobnost (právní subjektivita) - schopnost míz v mezích zákona práva a povinnosti.
   * Právní subjektivita je tedy = způsobilost k právům a povinnostem - pouze osoba
-  * Svéprávnost - schopnost nabívat pro sebe práva a povinnosti - svéprávnost má každý, i nezletilý, ten ale jenom v rámci své rozumové a volní vyspělosti, plnou svéprávnost má pak každý, kdo dovršil zletilosti a není soudem omezen na svéprávnosti.
+  * Svéprávnost - schopnost nabívat pro sebe práva a povinnosti (tedy právně jednat) - svéprávnost má každý, i nezletilý, ten ale jenom v rámci své rozumové a volní vyspělosti, plnou svéprávnost má pak každý, kdo dovršil zletilosti a není soudem omezen na svéprávnosti.
+* **Deliktní způsobilost**
+  * způsob založit svou odpovědnost, tedy nést nepříznivé právní následky za zaviněné protiprávní jednání - například náhrada škody
+  * způsobilost k zaviněným protiprávním jednáním
+  * § 24 - každý člověk odpovídá za své jednání, je-li s to posoudit jej a ovládnout.
+    * kdo se vlastní vinou přivede do stavu, kdy by jinak za své jednání neodpovídal -> odpovídá za své jednání
+    * § 2922 - ti, kteří svým přičiněním přivedli osobu do daného stavu s ní odpovídají společně a nerozdílně
+  * v plném rozsahu se nabije plnou svéprávností - nezletilý například nemá plnou deliktní způsobilost -> protože nemůže uzavírat všechny právní jednání
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
+* **Fyzické osoby**
+  * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
+  * Daná osoba => má právní subjektivitu a je tak subjektem práva
 * Podpůrná opatření při narušení schopnosti zletilého právně jednat
   * Předběžné prohlášení
   * Nápomoc při rozhodování
@@ -269,6 +280,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 118 - 435
+- [ ] Pojem
+- [ ] Třídění
+- [ ] Organizační struktura
+- [ ] Přičítání právního jednání a protiprávních činů
+- [ ] Vznik a zánik
+- [ ] Likvidace
+- [ ] Přeměny
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
