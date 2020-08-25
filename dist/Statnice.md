@@ -226,8 +226,15 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Osoby v právním smyslu**
+  - Osobami v právním smyslu jsou **osoba fyzická** a **osoba právnická** - § 18 OZ
+  - **Subjekty občanského práva**
+  - Subjekt = osoba, pouze osoba je nositelem práv a povinností a pouze po ní je možné je vymáhat § 17 OZ
+  - Pokud je zřízeno právo něčemu, co osoba není, přičte se takové právo osobě, které po právu náleží -> tzn. pokud by bylo zřízeno právo věci, přičetlo by se vlastníkovi dané věci.
+
 * Rozdíl mezi právní osobností a svéprávností.
   * Právní osobnost (právní subjektivita) - schopnost míz v mezích zákona práva a povinnosti.
+  * Právní subjektivita je tedy = způsobilost k právům a povinnostem - pouze osoba
   * Svéprávnost - schopnost nabívat pro sebe práva a povinnosti - svéprávnost má každý, i nezletilý, ten ale jenom v rámci své rozumové a volní vyspělosti, plnou svéprávnost má pak každý, kdo dovršil zletilosti a není soudem omezen na svéprávnosti.
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
 * Podpůrná opatření při narušení schopnosti zletilého právně jednat
