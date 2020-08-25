@@ -399,6 +399,26 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Pojem**
+  - NOZ se v pojetí subjektivity právnické osoby jakožto základního předpokladu existence právnické osoby přiklání teorii fikce podle § 20 OZ - svou subjektivitu tedy právnická osoba odvozuje od zákonného uznání, nebo stanovení, že se jedná o právnickou osobu - **co se týče soukromoprávních PO**.
+  - **Veřejnoprávní PO se řídí vlastními zákony - ustanovení občanského zákoníku se použijí pouze tehdy, pokud se to slučuje s povahou právnické osoby.**
+  - Obsahem právní osobnosti právnické osoby jsou práva a povinnosti -> ty jsou omezena pouze na ty, která se slučují s jejich povahou -> toto ustanovení lze chápat ve třech rovinách:
+    - První rovina = omezení práv a povinností ve smyslu těch, která přísluší výhradně člověku -> tedy například právo osvojit si dítě, vyživovací povinnost atd.
+    - Druhá rovina je omezení stanovená pro právnické osoby **veřejného práva** -> ty jsou vyhrazeny ve zvláštních zákonech - například obce a kraje a **soukromého práva** -> nadace, spolky...
+    - Třetí rovinou jsou omezení, stanovená pro jednotlivé typy právnických osob podle formy - tedy rozdíly u a.s., s.r.o. atd.
+- **Organizační struktura**
+  - NOZ předpokládá, že právnická osoba je organizovaným útvarem, čímž naznačuje existenci její vnitřní struktury - tak to i musí být, protože právnická osoba je jen fingovaná osoba, není skutečně živá a nemá svéprávnost, vždycky tedy musí být někdo, kdo jí bude zastupovat a jehož přičiněním bude daná právnická osoba nabívat práv a poviností.
+  - Struktura právnické osoby je v právním smyslu složena z jejích orgánů, jejichž členové jsou buď fyzické osoby nebo právnické osoby -> ty ale zastupuje člen jejich orgánu, nebo pověřená osoba.
+  - Detailní úprava požadavků na tuto strukturu však již ponechává otevřenou pro regulaci ustanoveními k jednotlivým typům společností.
+  - Ty jsou upraveny pro některé druhy právnických osob v občanském zákoníku, pro jiní je zas úprava obsažena v jiných právních předpisech, například pro obchodní korporace je daná úprava obsažena v zákoně o obchodních korporacích a družstvech.
+- **Založení, vznik, zrušení & zánik právnické osoby**
+  - NOZ staví na čtyřstupňovém životním cyklu právnických osob - tedy **založení**, **vznik**, **zrušení** (s likvidací a bez likvidace) a **zánik** - na rozdíl od fyzické osoby, kde je vznik právní subjektivity narození a zánik smrt.
+  - Vě věci založení zavádí NOZ pojem **zakladatelské právní jednání** - povaha jednání jako skutečného projevu vůle se svým obsahem, zatímco dokument jako jeho pouhého formálního zachycení.
+  - **Zakladatelské právní jednání má rozdílnou povahu (formu) u různých právnických osob - u s.r.o. je to například společenská smlouva -> více zakladatelů, nebo zakladatelské listiny v případě jednoho zakladatele.**
+  - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení) -> jedná se tedy o konstitutivní zápis.
+  - Po vzniku PO se již nelze domáhat toho, že osoba nevznikla -> soud může pouze ve vymezených důvodech prohlásit neplatnost podle § 129 OZ, a to v případě, že nejsou odstraněny nedostatky v přiměřené lhůtě § 130 OZ -> například pokud není v pořádku zakladatelské právní jednání, právnickou osobu založilo méně zakladatelů, než je potřeba, nebo byla právnická osoba založena za účelem porušování práva.
+  - 
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
