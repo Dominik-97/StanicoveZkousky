@@ -214,7 +214,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - [ ] § 15 - 117  [^3]
 - [x] Osoby v právním smyslu
-- [ ] Fyzické osoby
+- [x] Fyzické osoby
 - [ ] Ochrana osobnosti člověka
 
 \|--------------\| <br>
@@ -298,9 +298,30 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       * **Prohlášení za nezvěstného**
         * Prohlášení soudem/pokud nastala právní událost naplňující zákonné předpoklady
         * § 66 - prohlášení soudem -> pokud svéprávný člověk opustil své bydliště, nepodal o sobě zprávu a není známo, kde se zdržuje -> **na návrh osoby, která na tom má právní zájem**
-        * § 75 - nezvěstnost jako účastník události, při níž byl v ohrožení větší počet osob -> důležité pro okamžik, od kterého může být prohlášen za mrtvého
+        * § 75 - nezvěstnost jako účastník události, při níž byl v ohrožení větší počet osob -> důležité pro okamžik, od kterého může být prohlášen za mrtvého -> zde je to 3 roky
         * **Právní následky nezvěstnosti**
-          * Finguje se, že osoba není
+          * Finguje se, že osoba není -> pokud je potřeba jeho souhlasu, přivolení atd., k této potřebnosti se nepřihlíží
+          * Netýká se však osobního stavu - tedy například manželství trvá
+          * Každý, kdo jedná, dotýkaje se záležitostí nezvěstného, musí tak činit s přihlédnutím k jeho zájmům
+        * právní jednání učiněná bez souhlasu nezvěstného po tom, co opustil bydliště, ale zatím nez prohlášení -> pohlíží se na ně jako na platná jednání -> jen se k nim přiřadí odkládací podmínka, kterou je vydání rozhodnutí o nezvěstnosti
+        * kdo byl prohlášen za nezvěstného -> nemůže namítat neplatnost, nebo neúčinnost právního jednání učiněného za jeho nepřítomnosti, pro to, že se při nich projev jeho vůle nevyžadoval
+        * **Zánik prohlášení za nezvěstného -> návrat, nebo prohlášení za mrtvého**
+      * **Domněnka smrti**
+        * Jedná se o situaci rozdílnou oproti důkazu smrti -> tam člověk opravdu zemřel, nebo byl účaste takové situace, kdy je důvodné předpokládat že zemřel.
+        * Zde se jedná pouze o domněnku smrti, na základě které soud prohlásí dotčenou osobu za mrtvou.
+        * **Pokud je prohlášení mylné**
+          * k prohlášení za mrtvého se nepřihlíží
+          * manželství a registrované partnerství se ale neobnovuje
+        * Prohlášení za mrtvého v rámci domněkdy smrti -> **založeno na jisté míře pravděpodobnosti a 2 situacích**
+        * **První situace:** na návrh osoby, která na tom má právní zájem: lze prohlásit člověka za mrtvého, pokud **lze mít důvodně za to, že zemřel**
+          * Prohlášení za mrtvého -> hledí se na něj jakoby zemřel -> zaniká manželství
+          * Nezvěstný člověk, který ale nebyl za nezvěstného prohlášen -> lze prohlásit za mrtvého **nejdříve po uplynutí 7 let od roku, v němž se objevila zpráva, že by daný člověk mohl ještě být naživu**
+        * **Druhá situace:** pokud byl člověk prohlášen za nezvěstného -> na návrh osoby ho může soud prohlásit za mrtvého pokud jsou pochybnosti, že je ještě živ, i když jeho smrt není jistá.
+          * **Prohlásit člověka za mrtvého lze v tomto případě po uplynutí 5 let po konci roku, v němž byl daný člověk prohlášen za nezvěstného**
+          * Pokud se objevila zpráva, z níž lze soudit, že je člověk naživu - lhůta 7 let.
+        * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
+* **Ochrana osobnosti člověka**
+  * Doplnit
 * ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
   * ~~Předběžné prohlášení~~
   * ~~Nápomoc při rozhodování~~
