@@ -327,7 +327,25 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
           * Pokud se objevila zpráva, z níž lze soudit, že je člověk naživu - lhůta 7 let.
         * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
 * **Ochrana osobnosti člověka**
-  * Doplnit
+  * Co se ochrany týče -> § 81 stanovuje takzvaná **všeobecná osobností práva** - přirozená práva -> každý je povinen je ctít
+  * Ochrany požívá zejména: **život, důstojnost, zdraví, právo žít v příznivém životním prostředí, vážnost, čest, soukromí a projevy osobní povahy**.
+  * Dále jsou chráněny: **písemnosti osobní povahy, podobizny, obrazové a zvukové záznamy -> tedy lidé na nich, je možné je reprodukovat pouze se svolením daných osob/popřípadě pokud je licence -> úřední, vědecká, umělecká, zpravodajská**
+  * **Jak je možné se chránit?**
+    * Klasickými způsoby:
+      * žaloby negatorní - zdržení se protiprávního jednání
+      * žaloby restituční - odstranění následků protiprávního jednání
+      * a satisfakce - forma morální, například omluva, nebo i finanční zadostiučinění
+    * **Kdo může právo na ochranu uplatnit?**
+      * Samozřejmě postižený člověk
+      * Rovněž právnická osoba se souhlasem postiženého člověka (jméno souvisí s činností daného člověka v právnické osoby)
+      * Právní nástupce po jeho smrti -> tedy rodina, rovněž po smrti může právo na ochranu uplatnit i právnická osoba
+  * **Předmětem osobnostních práv je v NOZ obecně osobnost člověka včetně všech jeho přirozených práv a svoboda člověka žít podle svého**
+  * Dále jsou tedy upraveny obecně druhy ochrany, jíž osobnost člověka požívá (viz výše)
+  * Krom těchto obecných ochran upravuje NOZ i další specifické druhy ochran, těmi jsou:
+    * podoby a soukromí (viz výše)
+    * právo na duševní a tělesnou integritu
+    * Právům člověka převzaného do zdravotnického zařízení bez jeho souhlasu
+    * Nakládání s částmi lidského těla a ochranu lidského těla po smrti člověka (součásti lidského těla, které nelze bezbolestně odebrat nejsou věcmi, věcmi jsou ale například - vlasy, ostříhané nehty)
 * ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
   * ~~Předběžné prohlášení~~
   * ~~Nápomoc při rozhodování~~
