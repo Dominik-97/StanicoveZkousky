@@ -248,6 +248,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * **Fyzické osoby**
   * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
   * Daná osoba => má právní subjektivitu a je tak subjektem práva
+  * Zákon upravuje jakým způsobem je možné mít práva a povinnosti
   * **Bydliště** - § 80 OZ - člověk má bydliště v místě, kde se zdržuje s úmyslem tam žít s výhradou změny okolností trvale.
     * každý se může dovolat skutečného bydliště,
     * Nemá-li člověk bydliště, považuje se za něj místo kde žije
