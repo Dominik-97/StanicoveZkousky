@@ -149,11 +149,14 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Děleno do 5 částí:
     * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
     * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
-    * Část třetí - **absolutní majetková práva **- věcná práva, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
-    * Část čtvrtá - **relativní majetková práva **- smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
+    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva), dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část čtvrtá - **relativní majetková práva **- závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
     * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
 * Systematika občanského zákoníku
   * Právní síla.
+    * Nad Primární a Sekundární by se dali ještě zařadit mezinárodní smlouvy a právo EU.
+    * Primární - zákonné - **Právní předpis legislativy** - ústavní zákony, zákony, zákonná opatření senátu PČr
+    * Sekundární - podzákonné - **Právní předpisy exekutivy** - Nařízení vlády, vyhlášky ministerstev a jiných správních úřadů, vyhlášky ČNB, nařízení Obcí a Krajů v přenesené působnosti, rozhodnutí prezidenta Čr, **právní předpis územní samosprávy** - vyhlášky krajů a obcí
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
@@ -168,9 +171,19 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Kogentní[^2]
     * Strany se v žádném případě nemohou odchýlit od zákona
     * Není možné ochýlit se od její dispozice.
+      * Skladba právní normy:
+        * Hypotéza - například časové, místní určení
+        * Distpozice - příkaz, zákaz, dovolení, právo (strpět, dát, zdržet se, konat)
+        * Sankce - pokud osoba nejedná s ohledem na dispozici
+      * Druhy norem
+        * Přikazující
+        * Zakazující
+        * Opravňující
+        * Doporučující
+        * Teleologické - vyjadřují cíl, ale né prostředek jak ho dosáhnout, ten je standardně ponechán na adresátovi právní normy
     * Typické zejména pro právo veřejné.
     * Nepřipouští subjektům právního vztahu odchýlení projevu vůle či chování od pravidla stanoveném v kogentní normě.
-    * Subjektům práva stanovují práva a povinnosti a to podmíněně, nebo nepodmíněně.
+    * Subjektům práva stanovují práva a povinnosti a to podmíněně, nebo nepodmíněně (podmíněné - obsahují hypotézu, nepodmíněné - neobsahují hypotézu).
     * Rovněž se není možné ochýlit od práva, pokud by takové ujednání mezi stranama porušivalo dobré mravy, nebo veřejný pořádek -> jinak stíženo absolutní neplatností
     * Kogentní části občanského zákoníku:
       * Část například statusová -> nikdo se nemůže vzdát právní subjektivity.
@@ -199,6 +212,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 15 - 117  [^3]
+- [ ] Osoby v právním smyslu
+- [ ] Fyzické osoby
+- [ ] Ochrana osobnosti člověka
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -211,6 +227,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 
 * Rozdíl mezi právní osobností a svéprávností.
+  * Právní osobnost (právní subjektivita) - schopnost míz v mezích zákona práva a povinnosti.
+  * Svéprávnost - schopnost nabívat pro sebe práva a povinnosti - svéprávnost má každý, i nezletilý, ten ale jenom v rámci své rozumové a volní vyspělosti, plnou svéprávnost má pak každý, kdo dovršil zletilosti a není soudem omezen na svéprávnosti.
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
 * Podpůrná opatření při narušení schopnosti zletilého právně jednat
   * Předběžné prohlášení
