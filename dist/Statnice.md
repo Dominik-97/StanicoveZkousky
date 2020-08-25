@@ -232,6 +232,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Subjekty občanského práva**
   - Subjekt = osoba, pouze osoba je nositelem práv a povinností a pouze po ní je možné je vymáhat § 17 OZ
   - Pokud je zřízeno právo něčemu, co osoba není, přičte se takové právo osobě, které po právu náleží -> tzn. pokud by bylo zřízeno právo věci, přičetlo by se vlastníkovi dané věci.
+  - Definice osoby v právním slova smyslu = soubor vlastností, jimiž jsou vybaveni potenciální účastníci právních vztahů.
+  - Jinak, čistě obecně řečeno = osobou je každá biosociální bytost bez ohledu na další charakteristiku.
 - **Primárně je potřebné definovat jednotlivé způsobilost a právní osobnost**
 
 * Rozdíl mezi **právní osobností** a **svéprávností**.
@@ -250,6 +252,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
   * Daná osoba => má právní subjektivitu a je tak subjektem práva
   * Zákon upravuje jakým způsobem je možné mít práva a povinnosti
+  * **Identifikační znaky fyzických osob:** jméno, bydliště, datum narození a další identifikační údaje podle jiných právních předpisů.
   * **Bydliště** - § 80 OZ - člověk má bydliště v místě, kde se zdržuje s úmyslem tam žít s výhradou změny okolností trvale.
     * každý se může dovolat skutečného bydliště,
     * Nemá-li člověk bydliště, považuje se za něj místo kde žije
@@ -257,6 +260,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Vznik právní osobnost (právní subjektivity): **narozením**
   * Zánik právní osobnosti: **smrtí**
   * Právní osobnosti, ani svéprávnosti se nikdo nemůže vzdát ani zčásti - kogentní ustanovení.
+  * Fyzická osoba -> jako účastník občanskoprávních (soukromoprávních) vztahů -> tvořena **právním postavením** (pasivní status) a **souborem způsobilostí, na jejichž základě se může aktivně účastnit soukromoprávních vztahů** (aktivní status)
+    * Pasivní status - právní subjektivita (právní osobnost) a soubor základních práv a svobod
+    * Aktivní status - svéprávnost - způsobilost k právním úkonům, protiprávním úkonům a protiprávním jednáním
   * Co se počatého dítěte týče -> nasciturus, hledí se na něj jako už na narozené, pokud to vyhovuje jeho zájmům -> § 24 OZ
     * vyvratitelná právní domněnka: **dítě se narodilo živé**, pokud se ale živé nenarodilo, hledí se na něj, **jako by nikdy nebylo**
     * nasciturus má jinak právo nabívat subjektivní práva a podle § 19 OSŘ má i procesní způsobilost -> předpokládám, že by byl zastoupen zákonným zástupcem, nebo opatrovníkem
@@ -630,6 +636,12 @@ Svépomoc je okolností vylučující protiprávnost.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Manželství
+- [ ] Majetkové právo manželské
+- [ ] Rodiče a dítě
+- [ ] Osvojení
+- [ ] Náhradní formy péče o dítě
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
