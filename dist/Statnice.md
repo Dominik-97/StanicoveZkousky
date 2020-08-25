@@ -76,13 +76,13 @@ title: Státnice
 \|---------\| <br>
 
 - [x] § 1 - 14
-- [ ] Dodělat ostatní části této otázky
-- [ ] Pojem
-- [ ] Předmět
-- [ ] Prameny
-- [ ] Systém
+- [x] Dodělat ostatní části této otázky
+- [x] Pojem
+- [x] Předmět
+- [x] Prameny
+- [x] Systém
 - [ ] Systematika občanského zákoníku
-- [ ] Dispozitivní a kogentní normy v občanském právu
+- [x] Dispozitivní a kogentní normy v občanském právu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -106,14 +106,52 @@ title: Státnice
   * **Tyto pravidla se nazývají jako právní pravidla (právní normy), souhrnem těchto norem právní řád, respektive právní systém v objektivním slova smylsu (tvz. objektivní právo), jehož součástí, ačkoli někdy nepsanou, jsou i právní zásady (společně s normami utvářejí funkční strukturu práva).**
   * Právo v objektivním smyslu - právní rámec, stanovuje příkazy a zákazy, jedná se tedy ve své podstatě o psané právo.
   * Právo v subjektivním smyslu - právo chovat se podle obejktivního práva, tedy právo na to chovat se určitým způsobem.
+  * NOZ lze považovat za nejvýznamější pramen občanského práva hmotného, lze považovat za nejvýznamější soubor pravidel lidského chování v oblasti soukromého práva
+  * Zásadní princip nového občanského zákoníku - autonomie vůle, ne jenom úprava majetkových poměrů, ale taková úprava, která umožní v mezích zákona ponechat jednotlivci co největší prostor k vlastnímu vytváření soukromého života - dává jednotlivcům velkou svobodu při úpravě vzájemných práv a poviností (vzájemných vztahů).
+  * Tyto dvě výše zmíněné body se řídí **3 zásadními zásadami** = zásady jsou základní pravidla, které ovládají soukromé právo jako systémový celek a prostupují celou právní úpravou, nutnost je respektovat
+    * *lex generalis*, pokud není *lex specialis* řídí se všechny práva a povinnosti osob tímto předpisem
+    * OZ upravuje obecně osoby a jejich stav - právní následky početí, narození člověka a jeho smrt, nabytí/omezení svéprávnosti, právní subjektivitu u FO a PO, vznik a zánik manželství, vznik a zánik partnerství, PO
+    * OZ shrnuje téma soukromého práva do 4 nejdůležitějších právních institutů, **osoba**, **rodina**, **vlastnictví**, **smlouvy**
+  * Stanovuje mnoho zásad - vymezeno v obecné části občanského zákoníku, obecně do § 14
+    * Rovnost osob, ochrana slabší strany - spotřebitel, nájemce, nezletilí
+    * výklad a použití právního předpisu nesmí vést ke krutosti/bezohlednosti nebo být v rozporu s dobrými mravy
+    * Soukromé právo chrání svobodu a důstojnost člověka
+    * Ochrana života, zdraví, svobody, cti, důstojnosti a soukromí
+    * Rodina, rodičovství a manželství požívají zvláštní ochrany
+    * Nikdo nesmí pro nedostatek věku, rozumu nebo pro závislost svého postavení utrpět újmu
+    * Povinnost splnit slib, povinost poctivého obchodního styku, pactum sum servata
+    * Ochrana vlastnického práva
+    * Nikomu nelze odepřít co mu po právu náleží
+    * Hledisko běžné opatrnosti a profesionality podnikatele
+    * Každý má povinnost jednat v právním styku poctivě, v souladu s dobrými mravy, bezdůvodně neškodit, ochrana dobré víry
+    * Zjevné zneužití práva nepožívá právní ochrany
+    * Ochrana v minulosti nabytých práv - zákaz retroaktivity
+    * Pokud nelze právní případ rozhodnout podle výslovného ustanovení -> rozhodne se podle nejbližšího podobného ustanovení -> jinak podle principů spravedlnosti a zásad
+    * Zásado kdo dřív přijde, ten dřív mele -> například KN
+    * Judikatura má precedenční charakter - očekávání, že případ bude vyřešet obdobně, jako případy podobného typu -> pokud ne, nárok na vysvětlení
+  * Vyvratitelná právní domněnka, že osoba jednala poctivě a s dobrou vůlí
+    * Dobrá vůle obejtivně - osoba a všechny ostatní osoby jsou přesvědčeny, že osobě právo patří, a že osoba jedná po právu
+    * Dobrá vůle subjektivně - osoba je přesvědčena, že jí právo patří a že jedná po právu
+    * *bona fides*
 * Předmět
   * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
 mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
 pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze definovat předmět občanského práva hmotného jako: _Občanské právo lze vymezit jako obecné soukromé právo, jehož předmětem jsou osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva a na všechny občanskoprávní záležitosti, jež se mezi nimi navzájem příznačně realizují na zásadách jejich autonomie vůle a rovného (rozuměj hmotněprávního) postavení jako nejvýraznějších projevů jejich svobody, důstojnosti a rovnosti v soukromém právu._
 * Prameny
   * Ve stejné publikaci Občanské právo hmotné od Wolters Kluwer.
+  * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském etc.
+  * Prameny občanského práva úplně **low level** vycházejí z Ústavního pořádku Čr, především z Ústavy Čr a Listiny základních práv a svobod.
+  * OZ patří mezi nejrozsáhlejší právní kodexy českého právního řádu.
+  * **Převažují v něm normy dispozitivní**
+  * **OZ patří mezi obecný základ dalších právních odvětví soukromého práva a tvoří základ celého právního řádu**
 * Systém
   * Ibid.
+  * Děleno do 5 částí:
+    * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
+    * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
+    * Část třetí - **absolutní majetková práva **- věcná práva, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část čtvrtá - **relativní majetková práva **- smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
+    * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
 * Systematika občanského zákoníku
   * Právní síla.
   * Ibid.
@@ -123,12 +161,19 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Dispozitivní[^1]
     * Ibid.
     * Strany se podle svého uvážení, avšak v mezích zákona, mohou od zákona odchýlit
+    * Typické pro právo soukromé.
+    * Stanovuje pravidlo, které však nemusí platit, dohodnou-li se strany jinak.
     * Dispozitivní části občanského zákoníku:
-      * Část.
+      * Část například většina občanského zákoníku.
   * Kogentní[^2]
     * Strany se v žádném případě nemohou odchýlit od zákona
+    * Není možné ochýlit se od její dispozice.
+    * Typické zejména pro právo veřejné.
+    * Nepřipouští subjektům právního vztahu odchýlení projevu vůle či chování od pravidla stanoveném v kogentní normě.
+    * Subjektům práva stanovují práva a povinnosti a to podmíněně, nebo nepodmíněně.
+    * Rovněž se není možné ochýlit od práva, pokud by takové ujednání mezi stranama porušivalo dobré mravy, nebo veřejný pořádek -> jinak stíženo absolutní neplatností
     * Kogentní části občanského zákoníku:
-      * Část.
+      * Část například statusová -> nikdo se nemůže vzdát právní subjektivity.
 * Obecná část
   * Paragrafy 1 až 14.
 
