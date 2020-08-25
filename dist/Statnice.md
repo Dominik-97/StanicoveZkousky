@@ -181,7 +181,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         * Opravňující
         * Doporučující
         * Teleologické - vyjadřují cíl, ale né prostředek jak ho dosáhnout, ten je standardně ponechán na adresátovi právní normy
-    * Typické zejména pro právo veřejné.
+    * Typické zejména pro právo veřejné, veřejná ingerence do práva.
     * Nepřipouští subjektům právního vztahu odchýlení projevu vůle či chování od pravidla stanoveném v kogentní normě.
     * Subjektům práva stanovují práva a povinnosti a to podmíněně, nebo nepodmíněně (podmíněné - obsahují hypotézu, nepodmíněné - neobsahují hypotézu).
     * Rovněž se není možné ochýlit od práva, pokud by takové ujednání mezi stranama porušivalo dobré mravy, nebo veřejný pořádek -> jinak stíženo absolutní neplatností
@@ -248,6 +248,23 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * **Fyzické osoby**
   * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
   * Daná osoba => má právní subjektivitu a je tak subjektem práva
+  * **Bydliště** - § 80 OZ - člověk má bydliště v místě, kde se zdržuje s úmyslem tam žít s výhradou změny okolností trvale.
+    * každý se může dovolat skutečného bydliště,
+    * Nemá-li člověk bydliště, považuje se za něj místo kde žije
+      * Nelze-li zjsitit -> místo kde má majetek, popřípadě místo, kde žil naposledy
+  * Vznik právní osobnost (právní subjektivity): **narozením**
+  * Zánik právní osobnosti: **smrtí**
+  * Právní osobnosti, ani svéprávnosti se nikdo nemůže vzdát ani zčásti - kogentní ustanovení.
+  * Co se počatého dítěte týče -> nasciturus, hledí se na něj jako už na narozené, pokud to vyhovuje jeho zájmům -> § 24 OZ
+    * vyvratitelná právní domněnka: **dítě se narodilo živé**, pokud se ale živé nenarodilo, hledí se na něj, **jako by nikdy nebylo**
+    * nasciturus má jinak právo nabívat subjektivní práva a podle § 19 OSŘ má i procesní způsobilost -> předpokládám, že by byl zastoupen zákonným zástupcem, nebo opatrovníkem
+  * **Důležitý pojem: plná svéprávnost a zletilost**
+    * Existují dvě formy svéprávnosti -> svéprávnost a plná svéprávnost
+    * Svéprávnost -> svéprávný je každý -> v mezích běžného života i člověk, který je omezen na svéprávnosti, rovněž nezletilý (osoba, která nedovršila věku 18ti let) -> ta je svéprávná v mezích své rozumové a volní vyspělosti a v té také může nabívat práva a povinnosti
+    * Plná svéprávnost -> plně svéprávný je:
+      * **Zletilý člověk, který není omezen na svéprávnosti**
+      * **Plně zesvéprávněný nezletilý -> hovoří se pak o takzvaném plně svéprávném nezletilém**
+        * V případě, že dosáhl 16 roku života a nechal se **A) zesvéprávnit soudem** **B) uzavřel manželství**
 * Podpůrná opatření při narušení schopnosti zletilého právně jednat
   * Předběžné prohlášení
   * Nápomoc při rozhodování
