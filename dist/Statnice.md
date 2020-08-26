@@ -633,6 +633,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Opatrovníkem může být jmenován jen ten, který splňuje požadavky na členství ve statutárním orgánu (například plná svéprávnost, bezúhonnost ve smyslu živnostenského zákona, neprobíhající konkurz etc.)
     - Opatrovník usiluje o obnovení správně funkčnosti a činnosti statutárního orgánu.
     - Zakladatelské právní jednání může určovat kdo má být pro tyto případy jemnován opatrovníkem.
+    - Například v případě nezvěstnosti osoby (pokud je orgán individuální), nebo i pokud je kolektivní - tam ale může soud na návrh oprávněné osoby i jmenovat nové členy na potřebnou dobu, než budou noví členové jmenování postupem určeným v zakladatelském právním jednání.
+    - Rovněž se opatrovník například jmenuje, pokud je zájem člena jejího orgánu v přímém rozporu se zájmem dané právnické osoby.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
