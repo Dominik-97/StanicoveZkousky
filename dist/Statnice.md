@@ -791,8 +791,19 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - možnost požadovat odpovídající chování od jiného
     - možnost požadovat ochranu práva, respektive možnost svépomoci
   - **Dělení subjektivních práv**
-    - **Práva absolutní povahy -** 
-    - **Práva relativní povahy -** 
+    - **Práva absolutní povahy -** jedná se o právo, do kterého ostatní osoby nesmí zasahovat, působí *erga omnes* - právo na život, právo na ochranu osobnosti, vlastnické právo,...
+    - **Práva relativní povahy -** právo, které působí *inter partes*, je uplatňováno ve vztahu ke konkrétnímu subjektu - nájemní právo, právo na zaplacení pohledávky, právo na zdravotní péči,...
+  - **Dělení práv obecně**
+    - práva soukromá
+    - práva veřejná
+    - práva hmotná
+    - práva procesní
+  - **Nejdůležitějším právem jsou základní práva a svobody, zaručeny ústavním právem a mezinárodním právem.**
+  - **Prvky subjektivního práva**
+    - možnost být subjektem (nositelem) práv
+    - možnost se chovat dovoleným způsobem
+    - možnost vyžadovat odpovídající chování jiných subjektů
+    - možnost státně mocenského zásahu
 
 Svépomoc je okolností vylučující protiprávnost.
 
