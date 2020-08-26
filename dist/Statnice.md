@@ -565,6 +565,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - **Zastoupení**
   - O zastoupení se jedná v případě, že jeden jedná za druhého jeho jménem a z tohoto jednání vznikají práva a povinnosti zatupovanému.
   - § 436 - kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem.
+  - V právním jednáním se osoby tedy občas mohou/musí nechat zastoupit - minimální předpoklad pro zástupce je svéprávnost.
   - V případě, že není zřejmé, že někdo jedná za někoho jiného platí, že jedná na vlastní jméno - prokázat, že jedná za jiného může **plnou mocí**.
   - Zástupcem nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže zastupený o takovémto rozporu věděl, nebo vědět musel.
     - Pokud třetí osoba věděla o rozporech zájmů - může se toho zastoupený ve svůj prospěch dovolat.
