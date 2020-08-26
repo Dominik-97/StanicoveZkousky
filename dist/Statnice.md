@@ -150,7 +150,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Děleno do 5 částí:
     * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
     * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
-    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo), dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo) - princip *numerus clausus*, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
     * Část čtvrtá - **relativní majetková práva **- závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
     * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
 * Systematika občanského zákoníku
@@ -593,6 +593,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - **Zákonné zastoupení**
       - vzniká *ex lege*
       - děti a rodiče, manželé, zaměstnanec PO
+      - není obligačně právního charakteru
     - **Zvláštní druhy**
       - PO (statutární orgán atd.)
       - Zastoupení členem domácnosti
@@ -611,7 +612,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
     - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán, nebo jiná určená osoba.
     - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět -> nelze se dovolat neplatnosti takovéhoto jednání -> tedy zavazuje.
-    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
+    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil (pokud se jedná o zastoupení podnikatele -> pokud je dobrá víra na straně spotřebitele -> je podnikatel vždycky zavázán i při excesu).
     - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran (v případě smrti zmocnitele pak pouze pokud z plné moci nevyplývá něco jiného), pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
     - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
   - **Prokura**
@@ -692,18 +693,33 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Majetek** - souhrn všeho co osobě patří.
   - **Jmění** - souhrn majetku a dluhů.
   - Rozdělení věcí jako takové:
-    - **Věci hmotné a nehmotné** -
+    - **Věci hmotné a nehmotné** - § 496 - 497 OZ
+      - Ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
+      - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
+      - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje.**
     - **Ovladatelné přírodní síly** - 
     - **Nemovité a movité věci** - 
+      - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
+      - Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
     - **Zastupitelné věci** - 
+      - Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná, ostatní jsou nezastupitelné - příkladem budiž **peníze**, nebo některé druhy **cenných papírů**.
     - **Zuživatelné věci** - 
+      - Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení je zuživatelná - příkladem je plod stromů - tedy například jablko.
     - **Hromadné věci** - 
+      - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
+      - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
     - **Obchodní závod** - 
     - **Pobočka** - 
     - **Obchodní tajemství** -
 - Součást věci a její příslušenství
   - **Součást** -
+    - Součástí věci je vše, co k ní podle povahy patří a nemůže být od ní odděleno, aniž by se tím znehodnotila.
+    - V NOZ platí (viz věci nemovité), stará římská zásada *superficies solo cedit*.
+    - Povrch ustupuje půdě -> stavba je součástí pozemku, né samostatná věc -> jak tomu bylo za účinnosti starého občanského zákoníku -> existují z toho však výjimky -> například právo stavby.
   - **Příslušenství** - 
+    - Příslušenstvím je vedlejší věc vlastníka, která je určena, aby byla trvale užívána společně s věcí hlavní.
+    - Má se za to (vyvratitlená právní domněnka), že příslušenství sleduje osud věci hlavní.
+    - Příslušenství je však na rozdíl od součásti věci samostatnou věcí.
 - Cenný papír
   - Cenný papír je papír, se kterým je spojeno právo, které bez daného cenného papíru nelze uplatnit nebo převést - jedná se tedy o právo potvrzené daným cenným papírem.
   - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky etc.
