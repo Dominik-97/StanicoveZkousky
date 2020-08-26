@@ -804,6 +804,18 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - možnost se chovat dovoleným způsobem
     - možnost vyžadovat odpovídající chování jiných subjektů
     - možnost státně mocenského zásahu
+  - Člověk má tedy jistá vrozená práva - ty má každý člověk od narození - z toho vychází i jistá hierarchie práv člověka, tato hierarchie je důležitá při kolizi práva - tzn. není možné stanovit takové právo, respektive normu jakéhokoliv charakteru, která by narušovala základní práva každého člověka
+    - **základní práva a svobody** - zaručená ústavou, jsou nezadatelná, nezcizitelná, nezrušitelná a nepromlčitelná, jsou pod ochranou soudu, kterou nelze vyloučit ani zákonem -> ty jsou i definovaná v občanském zákoníku, jako práva, která požívají nejvyšší ochranu
+    - **práva zaručená zákonem**
+    - **práva vyplývající přímo ze zákona**
+    - **práva na základě zákona vyloučená**
+  - **Vymahatelnost subejktivního práva**
+    - subjekt má vůči jinému subjektu nárok **dunucení** splnění jeho povinnosti.
+    - Vymahatelnost subjektivního práva je spojena se státní ochranou stanovenou normami pozitivního práva
+      - **Pozitivní a přírozené právo**
+      - Pozitivní = lze odvodit ze systému vesměs psaných právních norem v té době platných
+      - Přirozené = právo nepsané, univerzální, nezávislé na státu - rovnost všech lidí, požadavek spravedlnosti a zákaz diskriminace - pozitivní právo by se jím mělo řídit
+    - 
 
 Svépomoc je okolností vylučující protiprávnost.
 
