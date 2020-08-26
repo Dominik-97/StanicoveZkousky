@@ -771,6 +771,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Subjektivní práva a povinnosti
+- [ ] Ochrana subjektivních práv
+- [ ] Soukromoprávní odpovědnost
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -778,6 +782,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Subjektivní práva a povinnosti**
+  - Jedná se o realizaci práva objektivního u jednotlivých osob, které tvoří základ konkrétních právních vztahů.
+  - Jedná se tedy o oprávnění, představující jistou míru dovoleného chování subjektu práva.
 
 Svépomoc je okolností vylučující protiprávnost.
 
