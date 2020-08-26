@@ -669,9 +669,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Věci
-- [ ] Součást a příslušenství
-- [ ] Cenný papír
+- [x] Věci
+- [x] Součást a příslušenství
+- [x] Cenný papír
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -786,6 +786,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - **Subjektivní práva a povinnosti**
   - Jedná se o realizaci práva objektivního u jednotlivých osob, které tvoří základ konkrétních právních vztahů.
   - Jedná se tedy o oprávnění, představující jistou míru dovoleného chování subjektu práva.
+  - **Subjetivní právo má tři roviny**
+    - možnost chovat se právně nezakázaným způsobem
+    - možnost požadovat odpovídající chování od jiného
+    - možnost požadovat ochranu práva, respektive možnost svépomoci
+  - **Dělení subjektivních práv**
+    - **Práva absolutní povahy -** 
+    - **Práva relativní povahy -** 
 
 Svépomoc je okolností vylučující protiprávnost.
 
