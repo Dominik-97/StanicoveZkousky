@@ -558,29 +558,47 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - **Zastoupení**
   - O zastoupení se jedná v případě, že jeden jedná za druhého jeho jménem a z tohoto jednání vznikají práva a povinnosti zatupovanému.
+  - § 436 - kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem.
   - V případě, že není zřejmé, že někdo jedná za někoho jiného platí, že jedná na vlastní jméno - prokázat, že jedná za jiného může **plnou mocí**.
   - Zástupcem nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže zastupený o takovémto rozporu věděl, nebo vědět musel.
+    - Pokud třetí osoba věděla o rozporech zájmů - může se toho zastoupený ve svůj prospěch dovolat.
   - Zástupce musí jednat vždy osobně, jednat může i prostřednictvím zástupce, ale pouze pokud si to ujednal se zastoupeným, nebo vyžaduje-li to nutná potřeba, odpovídá však za výběr zástupce.
   - Pokud má zastoupený pro tutéž záležitost více zástupců platí, že každý zástupce může jednat samostatně.
-  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce.
+  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce - příklad kdy se toto ustanovení uplatní je například u nepřikázaného jednatelství.
   - Existují dva druhy zastoupení **příme** a **nepřímé**, u přímého jedná zástupce na účet a jménem zastoupeného, práva a povinnosti tedy vznikají přímo zastoupenému, u nepřímého jedná na účet zastoupeného, ale svým vlastním jménem, právní následky tedy vznikají přímo u zástupce, a užitek ze zastoupení potom na zastoupeného musí převést.
+  - **Přímé zastoupení**
+    - Vzniká na základě zákona (právní zástupce nezletilých), nebo ze smlouvy
+  - **Nepřímé zastoupení**
+    - = náhradnictví
+    - patří do obligačního práva
+    - substituta je možné ustanovit, jen dovoluje-li to zákon
   - Druhy zastoupení:
     - **Smluvní zastoupení** a **prokura**
+      - Smlouva o zastoupení
+      - zmocnitel a zmocněnec
+      - plná moc - osvědčení pro zástupčí oprávnění
+      - prokura - jen pro podnikatele zapsané v OR
     - **Zákonné zastoupení**
-    - **Opatrovnictví**
+      - vzniká *ex lege*
+      - děti a rodiče, manželé, zaměstnanec PO
+    - **Zvláštní druhy**
+      - PO (statutární orgán atd.)
+      - Zastoupení členem domácnosti
+      - **Opatrovnictví** - na základě rozhodnutí soudu
   - **Smluvní zastoupení**
-    - Strany: **Zmocnitel** a **zmocněnec**.
+    - Strany: **Zmocnitel** (zastupovaný) a **zmocněnec **(zástupce).
+    - Ujednají-li si to strany, zastupuje jedna z nich druhou v ujednaném rozsahu jako zmocněnec.
     - Rozsah zmocnění je uveden v plné moci, u té postačí ověřené podpisy.
     - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku.
     - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
-    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán.
-    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět.
+    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán, nebo jiná určená osoba.
+    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět -> nelze se dovolat neplatnosti takovéhoto jednání -> tedy zavazuje.
     - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
     - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran, pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
     - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
   - **Prokura**
     - Podnikatel zapsaný v obchodním rejstříku uděluje prokuru prokuristovi a zmocňuje ho tím ke všem právním jednáním, ke kterým dochází při provozu obchodního závodu nebo pobočky, zcizení a nebo zatížení však je možné pouze, pokud je to výslovně ujednáno.
-    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru.
+    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru, může však udělovat plné moci.
     - Výkon s péčí řádného hospodáře, vnitřní předpisy omezující prokuru nejsou závazné vůči třetím osobám i když byly zveřejněny.
     - Zánik: obdobný jako u smluvního zastoupení + převodem nebo pachtem obchodního závodu, smrtí podnikatele nezaniká, ledaže bylo ujednáno něco jiného.
   - **Zákonné zastoupení a opatrovnictví**
