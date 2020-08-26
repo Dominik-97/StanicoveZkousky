@@ -688,7 +688,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Plod** - co poskytuje věc ze své přirozené povahy.
   - **Užitek** - co věc pravidelně poskytuje ze své právní povahy.
   - **Cena** - hodnota věci v penězích, určí se jako cena obvyklá pokud není ujednáno jinak, nebo jinak nestanoví zákon.
-  - Lidské tělo ani jeho část není věcí.
+  - Lidské tělo ani jeho část není věcí - ani po oddělení.
   - Rovněž živé zvíře není věcí, nýbrž se jedná o živé zvíře, ustanovení o věci se na něj použijí jen v rozsahu, ve kterém to neodporuje jeho povaze.
   - **Majetek** - souhrn všeho co osobě patří.
   - **Jmění** - souhrn majetku a dluhů.
@@ -696,8 +696,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - **Věci hmotné a nehmotné** - § 496 - 497 OZ
       - Ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
       - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
-      - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje.**
+      - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje - abstraktní věci.**
     - **Ovladatelné přírodní síly** - 
+      - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
     - **Nemovité a movité věci** - 
       - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
       - Pokud zákon stanoví, že určitá věc není součástí pozemku, ale pokud nelze takovou věc přenést z místa na místo bez porušení její podstaty -> i takováto věc je nemovitá - dalo by se říci tedy například nějaký stroj, který je pevně spojen s budovou.
@@ -711,8 +712,20 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
     - **Obchodní závod** - 
+      - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
     - **Pobočka** - 
+      - Pobočka - součást závodu, která vykazuje funkční i hospodářskou samostatnost (obejktivní kritérium) a o které podnikatel rozhodl, že bude pobočkou (subjektivní kritérium).
+      - Pobočku lze rovněž zapsat do OR - pak se jedná o odštěpný závod - to platí i o jiné organizační složce pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku.
+      - Vedoucí odštěpného závodu - jako zástupce podnikatele ve všech činnostech, které se týkají provozu odštěpného závodu - ode dne, kdy byl jako vedoucí odštěpného závodu zapsán do OR, do té doby - zastoupení podnikatele k určité činnosti - viz otázka obchodní právo.
     - **Obchodní tajemství** -
+      - Obchodní tajemství tvoří konkurenčně významné, určitelné, ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti, které souvisejí se závodem a jejichž vlastník zajišťuje ve svém zájmu odpovídajícím způsobem jejich utajení.
+      - Podmínky:
+        - **Konkurenčně významné**
+        - **Určitelné**
+        - **Ocenitelné**
+        - **V příslušných kruzích běžně nedostupné**
+        - **Související se závodem**
+        - **Kterým je zajišťováno odpovídající utajení**
 - Součást věci a její příslušenství
   - **Součást** -
     - Součástí věci je vše, co k ní podle povahy patří a nemůže být od ní odděleno, aniž by se tím znehodnotila.
@@ -724,16 +737,21 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Příslušenství je však na rozdíl od součásti věci samostatnou věcí.
 - Cenný papír
   - Cenný papír je papír, se kterým je spojeno právo, které bez daného cenného papíru nelze uplatnit nebo převést - jedná se tedy o právo potvrzené daným cenným papírem.
-  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky etc.
+  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky, pokladniční poukázy etc.
+  - Cenné papíry peněžního a finančního trhu - krátkodobé a dlouhodobé.
   - **Zastupitelné cenné papíry** - jedná se o **věc zastupitelnou**, tedy o cenné papíry téhož druhu jež jsou svým právním obsahem stejné,~~, pokud je uplatněno právo z jednoho, ostatní zanikají.~~ jedná se tedy například o akcie, vydané stejným emitentem se stejnou formou o stejné jmenovité hodnotě.
   - **Forma cenného papíru:**
-    - Na jméno - 
-    - Na řad - 
-    - Na doručitele - 
-  - **Emise cenného papíru** - 
-  - **Vydání cenného papíru** - 
-  - **Stejnopisy cenného papíru** - 
-  - **Kupón** - 
+    - Na jméno - obsahují jméno, rozdíl je v převodu
+    - Na řad - obsahují jméno, rozdíl je v převodu
+    - Na doručitele - anonymní vlastník cenného papíru, není na něm jméno.
+  - **Emise cenného papíru** - vydání cenného papíru prvnímu nabyvateli.
+  - **Vydání cenného papíru** - vydán dnem, kdy splňuje potřebné zákonné požadavky a kdy se stane majetkem prvního majitele.
+  - **Stejnopisy cenného papíru** - musí být číslovány, jinak se považují za samostatný cenný papír, pokud je uplatněno právo z jednoho, ostatní zanikají.
+  - **Kupón** - pokud je s cenným papírem spojen právo na výnos, může být spojeno s kupónem, který je možné využít pro uplatnění takovéhoto práva.
+  - **Hromadná listina** - pouze listina, která lze vydat místo zastupitelných cenných papírů a tvoří tedy sourhn těchto zastupitelných cenných papírů.
+  - Nakonec je důležité zmínit podobu cenných papírů:
+    - Listinné - cenné papíru například v podobě "listu papíru"
+    - Zaknihované - papíry, které jsou v centrálním depozitáři cenných papírů, existují tedy pouze v jakési elektronické evidenci, listinný cenný papír lze imobilizovat -> převést ho na zaknihovanou podobu.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
