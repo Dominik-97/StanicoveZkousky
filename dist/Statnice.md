@@ -581,7 +581,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - substituta je možné ustanovit, jen dovoluje-li to zákon
   - Druhy zastoupení:
     - **Smluvní zastoupení** a **prokura**
-      - Smlouva o zastoupení
+      - Smlouva o zastoupení - může se jednat jak o přímé, tak o nepřímé zastoupení, například co se týče příkazních smluv
+        - Příkaz
+        - Zprostředkování
+        - Komisionářská smlouva
+        - Zasílatelství
+        - Obchodní zastoupení
       - zmocnitel a zmocněnec
       - plná moc - osvědčení pro zástupčí oprávnění
       - prokura - jen pro podnikatele zapsané v OR
