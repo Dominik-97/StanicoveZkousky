@@ -331,6 +331,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
 * **Ochrana osobnosti člověka**
   * Co se ochrany týče -> § 81 stanovuje takzvaná **všeobecná osobností práva** - přirozená práva -> každý je povinen je ctít
+  * **Osobnost v právním smyslu** = všeobecné osobnostní právo = celek hodnot lidské osobnosti
+    * patří spolu se statusovými právy do soukromých práv osobních
+    * neoddělitelně spjata s osobností člověka
+    * má absolutní povahu *erga omnes*
+    * trvá od narození do smrti
+    * § 81 - 114 OZ
   * Ochrany požívá zejména: **život, důstojnost, zdraví, právo žít v příznivém životním prostředí, vážnost, čest, soukromí a projevy osobní povahy**.
   * Dále jsou chráněny: **písemnosti osobní povahy, podobizny, obrazové a zvukové záznamy -> tedy lidé na nich, je možné je reprodukovat pouze se svolením daných osob/popřípadě pokud je licence -> úřední, vědecká, umělecká, zpravodajská**
   * **Jak je možné se chránit?**
@@ -660,6 +666,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - Věci
   - Vše co je odlišné od osoby a slouží potřebě lidí.
+  - Věc je v právním smyslu předmět subjektivního práva
   - Věc určená k obecnému užívání je veřejný statek.
   - **Plod** - co poskytuje věc ze své přirozené povahy.
   - **Užitek** - co věc pravidelně poskytuje ze své právní povahy.
