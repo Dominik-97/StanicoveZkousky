@@ -409,7 +409,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Veřejné rejstříky a identifikace právnických osob**
     - NOZ se věnuje částečně i rejstříku právnických osob -> detailní úprava je však ponechána vzhledem ke svému veřejnoprávnímu charakteru na dalších předpisech a pouze stanovuje základní regulativní rámec -> povinně zapisované údaje a zásady materiální a formální publicity.
     - **Materiální publicita** = lze důvěřovat údajům zapsaným v rejstříku -> ten kdo se jich dovolá -> není proti němu možné namítat, že údaje neodpovídají skutečnosti -> podpořeno i tím, že pokud se nějaký zapsaný údaj změní -> zapsaná osoba to musí oznámit tomu, kdo vede rejstřík -> ten opraví
-    - **Formální publicita** = rejstřík je veřejně přístupný veřejnosti k nahlédnutí
+    - **Formální publicita** = rejstřík je veřejně přístupný veřejnosti k nahlédnutí, k tvoření výpisů a opisů
     - Základní povinně zapisované údaje:
       - Název
       - Sídlo
@@ -482,9 +482,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Ty jsou upraveny pro některé druhy právnických osob v občanském zákoníku, pro jiní je zas úprava obsažena v jiných právních předpisech, například pro obchodní korporace je daná úprava obsažena v zákoně o obchodních korporacích a družstvech.
 - **Založení, vznik, zrušení & zánik právnické osoby**
   - NOZ staví na čtyřstupňovém životním cyklu právnických osob - tedy **založení**, **vznik**, **zrušení** (s likvidací a bez likvidace) a **zánik** - na rozdíl od fyzické osoby, kde je vznik právní subjektivity narození a zánik smrt.
-  - Vě věci založení zavádí NOZ pojem **zakladatelské právní jednání** - povaha jednání jako skutečného projevu vůle se svým obsahem, zatímco dokument jako jeho pouhého formálního zachycení.
+  - Vě věci založení zavádí NOZ pojem **zakladatelské právní jednání** - povaha jednání jako skutečného projevu vůle se svým obsahem, zatímco dokument jako jeho pouhého formálního zachycení - standardně má ale formu veřejné listiny.
   - **Zakladatelské právní jednání má rozdílnou povahu (formu) u různých právnických osob - u s.r.o. je to například společenská smlouva -> více zakladatelů, nebo zakladatelské listiny v případě jednoho zakladatele.**
-  - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení) -> jedná se tedy o konstitutivní zápis.
+  - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení - buď přímo na rejstříkový soud, nebo pomocí notáře) -> jedná se tedy o konstitutivní zápis.
   - Po vzniku PO se již nelze domáhat toho, že osoba nevznikla -> soud může pouze ve vymezených důvodech prohlásit neplatnost podle § 129 OZ, a to v případě, že nejsou odstraněny nedostatky v přiměřené lhůtě § 130 OZ -> například pokud není v pořádku zakladatelské právní jednání, právnickou osobu založilo méně zakladatelů, než je potřeba, nebo byla právnická osoba založena za účelem porušování práva.
   - **Zrušení PO**
     - Právním jednáním jejiho příslušného orgánu
