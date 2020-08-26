@@ -771,9 +771,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Subjektivní práva a povinnosti
-- [ ] Ochrana subjektivních práv
-- [ ] Soukromoprávní odpovědnost
+- [x] Subjektivní práva a povinnosti
+- [x] Ochrana subjektivních práv
+- [x] Soukromoprávní odpovědnost
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1397,6 +1397,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Subjekty civilního procesu
+- [ ] Procesní úkony
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1404,6 +1407,55 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Právo hmotné a procesní**
+  - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
+  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo.
+
+- **Subjekty civilního procesu**
+  - Procesní subjekty = subjekty, kteří právně ovlivňují proces, jsou vybaveni procesními právy a povinostmi, vznikají mezi nimi procesněprávní vztahy
+    - **Soud** - základní subjekt, instituce, prostřednictvím, které zajišťuje stát ochranu práv
+      - rozhodovací pravomoc => má nadřazené postavení
+      - stát je v rámci základního procesního vztahu "nezůčastněným třetím" a zároveň autoritou
+    - **Účastníci řízení**
+      - druhý nezbytný prvek společně se soudem, bez nich by řízení nemohlo existovat
+      - je základním subjektem, pro nesporná řízení - minimálně 1, pro sporná minimálně 2
+      - pouze osobě účastníka vznikají práva a povinnosti a pouze o nich se jedná
+      - účastník je účastníkem zásadně po celé řízení - existují výjimky - záměna úč., procesní nástupnictví atd.
+        - Záměna - §92 OSŘ - na návrh žalobce se souhlasem žalovaného - možné, aby žalobce nebo žalovaný z řízení vystoupil a na jeho místo nastoupil někdo nový
+        - Nástupnictví - například pokud někdo ztratí způsobilost být účastníkem - ten který vstoupil do práva a povinnosti může nastoupit na místo předchozího účastníka, je-li to možné.
+      - Účastníci mají práva a mají i povinnosti
+      - Příklad práv:
+        - rovné postavení
+        - dispoziční právo - především v řízení sporném
+        - možnost se vyjádřit
+        - být poučen
+        - nahlížet do spisu
+        - právo závěrečné řeči
+        - jednat před soudem ve své mateřštině (právo na překladatele)
+      - Příklad povinností
+        - "starat se o proces"
+        - důkazní povinnost - musí k prokazování svých tvrzení předkládat důkazy
+        - povinnost tvrzení - musí tvrdit všechny rozhodující skutečnosti
+        - povinnost dostavit se k soudu
+    - **Definice účastníků**
+      - U sporného řízení
+        - žalobce a žalovaný
+        - vedlejší účastník - účastník s právním zájmem na jeho výsledku
+          - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
+          - má stejná práva a povinnosti jako účastník
+      - U nesporného řízení
+        - navrhovatel a ten, o jehož právech či povinnostech má být v řízení jednáno
+        - navrhovatel a ten, jehož za účastníka označí zákon
+      - **Zvláštní subjekty řízení**
+        - subjekty, které reprezentují veřejný nebo jiný zájem odlišný od osobního zájmu
+          - státní zastupitelství - například v určitých typech řízení, která jsou upravena v ZZŘS
+          - úřad pro zastupování státu ve věcech majetkových
+        - subjekty vykonávající pomocné, ve vztahu k účasníkům a soudu samostatné funkce
+          - správce porůstalosti, správce konkurzní podstaty aj.
+          - a další osoby zůčastněné na řízení jako:
+            - svěděk, znalec, zmocněnec účastníka, kolizní opatrovník (divák není účastníkem)
+          - pro určitý úsek mohou být i účastníky -> když se rozhoduje o jejich právu (například svědek při rozhodováním o svědečném - náhrada hotových výdajů a ušlého výdělku, znalec při rozhodování o znalečném - náhrada hotových výdajů a odměna)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
