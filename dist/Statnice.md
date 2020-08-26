@@ -598,15 +598,21 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Zastoupení členem domácnosti
       - **Opatrovnictví** - na základě rozhodnutí soudu
   - **Smluvní zastoupení**
-    - Strany: **Zmocnitel** (zastupovaný) a **zmocněnec **(zástupce).
+    - Strany: **Zmocnitel** (zastupovaný) a **zmocněnec **(zástupce) - obě strany mohou být jak PO, tak i FO.
     - Ujednají-li si to strany, zastupuje jedna z nich druhou v ujednaném rozsahu jako zmocněnec.
+    - Právním důvodem vzniku zastoupení je smlouva o zastoupení - osvědčována plnou mocí.
     - Rozsah zmocnění je uveden v plné moci, u té postačí ověřené podpisy.
-    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku.
+    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku, musí v ní být uveden rozsah zmocněncova oprávnění - může být ústní, nebo písemná, standardně je **písemná s ověřeným podpisem** - nutná je zejména pokud:
+      - Právní úkon, který má zmocněnec učinit má psanou formu,
+      - pokud se plná moc netýká jen určitého právního úkonu.
+      - **Rozlišují se dva typy plné moci:**
+        - Speciální - udělena k jednomu, nebo k několika speciálním právním jednáním
+        - Generální - udělena ke všem právním jednáním, která by jinak mohl vykonat zmocnitel
     - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
     - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán, nebo jiná určená osoba.
     - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět -> nelze se dovolat neplatnosti takovéhoto jednání -> tedy zavazuje.
     - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
-    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran, pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
+    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran (v případě smrti zmocnitele pak pouze pokud z plné moci nevyplývá něco jiného), pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
     - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
   - **Prokura**
     - Podnikatel zapsaný v obchodním rejstříku uděluje prokuru prokuristovi a zmocňuje ho tím ke všem právním jednáním, ke kterým dochází při provozu obchodního závodu nebo pobočky, zcizení a nebo zatížení však je možné pouze, pokud je to výslovně ujednáno.
@@ -641,6 +647,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Zakladatelské právní jednání může určovat kdo má být pro tyto případy jemnován opatrovníkem.
     - Například v případě nezvěstnosti osoby (pokud je orgán individuální), nebo i pokud je kolektivní - tam ale může soud na návrh oprávněné osoby i jmenovat nové členy na potřebnou dobu, než budou noví členové jmenování postupem určeným v zakladatelském právním jednání.
     - Rovněž se opatrovník například jmenuje, pokud je zájem člena jejího orgánu v přímém rozporu se zájmem dané právnické osoby.
+- **Ještě se dá hovořit o zastoupení - advokacie, notářem**
+  - Jejich jednání se pak řídí specifickými zákony - zákon o advokacii a zákon o notářství
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
