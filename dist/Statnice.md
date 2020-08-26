@@ -383,7 +383,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - [ ] § 118 - 435
 - [ ] Pojem
 - [ ] Třídění
-- [ ] Organizační struktura
+- [x] Organizační struktura
 - [ ] Přičítání právního jednání a protiprávních činů
 - [ ] Vznik a zánik
 - [ ] Likvidace
@@ -406,6 +406,60 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - První rovina = omezení práv a povinností ve smyslu těch, která přísluší výhradně člověku -> tedy například právo osvojit si dítě, vyživovací povinnost atd.
     - Druhá rovina je omezení stanovená pro právnické osoby **veřejného práva** -> ty jsou vyhrazeny ve zvláštních zákonech - například obce a kraje a **soukromého práva** -> nadace, spolky...
     - Třetí rovinou jsou omezení, stanovená pro jednotlivé typy právnických osob podle formy - tedy rozdíly u a.s., s.r.o. atd.
+  - **Veřejné rejstříky a identifikace právnických osob**
+    - NOZ se věnuje částečně i rejstříku právnických osob -> detailní úprava je však ponechána vzhledem ke svému veřejnoprávnímu charakteru na dalších předpisech a pouze stanovuje základní regulativní rámec -> povinně zapisované údaje a zásady materiální a formální publicity.
+    - **Materiální publicita** = lze důvěřovat údajům zapsaným v rejstříku -> ten kdo se jich dovolá -> není proti němu možné namítat, že údaje neodpovídají skutečnosti -> podpořeno i tím, že pokud se nějaký zapsaný údaj změní -> zapsaná osoba to musí oznámit tomu, kdo vede rejstřík -> ten opraví
+    - **Formální publicita** = rejstřík je veřejně přístupný veřejnosti k nahlédnutí
+    - Základní povinně zapisované údaje:
+      - Název
+      - Sídlo
+      - Den vzniku, zrušení a zániku
+      - Činnost
+      - Členové statutárního orgánu (jejich identifikační údaje) a způsob jejich jednání a časové vymezení jejich funkce
+    - **Identifikace PO**
+      - Odlišuje od jiných osob - nesmí být zaměnitelný a klamavý, složen z kmenu a právní formy (viz otázka Obchodní právo).
+      - Název může obsahovat i jméno FO -> se souhlasem a pokud je k němu zvláštní vztah
+      - Zaměnitelnost jmen není tak přístá v případě -> že se jedná o koncerny
+      - Název FO je chráněn i před zpochybněním a hrozící újmou -> tedy potenciálními zásahy, rovněž je chráněna pověst (goodwill) PO
+    - **Sídlo**
+      - Můžě být i v bytě - pokud nenarušuje klid a pořádek -> například časté obchodní návštěvy
+      - Skutečné/zapsané -> každý se může dovolat jak skutečného, tak i zapsaného sídla
+      - **Přemístění** -> je možné ze zahraničí do Čr -> pak je potřeba zvolit českou formu právnické osoby, nebo i z Čr do zahraničí, pokud to neodporuje veřejnému pořádku a právnímu řádu země, do které chce PO sídlo přemístit
+    - **Veřejná prospěšnost**
+      - Účel PO může být i obecně prospěšný -> svojí činností přispívá k veřejnému blahu -> své jmění využívá k veřejně prospěšnému účelu.
+      - Příkladem může být nadace.
+      - Výkon pouze bezúhonými osobami a majetek z poctivých zdrojů
+    - **Jednání**
+      - Jsou zastupovány FO, které za ně jednají ve smyslu přímého zastoupení (na jejich účet, jejich jménem) přímo jako jejich orgány, nebo na základě smluvního zastoupení (přímého, nepřímého).
+      - Základem jsou však orgány -> individuální (jeden člen), kolektivní (více členů).
+      - Protiprávní jednání FO zaměstnaných v PO, nebo jí zastupujících vůči třetí osobě PO zavazuje -> sankce tedy postihuje právnickou osobu -> ta ale může uplatnit regres -> vymáhání náhrady za plnění, které bylo poskytnuto za jinou osobu, která by jinak měla plnit.
+- **Třídění**
+  - Viz otázka v Obchodním právu.
+  - Buď na veřejnoprávní a soukromoprávní.
+  - Nebo na:
+    - Korporace - spolky, družstva, obchodní korporace
+    - Fundace - nadace a nadační fondy
+    - Ústavy
+  - **Spolek** - tvoří společenství osob, jehož základem je osobní složka (corpus = latinsky tělo).
+    - Nejméně tři osoby, společný zájem na vytvoření samosprávného dobrovolného svazku.
+    - Zákaz nucení vstupu, nebo zákazu vystoupení
+    - Členové neručí za jeho dluhy
+    - Název - dodatek - spolek, zapsaný spolek, nebo z.s.
+    - Hlavní činností -> pouze ochrana a uspokojování těch zájmů, které vedly společníky k jeho založení
+    - Nelze zakládat za účelem podnikání, nebo jiné výdělečné činnosti
+    - Příkladem může být spolek pro obnovu venkova Čr
+  - **Fundace** - PO vytvořená majetkem vyčleněném k určitému účelu - činnost se váže k účelu k němuž byla zřízena (fundus = latinsky základ)
+    - Fundace se ustanovují zakladatelským právním jednáním nebo zákonem
+    - Nadace a nadační fondy
+    - **Nadace**
+      - Založení k užitečnému účelu -> veřejně prospěšný/dobročinný
+      - Zákaz založení k podpoře politických stran, nebo za výdělečnými účely -> soud takovou může i bez návrhu zrušit s likvidací
+      - Smí podnikat -> výtěžek ale smí použít pouze k podpoře svého účelu, podnikání musí představovat pouze vedlejší činnost, podnikání je možné vyloučit v nadační listině zakladatelem -> pak podnikat nesmí
+      - Název -> obsahuje slovo nadace a standardně i uvádí její účel
+      - Založení nadační listinou -> tou může být zakládací listina, nebo pořízení pro případ smrti
+      - Nadační listina -> musí mít formu veřejné listiny -> povinný obsah -> název, sídlo, jméno a bydliště zakladatele, účel a výši nadačního kapitálu - při založení minimálně 500 000 Kč.
+      - **Organizace:** upravuje její statut, **statutárním orgánem** je správní rada (alespoň tři členové), **dozorčím orgánem** bývá dozorčí rada, pokud není zřízena, tak revizor.
+      - Nadace vzniká dnem zápisu do nadačního rejstříku a zaniká dnem výmazu z něj.
 - **Organizační struktura**
   - NOZ předpokládá, že právnická osoba je organizovaným útvarem, čímž naznačuje existenci její vnitřní struktury - tak to i musí být, protože právnická osoba je jen fingovaná osoba, není skutečně živá a nemá svéprávnost, vždycky tedy musí být někdo, kdo jí bude zastupovat a jehož přičiněním bude daná právnická osoba nabívat práv a poviností.
   - Struktura právnické osoby je v právním smyslu složena z jejích orgánů, jejichž členové jsou buď fyzické osoby nebo právnické osoby -> ty ale zastupuje člen jejich orgánu, nebo pověřená osoba.
@@ -417,7 +471,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Zakladatelské právní jednání má rozdílnou povahu (formu) u různých právnických osob - u s.r.o. je to například společenská smlouva -> více zakladatelů, nebo zakladatelské listiny v případě jednoho zakladatele.**
   - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení) -> jedná se tedy o konstitutivní zápis.
   - Po vzniku PO se již nelze domáhat toho, že osoba nevznikla -> soud může pouze ve vymezených důvodech prohlásit neplatnost podle § 129 OZ, a to v případě, že nejsou odstraněny nedostatky v přiměřené lhůtě § 130 OZ -> například pokud není v pořádku zakladatelské právní jednání, právnickou osobu založilo méně zakladatelů, než je potřeba, nebo byla právnická osoba založena za účelem porušování práva.
-  - 
+  - **Zrušení PO**
+    - Právním jednáním jejiho příslušného orgánu
+    - Uplynutím doby na kterou byla ustanovena, pokud není ustanovena na dobu neurčitou (má se za to, že je ustanovena na dobu neurčitou, pokud není určeno datum)
+    - Dosažením účelu, pro který byla založena
+    - Rozhodnutím soudu, či jiného orgánu veřejné moci
+  - Standardně se ruší s likvidací -> likvidátor vymáhá její pohledávky, uhrazuje její dluhy a zpeněžuje její majetek.
+  - Bez likvidace se ruší pouze -> pokud se PO ruší pří přeměně, nebo pokud je osvědčen její úpadek -> zrušuje se po zrušení konkurzu po splnění rozvrhového usnesení, nebo pokud je majetek nepostačující ke konkurzu, pokud se nějaký majetek dodatečně objeví -> vstoupí po skončení insolvenčního řízení do likvidace.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1418,6 +1478,9 @@ finanční arbitr
     - Viz členění
   - **neplnoprávní podnikatelé**
     - Viz členění
+  - **PO podnikatelé a nepodnikatelé**
+    - Běžné PO jsou podnikatelé -> například Obchodní korporace
+    - Jsou i PO, které ze zákona podnikat nemohou -> například spolek -> spolek tedy není podnikatelem -> nepodnikající PO
 - **Podnikání**
   - Podníkání jest.
 - **Obchodní závod**
