@@ -838,6 +838,33 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **soudní ochrana** - poskytováno soudní mocí = pokud se subjekt obrátí na soud a splní všechny zákonem stanovené podmínky -> soud jej nesmí odmítnout a musí jeho věc rozhodnout -> proto **základní formou poskytnutí ochrany subjektivních práv jsou rozhodnutí soudu**
   - **ochrana pokojného stavu** - kdo se domnívá, že byl porušen pokojný stav, může se domáhat ochrany u příslušného orgánu státní správy = ochrana provizorní (rozhodnutí je předběžné, účastník se může obrátit na soud)
   - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze
+- **Soukromoprávní odpovědnost**
+  - **Vymezení deliktu**
+    - Porušení práva nebo jím stanovené povinnosti
+    - V trestním právu -> trestné činy -> přečiny a zločiny
+    - V občanském právu se jedná o soukromoprávní delikty -> porušení zákonnem stanovené povinnosti, porušení smluvní povinnosti, porušení dobrých mravů, omezení hospodářské soutěže - především nekalá soutěž -> vzniká sekundární závazek ve smyslu nahrazení škody, nebo nemajetkové újmy. Zákon se o ně ale standardně nestará automaticky, ochrany je nutné se domáhat u soudu podáním žaloby v občanskoprávním řízení.
+      - Koresponduje s ní právo postiženého -> škůdce porušil porušil primární povinnost -> nastává sekundární nepříznivý právní následek pro škůdce -> **sankční povinnost**
+    - Protiprávní jednání kdy do hry nevstupuje stát
+    - Jedná se tudíž o vztah mezi několika subjekty, které mají totožné postavení.
+    - Škůdce je vždy povinen odčinit své jednání a nahradit poškozenému újmu -> pokud samozřejmě žaluje.
+  - **Delikt v občanském právu**
+    - Dělí se podle toho, zda byla porušená povinnost dána smlouvou, nebo zákonem
+    - Sekundární závazky, které vznikají z deliktů:
+      - Závazky z deliktů
+        - **náhrada majetkové a nemajetkové újmy**
+        - **zenužití a omezení soutěže**
+      - Závazky z jiných právních důvodů
+        - **bezdůvodné obohacení**
+        - **nepřikázané jednatelství**
+        - **upotřebení cizí věci ku prospěchu jiného**
+    - **Dle toho, co je obsahem vztahu, na základě kterého byla založena odpovědnost lze rozlišovat odpovědnosti na:**
+      - **odpovědnost za škodu** - vznik nové povinnosti, kterou povinný před jejím vznikem neměl
+      - **odpovědnost za prodlení** - přistoupení nově vzniklé povinnosti k předchozí povinnosti, kterou povinný měl
+      - **odpovědnost za vady** - přeměna původní povinnosti dodat bezvadnou věc na povinnost poskytnou něco jiného
+      - **odpovědnost za nemajetkovou újmu**
+  - **Druhy odpovědnosti:**
+    - **subjektivní** = odpovědnost za zavinění -> exulpace, vyvinění -> pokud se prokáže, že nezavinil, zbaví se odpovědnosti
+    - **objektivní** = odpovědnost za protiprávní stav - za výsledek - nelze se vyvinit, ale pouze liberovat -> pokud se prokáže, že i kdyby vyvinul veškeré úsilí, které od něj lze spravedlivě vyžadovat, škodlivý následek by stejně nastal -> například živelné pohromy
 
 ~~Svépomoc je okolností vylučující protiprávnost.~~
 
