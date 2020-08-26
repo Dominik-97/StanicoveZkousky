@@ -700,11 +700,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - **Ovladatelné přírodní síly** - 
     - **Nemovité a movité věci** - 
       - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
+      - Pokud zákon stanoví, že určitá věc není součástí pozemku, ale pokud nelze takovou věc přenést z místa na místo bez porušení její podstaty -> i takováto věc je nemovitá - dalo by se říci tedy například nějaký stroj, který je pevně spojen s budovou.
       - Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
     - **Zastupitelné věci** - 
       - Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná, ostatní jsou nezastupitelné - příkladem budiž **peníze**, nebo některé druhy **cenných papírů**.
     - **Zuživatelné věci** - 
       - Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení je zuživatelná - příkladem je plod stromů - tedy například jablko.
+      - Zuživatelná věc je rovněž věc, která náleží skladu a nebo jinému souboru -> pokud jejich běžné užití spočívá v tom, že jsou prodávány jednotlivě.
     - **Hromadné věci** - 
       - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
