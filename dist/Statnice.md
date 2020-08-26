@@ -815,9 +815,31 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - **Pozitivní a přírozené právo**
       - Pozitivní = lze odvodit ze systému vesměs psaných právních norem v té době platných
       - Přirozené = právo nepsané, univerzální, nezávislé na státu - rovnost všech lidí, požadavek spravedlnosti a zákaz diskriminace - pozitivní právo by se jím mělo řídit
-    - 
+    - **Vymáhání subjektivního práva má tři způsoby**
+      - **Prostřednictvím státu -** stát garantuje práva a vynucuje plnění povinnosti. Vymáhání/nebo ochrana subjektivního práva za pomoci soustavy soudů
+      - **Prostřednictím svémoci -** není typická pro demokratické země, ale je zakotvena v občanském zákoníku, jedná se o donucení vlastními silami, typicky pokud je oslabena pozice státu, jeho pomoc není možná, nebo by přišla pozdě. Svémoc se uplatňuje pomocí jednání v **nutné obraně**, jednání v **krajní nouzi**,... - obecně je zakotvena v § 14 OZ
+        - Nutná obrana - odvrácení útoku
+        - Krajní nouze - odvrácení nebezpečí újmy, není nutné hradit škodu, ale nesmí způsobit větší škodu, než která by vznikla, pokud by neodvracel
+        - Svémoc je standardně okolností vylučující protiprávnost a nutnost náhrady škody.
+      - **Zadržením věci -** právo na zadržení věci, když dlužník nesplní svou povinnost (když dlužník neplatí, je možné mu zadržet věc v odpovídající hodnotě)
+  - **Subjektivní povinnost**
+    - Subjektivní právo a povinnost jsou párové pojmy - nelze mít práva bez odpovídajících povinností, neboť možnost chovat se určitým způsobem musí být vždy spojena s povinností jiného chovat se tomu odpovídajícím způsobem
+    - nutnost chovat se způsobem stanoveným právní normou (pokud není splněna dobrovolně, lze jí podle objektivního práva vynutit státním donucením)
+    - **subjektivní práva a povinnosti = obsah občanskoprávních vztahů**
+      - subjektivní práva relativní = v rámci občanskoprávního vztahu = na jedné straně je **oprávnění**, na druhé je **povinnost** - věřitel je oprávněn požadovat splení své pohledávky a dlužník je povinen splnit svůj dluh
+      - subjektivní práva absolutní = existují mimo občanskoprávní vztah = na jedné straně oprávnění individálně určeného subjektu a na druhé straně povinnost neurčitého počtu subjektů
+- **Druhy právních povinností**
+  - dare - dáti
+  - facere - konati
+  - omitere - zdržeti se
+  - pati - strpěti
+- **Ochrana subjektivních práv**
+  - Ochrana je poskytována celým právním řádem, všemi právními odvětvími:
+  - **soudní ochrana** - poskytováno soudní mocí = pokud se subjekt obrátí na soud a splní všechny zákonem stanovené podmínky -> soud jej nesmí odmítnout a musí jeho věc rozhodnout -> proto **základní formou poskytnutí ochrany subjektivních práv jsou rozhodnutí soudu**
+  - **ochrana pokojného stavu** - kdo se domnívá, že byl porušen pokojný stav, může se domáhat ochrany u příslušného orgánu státní správy = ochrana provizorní (rozhodnutí je předběžné, účastník se může obrátit na soud)
+  - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze
 
-Svépomoc je okolností vylučující protiprávnost.
+~~Svépomoc je okolností vylučující protiprávnost.~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
