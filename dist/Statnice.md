@@ -381,8 +381,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 118 - 435
-- [ ] Pojem
-- [ ] Třídění
+- [x] Pojem
+- [x] Třídění
 - [x] Organizační struktura
 - [ ] Přičítání právního jednání a protiprávních činů
 - [ ] Vznik a zánik
@@ -460,6 +460,21 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Nadační listina -> musí mít formu veřejné listiny -> povinný obsah -> název, sídlo, jméno a bydliště zakladatele, účel a výši nadačního kapitálu - při založení minimálně 500 000 Kč.
       - **Organizace:** upravuje její statut, **statutárním orgánem** je správní rada (alespoň tři členové), **dozorčím orgánem** bývá dozorčí rada, pokud není zřízena, tak revizor.
       - Nadace vzniká dnem zápisu do nadačního rejstříku a zaniká dnem výmazu z něj.
+    - **Nadační fond** - rovněž veřejný nebo dobročinný účel
+      - Zakládá se rovněž veřejnou listinou, od nadace se liší tím, že není trvalý -> majetek nemusí splňovat předpoklad trvalého výnosu -> naopak může být celý spotřebován k účelu, pro nějž byl založen.
+      - Na rozdíl od Nadace - minimální výše jeho majetku není limitována.
+      - Název -> musí obsahovat slova nadační fond -> například nadační fond obětem holocaustu
+      - Založení - viz nadace, zápis do nadačního rejstříku
+      - Jinak platí obdobně co o nadaci - podnikání, orgány etc.
+    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky. 
+      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených. 
+      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“ 
+      - Od korporací se liší tím, že řízení a provoz v nich nezajišťují členové, ale zaměstnanci.
+      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává. 
+      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní. 
+      - Ústavy se vyskytují ve všech oblastech společenského a hospodářského života.
+      - Dobrým příkladem ústavu je Charita České republiky, nebo Výzkumný ústav práce a sociálních věcí.
+  - Ahojda
 - **Organizační struktura**
   - NOZ předpokládá, že právnická osoba je organizovaným útvarem, čímž naznačuje existenci její vnitřní struktury - tak to i musí být, protože právnická osoba je jen fingovaná osoba, není skutečně živá a nemá svéprávnost, vždycky tedy musí být někdo, kdo jí bude zastupovat a jehož přičiněním bude daná právnická osoba nabívat práv a poviností.
   - Struktura právnické osoby je v právním smyslu složena z jejích orgánů, jejichž členové jsou buď fyzické osoby nebo právnické osoby -> ty ale zastupuje člen jejich orgánu, nebo pověřená osoba.
