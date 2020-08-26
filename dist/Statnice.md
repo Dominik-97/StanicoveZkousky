@@ -384,10 +384,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - [x] Pojem
 - [x] Třídění
 - [x] Organizační struktura
-- [ ] Přičítání právního jednání a protiprávních činů
-- [ ] Vznik a zánik
-- [ ] Likvidace
-- [ ] Přeměny
+- [x] Přičítání právního jednání a protiprávních činů
+- [x] Vznik a zánik
+- [x] Likvidace
+- [x] Přeměny
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -486,13 +486,43 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Zakladatelské právní jednání má rozdílnou povahu (formu) u různých právnických osob - u s.r.o. je to například společenská smlouva -> více zakladatelů, nebo zakladatelské listiny v případě jednoho zakladatele.**
   - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení - buď přímo na rejstříkový soud, nebo pomocí notáře) -> jedná se tedy o konstitutivní zápis.
   - Po vzniku PO se již nelze domáhat toho, že osoba nevznikla -> soud může pouze ve vymezených důvodech prohlásit neplatnost podle § 129 OZ, a to v případě, že nejsou odstraněny nedostatky v přiměřené lhůtě § 130 OZ -> například pokud není v pořádku zakladatelské právní jednání, právnickou osobu založilo méně zakladatelů, než je potřeba, nebo byla právnická osoba založena za účelem porušování práva.
+  - Prohlášení osoby za neplatnou ale nemá vliv na práva a povinnosti jichž nabyla.
   - **Zrušení PO**
     - Právním jednáním jejiho příslušného orgánu
     - Uplynutím doby na kterou byla ustanovena, pokud není ustanovena na dobu neurčitou (má se za to, že je ustanovena na dobu neurčitou, pokud není určeno datum)
     - Dosažením účelu, pro který byla založena
     - Rozhodnutím soudu, či jiného orgánu veřejné moci
   - Standardně se ruší s likvidací -> likvidátor vymáhá její pohledávky, uhrazuje její dluhy a zpeněžuje její majetek.
-  - Bez likvidace se ruší pouze -> pokud se PO ruší pří přeměně, nebo pokud je osvědčen její úpadek -> zrušuje se po zrušení konkurzu po splnění rozvrhového usnesení, nebo pokud je majetek nepostačující ke konkurzu, pokud se nějaký majetek dodatečně objeví -> vstoupí po skončení insolvenčního řízení do likvidace.
+  - Bez likvidace se ruší pouze -> pokud se PO ruší pří přeměně (jmění nabívá právní nástupce), nebo pokud je osvědčen její úpadek -> zrušuje se po zrušení konkurzu po splnění rozvrhového usnesení, nebo pokud je majetek nepostačující ke konkurzu, pokud se nějaký majetek dodatečně objeví -> vstoupí po skončení insolvenčního řízení do likvidace.
+  - Zrušení obecně probíhá z rozhodnutí oprávněného orgánu (standardně nejvyššího), nebo z rozhodnutí soudu.
+  - K zániku dochází dnem výmazu z příslušného rejstříku, u PO, která nepodléhá zápisu dochází k zániku dnem skončení likvidace.
+  - Mezi fází zrušení a zániku probíhá likvidace -> ledaže dojde k jednomu z případů popsaných výše.
+  - **Likvidace**
+    - Vypořádání majetku a dluhů PO a naložení s likvidačním zůstatekem
+    - Začíná se zrušením PO a zapisuje se do příslušného rejstříku (dodatek v likvidaci)
+    - PO a její likvidaci vede likvidátor, který odpovídá jako člen SO.
+    - Likvidátora povolává i odvolává soud -> musí být způsobilý jako člen SO
+    - Likvidátor vymáhá pohledávky, uspokojuje pohledávky a zpeněží majetek PO, přednostně se uspokojují pohledávky zaměstnanců
+    - Pokud prostředky získané zpeněžením majetku PO převyšují její dluhy, vyplácí se společníkům takzvaný **likvidační zůstatek**.
+    - Pokud však likvidátor zjistí, že dluhy převyšují majetek PO -> podá insolvenční návrh.
+    - Pokud se objeví další majetek a likvidace neskončila -> zařadí se do likvidační podstaty, pokud skončila -> likvidace se obnoví.
+  - **Přeměny právnických osob**
+    - Fůze, rozdělení a změna právní formy
+    - Podstatné je stanovení rozhodného data pro účely účetnictví
+    - Účinnost přeměny -> okamžikem zápisu do příslušného rejstříku
+    - Rozhodné datum určuje samo PO, okamžik účinnosti přeměny již závisí pouze na rejstříkovém soudu a okamžiku skončení provedení zápisu.
+    - **Fůze sloučením** -> dojde k zániku jedné ze zůčastněných PO, její práva a povinnosti přecházejí na jedinou nástupnickou společnost, existující před přeměnou.
+    - **Fůze splynutím** -> zanikají všechny zůčastněné PO a míto nich vzniká nová nástupnická, ta přebírá všechny jejich práva a povinnosti.
+    - **Rozdělení**
+      - **Rozštěpení rozdělením** -> PO se rozděluje se založením novým právnických osob, rozdělovaná osoba se ruší
+      - **Rozdělení sloučením** -> PO se rozděluje se současným sloučením s jinými právnickými osobami
+      - **Odštěpení** -> odštěpí se část PO, která se založí jako nová PO, rozdělovaná právnická osoba se ale neruší
+      - Mohou se spojit i více způsobů rozdělení
+    - Povinnost sestavit konečnou účetní závěrku.
+    - **Změna právní formy**
+      - Je možné změnit právno formu společnosti
+      - Tato změna nemá vliv na práva a povinnosti PO s výjimkou změn, vyplívajících z rozdílné právní formy.
+      - Přeměna vyžaduje sestavení mezitimní účetní závěrky.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
