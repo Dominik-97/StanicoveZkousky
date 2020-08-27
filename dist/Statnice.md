@@ -744,8 +744,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Na jméno - obsahují jméno, rozdíl je v převodu
     - Na řad - obsahují jméno, rozdíl je v převodu
     - Na doručitele - anonymní vlastník cenného papíru, není na něm jméno.
-  - **Emise cenného papíru** - vydání cenného papíru prvnímu nabyvateli.
-  - **Vydání cenného papíru** - vydán dnem, kdy splňuje potřebné zákonné požadavky a kdy se stane majetkem prvního majitele.
+  - **Emise cenného papíru** - vydání cenného papíru prvnímu nabyvateli, respektive jedná se o vydání především zastupitelných cenných papírů jedním emitentem.
+  - **Vydání cenného papíru** - vydán dnem, kdy splňuje potřebné zákonné požadavky a kdy se stane majetkem prvního majitele, až tímto okamžikem dochází k inkorporaci práv do cenného papíru.
   - **Stejnopisy cenného papíru** - musí být číslovány, jinak se považují za samostatný cenný papír, pokud je uplatněno právo z jednoho, ostatní zanikají.
   - **Kupón** - pokud je s cenným papírem spojen právo na výnos, může být spojeno s kupónem, který je možné využít pro uplatnění takovéhoto práva.
   - **Hromadná listina** - pouze listina, která lze vydat místo zastupitelných cenných papírů a tvoří tedy sourhn těchto zastupitelných cenných papírů.
@@ -1040,6 +1040,42 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - spojuje s ním určité právní následky
   - **běh času**
     - s jeho koncem právo spojuje určité následky
+  - **Rozlišení lhůty a doby, jejich počátek, trvání a překážky**
+    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.
+    - **Lhůta** = časový úsek určení k vykonání práva, zejména k jeho uplatnění
+      - zákonná X smluvní
+      - hmotněprávní X procesní
+        - ​	hmotněprávní -> dříve než skončí, musí být právo uplatněno
+          - jedná se o lhůtu uplatnitelnou v občanskoprávních vztazích
+          - je třeba, aby PJ v písemné formě došlo do dispoziční sféry adresáta
+          - popřípadě fikce doručení
+        - procesní
+          - jedná se o lhůtu uplatnitelnou v procesních věcech
+          - je třeba, aby právní jednání v písemné podobě bylo včas (v poslední den lhůty) předáno provozovateli poštovních služeb
+    - **Termín** = určené datum
+    - **Překážky**
+      - jedná se o stavění lhůty
+        - Pravé = lhůta začala běžet a postaví se jí do cesty překážka, po dobu překážky lhůta neběží, pak naváže a běží dále = například zastavení běhu lhůty pokud je právo uplatněno u soudu
+        - Nepravé = lhůta může začít běžet až od chvíle určité právní skutečnosti - například dohoda o mimosoudním jednání věřitele a dlužníka -> až když se nepovede, může začít běžet lhůta
+        - Přetržení lhůty = lhůta běží, pak se přetrhne a pak začne běžet zase od začátku -> například pokud dlužník uzná svůj dluh -> začne běžet nová lhůta
+      - **Následky uplynutí času**
+        - vznik, nebo zánik práva a nebo povinnosti
+  - **Pravidla počítání času**
+    - Rozlišení dle toho, zda jde o čas, od kterého účinky počínají, nebo zda jde o čas od kterého účinky končí.
+    - Nabívá-li se právo nebo vzniká povinnost = na začátku dne
+    - Zánik práva nebo povinnosti = na konci dne
+    - Má-li se vykonat nebo splnit v určitý den, vyžaduje se, aby se tak stalo v obvyklou denní dobu
+    - **Práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.**
+    - **Pokud se lhůta počítá podle dnů** = začne se počítat následující den po vzniku skutečnosti, která vyvolala její počátek
+    - **Pokud se lhůta počítá podle týdnů, měsíců, nebo roků** = připadá na den, který se pojmenováním, nebo číslem shoduje se dnem, na který připadá skutečnost, která vyvolala její počátek, není-li v měsíci daný den, připadne konec lhůty na poslední den daného měsíce
+    - **Polovina měsíce** = 15 dnů, **střed měsíce** = 15. den
+    - **Pokud je lhůta složena s celých měsíců a z části dalšího měsíce** = počítá se část měsíce až na konec, tedy po uplynutí všech celých měsíců
+    - **Připadne-li konec lhůty na víkend, nebo svátek** = je posledním dnem lhůty nejbližší následující pracovní den
+    - **Pokud je lhůta v kratších jednotkách než je den** = počítá se od okamžiku kdy začne, do okamžiku, kdy skončí
+  - **Právní jednání a doručování vůči nepřítomné osobě**
+    - vyvratitelná právní domněnka, že:
+      - zásilka odeslaná s využítím služeb provozovatele poštovních služeb došla 3. den po odeslání
+      - pokud je však posílána do zahraničí, je tento termín posunut na 15. den
 
 - **Promlčení**
   - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít.
