@@ -805,6 +805,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - spojeno s *omittere*
     - **Práva relativní povahy -** právo, které působí *inter partes*, je uplatňováno ve vztahu ke konkrétnímu subjektu - nájemní právo, právo na zaplacení pohledávky, právo na zdravotní péči,...
       - spojeno s *dare*, *facere*, *pati*
+      - práva obligatorní povahy
   - **Dělení práv obecně**
     - práva soukromá - rovnost osob, nevystupování subjektu veřejného práva - občanské, obchodní, rodinné, pracovní, mezinárodní právo soukromé
     - práva veřejná - nerovnost osob, vystupuje v něm orgán státní moci, jde tedy o vrchnostenské postavení státu
@@ -826,7 +827,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Vymahatelnost subjektivního práva je spojena se státní ochranou stanovenou normami pozitivního práva
       - **Pozitivní a přírozené právo**
       - Pozitivní = lze odvodit ze systému vesměs psaných právních norem v té době platných
-      - Přirozené = právo nepsané, univerzální, nezávislé na státu - rovnost všech lidí, požadavek spravedlnosti a zákaz diskriminace - pozitivní právo by se jím mělo řídit
+      - Přirozené = právo nepsané, univerzální, nezávislé na státu - rovnost všech lidí, požadavek spravedlnosti a zákaz diskriminace - pozitivní právo by se jím mělo řídit, mělo by prozařovat do práva pozitivního
     - **Vymáhání subjektivního práva má tři způsoby**
       - **Prostřednictvím státu -** stát garantuje práva a vynucuje plnění povinnosti. Vymáhání/nebo ochrana subjektivního práva za pomoci soustavy soudů
       - **Prostřednictím svémoci -** není typická pro demokratické země, ale je zakotvena v občanském zákoníku, jedná se o donucení vlastními silami, typicky pokud je oslabena pozice státu, jeho pomoc není možná, nebo by přišla pozdě. Svémoc se uplatňuje pomocí jednání v **nutné obraně**, jednání v **krajní nouzi**,... - obecně je zakotvena v § 14 OZ
@@ -1030,6 +1031,15 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Obecně k času**
+  - V právním významu se jedná o právní skutečnost ve formě právní události
+  - součást objektivní reality, která je v určité podobě a za určitých podmínek pro právo významná
+  - **okamžik** - den, popřípadě sekunda, v právu definovaná většinou ve formě ("okamžikem")
+    - narození, smrt, právní moc rozhodnutí
+    - spojuje s ním určité právní následky
+  - **běh času**
+    - s jeho koncem právo spojuje určité následky
 
 - **Promlčení**
   - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít.
