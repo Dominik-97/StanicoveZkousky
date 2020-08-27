@@ -900,10 +900,24 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Realizace právních norem**
+  - uskutečňování právních norem v praxi -> využívání oprávnění a dodržování právních povinností právními subjekty, a to včetně rozhodování o oprávněních a povinnostech a eventuální donucení ke splnění povinností.
+  - Definice realizace právních norem je důležitá protože souvisí s právním vztahem -> ten vzniká zásadně na základě právních jednání.
+- **Právní vztahy**
+  - Nejdůležitější forma realizace právních norem.
+  - Je nutná součinnost druhého subjektu.
+  - **Jedná se o společenský vztah nejméně dvou konkrétně určených právních subjektů, upravený právními normami, v němž jsou jeho účastníci nositeli vzájemně spjatých subjektivních práv a povinností.**
+  - Vznikají bezprostředně (*ex lege*) nebo na základě **právní skutečnosti**.
+
 - **Právní skutečnosti**
-  - Právní skutečností jest.
+  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů
+  - Jsou děleny na subjektivní a objektivní:
+    - **Subjektivní** - lidské chování vycházející z lidské vůle = právní jednání -> například kupní smlouva
+    - **Objektivní** - přírodní a společenské jevy nezávislé na lidské vůli -> například přírodní katastrofy, smrt, uplynutí času
 - **Právní jednání**
-  - 
+  - nejvýznamější občanskoprávní skutečnost
+  - vyvolává právní následky, které jsou v něm vyjádřeny i ty plynoucí ze zákona, dobrých mravů, zvyklostí nebo zavedené praxe stran
+  - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -922,6 +936,11 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Čas jako občanskoprávní skutečnost
+- [ ] Promlčení
+- [ ] Prekluze
+- [ ] Další instituty založené na běhu času
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
