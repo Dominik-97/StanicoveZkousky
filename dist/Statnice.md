@@ -1179,6 +1179,48 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Manželství**
+  - trvalý svazek muže a ženy vzniklý způsobe, který stanový zákon
+  - hlavním účelem manželství je založení rodiny, řádná výchova dětí a vzájemná podpora a pomoc
+  - **Hlavní zásady**
+    - Svazek muže a ženy
+    - Monogamní
+    - Rozlučitelné
+    - Civilní či církevní forma
+  - **Uzavření manželství**
+    - Zákonem stanoveným způsobem = **sňatkem**
+    - **Sňatek** = svobodný a úplný souhlasný projev vůle muže a ženy, že spolu chtějí vstoupit do manželství (označování jako **snoubenci**)
+    - **Sňatečný obřad je veřejný a slavnostní a koná se za přítomnosti dvou svědků - 1 muže a 1 ženy**
+  - **Formy sňatku**
+    - **Občanský sňatek** - před orgánem veřejné moci
+    - Kdo může oddávat - starosta, místostarosta, pověřený člen zastupitelstva, za přítomnosti matrikáře
+    - O provedení sňatečného obřadu žádají snoubenci ten obecní úřad, v jehož obvodu chtějí manželství uzavřít
+    - Místo konání: místo určené úřadem pro slavnostní akce, přihlíží se k vůli snoubenců
+    - **Církevní sňatek** - před orgánem církve, či náboženské společnosti oprávněné k oddávání dle zákona
+    - O provedení obřadu žádají snoubenci příslušnou církev
+    - Předpoklady pro uzavření manželství v dané církvi a podmínky pro jeho konání, jakož i místo a a průběh jeho konání se řídí vnitřními předpisy církve
+    - Snoubenci musí mít osvědčení vydané matričním úřadem, v jehož obvodu má být manželství uzavřeno, že snoubenci splňují zákonné požadavky pro uzavření manželství - musí být mladší než 6 měsíců
+    - Církevní oddávající musí do 3 dnů od uzavření manželství poslat protokol o uzavření manželství danému matričnímu úřadu
+  - **Prohlášení při sňatečním obřadu**
+    - Snoubenci musí prohlásit:
+      - jaké si zvolí příjmení/zda penechájí/zda budou používat obě
+      - nejsou jim známy překážky pro uzavření manželství
+      - znají své vzájemné poměry a dohodli se na jejich uspořádání
+  - Existují další formy sňatku:
+    - Sňatek v cizině před diplomatickou misí, či konzulárním úřadem ČR v cizině - pokud je alespoň jeden ze snoubenců občanem Česka
+    - Sňatek v zastoupení - pokud z vážných důvodů jeden ze snoubenců nemůže se zůčastnit sňatečného obřadu - může být oddán v zastoupení - na základě písemné plné moci s ověřeným podpisem
+    - Sňatek v ohrožení života - pokud je jeden ze snoubenců ohrožen na životě, mohou sňatek uzavřít před kterýmkoliv obecním úřadem, oddat je může rovněž velitel letadla/plavidla pod vlajkou Čr, velitek vojenské jednotky ČR v zahraničí -> domnívám se, že se poté musí nahlásti na matričním úřadě?
+  - **Způsobilost uzavřít manželství**
+    - Ten jemuž v tom nebrání žádná zákonná překážka
+      - Těmi jsou:
+        - Nedostatek věku,
+        - nedostatek svéprávnosti,
+        - existující manželství či registrované partnerství,
+        - zakázaný stupeň příbuzenství,
+        - svěření do péče, poručnictví, pěstounství.
+  - **Neplatné a zdánlivé manželství**
+    - Doplnit
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
