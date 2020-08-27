@@ -1347,6 +1347,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
         - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
         - v případě sporu - nařízení testu DNA
+  - Ahojda
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
