@@ -1198,7 +1198,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Manželství
+- [x] Manželství
 - [ ] Majetkové právo manželské
 - [ ] Rodiče a dítě
 - [ ] Osvojení
@@ -1277,7 +1277,54 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - To neplatí pokud jeden z manželů třetí osobě předem sdělí, že se zastoupení nesouhlasí, nebo pokud ho vůči manželovi zruší soud.
       - Rovněž neplatí, pokud manželé žijí v oddělených domácnostech podle § 691 odstavce 2.
   - **Manželé mezi sebou mají vyživovací povinnost - i vůči dětem, a to tak, aby jejich hmotná a kluturní úroveň byla zásadně stejná.**
-  - 
+  - **Zánik manželství**
+    - Manželství může zaniknout třemi způsoby:
+      - Smrtí
+      - Prohlášením za mrtvého - dnem, který je označen za den smrti, pokud je prohlášený za mrtvého živý, manželství se neobnovuje
+      - Rozvodem
+        - § 755 OZ a následující, předpokladem rozvodu je nenapravitelný rozvrat manželství
+          - Soužití manželů je hluboce a trvale rozvráceno a nelze očekávat obnovení soužití
+        - některý z manželů musí o rozvod požádat
+        - Manželství však ve dvou výjimečných situacích nemůže být rozvedeno ani tak:
+          - rozpor se zájmem nezletilého dítěte manželů, který je dán zvláštními důvody
+          - rozpor se zájmem manžela, který se na rozvratu zásadně nepodílel s tím, že by mu rozvodem byla způsobena zvlášť zásadní újma a mimořádné okolnosti svědčí pro zachování manželství -> v tomto případě může být manželství rozvedeno pokud spolu manželé nežijí alespoň po dobu 3 let
+        - Před rozvodem manželství musí být vypořádány poměry nezletilého dítěte, až pak lze manželství rozvést - opatrovnický soud musí pravomocně rozhodnout, nebo musí být schválena dohoda rodičů
+        - **Sporný a nesporný rozvod**
+          - **Sporný rozvod**
+            - soud zjišťuje existenci rozvratu a jeho příčiny -> pokud dojde k závěru, že je zde kvalifikovaný rozvrat a rozvodu nebrání jedna z dvou výše uvedených situací -> manželství rozvede
+          - **Nesporný rozvod**
+            - soud nezjišťuje příčiny rozvratu manželství a manželství rozvede - opět pokud rozvodu nebrání tvrdostní klauzule za současného splnění několika zákonných podmínek
+              - Pokud se druhý manžel k návrhu připojí a shodně tvrdí, že je manželství rozvráceno a dohodnout se na úpravě poměrů nezletilých dětí a majetku
+              - (+manželství trvalo alespoň rok, a manželé spolu minimálně 6 měsíců nežijí)
+        - **Výživné po rozvodu**
+          - Jeden manžel může mít právo na výživné po druhém manželovi pokud:
+            - se není schopen sám živit a tato situace má původ v manželství
+            - v takovém případě může nařídit druhému manželovi hradit výživné - pokud to po něm lze spravedlivě požadovat s ohledem na jeho stav (věk, finance etc.)
+            - rovněž zkoumá, zda si to druhý manžel "zaslouží" -> například zda se nemohl uživit sám správným nakládáním se svým majetkem, nebo zda se staral o společnou domácnost, nebo zda proti manželovi nespáchal tresný čin
+            - lze splnit odbytným - uhrazením částky výživného
+            - maximálně na tři roky, zaniká rovněž pokud vyživovaný manžel uzavře nové manželství, nebo vstoupí do registrovaného partnerství
+- **Manželské majetkové právo**
+  - SJM = to co manželům náleží, má majetkovou hodnotu, a není vyloučeno z právních poměrů
+  - **Má tři režimy**
+    - zákonný
+      - **Aktiva** = to co nabyli manželé společně za trvání manželství
+      - Existují výjimky - například náhrada nemajetkové újmy, dar, dědictví (pokud není odkázáno do SJM)
+      - **Pasiva** = dluhy převzaté za trvání manželství
+      - Výjimka: například dluhy převzaté jedním z manželů bez souhlasu druhého manžela pokud se nejedná o obstarávání běžných záležitostí
+      - Manželé jsou zavázáni společně a nerozdílně, **v běžných záležitostech týkajících se SJM může jednat každý sám, jinak společně, pokud nejednají společně -> možnost jednoho manžela dovolat se naplatnosti tohoto jednání, rovněž pokud by bylo třeba jednat v zájmu rodiny a jeden z manželů by odmítal souhlas udělit -> může být nahrazen soudem**
+    - smluvenný
+      - forma notářského zápisu, s účinky od teď do budoucnosti
+      - podoby:
+        - oddělené jmění,
+        - vznik SJM ke dni zániku manželství,
+        - zůžení nebo rozšíření SJM
+        - vypořádání SJM ke dni zániku manželství
+      - Správa se řídí dohodou manželů
+    - Založený rozhodnutím soudu
+      - V jistých zákonem stanovených způsobech může SJM upravit na návrh manžela soud - zruší nebo zúží - například pokud je manžel marnotratný
+  - **Práva třetích osob ze SJM**
+    - dluh jakou součást SJM - uspokojení z majetku SJM + z výlučných majetků manželů nespadajících do SJM
+    - dluh není součástí SJM a zavazuje pouze jednoho z manželů (druhý manžel nesouhlasil) - uspokojení z výlučného majetku zavázaného manžela + SJM ale jen do výše podílu zavázaného manžela, který by na SJM měl v případě vypořádání SJM
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
