@@ -1405,7 +1405,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - právo s věcí nakládat
       - právo věc zničit a opustit
   - **Omezení vlastnického práva**
-    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena
+    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena, pokud by dané omezení nerespektoval -> možné postižení prostředky správního nebo trestního práva
     - § 11 odst. 3 LZPS: Vlastnictví zavazuje. Nesmí být zneužito na újmu práv druhých anebo v rozporu se zákonem chráněnými obecnými zájmy. Jeho výkon nesmí poškozovat lidské zdraví, přírodu a životní prostřední nad míru stanovenou zákonem
     - Prvním druhem omezení je **omezení VP veřejnoprávními předpisy**
       - Zde se jedná o některá omezení - například ve formě možnost věc užívat, pokud se jedná o chráněnou památku -> je stanoven způsob památkové ochrany
@@ -1422,6 +1422,23 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
           - Moje právo vlastnit tedy zakládá i určité povinnosti, které musím při vlastnění dodržovat
             - **Generální zákaz** - § 1012 OZ
               - Vlastník má neomezené právo s věcí nakládat, **ale v rámci mezí zákona**, svým vlastnictvím tedy nesmí obtěžovat jiné a nesmí vykonávat takové činy, jejichž hlavním účelem je jiné osoby obtěžovat, nebo poškodit.
+            - **Zákaz imisí** - § 1013 OZ
+              - imsemi jsou různé prvky typu prach, voda, hluk etc.
+              - Ty nesmí vnikat na cizí pozemek v míře nepřiměřené místním poměrům a podstatně omezující užívání pozemku
+              - Zakázány jsou rovněž přímé imise -> úmyslné imise
+            - Občanský zákoník rovněž upravuje další práva, především ve smyslu práv a povinností (které ve své podstatě mohou omezovat vlastnická práva), které mezi sebou mají majitelé sousedních pozemků - říká se jim takzvaná **sousedská práva ** (jedná se o legální břemena)
+              - Je jich hodně a nemá smysl je znát, příkladem je:
+                - právo vstoupit na cizí pozemek pro vlastní movitou věc na pozemku se nacházejícím,
+                - práva týkající se rostlin - například spadlých plodů na cizí pozemek,
+                - zákaz určitých druhů pozemkových úprav, kvůli kterým by sousední pozemek ztratil náležitou oporu,
+                - stékající voda - právo požadovat úpravu stavby tak, aby nestékala voda nebo sníh na sousední pozemek,
+                - Etc.
+          - **Omezení práva může vyházet i z právní skutečnosti založemé na právním jednání vlastníka**
+            - Olbigačněprávní - například užívací a požívací právo
+            - Věcněprávní - například věcná břemena, či právo stavby
+          - Existují další omezení ve vztahu k vlastnictví věci, občanský zákoník upravuje dva důležité případy:
+            - **nezbytná cesta**
+            - **rozhrada**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
