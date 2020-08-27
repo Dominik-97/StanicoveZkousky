@@ -1087,6 +1087,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
   - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
   - **Počátek běhu lhůty** = den dospělosti práva = například dlužník měl dnes splnit, nesplnit -> zítra můžu žalovat, pokud nebudu žalovat -> promlčení
+    - lhůta se samozřejmě může stavět a přetrhnout
   - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít, právní titul tedy nezaniká, jen je oslaben.
     - **Právní titul** = právní důvod k zániku, změně, nebo vzniku práva - vzniká na základě zákona, nebo na základě právní skutečnosti
   - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
