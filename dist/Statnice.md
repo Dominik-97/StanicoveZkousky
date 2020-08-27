@@ -1199,7 +1199,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [x] Manželství
-- [ ] Majetkové právo manželské
+- [x] Majetkové právo manželské
 - [ ] Rodiče a dítě
 - [ ] Osvojení
 - [ ] Náhradní formy péče o dítě
@@ -1307,7 +1307,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - SJM = to co manželům náleží, má majetkovou hodnotu, a není vyloučeno z právních poměrů
   - **Má tři režimy**
     - zákonný
-      - **Aktiva** = to co nabyli manželé společně za trvání manželství
+      - **Aktiva** = to co nabyli manželé společně za trvání manželství + zisk z výhradního vlastnictví manžela
       - Existují výjimky - například náhrada nemajetkové újmy, dar, dědictví (pokud není odkázáno do SJM)
       - **Pasiva** = dluhy převzaté za trvání manželství
       - Výjimka: například dluhy převzaté jedním z manželů bez souhlasu druhého manžela pokud se nejedná o obstarávání běžných záležitostí
@@ -1325,6 +1325,28 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **Práva třetích osob ze SJM**
     - dluh jakou součást SJM - uspokojení z majetku SJM + z výlučných majetků manželů nespadajících do SJM
     - dluh není součástí SJM a zavazuje pouze jednoho z manželů (druhý manžel nesouhlasil) - uspokojení z výlučného majetku zavázaného manžela + SJM ale jen do výše podílu zavázaného manžela, který by na SJM měl v případě vypořádání SJM
+  - **Vypořádání SJM**
+    - Je potřeba vždy při změně - tedy při zrušení soudem, zánikem například rozvodem a nebo zúžením například smlouvou
+    - dohodou manželů
+    - na návrh může soud
+    - OZ určuje vyvratitelné právní domněnky jak se má majetek rozdělit, pokud se nedosáhne dohody
+  - **Ochrana proti domácímu násilí**
+    - pokud se pro jednoho soužití stane nesnesitelné z důvodu psychického nebo fyzického násilí -> soud může nejdéle na dobu 6 měsíců omezit nebo i vyloučit právo druhého manžela v domě či bytě bydlet
+- **Rodiče a dítě**
+  - **Mateřství**
+    - Matkou dítěte je žena, která ho porodila - absolutní statusový poměr matka - dítě
+    - Bez mateřství nelze určit otcovství /příbuzenství
+    - Vyloučení absolutního statusového poměru v rámci náhradního mateřství (surogačního) -> možnost osvojení
+  - **Otcovství**
+    - Na základě jedné ze tří zákonných domněnek
+      - pokud je manželem matky (vyvratitelné), rovněž pokud se narodí do 300 dnů od zániku manželství, pokud není matka znovu provdána -> pak VPD, že je otcem manžel pozdější, nebo pokud jiný muž neprohlásí otcovství a rozvedený muž otcovství popře a matak se k prohlášení připojí
+        - Popření - může matka i otec (objektivní i subjektivní lhůta)
+      - Poked rodiče souhlasně prohlásí kdo je otec (vyvratitelné)
+        - Popření - může matka i otec (obejktivní lhůta)
+      - pokud otcovství prohlásí soud (nevyvratitelné)
+        - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
+        - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
+        - v případě sporu - nařízení testu DNA
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
