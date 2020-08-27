@@ -81,7 +81,7 @@ title: Státnice
 - [x] Předmět
 - [x] Prameny
 - [x] Systém
-- [ ] Systematika občanského zákoníku
+- [x] Systematika občanského zákoníku
 - [x] Dispozitivní a kogentní normy v občanském právu
 
 \|--------------\| <br>
@@ -140,11 +140,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * **Předmět** -> obecné soukromé právo, jehož předmětem jsou -> osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva + na všechny občanskoprávní záležitosti
 * Prameny
   * Ve stejné publikaci Občanské právo hmotné od Wolters Kluwer.
-  * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském etc.
+  * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském, o katastru nemovitostí etc.
   * Prameny občanského práva úplně **low level** vycházejí z Ústavního pořádku Čr, především z Ústavy Čr a Listiny základních práv a svobod.
   * OZ patří mezi nejrozsáhlejší právní kodexy českého právního řádu.
   * **Převažují v něm normy dispozitivní**
   * **OZ patří mezi obecný základ dalších právních odvětví soukromého práva a tvoří základ celého právního řádu**
+  * Dále: ustálená rozhodovací praxe soudů, zvyklosti - pokud se jich dovolává zákon, obecné právní zásady, dobré mravy a veřejný pořádek
 * Systém
   * Ibid.
   * Děleno do 5 částí:
@@ -173,7 +174,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     * Strany se v žádném případě nemohou odchýlit od zákona
     * Není možné ochýlit se od její dispozice.
       * Skladba právní normy:
-        * Hypotéza - například časové, místní určení
+        * Hypotéza - například časové, místní určení, osobní, věcná
         * Distpozice - příkaz, zákaz, dovolení, právo (strpět, dát, zdržet se, konat)
         * Sankce - pokud osoba nejedná s ohledem na dispozici
       * Druhy norem
@@ -932,6 +933,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - **Realizace právních norem**
   - uskutečňování právních norem v praxi -> využívání oprávnění a dodržování právních povinností právními subjekty, a to včetně rozhodování o oprávněních a povinnostech a eventuální donucení ke splnění povinností.
   - Definice realizace právních norem je důležitá protože souvisí s právním vztahem -> ten vzniká zásadně na základě právních jednání.
+  - **Realizace** - subjekty práva ve smyslu jejich práv a povinností
+  - **Aplikace** - aplikuje orgán veřejné moci
 - **Právní vztahy**
   - Nejdůležitější forma realizace právních norem.
   - Je nutná součinnost druhého subjektu.
@@ -954,7 +957,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - **obsah právního vztahu**
 
 - **Právní skutečnosti**
-  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů -> tj. subjektivních práv a povinností
+  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů -> tj. subjektivních práv a povinností, respektive se jedná o obejktivní skutečnost, na kterou právo bere zřetel a spojuje s ní právní následky
+  - **Právní následek** = následek právní skutečnosti - tedy ta faktická změna, zánik a vznik práv a povinností
+  - **Právní důvod** = právní titul, který podle objektivního práva vyvolává právní následky - ze zákona, nebo z právní skutečnosti - standardně z právního jednání
   - Jsou děleny na subjektivní a objektivní:
     - **Subjektivní** - lidské chování vycházející z lidské vůle = právní jednání -> například kupní smlouva
       - jedná se o právně relevantní jednání PO a FO -> **právní jednání** X **protiprávní jednání**
@@ -970,6 +975,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Druhy:
     - **Aktivní jednání** - výslovně i konkludentně
     - **Nečinnost** - například automatická prolongace, výpověd, odstoupení
+    - Obecně však nelze mít mlčení za souhlas! Je ale možné aktivně souhlasit mlčky, například kývnutím hlavy.
+  - Jde rozlišovat i dále: například adresovaná, neadresovaná, *inter vivos* a *mortis causa*, úplatné, bezúplatné, smíšené (úplatné ale nerovnocené - neúměrné zkrácení a lichva), neformální a formální, pojmenované a nepojmenované
+  - **Složky právního jednání**
+    - Podstatné - musí být
+    - pravidelné - nemusí být, zákon je může nahradit - například cena obvyklá
+    - Nahodilé - nejsou běžné, obsaženy jen občas
+  - Právní jednání může dále obsahovat podmínky (například odkládací a rozvazovací), doložení času - například od kterého času účinky počínají a kdy končí, a příkazy - například u pořízení pro případ smrti spočívající ve splnění nějakých příkazů
   - **Aby bylo právní jednání platné, musí splňovat několik náležitostí**
     - způsobilost subjektu
     - soulad se zákonem a dobrými mravy, není proti veřejnému pořádku
@@ -978,6 +990,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - prost omylů ohledně podstatných okolností
     - absence tísně a nápadně nevýhodných podmínek
     - absence úmyslu zkrátit věřitele (tomuto se dá odporovat)
+    - předmět - dovolený a možný
   - **Dělení na konsensuální a jednostranné projevy vůle**
     - konsensuální
       - verbální (ústní)
@@ -1006,6 +1019,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - druh mimovolní právní skutečnosti, která nastává objektivně, přičemž následky, které jsou s ní spojeny jsou v souladu s normami práva
   - například narození, nebo smrt člověka, pojistá událost
   - Také čas a jeho plynutí - s uplynutím právo spojuje určité následky - **promlčení** X **prekluze**
+  - Důležitý je zmínit i **právní stav** - jde o právní skutečnost, která není v rozporu s právem, u události se ale jedná o dění - něco se stalo, u **právního stavu** se pouze popisuje nějaký stav, který je objektivně v souladu s právem - událost - dítě se narodilo, stav - dítě je narozeno
 - **Protiprávní stav**
   - porušení právní povinnosti, přičemž nemá povahu projevu vůle
   - Protiprávní výsledek sil působící nezávisle na lidské vůli
@@ -1149,7 +1163,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Negativní následek nedostatečného vykonávání vlastnického práva vlastníkem
   - Pozitivní následek řádného vykonávání práv vlastníka osobu, která má věc u sebe a chová se jako vlastník
 - **Společný základ promlčení, prekluze a vydržení: jejich povaha složených právních skutečností, pro které je rozhodný běh času, a jejich následky**
-  - složené právní skutečnosti = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+  - složené právní skutečnosti = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje, dvě a více právních právních skutečností vyvolává právní následky
   - slouží k tomu, aby výhodu získal ten, kdo se stará
   - **Existují dvě skupiny z hlediska jejich trvání**
     - práva osobní - statusová, osobnostní, rodinná
@@ -1647,6 +1661,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Věcná a místní příslušnost
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
