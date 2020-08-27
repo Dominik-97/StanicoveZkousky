@@ -454,6 +454,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Jsou zastupovány FO, které za ně jednají ve smyslu přímého zastoupení (na jejich účet, jejich jménem) přímo jako jejich orgány, nebo na základě smluvního zastoupení (přímého, nepřímého).
       - Základem jsou však orgány -> individuální (jeden člen), kolektivní (více členů).
       - Protiprávní jednání FO zaměstnaných v PO, nebo jí zastupujících vůči třetí osobě PO zavazuje -> sankce tedy postihuje právnickou osobu -> ta ale může uplatnit regres -> vymáhání náhrady za plnění, které bylo poskytnuto za jinou osobu, která by jinak měla plnit.
+      - Člen orgánu má ale povinnost jednat s péčí řádného hospodáře - to zahrnuje loajalitu, potřebné znalosti a pečlivost.
+        - Je tedy potřebné říci, že například člen statutárního orgánu, pokud by porušil péči řádného hospodáře -> byl by odpovědný on sám, a to ať už ve vztahu k samotné právnické osobě, nebo ve vztahu k osobám třetím.
 - **Třídění**
   - Viz otázka v Obchodním právu.
   - Buď na veřejnoprávní a soukromoprávní.
