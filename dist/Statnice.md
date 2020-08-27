@@ -1473,7 +1473,11 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Definice věcných práv a závazkových práv.
+
 Pokojná držba.
+
+Požívací a užívací právo.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
