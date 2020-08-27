@@ -76,13 +76,13 @@ title: Státnice
 \|---------\| <br>
 
 - [x] § 1 - 14
-- [ ] Dodělat ostatní části této otázky
-- [ ] Pojem
-- [ ] Předmět
-- [ ] Prameny
-- [ ] Systém
-- [ ] Systematika občanského zákoníku
-- [ ] Dispozitivní a kogentní normy v občanském právu
+- [x] Dodělat ostatní části této otázky
+- [x] Pojem
+- [x] Předmět
+- [x] Prameny
+- [x] Systém
+- [x] Systematika občanského zákoníku
+- [x] Dispozitivní a kogentní normy v občanském právu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -106,16 +106,65 @@ title: Státnice
   * **Tyto pravidla se nazývají jako právní pravidla (právní normy), souhrnem těchto norem právní řád, respektive právní systém v objektivním slova smylsu (tvz. objektivní právo), jehož součástí, ačkoli někdy nepsanou, jsou i právní zásady (společně s normami utvářejí funkční strukturu práva).**
   * Právo v objektivním smyslu - právní rámec, stanovuje příkazy a zákazy, jedná se tedy ve své podstatě o psané právo.
   * Právo v subjektivním smyslu - právo chovat se podle obejktivního práva, tedy právo na to chovat se určitým způsobem.
+  * NOZ lze považovat za nejvýznamější pramen občanského práva hmotného, lze považovat za nejvýznamější soubor pravidel lidského chování v oblasti soukromého práva
+  * Zásadní princip nového občanského zákoníku - autonomie vůle, ne jenom úprava majetkových poměrů, ale taková úprava, která umožní v mezích zákona ponechat jednotlivci co největší prostor k vlastnímu vytváření soukromého života - dává jednotlivcům velkou svobodu při úpravě vzájemných práv a poviností (vzájemných vztahů).
+  * Tyto dvě výše zmíněné body se řídí **3 zásadními zásadami** = zásady jsou základní pravidla, které ovládají soukromé právo jako systémový celek a prostupují celou právní úpravou, nutnost je respektovat
+    * *lex generalis*, pokud není *lex specialis* řídí se všechny práva a povinnosti osob tímto předpisem
+    * OZ upravuje obecně osoby a jejich stav - právní následky početí, narození člověka a jeho smrt, nabytí/omezení svéprávnosti, právní subjektivitu u FO a PO, vznik a zánik manželství, vznik a zánik partnerství, PO
+    * OZ shrnuje téma soukromého práva do 4 nejdůležitějších právních institutů, **osoba**, **rodina**, **vlastnictví**, **smlouvy**
+  * Stanovuje mnoho zásad - vymezeno v obecné části občanského zákoníku, obecně do § 14
+    * Rovnost osob, ochrana slabší strany - spotřebitel, nájemce, nezletilí
+    * výklad a použití právního předpisu nesmí vést ke krutosti/bezohlednosti nebo být v rozporu s dobrými mravy
+    * Soukromé právo chrání svobodu a důstojnost člověka
+    * Ochrana života, zdraví, svobody, cti, důstojnosti a soukromí
+    * Rodina, rodičovství a manželství požívají zvláštní ochrany
+    * Nikdo nesmí pro nedostatek věku, rozumu nebo pro závislost svého postavení utrpět újmu
+    * Povinnost splnit slib, povinost poctivého obchodního styku, pactum sum servata
+    * Ochrana vlastnického práva
+    * Nikomu nelze odepřít co mu po právu náleží
+    * Hledisko běžné opatrnosti a profesionality podnikatele
+    * Každý má povinnost jednat v právním styku poctivě, v souladu s dobrými mravy, bezdůvodně neškodit, ochrana dobré víry
+    * Zjevné zneužití práva nepožívá právní ochrany
+    * Ochrana v minulosti nabytých práv - zákaz retroaktivity
+    * Pokud nelze právní případ rozhodnout podle výslovného ustanovení -> rozhodne se podle nejbližšího podobného ustanovení -> jinak podle principů spravedlnosti a zásad
+    * Zásado kdo dřív přijde, ten dřív mele -> například KN
+    * Judikatura má precedenční charakter - očekávání, že případ bude vyřešet obdobně, jako případy podobného typu -> pokud ne, nárok na vysvětlení
+  * Vyvratitelná právní domněnka, že osoba jednala poctivě a s dobrou vůlí
+    * Dobrá vůle obejtivně - osoba a všechny ostatní osoby jsou přesvědčeny, že osobě právo patří, a že osoba jedná po právu
+    * Dobrá vůle subjektivně - osoba je přesvědčena, že jí právo patří a že jedná po právu
+    * *bona fides*
 * Předmět
   * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
 mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
 pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze definovat předmět občanského práva hmotného jako: _Občanské právo lze vymezit jako obecné soukromé právo, jehož předmětem jsou osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva a na všechny občanskoprávní záležitosti, jež se mezi nimi navzájem příznačně realizují na zásadách jejich autonomie vůle a rovného (rozuměj hmotněprávního) postavení jako nejvýraznějších projevů jejich svobody, důstojnosti a rovnosti v soukromém právu._
+  * **Předmět** -> obecné soukromé právo, jehož předmětem jsou -> osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva + na všechny občanskoprávní záležitosti
 * Prameny
   * Ve stejné publikaci Občanské právo hmotné od Wolters Kluwer.
+  * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském, o katastru nemovitostí etc.
+  * Prameny občanského práva úplně **low level** vycházejí z Ústavního pořádku Čr, především z Ústavy Čr a Listiny základních práv a svobod.
+  * OZ patří mezi nejrozsáhlejší právní kodexy českého právního řádu.
+  * **Převažují v něm normy dispozitivní**
+  * **OZ patří mezi obecný základ dalších právních odvětví soukromého práva a tvoří základ celého právního řádu**
+  * Dále: ustálená rozhodovací praxe soudů, zvyklosti - pokud se jich dovolává zákon, obecné právní zásady, dobré mravy a veřejný pořádek
 * Systém
   * Ibid.
+  * Děleno do 5 částí:
+    * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
+    * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
+    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo) - princip *numerus clausus*, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část čtvrtá - **relativní majetková práva **- závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
+    * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
 * Systematika občanského zákoníku
   * Právní síla.
+    * Nad Primární a Sekundární by se dali ještě zařadit mezinárodní smlouvy a právo EU.
+    * Primární - zákonné - **Právní předpis legislativy** - ústavní zákony, zákony, zákonná opatření senátu PČr
+    * Sekundární - podzákonné - **Právní předpisy exekutivy** - Nařízení vlády, vyhlášky ministerstev a jiných správních úřadů, vyhlášky ČNB, nařízení Obcí a Krajů v přenesené působnosti, rozhodnutí prezidenta Čr, **právní předpis územní samosprávy** - vyhlášky krajů a obcí
+  * Členění občanského zákoníku je na:
+    * Část
+    * Hlavu
+    * Díl
+    * Oddíl
+    * Pododdíl
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
@@ -123,12 +172,29 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Dispozitivní[^1]
     * Ibid.
     * Strany se podle svého uvážení, avšak v mezích zákona, mohou od zákona odchýlit
+    * Typické pro právo soukromé.
+    * Stanovuje pravidlo, které však nemusí platit, dohodnou-li se strany jinak.
     * Dispozitivní části občanského zákoníku:
-      * Část.
+      * Část například většina občanského zákoníku.
   * Kogentní[^2]
     * Strany se v žádném případě nemohou odchýlit od zákona
+    * Není možné ochýlit se od její dispozice.
+      * Skladba právní normy:
+        * Hypotéza - například časové, místní určení, osobní, věcná
+        * Distpozice - příkaz, zákaz, dovolení, právo (strpět, dát, zdržet se, konat)
+        * Sankce - pokud osoba nejedná s ohledem na dispozici
+      * Druhy norem
+        * Přikazující
+        * Zakazující
+        * Opravňující
+        * Doporučující
+        * Teleologické - vyjadřují cíl, ale né prostředek jak ho dosáhnout, ten je standardně ponechán na adresátovi právní normy
+    * Typické zejména pro právo veřejné, veřejná ingerence do práva.
+    * Nepřipouští subjektům právního vztahu odchýlení projevu vůle či chování od pravidla stanoveném v kogentní normě.
+    * Subjektům práva stanovují práva a povinnosti a to podmíněně, nebo nepodmíněně (podmíněné - obsahují hypotézu, nepodmíněné - neobsahují hypotézu).
+    * Rovněž se není možné ochýlit od práva, pokud by takové ujednání mezi stranama porušivalo dobré mravy, nebo veřejný pořádek -> jinak stíženo absolutní neplatností
     * Kogentní části občanského zákoníku:
-      * Část.
+      * Část například statusová -> nikdo se nemůže vzdát právní subjektivity.
 * Obecná část
   * Paragrafy 1 až 14.
 
@@ -154,6 +220,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 15 - 117  [^3]
+- [x] Osoby v právním smyslu
+- [x] Fyzické osoby
+- [ ] Ochrana osobnosti člověka
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -165,17 +234,151 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-* Rozdíl mezi právní osobností a svéprávností.
+- **Osoby v právním smyslu**
+  - Osobami v právním smyslu jsou **osoba fyzická** a **osoba právnická** - § 18 OZ
+  - **Subjekty občanského práva**
+  - Subjekt = osoba, pouze osoba je nositelem práv a povinností a pouze po ní je možné je vymáhat § 17 OZ
+  - Pokud je zřízeno právo něčemu, co osoba není, přičte se takové právo osobě, které po právu náleží -> tzn. pokud by bylo zřízeno právo věci, přičetlo by se vlastníkovi dané věci.
+  - Definice osoby v právním slova smyslu = soubor vlastností, jimiž jsou vybaveni potenciální účastníci právních vztahů.
+  - Jinak, čistě obecně řečeno = osobou je každá biosociální bytost bez ohledu na další charakteristiku.
+- **Primárně je potřebné definovat jednotlivé způsobilost a právní osobnost**
+
+* Rozdíl mezi **právní osobností** a **svéprávností**.
+  * Právní osobnost (právní subjektivita) - schopnost míz v mezích zákona práva a povinnosti.
+  * Právní subjektivita je tedy = způsobilost k právům a povinnostem - pouze osoba
+  * Svéprávnost - schopnost nabívat pro sebe práva a povinnosti (tedy právně jednat) - svéprávnost má každý, i nezletilý, ten ale jenom v rámci své rozumové a volní vyspělosti, plnou svéprávnost má pak každý, kdo dovršil zletilosti a není soudem omezen na svéprávnosti.
+* **Deliktní způsobilost**
+  * způsob založit svou odpovědnost, tedy nést nepříznivé právní následky za zaviněné protiprávní jednání - například náhrada škody
+  * způsobilost k zaviněným protiprávním jednáním
+  * § 24 - každý člověk odpovídá za své jednání, je-li s to posoudit jej a ovládnout - posouzení je tedy ve vazbě na schopnost posoudit své jednání a své jednání ovládnout.
+    * kdo se vlastní vinou přivede do stavu, kdy by jinak za své jednání neodpovídal -> odpovídá za své jednání
+    * § 2922 - ti, kteří svým přičiněním přivedli osobu do daného stavu s ní odpovídají společně a nerozdílně
+  * v plném rozsahu se nabije plnou svéprávností - nezletilý například nemá plnou deliktní způsobilost -> protože nemůže uzavírat všechny právní jednání
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
-* Podpůrná opatření při narušení schopnosti zletilého právně jednat
-  * Předběžné prohlášení
-  * Nápomoc při rozhodování
-  * Zastoupení členem domácnosti
-  * Omezení svéprávnosti
-* Koblížek.
-* Definiční znaky
-* Nasciturus
-* Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti
+* **Fyzické osoby**
+  * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
+  * Daná osoba => má právní subjektivitu a je tak subjektem práva
+  * Zákon upravuje jakým způsobem je možné mít práva a povinnosti
+  * **Identifikační znaky fyzických osob:** jméno, bydliště, datum narození a další identifikační údaje podle jiných právních předpisů.
+  * **Bydliště** - § 80 OZ - člověk má bydliště v místě, kde se zdržuje s úmyslem tam žít s výhradou změny okolností trvale.
+    * každý se může dovolat skutečného bydliště,
+    * Nemá-li člověk bydliště, považuje se za něj místo kde žije
+      * Nelze-li zjsitit -> místo kde má majetek, popřípadě místo, kde žil naposledy
+  * Vznik právní osobnost (právní subjektivity): **narozením**
+  * Zánik právní osobnosti: **smrtí**
+  * Právní osobnosti, ani svéprávnosti se nikdo nemůže vzdát ani zčásti - kogentní ustanovení.
+  * Fyzická osoba -> jako účastník občanskoprávních (soukromoprávních) vztahů -> tvořena **právním postavením** (pasivní status) a **souborem způsobilostí, na jejichž základě se může aktivně účastnit soukromoprávních vztahů** (aktivní status)
+    * Pasivní status - právní subjektivita (právní osobnost) a soubor základních práv a svobod
+    * Aktivní status - svéprávnost - způsobilost k právním úkonům, protiprávním úkonům a protiprávním jednáním
+  * Co se počatého dítěte týče -> nasciturus, hledí se na něj jako už na narozené, pokud to vyhovuje jeho zájmům -> § 24 OZ
+    * vyvratitelná právní domněnka: **dítě se narodilo živé**, pokud se ale živé nenarodilo, hledí se na něj, **jako by nikdy nebylo**
+    * nasciturus má jinak právo nabívat subjektivní práva a podle § 19 OSŘ má i procesní způsobilost -> předpokládám, že by byl zastoupen zákonným zástupcem, nebo opatrovníkem
+  * **Důležitý pojem: plná svéprávnost a zletilost**
+    * Existují dvě formy svéprávnosti -> svéprávnost a plná svéprávnost
+    * Svéprávnost -> svéprávný je každý -> v mezích běžného života i člověk, který je omezen na svéprávnosti, rovněž nezletilý (osoba, která nedovršila věku 18ti let) -> ta je svéprávná v mezích své rozumové a volní vyspělosti a v té také může nabívat práva a povinnosti
+    * Plná svéprávnost -> plně svéprávný je:
+      * **Zletilý člověk, který není omezen na svéprávnosti**
+      * **Plně zesvéprávněný nezletilý -> hovoří se pak o takzvaném plně svéprávném nezletilém**
+        * V případě, že dosáhl 16 roku života a nechal se **A) zesvéprávnit soudem** (přiznání svéprávnosti) **B) uzavřel manželství**
+    * Svéprávnost se nabívá postupně
+    * Plnou svéprávnost nemá - nezletilý, ten jehož svéprávnost byla omezena rozhodnutím soudu, podle § 581 rovněž osoba jednající v duševní poruše, která jí činí neschopnou právně jednat, tady se ale jedná o speciální institut
+    * **Blíže k přiznání svéprávnosti nezletilému**
+      * § 31 - má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy **přiměřeným rozumové a volní vyspělosti nezletilých jeho věku**.
+      * **Zesvéprávnění**
+        * Uzavřením manželství - § 30
+          * neztrácí se zánikem manželství, ani jeho prohlášením za neplatné
+          * do 18 let -> plně svéprávný nezletilý
+          * § 672 (2) -> nejdříve v 16 letech
+          * Ve výjimečných důvodech, jsou-li pro to důležité důvody
+        * Přiznání svéprávnosti - § 37
+          * podmínky
+            * nezletilý dosáhne 16 let
+            * osvědčena jeho schopnost sám se živit a obstarat si své záležitosti
+            * souhlas zákonného zástupce
+          * soud může vyhovět i v ostatních případech, je-li to z vážných důvodů v zájmu nezletilého
+          * na návrh nezletilého nebo zákonného zástupce
+        * Existují ještě další dva instituty, kdy může nezletilý jednat ve větším rozsahu
+          * Přivolení jeho zákonného zástupce - ve shodě se zvyklostmi běžného života k právnímu jednání nebo dosažení určitého účelu - pokud to není zákonem zakázáno, může vzít zpět, stačí souhlas jednoho zákonného zástupce, pokud více zákonných zástupců není ve shodě - nepřihlíží se k projevu žádného z nich.
+          * Přivolení zákonného zástupce s provozováním obchodního závodu nebo k jiné obdobné výdělečné činnosti -> nezletilý je způsobilý k právním jednáním spojeným s danou činností nebo provozování závodu -> je potřeba přivolení soudu -> to nahrazuje požadavek věku -> může být odvoláno pouze s přivolením soudu
+    * **Blíže ke vzniku a zániku (smrt) právní subjektivity**
+      * Vzniká narozením
+      * Zaniká smrtí
+      * **Blíže ke smrti**
+        * smrt je definována v transplantačním zákoně - ztráta funkce celého mozku, včetně mozkového kmene, nebo nevratná zástava krevního oběhu
+        * **Důkaz smrti, prokazování smrti**
+          * Smrt člověka se prokazuje veřejnou listinou vystavenou po prohlédnutí těla mrtvého stanoveným způsobem -> vyvratitelná právní domněnka, že tam kde bylo nalezeno tělo je i místo úmrtí
+          * Lékař po ohledání a konstatování smrti zašle oznámení matričnímu úřadu -> ten vydá **úmrtní list** (to je ta veřejná listina)
+          * Pokud tělo nelze prohlédnout -> prohlásí člověka za mrtvého i bez návrhu soud -> pokud byl člověk účastníkem takové události, že jeho smrt se jeví vzhledem k okolnostem jako jistá -> místo úmrtí to, kde naposledy člověk pobýval živý.
+          * **Úmrtní list obsahuje údaje zapsané v matriční knize úmrtí, do té lze zápis provést právě na základě výše uvedených skutečností -> listu o prohlídce zemřelého/pravomocné rozhodnutí soudu o prohlášení člověka za mrtvého**
+        * **Pokud právní následek záleží na tom, zda někdo přežil někoho jiného a není-li jisté kdo koho přežil -> platí, že všichni zemřeli ve stejnou chvíli.**
+      * **Prohlášení za nezvěstného**
+        * Prohlášení soudem/pokud nastala právní událost naplňující zákonné předpoklady
+        * § 66 - prohlášení soudem -> pokud svéprávný člověk opustil své bydliště, nepodal o sobě zprávu a není známo, kde se zdržuje -> **na návrh osoby, která na tom má právní zájem**
+        * § 75 - nezvěstnost jako účastník události, při níž byl v ohrožení větší počet osob -> důležité pro okamžik, od kterého může být prohlášen za mrtvého -> zde je to 3 roky
+        * **Právní následky nezvěstnosti**
+          * Finguje se, že osoba není -> pokud je potřeba jeho souhlasu, přivolení atd., k této potřebnosti se nepřihlíží
+          * Netýká se však osobního stavu - tedy například manželství trvá
+          * Každý, kdo jedná, dotýkaje se záležitostí nezvěstného, musí tak činit s přihlédnutím k jeho zájmům
+        * právní jednání učiněná bez souhlasu nezvěstného po tom, co opustil bydliště, ale zatím nez prohlášení -> pohlíží se na ně jako na platná jednání -> jen se k nim přiřadí odkládací podmínka, kterou je vydání rozhodnutí o nezvěstnosti
+        * kdo byl prohlášen za nezvěstného -> nemůže namítat neplatnost, nebo neúčinnost právního jednání učiněného za jeho nepřítomnosti, pro to, že se při nich projev jeho vůle nevyžadoval
+        * **Zánik prohlášení za nezvěstného -> návrat, nebo prohlášení za mrtvého**
+      * **Domněnka smrti**
+        * Jedná se o situaci rozdílnou oproti důkazu smrti -> tam člověk opravdu zemřel, nebo byl účaste takové situace, kdy je důvodné předpokládat že zemřel.
+        * Zde se jedná pouze o domněnku smrti, na základě které soud prohlásí dotčenou osobu za mrtvou.
+        * **Pokud je prohlášení mylné**
+          * k prohlášení za mrtvého se nepřihlíží
+          * manželství a registrované partnerství se ale neobnovuje
+        * Prohlášení za mrtvého v rámci domněkdy smrti -> **založeno na jisté míře pravděpodobnosti a 2 situacích**
+        * **První situace:** na návrh osoby, která na tom má právní zájem: lze prohlásit člověka za mrtvého, pokud **lze mít důvodně za to, že zemřel**
+          * Prohlášení za mrtvého -> hledí se na něj jakoby zemřel -> zaniká manželství
+          * Nezvěstný člověk, který ale nebyl za nezvěstného prohlášen -> lze prohlásit za mrtvého **nejdříve po uplynutí 7 let od roku, v němž se objevila zpráva, že by daný člověk mohl ještě být naživu**
+        * **Druhá situace:** pokud byl člověk prohlášen za nezvěstného -> na návrh osoby ho může soud prohlásit za mrtvého pokud jsou pochybnosti, že je ještě živ, i když jeho smrt není jistá.
+          * **Prohlásit člověka za mrtvého lze v tomto případě po uplynutí 5 let po konci roku, v němž byl daný člověk prohlášen za nezvěstného**
+          * Pokud se objevila zpráva, z níž lze soudit, že je člověk naživu - lhůta 7 let.
+        * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
+* **Ochrana osobnosti člověka**
+  * **Pojem ochrany osobnosti**
+    * § 3 OZ - ochrana života, zdraví, svobody, cti, důstojnosti, soukromí
+    * široký a různorodý soubor dílčích práv - nemajetkových práv, která poskytují osobě soukromoprávní ochranu osobnostních práv - související s - osobní svobodou, tělesnou integritou, soukromím, rodiným životem, ctí, důstojností a postavení ve společnosti
+  * **Jednotlivé složky:**
+    * Co se ochrany týče -> § 81 stanovuje takzvaná **všeobecná osobností práva** - přirozená práva -> každý je povinen je ctít, respektive stanovuje výčet jednotlivých složek (hodnot) osobnosti
+    * § 84 až 114 - poskytuje další demonstrativní výčet jednotlivých osobnostních práv
+  * Ochrana osobnosti je zakotvena i v Ústavě, LZPS, mezinárodních úmluvách a dalších zákonech - například antidiskriminační zákon, zákoník práce atd.
+  * **Osobnost v právním smyslu** = všeobecné osobnostní právo = celek hodnot lidské osobnosti
+    * patří spolu se statusovými právy do soukromých práv osobních
+    * neoddělitelně spjata s osobností člověka
+    * má absolutní povahu *erga omnes*
+    * trvá od narození do smrti
+    * § 81 - 114 OZ
+  * Ochrany požívá zejména: **život, důstojnost, zdraví, právo žít v příznivém životním prostředí, vážnost, čest, soukromí a projevy osobní povahy**.
+  * Dále jsou chráněny: **písemnosti osobní povahy, podobizny, obrazové a zvukové záznamy -> tedy lidé na nich, je možné je reprodukovat pouze se svolením daných osob/popřípadě pokud je licence -> úřední, vědecká, umělecká, zpravodajská**
+  * **Jak je možné se chránit?**
+    * V případě předpokladů naplňujících podmínky vzniku odpovědnosti: existence zásahu, jeho neoprávněnost a přičinné souvislosti mezi existencí zásahu a jeho neoprávněnosti
+    * Klasickými způsoby:
+      * žaloby negatorní - zdržení se protiprávního jednání
+      * žaloby restituční - odstranění následků protiprávního jednání
+      * a satisfakce - forma morální, například omluva, nebo i finanční zadostiučinění
+    * **Kdo může právo na ochranu uplatnit?**
+      * Samozřejmě postižený člověk
+      * Rovněž právnická osoba se souhlasem postiženého člověka (jméno souvisí s činností daného člověka v právnické osoby)
+      * Právní nástupce po jeho smrti -> tedy rodina, rovněž po smrti může právo na ochranu uplatnit i právnická osoba
+  * **Předmětem osobnostních práv je v NOZ obecně osobnost člověka včetně všech jeho přirozených práv a svoboda člověka žít podle svého**
+  * Dále jsou tedy upraveny obecně druhy ochrany, jíž osobnost člověka požívá (viz výše)
+  * Krom těchto obecných ochran upravuje NOZ i další specifické druhy ochran, těmi jsou:
+    * podoby a soukromí (viz výše)
+    * právo na duševní a tělesnou integritu - standardně se jedná o zdravotnické zásahy - musí být udělen souhlas, nemusí pokud je v ohrožení života, souhlas může udělit osoba blízká
+    * Právům člověka převzaného do zdravotnického zařízení bez jeho souhlasu
+    * Nakládání s částmi lidského těla a ochranu lidského těla po smrti člověka (součásti lidského těla, které nelze bezbolestně odebrat nejsou věcmi, věcmi jsou ale například - vlasy, ostříhané nehty)
+    * Jméno a pseudonym
+* ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
+  * ~~Předběžné prohlášení~~
+  * ~~Nápomoc při rozhodování~~
+  * ~~Zastoupení členem domácnosti~~
+  * ~~Omezení svéprávnosti~~
+* ~~Koblížek.~~
+* ~~Definiční znaky~~
+* ~~Nasciturus~~
+* ~~Možnost vstupovat do právních vztahů a mít z nich práva a povinnosti~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -199,6 +402,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 
 - [ ] § 118 - 435
+- [x] Pojem
+- [x] Třídění
+- [x] Organizační struktura
+- [x] Přičítání právního jednání a protiprávních činů
+- [x] Vznik a zánik
+- [x] Likvidace
+- [x] Přeměny
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -209,6 +419,136 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Pojem**
+  - NOZ se v pojetí subjektivity právnické osoby jakožto základního předpokladu existence právnické osoby přiklání teorii fikce podle § 20 OZ - svou subjektivitu tedy právnická osoba odvozuje od zákonného uznání, nebo stanovení, že se jedná o právnickou osobu - **co se týče soukromoprávních PO**.
+  - **Veřejnoprávní PO se řídí vlastními zákony - ustanovení občanského zákoníku se použijí pouze tehdy, pokud se to slučuje s povahou právnické osoby.**
+  - Obsahem právní osobnosti právnické osoby jsou práva a povinnosti -> ty jsou omezena pouze na ty, která se slučují s jejich povahou -> toto ustanovení lze chápat ve třech rovinách:
+    - První rovina = omezení práv a povinností ve smyslu těch, která přísluší výhradně člověku -> tedy například právo osvojit si dítě, vyživovací povinnost atd.
+    - Druhá rovina je omezení stanovená pro právnické osoby **veřejného práva** -> ty jsou vyhrazeny ve zvláštních zákonech - například obce a kraje a **soukromého práva** -> nadace, spolky...
+    - Třetí rovinou jsou omezení, stanovená pro jednotlivé typy právnických osob podle formy - tedy rozdíly u a.s., s.r.o. atd.
+  - **Veřejné rejstříky a identifikace právnických osob**
+    - NOZ se věnuje částečně i rejstříku právnických osob -> detailní úprava je však ponechána vzhledem ke svému veřejnoprávnímu charakteru na dalších předpisech a pouze stanovuje základní regulativní rámec -> povinně zapisované údaje a zásady materiální a formální publicity.
+    - **Materiální publicita** = lze důvěřovat údajům zapsaným v rejstříku -> ten kdo se jich dovolá -> není proti němu možné namítat, že údaje neodpovídají skutečnosti -> podpořeno i tím, že pokud se nějaký zapsaný údaj změní -> zapsaná osoba to musí oznámit tomu, kdo vede rejstřík -> ten opraví
+    - **Formální publicita** = rejstřík je veřejně přístupný veřejnosti k nahlédnutí, k tvoření výpisů a opisů
+    - Základní povinně zapisované údaje:
+      - Název
+      - Sídlo
+      - Den vzniku, zrušení a zániku
+      - Činnost
+      - Členové statutárního orgánu (jejich identifikační údaje) a způsob jejich jednání a časové vymezení jejich funkce
+    - **Identifikace PO**
+      - Odlišuje od jiných osob - nesmí být zaměnitelný a klamavý, složen z kmenu a právní formy (viz otázka Obchodní právo).
+      - Název může obsahovat i jméno FO -> se souhlasem a pokud je k němu zvláštní vztah
+      - Zaměnitelnost jmen není tak přístá v případě -> že se jedná o koncerny
+      - Název FO je chráněn i před zpochybněním a hrozící újmou -> tedy potenciálními zásahy, rovněž je chráněna pověst (goodwill) PO
+    - **Sídlo**
+      - Můžě být i v bytě - pokud nenarušuje klid a pořádek -> například časté obchodní návštěvy
+      - Skutečné/zapsané -> každý se může dovolat jak skutečného, tak i zapsaného sídla
+      - **Přemístění** -> je možné ze zahraničí do Čr -> pak je potřeba zvolit českou formu právnické osoby, nebo i z Čr do zahraničí, pokud to neodporuje veřejnému pořádku a právnímu řádu země, do které chce PO sídlo přemístit
+    - **Veřejná prospěšnost**
+      - Účel PO může být i obecně prospěšný -> svojí činností přispívá k veřejnému blahu -> své jmění využívá k veřejně prospěšnému účelu.
+      - Příkladem může být nadace.
+      - Výkon pouze bezúhonými osobami a majetek z poctivých zdrojů
+    - **Jednání**
+      - Jsou zastupovány FO, které za ně jednají ve smyslu přímého zastoupení (na jejich účet, jejich jménem) přímo jako jejich orgány, nebo na základě smluvního zastoupení (přímého, nepřímého).
+      - Základem jsou však orgány -> individuální (jeden člen), kolektivní (více členů).
+      - Protiprávní jednání FO zaměstnaných v PO, nebo jí zastupujících vůči třetí osobě PO zavazuje -> sankce tedy postihuje právnickou osobu -> ta ale může uplatnit regres -> vymáhání náhrady za plnění, které bylo poskytnuto za jinou osobu, která by jinak měla plnit.
+      - Člen orgánu má ale povinnost jednat s péčí řádného hospodáře - to zahrnuje loajalitu, potřebné znalosti a pečlivost.
+        - Je tedy potřebné říci, že například člen statutárního orgánu, pokud by porušil péči řádného hospodáře -> byl by odpovědný on sám, a to ať už ve vztahu k samotné právnické osobě, nebo ve vztahu k osobám třetím.
+- **Třídění**
+  - Viz otázka v Obchodním právu.
+  - Buď na veřejnoprávní a soukromoprávní.
+  - Nebo na:
+    - Korporace - spolky, družstva, obchodní korporace
+    - Fundace - nadace a nadační fondy
+    - Ústavy
+  - **Spolek** - tvoří společenství osob, jehož základem je osobní složka (corpus = latinsky tělo).
+    - Nejméně tři osoby, společný zájem na vytvoření samosprávného dobrovolného svazku.
+    - Zákaz nucení vstupu, nebo zákazu vystoupení
+    - Členové neručí za jeho dluhy
+    - Organizaci je možné zvolist ve stanovách - ty mohou orgány pojmenovat jakkoliv, jen nesmí působit klamavým dojmem.
+      - V základ nejvyšší orgán - členská schůze, statutární orgán - individuální (předseda), kolektivní (výbor), dále může být zřízena kontrolní komise a rozhodčí komise.
+    - Název - dodatek - spolek, zapsaný spolek, nebo z.s.
+    - Hlavní činností -> pouze ochrana a uspokojování těch zájmů, které vedly společníky k jeho založení
+    - Nelze zakládat za účelem podnikání, nebo jiné výdělečné činnosti
+    - Příkladem může být spolek pro obnovu venkova Čr
+    - Je zapisován do spolkového rejstříku.
+  - **Fundace** - PO vytvořená majetkem vyčleněném k určitému účelu - činnost se váže k účelu k němuž byla zřízena (fundus = latinsky základ)
+    - Fundace se ustanovují zakladatelským právním jednáním nebo zákonem
+    - Nadace a nadační fondy
+    - **Nadace**
+      - Založení k užitečnému účelu -> veřejně prospěšný/dobročinný
+      - Zákaz založení k podpoře politických stran, nebo za výdělečnými účely -> soud takovou může i bez návrhu zrušit s likvidací
+      - Smí podnikat -> výtěžek ale smí použít pouze k podpoře svého účelu, podnikání musí představovat pouze vedlejší činnost, podnikání je možné vyloučit v nadační listině zakladatelem -> pak podnikat nesmí
+      - Název -> obsahuje slovo nadace a standardně i uvádí její účel
+      - Založení nadační listinou -> tou může být zakládací listina, nebo pořízení pro případ smrti
+      - Nadační listina -> musí mít formu veřejné listiny -> povinný obsah -> název, sídlo, jméno a bydliště zakladatele, účel a výši nadačního kapitálu - při založení minimálně 500 000 Kč.
+      - **Organizace:** upravuje její statut, **statutárním orgánem** je správní rada (alespoň tři členové), **dozorčím orgánem** bývá dozorčí rada, pokud není zřízena, tak revizor.
+      - Nadace vzniká dnem zápisu do nadačního rejstříku a zaniká dnem výmazu z něj.
+    - **Nadační fond** - rovněž veřejný nebo dobročinný účel
+      - Zakládá se rovněž veřejnou listinou, od nadace se liší tím, že není trvalý -> majetek nemusí splňovat předpoklad trvalého výnosu -> naopak může být celý spotřebován k účelu, pro nějž byl založen.
+      - Na rozdíl od Nadace - minimální výše jeho majetku není limitována.
+      - Název -> musí obsahovat slova nadační fond -> například nadační fond obětem holocaustu
+      - Založení - viz nadace, zápis do nadačního rejstříku
+      - Jinak platí obdobně co o nadaci - podnikání, orgány etc.
+    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky. 
+      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených. 
+      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“ 
+      - Od korporací se liší tím, že řízení a provoz v nich nezajišťují členové, ale zaměstnanci.
+      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává. 
+      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní. 
+      - Ústavy se vyskytují ve všech oblastech společenského a hospodářského života.
+      - Dobrým příkladem ústavu je Charita České republiky, nebo Výzkumný ústav práce a sociálních věcí.
+  - Ahojda
+- **Organizační struktura**
+  - NOZ předpokládá, že právnická osoba je organizovaným útvarem, čímž naznačuje existenci její vnitřní struktury - tak to i musí být, protože právnická osoba je jen fingovaná osoba, není skutečně živá a nemá svéprávnost, vždycky tedy musí být někdo, kdo jí bude zastupovat a jehož přičiněním bude daná právnická osoba nabívat práv a poviností.
+  - Struktura právnické osoby je v právním smyslu složena z jejích orgánů, jejichž členové jsou buď fyzické osoby nebo právnické osoby -> ty ale zastupuje člen jejich orgánu, nebo pověřená osoba.
+  - Detailní úprava požadavků na tuto strukturu však již ponechává otevřenou pro regulaci ustanoveními k jednotlivým typům společností.
+  - Ty jsou upraveny pro některé druhy právnických osob v občanském zákoníku, pro jiní je zas úprava obsažena v jiných právních předpisech, například pro obchodní korporace je daná úprava obsažena v zákoně o obchodních korporacích a družstvech.
+- **Založení, vznik, zrušení & zánik právnické osoby**
+  - NOZ staví na čtyřstupňovém životním cyklu právnických osob - tedy **založení**, **vznik**, **zrušení** (s likvidací a bez likvidace) a **zánik** - na rozdíl od fyzické osoby, kde je vznik právní subjektivity narození a zánik smrt.
+  - Vě věci založení zavádí NOZ pojem **zakladatelské právní jednání** - povaha jednání jako skutečného projevu vůle se svým obsahem, zatímco dokument jako jeho pouhého formálního zachycení - standardně má ale formu veřejné listiny.
+  - **Zakladatelské právní jednání má rozdílnou povahu (formu) u různých právnických osob - u s.r.o. je to například společenská smlouva -> více zakladatelů, nebo zakladatelské listiny v případě jednoho zakladatele.**
+  - Po založení a dalších náležitých úkonech spojených se založením právnické osoby (tady je potřeba mnoha dalších náležitostí - otevření vkladového účtu, potvrzení od banky o složeném základním kapitálu, právní titul k místu, kde bude sídlo, ustanovující schůze, podpisové vzory atd.) -> **vznik** -> vznik nastává okamžikem zápisu do příslušného veřejného rejstříku (návrh na zápis je potřeba podat do 90 dnů od založení - buď přímo na rejstříkový soud, nebo pomocí notáře) -> jedná se tedy o konstitutivní zápis.
+  - Po vzniku PO se již nelze domáhat toho, že osoba nevznikla -> soud může pouze ve vymezených důvodech prohlásit neplatnost podle § 129 OZ, a to v případě, že nejsou odstraněny nedostatky v přiměřené lhůtě § 130 OZ -> například pokud není v pořádku zakladatelské právní jednání, právnickou osobu založilo méně zakladatelů, než je potřeba, nebo byla právnická osoba založena za účelem porušování práva.
+  - Prohlášení osoby za neplatnou ale nemá vliv na práva a povinnosti jichž nabyla.
+  - **Zrušení PO**
+    - Právním jednáním jejiho příslušného orgánu
+    - Uplynutím doby na kterou byla ustanovena, pokud není ustanovena na dobu neurčitou (má se za to, že je ustanovena na dobu neurčitou, pokud není určeno datum)
+    - Dosažením účelu, pro který byla založena
+    - Rozhodnutím soudu, či jiného orgánu veřejné moci
+  - Standardně se ruší s likvidací -> likvidátor vymáhá její pohledávky, uhrazuje její dluhy a zpeněžuje její majetek.
+  - Bez likvidace se ruší pouze -> pokud se PO ruší pří přeměně (jmění nabívá právní nástupce), nebo pokud je osvědčen její úpadek -> zrušuje se po zrušení konkurzu po splnění rozvrhového usnesení, nebo pokud je majetek nepostačující ke konkurzu, pokud se nějaký majetek dodatečně objeví -> vstoupí po skončení insolvenčního řízení do likvidace.
+  - Zrušení obecně probíhá z rozhodnutí oprávněného orgánu (standardně nejvyššího), nebo z rozhodnutí soudu.
+  - K zániku dochází dnem výmazu z příslušného rejstříku, u PO, která nepodléhá zápisu dochází k zániku dnem skončení likvidace.
+  - Mezi fází zrušení a zániku probíhá likvidace -> ledaže dojde k jednomu z případů popsaných výše.
+  - **Likvidace**
+    - Vypořádání majetku a dluhů PO a naložení s likvidačním zůstatekem
+    - Začíná se zrušením PO a zapisuje se do příslušného rejstříku (dodatek v likvidaci)
+    - PO a její likvidaci vede likvidátor, který odpovídá jako člen SO.
+    - Likvidátora povolává i odvolává soud -> musí být způsobilý jako člen SO
+    - Likvidátor vymáhá pohledávky, uspokojuje pohledávky a zpeněží majetek PO, přednostně se uspokojují pohledávky zaměstnanců
+    - Pokud prostředky získané zpeněžením majetku PO převyšují její dluhy, vyplácí se společníkům takzvaný **likvidační zůstatek**.
+    - Pokud však likvidátor zjistí, že dluhy převyšují majetek PO -> podá insolvenční návrh.
+    - Pokud se objeví další majetek a likvidace neskončila -> zařadí se do likvidační podstaty, pokud skončila -> likvidace se obnoví.
+  - **Přeměny právnických osob**
+    - Fůze, rozdělení a změna právní formy
+    - Podstatné je stanovení rozhodného data pro účely účetnictví
+    - Účinnost přeměny -> okamžikem zápisu do příslušného rejstříku
+    - Rozhodné datum určuje samo PO, okamžik účinnosti přeměny již závisí pouze na rejstříkovém soudu a okamžiku skončení provedení zápisu.
+    - **Fůze sloučením** -> dojde k zániku jedné ze zůčastněných PO, její práva a povinnosti přecházejí na jedinou nástupnickou společnost, existující před přeměnou.
+    - **Fůze splynutím** -> zanikají všechny zůčastněné PO a míto nich vzniká nová nástupnická, ta přebírá všechny jejich práva a povinnosti.
+    - **Rozdělení**
+      - **Rozštěpení rozdělením** -> PO se rozděluje se založením novým právnických osob, rozdělovaná osoba se ruší
+      - **Rozdělení sloučením** -> PO se rozděluje se současným sloučením s jinými právnickými osobami
+      - **Odštěpení** -> odštěpí se část PO, která se založí jako nová PO, rozdělovaná právnická osoba se ale neruší
+      - Mohou se spojit i více způsobů rozdělení
+    - Povinnost sestavit konečnou účetní závěrku.
+    - **Změna právní formy**
+      - Je možné změnit právno formu společnosti
+      - Tato změna nemá vliv na práva a povinnosti PO s výjimkou změn, vyplívajících z rozdílné právní formy.
+      - Přeměna vyžaduje sestavení mezitimní účetní závěrky.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -244,29 +584,60 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - **Zastoupení**
   - O zastoupení se jedná v případě, že jeden jedná za druhého jeho jménem a z tohoto jednání vznikají práva a povinnosti zatupovanému.
+  - § 436 - kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem.
+  - V právním jednáním se osoby tedy občas mohou/musí nechat zastoupit - minimální předpoklad pro zástupce je svéprávnost.
   - V případě, že není zřejmé, že někdo jedná za někoho jiného platí, že jedná na vlastní jméno - prokázat, že jedná za jiného může **plnou mocí**.
   - Zástupcem nemůže být ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže zastupený o takovémto rozporu věděl, nebo vědět musel.
+    - Pokud třetí osoba věděla o rozporech zájmů - může se toho zastoupený ve svůj prospěch dovolat.
   - Zástupce musí jednat vždy osobně, jednat může i prostřednictvím zástupce, ale pouze pokud si to ujednal se zastoupeným, nebo vyžaduje-li to nutná potřeba, odpovídá však za výběr zástupce.
   - Pokud má zastoupený pro tutéž záležitost více zástupců platí, že každý zástupce může jednat samostatně.
-  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce.
+  - Pokud zástupce překročí zástupční oprávnění (takzvaný exces), zavazuje právní jednání zastoupeného, pokud jednání bez zbytečného odkladu schválil, pokud ho neschválil, tak zavazuje zástupce - příklad kdy se toto ustanovení uplatní je například u nepřikázaného jednatelství.
   - Existují dva druhy zastoupení **příme** a **nepřímé**, u přímého jedná zástupce na účet a jménem zastoupeného, práva a povinnosti tedy vznikají přímo zastoupenému, u nepřímého jedná na účet zastoupeného, ale svým vlastním jménem, právní následky tedy vznikají přímo u zástupce, a užitek ze zastoupení potom na zastoupeného musí převést.
+  - **Přímé zastoupení**
+    - Vzniká na základě zákona (právní zástupce nezletilých), nebo ze smlouvy
+  - **Nepřímé zastoupení**
+    - = náhradnictví
+    - patří do obligačního práva
+    - substituta je možné ustanovit, jen dovoluje-li to zákon
   - Druhy zastoupení:
     - **Smluvní zastoupení** a **prokura**
+      - Smlouva o zastoupení - může se jednat jak o přímé, tak o nepřímé zastoupení, například co se týče příkazních smluv
+        - Příkaz
+        - Zprostředkování
+        - Komisionářská smlouva
+        - Zasílatelství
+        - Obchodní zastoupení
+      - zmocnitel a zmocněnec
+      - plná moc - osvědčení pro zástupčí oprávnění
+      - prokura - jen pro podnikatele zapsané v OR
     - **Zákonné zastoupení**
-    - **Opatrovnictví**
+      - vzniká *ex lege*
+      - děti a rodiče, manželé, zaměstnanec PO
+      - není obligačně právního charakteru
+    - **Zvláštní druhy**
+      - PO (statutární orgán atd.)
+      - Zastoupení členem domácnosti
+      - **Opatrovnictví** - na základě rozhodnutí soudu
   - **Smluvní zastoupení**
-    - Strany: **Zmocnitel** a **zmocněnec**.
+    - Strany: **Zmocnitel** (zastupovaný) a **zmocněnec **(zástupce) - obě strany mohou být jak PO, tak i FO.
+    - Ujednají-li si to strany, zastupuje jedna z nich druhou v ujednaném rozsahu jako zmocněnec.
+    - Právním důvodem vzniku zastoupení je smlouva o zastoupení - osvědčována plnou mocí.
     - Rozsah zmocnění je uveden v plné moci, u té postačí ověřené podpisy.
-    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku.
+    - Plná moc pouze osvědčuje zastoupení a práva zmocněnce, nejedná se o samotnou smlouvu, přesto je vhodné připojit akceptační doložku, musí v ní být uveden rozsah zmocněncova oprávnění - může být ústní, nebo písemná, standardně je **písemná s ověřeným podpisem** - nutná je zejména pokud:
+      - Právní úkon, který má zmocněnec učinit má psanou formu,
+      - pokud se plná moc netýká jen určitého právního úkonu.
+      - **Rozlišují se dva typy plné moci:**
+        - Speciální - udělena k jednomu, nebo k několika speciálním právním jednáním
+        - Generální - udělena ke všem právním jednáním, která by jinak mohl vykonat zmocnitel
     - Zmocnitel může zmocnění kdykoliv odvolat, pokud jsou však uvedeny důvody odvolání, musí být naplněny.
-    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán.
-    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět.
-    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil.
-    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran, pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
+    - Pokud je zmocněna právnická osoba, jedná za ni statutární orgán, nebo jiná určená osoba.
+    - Ochrana třetích osob - v případě vyvolání dojmu zastoupení, nebo jednání osoby nezpůsobilé k zastoupení, pokud však nevěděla nebo nemohla vědět -> nelze se dovolat neplatnosti takovéhoto jednání -> tedy zavazuje.
+    - Pokud dojde k excesu a zastoupený s ním nesouhlasí, musí tento svůj nesouhlas bez zbytečného odkladu dát vědět třetí osobě, jinak platí, že schválil (pokud se jedná o zastoupení podnikatele -> pokud je dobrá víra na straně spotřebitele -> je podnikatel vždycky zavázán i při excesu).
+    - Zánik zmocnění: vykonáním zastoupení, zmocnitel odvolá, zmocněnec vypoví, v případě smrti obou stran (v případě smrti zmocnitele pak pouze pokud z plné moci nevyplývá něco jiného), pokud nebylo ujednáno jinak, zmocněnec jedná do té doby, dokud mu zánik zmocnení není znám, v případě smrti zmocnitele, nebo vypovězení zmocněncem, vykoná zmocněnec ještě vše, co nesnese odkladu, aby zabránil újmě zmocnitele, nebo jeho právních nástupců.
     - Po konci zmocnění vydá zmocněnec veškeré věci spojené se zastoupením (propůjčené, nebo získané) zpět zmocniteli.
   - **Prokura**
     - Podnikatel zapsaný v obchodním rejstříku uděluje prokuru prokuristovi a zmocňuje ho tím ke všem právním jednáním, ke kterým dochází při provozu obchodního závodu nebo pobočky, zcizení a nebo zatížení však je možné pouze, pokud je to výslovně ujednáno.
-    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru.
+    - Prokura může být udělena pouze fyzické osobě, ta nesmí prokuru převést a ani udělit další prokuru, může však udělovat plné moci.
     - Výkon s péčí řádného hospodáře, vnitřní předpisy omezující prokuru nejsou závazné vůči třetím osobám i když byly zveřejněny.
     - Zánik: obdobný jako u smluvního zastoupení + převodem nebo pachtem obchodního závodu, smrtí podnikatele nezaniká, ledaže bylo ujednáno něco jiného.
   - **Zákonné zastoupení a opatrovnictví**
@@ -279,6 +650,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Soud opatrovníka odvolá v případě: opatrovník o to požádá, nebo neplní své povinnosti, soud rovněž jmenuje nového opatrovníka.
     - Více opatrovníku jedná společně.
   - **Opatrovnictví - specifická ustanovení**
+    - NOZ předpokládá u osoby rozum průměrného člověka i schopnost užívat jej s běžnou péčí a opatrností, to samé od ní může každá osoba v právním styku očekávat.
+      - Pokud není -> může soud přistoupit k omezení svéprávnosti, vždy je ale dávána priorita takzvaným náhradním, neboli podporovaným rozhodnutím - tedy ostatním 3 druhům podpůrných opatření.
     - Soud jmenuje opatrovníka opatrovanci, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem: například při omezení na svéprávnosti, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání, nebo tomu, jehož zdravotní stav mu působí obtíže při správě svého majetku nebo hájení svých práv.
     - Úkolem opatrovníka je udržovat s opatrovancem spojení, projevovat o opatrovance skutečný zájem, dbát o jeho zdravotní stav, starat se o naplnění jeho práv a chránit jeho zájmy.
     - Opatrovník naplňuje plní svoje povinosti s ohledem na přání opatrovance, není-li to možné tak s ohledem na jeho nejlepší zájmy.
@@ -293,6 +666,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Opatrovníkem může být jmenován jen ten, který splňuje požadavky na členství ve statutárním orgánu (například plná svéprávnost, bezúhonnost ve smyslu živnostenského zákona, neprobíhající konkurz etc.)
     - Opatrovník usiluje o obnovení správně funkčnosti a činnosti statutárního orgánu.
     - Zakladatelské právní jednání může určovat kdo má být pro tyto případy jemnován opatrovníkem.
+    - Například v případě nezvěstnosti osoby (pokud je orgán individuální), nebo i pokud je kolektivní - tam ale může soud na návrh oprávněné osoby i jmenovat nové členy na potřebnou dobu, než budou noví členové jmenování postupem určeným v zakladatelském právním jednání.
+    - Rovněž se opatrovník například jmenuje, pokud je zájem člena jejího orgánu v přímém rozporu se zájmem dané právnické osoby.
+- **Ještě se dá hovořit o zastoupení - advokacie, notářem**
+  - Jejich jednání se pak řídí specifickými zákony - zákon o advokacii a zákon o notářství
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -312,9 +689,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Věci
-- [ ] Součást a příslušenství
-- [ ] Cenný papír
+- [x] Věci
+- [x] Součást a příslušenství
+- [x] Cenný papír
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -326,39 +703,75 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - Věci
   - Vše co je odlišné od osoby a slouží potřebě lidí.
+  - Věc je v právním smyslu předmět subjektivního práva
   - Věc určená k obecnému užívání je veřejný statek.
   - **Plod** - co poskytuje věc ze své přirozené povahy.
   - **Užitek** - co věc pravidelně poskytuje ze své právní povahy.
   - **Cena** - hodnota věci v penězích, určí se jako cena obvyklá pokud není ujednáno jinak, nebo jinak nestanoví zákon.
-  - Lidské tělo ani jeho část není věcí.
+  - Lidské tělo ani jeho část není věcí - ani po oddělení.
   - Rovněž živé zvíře není věcí, nýbrž se jedná o živé zvíře, ustanovení o věci se na něj použijí jen v rozsahu, ve kterém to neodporuje jeho povaze.
   - **Majetek** - souhrn všeho co osobě patří.
   - **Jmění** - souhrn majetku a dluhů.
   - Rozdělení věcí jako takové:
-    - **Věci hmotné a nehmotné** -
+    - **Věci hmotné a nehmotné** - § 496 - 497 OZ
+      - Ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
+      - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
+      - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje - abstraktní věci.**
     - **Ovladatelné přírodní síly** - 
+      - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
     - **Nemovité a movité věci** - 
+      - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
+      - Pokud zákon stanoví, že určitá věc není součástí pozemku, ale pokud nelze takovou věc přenést z místa na místo bez porušení její podstaty -> i takováto věc je nemovitá - dalo by se říci tedy například nějaký stroj, který je pevně spojen s budovou.
+      - Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
     - **Zastupitelné věci** - 
+      - Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná, ostatní jsou nezastupitelné - příkladem budiž **peníze**, nebo některé druhy **cenných papírů**.
     - **Zuživatelné věci** - 
+      - Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení je zuživatelná - příkladem je plod stromů - tedy například jablko.
+      - Zuživatelná věc je rovněž věc, která náleží skladu a nebo jinému souboru -> pokud jejich běžné užití spočívá v tom, že jsou prodávány jednotlivě.
     - **Hromadné věci** - 
+      - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
+      - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
     - **Obchodní závod** - 
+      - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
     - **Pobočka** - 
+      - Pobočka - součást závodu, která vykazuje funkční i hospodářskou samostatnost (obejktivní kritérium) a o které podnikatel rozhodl, že bude pobočkou (subjektivní kritérium).
+      - Pobočku lze rovněž zapsat do OR - pak se jedná o odštěpný závod - to platí i o jiné organizační složce pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku.
+      - Vedoucí odštěpného závodu - jako zástupce podnikatele ve všech činnostech, které se týkají provozu odštěpného závodu - ode dne, kdy byl jako vedoucí odštěpného závodu zapsán do OR, do té doby - zastoupení podnikatele k určité činnosti - viz otázka obchodní právo.
     - **Obchodní tajemství** -
+      - Obchodní tajemství tvoří konkurenčně významné, určitelné, ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti, které souvisejí se závodem a jejichž vlastník zajišťuje ve svém zájmu odpovídajícím způsobem jejich utajení.
+      - Podmínky:
+        - **Konkurenčně významné**
+        - **Určitelné**
+        - **Ocenitelné**
+        - **V příslušných kruzích běžně nedostupné**
+        - **Související se závodem**
+        - **Kterým je zajišťováno odpovídající utajení**
 - Součást věci a její příslušenství
   - **Součást** -
+    - Součástí věci je vše, co k ní podle povahy patří a nemůže být od ní odděleno, aniž by se tím znehodnotila.
+    - V NOZ platí (viz věci nemovité), stará římská zásada *superficies solo cedit*.
+    - Povrch ustupuje půdě -> stavba je součástí pozemku, né samostatná věc -> jak tomu bylo za účinnosti starého občanského zákoníku -> existují z toho však výjimky -> například právo stavby.
   - **Příslušenství** - 
+    - Příslušenstvím je vedlejší věc vlastníka, která je určena, aby byla trvale užívána společně s věcí hlavní.
+    - Má se za to (vyvratitlená právní domněnka), že příslušenství sleduje osud věci hlavní.
+    - Příslušenství je však na rozdíl od součásti věci samostatnou věcí.
 - Cenný papír
   - Cenný papír je papír, se kterým je spojeno právo, které bez daného cenného papíru nelze uplatnit nebo převést - jedná se tedy o právo potvrzené daným cenným papírem.
-  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky etc.
+  - Příklady specifických cenných papírů: akcie, kupón, dluhopis, opční listina, podílové a zatimní listy a kmenové listy, směnky, šeky, pokladniční poukázy etc.
+  - Cenné papíry peněžního a finančního trhu - krátkodobé a dlouhodobé.
   - **Zastupitelné cenné papíry** - jedná se o **věc zastupitelnou**, tedy o cenné papíry téhož druhu jež jsou svým právním obsahem stejné,~~, pokud je uplatněno právo z jednoho, ostatní zanikají.~~ jedná se tedy například o akcie, vydané stejným emitentem se stejnou formou o stejné jmenovité hodnotě.
   - **Forma cenného papíru:**
-    - Na jméno - 
-    - Na řad - 
-    - Na doručitele - 
-  - **Emise cenného papíru** - 
-  - **Vydání cenného papíru** - 
-  - **Stejnopisy cenného papíru** - 
-  - **Kupón** - 
+    - Na jméno - obsahují jméno, rozdíl je v převodu
+    - Na řad - obsahují jméno, rozdíl je v převodu
+    - Na doručitele - anonymní vlastník cenného papíru, není na něm jméno.
+  - **Emise cenného papíru** - vydání cenného papíru prvnímu nabyvateli, respektive jedná se o vydání především zastupitelných cenných papírů jedním emitentem.
+  - **Vydání cenného papíru** - vydán dnem, kdy splňuje potřebné zákonné požadavky a kdy se stane majetkem prvního majitele, až tímto okamžikem dochází k inkorporaci práv do cenného papíru.
+  - **Stejnopisy cenného papíru** - musí být číslovány, jinak se považují za samostatný cenný papír, pokud je uplatněno právo z jednoho, ostatní zanikají.
+  - **Kupón** - pokud je s cenným papírem spojen právo na výnos, může být spojeno s kupónem, který je možné využít pro uplatnění takovéhoto práva.
+  - **Hromadná listina** - pouze listina, která lze vydat místo zastupitelných cenných papírů a tvoří tedy sourhn těchto zastupitelných cenných papírů.
+  - Nakonec je důležité zmínit podobu cenných papírů:
+    - Listinné - cenné papíru například v podobě "listu papíru"
+    - Zaknihované - papíry, které jsou v centrálním depozitáři cenných papírů, existují tedy pouze v jakési elektronické evidenci, listinný cenný papír lze imobilizovat -> převést ho na zaknihovanou podobu.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -378,6 +791,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Subjektivní práva a povinnosti
+- [x] Ochrana subjektivních práv
+- [x] Soukromoprávní odpovědnost
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -386,7 +803,108 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Svépomoc je okolností vylučující protiprávnost.
+- **Subjektivní práva a povinnosti**
+  - Jedná se o realizaci práva objektivního u jednotlivých osob, které tvoří základ konkrétních právních vztahů.
+  - Jedná se tedy o oprávnění, představující jistou míru dovoleného chování subjektu práva.
+  - Stanoví právní norma, akt aplikace práva nebo závazek stran.
+  - Týká se subjektů práva, tedy osob, u těch se rozlišuje:
+    - právní osobnost
+    - svéprávnost
+    - deliktní způsobilost
+    - procesní způsobilost
+  - Subjektivní práva se svým obsahem rovněž týkají objektů práva
+    - objekty právních vztahů -> to, čeho se týkají oprávnění a povinnosti právního vztahu
+    - primární objekt je vždy určité chování
+    - sekundární objekt - předmět, který se k tomu váže, tedy zejména věci v právním smyslu
+  - **Subjetivní právo má tři roviny**
+    - možnost chovat se právně nezakázaným způsobem
+    - možnost požadovat odpovídající chování od jiného
+    - možnost požadovat ochranu práva, respektive možnost svépomoci
+  - **Dělení subjektivních práv**
+    - **Práva absolutní povahy -** jedná se o právo, do kterého ostatní osoby nesmí zasahovat, působí *erga omnes* - právo na život, právo na ochranu osobnosti, vlastnické právo,...
+      - spojeno s *omittere*
+    - **Práva relativní povahy -** právo, které působí *inter partes*, je uplatňováno ve vztahu ke konkrétnímu subjektu - nájemní právo, právo na zaplacení pohledávky, právo na zdravotní péči,...
+      - spojeno s *dare*, *facere*, *pati*
+      - práva obligatorní povahy
+  - **Dělení práv obecně**
+    - práva soukromá - rovnost osob, nevystupování subjektu veřejného práva - občanské, obchodní, rodinné, pracovní, mezinárodní právo soukromé
+    - práva veřejná - nerovnost osob, vystupuje v něm orgán státní moci, jde tedy o vrchnostenské postavení státu
+    - práva hmotná - stanovení objektivních práv a povinností
+    - práva procesní - stanovení jak se domoci objektivních práv a povinností
+  - **Nejdůležitějším právem jsou základní práva a svobody, zaručeny ústavním právem a mezinárodním právem.**
+  - **Prvky subjektivního práva**
+    - možnost být subjektem (nositelem) práv
+    - možnost se chovat dovoleným způsobem
+    - možnost vyžadovat odpovídající chování jiných subjektů
+    - možnost státně mocenského zásahu
+  - Člověk má tedy jistá vrozená práva - ty má každý člověk od narození - z toho vychází i jistá hierarchie práv člověka, tato hierarchie je důležitá při kolizi práva - tzn. není možné stanovit takové právo, respektive normu jakéhokoliv charakteru, která by narušovala základní práva každého člověka
+    - **základní práva a svobody** - zaručená ústavou, jsou nezadatelná, nezcizitelná, nezrušitelná a nepromlčitelná, jsou pod ochranou soudu, kterou nelze vyloučit ani zákonem -> ty jsou i definovaná v občanském zákoníku, jako práva, která požívají nejvyšší ochranu
+    - **práva zaručená zákonem**
+    - **práva vyplývající přímo ze zákona**
+    - **práva na základě zákona vyloučená**
+  - **Vymahatelnost subejktivního práva**
+    - subjekt má vůči jinému subjektu nárok **dunucení** splnění jeho povinnosti.
+    - Vymahatelnost subjektivního práva je spojena se státní ochranou stanovenou normami pozitivního práva
+      - **Pozitivní a přírozené právo**
+      - Pozitivní = lze odvodit ze systému vesměs psaných právních norem v té době platných
+      - Přirozené = právo nepsané, univerzální, nezávislé na státu - rovnost všech lidí, požadavek spravedlnosti a zákaz diskriminace - pozitivní právo by se jím mělo řídit, mělo by prozařovat do práva pozitivního
+    - **Vymáhání subjektivního práva má tři způsoby**
+      - **Prostřednictvím státu -** stát garantuje práva a vynucuje plnění povinnosti. Vymáhání/nebo ochrana subjektivního práva za pomoci soustavy soudů
+      - **Prostřednictím svémoci -** není typická pro demokratické země, ale je zakotvena v občanském zákoníku, jedná se o donucení vlastními silami, typicky pokud je oslabena pozice státu, jeho pomoc není možná, nebo by přišla pozdě. Svémoc se uplatňuje pomocí jednání v **nutné obraně**, jednání v **krajní nouzi**,... - obecně je zakotvena v § 14 OZ
+        - Nutná obrana - odvrácení útoku
+        - Krajní nouze - odvrácení nebezpečí újmy, není nutné hradit škodu, ale nesmí způsobit větší škodu, než která by vznikla, pokud by neodvracel
+        - Svémoc je standardně okolností vylučující protiprávnost a nutnost náhrady škody.
+      - **Zadržením věci -** právo na zadržení věci, když dlužník nesplní svou povinnost (když dlužník neplatí, je možné mu zadržet věc v odpovídající hodnotě)
+  - **Subjektivní povinnost**
+    - Subjektivní právo a povinnost jsou párové pojmy - nelze mít práva bez odpovídajících povinností, neboť možnost chovat se určitým způsobem musí být vždy spojena s povinností jiného chovat se tomu odpovídajícím způsobem
+    - nutnost chovat se způsobem stanoveným právní normou (pokud není splněna dobrovolně, lze jí podle objektivního práva vynutit státním donucením)
+    - **subjektivní práva a povinnosti = obsah občanskoprávních vztahů**
+      - subjektivní práva relativní = v rámci občanskoprávního vztahu = na jedné straně je **oprávnění**, na druhé je **povinnost** - věřitel je oprávněn požadovat splení své pohledávky a dlužník je povinen splnit svůj dluh
+      - subjektivní práva absolutní = existují mimo občanskoprávní vztah = na jedné straně oprávnění individálně určeného subjektu a na druhé straně povinnost neurčitého počtu subjektů
+- **Druhy právních povinností**
+  - dare - dáti
+  - facere - konati
+  - omitere - zdržeti se
+  - pati - strpěti
+- **Ochrana subjektivních práv**
+  - Ochrana je poskytována celým právním řádem, všemi právními odvětvími:
+  - Jestliže existuje právní nárok -> pak je právo vymahatelné, je "dospělé"
+  - Subjekt práva má nárok na donucení jiného subjektu splnit povinnost
+  - **soudní ochrana** (prostřednictvím státu) - poskytováno soudní mocí = pokud se subjekt obrátí na soud a splní všechny zákonem stanovené podmínky -> soud jej nesmí odmítnout a musí jeho věc rozhodnout -> proto **základní formou poskytnutí ochrany subjektivních práv jsou rozhodnutí soudu**
+    - Ochrana obecnými soudy
+    - Ochrana správními soudy
+    - Ochrana Ústavním soudem
+  - **ochrana pokojného stavu** - kdo se domnívá, že byl porušen pokojný stav, může se domáhat ochrany u příslušného orgánu státní správy = ochrana provizorní (rozhodnutí je předběžné, účastník se může obrátit na soud)
+  - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze
+- **Soukromoprávní odpovědnost**
+  - **Vymezení deliktu**
+    - Porušení práva nebo jím stanovené povinnosti
+    - V trestním právu -> trestné činy -> přečiny a zločiny
+    - V občanském právu se jedná o soukromoprávní delikty -> porušení zákonnem stanovené povinnosti, porušení smluvní povinnosti, porušení dobrých mravů, omezení hospodářské soutěže - především nekalá soutěž -> vzniká sekundární závazek ve smyslu nahrazení škody, nebo nemajetkové újmy. Zákon se o ně ale standardně nestará automaticky, ochrany je nutné se domáhat u soudu podáním žaloby v občanskoprávním řízení.
+      - Koresponduje s ní právo postiženého -> škůdce porušil porušil primární povinnost -> nastává sekundární nepříznivý právní následek pro škůdce -> **sankční povinnost**
+    - Protiprávní jednání kdy do hry nevstupuje stát
+    - Jedná se tudíž o vztah mezi několika subjekty, které mají totožné postavení.
+    - Škůdce je vždy povinen odčinit své jednání a nahradit poškozenému újmu -> pokud samozřejmě žaluje.
+  - **Delikt v občanském právu**
+    - Dělí se podle toho, zda byla porušená povinnost dána smlouvou, nebo zákonem
+    - Sekundární závazky, které vznikají z deliktů:
+      - Závazky z deliktů
+        - **náhrada majetkové a nemajetkové újmy**
+        - **zenužití a omezení soutěže**
+      - Závazky z jiných právních důvodů
+        - **bezdůvodné obohacení**
+        - **nepřikázané jednatelství**
+        - **upotřebení cizí věci ku prospěchu jiného**
+    - **Dle toho, co je obsahem vztahu, na základě kterého byla založena odpovědnost lze rozlišovat odpovědnosti na:**
+      - **odpovědnost za škodu** - vznik nové povinnosti, kterou povinný před jejím vznikem neměl
+      - **odpovědnost za prodlení** - přistoupení nově vzniklé povinnosti k předchozí povinnosti, kterou povinný měl
+      - **odpovědnost za vady** - přeměna původní povinnosti dodat bezvadnou věc na povinnost poskytnou něco jiného
+      - **odpovědnost za nemajetkovou újmu**
+  - **Druhy odpovědnosti:**
+    - **subjektivní** = odpovědnost za zavinění -> exulpace, vyvinění -> pokud se prokáže, že nezavinil, zbaví se odpovědnosti
+    - **objektivní** = odpovědnost za protiprávní stav - za výsledek - nelze se vyvinit, ale pouze liberovat -> pokud se prokáže, že i kdyby vyvinul veškeré úsilí, které od něj lze spravedlivě vyžadovat, škodlivý následek by stejně nastal -> například živelné pohromy
+
+~~Svépomoc je okolností vylučující protiprávnost.~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -420,10 +938,107 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Realizace právních norem**
+  - uskutečňování právních norem v praxi -> využívání oprávnění a dodržování právních povinností právními subjekty, a to včetně rozhodování o oprávněních a povinnostech a eventuální donucení ke splnění povinností.
+  - Definice realizace právních norem je důležitá protože souvisí s právním vztahem -> ten vzniká zásadně na základě právních jednání.
+  - **Realizace** - subjekty práva ve smyslu jejich práv a povinností
+  - **Aplikace** - aplikuje orgán veřejné moci
+- **Právní vztahy**
+  - Nejdůležitější forma realizace právních norem.
+  - Je nutná součinnost druhého subjektu.
+  - **Jedná se o společenský vztah nejméně dvou konkrétně určených právních subjektů, upravený právními normami, v němž jsou jeho účastníci nositeli vzájemně spjatých subjektivních práv a povinností.**
+  - Vznikají bezprostředně (*ex lege*) - zřídka kdy, nebo na základě **právní skutečnosti** - častější případ.
+  - Mají tři znaky:
+    - **nejméně dva subjekty**, často pluralita subjektů
+    - obsahem jsou práva & povinnosti
+    - jsou zde **obejty** právních vztahů
+  - **Předpokladem vzniku je především platná a účinná právní norma**
+    - ta stanoví přímo určitou povinnost, nebo dává určité oprávnění v kogentní podobě
+    - nebo dává dispozici účastníkům, aby upravili své práva a povinnosti podle své vůle
+  - **Ke vzniku, změně, nebo zániku nestačí sama existence právní normy, ale musí rovněž nastat právní skutečnost**
+  - Ke vzniku právního vztahu je tedy potřeba:
+    - **právní normy**
+    - **právní skutečnosti**
+  - Elementy právního vztahu tvoří:
+    - **subjekty**
+    - **objekty**
+    - **obsah právního vztahu**
+
 - **Právní skutečnosti**
-  - Právní skutečností jest.
+  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů -> tj. subjektivních práv a povinností, respektive se jedná o obejktivní skutečnost, na kterou právo bere zřetel a spojuje s ní právní následky
+  - **Právní následek** = následek právní skutečnosti - tedy ta faktická změna, zánik a vznik práv a povinností
+  - **Právní důvod** = právní titul, který podle objektivního práva vyvolává právní následky - ze zákona, nebo z právní skutečnosti - standardně z právního jednání
+  - Jsou děleny na subjektivní a objektivní:
+    - **Subjektivní** - lidské chování vycházející z lidské vůle = právní jednání -> například kupní smlouva
+      - jedná se o právně relevantní jednání PO a FO -> **právní jednání** X **protiprávní jednání**
+    - **Objektivní** - přírodní a společenské jevy nezávislé na lidské vůli -> například přírodní katastrofy, smrt, uplynutí času
+      - v objektivně, tj. mimovolně nastalých okolností -> **právní událost** X **protiprávní stav**
+    - ![Pravni_skutecnost](Podklady/Obcanske_pravo/Pravni_skutecnost.png)
+  - Ahojda
 - **Právní jednání**
-  - 
+  - **jedná se o projev vůle směřující ke vzniku, změně, nebo zániku práv a povinností - v souladu s právem**
+  - nejvýznamější občanskoprávní skutečnost
+  - vyvolává právní následky, které jsou v něm vyjádřeny i ty plynoucí ze zákona, dobrých mravů, zvyklostí nebo zavedené praxe stran
+  - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům a veřejnému pořádku
+  - Druhy:
+    - **Aktivní jednání** - výslovně i konkludentně
+    - **Nečinnost** - například automatická prolongace, výpověd, odstoupení
+    - Obecně však nelze mít mlčení za souhlas! Je ale možné aktivně souhlasit mlčky, například kývnutím hlavy.
+  - Jde rozlišovat i dále: například adresovaná, neadresovaná, *inter vivos* a *mortis causa*, úplatné, bezúplatné, smíšené (úplatné ale nerovnocené - neúměrné zkrácení a lichva), neformální a formální, pojmenované a nepojmenované
+  - **Složky právního jednání**
+    - Podstatné - musí být
+    - pravidelné - nemusí být, zákon je může nahradit - například cena obvyklá
+    - Nahodilé - nejsou běžné, obsaženy jen občas
+  - Právní jednání může dále obsahovat podmínky (například odkládací a rozvazovací), doložení času - například od kterého času účinky počínají a kdy končí, a příkazy - například u pořízení pro případ smrti spočívající ve splnění nějakých příkazů
+  - **Aby bylo právní jednání platné, musí splňovat několik náležitostí**
+    - způsobilost subjektu
+    - soulad se zákonem a dobrými mravy, není proti veřejnému pořádku
+    - forma, je-li předepsána
+    - učiněn svobodně, vážně, určitě a srozumitelně
+    - prost omylů ohledně podstatných okolností
+    - absence tísně a nápadně nevýhodných podmínek
+    - absence úmyslu zkrátit věřitele (tomuto se dá odporovat)
+    - předmět - dovolený a možný
+  - **Dělení na konsensuální a jednostranné projevy vůle**
+    - konsensuální
+      - verbální (ústní)
+      - písemné (literární)
+      - konkludentní (mlčky učiněné)
+    - jednostranné projevy vůle
+      - procesní povahy
+      - hmotněprávní povahy (materiální) - zde se jedná například o určité druhy pořízení pro případ smrti
+  - **Individuální právní akty**
+    - (rozhodnutí individuální povahy)
+    - projevy vůle orgánů veřejné moci, které jsou v souladu s právem - zásada legality
+    - jedná se o výsledek procesu aplikace práva
+    - **Rozlišuje se na:**
+      - Konstitutivní (*ex nunc*) - působící od nyní, jsou právními skutečnostmi v hmotněprávním smyslu - konstituuje právo, které předtím nebylo
+      - Deklaratorní (*ex tunc*) - působící od tehdy, jsou právním skutečnostmi v hmotněprávním smyslu - deklaruje právo, které již bylo a pouze ho potvrzuje
+  - **Protiprávní jednání** (delikty) = projev vůle, který je v rozporu s právními normami
+    - Komisivní - aktivní činnost delikventa
+    - omisivní - spočívá v nečinnosti subjektu, který má povinnost jednat
+    - delikt X trestný čin X přestupek -> dále pouze o deliktech
+    - vzniká sekundární právo/povinnost kvůli porušení primárního práva/povinnosti -> snášet realizaci sankce -> **právní odpovědnost**, předpoklady jsou:
+      - deliktní způsobilost -> zletilost, schopnost ovládnout a posoudit své jednání
+      - porušení ze zákona, či ze smlouvy
+      - subjektivní zavinění - úmysl přímý a nepřímý, nedbalost vědomá a nevědomá (nevědomá vědět měl a mohl)
+      - objektivní zavinění - případy objektivní odpovědnosti (provozní činnost, odložené věci) - například odpovědnost za škodu způsobenou provozní činností.
+- **Právní událost**
+  - druh mimovolní právní skutečnosti, která nastává objektivně, přičemž následky, které jsou s ní spojeny jsou v souladu s normami práva
+  - například narození, nebo smrt člověka, pojistá událost
+  - Také čas a jeho plynutí - s uplynutím právo spojuje určité následky - **promlčení** X **prekluze**
+  - Důležitý je zmínit i **právní stav** - jde o právní skutečnost, která není v rozporu s právem, u události se ale jedná o dění - něco se stalo, u **právního stavu** se pouze popisuje nějaký stav, který je objektivně v souladu s právem - událost - dítě se narodilo, stav - dítě je narozeno
+- **Protiprávní stav**
+  - porušení právní povinnosti, přičemž nemá povahu projevu vůle
+  - Protiprávní výsledek sil působící nezávisle na lidské vůli
+  - Následkem je tvz. **objektivní odpovědnost**
+  - Živelné pohromy
+- **Neplatnosti**
+  - Absolutní - neplatnost je absolutní, soud k ní přihlédne i bez návrhu -> pokud se zjevně příčí dobrým mravům, narušuje veřejný pořádek, nebo je plnění od počátku nemožné, v ostatních případech se jedná o neplatnost relativní
+  - Relativní - neplatnost je relativní, soud k ní přihlédne jen na návrh
+  - má se za to, že každé jednání je spíše platné, nežli neplatné
+  - neplatné právní jednání nemá žádné účinky, krom náhrady škody
+  - od neplatnosti je potřeba odlišovat zdánlivé (nulitní) právní jednání -> na to se hledí, jako by od počátku nebylo - například pro nedostatek vůle
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -443,6 +1058,11 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Čas jako občanskoprávní skutečnost
+- [ ] Promlčení
+- [ ] Prekluze
+- [ ] Další instituty založené na běhu času
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -450,6 +1070,115 @@ Svépomoc je okolností vylučující protiprávnost.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Obecně k času**
+  - V právním významu se jedná o právní skutečnost ve formě právní události
+  - součást objektivní reality, která je v určité podobě a za určitých podmínek pro právo významná
+  - **okamžik** - den, popřípadě sekunda, v právu definovaná většinou ve formě ("okamžikem")
+    - narození, smrt, právní moc rozhodnutí
+    - spojuje s ním určité právní následky
+  - **běh času**
+    - s jeho koncem právo spojuje určité následky
+  - **Rozlišení lhůty a doby, jejich počátek, trvání a překážky**
+    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.
+    - **Lhůta** = časový úsek určení k vykonání práva, zejména k jeho uplatnění
+      - zákonná X smluvní
+      - hmotněprávní X procesní
+        - ​	hmotněprávní -> dříve než skončí, musí být právo uplatněno
+          - jedná se o lhůtu uplatnitelnou v občanskoprávních vztazích
+          - je třeba, aby PJ v písemné formě došlo do dispoziční sféry adresáta
+          - popřípadě fikce doručení
+        - procesní
+          - jedná se o lhůtu uplatnitelnou v procesních věcech
+          - je třeba, aby právní jednání v písemné podobě bylo včas (v poslední den lhůty) předáno provozovateli poštovních služeb
+    - **Termín** = určené datum
+    - **Překážky**
+      - jedná se o stavění lhůty
+        - Pravé = lhůta začala běžet a postaví se jí do cesty překážka, po dobu překážky lhůta neběží, pak naváže a běží dále = například zastavení běhu lhůty pokud je právo uplatněno u soudu
+        - Nepravé = lhůta může začít běžet až od chvíle určité právní skutečnosti - například dohoda o mimosoudním jednání věřitele a dlužníka -> až když se nepovede, může začít běžet lhůta
+        - Přetržení lhůty = lhůta běží, pak se přetrhne a pak začne běžet zase od začátku -> například pokud dlužník uzná svůj dluh (utvrzení a zajištění dluhu) -> začne běžet nová lhůta
+      - **Následky uplynutí času**
+        - vznik, nebo zánik práva a nebo povinnosti = právní skutečnost
+  - **Pravidla počítání času**
+    - Rozlišení dle toho, zda jde o čas, od kterého účinky počínají, nebo zda jde o čas od kterého účinky končí.
+    - Nabívá-li se právo nebo vzniká povinnost = na začátku dne
+    - Zánik práva nebo povinnosti = na konci dne
+    - Má-li se vykonat nebo splnit v určitý den, vyžaduje se, aby se tak stalo v obvyklou denní dobu
+    - **Práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.**
+    - **Pokud se lhůta počítá podle dnů** = začne se počítat následující den po vzniku skutečnosti, která vyvolala její počátek
+    - **Pokud se lhůta počítá podle týdnů, měsíců, nebo roků** = připadá na den, který se pojmenováním, nebo číslem shoduje se dnem, na který připadá skutečnost, která vyvolala její počátek, není-li v měsíci daný den, připadne konec lhůty na poslední den daného měsíce
+    - **Polovina měsíce** = 15 dnů, **střed měsíce** = 15. den
+    - **Pokud je lhůta složena s celých měsíců a z části dalšího měsíce** = počítá se část měsíce až na konec, tedy po uplynutí všech celých měsíců
+    - **Připadne-li konec lhůty na víkend, nebo svátek** = je posledním dnem lhůty nejbližší následující pracovní den
+    - **Pokud je lhůta v kratších jednotkách než je den** = počítá se od okamžiku kdy začne, do okamžiku, kdy skončí
+  - **Právní jednání a doručování vůči nepřítomné osobě**
+    - vyvratitelná právní domněnka, že:
+      - zásilka odeslaná s využítím služeb provozovatele poštovních služeb došla 3. den po odeslání
+      - pokud je však posílána do zahraničí, je tento termín posunut na 15. den
+
+- **Promlčení**
+  - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+  - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
+  - **Počátek běhu lhůty** = den dospělosti práva = například dlužník měl dnes splnit, nesplnit -> zítra můžu žalovat, pokud nebudu žalovat -> promlčení
+    - lhůta se samozřejmě může stavět a přetrhnout
+  - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít, právní titul tedy nezaniká, jen je oslaben.
+    - **Právní titul** = právní důvod k zániku, změně, nebo vzniku práva - vzniká na základě zákona, nebo na základě právní skutečnosti
+  - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
+    - **nezanikne povinnost splnit dluh, ale vznikne právo vznést námitku promlčením** -> o tomto soud nesmí poučovat -> nesmí poučovat o hmotném právu
+    - vznesením námitky se právo změní na naturální obligaci -> dlužníka nelze donutit k plnění, pokud ale plní, nemůže chctít své plnění nazpět, nejedná se o bezdůvodné obohacení na úkor dlužníka
+    - k vzdání se práva na vzenesní námitky promlčení se nepřihlíží
+  - v případě plnění po promlčení se ale furt a stále nejedná o bezdůvodné obohacení
+  - **Co se promlčuje:**
+    - všechna majetková práva s výjimkou případů stanovených zákonem
+    - jiná práva se promlčují, jen pokud to zákon stanoví -> § 612 až 618 OZ
+      - v případě práva na život, důstojnost, čest, jméno, zdraví, vážnost, soukromí, nebo obdobných osobnostních práv -> nepromlčují se, promlčuje se pouze právo na odčinění újmy způsobené na těchto právech
+    - právo na výživné se nepromlčuje
+    - vlastnické právo se nepromlčí
+    - etc.
+  - **Délka promlčecí lhůty**
+    - obecná promlčecí lhůta u věcí movitých a věcí nemovitých
+      - Nemajetková práva se obecně promlčují za 3 roky
+      - Majetková práva se obecně promlčují za 10 let
+    - jsou i další speciálně stanovené lhůty
+      - například pro právo na náhradu škody, újmy nebo vydání bezdůvodného obohacení - 10 let ode dne, kdy ke škodě došlo, pokud se však jedná o úmyslně způsobenou škodu - 15 let
+      - a dále.
+    - **Subjektivní a objektivní lhůta**
+      - **Lhůta subjektivní** - je vázána na osobu a standardně na skutečnost dozvědění se o dané právní události, nebo na to, že se dozvědět měla a mohla
+        - má dispozitivní povahu, strany si jí mohou zkrátit, nebo prodloužit a ti minimálně na 1 rok, nebo maximálně na 15 let, v některých případech se k němu nepřihlíží
+      - **Lhůta objektivní** - je vázána na obecný běh času, tedy na uběhnutí určité doby od dané události, od které začala běžet lhůta
+      - Lhůty běží současně - pokud zákon stanovuje "nejpozději za" - běží obě lhůty, pokud zákon stanovuje - "promlčí za" - jedná se o běh jen objektivní lhůty
+- **Prekluze**
+  - úplný zánik práv a povinností
+  - Nebylo-li právo vykonané ve stanovené době, zanikne jen v případě, že tak stanoví zákon.
+  - Ustanovení o běhu promlčení lhůty platí obdobně i pro prekluzi
+  - **Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
+  - Také vydržení práva
+  - Nemusí se namítat, soud k ní přihlédne i bez návrhu
+  - V případě prekluze již nejde z daného právního tituli plnit -> ten totiž zanikl, pokud by se plnilo z tohoto právního titulu, tak by se jednalo o bezdůvodné obohacení
+  - **Rozdíly oproti promlčení**
+    - promlčení
+      - lhůta k vykonání práva
+      - námitka promlčení, naturální právo
+      - plnění naturálního práva neznamená bezdůvodné obohacení
+    - **prekluze**
+      - po uplynutí lhůty právo zanikne zcela (nezůstane ani jako naturální právo)
+      - kdyby dlužník plnit, šlo by o plnění nedluhu
+        - věřitel musí vrátit, jinak jde o bezdůvodné obohacení
+      - Příklady
+        - odmítne-li některý z věřitelů účast na převzetí likvidační podstaty, považuje se jeho pohledávka za zaniklou.
+- **Vydržení**
+  - jedná se o jeden ze způsobů nabytí vlastnického práva
+  - Negativní následek nedostatečného vykonávání vlastnického práva vlastníkem
+  - Pozitivní následek řádného vykonávání práv vlastníka osobu, která má věc u sebe a chová se jako vlastník
+- **Společný základ promlčení, prekluze a vydržení: jejich povaha složených právních skutečností, pro které je rozhodný běh času, a jejich následky**
+  - složené právní skutečnosti = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje, dvě a více právních právních skutečností vyvolává právní následky
+  - slouží k tomu, aby výhodu získal ten, kdo se stará
+  - **Existují dvě skupiny z hlediska jejich trvání**
+    - práva osobní - statusová, osobnostní, rodinná
+      - neomezené trvání, v průběhu času se nemění, nepromlčitelné, nevydržitelné
+    - práva majetková - věcná práva, dědické právo, závazková práva
+      - omezené trvání
+      - mohou zcela zaniknout
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -469,6 +1198,12 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Manželství
+- [x] Majetkové právo manželské
+- [ ] Rodiče a dítě
+- [ ] Osvojení
+- [ ] Náhradní formy péče o dítě
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -476,6 +1211,143 @@ Svépomoc je okolností vylučující protiprávnost.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Manželství**
+  - trvalý svazek muže a ženy vzniklý způsobe, který stanový zákon
+  - hlavním účelem manželství je založení rodiny, řádná výchova dětí a vzájemná podpora a pomoc
+  - **Hlavní zásady**
+    - Svazek muže a ženy
+    - Monogamní
+    - Rozlučitelné
+    - Civilní či církevní forma
+  - **Uzavření manželství**
+    - Zákonem stanoveným způsobem = **sňatkem**
+    - **Sňatek** = svobodný a úplný souhlasný projev vůle muže a ženy, že spolu chtějí vstoupit do manželství (označování jako **snoubenci**)
+    - **Sňatečný obřad je veřejný a slavnostní a koná se za přítomnosti dvou svědků - 1 muže a 1 ženy**
+  - **Formy sňatku**
+    - **Občanský sňatek** - před orgánem veřejné moci
+    - Kdo může oddávat - starosta, místostarosta, pověřený člen zastupitelstva, za přítomnosti matrikáře
+    - O provedení sňatečného obřadu žádají snoubenci ten obecní úřad, v jehož obvodu chtějí manželství uzavřít
+    - Místo konání: místo určené úřadem pro slavnostní akce, přihlíží se k vůli snoubenců
+    - **Církevní sňatek** - před orgánem církve, či náboženské společnosti oprávněné k oddávání dle zákona
+    - O provedení obřadu žádají snoubenci příslušnou církev
+    - Předpoklady pro uzavření manželství v dané církvi a podmínky pro jeho konání, jakož i místo a a průběh jeho konání se řídí vnitřními předpisy církve
+    - Snoubenci musí mít osvědčení vydané matričním úřadem, v jehož obvodu má být manželství uzavřeno, že snoubenci splňují zákonné požadavky pro uzavření manželství - musí být mladší než 6 měsíců
+    - Církevní oddávající musí do 3 dnů od uzavření manželství poslat protokol o uzavření manželství danému matričnímu úřadu
+  - **Prohlášení při sňatečním obřadu**
+    - Snoubenci musí prohlásit:
+      - jaké si zvolí příjmení/zda penechájí/zda budou používat obě
+      - nejsou jim známy překážky pro uzavření manželství
+      - znají své vzájemné poměry a dohodli se na jejich uspořádání
+  - Existují další formy sňatku:
+    - Sňatek v cizině před diplomatickou misí, či konzulárním úřadem ČR v cizině - pokud je alespoň jeden ze snoubenců občanem Česka
+    - Sňatek v zastoupení - pokud z vážných důvodů jeden ze snoubenců nemůže se zůčastnit sňatečného obřadu - může být oddán v zastoupení - na základě písemné plné moci s ověřeným podpisem
+    - Sňatek v ohrožení života - pokud je jeden ze snoubenců ohrožen na životě, mohou sňatek uzavřít před kterýmkoliv obecním úřadem, oddat je může rovněž velitel letadla/plavidla pod vlajkou Čr, velitek vojenské jednotky ČR v zahraničí -> domnívám se, že se poté musí nahlásti na matričním úřadě?
+  - **Způsobilost uzavřít manželství**
+    - Ten jemuž v tom nebrání žádná zákonná překážka
+      - Těmi jsou:
+        - Nedostatek věku,
+        - nedostatek svéprávnosti,
+        - existující manželství či registrované partnerství,
+        - zakázaný stupeň příbuzenství,
+        - svěření do péče, poručnictví, pěstounství.
+  - **Neplatné a zdánlivé manželství**
+    - Zdánlivé manželství
+      - manželství vůbec nevznikne
+      - vada nemůže být zhojena - například sňatek osoby mladší 16 let, oddal někdo, kdo k tomu neměl oprávnění etc.
+      - není o něm třeba rozhodovat, v pochybnostech -> možná žaloba na určení, deklaruje neexistenci manželství
+    - Neplatné manželství
+      - Bylo-li uzavřeno přes zákonnou překážku
+      - považuje se za platné, dokud jej soud neprohlásí na návrh osoby, která na tom má právní zájem za neplatné, někdy může i *ex officio* - například pokud by už snoubenec měl uzavřené jiné manželství a to by stále trvalo
+      - vada však může být zhojena - například nabytí svéprávnosti, nebo zánik předchozího manželství -> pak je manželství považováno za platně uzavřené
+      - Má se za to (vyvratitelná právní domněnka), že manželství je uzavřeno platně.
+  - **Práva a povinnosti manželů**
+    - Manželé mají v zásadě **rovná práva a povinnosti**
+    - Jsou si povinni úctou
+    - Dále například: žít spolu, být si věrni, pečovat o dítě etc.
+    - Právo znát své vzájemné příjmy a majetkové poměry
+    - **společná domácnost manželů** = rodiná domácnost, kde spolu soužijí
+    - každý z manželů finančně přispívá podle svých možností tak, aby byla **životní úroveň všech členů domácnosti zásadně srovnatelná**
+    - Důležité pro rozvod a pro vypořádání majetku: poskytování majetkových plnění má stejný význam jako osobní péče o rodinu a její členy
+  - **Jednání manželů**
+    - Manželé zásadně jednají společně, nedohodnou-li se manželé může souhlas jednoho z manželů v odůvodněných situacích nahradit soud.
+    - Jednání jednoho manžela běžně zavazuje a opravňuje oba manžele společně a nerozdílně.
+      - To neplatí, pokud jeden manžel dal předem najevo, že s jednáním nesouhlasí, nebo soud na jeho návrh vyloučil působení následků právního jednání na daného manžela.
+    - V běžných záležitostech však může jednat kterýkoliv z nich a mají vůči sobě zákonné zástupčí oprávnění.
+      - To neplatí pokud jeden z manželů třetí osobě předem sdělí, že se zastoupení nesouhlasí, nebo pokud ho vůči manželovi zruší soud.
+      - Rovněž neplatí, pokud manželé žijí v oddělených domácnostech podle § 691 odstavce 2.
+  - **Manželé mezi sebou mají vyživovací povinnost - i vůči dětem, a to tak, aby jejich hmotná a kluturní úroveň byla zásadně stejná.**
+  - **Zánik manželství**
+    - Manželství může zaniknout třemi způsoby:
+      - Smrtí
+      - Prohlášením za mrtvého - dnem, který je označen za den smrti, pokud je prohlášený za mrtvého živý, manželství se neobnovuje
+      - Rozvodem
+        - § 755 OZ a následující, předpokladem rozvodu je nenapravitelný rozvrat manželství
+          - Soužití manželů je hluboce a trvale rozvráceno a nelze očekávat obnovení soužití
+        - některý z manželů musí o rozvod požádat
+        - Manželství však ve dvou výjimečných situacích nemůže být rozvedeno ani tak:
+          - rozpor se zájmem nezletilého dítěte manželů, který je dán zvláštními důvody
+          - rozpor se zájmem manžela, který se na rozvratu zásadně nepodílel s tím, že by mu rozvodem byla způsobena zvlášť zásadní újma a mimořádné okolnosti svědčí pro zachování manželství -> v tomto případě může být manželství rozvedeno pokud spolu manželé nežijí alespoň po dobu 3 let
+        - Před rozvodem manželství musí být vypořádány poměry nezletilého dítěte, až pak lze manželství rozvést - opatrovnický soud musí pravomocně rozhodnout, nebo musí být schválena dohoda rodičů
+        - **Sporný a nesporný rozvod**
+          - **Sporný rozvod**
+            - soud zjišťuje existenci rozvratu a jeho příčiny -> pokud dojde k závěru, že je zde kvalifikovaný rozvrat a rozvodu nebrání jedna z dvou výše uvedených situací -> manželství rozvede
+          - **Nesporný rozvod**
+            - soud nezjišťuje příčiny rozvratu manželství a manželství rozvede - opět pokud rozvodu nebrání tvrdostní klauzule za současného splnění několika zákonných podmínek
+              - Pokud se druhý manžel k návrhu připojí a shodně tvrdí, že je manželství rozvráceno a dohodnout se na úpravě poměrů nezletilých dětí a majetku
+              - (+manželství trvalo alespoň rok, a manželé spolu minimálně 6 měsíců nežijí)
+        - **Výživné po rozvodu**
+          - Jeden manžel může mít právo na výživné po druhém manželovi pokud:
+            - se není schopen sám živit a tato situace má původ v manželství
+            - v takovém případě může nařídit druhému manželovi hradit výživné - pokud to po něm lze spravedlivě požadovat s ohledem na jeho stav (věk, finance etc.)
+            - rovněž zkoumá, zda si to druhý manžel "zaslouží" -> například zda se nemohl uživit sám správným nakládáním se svým majetkem, nebo zda se staral o společnou domácnost, nebo zda proti manželovi nespáchal tresný čin
+            - lze splnit odbytným - uhrazením částky výživného
+            - maximálně na tři roky, zaniká rovněž pokud vyživovaný manžel uzavře nové manželství, nebo vstoupí do registrovaného partnerství
+- **Manželské majetkové právo**
+  - SJM = to co manželům náleží, má majetkovou hodnotu, a není vyloučeno z právních poměrů
+  - **Má tři režimy**
+    - zákonný
+      - **Aktiva** = to co nabyli manželé společně za trvání manželství + zisk z výhradního vlastnictví manžela
+      - Existují výjimky - například náhrada nemajetkové újmy, dar, dědictví (pokud není odkázáno do SJM)
+      - **Pasiva** = dluhy převzaté za trvání manželství
+      - Výjimka: například dluhy převzaté jedním z manželů bez souhlasu druhého manžela pokud se nejedná o obstarávání běžných záležitostí
+      - Manželé jsou zavázáni společně a nerozdílně, **v běžných záležitostech týkajících se SJM může jednat každý sám, jinak společně, pokud nejednají společně -> možnost jednoho manžela dovolat se naplatnosti tohoto jednání, rovněž pokud by bylo třeba jednat v zájmu rodiny a jeden z manželů by odmítal souhlas udělit -> může být nahrazen soudem**
+    - smluvenný
+      - forma notářského zápisu, s účinky od teď do budoucnosti
+      - podoby:
+        - oddělené jmění,
+        - vznik SJM ke dni zániku manželství,
+        - zůžení nebo rozšíření SJM
+        - vypořádání SJM ke dni zániku manželství
+      - Správa se řídí dohodou manželů
+    - Založený rozhodnutím soudu
+      - V jistých zákonem stanovených způsobech může SJM upravit na návrh manžela soud - zruší nebo zúží - například pokud je manžel marnotratný
+  - **Práva třetích osob ze SJM**
+    - dluh jakou součást SJM - uspokojení z majetku SJM + z výlučných majetků manželů nespadajících do SJM
+    - dluh není součástí SJM a zavazuje pouze jednoho z manželů (druhý manžel nesouhlasil) - uspokojení z výlučného majetku zavázaného manžela + SJM ale jen do výše podílu zavázaného manžela, který by na SJM měl v případě vypořádání SJM
+  - **Vypořádání SJM**
+    - Je potřeba vždy při změně - tedy při zrušení soudem, zánikem například rozvodem a nebo zúžením například smlouvou
+    - dohodou manželů
+    - na návrh může soud
+    - OZ určuje vyvratitelné právní domněnky jak se má majetek rozdělit, pokud se nedosáhne dohody
+  - **Ochrana proti domácímu násilí**
+    - pokud se pro jednoho soužití stane nesnesitelné z důvodu psychického nebo fyzického násilí -> soud může nejdéle na dobu 6 měsíců omezit nebo i vyloučit právo druhého manžela v domě či bytě bydlet
+- **Rodiče a dítě**
+  - **Mateřství**
+    - Matkou dítěte je žena, která ho porodila - absolutní statusový poměr matka - dítě
+    - Bez mateřství nelze určit otcovství /příbuzenství
+    - Vyloučení absolutního statusového poměru v rámci náhradního mateřství (surogačního) -> možnost osvojení
+  - **Otcovství**
+    - Na základě jedné ze tří zákonných domněnek
+      - pokud je manželem matky (vyvratitelné), rovněž pokud se narodí do 300 dnů od zániku manželství, pokud není matka znovu provdána -> pak VPD, že je otcem manžel pozdější, nebo pokud jiný muž neprohlásí otcovství a rozvedený muž otcovství popře a matak se k prohlášení připojí
+        - Popření - může matka i otec (objektivní i subjektivní lhůta)
+      - Poked rodiče souhlasně prohlásí kdo je otec (vyvratitelné)
+        - Popření - může matka i otec (obejktivní lhůta)
+      - pokud otcovství prohlásí soud (nevyvratitelné)
+        - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
+        - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
+        - v případě sporu - nařízení testu DNA
+  - Ahojda
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -893,6 +1765,8 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Věcná a místní příslušnost
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -911,6 +1785,9 @@ Svépomoc je okolností vylučující protiprávnost.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Subjekty civilního procesu
+- [ ] Procesní úkony
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -918,6 +1795,55 @@ Svépomoc je okolností vylučující protiprávnost.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Právo hmotné a procesní**
+  - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
+  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo.
+
+- **Subjekty civilního procesu**
+  - Procesní subjekty = subjekty, kteří právně ovlivňují proces, jsou vybaveni procesními právy a povinostmi, vznikají mezi nimi procesněprávní vztahy
+    - **Soud** - základní subjekt, instituce, prostřednictvím, které zajišťuje stát ochranu práv
+      - rozhodovací pravomoc => má nadřazené postavení
+      - stát je v rámci základního procesního vztahu "nezůčastněným třetím" a zároveň autoritou
+    - **Účastníci řízení**
+      - druhý nezbytný prvek společně se soudem, bez nich by řízení nemohlo existovat
+      - je základním subjektem, pro nesporná řízení - minimálně 1, pro sporná minimálně 2
+      - pouze osobě účastníka vznikají práva a povinnosti a pouze o nich se jedná
+      - účastník je účastníkem zásadně po celé řízení - existují výjimky - záměna úč., procesní nástupnictví atd.
+        - Záměna - §92 OSŘ - na návrh žalobce se souhlasem žalovaného - možné, aby žalobce nebo žalovaný z řízení vystoupil a na jeho místo nastoupil někdo nový
+        - Nástupnictví - například pokud někdo ztratí způsobilost být účastníkem - ten který vstoupil do práva a povinnosti může nastoupit na místo předchozího účastníka, je-li to možné.
+      - Účastníci mají práva a mají i povinnosti
+      - Příklad práv:
+        - rovné postavení
+        - dispoziční právo - především v řízení sporném
+        - možnost se vyjádřit
+        - být poučen
+        - nahlížet do spisu
+        - právo závěrečné řeči
+        - jednat před soudem ve své mateřštině (právo na překladatele)
+      - Příklad povinností
+        - "starat se o proces"
+        - důkazní povinnost - musí k prokazování svých tvrzení předkládat důkazy
+        - povinnost tvrzení - musí tvrdit všechny rozhodující skutečnosti
+        - povinnost dostavit se k soudu
+    - **Definice účastníků**
+      - U sporného řízení
+        - žalobce a žalovaný
+        - vedlejší účastník - účastník s právním zájmem na jeho výsledku
+          - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
+          - má stejná práva a povinnosti jako účastník
+      - U nesporného řízení
+        - navrhovatel a ten, o jehož právech či povinnostech má být v řízení jednáno
+        - navrhovatel a ten, jehož za účastníka označí zákon
+      - **Zvláštní subjekty řízení**
+        - subjekty, které reprezentují veřejný nebo jiný zájem odlišný od osobního zájmu
+          - státní zastupitelství - například v určitých typech řízení, která jsou upravena v ZZŘS
+          - úřad pro zastupování státu ve věcech majetkových
+        - subjekty vykonávající pomocné, ve vztahu k účasníkům a soudu samostatné funkce
+          - správce porůstalosti, správce konkurzní podstaty aj.
+          - a další osoby zůčastněné na řízení jako:
+            - svěděk, znalec, zmocněnec účastníka, kolizní opatrovník (divák není účastníkem)
+          - pro určitý úsek mohou být i účastníky -> když se rozhoduje o jejich právu (například svědek při rozhodováním o svědečném - náhrada hotových výdajů a ušlého výdělku, znalec při rozhodování o znalečném - náhrada hotových výdajů a odměna)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1084,6 +2010,11 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
+- [x] Pojem
+- [x] Povaha
+- [x] Předmět
+- [x] Systém a prameny obchodního práva
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1091,6 +2022,55 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Pojem**
+  - obchod-A_2017_18
+  - ObP = *soubor speciálních právních pravidel vztahujících se ke zvláštnostem obchodního života a upravujících postavení podnikatelů jako jeho hlavních účastníků*
+  - ObP je subsystémem občanského práva -> dáno zvláštní povahou podnikatele jako profesionála - §5 a §420 OZ
+    - dílčí odchylky od obecné úpravy (běžného subjektu občanského práva - občana, nepodnikající fyzické osoby) -> zpřísnění nároků na podnikatele, někdy odepření ochrany, co mají ostatní účastníci, nebo poskytnutí zvl. ochrany slabšímu podnikateli, ochrana spotřebitele jako slabší strany oproti podnikateli apod.
+  - i v ObP je nezbytné vycházet ze základních principů a dalších pravidel soukromého práva
+- **Povaha**
+  - ObP je **právem** **soukromým**, i když nese i určité **prvky** **práva** **veřejného** (OR, veřejnoprávní podnikání firem, soutěžní právo a hosp. soutěž,…) -> znak prolínání soukromého práva s veřejným
+    - *soubor zvl. právních norem, jejichž obsahem jsou soukromoprávní pravidla upravující (specifické) postavení podnikatele + normy veřejného práva regulující rámec podnikatelské činnosti*
+  - veřejnoprávní úprava podnikání (ingerence státu do ekonomiky) bývá označována jako **právo hospodářské**
+  - pro ObP je typické výrazné spojení ekonomického a právního přístupu (např. používání ryze ekonomických pojmů jako např. *relevantní trh, dominantní či monopolní postavení*)
+- **Předmět**
+  - co je předmětem ObP? 2 koncepce:
+    - *objektivní princip* = vztahy související s obchodním PJ, s podnikáním; bez ohledu na povahu účastníků; Code de commerce 1807; starší koncepce
+    - *subjektivní princip* = vztahy, kterých se **účastní podnikatel** (obchodník), jako profesionál a to bez ohledu na povahu druhé strany; -> v praxi prolínání obou principů s převahou principu subjektivního
+  - podnikatel, dle **§ 5(1) OZ** je profesionál, který je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena (jedná-li bez ní > k jeho tíži)
+- **Systém a prameny obchodního práva**
+  - **Systém**
+    - **obecná část** ObP - Občanský zákoník
+      - **úprava podnikatelských subjektů** (jejich právního postavení, sídla, jednání, zastupování včetně prokury) a podmínky podnikání
+      - **otázky majetkového režimu** (úprava závodu, odštěpný a rodinný závod, organizační složky)
+        - otázky průmyslového vlastnictví, právo nekalé soutěže
+      - **obchodní obligační právo** (ustanovení o uzavírání smluv, změny a zánik závazků,…)
+    - **zvláštní část** ObP
+      - úprava smluvních typů uzavíraných výlučně podnikateli
+      - spadá sem také **úprava obchodních korporací** - Zákon o obchodních korporacích
+  - **Prameny obchodního práva**
+    - zásadní je kodifikace z roku 2012, historicky byl pramenem obchodní/hospodářský zákoník
+    - v roce 2012 -> kodifikace soukromého práva -> primárním pramenem se tedy stal občanský zákoník a zákon o obchodních korporacích a živnostenský zákon
+    - základním vnitrostátním pramenem ObP je tedy **občanský zákoník (OZ)** – obsahuje def. podnikatele, úpravu jeho jednání, firemního práva, sídla podnikatele a další úpravy, **které jsou základem obecné části ObP** + odchylná úprava závazkového práva, dále v OZ cenné papíry, vymezení závodu a pobočky, obecná úprava
+    - úprava obch. korporací (vznik, založení a vnitřní poměry) upravuje **zákon o obchodních korporacích (ZOK)**, specifická úprava
+    - **Krom těchto hlavních pramenů jsou pro obchodní právo důležité i další právní předpisy**
+      - Zákon o přeměnách obchodních společností a družstvem, zákon o nabídkách převzetí
+      - Zákony upravující postavení specifických typů podnikatelů, například zákon o ČNB, zákon o bankách, zákon o státním podniku, zákon o pojišťovnictví
+      - zákon o podnikání na kapitálovém trhu, zákon o živnostenském podnikání - veřejnoprávní ingerence do podmínek podnikání a v důsledku toho i do Obchodního práva -> právo podnikat je chráněno Listinou základních práv a svobod (Ústavním pořádkem) čl. 26
+      - zákon o veřejných rejstřících PO a FO -> součást úpravy i OR = **veřejný rejstřík**, do něhož se povinně zapisují podnikající FO a PO splňující zákonná kritéria a další osoby, jimž tuto povinnost stanoví zákon a další skutečnosti, které mohou být na vůli daného podnikatele (například odštěpný závod)
+      - a další zákony jako, zákon o ochraně hospodářské soutěže, zákon o účetnictví, insolvenční zákon (o úpadku a způsobu jeho řešení), zákon o ochraně spotřebitele a další
+    - Dalšími prameny Obchodního práva jsou **podzákoné právní předpisy** nebo **právní zásady (principy)**
+      - Jak tradiční principy soukromého práva, jejichž příkladný výčet obsahuje OZ, tak i principy formulované judikaturou soudů a další specifické obchodní principy -> například zásada profesionality a odborné péče, zásada poctivého obchodního styku, zákaz zneužití hlasovacích práv k újmě Obchodní korporace, zásada "kdo volí, odvolává", zásada rovného zacházení se všemi akcionáři atd.
+    - Konečně jsou důležitým pramenem Obchodního práva **obchodní zvyklosti**
+      - Jedná se o pravidla ustálená obchodní praxí, která jsou podnikateli uplatňována a respektována **všeobecně v obchodě**, **v některém** obchodním odvětví či pouze **mezi konkrétními smluvními stranami**.
+      - samy o sobě nejsou pramenem práva - normativní funkci mají díky normě obsažené v **§558 odstavec 2**:
+        - v právním styku podnikatelů se k nim přihlíží ledaže to vyloučí ujednání stran nebo zákon,
+        - obchodní zvyklosti mají přednost před ustanovením zákona, které nemá **donucující účinky, tedy není kogentní**, lze se jich dovolat prokáže-li se, že je druhá strana musela znát a s postupem podle nich byla srozuměna
+    - Jako poslední pramen je **soudní judikatura** - naše soudy i evropská judikatura
+    - a **prameny Obchodního práva EU**
+      - především právo hospodářské soutěže, judikatura EU, respektive Evropského soudního dvora, primární i sekundární právo EU
+      - eurokonformní výklad, možnosti **předběžné otázky**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1112,6 +2092,17 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
+- [x] Pojmy podnikatel
+  - [ ] Podnikání
+  - [x] Obchodní závod
+  - [x] Pobočka
+  - [x] Odštěpný závod
+  - [x] Majetek
+  - [x] Jmění
+- [x] Členění podnikatelů
+  - [x] Právnické osoby
+- [x] Sídlo podnikatele
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1119,6 +2110,68 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Podnikatel**
+  - Pojem podnikatel  - všechny osoby, které fakticky podnikají, a to bez ohledu na jejich věk nebo schopnosti.
+  - (§ 5(2) nelze proti vůli dotčené (chráněné) strany zpochybnit povahu nebo platnost PJ jen proto, že ten, kdo jednal, neměl k činnosti oprávnění nebo mu byla zakázána - kdokoliv, kdo se prohlásí za podnikatele v právním styku
+  - Definice podnikatele pomocí znaků vykonnávané činnosti (podle § 420 OZ) - **podnikání**
+    - **vykonává výdělečnou činnost** - je vykonávána za úplatu, má být zdrojem příjmů,
+    - **samostatně** - sám, podle své úvahy, vylučuje například závislou práci,
+    - **na vlastní účet a odpovědnost** - daná osoba nese rizika z provozované činnosti,
+    - **živnostenským nebo obdobným způsobem** - *spory o výklad (existence VP oprávnění X výkon činností v ŽivZ či jiných předpisech i bez oprávnění X nabízení zboží a služeb 3. osobám)*,
+    - **se záměrem činnit tak soustavně** - musí být úmysl činnost opakovat,
+    - **za účelem dosažení zisku** - ziskem (prospěchem) je třeba rozumět kladný hosp. výsledek
+  - není podstatné, jestli podnikatel vykonává hlavní nebo vedlejší činnost, respektive zda je podnikání hlavním, nebo vedlejším předmětem jeho činnosti, v soukromoprávních jednáních vystupuje jako podnikatel v takových jednáních, která se týkají jeho podnikatelské činnosti, v ostatních vystupuje jako běžná osoba
+  - **důležitá je objektivní pozice určité osoby jako podnikatele**, nikoli jestli je tento stav znám i druhé straně
+  - **plnoprávní podnikatelé**
+    - Viz členění
+  - **neplnoprávní podnikatelé**
+    - Viz členění
+  - **PO podnikatelé a nepodnikatelé**
+    - Běžné PO jsou podnikatelé -> například Obchodní korporace
+    - Jsou i PO, které ze zákona podnikat nemohou -> například spolek -> spolek tedy není podnikatelem -> nepodnikající PO
+- **Podnikání**
+  - Podníkání jest.
+- **Obchodní závod**
+  - § 502 OZ - Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
+  - Ve své podstatě se tak jedná o veškeré jmění, které podnikatel FO používá pro výkon své činnosti.
+  - U FO se za obchodní závod dá považovat obchodní majetek, společně s pasivi.
+- **Pobočka**
+  - § 503 OZ - (1) Pobočka je taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou.
+- **Odštěpný závod**
+  - § 503 OZ - (2) Je-li pobočka zapsána do obchodního rejstříku, jedná se o odštěpný závod; to platí i o jiné organizační složce, pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku. Vedoucí odštěpného závodu je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl jako vedoucí odštěpného závodu zapsán do obchodního rejstříku.
+- **Majetek**
+  - § 495 OZ - Souhrn všeho, co osobě patří, tvoří její majetek.
+- **Jmění**
+  - § 495 OZ - Jmění osoby tvoří souhrn jejího majetku a jejích dluhů.
+- **Členění podnikatelů**
+  - Podnikat může buď právnická nebo fyzická osoba
+  - Je tedy možné členit dle jednotlivých forem, tedy OSVČ u FO a jednotlivé formy právnických osob u PO
+  - **Členění, které je myšleno v této otázce je ale asi následující**
+    - **plnoprávní podnikatelé** 
+      - a) fikce podnikatele pro osoby zapsané v OR - § 421 (1)
+      - b) vyvratitelná právní domněnka pro osoby, které mají živnostenské nebo jiné oprávnění - § 421 (2)
+    - **neplnoprávní podnikatelé**
+      - fikce podnikatele jen pro určité účely (ochrana spotřebitele a opožděné platby v obchodních transakcích - § 1963) vůči profesionálům, s nimiž jsou spotřebitelé fakticky v nerovném postavení
+      - a) každá osoba, která uzavírá smlouvou související s vlastní obchodní nebo výrobní činností (i když této osobě chybí jeden ze znaků podnikání)
+      - b) osoba, která uzavírá smlouvy při samostatném výkonu svého povolání (např. advokáti, lékaři) – *problematické zařazení, splňují totiž současně znaky podnikání dle § 420 (1)*
+      - c) osoba jednající jménem nebo na účet podnikatele (sem ale nepatří zaměstnanci nebo jiní zástupci, jejichž jednání podnikatele přímo zavazuje; může jít tedy akorát o osoby-nepodnikatele, kt. jednají jménem podnikatele neoprávněně a jsou pak samy z PJ zavázány)
+  - **Členění právnických osob**
+    - Nejobecněji právnické osoby - soukromoprávní a veřejnoprávní (obce a kraje)
+    - Další specifičtější členění na:
+      - **Korporace** - **spolek** a **obchodní korporace**, tvořeny corpusem = tělem, důležitá je tedy osobní složka
+      - **Fundace** - **nadace** a **nadační fondy**, tvořeny majetkem = podstatná je věcná část
+      - **Ústavy** - osobní a majetková část jsou spojeny
+  - **Sídlo podnikatele**
+    - Druhý nejdůležitější identifikační údaj.
+    - Je důležitý pro určování příslušnosti Orgánu Veřejné Moci, soudu etc.
+    - = *prostor, ve kterém podnikatel reálně provozuje podnikatelskou činnost či odkud je jeho podnikatelská činnost řízena (**sídlo skutečné**),* nebo *jakýkoli prostor označený podnikatelem jako jeho sídlo, i když není jeho skutečným sídlem (**sídlo formální, statutární**)*
+    - OZ rozlišuje sídlo podnikatele zapsaného v OR a sídlo nezapsaného podnikatele
+    - sídlo podnikatele ve VR musí být v prostorách, ke kterým má podnikatel **relevantní právní titul** (§ 14 ZVR)
+    - u PO může být v zakladatelském p. jednání jen název obce, ale ve VR pak vždy celá adresa sídla
+    - podnikatel-FO, který není v OR: jeho sídlem je místo, kde má hlavní závod, nemá-li ho > jeho bydliště (bydlištěm je místo, kde se podnikatel zdržuje s úmyslem žít tam trvale)
+    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného 
+    - zahraniční osoba může do ČR přemístit sídlo, ale musí zvolit p. formu české PO, bude se řídit českým právem, nelze u OK v likvidaci, insolvenci (platí obdobně i pro české osoby, umožňuje-li to p. řád státu, kam přemisťují)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1138,6 +2191,11 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Obchodní firma
+- [x] Obchodní tajemství
+- [x] Jejich ochrana
+- [x] Obchodní listiny
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1145,6 +2203,81 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Obchodní firma**
+  - Jedná se o jméno podnikatele = identifikační znak podnikatele - **funkce rozlišovací**
+  - Označení pod kterým podnikatel vystupuje v právních vztazích, právně jedná
+    - Jměné podnikatele zapsaného do OR = obchodní firma
+    - Jména ostatních podnikatelů, co nejsou v OR (PO - například Ústav, který se zapisuje do rejstříku ústavů/FO)
+  - Každá PO má název, ten je upraven v §132 a dále (obecná úprava), **obchodní firma je označení pro název firmy, která je zapsaná do OR**
+  - FO podniká pod svým jménem (názvem), může k němu ale připojit dodatek, pokud by chtěl podnikat pod fantazijním názvem, musel by podnikat jako PO, může však používat pseudonym (oficiálně ale stále podniká pod svým jménem)
+  - **Obchodní firma**
+    - **Objektivní firemní právo** = právem stanovená pravidla pro tvorbu firmy
+    - **Subjektivní firemní právo** = výlučné právo na užívání obchodní firmy v právním styku a na jeho ochranu
+    - Podnikatel musí v právních vztazích vystupovat pod svojí obchodní firmou, pokud se liší od jeho jména
+    - **Obchodní firma je nehmotným statkem** = má vlastní hodnotu a je předmětem vlastnického práva
+      - Existují 4 druhy firem:
+      - **Osobní** - jméno člověka, standardně u FO, může ale být i u PO, pokud má daná firma k danému jménu zvláštní vztah, k využití jména je nutný souhlas daného člověka, ten je možný odvolat (i právní nástupce), nelze-li spravedlivě požadovat, aby bylo dále využíváno
+      - **Věcná** - musí vyplývat jaký je předmět činnosti společnosti, nebo předmětu podnikání, poviné je jen u některých osob, například banka a pojišťovna
+      - **Fantazijní **- jakékoliv běžně vymyšlené jméno, které si podnikatel zvolí, například Alza, a.s.
+      - **Smíšená** - obsahuje například věcnou a osobní složku (Například Karel John, nakladatelství)
+    - **Struktura firmy**
+      - **Kmen** - část firmy bez dodatku (tedy bez a.s., s.r.o. etc.), může se skládat z několik slov, pak lze rozlišovat **silnou** část a **slabou** část, například ČEZ (silná část) Distribuce (slabá část)
+      - **Dodatek** - právní forma osoby, tedy a.s., s.r.o. a další, například **v likvidaci**
+    - **Nová vs. stará firma**
+      - **Nová firma** - nově vytvořené jméno podnikatele
+      - **Stará firma** - firma převzatá + nástupnický dodatek
+    - **Pokud není podnikatel zapsaný v OR** - jedná pod svým jménem - FO dle § 77 OZ jménem a příjmením, popřípadě dalšími jmény (například druhé jméno), PO (například spolek, fundace a ústav) jednají pod svým názvem PO - § 132 OZ, musí dodržet nezaměnitelnost a zákaz klamavosti.
+    - **Zásady platící u firmy**
+      - **zásada jednotnosti firmy** - jeden subjekt může mít pouze jednu firmu
+      - **zásada nezaměnitelnosti firmy** - podle dojmu průměrného zákazníka (posuzování) nesmí existovat dvě firmy, které jsou podle firmy zaměnitelné, nezaměnitelnost musí být splněna u **kmenu**, **firmy v koncernu mohou mít podobná jména - ČEZ Energie, a.s., ČEZ Distribuce, s.r.o.**, překontrolovává rejstříkový soud nebo notář při zápisu firmy do OR
+      - **zásada neklamavosti firmy** - zákaz vyvolání klamavého dojmu o totožnosti osoby, její povaze či činnosti, například u FO zapsané v OR musí být zřejmé, že se jedná o FO
+      - **zásada priority firmy** - ochrana práv k firmě náleží tomu, kdo firmu poprvé použil
+    - **Obchodní firmu lze samostatně převádět, předpokladem je že převoditel si zvolí novou obchodní firmu**
+    - **Nabude-li firmu právní nástupce, musí být firma firma doplněna dodatkem, například "nástupce", "dědic" etc.**
+    - **Firma může přejít jen na jednoho právního nástupce s jeho souhlasem, souhlas jiné osoby se nevyžaduje, pokud má PO více právních nástupců a nedohodnou-li se, na kterého právní firma přejde, tak nepřechází na nikoho**
+- **Obchodní tajemství**
+  - Učím se ze zpracov
+- **Ochrana obchodní firmy a obchodního tajemství**
+  - **Ochrana jména podnikatele**
+    - Sourprávních nástrojů, které má podnikatel k dispozici před neoprávněnými zásahy jiných osob do práv k jeho jménu
+    - Pokud byl podnikatel dotčen v právu ke své obchodní firmě -> **stejná ochrana jako při ochraně před nekalou soutěží**
+    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména), 
+    - **Ochrana absolutní** - směřuje proti komukoliv,
+      - **Jednotlivé ochrany** - jak u relativní, tak i u absolutní ochrany
+        - **zdržovací nárok** - zdržení se protiprávního jednání
+        - **odstraňující nárok** - odstranění závadného stavu
+        - **Náhrada škody - náhrada majetkové újmy**, **přiměřené zadostiučinění - vyrovnání nemajetkové újmy** a **vydání bezdůvodného obohacení**
+        - zdržovací a odstraňující nárok nepodléhá promlčení, ale plynutím času se oslabuje
+  - **Ochrana obchodních tajemství** a know-how
+    - § 504 OZ - Obchodní tajemství tvoří konkurenčně významné, určitelné, ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti, které souvisejí se závodem a jejichž vlastník zajišťuje ve svém zájmu odpovídajícím způsobem jejich utajení.
+    - **Kumulativně tedy 6 pojmových znaků**
+      - souvisí se závodem (pro podnikání relevantní)
+      - konkurenčně významné
+      - ocenitelné
+      - určitelné
+      - utajené
+      - utajení musí být vlastníkem v jeho zájmu zajištěno odpovídajícím způsobem (sejf, omezení přístup,..)
+    - jako nositel obchodního tajemství = **vlastník**, nikoli podnikatel
+    - Jedná se o nehmotnou věc -> **ochrana instituty vlastnického práva** -> například žaloba negatorní -> zdržení se protiprávního zasahování do vlastnického práva
+    - Ochrana ve smyslu **nekalé soutěže** - § 2985 OZ - relativní ochrana, porušení OT = jednající jinému neoprávněně sdělí/zpřístupní či pro sebe či jiného využije.
+    - **Ochrana je tedy stejná jako u ochrany obchodní firmy**
+    - **Co se týče know-how** - podobné jako obchodní tajemství, kumulativně vymezeno - utajené, podstatné pro provozování závodu, určitelné, ochrana z § 2976 - generální klauzule nekalé soutěže - tedy *"Kdo se dostane v hospodářském styku do rozporu s dobrými mravy soutěže jednáním způsobilým přivodit újmu jiným soutěžitelům nebo zákazníkům, dopustí se nekalé soutěže. Nekalá soutěž se zakazuje."*
+- **Obchodní listiny**
+  - § 435 OZ - popis co všechno musí obchodní listiny obsahovat
+    - Jméno,
+    - sídlo,
+    - údaj o zápisu do veřejného rejstříku (je-li podnikatel zapsán),
+    - a identifikační údaj, byl-li podnikateli přiřazen.
+  - Obchodními listinami budou všechny listiny, které používá podnikatel v právním (obchodním) styku při své podnikatelské činnosti.
+  - Obchodními listinami však nejsou interní listiny, které podnikatel používá v rámci svého závodu pro vnitřní účely.
+  - Příklady obchodních listin:
+    - obchodní dopisy,
+    - objednávky a potvrzení objednávek,
+    - faktury,
+    - smlouvy apod.
+  - Dle ZOK, pokud se uvádí údaj o základním kapitálu, je možné uvádět pouze upsanou a splacenou částku.
+  - a.s. má dále povinost zřídit internetové stránky.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1166,6 +2299,13 @@ finanční arbitr
 
 Částečně v obchod-A_2017_18
 
+- [ ] Právní jednání podnikatele FO
+- [ ] Právní jednání podnikatele PO
+- [ ] Prokura
+- [ ] Opatrovník
+- [ ] Vedoucí odštěpného závodu
+- [ ] Osoba pověřená určitou činností při provozu závodu
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1173,6 +2313,25 @@ finanční arbitr
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Právní jednání podnikatel FO**
+  - Jedná sám za sebe, ale může se nechat zastoupit.
+  - **obchod-A_2017_18, otázka 3**
+- **Právní jednání podnikatele PO**
+  - Má právní subjektivitu - tedy právo mít práva a povinnosti, ale nemá svéprávnost - nemůže daná práva a povinnosti nabývat sama, musí jí proto někdo zastupovat - standardně orgán společnosti.
+  - **obchod-A_2017_18, otázka 3**
+- **Prokura**
+  - Doplnit
+  - **obchod-A_2017_18, otázka 3**
+- **Opatrovník**
+  - Doplnit
+  - **obchod-A_2017_18, otázka 3**
+- **Vedoucí odštěpného závodu**
+  - Doplnit
+  - **obchod-A_2017_18, otázka 3**
+- **Osoba pověřená určitou činností při provozu závodu**
+  - Doplnit
+  - **obchod-A_2017_18, otázka 3**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1191,6 +2350,8 @@ finanční arbitr
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Právní úprava živnostenského podnikání
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1218,9 +2379,23 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Právní úprava neživnostenského podnikání
+
+- [ ] Podnikání zahraničních osob v České republice
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
+
+**Podnikání zahraničních osob**
+
+- Zahraniční osoba - fyzická osoba s bydlištěm mimo území Čr a právnická osoba se sídlem mimo Čr
+
+- Buď jako fyzická osoba podnikatel podle živnostenského zákona
+- Nebo jako podnikatel ale ne podle živnostenského zákona
+- Nebo jako PO a založit si v Čr odštěpný závod
+  - Je povinen ve smyslu živnostenského zákona jmenovat odpovědnou osobu pro získání živnostenského oprávnění
+- Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -1245,6 +2420,11 @@ finanční arbitr
 \|---------\| <br>
 
 V obchod-A_2017_18
+
+- [ ] Obchodní rejstřík
+- [ ] Pojem a faunkce obchodního rejstříku
+- [ ] Princip publicity
+- [ ] Živnostenský rejstřík
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -3446,12 +4626,34 @@ MVA, EVA                                           |   MVA, EVA
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Podnikové řízení
+  - [ ] Strategické řízení
+  - [ ] Taktické řízení
+  - [ ] Operativní řízení
+  - [ ] Oddělení vlastnictví a řízení podniku
+  - [ ] Správa a řízení velké společnosti
+    - [ ] Korporátní strategie
+    - [ ] Nadnárodní společnosti
+- [ ] Organizační výstavba podniku
+  - [ ] Typická oddělení v podniku
+  - [ ] Organizační inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
 - Mezinárodní obchod
   - V souvislost s nadnárodní společností
+- Existují tři druhy plánů:
+  - Komplexní strategické plány
+  - Taktické plány
+  - Operativní plány
+- Organizační výstavba podniku
+  - Doplnit
+  - OSCAR
+  - **Typická oddělení v podniku**
+    1. Ředitel
+    2. Výzkum a vývoj, Technika, Výroba, Obchod, Personalistika, Marketing, Právní oddělení, Metodika, Controlling, Účetní etc.
 
 ----
 
@@ -3842,9 +5044,56 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Nákup
+- [ ] Logistika
+- [ ] Zásobování
+- [ ] Hlavní úkoly logistického oddělení
+- [ ] Logistické metody
+- [ ] Řízení zásoby
+- [ ] Marketingový nákupní mix
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Nákup**
+  - Řízeno útvarem nákupu/útvarem zásobování standardně.
+  - Účel - **efektivní uspokojování potřeb vycházejících z plánovaného průběhu základních, pomocných a obslužných výrobních a nevýrobních procesů**.
+  - Lidsky řečeno má za úkol nákup veškerého **materiálu**, který je spojen s provozem daného subjektu.
+  - **Potřeba zásaního uplatňování nákupního marketingu**
+    - Nákup - aktivní článek v procesu plnění strategických cílů podnikání, které jsou vrcholovými kritérii rozhodování.
+    - Informační základna a přenos informací od prodeje k nákupu - odpovídající chování na straně nákupu ve smyslu materiálů, kvantity, kvality, logistiky a podobně.
+    - Snaha vidět dodavatele jako partnera-spojence a fér protihráče na tržním kolbišti.
+  - **Plán nákupu je důležitým nástrojem managementu i v tržních podmínkách - je předpokladem efektivního řízení nákupního procesu.**
+  - Plán nákupu začíná **včasným a reálným vyjasněním potřeb (nákupní marketing) a pokračuje nákupním výzkumem a volbou dodavatele jako východiskem pro všasné zahájení nákupní komunikace (to vše také marketing).**
+  - **Proč marketingové pojetí?** Těžiště aktivitu nákupů je nutné přesunout z **operativních plánů** do **strategických plánů**, jinak bude podnik bez vlastní nákupní strategie zaostávat za konkurencí a dostane se pouze do vleku vnějších tržních partnerů.
+- **Logistika**
+  - Doplnit (je v knize)
+- **Zásobování**
+  - Doplnit (je v knize)
+- **Hlavní úkoly logistického oddělení**
+  - Doplnit (je v knize)
+- **Logistické metody**
+  - Doplnit (neni v knize)
+  - Logistické řetězce
+- **Řízení zásob**
+  - Doplnit (je v knize)
+- **Marketingový nákupní mix**
+  - Součástí **marketingového pojetí nákupu**.
+    - Uplatňování marketingových přístupů, metod a techniky v oblasti nákupu.
+    - Jedná se tedy o marketingový přístup uplatněný na straně nákupu spočívající v průzkumu a výzkumu dodavatelského trhu (potenciální nabídky), rozhodování o optimálním dodavateli, režimu a podmínkách dodávek (cenových, dodacích, platebních, logistických atd.), zásobách a logistickém zajištění nákupních procesů atd.
+    - Snaha o dlouhodobé partnerské, vzájemně výhodné dodavatelsko-odběratelské vztahy ve všem možných otázkách, tedy například v kvalitě výrobků, spolehlivosti, pružnosti a efektivnosti plnění smluv, komunikaci apod.
+    - **Smyslem marketingového pojetí nákupu je propojení celého výrobního řetězce v rámci firmy.**
+    - Lepší, než kdyby bylo nákupní oddělení se svým vlastním plánem, nesesynchronizovaným s marketingovým plánem, nebo které by nakupovalo *ad hoc*.
+    - Nejde vlastně o nic jiného než o propojení vstupní a výstupní strany celého výrobního řetězce řízeného marketingovým způsobem.
+    - Nákupní marketingem podnikový logistický řetězec začíná a marketingem na straně prodeje a konečným odbytem končí, opačným směrem probíhá informační tok - od marketingu na straně prodeje k marketingu na straně nákupu.
+    - Obě hraniční funkce májí to podstatné společné: zprostředkovávají propojení vnitropodnikového prostředí s vnějšími tržními subjekty, důležitým předpokladem (kritickým faktorem úspěchu) je vzájemná komunikace tržních partnerů - dodavatelů, či odběratelů (zprostředkovatelů či spotřebitele).
+  - **Co to vlastně je ten nákupní marketingový mix?**
+    - Vychází z marketingového mixnu nákupního (4P)
+    - **Informační a komunikační nákupní mix**
+    - **Výrobkový mix a mix služeb**
+    - **Cenový a kontrakční mix**
+    - **Logistický a dodávkový mix**
 
 ----
 
@@ -3860,9 +5109,39 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Řízení rizik
+  - [x] Definice rizika a nejistoty
+  - [ ] Kategorizace rizik
+  - [ ] Metody měření a ošetření rizik
+  - [ ] Risk Apettite
+  - [ ] Organizace řízení rizik ve společnosti
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Definice rizika a nejistoty**
+  - Riziko je hrozba, že určité jednání nebo událost negativně ovlivní schopnost instituce naplnit strategii a dosáhnout cílů
+  - Riziko je hrozba, že s určitou pravděpodobností dojde k události, jež se liší od předpokládaného stavu či vývoje, přitom:
+    - výsledek musí být nejistý, existují alespoň dvě varianty řešení
+    - alespoň jeden z možných výsledků musí být nežádoucí
+  - **Riziko má dvě dimenze**
+    - Pravděpodobnost, že nastane
+    - Velikost jeho dopadu
+  - **Riziko musí být:**
+    - Identifikovatelné
+    - Hodnotitelné
+    - Uchopitelné pro rozhodování o jeho ošetření
+  - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
+- **Kategorizace rizik**
+  - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
+    - Podle firemní procesů - 
+    - Podle podnikatelských aktivit - 
+    - Podle obecně závazných pravidel - 
+- **Metody měření a ošetření rizika**
+  - No
+- **Risk Appetite**
+  - Jedná se o ochotu akceptovat riziko - riziková expozice, kterou je daný subjekt ve sledovaném období ochoten akceptovat v podmínkách existence daného rizika, odvozuje se například od variability ROE (return on equity) a výše vlastního jmění (vlastního kapitálu).
 
 ----
 
@@ -3882,7 +5161,7 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - [ ] Dilema projektového řízení
   - [x] Věcná a proesní stránka projektu
   - [ ] Faktory úspěchu projektu
-  - [ ] Projektová řídící struktura
+  - [x] Projektová řídící struktura
   - [ ] Nástroje pro řízení projetku
 
 \|------------------------------\| <br>
@@ -3905,6 +5184,17 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Procesni_rizeni.png)
   - **Faktory úspěchu projektu**
     - Faktory úspěchu projektu jsou faktory, dle nichž lze hodnotit úspěch projektu v rámci jeho finální fáze, tedy **Využívání**.
+    - Ke zhodnocení úspěchu projektu je nutné stanovit **měřitelné indikátory**.
+  - **Projektová řídící struktura**
+    - Jedná se o jednotlivé články projektu, standardně se dá vyobrazit následovně:
+    - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Ridici_struktura.png)
+    - Je však nutné říci, že každý projekt může mýt nastavenou různou projektovou řídící strukturu a do projektu mohou být zapojeny různí jednotlivci a organizace.
+    - **Zákazník projektu** - zadavatel projetku, například firma, jednotlivec, stát, obec
+    - **Sponzor projektu** - standardně owner projetku, tedy odpovědný zástupce zákazníka projetku **manažer**, **oddělení**
+    - **Kontrolor projetku** - jak na straně zákazníka, tak dodavatele (může být, měl by být), záleží jestli je projekt outsorcován nějakému dodavateli, nebo zda se uvolní interní pracovní síla k realizaci projektu.
+    - **Řídící výbor** - většinou se sestává ze sponzora projektu, a dalších vrcholných řídících článků projektu (tedy většinou manažerů projektu)
+  - **Nástroje pro řízení projektu**
+    - Doplnit
 
 ----
 
@@ -3923,6 +5213,8 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Jedná se o celé pojetí výrobního procesu - viz fáze v odmaturuj (dopsat)
 
 ----
 
