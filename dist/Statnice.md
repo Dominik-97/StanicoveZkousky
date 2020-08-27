@@ -1000,6 +1000,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Protiprávní výsledek sil působící nezávisle na lidské vůli
   - Následkem je tvz. **objektivní odpovědnost**
   - Živelné pohromy
+- **Neplatnosti**
+  - Absolutní - neplatnost je absolutní, soud k ní přihlédne i bez návrhu -> pokud se zjevně příčí dobrým mravům, narušuje veřejný pořádek, nebo je plnění od počátku nemožné, v ostatních případech se jedná o neplatnost relativní
+  - Relativní - neplatnost je relativní, soud k ní přihlédne jen na návrh
+  - má se za to, že každé jednání je spíše platné, nežli neplatné
+  - neplatné právní jednání nemá žádné účinky, krom náhrady škody
+  - od neplatnosti je potřeba odlišovat zdánlivé (nulitní) právní jednání -> na to se hledí, jako by od počátku nebylo - například pro nedostatek vůle
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1078,9 +1084,14 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - pokud je však posílána do zahraničí, je tento termín posunut na 15. den
 
 - **Promlčení**
+  - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+  - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
   - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít, právní titul tedy nezaniká, jen je oslaben.
     - **Právní titul** = právní důvod k zániku, změně, nebo vzniku práva - vzniká na základě zákona, nebo na základě právní skutečnosti
   - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
+    - **nezanikne povinnost splnit dluh, ale vznikne právo vznést námitku promlčením** -> o tomto soud nesmí poučovat -> nesmí poučovat o hmotném právu
+    - vznesením námitky se právo změní na naturální obligaci -> dlužníka nelze donutit k plnění, pokud ale plní, nemůže chctít své plnění nazpět, nejedná se o bezdůvodné obohacení na úkor dlužníka
+    - k vzdání se práva na vzenesní námitky promlčení se nepřihlíží
   - v případě plnění po promlčení se ale furt a stále nejedná o bezdůvodné obohacení
 - **Prekluze**
   - úplný zánik práv a povinností
