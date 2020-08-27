@@ -2031,7 +2031,7 @@ finanční arbitr
   - i v ObP je nezbytné vycházet ze základních principů a dalších pravidel soukromého práva
 - **Povaha**
   - ObP je **právem** **soukromým**, i když nese i určité **prvky** **práva** **veřejného** (OR, veřejnoprávní podnikání firem, soutěžní právo a hosp. soutěž,…) -> znak prolínání soukromého práva s veřejným
-    - ↪*soubor zvl. právních norem, jejichž obsahem jsou soukromoprávní pravidla upravující (specifické) postavení podnikatele + normy veřejného práva regulující rámec podnikatelské činnosti*
+    - *soubor zvl. právních norem, jejichž obsahem jsou soukromoprávní pravidla upravující (specifické) postavení podnikatele + normy veřejného práva regulující rámec podnikatelské činnosti*
   - veřejnoprávní úprava podnikání (ingerence státu do ekonomiky) bývá označována jako **právo hospodářské**
   - pro ObP je typické výrazné spojení ekonomického a právního přístupu (např. používání ryze ekonomických pojmů jako např. *relevantní trh, dominantní či monopolní postavení*)
 - **Předmět**
