@@ -330,7 +330,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
           * Pokud se objevila zpráva, z níž lze soudit, že je člověk naživu - lhůta 7 let.
         * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
 * **Ochrana osobnosti člověka**
-  * Co se ochrany týče -> § 81 stanovuje takzvaná **všeobecná osobností práva** - přirozená práva -> každý je povinen je ctít
+  * **Pojem ochrany osobnosti**
+    * § 3 OZ - ochrana života, zdraví, svobody, cti, důstojnosti, soukromí
+    * široký a různorodý soubor dílčích práv - nemajetkových práv, která poskytují osobě soukromoprávní ochranu osobnostních práv - související s - osobní svobodou, tělesnou integritou, soukromím, rodiným životem, ctí, důstojností a postavení ve společnosti
+  * **Jednotlivé složky:**
+    * Co se ochrany týče -> § 81 stanovuje takzvaná **všeobecná osobností práva** - přirozená práva -> každý je povinen je ctít, respektive stanovuje výčet jednotlivých složek (hodnot) osobnosti
+    * § 84 až 114 - poskytuje další demonstrativní výčet jednotlivých osobnostních práv
+  * Ochrana osobnosti je zakotvena i v Ústavě, LZPS, mezinárodních úmluvách a dalších zákonech - například antidiskriminační zákon, zákoník práce atd.
   * **Osobnost v právním smyslu** = všeobecné osobnostní právo = celek hodnot lidské osobnosti
     * patří spolu se statusovými právy do soukromých práv osobních
     * neoddělitelně spjata s osobností člověka
@@ -340,6 +346,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Ochrany požívá zejména: **život, důstojnost, zdraví, právo žít v příznivém životním prostředí, vážnost, čest, soukromí a projevy osobní povahy**.
   * Dále jsou chráněny: **písemnosti osobní povahy, podobizny, obrazové a zvukové záznamy -> tedy lidé na nich, je možné je reprodukovat pouze se svolením daných osob/popřípadě pokud je licence -> úřední, vědecká, umělecká, zpravodajská**
   * **Jak je možné se chránit?**
+    * V případě předpokladů naplňujících podmínky vzniku odpovědnosti: existence zásahu, jeho neoprávněnost a přičinné souvislosti mezi existencí zásahu a jeho neoprávněnosti
     * Klasickými způsoby:
       * žaloby negatorní - zdržení se protiprávního jednání
       * žaloby restituční - odstranění následků protiprávního jednání
@@ -352,9 +359,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Dále jsou tedy upraveny obecně druhy ochrany, jíž osobnost člověka požívá (viz výše)
   * Krom těchto obecných ochran upravuje NOZ i další specifické druhy ochran, těmi jsou:
     * podoby a soukromí (viz výše)
-    * právo na duševní a tělesnou integritu
+    * právo na duševní a tělesnou integritu - standardně se jedná o zdravotnické zásahy - musí být udělen souhlas, nemusí pokud je v ohrožení života, souhlas může udělit osoba blízká
     * Právům člověka převzaného do zdravotnického zařízení bez jeho souhlasu
     * Nakládání s částmi lidského těla a ochranu lidského těla po smrti člověka (součásti lidského těla, které nelze bezbolestně odebrat nejsou věcmi, věcmi jsou ale například - vlasy, ostříhané nehty)
+    * Jméno a pseudonym
 * ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
   * ~~Předběžné prohlášení~~
   * ~~Nápomoc při rozhodování~~
@@ -450,10 +458,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Nejméně tři osoby, společný zájem na vytvoření samosprávného dobrovolného svazku.
     - Zákaz nucení vstupu, nebo zákazu vystoupení
     - Členové neručí za jeho dluhy
+    - Organizaci je možné zvolist ve stanovách - ty mohou orgány pojmenovat jakkoliv, jen nesmí působit klamavým dojmem.
+      - V základ nejvyšší orgán - členská schůze, statutární orgán - individuální (předseda), kolektivní (výbor), dále může být zřízena kontrolní komise a rozhodčí komise.
     - Název - dodatek - spolek, zapsaný spolek, nebo z.s.
     - Hlavní činností -> pouze ochrana a uspokojování těch zájmů, které vedly společníky k jeho založení
     - Nelze zakládat za účelem podnikání, nebo jiné výdělečné činnosti
     - Příkladem může být spolek pro obnovu venkova Čr
+    - Je zapisován do spolkového rejstříku.
   - **Fundace** - PO vytvořená majetkem vyčleněném k určitému účelu - činnost se váže k účelu k němuž byla zřízena (fundus = latinsky základ)
     - Fundace se ustanovují zakladatelským právním jednáním nebo zákonem
     - Nadace a nadační fondy
