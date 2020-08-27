@@ -1367,6 +1367,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Vlastnické právo
+- [ ] Ochrana vlastnického práva
+- [ ] Spoluvlastnictví
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1374,6 +1378,50 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Vlastnické právo**
+  - § 1011 - Vlastnictví - vše co někomu patří (věci hmotné i nehmotné) jsou jeho vlastnictvím
+  - Nejobsáhlejší věcné právo a rovněž nejsilnější věcné právo
+    - právo všeobecné, přímé, výlučné panství nad věcí
+    - **jedná se o elastické právo - pokud je jeho šíře omezena a toto omezení skončí - vlátí se vlastnické právo do své původní šíře**
+    - **vlastnické právo je perzistentní (trvalé) - časově neomezené, trvá dokud vlastník má alespoň holé vlastnictví (vlastnický titul jako takový) i bez možnost nakládání s vlastnictvím**
+    - Má se za to, že každý si chce podržet své vlastnictví
+  - Upravené v části třetí - Absolutní majetková práva
+  - Jedná se však o právo, které je chráněno i Ústavním pořádkem (LZPS), tak i mezinárodními smlouvami
+  - Vlastnické právo je nezbytnou podmínkou existence a fungování svobodného trhu a tržního hospodářství.
+  - Působí *erga omnes*
+    - Vlastnickému právu tedy odpovídá povinnost všech ostatních subjektů nerušit vlastníka ve výkonu vlastnických práv.
+    - V rámci druhů subjektivních povinností se tedy jedná o povinost *omittere*, tedy zdržeti se zásahů do vlastnického práva
+  - Jedná se o oprávnění vlastníka v mezích zákona nakládat s věcí podle své vůle jakýmkoliv způsobem
+  - Vlastník má právo v mezích právního řádu se svým vlastnictvím libovolně nakládat a jiné z toho vyloučit
+  - Vlastnictví je předmětem vlastnického práva
+  - Jeho obsahem je právo vlastnit, které je složeno z níže uvedené analytické koncepce.
+  - **Definice vlastnictví**
+    - **syntetická koncepce** - převládá - všeobecné, přímé a výlučné panství osoby nad konkrétní věcí
+    - **analytická koncepce** - výčet práv, které pojem zahrnuje
+      - právo věc držet
+      - právo věc užívat
+      - právo na plody a užitky
+      - právo s věcí nakládat
+      - právo věc zničit a opustit
+  - **Omezení vlastnického práva**
+    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena
+    - § 11 odst. 3 LZPS: Vlastnictví zavazuje. Nesmí být zneužito na újmu práv druhých anebo v rozporu se zákonem chráněnými obecnými zájmy. Jeho výkon nesmí poškozovat lidské zdraví, přírodu a životní prostřední nad míru stanovenou zákonem
+    - Prvním druhem omezení je **omezení VP veřejnoprávními předpisy**
+      - Zde se jedná o některá omezení - například ve formě možnost věc užívat, pokud se jedná o chráněnou památku -> je stanoven způsob památkové ochrany
+    - **Další omezení existují v občanském zákoníku**
+      - dvě kategorie:
+        - **Ve veřejném zájmu**
+          - **Vyvlastnění** - ve veřejném zájmu, který nelze jinak uspokojit, na základě zákona, za plnou náhradu
+            - Jedná se o něm ve zvláštním vyvlastňovacím řízení
+            - VP lze omezit, nebo vyvlastnit
+          - **Použití vlastníkovi věci**
+            - Zásadně ve stavu nouze nebo v naléhavém veřejném zájmu -> lze použít vlastníkovu věc, pokud účelu nelze dosáhnout jinak
+        - **V soukromém zájmu**
+          - V rámci subjektivních práv víme, že právo a povinnost jsou párové pojmy
+          - Moje právo vlastnit tedy zakládá i určité povinnosti, které musím při vlastnění dodržovat
+            - **Generální zákaz** - § 1012 OZ
+              - Vlastník má neomezené právo s věcí nakládat, **ale v rámci mezí zákona**, svým vlastnictvím tedy nesmí obtěžovat jiné a nesmí vykonávat takové činy, jejichž hlavním účelem je jiné osoby obtěžovat, nebo poškodit.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
