@@ -954,10 +954,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **jedná se o projev vůle směřující ke vzniku, změně, nebo zániku práv a povinností - v souladu s právem**
   - nejvýznamější občanskoprávní skutečnost
   - vyvolává právní následky, které jsou v něm vyjádřeny i ty plynoucí ze zákona, dobrých mravů, zvyklostí nebo zavedené praxe stran
-  - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům
+  - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům a veřejnému pořádku
   - Druhy:
     - **Aktivní jednání** - výslovně i konkludentně
-    - **Nečinnost** - například automatická prolongace
+    - **Nečinnost** - například automatická prolongace, výpověd, odstoupení
   - **Aby bylo právní jednání platné, musí splňovat několik náležitostí**
     - způsobilost subjektu
     - soulad se zákonem a dobrými mravy, není proti veřejnému pořádku
