@@ -786,18 +786,30 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - **Subjektivní práva a povinnosti**
   - Jedná se o realizaci práva objektivního u jednotlivých osob, které tvoří základ konkrétních právních vztahů.
   - Jedná se tedy o oprávnění, představující jistou míru dovoleného chování subjektu práva.
+  - Stanoví právní norma, akt aplikace práva nebo závazek stran.
+  - Týká se subjektů práva, tedy osob, u těch se rozlišuje:
+    - právní osobnost
+    - svéprávnost
+    - deliktní způsobilost
+    - procesní způsobilost
+  - Subjektivní práva se svým obsahem rovněž týkají objektů práva
+    - objekty právních vztahů -> to, čeho se týkají oprávnění a povinnosti právního vztahu
+    - primární objekt je vždy určité chování
+    - sekundární objekt - předmět, který se k tomu váže, tedy zejména věci v právním smyslu
   - **Subjetivní právo má tři roviny**
     - možnost chovat se právně nezakázaným způsobem
     - možnost požadovat odpovídající chování od jiného
     - možnost požadovat ochranu práva, respektive možnost svépomoci
   - **Dělení subjektivních práv**
     - **Práva absolutní povahy -** jedná se o právo, do kterého ostatní osoby nesmí zasahovat, působí *erga omnes* - právo na život, právo na ochranu osobnosti, vlastnické právo,...
+      - spojeno s *omittere*
     - **Práva relativní povahy -** právo, které působí *inter partes*, je uplatňováno ve vztahu ke konkrétnímu subjektu - nájemní právo, právo na zaplacení pohledávky, právo na zdravotní péči,...
+      - spojeno s *dare*, *facere*, *pati*
   - **Dělení práv obecně**
-    - práva soukromá
-    - práva veřejná
-    - práva hmotná
-    - práva procesní
+    - práva soukromá - rovnost osob, nevystupování subjektu veřejného práva - občanské, obchodní, rodinné, pracovní, mezinárodní právo soukromé
+    - práva veřejná - nerovnost osob, vystupuje v něm orgán státní moci, jde tedy o vrchnostenské postavení státu
+    - práva hmotná - stanovení objektivních práv a povinností
+    - práva procesní - stanovení jak se domoci objektivních práv a povinností
   - **Nejdůležitějším právem jsou základní práva a svobody, zaručeny ústavním právem a mezinárodním právem.**
   - **Prvky subjektivního práva**
     - možnost být subjektem (nositelem) práv
@@ -835,7 +847,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - pati - strpěti
 - **Ochrana subjektivních práv**
   - Ochrana je poskytována celým právním řádem, všemi právními odvětvími:
-  - **soudní ochrana** - poskytováno soudní mocí = pokud se subjekt obrátí na soud a splní všechny zákonem stanovené podmínky -> soud jej nesmí odmítnout a musí jeho věc rozhodnout -> proto **základní formou poskytnutí ochrany subjektivních práv jsou rozhodnutí soudu**
+  - Jestliže existuje právní nárok -> pak je právo vymahatelné, je "dospělé"
+  - Subjekt práva má nárok na donucení jiného subjektu splnit povinnost
+  - **soudní ochrana** (prostřednictvím státu) - poskytováno soudní mocí = pokud se subjekt obrátí na soud a splní všechny zákonem stanovené podmínky -> soud jej nesmí odmítnout a musí jeho věc rozhodnout -> proto **základní formou poskytnutí ochrany subjektivních práv jsou rozhodnutí soudu**
+    - Ochrana obecnými soudy
+    - Ochrana správními soudy
+    - Ochrana Ústavním soudem
   - **ochrana pokojného stavu** - kdo se domnívá, že byl porušen pokojný stav, může se domáhat ochrany u příslušného orgánu státní správy = ochrana provizorní (rozhodnutí je předběžné, účastník se může obrátit na soud)
   - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze
 - **Soukromoprávní odpovědnost**
@@ -907,17 +924,81 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Nejdůležitější forma realizace právních norem.
   - Je nutná součinnost druhého subjektu.
   - **Jedná se o společenský vztah nejméně dvou konkrétně určených právních subjektů, upravený právními normami, v němž jsou jeho účastníci nositeli vzájemně spjatých subjektivních práv a povinností.**
-  - Vznikají bezprostředně (*ex lege*) nebo na základě **právní skutečnosti**.
+  - Vznikají bezprostředně (*ex lege*) - zřídka kdy, nebo na základě **právní skutečnosti** - častější případ.
+  - Mají tři znaky:
+    - **nejméně dva subjekty**, často pluralita subjektů
+    - obsahem jsou práva & povinnosti
+    - jsou zde **obejty** právních vztahů
+  - **Předpokladem vzniku je především platná a účinná právní norma**
+    - ta stanoví přímo určitou povinnost, nebo dává určité oprávnění v kogentní podobě
+    - nebo dává dispozici účastníkům, aby upravili své práva a povinnosti podle své vůle
+  - **Ke vzniku, změně, nebo zániku nestačí sama existence právní normy, ale musí rovněž nastat právní skutečnost**
+  - Ke vzniku právního vztahu je tedy potřeba:
+    - **právní normy**
+    - **právní skutečnosti**
+  - Elementy právního vztahu tvoří:
+    - **subjekty**
+    - **objekty**
+    - **obsah právního vztahu**
 
 - **Právní skutečnosti**
-  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů
+  - Právní skutečností jest událost, se kterou právo spojuje vznik, změnu, nebo zánik občanskoprávních vztahů -> tj. subjektivních práv a povinností
   - Jsou děleny na subjektivní a objektivní:
     - **Subjektivní** - lidské chování vycházející z lidské vůle = právní jednání -> například kupní smlouva
+      - jedná se o právně relevantní jednání PO a FO -> **právní jednání** X **protiprávní jednání**
     - **Objektivní** - přírodní a společenské jevy nezávislé na lidské vůli -> například přírodní katastrofy, smrt, uplynutí času
+      - v objektivně, tj. mimovolně nastalých okolností -> **právní událost** X **protiprávní stav**
+    - ![Pravni_skutecnost](Podklady/Obcanske_pravo/Pravni_skutecnost.png)
+  - Ahojda
 - **Právní jednání**
+  - **jedná se o projev vůle směřující ke vzniku, změně, nebo zániku práv a povinností - v souladu s právem**
   - nejvýznamější občanskoprávní skutečnost
   - vyvolává právní následky, které jsou v něm vyjádřeny i ty plynoucí ze zákona, dobrých mravů, zvyklostí nebo zavedené praxe stran
   - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům
+  - Druhy:
+    - **Aktivní jednání** - výslovně i konkludentně
+    - **Nečinnost** - například automatická prolongace
+  - **Aby bylo právní jednání platné, musí splňovat několik náležitostí**
+    - způsobilost subjektu
+    - soulad se zákonem a dobrými mravy, není proti veřejnému pořádku
+    - forma, je-li předepsána
+    - učiněn svobodně, vážně, určitě a srozumitelně
+    - prost omylů ohledně podstatných okolností
+    - absence tísně a nápadně nevýhodných podmínek
+    - absence úmyslu zkrátit věřitele (tomuto se dá odporovat)
+  - **Dělení na konsensuální a jednostranné projevy vůle**
+    - konsensuální
+      - verbální (ústní)
+      - písemné (literární)
+      - konkludentní (mlčky učiněné)
+    - jednostranné projevy vůle
+      - procesní povahy
+      - hmotněprávní povahy (materiální) - zde se jedná například o určité druhy pořízení pro případ smrti
+  - **Individuální právní akty**
+    - (rozhodnutí individuální povahy)
+    - projevy vůle orgánů veřejné moci, které jsou v souladu s právem - zásada legality
+    - jedná se o výsledek procesu aplikace práva
+    - **Rozlišuje se na:**
+      - Konstitutivní (*ex nunc*) - působící od nyní, jsou právními skutečnostmi v hmotněprávním smyslu - konstituuje právo, které předtím nebylo
+      - Deklaratorní (*ex tunc*) - působící od tehdy, jsou právním skutečnostmi v hmotněprávním smyslu - deklaruje právo, které již bylo a pouze ho potvrzuje
+  - **Protiprávní jednání** (delikty) = projev vůle, který je v rozporu s právními normami
+    - Komisivní - aktivní činnost delikventa
+    - omisivní - spočívá v nečinnosti subjektu, který má povinnost jednat
+    - delikt X trestný čin X přestupek -> dále pouze o deliktech
+    - vzniká sekundární právo/povinnost kvůli porušení primárního práva/povinnosti -> snášet realizaci sankce -> **právní odpovědnost**, předpoklady jsou:
+      - deliktní způsobilost -> zletilost, schopnost ovládnout a posoudit své jednání
+      - porušení ze zákona, či ze smlouvy
+      - subjektivní zavinění - úmysl přímý a nepřímý, nedbalost vědomá a nevědomá (nevědomá vědět měl a mohl)
+      - objektivní zavinění - případy objektivní odpovědnosti (provozní činnost, odložené věci) - například odpovědnost za škodu způsobenou provozní činností.
+- **Právní událost**
+  - druh mimovolní právní skutečnosti, která nastává objektivně, přičemž následky, které jsou s ní spojeny jsou v souladu s normami práva
+  - například narození, nebo smrt člověka, pojistá událost
+  - Také čas a jeho plynutí - s uplynutím právo spojuje určité následky - **promlčení** X **prekluze**
+- **Protiprávní stav**
+  - porušení právní povinnosti, přičemž nemá povahu projevu vůle
+  - Protiprávní výsledek sil působící nezávisle na lidské vůli
+  - Následkem je tvz. **objektivní odpovědnost**
+  - Živelné pohromy
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -949,6 +1030,17 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Promlčení**
+  - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít.
+  - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
+  - v případě plnění po promlčení se ale furt a stále nejedná o bezdůvodné obohacení
+- **Prekluze**
+  - úplný zánik práv a povinností
+  - Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
+  - Také vydržení práva
+  - Nemusí se namítat, soud k ní přihlédne i bez návrhu
+  - V případě prekluze již nejde z daného právního tituli plnit -> ten totiž zanikl, pokud by se plnilo z tohoto právního titulu, tak by se jednalo o bezdůvodné obohacení
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
