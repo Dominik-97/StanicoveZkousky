@@ -159,6 +159,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     * Nad Primární a Sekundární by se dali ještě zařadit mezinárodní smlouvy a právo EU.
     * Primární - zákonné - **Právní předpis legislativy** - ústavní zákony, zákony, zákonná opatření senátu PČr
     * Sekundární - podzákonné - **Právní předpisy exekutivy** - Nařízení vlády, vyhlášky ministerstev a jiných správních úřadů, vyhlášky ČNB, nařízení Obcí a Krajů v přenesené působnosti, rozhodnutí prezidenta Čr, **právní předpis územní samosprávy** - vyhlášky krajů a obcí
+  * Členění občanského zákoníku je na:
+    * Část
+    * Hlavu
+    * Díl
+    * Oddíl
+    * Pododdíl
   * Ibid.
 * Dispozitivní a kogentní normy v občanském zákoníku
   * Existují kogentní a dispozitivní ustanovení
@@ -1244,7 +1250,32 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - zakázaný stupeň příbuzenství,
         - svěření do péče, poručnictví, pěstounství.
   - **Neplatné a zdánlivé manželství**
-    - Doplnit
+    - Zdánlivé manželství
+      - manželství vůbec nevznikne
+      - vada nemůže být zhojena - například sňatek osoby mladší 16 let, oddal někdo, kdo k tomu neměl oprávnění etc.
+      - není o něm třeba rozhodovat, v pochybnostech -> možná žaloba na určení, deklaruje neexistenci manželství
+    - Neplatné manželství
+      - Bylo-li uzavřeno přes zákonnou překážku
+      - považuje se za platné, dokud jej soud neprohlásí na návrh osoby, která na tom má právní zájem za neplatné, někdy může i *ex officio* - například pokud by už snoubenec měl uzavřené jiné manželství a to by stále trvalo
+      - vada však může být zhojena - například nabytí svéprávnosti, nebo zánik předchozího manželství -> pak je manželství považováno za platně uzavřené
+      - Má se za to (vyvratitelná právní domněnka), že manželství je uzavřeno platně.
+  - **Práva a povinnosti manželů**
+    - Manželé mají v zásadě **rovná práva a povinnosti**
+    - Jsou si povinni úctou
+    - Dále například: žít spolu, být si věrni, pečovat o dítě etc.
+    - Právo znát své vzájemné příjmy a majetkové poměry
+    - **společná domácnost manželů** = rodiná domácnost, kde spolu soužijí
+    - každý z manželů finančně přispívá podle svých možností tak, aby byla **životní úroveň všech členů domácnosti zásadně srovnatelná**
+    - Důležité pro rozvod a pro vypořádání majetku: poskytování majetkových plnění má stejný význam jako osobní péče o rodinu a její členy
+  - **Jednání manželů**
+    - Manželé zásadně jednají společně, nedohodnou-li se manželé může souhlas jednoho z manželů v odůvodněných situacích nahradit soud.
+    - Jednání jednoho manžela běžně zavazuje a opravňuje oba manžele společně a nerozdílně.
+      - To neplatí, pokud jeden manžel dal předem najevo, že s jednáním nesouhlasí, nebo soud na jeho návrh vyloučil působení následků právního jednání na daného manžela.
+    - V běžných záležitostech však může jednat kterýkoliv z nich a mají vůči sobě zákonné zástupčí oprávnění.
+      - To neplatí pokud jeden z manželů třetí osobě předem sdělí, že se zastoupení nesouhlasí, nebo pokud ho vůči manželovi zruší soud.
+      - Rovněž neplatí, pokud manželé žijí v oddělených domácnostech podle § 691 odstavce 2.
+  - **Manželé mezi sebou mají vyživovací povinnost - i vůči dětem, a to tak, aby jejich hmotná a kluturní úroveň byla zásadně stejná.**
+  - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
