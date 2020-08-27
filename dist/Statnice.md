@@ -1367,7 +1367,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Vlastnické právo
+- [x] Vlastnické právo
 - [ ] Ochrana vlastnického práva
 - [ ] Spoluvlastnictví
 
@@ -1437,8 +1437,15 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
             - Olbigačněprávní - například užívací a požívací právo
             - Věcněprávní - například věcná břemena, či právo stavby
           - Existují další omezení ve vztahu k vlastnictví věci, občanský zákoník upravuje dva důležité případy:
-            - **nezbytná cesta**
-            - **rozhrada**
+            - **nezbytná cesta** - pokud by nebylo přístupu na pozemek možné dosáhnout z veřejné komunikace - může soused žádat vlastníka o nezbytnou cestou přes jeho pozemek za úplatu, může se obrátit i na soud - ten může schválit i jako služebnost
+            - **rozhrada** - hranice pozemku, například plot a zeď - vlastnící jí mají povinnost udržovat
+              - jedná se o společné vlastnictví
+- **Ochrana vlastnického práva**
+  - čl. 36 (1) LZPS: Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
+  - Listina základních práv a svobod rovněž zaručuje ochranu vlastnictví.
+  - Dále je chráněno i přímo v rámci OZ:
+    - § 12: Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávající veřejnou moc. Není-li v zákoně stanoveno něco jiného, je tímto OVM soud.
+  - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1465,6 +1472,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Pokojná držba.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
