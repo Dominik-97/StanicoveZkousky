@@ -1116,10 +1116,36 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Lhůty běží současně - pokud zákon stanovuje "nejpozději za" - běží obě lhůty, pokud zákon stanovuje - "promlčí za" - jedná se o běh jen objektivní lhůty
 - **Prekluze**
   - úplný zánik práv a povinností
+  - Nebylo-li právo vykonané ve stanovené době, zanikne jen v případě, že tak stanoví zákon.
+  - Ustanovení o běhu promlčení lhůty platí obdobně i pro prekluzi
   - **Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
   - Také vydržení práva
   - Nemusí se namítat, soud k ní přihlédne i bez návrhu
   - V případě prekluze již nejde z daného právního tituli plnit -> ten totiž zanikl, pokud by se plnilo z tohoto právního titulu, tak by se jednalo o bezdůvodné obohacení
+  - **Rozdíly oproti promlčení**
+    - promlčení
+      - lhůta k vykonání práva
+      - námitka promlčení, naturální právo
+      - plnění naturálního práva neznamená bezdůvodné obohacení
+    - **prekluze**
+      - po uplynutí lhůty právo zanikne zcela (nezůstane ani jako naturální právo)
+      - kdyby dlužník plnit, šlo by o plnění nedluhu
+        - věřitel musí vrátit, jinak jde o bezdůvodné obohacení
+      - Příklady
+        - odmítne-li některý z věřitelů účast na převzetí likvidační podstaty, považuje se jeho pohledávka za zaniklou.
+- **Vydržení**
+  - jedná se o jeden ze způsobů nabytí vlastnického práva
+  - Negativní následek nedostatečného vykonávání vlastnického práva vlastníkem
+  - Pozitivní následek řádného vykonávání práv vlastníka osobu, která má věc u sebe a chová se jako vlastník
+- **Společný základ promlčení, prekluze a vydržení: jejich povaha složených právních skutečností, pro které je rozhodný běh času, a jejich následky**
+  - složené právní skutečnosti = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+  - slouží k tomu, aby výhodu získal ten, kdo se stará
+  - **Existují dvě skupiny z hlediska jejich trvání**
+    - práva osobní - statusová, osobnostní, rodinná
+      - neomezené trvání, v průběhu času se nemění, nepromlčitelné, nevydržitelné
+    - práva majetková - věcná práva, dědické právo, závazková práva
+      - omezené trvání
+      - mohou zcela zaniknout
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
