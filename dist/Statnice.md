@@ -1057,9 +1057,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - jedná se o stavění lhůty
         - Pravé = lhůta začala běžet a postaví se jí do cesty překážka, po dobu překážky lhůta neběží, pak naváže a běží dále = například zastavení běhu lhůty pokud je právo uplatněno u soudu
         - Nepravé = lhůta může začít běžet až od chvíle určité právní skutečnosti - například dohoda o mimosoudním jednání věřitele a dlužníka -> až když se nepovede, může začít běžet lhůta
-        - Přetržení lhůty = lhůta běží, pak se přetrhne a pak začne běžet zase od začátku -> například pokud dlužník uzná svůj dluh -> začne běžet nová lhůta
+        - Přetržení lhůty = lhůta běží, pak se přetrhne a pak začne běžet zase od začátku -> například pokud dlužník uzná svůj dluh (utvrzení a zajištění dluhu) -> začne běžet nová lhůta
       - **Následky uplynutí času**
-        - vznik, nebo zánik práva a nebo povinnosti
+        - vznik, nebo zánik práva a nebo povinnosti = právní skutečnost
   - **Pravidla počítání času**
     - Rozlišení dle toho, zda jde o čas, od kterého účinky počínají, nebo zda jde o čas od kterého účinky končí.
     - Nabívá-li se právo nebo vzniká povinnost = na začátku dne
@@ -1078,12 +1078,13 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - pokud je však posílána do zahraničí, je tento termín posunut na 15. den
 
 - **Promlčení**
-  - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít.
+  - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít, právní titul tedy nezaniká, jen je oslaben.
+    - **Právní titul** = právní důvod k zániku, změně, nebo vzniku práva - vzniká na základě zákona, nebo na základě právní skutečnosti
   - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
   - v případě plnění po promlčení se ale furt a stále nejedná o bezdůvodné obohacení
 - **Prekluze**
   - úplný zánik práv a povinností
-  - Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
+  - **Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
   - Také vydržení práva
   - Nemusí se namítat, soud k ní přihlédne i bez návrhu
   - V případě prekluze již nejde z daného právního tituli plnit -> ten totiž zanikl, pokud by se plnilo z tohoto právního titulu, tak by se jednalo o bezdůvodné obohacení
