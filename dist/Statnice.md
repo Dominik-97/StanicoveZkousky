@@ -1086,6 +1086,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - **Promlčení**
   - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
   - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
+  - **Počátek běhu lhůty** = den dospělosti práva = například dlužník měl dnes splnit, nesplnit -> zítra můžu žalovat, pokud nebudu žalovat -> promlčení
   - zánik vymahatelnosti práva, trvá v podobě naturální obligace - je tedy právní nárok na plnění a povinný může plnit když bude chtít, právní titul tedy nezaniká, jen je oslaben.
     - **Právní titul** = právní důvod k zániku, změně, nebo vzniku práva - vzniká na základě zákona, nebo na základě právní skutečnosti
   - právo nezaniká, jen je oslabeno -> je možné ho žalovat, žalovaný má ale právo upozornit na promlčení -> soud pak právo neuzná
@@ -1093,6 +1094,25 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - vznesením námitky se právo změní na naturální obligaci -> dlužníka nelze donutit k plnění, pokud ale plní, nemůže chctít své plnění nazpět, nejedná se o bezdůvodné obohacení na úkor dlužníka
     - k vzdání se práva na vzenesní námitky promlčení se nepřihlíží
   - v případě plnění po promlčení se ale furt a stále nejedná o bezdůvodné obohacení
+  - **Co se promlčuje:**
+    - všechna majetková práva s výjimkou případů stanovených zákonem
+    - jiná práva se promlčují, jen pokud to zákon stanoví -> § 612 až 618 OZ
+      - v případě práva na život, důstojnost, čest, jméno, zdraví, vážnost, soukromí, nebo obdobných osobnostních práv -> nepromlčují se, promlčuje se pouze právo na odčinění újmy způsobené na těchto právech
+    - právo na výživné se nepromlčuje
+    - vlastnické právo se nepromlčí
+    - etc.
+  - **Délka promlčecí lhůty**
+    - obecná promlčecí lhůta u věcí movitých a věcí nemovitých
+      - Nemajetková práva se obecně promlčují za 3 roky
+      - Majetková práva se obecně promlčují za 10 let
+    - jsou i další speciálně stanovené lhůty
+      - například pro právo na náhradu škody, újmy nebo vydání bezdůvodného obohacení - 10 let ode dne, kdy ke škodě došlo, pokud se však jedná o úmyslně způsobenou škodu - 15 let
+      - a dále.
+    - **Subjektivní a objektivní lhůta**
+      - **Lhůta subjektivní** - je vázána na osobu a standardně na skutečnost dozvědění se o dané právní události, nebo na to, že se dozvědět měla a mohla
+        - má dispozitivní povahu, strany si jí mohou zkrátit, nebo prodloužit a ti minimálně na 1 rok, nebo maximálně na 15 let, v některých případech se k němu nepřihlíží
+      - **Lhůta objektivní** - je vázána na obecný běh času, tedy na uběhnutí určité doby od dané události, od které začala běžet lhůta
+      - Lhůty běží současně - pokud zákon stanovuje "nejpozději za" - běží obě lhůty, pokud zákon stanovuje - "promlčí za" - jedná se o běh jen objektivní lhůty
 - **Prekluze**
   - úplný zánik práv a povinností
   - **Zastavení běhu v případě: uplatnění práva u soudu, písemné uznání dlužníka**
