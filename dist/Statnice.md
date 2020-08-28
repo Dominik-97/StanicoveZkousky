@@ -2042,10 +2042,10 @@ Lichva.
   - **Orgány právní ochrany** = orgány zřízené státem, které zajišťují dodržování práva. Tyto orgány disponují státní mocí v podobě **vynucujících nástrojů**.
     - Lze do nich řadit -> především soudy, státní zastupitelství, Policii Čr, ale také advokáty, notáře a exekutory.
 - **Soudní systém**
-  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** instituce. Při svém rozhodování se soudci řídí pouze platnými zákony.
-  - Každý občan, který se domnívá, že bylo jeho právo porušeno (aktivní legitimace) má možnost domáhat se jeho nápravy u soudu.
+  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** instituce. Při svém rozhodování se soudci řídí pouze platnými zákony, svým uvážením (někdy pak také například podle principů morálky, spravedlnosti atd.)
+  - Každý občan, který se domnívá, že bylo jeho právo porušeno (aktivní legitimace) má možnost domáhat se jeho nápravy u soudu - říká občanský zákoník v § 12, zákonná ochrana (soudní ochrana) je obsažena i v LZPS a v Ústavě Čr.
   - Rovněž lze u soudu požadovat rozhodnutí, že občanovi jisté právo nebo povinnost náleží bez ohledu na jiného občana (příkladem mohou být nesporná řízení).
-  - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině.
+  - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině, respektive nalázé a aplikuje právo.
   - Podle **povahy věcí**, které jsou před soudem projednávány, se rozlišují čtyři základní typy soudů:
     - **civilní -** řeší občanskoprávní vztahy - například rozvod manželstí, řeší jak sporné, tak i nesporné řízení
     - **trestní -** jedná se o veřejné právo, rozdohuje o vině a uložení trestů pachatelům trestných činů
@@ -2054,13 +2054,14 @@ Lichva.
 - **Soudní soustava**
   - Je nastavena zákonem o soudech a soudcích, mimo tuto soustavu stojí Ústavní soud - řízen zákonem o ústavním soudu
   - Jedná se o **hierarchicky uspořádanou** soudní soustavu - existuje tu vztah nadřízenosti a podřízenosti.
-  - Soustavu soudů v Čr tvoří:
+  - Soustavu soudů v Čr tvoří Obecné soudy:
     - **Okresní soudy** - nejnižší stupeň, projednávají občanskoprávní spory, pracovní spory a věci patřící do oblasti rodinného práva (rodinné vztahy), dále řeší méně závažné trestné činy.
       - Jsou zřízeny v každém okresním městě, je jich 86 - 75 okresních (v okresních městech), 10 obvodních soudů v praze a 1 městský v Brně
     - **Krajské soudy **- druhý stupeň pokud v prvním stupni rozhodoval okresní soud - rozhodují tedy o odvoláním proti rozsudkům okresních soudů
       - V prvním stupni rozhodují o věcech právně složitějších a společensky významných - ochrana osobnosti, autorská práva etc. a o závažnějších trestních činnech - za které hrozí nejméně pět let odnění svobody (zločiny, ne přečiny).
       - Je jich 8 a nacházejí se v krajích (v Prase se jmeuje Městský soud)
       - Působí podle **Správního řádu** rovněž ve věcech správních a jsou i **Rejstříkovími soudy**
+      - Odvolání standardně znamená, že rozhodnutí nemůže nabýt právní moci, v případě rozhodnutí krajského soudu jako soudu odvolacího však rozhodnutí nabývá právní moci i když se strana dovolá k Nejvyššímu soudu
     - **Vrchní soudy** - druhým stupněm soustavy, pokud v prvním rozhodovaly Krajské soudy - rozhodují proti odvoláním rozsudků krajských soudů.
       - Vrchní soudy jsou 2 v Praze a Olomouci
     - **Nejvyšší soud České republiky** - vrcholný soudní orgán, rozhoduje o **mimořádných opravných prostředcích** - **dovoláních** proti rozsudkům odvolacích soudů (krajských, nebo vrchních) ve věcech občanskoprávních i trestních a vykládá zákony.
@@ -2081,7 +2082,7 @@ Lichva.
   - princip veřejnosti
   - princip ústnosti (podstatné je to co u soudu bylo předneseno) a přímosti (soud jedná přímo ve styku s účastníky)
   - princip hospodárnosti - úmysl poskytnout ochranu rychle, účinně a bez zbytečných nákladů
-  - princip předvídatelnosti - **princip legitimního očekávání**
+  - princip předvídatelnosti - **princip legitimního očekávání** - soud by se neměl odchýlit od běžné rozhodovací praxe, pokud se odchýlí, je po něm možné požadavat vysvětlení
 - **Soudci**
   - Doplnit
 
