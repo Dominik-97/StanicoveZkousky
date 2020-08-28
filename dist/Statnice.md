@@ -1709,6 +1709,7 @@ Požívací a užívací právo.
   - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oboum stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
   - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
   - Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.
+  - Věcné a závazkové právo, právo hmotné a procesní.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2020,6 +2021,10 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Soudnictví
+- [ ] Soudní soustava
+- [ ] Justiční systém
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2027,6 +2032,25 @@ Lichva.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Soudnictví**
+  - Je upraveno občanským právem procesním
+  - Jedná se tedy o procesní právo
+  - **Občanské právo procesní** - soubor norem, které upravují postup v občanském soudním řízení.
+  - Jedná se o způsob, jakým se domoci hmotného práva.
+  - Spolu s uplatňováním práva dochází také k jeho **ohrožování** a **porušování** - proto stát vytvořil určitý kontrolní systém **orgánů právní ochrany**, který v případě porušení zákona/smluvního vztahu/rozhodnutí orgánu usiluje o **znovuobnovení právního stavu**.
+  - **Orgány právní ochrany** = orgány zřízené státem, které zajišťují dodržování práva. Tyto orgány disponují státní mocí v podobě **vynucujících nástrojů**.
+    - Lze do nich řadit -> především soudy, státní zastupitelství, Policii Čr, ale také advokáty, notáře a exekutory.
+- **Soudní systém**
+  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** instituce. Při svém rozhodování se soudci řídí pouze platnými zákony.
+  - Každý občan, který se domnívá, že bylo jeho právo porušeno (aktivní legitimace) má možnost domáhat se jeho nápravy u soudu.
+  - Rovněž lze u soudu požadovat rozhodnutí, že občanovi jisté právo nebo povinnost náleží bez ohledu na jiného občana (příkladem mohou být nesporná řízení).
+  - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině.
+  - Podle **povahy věcí**, které jsou před soudem projednávány, se rozlišují čtyři základní typy soudů:
+    - **civilní -** 
+    - **trestní -** 
+    - **správní -** 
+    - **ústavní -** 
 
 Věcná a místní příslušnost
 
@@ -2133,6 +2157,16 @@ Věcná a místní příslušnost
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Řízení sporné a nesporné
+
+Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+
+Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
+
+Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
+
+Usnesení a rozhodnutí ve věci samé.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
