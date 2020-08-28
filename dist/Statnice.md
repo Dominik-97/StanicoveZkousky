@@ -2083,6 +2083,13 @@ Lichva.
   - princip ústnosti (podstatné je to co u soudu bylo předneseno) a přímosti (soud jedná přímo ve styku s účastníky)
   - princip hospodárnosti - úmysl poskytnout ochranu rychle, účinně a bez zbytečných nákladů
   - princip předvídatelnosti - **princip legitimního očekávání** - soud by se neměl odchýlit od běžné rozhodovací praxe, pokud se odchýlí, je po něm možné požadavat vysvětlení
+  - Dále **odvětvové principy**
+    - Vytvářejí charakteristiku procesu - párové protikladné pojmy
+    - Záleží zda je SŘ, nebo NŘ
+      - dispozice/oficialita
+      - projednací/vyšetřovací
+      - volné hodnocení důkazů/legální důkazní teorie - u legální je důkazní síla stanovena (především veřejné listiny), u volného je důkazní síla na uvážení soudu
+      - princip formální pravdy/princip materiální pravdy
 - **Soudci**
   - Kladeny značné nároky.
   - Bezphoný občan České republiky starší 30 let s vysokoškolským právnickým vzděláním a složenou justiční zkouškou - minimálně 3 roky předtím musí být v pozici **justičního čekatele**.
@@ -2167,6 +2174,9 @@ Lichva.
     - **Od tohoto se odvíjí princip projednací a pricnip vyšetřovací**
       - v NŘ - soud provede všechny i nenavrthnuté důkazy, sám je vyhledává
       - v SŘ - provede pouze důkazy předložené účastníky - soud důkazy nevyhledává, ale může provést i nenavržené důkazy - pokud jsou potřebné pro zjištění skutkového stavu
+    - **Zásada materiální pravdy vs zásada formální pravdy**
+      - Materiální v NŘ - soud se musí snažit o úplné a přesné zjištění skutkového stavu.
+      - Formální v NŘ - může se spokojit i s tvrzením účastníků, pokud jsou shodná.
 - **Subjekty civilního procesu**
   - Procesní subjekty = subjekty, kteří právně ovlivňují proces, jsou vybaveni procesními právy a povinostmi, vznikají mezi nimi procesněprávní vztahy
     - **Soud** - základní subjekt, instituce, prostřednictvím, které zajišťuje stát ochranu práv
@@ -2212,7 +2222,18 @@ Lichva.
           - a další osoby zůčastněné na řízení jako:
             - svěděk, znalec, zmocněnec účastníka, kolizní opatrovník (divák není účastníkem)
           - pro určitý úsek mohou být i účastníky -> když se rozhoduje o jejich právu (například svědek při rozhodováním o svědečném - náhrada hotových výdajů a ušlého výdělku, znalec při rozhodování o znalečném - náhrada hotových výdajů a odměna)
-- Aktivní a pasivní legitimace
+  - **Způsobilost účastníků**
+    - **Procesní subjektivita**
+      - Musí mít procesní subjektivitu, tu mají pokud mají právní subjektivitu
+      - Právní subjektivita - PO i FO, může být účastníkem i stát
+      - **její nedostatek je neodstranitelnou vadou**
+    - **Procesní způsobilost**
+      - způsobilost před soudem samostatně jednat - přiznána každému v rozsahu v jakém je svéprávný -> v plném rozsahu zletilostí (pokud není omezena svéprávnost), jinak podle rozumové a volní vyspělosti
+      - omezení ve svéprávnosti nemohou jednat samostatně - zastoupení, za PO jen jedna FO, za stát UPZSVM, popřípadě organizační složka
+      - **její nedostatek je odstranitelnou vadou** -> zastoupení
+    - **Zastoupení při nedostatku procesní způsobilosti**
+      - Doplnit
+- ~~Aktivní a pasivní legitimace~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2242,6 +2263,25 @@ Lichva.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Řízení**
+  - Jedná se o celou soudní peripetii.
+  - Záleží, zda se jedná o sporné, nebo nesporné řízení.
+    - U NŘ - nenařizuje se přípravné jednání -> nařizuje se ústní jednání, jednání není nařízeno jen, stanovuje-li to zákon
+  - Například u sporného
+    - 1- zahájení řízení na návrh
+      - Důležité je správně podat návrh, jinak soud vyzve k opravě - **žalobní petit** - důležitý, protože pouze v jeho mezích může Soud u SŘ rozhodovat.
+    - 2- příprava jednání - připravení veškerých náležitostí na jednání, neboť u sporných jednání je nařízení jednání běžné
+    - 3- přípravné jednání je nařízeno, když není možné rozhodnout o věci bez nařízení řízení, popřípadě pokud se výzva k vyjádření, nebo kvalifikovaná výzva jeví jako neúčelná.
+      - Soudce se v rámci něho může se součiností účastníku snažit o odstranění zjištěných nedostatků, a například se pokusí o smír.
+      - Povinnost se dostavit -> jinak rozsudek pro uznání, pokud se nedostaví žalobce -> řízení zastaveno.
+    - 4- Ústní jednání - projednává se věc sama. Provádí se při něm dokazování. Může být odročeno jen z vážných důvodů - například velká složitost.
+    - 5- skončení jednání, vyhlášení rozsudku - mělo by být ideálně okamžitě, ale soud může odročit vynesení rozsudku o 10 dní, pokud je věc složitá
+- **Jednání**
+  - Jednáním jako takovým je myšleno především Ústní jednání - nejdůležitější.
+- **Dokazování**
+  - Dokazování probíhá při ústním jednání, ve sporném řízení je možné navrhovat nové důkazy pouze do jeho skončení.
+  - U SŘ platí neúplná apelace při odvolání - není možné přinášet nové důkazy po skončení dokazování, jsou však zákonné výjimky.
 
 Řízení sporné a nesporné
 
