@@ -1622,6 +1622,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - právo věc zničit a opustit
   - **Omezení vlastnického práva**
     - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena, pokud by dané omezení nerespektoval -> možné postižení prostředky správního nebo trestního práva
+    - Vlastnické právo vlastníka končí tam, kde začíná vlastnické právo druhého vlastníka
     - § 11 odst. 3 LZPS: Vlastnictví zavazuje. Nesmí být zneužito na újmu práv druhých anebo v rozporu se zákonem chráněnými obecnými zájmy. Jeho výkon nesmí poškozovat lidské zdraví, přírodu a životní prostřední nad míru stanovenou zákonem
     - Prvním druhem omezení je **omezení VP veřejnoprávními předpisy**
       - Zde se jedná o některá omezení - například ve formě možnost věc užívat, pokud se jedná o chráněnou památku -> je stanoven způsob památkové ochrany
@@ -1650,12 +1651,15 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
                 - stékající voda - právo požadovat úpravu stavby tak, aby nestékala voda nebo sníh na sousední pozemek,
                 - Etc.
           - **Omezení práva může vyházet i z právní skutečnosti založemé na právním jednání vlastníka**
-            - Olbigačněprávní - například užívací a požívací právo
+            - Olbigačněprávní - například užívací a požívací právo, popřípadě půjča - ta pak souvisí s vytvořením věcného práva (například zástavní právo)
             - Věcněprávní - například věcná břemena, či právo stavby
           - Existují další omezení ve vztahu k vlastnictví věci, občanský zákoník upravuje dva důležité případy:
             - **nezbytná cesta** - pokud by nebylo přístupu na pozemek možné dosáhnout z veřejné komunikace - může soused žádat vlastníka o nezbytnou cestou přes jeho pozemek za úplatu, může se obrátit i na soud - ten může schválit i jako služebnost
             - **rozhrada** - hranice pozemku, například plot a zeď - vlastnící jí mají povinnost udržovat
               - jedná se o společné vlastnictví
+- **Nabytí vlastnického práva**
+  - Pokud je právo převedeno - **derivativní nabytí**
+  - Pokud vzniká vlastnické právo k nové věci - **originální nabytí**
 - **Ochrana vlastnického práva**
   - čl. 36 (1) LZPS: Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
   - Listina základních práv a svobod rovněž zaručuje ochranu vlastnictví.
