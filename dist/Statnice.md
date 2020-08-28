@@ -2023,7 +2023,7 @@ Lichva.
 
 - [x] Soudnictví
 - [x] Soudní soustava
-- [ ] Justiční systém
+- [x] Justiční systém
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2042,7 +2042,7 @@ Lichva.
   - **Orgány právní ochrany** = orgány zřízené státem, které zajišťují dodržování práva. Tyto orgány disponují státní mocí v podobě **vynucujících nástrojů**.
     - Lze do nich řadit -> především soudy, státní zastupitelství, Policii Čr, ale také advokáty, notáře a exekutory.
 - **Soudní systém**
-  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** instituce. Při svém rozhodování se soudci řídí pouze platnými zákony, svým uvážením (někdy pak také například podle principů morálky, spravedlnosti atd.)
+  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** (rovněž specializované a odborné) instituce. Při svém rozhodování se soudci řídí pouze platnými zákony, svým uvážením (někdy pak také například podle principů morálky, spravedlnosti atd.)
   - Každý občan, který se domnívá, že bylo jeho právo porušeno (aktivní legitimace) má možnost domáhat se jeho nápravy u soudu - říká občanský zákoník v § 12, zákonná ochrana (soudní ochrana) je obsažena i v LZPS a v Ústavě Čr.
   - Rovněž lze u soudu požadovat rozhodnutí, že občanovi jisté právo nebo povinnost náleží bez ohledu na jiného občana (příkladem mohou být nesporná řízení).
   - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině, respektive nalázé a aplikuje právo.
@@ -2071,7 +2071,7 @@ Lichva.
   - **Ústavní soud**
     - Stojí mimo soustavu soudů - je řízen podle zákona o Ústavním soudu - dohlíží na dodržování ústavnosti v zemi. Rozhoduje o ústavních stížnostech, například o zrušení zákonů, nebo o porušení ústavně zaručených práv občanů.
       - Pokud je něco v rozporu s Ústavním pořádkem, mezinárodní smlouvou, nebo o ústavní žalobě Senátu na prezidenta České republiky.
-      - Proti jeho rozhodnutí se nelze odvolat.
+      - Proti jeho rozhodnutí se nelze odvolat - respektive lze, ale ne v Čr, jen k Evropskému soudu pro lidská práva do Štrasburku, ale jen kvůli porušení práva nebo záruky uvedené v Evropské úmluvě o lidských právech.
       - Sídlí v Brně.
       - ![Soustava_Soudů](Podklady/Obcanske_pravo/soustava_soudu.png)
 - **Principy fungování soudnictví**
@@ -2140,8 +2140,33 @@ Lichva.
 
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
-  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo.
-
+  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo -> subjektivní (možnosti procesních postupů) a objektivní (psané procesní právo)
+- **Civilní proces ve zkratce**
+  - Jedná se soubor právních vztahů vznikajících v důsledku postupu soudů a dalších procesních subjektů při poskytování ochrany soukromoprávním a jiným právním vztahům.
+  - **Pojmové znaky**:
+    - **procesní vztahy** - trojstranný, soud, žalovaný a žalobce (v případě sporných)
+    - **procesní subjekty** - mohou ovlivňovat řízení (soud, účastníci řízení)
+    - **procesní úkony** - procesní činnost subjektů
+  - **Druhy civilního procesu**
+    - Nalézací - nalázá právo, nebo jej vytváří, ve sporných řízeních spravidla deklaratorní rozhodnutí, v nesporných zpravidla konstitutivní
+    - Vykonávací (exekuční) - pokud žalovaný neplní dobrovolne na například na základě právního titulu nalezeného u řízení nalézacího - buď provádí soudní exekutoři, nebo soukromí exekutoři - dvojkolejnost
+    - Insolvenční - rozhodování o existenci úpadku a jeho řešení
+    - Zajišťovací - cíl obnovení posledního pokojného stavu před porušením práva, slouží k zajištění práva - například předběžná opatření, zajištění soudcovského zástavního práva aj.
+    - Rozhodčí (arbitrážní) - upravené zákonem o rozhodčím řízení, mimosoudní řešení sporů před rozhodcem
+  - **Druhy řízení**
+    - Sporné - OSŘ - povaha soukromoprávních sporů - reparační, ochrana porušeného práva
+    - Nesporné - ZZŘS - povaha veřejnoprávního zájmu - svéprávnost, nezvěstnost, smrt, úschovy, osvojení - prevenční, upravuje vztahy pro budoucnost
+  - **Příslušnost soudu - věcná a místní u NŘ - přislušní soud osoby v jejímž zájmu se řízení koná, u SŘ se rozhoduje například podle sídla, bydliště, umístění nemovitosti etc.**
+  - **Zahájení řízení**
+    - SŘ - podání žaloby
+    - NŘ - na návrh i bez návrhu (zahajuje soud usnesením), obvykle bez návrhu - například pozůstalostní řízení
+  - **Dispozice a oficialita**
+    - Každý druh řízení má svoje "principy"
+    - NŘ - princip oficiality - ukládá soudu jak má fungovat, soud tak například i sám prošetřuje
+    - SŘ - princip dispozice - celé jednání je v rukou žalobce, ten ho tak může například stáhnout, důkazy například provádí výhradně účastníci
+    - **Od tohoto se odvíjí princip projednací a pricnip vyšetřovací**
+      - v NŘ - soud provede všechny i nenavrthnuté důkazy, sám je vyhledává
+      - v SŘ - provede pouze důkazy předložené účastníky - soud důkazy nevyhledává, ale může provést i nenavržené důkazy - pokud jsou potřebné pro zjištění skutkového stavu
 - **Subjekty civilního procesu**
   - Procesní subjekty = subjekty, kteří právně ovlivňují proces, jsou vybaveni procesními právy a povinostmi, vznikají mezi nimi procesněprávní vztahy
     - **Soud** - základní subjekt, instituce, prostřednictvím, které zajišťuje stát ochranu práv
@@ -2175,8 +2200,9 @@ Lichva.
           - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
           - má stejná práva a povinnosti jako účastník
       - U nesporného řízení
-        - navrhovatel a ten, o jehož právech či povinnostech má být v řízení jednáno
-        - navrhovatel a ten, jehož za účastníka označí zákon
+        - SZ je standardně pouze jen u NŘ, krom insolvenčního řízení - může vstupovat do řízení a řízení zahajovat
+        - navrhovatel (například SZ, nebo zdravotní ústav) a ten, o jehož právech či povinnostech má být v řízení jednáno - například osoba, která má být omezene ve svéprávnosti
+        - navrhovatel a ten, jehož za účastníka označí zákon, například manžel zůstavitele v řízení o pozůstalosti
       - **Zvláštní subjekty řízení**
         - subjekty, které reprezentují veřejný nebo jiný zájem odlišný od osobního zájmu
           - státní zastupitelství - například v určitých typech řízení, která jsou upravena v ZZŘS
@@ -2204,6 +2230,9 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Jednání
+- [ ] Dokazování
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
