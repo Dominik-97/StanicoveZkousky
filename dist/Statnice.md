@@ -1200,7 +1200,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - [x] Manželství
 - [x] Majetkové právo manželské
-- [ ] Rodiče a dítě
+- [x] Rodiče a dítě
 - [ ] Osvojení
 - [ ] Náhradní formy péče o dítě
 
@@ -1337,6 +1337,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Matkou dítěte je žena, která ho porodila - absolutní statusový poměr matka - dítě
     - Bez mateřství nelze určit otcovství /příbuzenství
     - Vyloučení absolutního statusového poměru v rámci náhradního mateřství (surogačního) -> možnost osvojení
+    
   - **Otcovství**
     - Na základě jedné ze tří zákonných domněnek
       - pokud je manželem matky (vyvratitelné), rovněž pokud se narodí do 300 dnů od zániku manželství, pokud není matka znovu provdána -> pak VPD, že je otcem manžel pozdější, nebo pokud jiný muž neprohlásí otcovství a rozvedený muž otcovství popře a matak se k prohlášení připojí
@@ -1347,7 +1348,59 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
         - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
         - v případě sporu - nařízení testu DNA
-  - Ahojda
+    
+  - **Rodičovská práva a povinnosti**
+
+    - Mají vůči sobě vzájemná práva a povinnosti
+
+    - Těch se nemohou vzdát - jsou **nezadatelná**
+
+    - Účelem je zajištění **hmotného a morálního prospěchu**
+
+    - Dítě je povinno dbát svých rodičů, podřídit se jejich výchovným opatřením (přiměřeně okolnostem a věku dítěte) - nsemí ohrožovat zdraví, jeho rozvoj a důstojnost
+
+    - 3 základní práva
+
+      - osobnostní práva - práva spojená s osobností - například určit dítěti jméno, souhlasným prohlášením určit otcovství, dát souhlas k osvojení etc.
+      - rodičovská odpovědnost - jedná se o práva a povinnosti
+        - **1- pečovat o dítě a jeho rozvoj**
+        - **2- zastupovat dítě**
+          - zastupování při právních jednáních, kterým není způsobilé, společně, jednat však může každý z nich
+          - rodič nemůže zastoupit dítě v případě střetu zájmu jeho se zájmem dítěte, v případě střetu zájmů rodiče a dítěte -> jmenován kolizní opatrovník
+          - pro vyřízení záležitosti dítěte (nejedná-li se o záležitost osbního stavu) -> mohou rodiče uzavřít smlouvu o zastoupení s jinou osobou
+        - **3- spravovat jmění dítěte**
+          - nutnost péče řádného hospodáře (náležitá péče, potřebné znalosti a loajalita), při porušení -> povinnost hradit škodu
+          - Nejde-li o běžnou záležitost - nutný souhlas soudu
+          - Co rodiče získají použitím majetku -> nabývá dítě
+          - Příjmy z majetku - k jeho správě a k potřebám dítěte, rovněž k potřebám rodiny - se souhlasem soudu
+          - pokud rodiče nevykonávají řádně - ustanoven **opatrovník jmění**
+        - vzniká - narozením, zaniká zletilostí/emancipací/sňatkem
+      - Rodiče jí vykonávají vzájemně ve shodě se zájmy dítěte (věnují patřičnou pozornost jeho názoru)
+      - pokud se rodiče nedohodnou na významné skutečnosti - rozhodne soud
+        - participace dítěte - soud chce znát názor dítěte (má se za to, že pokud je starší 12 let -> je schopno participovat), není-li schopno ho sdělit -> soud vyslechne osobu, která je schopná ho sdělit -> její zájmy však nesmí být v rozporu se zájmy dítěte
+      - RO náleží stejně oběma rodičům, má jí každý rodič, ledaže jí byl zbaven
+        - opatření zasahující do RO - nemá vliv na vyživovací povinnost
+          - Pozastavení výkonu RO
+            - a- nezletilý rodič, který nanabyl plné svéprávnosti, náleží mu pouze výkon té části, která spočívá v péči o dítě
+            - b- omezení svéprávnosti - v celém rozsahu RO, ledaže soud rozhodne jinak (péče a styk)
+            - c- brání-li tomu jiná závažná skutečnost výkonu RO
+          - Omezení RO
+            - vždy rozhodnutím soudu
+            - pokud rodič nevykonává svojí RO řádně + omezení vyžaduje zájem dítěte
+            - soud určí v rozhodnutí rozsah
+          - zbavení RO
+            - vždy rozhodnutím soudu - rodič zneužívá nebo zanedbává RO
+            - vždy posoudí, pokud rodič spáchal trestný čin, či k němu využil dítě
+            - Rodič ztrácí právo styku s dítětem - jen výjimečně ho může soud zachovat
+            - Soud může rodiče zbavit i osobnostních práv - například souhlas k osvojení
+        - **Kdo vykonává RO při výše uvedených případech?**
+          - V plném rozsahu druhý rodič
+          - Pokud není žádný rodič / žádný z nich není nositelem RO - **poručník**
+          - pokud rodiče jsou, ale oba jsou omezeni v RO - **opatrovník**
+      - 
+
+      - vyživovací povinnost
+      - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
