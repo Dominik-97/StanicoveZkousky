@@ -2196,7 +2196,7 @@ Lichva.
     - **Definice účastníků**
       - U sporného řízení
         - žalobce a žalovaný
-        - vedlejší účastník - účastník s právním zájmem na jeho výsledku
+        - vedlejší účastník - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
           - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
           - má stejná práva a povinnosti jako účastník
       - U nesporného řízení
@@ -2212,6 +2212,7 @@ Lichva.
           - a další osoby zůčastněné na řízení jako:
             - svěděk, znalec, zmocněnec účastníka, kolizní opatrovník (divák není účastníkem)
           - pro určitý úsek mohou být i účastníky -> když se rozhoduje o jejich právu (například svědek při rozhodováním o svědečném - náhrada hotových výdajů a ušlého výdělku, znalec při rozhodování o znalečném - náhrada hotových výdajů a odměna)
+- Aktivní a pasivní legitimace
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2257,6 +2258,8 @@ Odvolání do 15 dnů.
 Odročení.
 
 Instance
+
+Úplná a neúplná apelace
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
