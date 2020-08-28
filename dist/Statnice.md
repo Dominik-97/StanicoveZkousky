@@ -2156,11 +2156,11 @@ Lichva.
   - **Druhy řízení**
     - Sporné - OSŘ - povaha soukromoprávních sporů - reparační, ochrana porušeného práva
     - Nesporné - ZZŘS - povaha veřejnoprávního zájmu - svéprávnost, nezvěstnost, smrt, úschovy, osvojení - prevenční, upravuje vztahy pro budoucnost
-  - **Příslušnost soudu - věcná a místní u NŘ - přislušní soud osoby v jejímž zájmu se řízení koná, u SŘ se rozhoduje například podle sídla, bydliště, umístění nemovitosti etc.**
+  - VEDLEJŠÍ **Příslušnost soudu - věcná a místní u NŘ - přislušní soud osoby v jejímž zájmu se řízení koná, u SŘ se rozhoduje například podle sídla, bydliště, umístění nemovitosti etc.**
   - **Zahájení řízení**
     - SŘ - podání žaloby
     - NŘ - na návrh i bez návrhu (zahajuje soud usnesením), obvykle bez návrhu - například pozůstalostní řízení
-  - **Dispozice a oficialita**
+  - VEDLEJŠÍ **Dispozice a oficialita**
     - Každý druh řízení má svoje "principy"
     - NŘ - princip oficiality - ukládá soudu jak má fungovat, soud tak například i sám prošetřuje
     - SŘ - princip dispozice - celé jednání je v rukou žalobce, ten ho tak může například stáhnout, důkazy například provádí výhradně účastníci
