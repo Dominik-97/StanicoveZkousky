@@ -1687,6 +1687,14 @@ Požívací a užívací právo.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Závazek
+  - [ ] Struktura
+    - [ ] Subjekty a strany
+    - [ ] Předmět
+    - [ ] Obash
+  - [ ] Společné závazky
+  - [ ] Vznik závazků
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1694,6 +1702,13 @@ Požívací a užívací právo.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Závazek**
+  - Závazek čili obligace (též závazkový právní poměr)
+  - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel).
+  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oboum stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
+  - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
+  - Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
