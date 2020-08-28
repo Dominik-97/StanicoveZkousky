@@ -1080,7 +1080,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **běh času**
     - s jeho koncem právo spojuje určité následky
   - **Rozlišení lhůty a doby, jejich počátek, trvání a překážky**
-    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.
+    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny aniž by byla potřeba nějak zvlášť projevit vůli.
     - **Lhůta** = časový úsek určení k vykonání práva, zejména k jeho uplatnění
       - zákonná X smluvní
       - hmotněprávní X procesní
@@ -1924,12 +1924,69 @@ Požívací a užívací právo.
 
 - **Závazek**
   - Závazek čili obligace (též závazkový právní poměr)
+  - Jedná se o součást soukromého práva, je tvořeno systémem norem upravujících závazky
+    - Právní norma = obecně závazné pravidlo chování, jehož zachování je vynutitelné státní mocí a je vyjádřeno ve zvláštní stanovené formě
+  - Upraveno ve čtvrté části OZ - relativní majetková práva
   - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel).
-  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oboum stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
-  - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
-  - Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.
-  - Věcné a závazkové právo, právo hmotné a procesní.
+  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
+    - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
+  - **Pojem závazek**
+    - používá se pro označení:
+      - závazkového právního vztahu (například vztah ze smlouvy, ale i závazek z porušení práva)
+      - povinnosti z tohoto závazku plynoucí (například povinnost zaplatit kupní cenu)
+        - úprava nahradila pojem závazek v tomto smyslu pojmem dluh
+      - **Pojem závazek a dluh**
+        - pohledávka - právo věřitele požadovat od dlužníka určité plnění (tj. aby něco dal, udělal, něčeho se zdržel či něco strpěl)
+        - stane-li se pohledávka splatnou (dospělou), stává se nárokem - lze ji vymáhat soudně
+        - dluh - povinnost dlužníka poskytnout věřiteli určité plnění (tj. něco dát, udělat, …)
+      - **Pojem věřitel a dlužník**
+        - v hovorové češtině se zpravidla jako dlužník označuje ten, kdo jinému (věřiteli) dluží peníze
+        - z právního pohledu je dlužníkem každý subjekt povinný (něco dát, udělat, …) a věřitelem subjekt oprávněný (požadovat aby dlužník něco dal, konal, …) - povinnost dlužníka se tedy z právního hlediska týká i nepěněžitého plnění
+  - **Třídění závazků**
+    - podle důvodu vzniku lze závazky třídit na:
+      - z právního jednání (dvoj, či vícestranného)
+      - z deliktu porušení povinosti (smluvní či zákonné)
+      - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
+      - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
+  - **Vznik závazků**
+    - viz třídění závazků
+      - ze smlouvy
+        - SIDE NOTE - **uzavření smlouvy adhezním způsobem** - typ smlouvy "ber a nebo nech být", druhá strana nemá možnost ovlivnit obsah smlouvy
+      - ze zákona
+      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá
+  - **Obash závazků**
+    - Souvisí s **druhy právních povinností** - neboť ze závazku plyne jedné straně povinnost
+      - něco dáti
+      - něco konati
+      - něčeho se zdržet
+      - něco strpět
+  - **Zásady smluvního práva**
+    - Zejména jde o zásady
+      - Rovnosti stran
+      - Smluvní svobody
+      - Svobody uzavřít smlouvu
+      - Svoboda výběru druhé strany
+      - Svoboda uzavřít i jiné než **nominátní** smlouvy - **inominátní**
+      - Svoboda tvorby obsahu smlouvy - navazuje na autonomii vůle
+      - *Pacta sunt servanda* - smlouvy se musí dodržovat
+      - Zásada dobré víry
+      - Není možné se s úspěchem dovolávat vlastní nepoctivosti
+    - Význam zásad smluvního práva
+      - pro posuzování práva a vykládání norem
+      - výkladové pravidlo *analogie legis* pokud právo nelze nalézt/aplikovat pomocí jedné normy, použije se norma obdobná
+      - další výkladové pravidlo potom je *analogie juris* = ta právě vychází ze zásad -> pokud není podobné pravidlo, posoudní se podle principů spravedlnosti a **zásad** -> zásady takto mohou vyplňovat mezery v zákoně
 
+
+
+
+
+
+
+
+
+
+          ~~- Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.~~
+          ~~- Věcné a závazkové právo, právo hmotné a procesní.~~
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
