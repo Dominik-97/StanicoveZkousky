@@ -1465,6 +1465,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Držba
+- [ ] Detence
+- [ ] Věcná práva k věci cizí
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1472,6 +1476,29 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Držba**
+  - Držba je kontrola, kterou osoba úmyslně vykonává nad věcí, přičem držitel (possesor) s ní nakládá jako s vlastní.
+  - Držba je faktický stav chráněný a upravený právem.
+  - Držitelem je ten, kdo vykonává právo pro sebe.
+  - Držet lze právo, které lze právním jednáním převést na jiného a které připouští trvalý nebo opakovaný výkon.
+  - Osobní práva nejsou předmětem držby ani vydržení -> zákon ale poskytuje ochranu osobě, která vykonává právo v dobré víře, ač ji ve skutečnosti nenáleží -> ten kdo vykonává osobní právo poctivě je oprávněn jej vykonávat a hájit -> například pokud jsou vykonávána rodičovská práva k cizímu dítěti v důsledku záměny obou dětí ve zdravotnickém zařízení.
+  - Držba souvisí s právem, ale nerozlišuje se zda je držba věci, nebo práva, protože i držba věci je držbou vlastnického práva.
+  - Má dvě složky:
+    - fyzické ovládnutí věci: ten kdo má věc u sebe
+    - Vůle/úmysl ovládat věc jako vlastní: chuť být vlastníkem, vůle ovládat věc jako vlastní, naprosto a úplně pro sebe, ten kdo má věc pro sebe
+    - Podmínku vůle musí splňovat držitel (vlastník) věci, fyzické ovládnutí může splňovat i jiná osoba, například osoba, která na základě právního vztahu věc drží - vypůjčení, pronájem, přijetí do úschovy.
+  - **Držitel** = ten kdo vykonává právo pro sebe - právo držet, užívat a nakládat, není z toho nikomu odpovědný
+    - Aby mohl někdo být považován za držitele -> nutnost mít ově složky držby.
+    - Tato situace nastává pravidelně u vlastníka.
+    - Může jí však být i jiná osoba -> například osoba, která je v dobré víře, že nabyla vlastnické právo k věci, ale ve skutečnosti jej nenabyla například z důvodu neplatné smlouvy.
+    - Držba však může vzniknout i tomu, kdo věc odcizil - proto jsou stanoveny různé druhy držby a poskytuje jim různý stupeň ochrany.
+  - **Druhy držby**
+    - **vlastnická držba** = splňuje obě složky, je součástí vlastnického práva = právo držet
+    - **nevlastnická držba** = držba někoho jiného než vlastníka, držba v užším slova smyslu, držba jak ji chápe OZ = tedy fyzické ovládnutí věci
+    - s nevlastnickou držbou souvisí **detence** = tedy stav faktického ovládání věci, ale bez vůle mít ji pro sebe, detentor, který věc fakticky ovládá (chybí vůle) se k věci chová jako k věci cizí - nájem, pacht, výprosa a výpůjčka.
+  - **Předmětem držby**
+    - Věcné právo - majetkové, převoditelné na jiného, připouští trvalý, nebo opakovaný výkon -> **držet lze vlastnické právo, právo stavby a právo odpovídající věcnému břemenu**
 
 Definice věcných práv a závazkových práv.
 
