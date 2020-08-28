@@ -492,12 +492,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Název -> musí obsahovat slova nadační fond -> například nadační fond obětem holocaustu
       - Založení - viz nadace, zápis do nadačního rejstříku
       - Jinak platí obdobně co o nadaci - podnikání, orgány etc.
-    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky. 
-      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených. 
-      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“ 
+    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky.
+      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených.
+      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“
       - Od korporací se liší tím, že řízení a provoz v nich nezajišťují členové, ale zaměstnanci.
-      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává. 
-      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní. 
+      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává.
+      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní.
       - Ústavy se vyskytují ve všech oblastech společenského a hospodářského života.
       - Dobrým příkladem ústavu je Charita České republiky, nebo Výzkumný ústav práce a sociálních věcí.
   - Ahojda
@@ -717,23 +717,23 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
       - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
       - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje - abstraktní věci.**
-    - **Ovladatelné přírodní síly** - 
+    - **Ovladatelné přírodní síly** -
       - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
-    - **Nemovité a movité věci** - 
+    - **Nemovité a movité věci** -
       - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
       - Pokud zákon stanoví, že určitá věc není součástí pozemku, ale pokud nelze takovou věc přenést z místa na místo bez porušení její podstaty -> i takováto věc je nemovitá - dalo by se říci tedy například nějaký stroj, který je pevně spojen s budovou.
       - Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
-    - **Zastupitelné věci** - 
+    - **Zastupitelné věci** -
       - Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná, ostatní jsou nezastupitelné - příkladem budiž **peníze**, nebo některé druhy **cenných papírů**.
-    - **Zuživatelné věci** - 
+    - **Zuživatelné věci** -
       - Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení je zuživatelná - příkladem je plod stromů - tedy například jablko.
       - Zuživatelná věc je rovněž věc, která náleží skladu a nebo jinému souboru -> pokud jejich běžné užití spočívá v tom, že jsou prodávány jednotlivě.
-    - **Hromadné věci** - 
+    - **Hromadné věci** -
       - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
-    - **Obchodní závod** - 
+    - **Obchodní závod** -
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
-    - **Pobočka** - 
+    - **Pobočka** -
       - Pobočka - součást závodu, která vykazuje funkční i hospodářskou samostatnost (obejktivní kritérium) a o které podnikatel rozhodl, že bude pobočkou (subjektivní kritérium).
       - Pobočku lze rovněž zapsat do OR - pak se jedná o odštěpný závod - to platí i o jiné organizační složce pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku.
       - Vedoucí odštěpného závodu - jako zástupce podnikatele ve všech činnostech, které se týkají provozu odštěpného závodu - ode dne, kdy byl jako vedoucí odštěpného závodu zapsán do OR, do té doby - zastoupení podnikatele k určité činnosti - viz otázka obchodní právo.
@@ -751,7 +751,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Součástí věci je vše, co k ní podle povahy patří a nemůže být od ní odděleno, aniž by se tím znehodnotila.
     - V NOZ platí (viz věci nemovité), stará římská zásada *superficies solo cedit*.
     - Povrch ustupuje půdě -> stavba je součástí pozemku, né samostatná věc -> jak tomu bylo za účinnosti starého občanského zákoníku -> existují z toho však výjimky -> například právo stavby.
-  - **Příslušenství** - 
+  - **Příslušenství** -
     - Příslušenstvím je vedlejší věc vlastníka, která je určena, aby byla trvale užívána společně s věcí hlavní.
     - Má se za to (vyvratitlená právní domněnka), že příslušenství sleduje osud věci hlavní.
     - Příslušenství je však na rozdíl od součásti věci samostatnou věcí.
@@ -1201,7 +1201,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 - [x] Manželství
 - [x] Majetkové právo manželské
 - [x] Rodiče a dítě
-- [ ] Osvojení
+- [x] Osvojení
 - [ ] Náhradní formy péče o dítě
 
 \|--------------\| <br>
@@ -1337,7 +1337,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Matkou dítěte je žena, která ho porodila - absolutní statusový poměr matka - dítě
     - Bez mateřství nelze určit otcovství /příbuzenství
     - Vyloučení absolutního statusového poměru v rámci náhradního mateřství (surogačního) -> možnost osvojení
-    
+
   - **Otcovství**
     - Na základě jedné ze tří zákonných domněnek
       - pokud je manželem matky (vyvratitelné), rovněž pokud se narodí do 300 dnů od zániku manželství, pokud není matka znovu provdána -> pak VPD, že je otcem manžel pozdější, nebo pokud jiný muž neprohlásí otcovství a rozvedený muž otcovství popře a matak se k prohlášení připojí
@@ -1348,7 +1348,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
         - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
         - v případě sporu - nařízení testu DNA
-    
+
   - **Rodičovská práva a povinnosti**
 
     - Mají vůči sobě vzájemná práva a povinnosti
@@ -1397,10 +1397,93 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
           - V plném rozsahu druhý rodič
           - Pokud není žádný rodič / žádný z nich není nositelem RO - **poručník**
           - pokud rodiče jsou, ale oba jsou omezeni v RO - **opatrovník**
-      - 
-
+  - **Péče o dítě po rozvodu**
+    - Manželství není možné rozvést, dokud nejsou vypořádány poměry nelzetilého dítěte
+    - Soud nejdříve určí jak bude každý z rodičů o dítě napříště pečovat
+      - Formy péče
+        - a- péče jednoho z rodičů
+        - b- střídavá péče
+        - c- společná péče (oba rodiče musí souhlasit)
+        - d- péče jiné osoby než rodiče - není-li žádný z rodičů schopen/ochoten o dítě pečovat, např. prarodiče
+      - Soud schvaluje rozsudkem pokud se rodiče **dohodly**
+      - Pokud rozhoduje on - také **rozsudkem**
+      - Soud rozhoduje na základě mnoha kritérií jakou formu zvolit
+        - například zájem dítěte, vztah dítěte k rodičům, životní poměry rodičů atd.
+      - úprava poměrů dítěte nesezdaných, nebo sezdaných rodičů, kteří žijí odděleně nevyžaduje úpravu formy péče
+      - soud může změnit své rozhodnutí, pokud se změní poměry, podle kterých rozhodoval
+      - **Úprava styku rodiče s dítětem**
+        - soud upraví poměry i ve smyslu styku - tzn i pokud by byla péče jen jednoho rodiče -> druhý má právo se s dítětem stýkat, to soud může upravit - například zakázat z důvodu omezení rodičovské odpovědnosti, toto soud ale upraví jen ve chvíli, kdy se rodiče nedohodnou
+        - rodič má povinnost styk dítěte s druhým rodičem umožnit a nijak dítě proti druhému rodiči nepopuzovat
+        - VEDLEJŠÍ: dítě má právo i na styk s jinými osobami s ním příbuznými - k nimž má citový vztah
+- **Osvojení**
+  - Jsou dvě formy náhradní péče o dítě:
+    - 1- rodinná
+    - 2- ústavní
+  - **Osvojení spadá do rodinné**
+    - jedná se o přijetí osoby za vlastní
+    - na základě rozhodnutí soudu
+    - stanoven základní předpoklad osvojení - vztah stejný, jako je standardně mezi rodičem a dítětem, nebo alespoň základy takovéhoto vztahu
+    - **Osovojení nezletilého**
+      - osvojenec - nezletilý, který nenabyl plné svéprávnosti
+      - osvojitel - zletilý, plně svéprávný a další zákonné podmínky (předpoklady dobrého rodiče, zdraví etc.)
+        - Osvojiteli se mohou stát manželé, nebo jeden z manželů
+          - Osvojují-li společně - podávají návrh společně
+        - Může osvojit i osamělá osoba
+        - Důležitý je přiměřený věkový rozdíl
+        - **Proces osvojení**
+          - je třeba souhlasu dítěte a jeho rodičů
+            - a- Dítě musí souhlasit, je-li starší 12 let, u mladších dětí může souhlasit opatrovník
+            - b- Rodiče musí souhlasit, souhlas nemůže dát rodič mladší 16 let, jeho dítě ani nemůže být osvojeno
+              - Matka může udělit souhlas až 6 týdnů po porodu
+              - Otec hned po narození dítěte
+              - do 3 měsíců lze souhlas odvolat
+          - **Situace nevyžadující souhlas rodičů**
+            - pokud jsou rodiče zbaveni RO + osobnostního práva dát souhlas k osvojení
+            - rodič není schopen projevit svou vůli
+            - rodič se zdržuje na neznámém místě
+            - neprojevuje o dítě zájem (minimálně po dobu 3 měsíců)
+          - O tom, zda je potřeba souhlasu rodičů nebo ne -> rozhoduje soud
+          - **Předání dítěte do péče osvojitele**
+            - pokud není souhlas rodičů odvolán = **preadopční péče**
+              - rozhoduje o něm soud
+              - po uplynutí 6 měsíců lze rozhodnout o osvojení dítěte osvojitelem
+          - Po rozhodnutí o osvojení - **právní důsledky osvojení**
+            - mezi osvojencem a osvojitelem vzniká stejný vztah jako mezi rodičem a dítětem
+            - původní rodičovský vztah zaniká (nezaniká ve chvíli kdy osvojil jeden z manželů rodiče vztah toho druhého rodiče - například nově vdaná žena, osvojí nový manžel - rodičovská práva ženy rodičky nezanikají)
+            - osvojitelé jsou zapsání namísto rodičů do rodného listu
+            - dítě získává příjmění osvojitelů
+            - osvojitelům vzniká RO a vyživovací povinnost
+            - pokud je osvojenec rodičem -> účinky osvojení i na jeho dítě
+            - osvojitel musí s osvojením dítě seznámit nejpozději do zahájení školní docházky
+              - je možné utajit okolnosti osvojení a biologickou rodinu (na návrh rozhodnutím soudu z vážných důvodů) -> odtajnění na základě rozhodnutí soudu v případě, že by bylo dítě vážně ohroženo na zdraví, či na životě, dítě se se spisem o osvojení může rovněž seznámit když nabude plné svéprávnosti
+          - **Zrušení osvojení**
+            - po dobu 3 let od osvojení - na návrh osvojence, nebo osvojitele
+            - obnovují se vztahy před osvojením, rovněž se dítěti vrací staré příjmení
+            - po uplynutí 3 let se osvojení stává nezrušitelné!
+            - na žádost může soud osvojení prohlásit za nezrušitelné i dříve
+    - **Osvojení zletilého**
+      - =stejné právní důsledky jako osvojení nezletilého
+      - lze jen z taxativně vymezených důvodů = pak se jedná o **plné osvojení**
+        - 1- přirozený sourozenec osvojovaného byl osvojen týmž osvojitelem,
+        - 2- v době podání návrhu by osvojený nezletilý,
+        - 3- osvojitel pečoval o osvojence již jako ovlastního již v době jeho nezletilosti,
+        - 4- osvojitel hodlá osvojit dítě svého manžela
+      - **neúplné osvojení** - osvojení zletilého, které není obdobou osvojení nezletilého
+        - jen z důvodů hodných zvláštního zřetele
+        - nepromítá se do osobního stavu osvojence ani osvojitele, trvá vztah mezi osvojenecem a jeho pokrevní rodinou
+        - osvojenec dědí po osvojiteli v **první třídě** při intestátní posloupnosti, nemá však zákonné dědické právo vůči ostatním členům rodiny osvojitele
+- **Náhradní formy péče o dítě**
+  - Dva typy
+    - 1- rodinné
+      - 1- osvojení
+      - 2- pěstounství
+      - 3- svěření do péče jiné osoby
+      - 4- poručnictví (pokud poručník o dítě osobně pečuje)
+    - 2- ústavní
+      - kojenecké ústavy, dětské domovy, diagnostické ústavy, zařízení pro děti vyžadující okamžitou pomoc (Klokánky)
+    - Opatrovnictví - ten se ale o dítě nestará, pouze ho zastupuje v určitých zákonných důvodech, když je jmenován soudem
       - vyživovací povinnost
-      - 
+      -
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1499,7 +1582,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - Listina základních práv a svobod rovněž zaručuje ochranu vlastnictví.
   - Dále je chráněno i přímo v rámci OZ:
     - § 12: Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávající veřejnou moc. Není-li v zákoně stanoveno něco jiného, je tímto OVM soud.
-  - 
+  -
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2259,7 +2342,7 @@ Lichva.
     - **Definice účastníků**
       - U sporného řízení
         - žalobce a žalovaný
-          - **společenství účastníků** - situace, kdy je na straně žalobce, nebo žalovaných více 
+          - **společenství účastníků** - situace, kdy je na straně žalobce, nebo žalovaných více
             - žalobci = aktivní společenství
             - žalovaní = pasivní společenství
         - vedlejší účastník - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
@@ -2639,7 +2722,7 @@ finanční arbitr
   - Podnikat může buď právnická nebo fyzická osoba
   - Je tedy možné členit dle jednotlivých forem, tedy OSVČ u FO a jednotlivé formy právnických osob u PO
   - **Členění, které je myšleno v této otázce je ale asi následující**
-    - **plnoprávní podnikatelé** 
+    - **plnoprávní podnikatelé**
       - a) fikce podnikatele pro osoby zapsané v OR - § 421 (1)
       - b) vyvratitelná právní domněnka pro osoby, které mají živnostenské nebo jiné oprávnění - § 421 (2)
     - **neplnoprávní podnikatelé**
@@ -2661,7 +2744,7 @@ finanční arbitr
     - sídlo podnikatele ve VR musí být v prostorách, ke kterým má podnikatel **relevantní právní titul** (§ 14 ZVR)
     - u PO může být v zakladatelském p. jednání jen název obce, ale ve VR pak vždy celá adresa sídla
     - podnikatel-FO, který není v OR: jeho sídlem je místo, kde má hlavní závod, nemá-li ho > jeho bydliště (bydlištěm je místo, kde se podnikatel zdržuje s úmyslem žít tam trvale)
-    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného 
+    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného
     - zahraniční osoba může do ČR přemístit sídlo, ale musí zvolit p. formu české PO, bude se řídit českým právem, nelze u OK v likvidaci, insolvenci (platí obdobně i pro české osoby, umožňuje-li to p. řád státu, kam přemisťují)
 
 \|--------------------------------------\| <br>
@@ -2733,7 +2816,7 @@ finanční arbitr
   - **Ochrana jména podnikatele**
     - Sourprávních nástrojů, které má podnikatel k dispozici před neoprávněnými zásahy jiných osob do práv k jeho jménu
     - Pokud byl podnikatel dotčen v právu ke své obchodní firmě -> **stejná ochrana jako při ochraně před nekalou soutěží**
-    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména), 
+    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména),
     - **Ochrana absolutní** - směřuje proti komukoliv,
       - **Jednotlivé ochrany** - jak u relativní, tak i u absolutní ochrany
         - **zdržovací nárok** - zdržení se protiprávního jednání
@@ -3724,7 +3807,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Kvůli vzniku a rozvoji trhu (dělba práce a specializace umožnila zvýšení produktivity a efektivity práce a vznik nadproduktu). Rovněž kvůli inovacím.
     - Mělo dopad na produkční možnosti společnosti.
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
-    - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
+    - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje.
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
     - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent statků, viz peníze, měna je potom zákonné platidlo na území daného státu.
   - **Členění trhu**
@@ -3940,7 +4023,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Utajené informace** - jedna strana trhu má více odborných znalostí nebo informací než druhá
       - Může vyůstit do **degenerace trhu** ve smyslu:
         - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
-        - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
+        - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
       - Jedná se také o potlačení trhu
       - Nejčastěji z důvodu zdanění a přímé regulace cen.
@@ -4637,10 +4720,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Výhody
     - Doplnit
   - Rizika
-    - **Ztráta samostatné měnové politiky**: 
-    - **Cena za zapojení se do Evropského stabilizačního mechanismu:** 
-    - **Riziko vnímané inflace**: 
-    - **Jednorázové náklady na zavedení eura:** 
+    - **Ztráta samostatné měnové politiky**:
+    - **Cena za zapojení se do Evropského stabilizačního mechanismu:**
+    - **Riziko vnímané inflace**:
+    - **Jednorázové náklady na zavedení eura:**
   - Maastrichtská kritéria
     - Doplnit
 
@@ -4718,69 +4801,69 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Měnová (monetární) politika**
   - Je součástí **hospodářské politiky státu**.
-  
+
   - Tvoří jí centrální banka, která je však **absolutně nezávislá na vládě**.
-  
+
   - Je souhrnem opatření a zásad, které mají prostřednictvím **měnových nástrojů** prosazovat **plnění měnových cílů**.
-  
+
   - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
-  
+
   - Úkolem banky podle zákona je: *zabezpečit stabilitu české měny a za tím účelem určovat měnovou politiku*.
-  
+
   - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
-  
+
   - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
-  
+
   - V česku je na první pozici v rámci **dvoustupňového bankovního systému**.
-  
+
   - Banka ve svém důsledku cílí na ovlivňování třech základních konečných cílů, viz níže.
-  
+
   - **Proces by se tedy dal popsat jako:**
-    
+
     - Využití nějakého nástroje měnové politiky,
     - Tento nástroj ovlivní zprostředkující cíl,
     - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru) a udržení vyrovnané **bilance zboží a služeb**.
-    
+
   - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
-  
+
   - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                                  |
     | ------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
     | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita / Bilance zboží a služeb (Obchodní bilance na běžném účtu platební bilance) |
-  
+
   - Co se samotných nástojů týče:
-  
+
   - | Nástroj                       | Zprostředkující cíl | Konečný cíl            |
     | ----------------------------- | ------------------- | ---------------------- |
     | Diskontní sazba               | Peněžní zásoba      | Nezaměstnanost         |
     | Operace na volném trhu        | Úroková míra        | Inflace                |
     | PMR                           |                     |                        |
     | Devizové rezervy (intervence) | Měnový kurz         | Bilance zboží a služeb |
-  
+
   - Co se úrokové míry týče, ta je určena nabídkou a poptávkou po penězích, když se tedy zvýší peněžní zásoba, snižuje se úroková sazba a naopak.
-  
+
   - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
-  
+
   - **Centrální banka se primárně soustředí na:**
-  
+
     - Kontrolu množství peněz v ekonomice,
     - Regulaci úrokových měr (tohoto dosahuje pomocí regulace množství peněz na trhu),
     - stanovení podmínek úvěrování.
-  
+
   - **Monetární politika může nabývat podob:**
-  
+
     - **Expanzivní** - používání dostupných nástrojů české národní banky ke zvýšení peněz v oběhu,
     - **Restriktivní** - používání těchtýž dostupných nástrojů ke snížení peněz v oběhu.
-  
+
   - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
-  
+
   - **Je potřeba říci, že finální cíle centrální banky nejsou slučitelné, nástroje expanzivní politiky snižují nezaměstnanost a zvyšují inflaci a prostřednictvím depreciace měny zvyšují saldo obchodní bilance, zatímco nástroje restriktivní politiky zvyšují nezaměstnanost a snižují inflaci (krátkodobá Phillipsova křivka) a snižují saldo obchodní bilance kvůli apreciaci měny (jedná se o příliv a naopak odliv zahraničního kapitálu).**
-  
+
   - **Měnová politika funguje jen krátkodobě, z dlouhodobého hlediska zůstává pouze inflace, měnová politika funguje dlouhodobě jen v případě ekonomického růstu (reálného ekonomického růstu, tedy růstu potenciálního produktu).**
-  
+
   - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
-  
+
   - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
-  
+
     - **Operace na volném trhu** - tedy prodávání nebo nakupování cenných papírů na finančních trzích (trhy primární a sekundární), nakupování cenných papírů zvyšuje nabídku peněz a jedná se tak o expanzivní měnovou politiku, zatímco prodávání, nebo vydávání a emitování cenných papírů snižuje peněžní zásobu a jedná se tak o restriktivní měnovou politiku.
     - **Devizové intervence** - prodávání, nebo nakupování deviz (cizích měn), to na grafu poptávky po české koruně způsobí posun nabídky buď do leva, nebo do prava - zvýší se, nebo sníží poptávka po české koruně, dle toho se sníží, nebo zvýší kurz koruny, to souvisí se zahraničním obchodem a salda běžného účtu platební bilance (obchodní bilance), devalvace (depreciace) koruny pozitivně působí na export (zvyšování čistého exportu), zatímco revalvace (apreciace) koruny pozitivně působí na import (snižování čistého exportu), s ohledem na to, že čistý export je součástí výpočtu HDP výdajovou metodou, působí devizové intervence na snížení hospodářského růstu (zchlazení ekonomiky při konjunktuře a přehřívání), nebo na zvýšení hospodářského růstu (snaha nastartovat ekonomiku v hospodářské recesi).
     - **Změny úrokových sazeb:**
@@ -4788,9 +4871,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Diskontní sazba** - týká se takzvaných automatických facilit, banky si mohou přes noc u ČNB uložit svojí přebytečnou likviditu, ta je jim úročena diskontní sazbou. **Diskontní sazbou** jsou rovněž úročeny takzvané **diskontní úvěry**, které si mohou banky od ČNB brát, aby překlenuly dočasný nedostatek likvidity.
       - **Lombardní sazba** - stanovuje se u takzvaných **lombardních úvěrů**, ty ČNB poskytuje bankám s nedostatečnou likviditou, jedná se tedy o půjčku ze strany ČNB komerčním bankám, tvoří horní mez pro půjčky na mezibankovním trhu, tedy pro **PRIBOR**.
     - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
-  
+
   - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
-  
+
 - Politika centrálních bank
 
   - Centrální banky ve vztahu k využívání svých nástrojů vyzkoušely mnoho různých politik:
@@ -4798,7 +4881,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Ukotvení měnovým kurzem**: jedná se o ukotvení kurzu na jinou měnu, problém je, že tato politika neumožňuje centrální bance provádět expanzivní, nebo restriktivní politiku, protože ta dopadá na zvyšování, nebo snižování kurzu, následný závazek banky vrátit kurz na starou hodnotu znamená využití nástrojů, které jdou přímo proti původně použitým nástrojům, které byli použity za účelem restriktivní nebo expanzivní měnové politiky.
     - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**, při této politice se tak může ustálit **inflační očekávání na poměrně nízké úrovni** a bude docházet i ke stálému ekonomickému růstu, problémem však je, že banka nemá úplnou kontrolu nad růstem peněžní zásoby, ta totiž závisí na tom, jak velké rezervy chtějí udržovat komerční banky a podle toho s buď snižuje, nebo zvyšuje peněžní multiplikátor, centrální banka musí při uplatňování této politiky rovněž za žádných okolností neměnit výši uvolňovaných peněz.
     - **Politika inflačního cílování**: jedná se o politiku, kterou **využívá Česká národní banka**, místo výše peněžní zásoby se cíluje inflace, což je konec konců pro spotřebitele a výrobce mnohem více vypovídající informace, než informace říkající o kolik procent poroste peněžní zásoba. Touto politikou dokáže ČNB ovlivňovat i samotná inflační očekávání. Problém může nastat, pokud se ČNB "netrefí" do jím vyhlášeného **inflačního cíle**, to může v ekonomice vzhledem k **inflačním očekáváním, která jsou nastavená podle inflačního cíle** způsobit poměrně velké problémy.
-  
+
 - Dezinflační politika centrálních bank
 
   - V případě vysoké inflace může být zájem inflaci snížit.
@@ -5626,9 +5709,9 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
 - **Kategorizace rizik**
   - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
-    - Podle firemní procesů - 
-    - Podle podnikatelských aktivit - 
-    - Podle obecně závazných pravidel - 
+    - Podle firemní procesů -
+    - Podle podnikatelských aktivit -
+    - Podle obecně závazných pravidel -
 - **Metody měření a ošetření rizika**
   - No
 - **Risk Appetite**
