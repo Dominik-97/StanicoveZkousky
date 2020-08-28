@@ -1276,6 +1276,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - V běžných záležitostech však může jednat kterýkoliv z nich a mají vůči sobě zákonné zástupčí oprávnění.
       - To neplatí pokud jeden z manželů třetí osobě předem sdělí, že se zastoupení nesouhlasí, nebo pokud ho vůči manželovi zruší soud.
       - Rovněž neplatí, pokud manželé žijí v oddělených domácnostech podle § 691 odstavce 2.
+      - Manželé mají vzájemné zákonné zástupčí oprávnění = v běžných věcech se mohou zastupovat
   - **Manželé mezi sebou mají vyživovací povinnost - i vůči dětem, a to tak, aby jejich hmotná a kluturní úroveň byla zásadně stejná.**
   - **Zánik manželství**
     - Manželství může zaniknout třemi způsoby:
@@ -1380,15 +1381,15 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - participace dítěte - soud chce znát názor dítěte (má se za to, že pokud je starší 12 let -> je schopno participovat), není-li schopno ho sdělit -> soud vyslechne osobu, která je schopná ho sdělit -> její zájmy však nesmí být v rozporu se zájmy dítěte
       - RO náleží stejně oběma rodičům, má jí každý rodič, ledaže jí byl zbaven
         - opatření zasahující do RO - nemá vliv na vyživovací povinnost
-          - Pozastavení výkonu RO
+          - **Pozastavení výkonu RO**
             - a- nezletilý rodič, který nanabyl plné svéprávnosti, náleží mu pouze výkon té části, která spočívá v péči o dítě
             - b- omezení svéprávnosti - v celém rozsahu RO, ledaže soud rozhodne jinak (péče a styk)
             - c- brání-li tomu jiná závažná skutečnost výkonu RO
-          - Omezení RO
+          - **Omezení RO**
             - vždy rozhodnutím soudu
             - pokud rodič nevykonává svojí RO řádně + omezení vyžaduje zájem dítěte
             - soud určí v rozhodnutí rozsah
-          - zbavení RO
+          - **zbavení RO**
             - vždy rozhodnutím soudu - rodič zneužívá nebo zanedbává RO
             - vždy posoudí, pokud rodič spáchal trestný čin, či k němu využil dítě
             - Rodič ztrácí právo styku s dítětem - jen výjimečně ho může soud zachovat
@@ -1474,16 +1475,94 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - osvojenec dědí po osvojiteli v **první třídě** při intestátní posloupnosti, nemá však zákonné dědické právo vůči ostatním členům rodiny osvojitele
 - **Náhradní formy péče o dítě**
   - Dva typy
-    - 1- rodinné
-      - 1- osvojení
-      - 2- pěstounství
-      - 3- svěření do péče jiné osoby
-      - 4- poručnictví (pokud poručník o dítě osobně pečuje)
-    - 2- ústavní
+    - 1- **rodinné**
+      - 1- **osvojení**
+      - 2- **pěstounství**
+        - pokud o dítě nemůže osobně pečovat žádný z rodičů ani poručník -> soud může svěřit dítě do péče **pěstounům**
+        - pěstounství má přednost před ústavní péčí
+        - může být stanoveno na dobu, po kterou rodičům brání nějaká překážka v osobní péči o dítě
+        - rozhoduje soud
+        - **Osoba pěstouna**
+          - záruky řádné péče o dítě
+          - bydliště na území Čr
+          - souhlas se svěřením dítěte do vlastní péče od pěstouna
+          - pěstou je náhradním pečovatelem
+          - rodiče mají právo na informace a na styk s dítětem
+          - **pěstou nezískává RO** = není zákonným zástupcem dítěte!
+          - RO náleží buď rodičům, nebo poručníkovi, hlavní povinností pěstouna je pouze osobní péče o dítě
+          - pěstoun nemá vyživovací povinnost - jsou mu vypláceny dávky pěstounské péče - má několik složek
+          - pěstounskou péči zprostředkovává OSPOD
+          - vyživovací povinnost zůstává rodičům, ti platí výživné na úkor státu
+        - **Zánik PP**
+          - Nejpozději nabytím plné svéprávnosti dítěte
+        - Existuje i profesionální pěstounská péče max na jeden rok - pro specifické případy
+      - 3- **svěření do péče jiné osoby**
+        - viz péče o dítě po rozvodu
+        - pokud nemůže nebo nechce pečovat žádný z rodičů
+        - zpravidla se jedná o příbuzného
+        - přednost před ústavní péčí
+        - přiměřeně se použijí ustanovení o pěstounství, ale pečující osoba nedostává dávky, vyživovací povinnost mají přímo rodiče - **platí výživné pečující osobě**
+        - pečující osoba nemá vyživovací povinnost k dítěti pokud jí nemá ze zákona - například prarodič
+        - v případě nutnosti je možné dané osobě svěřit dítě do pěstounské péče - **zabezpečení pěstounskými dávkami**
+      - 4- **poručnictví** (pokud poručník o dítě osobně pečuje)
+        - Pokud není žádný rodič, který má k dítěti plnou RO -> soud jmenuje dítěti poručníka
+        - Poručník má k dítěti všechny práva a povinnosti jako rodič, nemá ale k dítěti vyživovací povinnost, náleží mu RO = je zákonným zástupcem dítěte
+        - poručnictví je pod stálým dozorem soudu
+        - každé nikoli běžné rozhodnutí týkající se dítěte podléhá schválení soudu
+        - poručník podává zprávy o osobě dítěte a jeho jměni alespoň 1x ročně
+        - soud jmenuje dítěti poručníka neprodleně poté, kdy zjistí, že jde o dítě, jemuž je třeba poručníka jmenovat - do té doby je *ex lege* poručníkem dítěte OSPOD
+        - **Osoba poručníka**
+          - zpravidla se jedná o toho, koho doporučili rodiče, příbuzní či jiná osoba dítěti blízká
+          - musí se jmenováním souhlasit
+          - plně svéprávný a další podmínky (způsob života etc.)
+          - pokud není poručníka a nelze nikoho jmenovat -> **veřejný poručník** - **OSPOD**
+          - poručník nemá povinnost o dítě osobně pečovat - pokud pečuje - náleží mu hmotné zabezpečení jako **pěstounovi**
+        - **Zánik poručnictví**
+          - alespoň jeden z rodičů nabyde RO ebo schopnost jí vykonávat
+          - dítě nabude svéprávnost/je osvojeno
+          - smrtí poručníka/poručence
+          - na žádost poručníka ho soud odvolá z funkce
+          - soud poručníka odvolá rovněž zanedbává-li své povinnosti        
+    - 2- **ústavní**
       - kojenecké ústavy, dětské domovy, diagnostické ústavy, zařízení pro děti vyžadující okamžitou pomoc (Klokánky)
-    - Opatrovnictví - ten se ale o dítě nestará, pouze ho zastupuje v určitých zákonných důvodech, když je jmenován soudem
-      - vyživovací povinnost
-      -
+        - použije se jen, nejde-li zajistit péči o dítě formou náhradní rodinné péče
+        - v zákonem vymezených případech - soud může nařídit ústavní výchovu (rodiče například z vážných důvodů nemohou zabezpečit péči o dítě)
+        - nejdéle na dobu 3 let, ale lze opakovaně prodloužit
+        - nejdéle do 18 roku života, ve výjmečných případech může soud v zájmu dítěte prodloužit do 19 let věku
+        - přezkum každých 6 měsíců - zda jsou stále důvody a zda nejde dítě umístit do náhradní rodinné péče
+    - **Opatrovnictví** - ten se ale o dítě nestará, pouze ho zastupuje v určitých zákonných důvodech, když je jmenován soudem
+      - jedná se o speciální druh zastoupení z rozhodnutí soudu, viz zastoupení
+      - soud jmenuje v případě, že:
+        - a- střet zájmu dítěte a zákonného zástupce
+        - b- nehájí zákonný zástupce dostatečně zájmy dítěte
+        - c- je to v zájmu dítěte zapotřebí z jiného důvodu
+        - d- stanoví tak zákon - například pokud jsou oba rodiče omezeni na výkonu RO - pro osvojení
+      - **Opatrovník jmění dítěte**
+        - zpravidla v případě, že má dítě velký majetek a rodič jej není schopen řádně spravovat
+        - povinnost řádného hospodáře a zákaz podstupování nepřiměřených rizik
+        - podávaá soudu zprávy o vyúčtování ze zprávy jmění
+        - má právo na přiměřenou odměnu z výnosu jmění dítěte (výši určí soud)
+- **Výživné**
+      - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
+      - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
+      - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
+      - na frekvenci je možné se dohodnout
+      - **Přiznání výživného soudem**
+        - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
+        - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
+        - výživné lze přizna až 3 roky zpětně
+        - při podstatné změně okolností může povinný žádat novou úpravu výživného
+      - **Vyživovací povinnost**
+        - mají mezi sebou předci a potomci
+        - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
+        - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
+      - **soud zkoumá okolnosti**
+        - jak na straně oprávněného, tak povinného
+        - za jistých okolností nemá například nárok - odmítl zaměstnání
+      - životní úroveň rodičů a dítěte má být zásadně shodná
+      - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
+      - dítě je povino rodičům zajistit slušnou výživu
+      - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
