@@ -2021,8 +2021,8 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Soudnictví
-- [ ] Soudní soustava
+- [x] Soudnictví
+- [x] Soudní soustava
 - [ ] Justiční systém
 
 \|--------------\| <br>
@@ -2047,10 +2047,43 @@ Lichva.
   - Rovněž lze u soudu požadovat rozhodnutí, že občanovi jisté právo nebo povinnost náleží bez ohledu na jiného občana (příkladem mohou být nesporná řízení).
   - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině.
   - Podle **povahy věcí**, které jsou před soudem projednávány, se rozlišují čtyři základní typy soudů:
-    - **civilní -** 
-    - **trestní -** 
-    - **správní -** 
-    - **ústavní -** 
+    - **civilní -** řeší občanskoprávní vztahy - například rozvod manželstí, řeší jak sporné, tak i nesporné řízení
+    - **trestní -** jedná se o veřejné právo, rozdohuje o vině a uložení trestů pachatelům trestných činů
+    - **správní -** přezkoumávají rozhodnutí správních orgánů (například o přestupku)
+    - **ústavní -** rozhodují o dodržování ústavy a ústavnosti právních předpisů, ústavní soud však nerozhoduje ve věci samé, ale pouze zhodnotí, zda nebylo porušeno nějaké základní právo člověka
+- **Soudní soustava**
+  - Je nastavena zákonem o soudech a soudcích, mimo tuto soustavu stojí Ústavní soud - řízen zákonem o ústavním soudu
+  - Jedná se o **hierarchicky uspořádanou** soudní soustavu - existuje tu vztah nadřízenosti a podřízenosti.
+  - Soustavu soudů v Čr tvoří:
+    - **Okresní soudy** - nejnižší stupeň, projednávají občanskoprávní spory, pracovní spory a věci patřící do oblasti rodinného práva (rodinné vztahy), dále řeší méně závažné trestné činy.
+      - Jsou zřízeny v každém okresním městě, je jich 86 - 75 okresních (v okresních městech), 10 obvodních soudů v praze a 1 městský v Brně
+    - **Krajské soudy **- druhý stupeň pokud v prvním stupni rozhodoval okresní soud - rozhodují tedy o odvoláním proti rozsudkům okresních soudů
+      - V prvním stupni rozhodují o věcech právně složitějších a společensky významných - ochrana osobnosti, autorská práva etc. a o závažnějších trestních činnech - za které hrozí nejméně pět let odnění svobody (zločiny, ne přečiny).
+      - Je jich 8 a nacházejí se v krajích (v Prase se jmeuje Městský soud)
+      - Působí podle **Správního řádu** rovněž ve věcech správních a jsou i **Rejstříkovími soudy**
+    - **Vrchní soudy** - druhým stupněm soustavy, pokud v prvním rozhodovaly Krajské soudy - rozhodují proti odvoláním rozsudků krajských soudů.
+      - Vrchní soudy jsou 2 v Praze a Olomouci
+    - **Nejvyšší soud České republiky** - vrcholný soudní orgán, rozhoduje o **mimořádných opravných prostředcích** - **dovoláních** proti rozsudkům odvolacích soudů (krajských, nebo vrchních) ve věcech občanskoprávních i trestních a vykládá zákony.
+      - Nejvyšší soud České republiky sídlí v Brně (stejně jako Ústavní soud)
+    - **Nejvyšší správní soudy** - vrcholný orgán **správního soudnictví**, rozhoduje o **mimořádných opravných prostředcích** - **kasačních stížnostech** v rámci správního soudnictví - dále rozhoduje ve věcech volebních, ve věcech politických stran (například zrušení a rozpuštění) etc.
+      - Nejvyšší správní soud České republiky sídlí v Brně
+  - **Ústavní soud**
+    - Stojí mimo soustavu soudů - je řízen podle zákona o Ústavním soudu - dohlíží na dodržování ústavnosti v zemi. Rozhoduje o ústavních stížnostech, například o zrušení zákonů, nebo o porušení ústavně zaručených práv občanů.
+      - Pokud je něco v rozporu s Ústavním pořádkem, mezinárodní smlouvou, nebo o ústavní žalobě Senátu na prezidenta České republiky.
+      - Proti jeho rozhodnutí se nelze odvolat.
+      - Sídlí v Brně.
+      - ![Soustava_Soudů](Podklady/Obcanske_pravo/soustava_soudu.png)
+- **Principy fungování soudnictví**
+  - Právo na spravedlivý proces - základním principem, dále
+  - Nezávislost a nestrannost soudů a soudců
+  - Zákonný soud a zákonný soudce - zákon určuje místní a věcnou příslušnost
+  - Princip rovnosti (účastníci jsou si rovni) a kontradiktornosti (účastníci se ke všem skutečnostem u soudu mohou vyjádřit)
+  - princip veřejnosti
+  - princip ústnosti (podstatné je to co u soudu bylo předneseno) a přímosti (soud jedná přímo ve styku s účastníky)
+  - princip hospodárnosti - úmysl poskytnout ochranu rychle, účinně a bez zbytečných nákladů
+  - princip předvídatelnosti - **princip legitimního očekávání**
+- **Soudci**
+  - Doplnit
 
 Věcná a místní příslušnost
 
@@ -2167,6 +2200,12 @@ Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupn�
 Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
 
 Usnesení a rozhodnutí ve věci samé.
+
+Odvolání do 15 dnů.
+
+Odročení.
+
+Instance
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
