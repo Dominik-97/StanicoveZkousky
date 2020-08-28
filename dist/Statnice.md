@@ -2084,17 +2084,30 @@ Lichva.
   - princip hospodárnosti - úmysl poskytnout ochranu rychle, účinně a bez zbytečných nákladů
   - princip předvídatelnosti - **princip legitimního očekávání** - soud by se neměl odchýlit od běžné rozhodovací praxe, pokud se odchýlí, je po něm možné požadavat vysvětlení
 - **Soudci**
-  - Doplnit
+  - Kladeny značné nároky.
+  - Bezphoný občan České republiky starší 30 let s vysokoškolským právnickým vzděláním a složenou justiční zkouškou - minimálně 3 roky předtím musí být v pozici **justičního čekatele**.
+  - Po jejím složení a dalších formálních náležitostech může justiční komise navrhnou soudce ke jmenování - jmenuje prezident doživotně.
+  - Soudce ústavního soudu (celkem 15) jmenuje prezident republiky na 10 let se souhlasem senátu.
+  - Své funkce se soudci ujímají složením slibu.
+  - **Rozhodování - stručně**
+    - Soudci rozhodují buď jako **samosoudci** - u většiny civilních záležitostí a rozhodují sami.
+    - Soudci mohou rovněž rozhodovat v **senátu** - ten se skládá z předsedy senátu soudu (soudce) a dvou přísedících (soudci z lidu).
+  - Trestní stíhání a vzatí do vazby - pouze se souhlasem prezidenta, v případě ústavních soudců se souhlasem senátu.
 - **Justiční systém**
   - Není odborným termínem, zahrnuje i instituce působící okolo soudů
-    - státní zastupitelství
-    - notářství
-    - advokacii
+    - státní zastupitelství - soustava úřadů, které se vedle soudů také podílí na právní ochraně.
+      - Úloha především v trestním řízení
+      - Může ale vstupovat i do občanskoprávních řízení, nebo je zahajovat
+      - **Soustava -** je podobná jako soustava soudů - okresní, krajské, vrchní, nejvyšší
+      - Sídla a obvody SZ se shodují se sídlama a obvodama soudů.
+    - notářství - poskytují právní služby, nebo slouží i jako soudní komisaři (například pozůstalostní řízení), vidimace - ověření shody listin, legalizace - ověření podpisu určité osoby, mohou i zastupovat FO a PO ve správním a občanskoprávním řízení, zápis u Notářské komory České republiky
+    - advokacii - poskytují za úplatu právní služby, například zastupují u občanskoprávních řízení, sepisují smlouvy atd. - zápis u Advokátní komory České republiky
     - soukromé exekutory
     - státní správu soudů
     - justiční stráž
+    - (policie) - chrání a předchází trestné činnosti
 
-Věcná a místní příslušnost
+~~Věcná a místní příslušnost~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
