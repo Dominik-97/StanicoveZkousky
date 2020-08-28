@@ -2206,6 +2206,9 @@ Lichva.
     - **Definice účastníků**
       - U sporného řízení
         - žalobce a žalovaný
+          - **společenství účastníků** - situace, kdy je na straně žalobce, nebo žalovaných více 
+            - žalobci = aktivní společenství
+            - žalovaní = pasivní společenství
         - vedlejší účastník - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
           - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
           - má stejná práva a povinnosti jako účastník
@@ -2232,7 +2235,12 @@ Lichva.
       - omezení ve svéprávnosti nemohou jednat samostatně - zastoupení, za PO jen jedna FO, za stát UPZSVM, popřípadě organizační složka
       - **její nedostatek je odstranitelnou vadou** -> zastoupení
     - **Zastoupení při nedostatku procesní způsobilosti**
-      - Doplnit
+      - především zákonným zástupcem - není dotčeno účastenství a zástupce se nestává účastníkem (zvláštní subjekt řízení)
+      - 3 druhy - zákonné, na základě rozhodnutí (opatrovnictví), smluvní na základě plné moci
+        - Plná moc - prostá (jeden úkon) X procesní - na celé řízení
+          - Dá se odvolat i vypovědět
+          - Zaniká dnem právní moci rozsudku, řídí se ustanovením o příkazní smlouvě a z. o advokacii
+          - advokát i notář mají právo nechat se zastoupit - substituční plná moc
 - ~~Aktivní a pasivní legitimace~~
 
 \|--------------------------------------\| <br>
