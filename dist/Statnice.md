@@ -2085,6 +2085,14 @@ Lichva.
   - princip předvídatelnosti - **princip legitimního očekávání** - soud by se neměl odchýlit od běžné rozhodovací praxe, pokud se odchýlí, je po něm možné požadavat vysvětlení
 - **Soudci**
   - Doplnit
+- **Justiční systém**
+  - Není odborným termínem, zahrnuje i instituce působící okolo soudů
+    - státní zastupitelství
+    - notářství
+    - advokacii
+    - soukromé exekutory
+    - státní správu soudů
+    - justiční stráž
 
 Věcná a místní příslušnost
 
