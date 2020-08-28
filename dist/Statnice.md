@@ -1814,6 +1814,12 @@ Požívací a užívací právo.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Podstatná změna okolností.
+
+Neúměrné zkrácení.
+
+Lichva.
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
