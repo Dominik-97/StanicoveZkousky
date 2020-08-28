@@ -1381,6 +1381,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - **Vlastnické právo**
   - § 1011 - Vlastnictví - vše co někomu patří (věci hmotné i nehmotné) jsou jeho vlastnictvím
+  - Právní titul k věci?
   - Nejobsáhlejší věcné právo a rovněž nejsilnější věcné právo
     - právo všeobecné, přímé, výlučné panství nad věcí
     - **jedná se o elastické právo - pokud je jeho šíře omezena a toto omezení skončí - vlátí se vlastnické právo do své původní šíře**
@@ -1524,6 +1525,12 @@ Požívací a užívací právo.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Dědické právo - pojem
+  - [x] Systém
+  - [x] Základní pojmy a principy
+  - [x] Dědění
+  - [x] Odkaz
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1531,6 +1538,136 @@ Požívací a užívací právo.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Dědické právo pojem**
+  - Dědické právo v právním smyslu je právo, které upravuje právo dědiců na pozůstalost po zemřelém (zůstavitelovi)
+  - Představuje jedu ze základních oblastí OZ a jedná se o normativní a regulativní systém, který upravuje přechodné majetkové povinnosti dle OZ.
+  - Jedná se o absolutní majetkové právo, které platí proti všem.
+- **Systém**
+  - Je upraveno v § 1475 až 1720 OZ
+  - Jedná se o převod jmění z osoby zemřelého na určenou osobu.
+    - Tato osoba může být určena buď zákonem - pak se jedná o takzvanou intestátní posloupnost
+    - Osoba však může být určena rovněž přáním zakladatele - pak se jedná o dědice, tím může být jak FO tak i PO (v případě pořízení pro případ smrti), nebo o odkazovníka (v případě vyhrazení odkazu) - tomu však vzniká pohledávka za dědicem
+    - Intestátním, nebo testamentárním dědicům vzniká takzvaný **dědický titul** - který je buď intestátní (zákonný) a nebo (testamentární)
+    - Lze dědit podle několika dědických titulů - pak se jedná o takzvanou kumulaci dědických titulů
+- **Základní pojmy a principy**
+  - Dědické právo vychází ze zásad (principů):
+    - a) zachování hodnot
+    - b) univerzální sukcese - přecházejí jak práva, tak i povinnosti
+      - dědici jsou odpovědi za dluhy zůstavitele v plném rozsahu i nad nabyté dědictví, mohou si ale vyhradit **soupis pozůstalosti** - pak růčí pouze do výše nabytého dědictví
+    - c) přechod majetku na jednotlivce - dědictví nabívají konkrétní osoby
+    - d) rovnosti
+    - e) volnosti přijetí či odmítnutí dědictví
+    - f) ingerence přijetí moci při nabytí - o tom rozhoduje soud
+  - Pojmy
+    - Pozůstalost - veškeré jmění, které náleželo do vlastnictví zůstavitele v den jeho smrti
+      - Nespadají věci, které nejsou způsobilé přejít na právní nástupce
+      - Nespadají tak například práva a povinnosti, které jsou výhradně vázány na osobu zůstavitele, ledaže byli jako dluh uznány u orgánu veřejné moci - například bolestné, či satisfakce v penězích.
+    - Dědictví - právo jednotlivých dědiců na pozůstalost nebo na poměrnou část z ní
+    - **Nepominutelný dědic**
+      - Pouze dítě zůstavitele, nebo potomci dítěte zůstavitele.
+      - Nepomiutelný dědic má vždy právo na svůj povinný díl.
+        - Pokud je nezletilý 3/4 jeho zákonného dědického podílu.
+        - Pokud je zletilý 1/4 jeho zákonného dědického podílu.
+        - Tedy například pozůstalost -> 10 milionů -> 1 nezletilý a 1 zletilý
+          - Nezletilý - minimálně 3/4 z 5 milionů - 3,75 milionu
+          - Zletilý - minimálně 1/4 z 5 milionů - 1,25 milionu
+          - Zůstavitel tedy může pořídil o 5 milionech pro jiné dědice, 5 milionů ale musí nechat nezatížených pro své nepominutelné dědice
+      - **Opomenutí nebo zkrácení dědice však nezpůsobí neplatnost závěti, pouze dědici založí právo domáhat se vůči ostatním dědicům svého povinného dílu.**
+- **Dědění**
+  - Dědické právo vzniká smrtí zůstavitele a je právem na pozůstalost nebo na poměrný podíl z ní (ten kdo zemře společně se zůstavitelem, nebo před ním není způsobilý dědit).
+    - **Požadavky kladené na zůstavitele**
+      - Vždy se musí jednat o FO
+      - Zůstavitel může být omezen ve aktivní způsoblisto dědit (aktivní dědické právo) - pokud je nezletilý a pokud je omezen ve svéprávnosti
+      - Výjimka - dovršení 15 let - může pořizovat formou veřejné listiny i bez souhlasu zákonného zástupce
+      - Omezený na svéprávnosti - možnost pořízení také pouze formou veřejné listiny
+      - Závislý (například na alkoholu) a omezený na svéprávnosti - může pořizovat jakoukoliv formou avšak pouze o polovině pozůstalosti, pokud by však neměl zákonné dědice - o celém majetku
+    - **Požadavky kladené na dědice**
+      - Musí splňovat jak aktivní, tak i pasivní podmínky
+      - Aktivní (**dědická nezpůsobilost** v případě následujícího bodu)
+        - Nesmí se dopustit proti zůstaviteli vymezených činů - například úmyslný trestní čin proti zůstavitelovi, jeho předkovi, potomkovi nebo manželovi, ani zavrženíhodného činu proti poslední vůli - například donucení, zničení, nebo zfalšování, popřípadě pokud se dopustil domácího násilí
+        - Pokud se jich dopustí -> automaticky dědicky nezpůsobilý, ledaže mu to zůstavitel výslovně prominul
+        - **Další druhy aktivních podmínek**
+          - Pokud nastanou -> vyloučení dědice z dědického práva
+          - Mohou být jak na straně zůstavitele, tak na straně dědice
+          - Taxativně vymezené:
+            - **Zřeknutí se dědického práva** - za života zůstavitele smlouvou, může působit i vůči potomkům dědice, který se zřekl (to je dispozitivní a záleží to na tom, jak si to strany mezi sebou ujednají)
+            - **Odmítnutí dědictví** - v případě, že tato možnost není vyloučena dědickou smlouvou, kterou mezi sebou zůstavitel s dědicem sepsali, může dědic po smrti zůstavitele výslovným prohlášením vůči soudu dědictví odmítnout.
+              - Nepominutelný dědic může dědictví odmítnout rovněž s výhradou povinného dílu
+              - V případě odmítnutí se na dědice pohlíží, jako by dědictví nikdy nenabyl.
+            - **Vzdání se dědictví** - po smrti se dědic může svého dílu vzdát ve prospěch jiného dědice - ten musí souhlasit, jinak se ke vzdání se dědictví nepřihlíží.
+              - Učiní-li tak nepominutelný dědice, vzdává se práva i na povinný díl i s účinností pro své potomky.
+              - **Důležité:** pokud byl dědic obtížen příkazem, nařízením odkazu, nebo jiným opatřením, které podle zůstavitelovi vůle může a má splnit jen osobně , nezbavuje se vzdáním povinnosti splnit takové opatření.
+            - **Vydědění (na straně zůstavitele)** - zůstavitel může z vymezených důvodů dědice vydědit - a to jak z práv tak i povinností, prohlášení o vydědění lze učinit stejným způsobem jako závěť.
+              - 4 důvody:
+              - Neposkytnutí potřebné pomoci v nouzi,
+              - neprojevuje opravdový zájem, jaký by projevovat měl,
+              - byl odsouzen pro trestný čin svědčící o okolností jeho zvrhlé povaze,
+              - vede trvale nezřízený život.
+              - Další důvody:
+                - Není dědicky způsobilý
+                - Je zadlužený a je tu obava, že by se nedostalo na jeho potomky -> pak ale musí zůstavit daný vyděděný díl jeho potomkům
+              - Pokud není důvod -> dědic má právo na svůj povinný díl, pokud dědic s důvodem nesouhlasí -> může se bránit žalobou a musí prokazovat
+              - Může též sepsat negativní závěť  -> vyloučení jiného než nepominutelného dědice
+            - **Zcizení dědictví **- dědic může po smrti zůstavitele dědictví smlouvou ve formě veřejné listiny bezúplatně a nebo úplatně zcizit.
+              - Nabyvatel vstupuje jak do práv, tak i do povinností, s zcizitelem je za dluhy však zavázán společně a nerozdílně.
+      - Pasivní
+        - Dědic musí být buď právnická osoba, nebo fyzická osoba, nebo stát v případě odúmrti
+        - PO i v případě, že vznikne maximálně do 1 roku od smrti zůstavitele
+        - **Předpoklady dědictví**
+          - 1- smrt FO
+          - 2- existence pozůstalosti
+          - 3- způsobilý dědic
+          - 4- dědický titul
+          - 5- přijetí dědictví
+  - **Dědické tituly**
+    - Dědí se na základě dědického titulu - na základě tohoto titulu se člověk považuje za dědice (dědic = ten komu náleží dědické právo)
+      - dědická smlouva - nejsilnější dědický titul,
+        - nutnost - pořizovací a smluvní způsobilost, formou veřejné listiny - maximálně o 3/4 majetku - o 1/4 rozhoduje zůstavitel pomocí zvlášť projevené vůle - například pomocí závěti
+        - dvoustranné právní jednání - nelze jednostranně zrušit
+        - ve formě notářského zápisu -> jinak se považuje za závěť
+      - Závěť - druhý nejsilnější dědický titul,
+        - jednostranný odvolatelný projev vůle, existuje několik druhů závětí
+          - psaná vlastní rukou a podepsaná (holografní)
+          - nepsaná vlastní rukou - musí být před 2 svědky (alografní)
+          - nebo může být ve formě notářského zápisu
+          - existuje ještě závěť s úlevami (privilegovaná závěť) - v jistých specifických vymezených případech, například při ohrožení života - možnost ústně pořídit závěť před 3 svědky -> omezená platnost
+        - **Vedlejší doložky v závěti**
+          - zakladatel může v závěti rovněž stanovit doložení času a nebo podmíku či příkaz - **splnitelnou**
+        - **zrušení závěti**
+          - odvolání, pořízení nové
+        - **projev vůle**
+          - určitý a prostý, osobně zůstavitel, jeho vlastní vůle
+      - Zákon - nejslabší dědický titul
+        - pokud není platné DS nebo Z, nastupuje intestátní posloupnost - 6 dědických tříd
+        - 1- děti, manžel
+        - 2- Manžel, rodiče,
+        - 3- sourozenci, spolužijící v domácnosti minimálně po dobu 1 roku
+        - Další nejsou podstatné
+  - **Odkaz a dovětek**
+    - **Odkaz** - zůstavitel může povolat odkazovníka, kterému něco odkáže (právo nebo věc), jedná se o výjimku z univerzálně dědické sukcese - přechází pouze práva a odkazovní neručí za dluhy zůstavitele, odkazovní není dědicem! (může se však stát dědicem, pokud není jiných dědiců a on jediný je odkazovníkem)
+      - lze zřídit jak ve prospěch osoby právnické tak i fyzické
+      - dědictví potvrzuje soud, odkaz však uplatňuje odkazovník přímo vůči dědicům bez soudní ingerence - zůstavitel tak fakticky zřídil pohledávku odkazovníka vůči dědicům
+      - zřídí se tak, že se určitému dědici nařídí, aby vydala obsah odkazu odkazovníkovi
+      - odkazovníkem může být určen pouze ten, kdo je způsobilý dědit
+      - každému dědici musí zůstat alespoň 1/4 dědictví odkazy neobtížená
+    - **Dovětek** - dalším pořízením pro případ smrti, neustanovuje se jím však dědic, ale zůstavitel v něm činí různá opatření - zřízení odkazu, zatížení dědice nebo odkazovníka (pododkaz) příkazem a podobně.
+      - použijí se na něj stejná ustanovení jako na závěť
+      - může být pořízen současně se závětí, nebo samostatně
+  - **Vykonavatel závěti a správce pozůstalosti**
+    - Vykonavatel - hledí na dodržování zůstavitelovi vůle a jeho pokynů, může namítat nezpůsobilost etc.
+    - Správce pozůstalosti - spravuje majetek v pozůstalosti, řídí se příkazy vykonavatele
+  - **Procesní aspekty pozůstalostního řízení**
+    - Zahajuje se na návrh dědice, nebo ve chvíli, kdy matriční úřad oznámí soudu úmrtí zůstavitele.
+      - Skládá se v podstatě ze dvou fází.
+      - 1- předběžné řízení -> zjišťuje se jmění zůstavitele, okruh dědiců, z evidence Právních jednání pro případ smrti se zjišťuje, zda po sobě zůstavitel nezanech listiny důležité v řízení o pozůstalosti -> tedy například závěť či dovětek, je potřeba říct, že majetek ale notář sám nevyhledává, je potřeba ho určit -> zpravidla osoba, která vypravuje pohřeb
+      - 2- jednání u soudního komisaře -> jímž je soudem pověřený notář -> pozůstalost se rozdělí mezi jednotlivé dědice, podle dohody dědiců, podle zákonných dědických podílů, nebo podle přání zůstavitele. Notář následně vydá usnesení jímž pozůstalostní řízení končí
+    - Převod NM - zapíše se do KN zpětně ke dni úmrtí zůstavitele.
+  - **Dědická substituce a svěřenské nástupnictví**
+    - Dědická substitute (obecné náhradnictví) - v případě, že by dědic dědictví nenabyl (například kvůli úmrtí), je mu možné povolat náhradního dědice, který bude dědit místo něj
+      - Nabude-li dědictví dědic, náhradnictví zaniká
+    - Svěřenské nástupnictví - dědic povolá následníka přednímu dědici, dědic je pak obecně jen poživatel (držet a užívat a má nárok na plody a užitky, nesmí s ním však nakládat), například po úmrtí, nebo po splnění nějaké podmínky, má přední dědic povinnost vydat dědictví svému nástupci
+      - nařízení zůstavitele, aby přední dědic (fiduciář) přenechal dědictví nebo jeho část po své smrti nebo při splnění jiné podmínky jinému, následnému dědici, který se označuje jako svěřenský nástupce (fideikomisář).
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
