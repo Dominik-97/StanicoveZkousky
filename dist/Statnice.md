@@ -2070,6 +2070,36 @@ Požívací a užívací právo.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Smlouvy**
+  - **Obecně**
+    - Právní důvod vzniku závazku
+    - Právní vztah, jimiž strany projevují vůli zřídit mezi sebou závazek a řídit se obsahem tohoto závazku (smlouvy)
+      - Ustanovení o smlouvě se použijí obdobně i na projev vůle, kterým se jedna osoba obrací na jiné osoby (ledaže je to vyloučeno povahou dané vůle nebo zákonem)
+    - Pokud je při témžě právním jednání uzavřeno několik smluv, nebo pokud je do jedné listiny zahrnuto více smluv -> posuzují se samostatně, ledaže jsou na sobě závislé -> pak se posuzují společně co do vzniku a zániku
+    - **Princip svobodného jednání o smlouvě a neexistence povinnosti smlouvu uzavřít** -> nikdo neodpovídá za to, že neuzavře smlouvu, je to každého právo
+      - 1- Výjimka je, pokud jednání zahájil s úmyslem smlouvu neuzavřít -> pak je možné dovodit odpovědnost (domnívám se, že například za škodu)
+      - 2- Druhou výjimkou je, pokud strana smlouvu neuzavře bez spravedlivého důvodu, přesto, že se v jejím vyjednávání dostaly obě strany velice daleko a uzavření smlouvy se zdálo jisté -> odpovědnost za škodu
+    - **Povinnost sdělit si mezi stranami podstatné skutkové a právní okolnosti** -> kvůli možnosti "kvalifikovaně" se rozhodnout
+  - **Uzavírání smlouvy**
+    - Základní způsob uzavření smlouvy spočívá v:
+      - 1- Učinění návrhu na uzavření smlouvy (jinak také oferta)
+        - **Náležitosti**
+          - Právní jednání směřující k uzavření smlouvy = **nabídka**
+          - Musí existovat zřejmá existence úmyslu navrhovatele uzavřít smlouvu s osobou, které činí nabídku
+          - Musí obsahovat podstatné náležitosti smlouvy a vůli navrhovatel být nabídkou vázán, bude-li přijata
+            - VEDLEJŠÍ (Za nabídku se však dá považovat i reklama v katalogu, nebo vystavení zboží (při podnikatelské činnosti))
+          - Pokud právní jednání neobsahuje výše uvedené = nejedná se o nabídku a nemůže být přijata
+          - **Veřejný příslib a výzva k podání nabídky**
+            - Nabídku je možné učinit rovně ve formě takzvaného **veřejného příslibu** -> obsahuje li projev vůle nabízejícího slib plnění za určitý výkon či výsledek (Kdo najde mého psa, vyplatím mu odměnu ve výši 5000 korun českých).
+      - 2- Přijetí návrhu (nabídky) na uzavření smlouvy -> účinnost smlouvy (jinak také akceptace)
+    - Jsou i další způsoby uzavření smlouvy - zvláštní způsoby uzavírání smlouvy
+      - 1- Dražba
+      - 2- Veřejná soutěž o nejvhodnější nabídku
+      - 3- Veřejná nabídka
+
+
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
