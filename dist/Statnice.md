@@ -1581,7 +1581,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
 - [x] Vlastnické právo
 - [ ] Ochrana vlastnického práva
 - [ ] Spoluvlastnictví
@@ -1684,7 +1684,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
 - [ ] Držba
 - [ ] Detence
 - [ ] Věcná práva k věci cizí
@@ -1911,7 +1911,7 @@ Požívací a užívací právo.
     - [x] Subjekty a strany
     - [x] Předmět
     - [x] Obash
-  - [ ] Společné závazky
+  - [x] Společné závazky
   - [x] Vznik závazků
 
 \|--------------\| <br>
@@ -1947,7 +1947,7 @@ Požívací a užívací právo.
         - z právního pohledu je dlužníkem každý subjekt povinný (něco dát, udělat, …) a věřitelem subjekt oprávněný (požadovat aby dlužník něco dal, konal, …) - povinnost dlužníka se tedy z právního hlediska týká i nepěněžitého plnění
       - **Charakteristické rysy závazkových vztahů**
         - Relativní subjektivní práva *inter partes*
-  
+
   - **Třídění závazků**
     - podle důvodu vzniku lze závazky třídit na:
       - z právního jednání (dvoj, či vícestranného)
@@ -2013,12 +2013,28 @@ Požívací a užívací právo.
   - A další, například:
     - Narovnnání, novace, započtení, prominutí, výpovědí, odstoupením (smlouva se od počátku ruší - povinnost vrátit si plnění)
 - **Společné smlouvy**
-  - Doplnit
+  - alespoň na jedné straně je více než 1 účastník
+  - pluralita subjektů - ti se musí ve smlouvě zavázat ke společnému plnění
+    - na straně věřitele
+    - na straně dlužníka
+    - na obou stranách
+  - vztahy mezi stranami se liší podle druhu závazku:
+    - dílčí závazek - každý dlužní dluží svůj díl a každý věřitel je věřitelem jen svého dílu
+    - nedílný závazek - celé plnění může věřitel požadovat po jednom dlužníkovi, ale závazek může mít takovou povahu, že jsou ho schopni plnit jen všichni spoludlužníci dohromady - pak věřitel nemůže požadovat plnění jen po jednom - to je ten rozdíl oproti solidárnímu závazku
+    - solidární závazek - společně a nerozdíle (jeden za všechny, všichni za jednoho) mohou být oprávněni jak věřitelé, tak mohou být i povinni dlužníci -> pokud jeden dlužník splní, má právo požadovat náhradu od ostatních společných dlužníků
+  - druh závazku primárně závisí na vůli smluvních stran a na předmětu plnění (zda je nebo není dělitelný)
+  - druh společného závazku může určit zákon nebo soud
+  - důvodem samostatné právní úpravy je vznik složitějších právních situací
+  - navazuje na dosavadní právní úpravu
+  - NOZ - obecná ustanovení - § 1868 a následující
+    - §1868
+      - (1) Zaváže-li se několik dlužníků k témuž plnění, nebo zaváže-li se dlužník několika věřitelům k témuž plnění, spravují se společný dluh i společná pohledávka podle zásad o spoluvlastnictví.
+      - (2) Je-li na jedné ze stran více osob, má druhá strana právo požadovat určení společného zástupce pro účely doručování. Neučiní-li tak, určí tohoto zástupce na návrh soud.
 
 
 
-          ~~- Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.~~
-          ~~- Věcné a závazkové právo, právo hmotné a procesní.~~
+~~- Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.~~
+~~- Věcné a závazkové právo, právo hmotné a procesní.~~
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -2036,6 +2052,11 @@ Požívací a užívací právo.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+- [ ] Smlouvy
+  - [ ] Uzavírání smluv
+  - [ ] Formování jejich obsahu
+  - [ ] Jejich forma a účinky
+- [ ] Smlouva o smlouvě budoucí
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2441,7 +2462,7 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
 - [ ] Subjekty civilního procesu
 - [ ] Procesní úkony
 
@@ -2568,7 +2589,7 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
 - [ ] Jednání
 - [ ] Dokazování
 
@@ -2686,7 +2707,8 @@ Instance
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
+- [ ] Alternativní řešení sporů
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
