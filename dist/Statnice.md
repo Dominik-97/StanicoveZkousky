@@ -1906,13 +1906,13 @@ Požívací a užívací právo.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Závazek
-  - [ ] Struktura
-    - [ ] Subjekty a strany
-    - [ ] Předmět
-    - [ ] Obash
+- [x] Závazek
+  - [x] Struktura
+    - [x] Subjekty a strany
+    - [x] Předmět
+    - [x] Obash
   - [ ] Společné závazky
-  - [ ] Vznik závazků
+  - [x] Vznik závazků
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1952,14 +1952,24 @@ Požívací a užívací právo.
     - podle důvodu vzniku lze závazky třídit na:
       - z právního jednání (dvoj, či vícestranného)
       - z deliktu porušení povinosti (smluvní či zákonné)
-      - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
+        - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
       - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
   - **Vznik závazků**
     - viz třídění závazků
       - ze smlouvy
         - SIDE NOTE - **uzavření smlouvy adhezním způsobem** - typ smlouvy "ber a nebo nech být", druhá strana nemá možnost ovlivnit obsah smlouvy
-      - ze zákona
+        - Smlouva je nejběžnější
+          - Proces - zjednodušeně
+            - 1- návrh na uzavření smlouvy
+            - 2- uzavření smlouvy - nabitím účinnosti - tedy přijetí (samozřejmě může být určen čas, nebo jiná podmínka)
+          - Příklady smluv:
+            - kupní, darovací, o dílo, zápůjčka, výpůjčka - bezplatná, nájemní smlouva, pacht, úschova, o ubytování, o přpravě osob a věcí a další **inominátní smlouvy**
+          - Existují další způsoby uzavření smluv než klasická - nabídka a přijetí
+            - dražba - příklepem, veřejná soutěž o nejvýhodnější nabídku, veřejná nabídka
+          - Možnost ke smlouvě stanovit obchodní podmínky, co je ale ve smlouvě má přednost
+      - ze zákona - standardně z nějakého protiprávního činu
       - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá - například z bezdůvodného obohacení
+        - Ustanovení o závazcích, které vznikají ze smluv, se použijí přiměřeně i na závazky vznikající na základě jiných právních skutečností.
   - **Obash závazků**
     - Souvisí s **druhy právních povinností** - neboť ze závazku plyne jedné straně povinnost
       - něco dáti
@@ -1971,6 +1981,7 @@ Požívací a užívací právo.
       - Rovnosti stran
       - Smluvní svobody (jen výjimečně je povinnost uzavřít smlouvu - například účetní)
       - Svobody uzavřít smlouvu
+      - Zásada sdělení informací při uzavírání smlouvy
       - Svoboda výběru druhé strany
       - Svoboda uzavřít i jiné než **nominátní** smlouvy - **inominátní**
       - Svoboda tvorby obsahu smlouvy - navazuje na autonomii vůle
@@ -1987,16 +1998,22 @@ Požívací a užívací právo.
   - Pokud bylo plnění v obchodě (tedy spotřebitel X podnikatel) - pokud se do 6 měsíců objeví chyby -> vyvratitelná právní domněnka, že daná věc byla vadná již při převzetí
     - Pokud je vada ostranitelná -> možnost domáhat se opravy, doplnění toho co chybí, nebo přiměřené slevy z ceny
     - Pokud je vada neodstranitelná a nelze-li kvůli ní předmět správně užívat -> odstoupení od smlouvy, nebo přiměřená sleva z ceny
+  - Dlužník však ze zákona odpovídá pouze za vady, které měl předmět v době předání.
+    - Pro záruku, že si předmět udrží sjednané vlastnosti po nějakou dobu -> potřeba sjednat **záruku za jakost** - například při prodeji spotřebitel X podnikatel automaticky 2 letá záruka za jakost
 - **Struktura závazku**
-  - Subjekty - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
-  - Objekty
-  - Obsah
-
-
-
-
-
-
+  - **Subjekty** - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
+  - **Objekty** - Neboli předměty, kterých se daná smlouva týká - Plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový.
+  - **Obsah** - práva a povinnosti ujednané mezi stranami
+- **Zánik závazků**
+  - Řádným splněním - *soluce*
+  - Uplynutím doby - záleží zda prekluze, nebo promlčení
+  - Dohodou - *disoluce*
+  - Pokud je znemožněno plnění
+  - Smrtí dlužníka - v případě omezení pouze na danou osobu
+  - A další, například:
+    - Narovnnání, novace, započtení, prominutí, výpovědí, odstoupením (smlouva se od počátku ruší - povinnost vrátit si plnění)
+- **Společné smlouvy**
+  - Doplnit
 
 
 
