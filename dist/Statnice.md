@@ -1924,6 +1924,7 @@ Požívací a užívací právo.
 
 - **Závazek**
   - **Relativní majetková práva plynou ze závazků**
+  - předmětem závazkového práva je závazek
   - Závazek čili obligace (též závazkový právní poměr)
   - Jedná se o součást soukromého práva, je tvořeno systémem norem upravujících závazky
     - Právní norma = obecně závazné pravidlo chování, jehož zachování je vynutitelné státní mocí a je vyjádřeno ve zvláštní stanovené formě
@@ -1933,6 +1934,7 @@ Požívací a užívací právo.
   - Právo věřitele na určité plnění dlužníka je pohledávka (§1721), které obsahově totožně odpovídá povinnosti dlužníka – dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označováno jako nárok.
   - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standardně třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
     - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
+    - výjimku by mohli samozřejmě tvořit bezúplatné smlouvy
   - **Pojem závazek**
     - používá se pro označení:
       - závazkového právního vztahu (například vztah ze smlouvy, ale i závazek z porušení práva)
@@ -1954,8 +1956,10 @@ Požívací a užívací právo.
       - z deliktu porušení povinosti (smluvní či zákonné)
         - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
       - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
+      - DOPLNIT DALŠÍ TŘÍDĚNÍ
   - **Vznik závazků**
     - viz třídění závazků
+    - tedy právní důvod existence závazku
       - ze smlouvy
         - SIDE NOTE - **uzavření smlouvy adhezním způsobem** - typ smlouvy "ber a nebo nech být", druhá strana nemá možnost ovlivnit obsah smlouvy
         - Smlouva je nejběžnější
@@ -1963,7 +1967,7 @@ Požívací a užívací právo.
             - 1- návrh na uzavření smlouvy
             - 2- uzavření smlouvy - nabitím účinnosti - tedy přijetí (samozřejmě může být určen čas, nebo jiná podmínka)
           - Příklady smluv:
-            - kupní, darovací, o dílo, zápůjčka, výpůjčka - bezplatná, nájemní smlouva, pacht, úschova, o ubytování, o přpravě osob a věcí a další **inominátní smlouvy**
+            - kupní, darovací, o dílo, zápůjčka, výpůjčka - bezplatná, nájemní smlouva, pacht, úschova, o ubytování, o přpravě osob a věcí a další **inominátní smlouvy**, smlouva se vždy posuzuje podle svého obsahu, nikoli podle svého názvu
           - Existují další způsoby uzavření smluv než klasická - nabídka a přijetí
             - dražba - příklepem, veřejná soutěž o nejvýhodnější nabídku, veřejná nabídka
           - Možnost ke smlouvě stanovit obchodní podmínky, co je ale ve smlouvě má přednost
