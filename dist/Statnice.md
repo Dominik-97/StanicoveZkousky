@@ -1927,7 +1927,10 @@ Požívací a užívací právo.
   - Jedná se o součást soukromého práva, je tvořeno systémem norem upravujících závazky
     - Právní norma = obecně závazné pravidlo chování, jehož zachování je vynutitelné státní mocí a je vyjádřeno ve zvláštní stanovené formě
   - Upraveno ve čtvrté části OZ - relativní majetková práva
-  - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel).
+  - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel) - je to vynutitelný a chráněný vztah.
+    - Uznání principu závazku je jedním ze základních a nezbytných předpokladů platnosti práva. Závazek (obligace) je v právu individuální vztah mezi dvěma či více (fyzickými nebo právnickými) osobami, který dlužníka zavazuje vůči věřiteli k určitému plnění, což je povinnost něco dát, něco konat, něčeho se zdržet nebo něco strpět.
+    - Právo věřitele na určité plnění dlužníka je pohledávka (§1721), které obsahově totožně odpovídá povinnosti dlužníka –
+dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označováno jako nárok.
   - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
     - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
   - **Pojem závazek**
@@ -1963,7 +1966,7 @@ Požívací a užívací právo.
   - **Zásady smluvního práva**
     - Zejména jde o zásady
       - Rovnosti stran
-      - Smluvní svobody
+      - Smluvní svobody (jen výjimečně je povinnost uzavřít smlouvu - například účetní)
       - Svobody uzavřít smlouvu
       - Svoboda výběru druhé strany
       - Svoboda uzavřít i jiné než **nominátní** smlouvy - **inominátní**
@@ -1975,7 +1978,10 @@ Požívací a užívací právo.
       - pro posuzování práva a vykládání norem
       - výkladové pravidlo *analogie legis* pokud právo nelze nalézt/aplikovat pomocí jedné normy, použije se norma obdobná
       - další výkladové pravidlo potom je *analogie juris* = ta právě vychází ze zásad -> pokud není podobné pravidlo, posoudní se podle principů spravedlnosti a **zásad** -> zásady takto mohou vyplňovat mezery v zákoně
-
+- **Struktura závazku**
+  - Subjekty - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
+  - Objekty
+  - Obsah
 
 
 
