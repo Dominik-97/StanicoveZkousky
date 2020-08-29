@@ -2091,6 +2091,10 @@ Požívací a užívací právo.
           - Pokud právní jednání neobsahuje výše uvedené = nejedná se o nabídku a nemůže být přijata
           - **Veřejný příslib a výzva k podání nabídky**
             - Nabídku je možné učinit rovně ve formě takzvaného **veřejného příslibu** -> obsahuje li projev vůle nabízejícího slib plnění za určitý výkon či výsledek (Kdo najde mého psa, vyplatím mu odměnu ve výši 5000 korun českých).
+            - Pokud neobsahuje slib plnění, jedná se o výzvu k podání nabídky
+          - **Zrušení a odvolání nabídky**
+            - Nabídka muže být učiněna jako neodvolatený projev vůle (tady je dobré zmínit, že toto může plynout i například z jednoho z pramenů obchodního práva, a to z **obchodních zvyklostí**) -> i tak lze zrušit, pokud zrušení dojde druhé straně dříve, nebo současně s doručením nabídky.
+
       - 2- Přijetí návrhu (nabídky) na uzavření smlouvy -> účinnost smlouvy (jinak také akceptace)
     - Jsou i další způsoby uzavření smlouvy - zvláštní způsoby uzavírání smlouvy
       - 1- Dražba
