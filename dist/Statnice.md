@@ -1923,15 +1923,15 @@ Požívací a užívací právo.
 \|------------------------------\| <br>
 
 - **Závazek**
+  - **Relativní majetková práva plynou ze závazků**
   - Závazek čili obligace (též závazkový právní poměr)
   - Jedná se o součást soukromého práva, je tvořeno systémem norem upravujících závazky
     - Právní norma = obecně závazné pravidlo chování, jehož zachování je vynutitelné státní mocí a je vyjádřeno ve zvláštní stanovené formě
   - Upraveno ve čtvrté části OZ - relativní majetková práva
   - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel) - je to vynutitelný a chráněný vztah.
     - Uznání principu závazku je jedním ze základních a nezbytných předpokladů platnosti práva. Závazek (obligace) je v právu individuální vztah mezi dvěma či více (fyzickými nebo právnickými) osobami, který dlužníka zavazuje vůči věřiteli k určitému plnění, což je povinnost něco dát, něco konat, něčeho se zdržet nebo něco strpět.
-    - Právo věřitele na určité plnění dlužníka je pohledávka (§1721), které obsahově totožně odpovídá povinnosti dlužníka –
-dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označováno jako nárok.
-  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standarndě třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
+  - Právo věřitele na určité plnění dlužníka je pohledávka (§1721), které obsahově totožně odpovídá povinnosti dlužníka – dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označováno jako nárok.
+  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standardně třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
     - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
   - **Pojem závazek**
     - používá se pro označení:
@@ -1945,6 +1945,9 @@ dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označová
       - **Pojem věřitel a dlužník**
         - v hovorové češtině se zpravidla jako dlužník označuje ten, kdo jinému (věřiteli) dluží peníze
         - z právního pohledu je dlužníkem každý subjekt povinný (něco dát, udělat, …) a věřitelem subjekt oprávněný (požadovat aby dlužník něco dal, konal, …) - povinnost dlužníka se tedy z právního hlediska týká i nepěněžitého plnění
+      - **Charakteristické rysy závazkových vztahů**
+        - Relativní subjektivní práva *inter partes*
+  
   - **Třídění závazků**
     - podle důvodu vzniku lze závazky třídit na:
       - z právního jednání (dvoj, či vícestranného)
@@ -1956,7 +1959,7 @@ dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označová
       - ze smlouvy
         - SIDE NOTE - **uzavření smlouvy adhezním způsobem** - typ smlouvy "ber a nebo nech být", druhá strana nemá možnost ovlivnit obsah smlouvy
       - ze zákona
-      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá
+      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá - například z bezdůvodného obohacení
   - **Obash závazků**
     - Souvisí s **druhy právních povinností** - neboť ze závazku plyne jedné straně povinnost
       - něco dáti
@@ -1978,6 +1981,12 @@ dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označová
       - pro posuzování práva a vykládání norem
       - výkladové pravidlo *analogie legis* pokud právo nelze nalézt/aplikovat pomocí jedné normy, použije se norma obdobná
       - další výkladové pravidlo potom je *analogie juris* = ta právě vychází ze zásad -> pokud není podobné pravidlo, posoudní se podle principů spravedlnosti a **zásad** -> zásady takto mohou vyplňovat mezery v zákoně
+- **Vadné plnění**
+  - Může se stát, že dlužník splní svůj dluh vadně - například obejkt (předmět plnění) nemá stanovené nebo ujednané vlastnosti -> v takové případě vznikají věřiteli **práva z vadného plnění, bylo-li zboží úplatné**
+    - Nutnost vadu vytknout maximálně 6 měsíců od převzetí
+  - Pokud bylo plnění v obchodě (tedy spotřebitel X podnikatel) - pokud se do 6 měsíců objeví chyby -> vyvratitelná právní domněnka, že daná věc byla vadná již při převzetí
+    - Pokud je vada ostranitelná -> možnost domáhat se opravy, doplnění toho co chybí, nebo přiměřené slevy z ceny
+    - Pokud je vada neodstranitelná a nelze-li kvůli ní předmět správně užívat -> odstoupení od smlouvy, nebo přiměřená sleva z ceny
 - **Struktura závazku**
   - Subjekty - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
   - Objekty
