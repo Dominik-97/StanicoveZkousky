@@ -2238,7 +2238,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - pokud má spotřebitel právo odstoupit od smlouvy -> nelze toto odstoupení spojit s postihem a spotřebitel rovněž nemusí uvádět důvod odstoupení
   - **Uzavírání smluv distančním způsobem**
     - Jedná se o jednání směřující k uzavření smlouvy prostřednictvím prostředku komunikace na dálku, bez nutnosti fyzické přítomnosti stran, nebo jednání směřujícího k uzavření smlouvy mimo obvyklé prostory podnikatele
-    - Ustanovení Pododdílu 1 Uzavírání smluv distančním způsobem se nepoužije na určité druhy smluv - ty zákon taxativně vymezuje - například smlouva o poskytování zdravotní péče
+    - Ustanovení Pododdílu 1 Uzavírání smluv distančním způsobem se nepoužije na určité druhy smluv - ty zákon taxativně vymezuje - například smlouva o poskytování zdravotní péče, či smlouva o finanční službě (O té viz níže.).
     - Podnikatel má v tomto případě opět poměrně rozsáhlou **informační povinnost**, zákon taxativně stanovuje, s čím musí v takovémto případě podnikatel spotřebitele v časovém předstihu obeznámit - například náklady spojené s jednáním na dálku, povinnost zaplatit zálohu etc.
       - Pokud podnikatel neseznámil spotřebitele s dodatečnými poplatky, daněmi etc. spojenými s tímto druhem jednání a například s následným plněním (dodáním) statku -> spotřebitel je není povinen uhradit.
       - V případě spolu leží důkazní břemeno ohledně toho, že spotřebitele seznámil na podnikateli
@@ -2254,6 +2254,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Zákon však taxativně vymezuje případy, kdy spotřebitel od smlouvy odstoupit nemůže -> například pokud je předmětem smlouvy zboží podléhající rychlé zkáze, z hygienických důvodů etc.
     - **Neobjednané plnění**
       - Pokud podnikatel dodal neobjednané zboží -> spotřebitel ho nemusí na svoje náklady vracet, ani na to podnikatele upozorňovat
+    - **Smlouvy o finančních službách**
+      - Doplnit
 
 
 
