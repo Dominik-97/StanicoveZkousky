@@ -2227,7 +2227,21 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Musí spotřebitele informovat o hodně záležitostech - ty jsou taxativně vymezeny - jedná se například o identifikaci podnikatele, popis zboží, spotřebitelova práva z vadného plnění etc.
     - výjimkou je smlouva o vyřizování záležitostí každodenního života, přičemž tato záležitost bude podnikatelem hned vykonána - domnívám se, že zde se jedná například o pultový prodej, dále se nepoužije na finanční služby
   - **Ochrana spotřebitele**
-    - 
+    - Ochrana spotřebitele je v rámci spotřebitelských smluv zásadním znakem
+    - Pro spotřebitele se užije nejpříznivější možný výklad
+    - Jsou zakázána ustanovení odchylující se od zákona o ochraně spotřebitele - absolutní neplatnost
+    - Spotřebitel se rovněž svých práv nemůže vzdát
+    - Jsou zakázána ujednání zakládající nerovnováhu práv nebo povinností v neprospěch spotřebitele - není absolutní, pokud je s tím spotřebitel dostatečně obeznámen a souhlasí s tím -> jsou taková ujednání platná, rovněž nejsou neplatná, pokud se jich spotřebitel dovolá (Proč by to ale dělal?)
+    - § 1814 taxativně vymezuje zakázaná ujednání ve spotřebitelských smlouvách - například omezení ustanovení týkajících se práv z vadného plnění, odpovědnosti za škodu etc.
+    - V případě, že byla smlouva uzavřena **distančním způsobem**, nebo se smlouva týká **rekreačních služeb** a část kupní ceny bylo financováno pomalu zápůjčky, nebo úvěru poskytnutých podnikatelem, nebo jeho smluvním partnerem -> může spotřebitel odstoupit od smlouvy, tím odstoupí i od smlouvy o zápůjčce nebo úvěru -> není možné za toto ukládat sankce
+      - pokud se nejedná o výše uvedené smlouvy - v základu se rovněž použije, je ho ale možné vyloučit
+    - pokud má spotřebitel právo odstoupit od smlouvy -> nelze toto odstoupení spojit s postihem a spotřebitel rovněž nemusí uvádět důvod odstoupení
+  - **Uzavírání smluv distančním způsobem**
+    - Jedná se o jednání směřující k uzavření smlouvy prostřednictvím prostředku komunikace na dálku, bez nutnosti fyzické přítomnosti stran, nebo jednání směřujícího k uzavření smlouvy mimo obvyklé prostory podnikatele
+    - Podnikatel má v tomto případě opět poměrně rozsáhlou **informační povinnost**, zákon taxativně stanovuje, s čím musí v takovémto případě podnikatel spotřebitele v časovém předstihu obeznámit - například náklady spojené s jednáním na dálku, povinnost zaplatit zálohu etc.
+      - Pokud podnikatel neseznámil spotřebitele s dodatečnými poplatky, daněmi etc. spojenými s tímto druhem jednání a například s následným plněním (dodáním) statku -> spotřebitel je není povinen uhradit.
+    - **Obsah smlouvy uzavírané distančním způsobem**
+      - Doplnit
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
