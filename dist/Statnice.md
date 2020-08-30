@@ -2318,8 +2318,28 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - 3- Převzetí majetku
     - **Převzetí dluhu**
       - Ujednání dlužníka se třetí osobou, že převezme jeho dluh, respektive nastoupí na jeho místo jako dlužníka - k účinnosti je nutný souhlas věřitele
+      - Doplnit
+    - **Přistoupení k dluhu**
+      - Doplnit
+    - **Převzetí majetku**
+      - Doplnit
   - **Postoupení smlouvy**
     - Podstatný rozdíl od postoupení pohledávky - smlouva je celý právní důvod závazku, pohledávka je pouze právo věřitele ze závazku
+  - **Změny v obsahu závazků**
+    - **Novace**
+    - **Narovnání**
+- **Zajištění a utvrzení dluhu**
+  - **Jistota**
+  - **Zajištění**
+    - **Ručení**
+    - **Finanční záruka**
+    - **Zajišťovací převod práva**
+    - **Dohoda ze srážkách ze mzdy nebo jiných příjmů**
+    - Osobně bych se klonil ještě k notářskému zápisu s přímou vykonavatelností - vyplývá z něj přímo exekuční titul
+  - **Utvrzení dluhu**
+    - **Smluvní pokuta**
+      - Domnívám se, že nesmí být sjednán úrok společně se smluvní pokutou?
+    - **Uznání dluhu**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
