@@ -2094,8 +2094,17 @@ Požívací a užívací právo.
             - Pokud neobsahuje slib plnění, jedná se o výzvu k podání nabídky
           - **Zrušení a odvolání nabídky**
             - Nabídka muže být učiněna jako neodvolatený projev vůle (tady je dobré zmínit, že toto může plynout i například z jednoho z pramenů obchodního práva, a to z **obchodních zvyklostí**) -> i tak lze zrušit, pokud zrušení dojde druhé straně dříve, nebo současně s doručením nabídky.
-
+            - Nabídku lze i odvolat -> i v době po obdržení nabídky, pokud je ve smlouvě tato možnost vyhrazena
+          - **Zánik nabídky**
+            - Účinností odmítnutí
+            - Dále úmrtí, omezení svéprávnosti, zánik (PO)
       - 2- Přijetí návrhu (nabídky) na uzavření smlouvy -> účinnost smlouvy (jinak také akceptace)
+        - **Náležitosti**
+          - Přijetí nabídky -> ve chvíli kdy je včas (například ve lhůtě) projeven souhlas nabídku přijmout (mlčení, nebo nečinnost zpravidla není souhlas), ale lze přijmout i konkludentně (například při obchodních zvyklostech)
+          - Přijetí se změnami -> jedná se o nový souhlas
+          - Pokud je nabídka určena více lidem a z povahy nabídky navrhovatel chce, aby všichni lidi nabídku přijali -> považuje se za přijatou přijetím všech oslovených
+          - Přijetí lze zrušit - pokud zrušení přijde alespoň současně s přijetím nabídky
+          - Smlouva je uzavřena okamžikem účinnosti přijetí
     - Jsou i další způsoby uzavření smlouvy - zvláštní způsoby uzavírání smlouvy
       - 1- Dražba
       - 2- Veřejná soutěž o nejvhodnější nabídku
