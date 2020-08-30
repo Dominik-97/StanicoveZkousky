@@ -2303,6 +2303,13 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
   - Zákon upravuje následující změny závazků:
     - 1- Změna v osobě dlužníka či věřitele
     - 2- Změny v obsahu závazku
+  - **Změna v osobě věřitele**
+    - **Postoupení pohledávky**
+      - Věřitel (postupitel) může celou, nebo část pohledávky postoupit postupníkovi i bez souhlasu dlužníka.
+      - Postoupením pohledávky nabýva postupník také její příslušenství (například úroky) a jiná práva s pohledávkou spojená - například **zajištění** pohledávky.
+      - Postoupit lze pohledávku, kterou lze zcizit - toto zcizení nesmí být vyloučeno právním jednáním mezi věřitelem a dlužníkem, rovněž nelze postoupit pohledávku, která zaniká smrtí, nebo pokud by se postoupením výrazně zhoršilo postavení dlužníka.
+      - Dokud dlužník nemá informaci (od postupitele nebo postupníka) o postoupení, může svůj dluh plnit i postupitelovi.
+      - Pokud postupitel postoupil pohledávku několika osobám -> je vůči dlužníkovi účinné to postoupení, o kterém se dozvěděl nejdříve.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
