@@ -2099,7 +2099,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
   - [x] Uzavírání smluv
   - [x] Formování jejich obsahu
   - [x] Jejich forma a účinky
-- [ ] Smlouva o smlouvě budoucí
+- [x] Smlouva o smlouvě budoucí
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2157,7 +2157,12 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Druhá strana závazku je chráněna před **neočekávanými podmínkami v OP** pokud je výslovně nepřijala
     - **Obsah smlouvy**
       - Vzniká závazev s **právní povinností**, dát, zdržet se, strpět, nebo vykonat, viz výše
+      - Samotný OZ ale obecně nestanoví krom faktického obashu a předmětu závazku žádné další specifické požadavky například na identifikaci subjektů -> povinnost zřejmě plyne z **informačního principu**, *analogie legis* by se dalo použít ustanovení popisující nutný obash smluv uzavíraných se spotřebitelem
       - Měla by obsahovat důvod pro který dlužník plní věřiteli - pokud neobsahuje, nebrání to jejímu vzniku a trvání, věřitel je ho ale povinen v případě nutnosti prokázat -> určité druhy závazků tuto povinnost nekladou (například závazek z cenného papíru)
+      - Pokud se jedná o plnění za úplatu -> měla by být vyjádřena cena, jinak cena obvyklá
+      - Obsah smlouvy nesmí být v **hrubém nepoměru** -> pak je možné požadovat zrušení a vrácení plnění, nebo doplnění plnění -> neplatí, pokud strana vědomě s nepoměrným plněním souhlasila, objektní lhůta 1 rok
+      - Obash smlouvy je naplatný také pokud se jedná o **licvhu** -> zneužití postavení druhé strany k plnění v hrubém nepoměru -> na podnikatele se nevztahuje
+      - Smlouva může být obsahem **smlouvou adhezní** -> ber nebo nech být, slabší strana je ale chráněna před zneužitím OP, nebo doložek k újmě slabší strany
   - **Forma smlouvy a její účinky**
     - Smlouva může být uzavřena jak **ústně**, tak i **písemně**
       - V případě ústní - podstatná je vůle stran ujednat podstatné náležitosti smlouvy
