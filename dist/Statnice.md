@@ -2037,7 +2037,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
   - Pokud je znemožněno plnění
   - Smrtí dlužníka - v případě omezení pouze na danou osobu
   - A další, například:
-    - Narovnnání, novace, započtení, prominutí, výpovědí, odstoupením (smlouva se od počátku ruší - povinnost vrátit si plnění)
+    - Narovnnání, novace, započtení, prominutí, výpovědí, odstoupením (smlouva se od počátku ruší - povinnost vrátit si plnění), adresované X neadresované
 - **Společné smlouvy**
   - alespoň na jedné straně je více než 1 účastník
   - pluralita subjektů - ti se musí ve smlouvě zavázat ke společnému plnění
@@ -2097,8 +2097,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|---------\| <br>
 - [x] Smlouvy
   - [x] Uzavírání smluv
-  - [ ] Formování jejich obsahu
-  - [ ] Jejich forma a účinky
+  - [x] Formování jejich obsahu
+  - [x] Jejich forma a účinky
 - [ ] Smlouva o smlouvě budoucí
 
 \|--------------\| <br>
@@ -2149,8 +2149,34 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - 2- Veřejná soutěž o nejvhodnější nabídku -> výzva k podávání nabídek (lze zrušit pouze pokud je tato možnost vyhrazena), vyhlašovatel si vybírá tu z nabídek, která mu nejvíce vyhovuje, může odmítnout i všechny pokud si to vyhradí
       - 3- Veřejná nabídka -> navrhovatel uveřejní nějakou nabídku -> ta je uzavřena s osobou, která nabídku přijme, popřípadě pokud přijme více osob s tou, kterou si navrhovatel vybere, popřípadě se všemi osobami
   - **Formulování obsahu smlouvy**
-    - Doplnit
-
+    - **Nominátní smlouvy** - posoudí se podle obsahu a jejich forma (tedy i obsahové náležitosti) jsou vymezeny ke každé pojmenované smlouvě
+    - **Inominátní smlouvy** - občanský zákoník stanovuje základní obsahové náležitosti obecně
+    - Část obsahu smlouvy může být ujednán i dodatečně, dohodnou-li se tak strany, má se za to, že doplnění je podmínkou účinnosti uzavřené smlouvy, zákon stanoví dispozitivní lhůtu 1 rok pro doplnění, jinak se smlouva ruší
+    - Část obsahu smlouvy může být stanovena v obchodních podmínkách (smlouva má však vždy přednost při nesouladu OP se smlouvou)
+      - Pokud je to ujednáno a pokud strana v běžném obchodním styku uzavírá smlouvy s větším počtem osob -> je možné z rozumných důvodů OP změnit -> musí být však ujednána možnost v takovém případě smlouvu vypovědět
+      - Druhá strana závazku je chráněna před **neočekávanými podmínkami v OP** pokud je výslovně nepřijala
+  - **Forma smlouvy a její účinky**
+    - Smlouva může být uzavřena jak **ústně**, tak i **písemně**
+      - V případě ústní - podstatná je vůle stran ujednat podstatné náležitosti smlouvy
+      - Je možné smlouvu po ústním uzavření potvrdit písermnou formou -> platná pokud je jen s nepatrnými ochylkami a je scvhálena druhou stranou
+      - Pokud strany projeví vůli ujednat smlouvu v určité formě -> má se za to, že pokud v ní ujednána nebude, nechtějí jí být vázáni (platí i pokod jedna ze stran trvá na uzavření smlouvy v písemné podobě)
+    - **Účinky**
+      - Smlouva strany zavazuje k právům a povinnostem ve smlouvě určeným, zavazuje jen *inter partes*, třetí osoby zavazuje jen stanoví-li tak zákon
+      - Smlouva je běžně účinná přijetím druhé strany, může být však i vázána na rozhodnutí určitých orgánů -> pak je účinná tímto rozhodnutím
+      - Smlouvu lze **měnit** jen:
+        - 1- se souhlasem všech stran
+        - 2- v případech v souladu se zákonem
+        - **Změna okolností**
+          - Změna okolností na smlouvě nic nemění, pokud se nejedná o **podstatnou změnu okolností** (podstatné je, aby vznikl hrubý nepoměr mezi plněními) -> pokud na sebe strana nevzala riziko změny okolností
+            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud (subjektivní lhůta k podání 2 měsíce)
+      - Je možné ujednat si zákaz zatížení, nebo zcizení -> působí **inter partes**, pokud není ujednáno jako **věcné právo**
+      - **Smlouva ve prospěch třetí osoby**
+        - Je možné ujednat plnění ve prospěch třetí osoby -> ta musí právo přijmout, pokud nepřijme, může věřitel požadovat plnění pro sebe pokud to neodporuje obashu a účelu smlouvy
+      - **Smlouva o plnění třetí osoby**
+        - **Smlouva o přimluvení se u třetí osoby** = pouze zavázání, že se přimluví u třetí osoby, aby ujednané plnění poskytla -> neodpovídá pokud neposkytne
+        - **Smlouva o zavázání se, že třetí osoba poskytne** = to samé jako výše, přímluvce je ale odpovědný za situaci, kdy třetí osoba odmítne plnit
+  - **Smlouva o smlouvě budoucí**
+    - 
 
 
 
