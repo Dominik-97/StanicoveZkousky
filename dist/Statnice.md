@@ -2222,6 +2222,12 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
   - Ustanovení týkající se **spotřebitelských smluv**
     - Smlouvy, které uzavírá FO nepodnikatel, nebo i FO podnikatel, ale mimo svoj podnikání s podnikatelem
     - K tomu, kdo je podnikatel - viz Otázka 2 z obchodního práva
+  - **Podnikatelova informační povinnost vůči spotřebiteli**
+    - Podnikatel má před uzavřením smlouvy vůči spotřebiteli poměrně značnou informační povinnost
+    - Musí spotřebitele informovat o hodně záležitostech - ty jsou taxativně vymezeny - jedná se například o identifikaci podnikatele, popis zboží, spotřebitelova práva z vadného plnění etc.
+    - výjimkou je smlouva o vyřizování záležitostí každodenního života, přičemž tato záležitost bude podnikatelem hned vykonána - domnívám se, že zde se jedná například o pultový prodej, dále se nepoužije na finanční služby
+  - **Ochrana spotřebitele**
+    - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
