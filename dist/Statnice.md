@@ -2208,6 +2208,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Závazky ze smluv uzavíraných se spotřebitelem
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2215,6 +2217,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Závazky ze smluv uzavíraných se spotřebitelem**
+  - Ustanovení týkající se **spotřebitelských smluv**
+    - Smlouvy, které uzavírá FO nepodnikatel, nebo i FO podnikatel, ale mimo svoj podnikání s podnikatelem
+    - K tomu, kdo je podnikatel - viz Otázka 2 z obchodního práva
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -3040,6 +3047,7 @@ finanční arbitr
   - Podnikat může buď právnická nebo fyzická osoba
   - Je tedy možné členit dle jednotlivých forem, tedy OSVČ u FO a jednotlivé formy právnických osob u PO
   - **Členění, které je myšleno v této otázce je ale asi následující**
+    - Jako podnikatel je ale obecně definován - Kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele.
     - **plnoprávní podnikatelé**
       - a) fikce podnikatele pro osoby zapsané v OR - § 421 (1)
       - b) vyvratitelná právní domněnka pro osoby, které mají živnostenské nebo jiné oprávnění - § 421 (2)
