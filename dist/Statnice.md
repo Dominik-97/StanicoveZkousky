@@ -1983,7 +1983,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
             - dražba - příklepem, veřejná soutěž o nejvýhodnější nabídku, veřejná nabídka
           - Možnost ke smlouvě stanovit obchodní podmínky, co je ale ve smlouvě má přednost
       - ze zákona - standardně z nějakého protiprávního činu
-      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá - například z bezdůvodného obohacení
+      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá - například z bezdůvodného obohacení, nepříkázaného jednatelstcí, upotřebení věci ku prospěchu jiného
         - Ustanovení o závazcích, které vznikají ze smluv, se použijí přiměřeně i na závazky vznikající na základě jiných právních skutečností.
   - **Obash závazků**
     - Souvisí s **druhy právních povinností** - neboť ze závazku plyne jedné straně povinnost
@@ -2020,6 +2020,12 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 - **Struktura závazku**
   - **Subjekty** - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
   - **Objekty** - Neboli předměty, kterých se daná smlouva týká - Plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový.
+    - Dá se tedy říci, že věřitel má právo očekávat toto plnění v podobě s obsahem závazku a durem právní povinnosti z něho plynoucího
+    - Jdou opět třídit:
+      - Dle určení předmětu: Jednotlivě, druhově, alternativně
+      - Dle dělitelnosti: dělitelné X nedělitelné
+      - Dle opakování se: Jednorázové X opakující se X trvající
+      - A tak dále, například: Peněžité X Nepeněžité X Úrokové
   - **Obsah** - práva a povinnosti ujednané mezi stranami
 - **Zánik závazků**
   - Řádným splněním - *soluce*
@@ -2047,6 +2053,23 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - §1868
       - (1) Zaváže-li se několik dlužníků k témuž plnění, nebo zaváže-li se dlužník několika věřitelům k témuž plnění, spravují se společný dluh i společná pohledávka podle zásad o spoluvlastnictví.
       - (2) Je-li na jedné ze stran více osob, má druhá strana právo požadovat určení společného zástupce pro účely doručování. Neučiní-li tak, určí tohoto zástupce na návrh soud.
+ - **Nepoměry v plnění**
+  - 1- Neúměrné zkrácení - možné se dovolat do roku od uzavření smlouvy - relativní neplatnost -> možnost požadovat zrušení, nebo doplnění
+  - 2- Lichva - zneužití tísně, nezkušenosti, rozumové slabosti etc. jehož obsahem je plnění v hrubém nepoměru -> absolutní neplatnost, pokud takovouto smlouvu ale uzavře podnikatel -> platná a nemůže se dovolávat neplatnosti
+- **Další podstatné informace týkající se závazků**
+  - Úroky
+    - úprava: § 1802 NOZ
+    - nutné sjednat ve smlouvě → není-li jejich výše ujednána, platí dlužník úroky ve výši stanovené pr. předpisem
+  - Záloha
+    - úprava: § 1807 NOZ
+    - =to, co dala jedna strana druhé před uzavřením smlouvy
+    - například záloha z kupní smlouvy - část celkové kupní ceny
+  - Závdavek
+    - úprava: § 1808 NOZ
+    - =prostředek potvrzení uzavření smlouvy a strana, který jej dala, poskytuje jistotu, že dluh splní
+    - odevzdává se nejpozději při uzavření smlouvy
+    - jedná se například o kauci u pronájmu bytu
+  - Některé závazky mají od počátku povahu natorální obligace a nejdou proto vymáhat - například závaky z her, nebo losu
 
 
 
