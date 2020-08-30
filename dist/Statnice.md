@@ -2308,8 +2308,18 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Věřitel (postupitel) může celou, nebo část pohledávky postoupit postupníkovi i bez souhlasu dlužníka.
       - Postoupením pohledávky nabýva postupník také její příslušenství (například úroky) a jiná práva s pohledávkou spojená - například **zajištění** pohledávky.
       - Postoupit lze pohledávku, kterou lze zcizit - toto zcizení nesmí být vyloučeno právním jednáním mezi věřitelem a dlužníkem, rovněž nelze postoupit pohledávku, která zaniká smrtí, nebo pokud by se postoupením výrazně zhoršilo postavení dlužníka.
-      - Dokud dlužník nemá informaci (od postupitele nebo postupníka) o postoupení, může svůj dluh plnit i postupitelovi.
+      - Dokud dlužník nemá informaci (od postupitele nebo postupníka) o postoupení, může svůj dluh plnit i postupitelovi, postoupení pohledávky rovněž nemá vliv na třetí osobu, která dluh zajistila, dokud není informována.
       - Pokud postupitel postoupil pohledávku několika osobám -> je vůči dlužníkovi účinné to postoupení, o kterém se dozvěděl nejdříve.
+      - Postoupit lze i **soubor pohledávek** - současných, nebo budoucích, takovýýto soubor však musí být dostatečně určen
+  - **Změna v osobě dlužníka**
+    - Má tři druhy:
+      - 1- Převzetí dluhu
+      - 2- Přistoupení k dluhu
+      - 3- Převzetí majetku
+    - **Převzetí dluhu**
+      - Ujednání dlužníka se třetí osobou, že převezme jeho dluh, respektive nastoupí na jeho místo jako dlužníka - k účinnosti je nutný souhlas věřitele
+  - **Postoupení smlouvy**
+    - Podstatný rozdíl od postoupení pohledávky - smlouva je celý právní důvod závazku, pohledávka je pouze právo věřitele ze závazku
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
