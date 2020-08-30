@@ -2155,6 +2155,9 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Část obsahu smlouvy může být stanovena v obchodních podmínkách (smlouva má však vždy přednost při nesouladu OP se smlouvou)
       - Pokud je to ujednáno a pokud strana v běžném obchodním styku uzavírá smlouvy s větším počtem osob -> je možné z rozumných důvodů OP změnit -> musí být však ujednána možnost v takovém případě smlouvu vypovědět
       - Druhá strana závazku je chráněna před **neočekávanými podmínkami v OP** pokud je výslovně nepřijala
+    - **Obsah smlouvy**
+      - Vzniká závazev s **právní povinností**, dát, zdržet se, strpět, nebo vykonat, viz výše
+      - Měla by obsahovat důvod pro který dlužník plní věřiteli - pokud neobsahuje, nebrání to jejímu vzniku a trvání, věřitel je ho ale povinen v případě nutnosti prokázat -> určité druhy závazků tuto povinnost nekladou (například závazek z cenného papíru)
   - **Forma smlouvy a její účinky**
     - Smlouva může být uzavřena jak **ústně**, tak i **písemně**
       - V případě ústní - podstatná je vůle stran ujednat podstatné náležitosti smlouvy
@@ -2176,7 +2179,9 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
         - **Smlouva o přimluvení se u třetí osoby** = pouze zavázání, že se přimluví u třetí osoby, aby ujednané plnění poskytla -> neodpovídá pokud neposkytne
         - **Smlouva o zavázání se, že třetí osoba poskytne** = to samé jako výše, přímluvce je ale odpovědný za situaci, kdy třetí osoba odmítne plnit
   - **Smlouva o smlouvě budoucí**
-    - 
+    - Jedná se o situaci, kdy se jedna strana zaváže uzavřít po vyzvání v ujednané lhůtě v budoucnu smlouvu, ta musí být ve smlouvě o smlouvě budoucí alespoň základně specifikována -> zavázená straně vzniká povinnost smlouvu neprodleně uzavřít po tom, co jí k tomu vyzve strana oprávněná
+    - Povinnost smlouvu uzavřít nevzniká v případě, že oprávněná stran k uzavření nevyzve, nebo v případě podstatné změny okolností -> zavázaná strana podstatnou změnu okolností musí v takovém případě při vyzvání namítnout
+    - Nesplíní-li zavázaná strana svojí povinnost uzavřít smlouvu -> může obsah smlouvy určit osoba určená ve smlouvě, nebo soud podle účelu smlouvy
 
 
 
