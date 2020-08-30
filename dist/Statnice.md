@@ -814,8 +814,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - procesní způsobilost
   - Subjektivní práva se svým obsahem rovněž týkají objektů práva
     - objekty právních vztahů -> to, čeho se týkají oprávnění a povinnosti právního vztahu
-    - primární objekt je vždy určité chování
-    - sekundární objekt - předmět, který se k tomu váže, tedy zejména věci v právním smyslu
+    - primární objekt je vždy určité chování - týká se tedy svojí formou obsahu smlouvy = chová je myšleno to samotné plnění
+    - sekundární objekt - předmět daného plnění, který se k tomu váže, tedy zejména věci v právním smyslu
   - **Subjetivní právo má tři roviny**
     - možnost chovat se právně nezakázaným způsobem
     - možnost požadovat odpovídající chování od jiného
@@ -1967,7 +1967,10 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - z deliktu porušení povinosti (smluvní či zákonné)
         - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
       - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
-      - DOPLNIT DALŠÍ TŘÍDĚNÍ
+      - Další druhy třídění:
+        - například formální X neformální, úplatné X bezúplatné
+        - Dále třeba například závazek hlavní a vedlejší
+          - Vedlejší závazek ýáleží na závazku hlavním a zpravidla sleduje jeho osud
   - **Vznik závazků**
     - viz třídění závazků
     - tedy právní důvod existence závazku
