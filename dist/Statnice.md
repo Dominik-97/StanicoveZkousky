@@ -2255,7 +2255,9 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - **Neobjednané plnění**
       - Pokud podnikatel dodal neobjednané zboží -> spotřebitel ho nemusí na svoje náklady vracet, ani na to podnikatele upozorňovat
     - **Smlouvy o finančních službách**
-      - Doplnit
+      - Obecně se jedná o smlouvy upravující služby poskytnuté bankou, pojišťovnou etc.
+      - OZ opět upravuje jakým způsobem se má přistoupit k právům a povinnostem z těchto služeb, v této část ale jen ve smyslu pokud jsou uzavřeny dálkově
+      - Jsou stanoveny další informace, které musí poskytovatel finanční sližby předem poskytnout - to není moc důležité znát
 
 
 
