@@ -2095,8 +2095,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-- [ ] Smlouvy
-  - [ ] Uzavírání smluv
+- [x] Smlouvy
+  - [x] Uzavírání smluv
   - [ ] Formování jejich obsahu
   - [ ] Jejich forma a účinky
 - [ ] Smlouva o smlouvě budoucí
@@ -2145,9 +2145,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
           - Přijetí lze zrušit - pokud zrušení přijde alespoň současně s přijetím nabídky
           - Smlouva je uzavřena okamžikem účinnosti přijetí
     - Jsou i další způsoby uzavření smlouvy - zvláštní způsoby uzavírání smlouvy
-      - 1- Dražba
-      - 2- Veřejná soutěž o nejvhodnější nabídku
-      - 3- Veřejná nabídka
+      - 1- Dražba -> smlouva uzavřena příklepem licitátora
+      - 2- Veřejná soutěž o nejvhodnější nabídku -> výzva k podávání nabídek (lze zrušit pouze pokud je tato možnost vyhrazena), vyhlašovatel si vybírá tu z nabídek, která mu nejvíce vyhovuje, může odmítnout i všechny pokud si to vyhradí
+      - 3- Veřejná nabídka -> navrhovatel uveřejní nějakou nabídku -> ta je uzavřena s osobou, která nabídku přijme, popřípadě pokud přijme více osob s tou, kterou si navrhovatel vybere, popřípadě se všemi osobami
+  - **Formulování obsahu smlouvy**
+    - Doplnit
 
 
 
