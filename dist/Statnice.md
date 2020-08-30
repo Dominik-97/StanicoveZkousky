@@ -2238,10 +2238,24 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - pokud má spotřebitel právo odstoupit od smlouvy -> nelze toto odstoupení spojit s postihem a spotřebitel rovněž nemusí uvádět důvod odstoupení
   - **Uzavírání smluv distančním způsobem**
     - Jedná se o jednání směřující k uzavření smlouvy prostřednictvím prostředku komunikace na dálku, bez nutnosti fyzické přítomnosti stran, nebo jednání směřujícího k uzavření smlouvy mimo obvyklé prostory podnikatele
+    - Ustanovení Pododdílu 1 Uzavírání smluv distančním způsobem se nepoužije na určité druhy smluv - ty zákon taxativně vymezuje - například smlouva o poskytování zdravotní péče
     - Podnikatel má v tomto případě opět poměrně rozsáhlou **informační povinnost**, zákon taxativně stanovuje, s čím musí v takovémto případě podnikatel spotřebitele v časovém předstihu obeznámit - například náklady spojené s jednáním na dálku, povinnost zaplatit zálohu etc.
       - Pokud podnikatel neseznámil spotřebitele s dodatečnými poplatky, daněmi etc. spojenými s tímto druhem jednání a například s následným plněním (dodáním) statku -> spotřebitel je není povinen uhradit.
+      - V případě spolu leží důkazní břemeno ohledně toho, že spotřebitele seznámil na podnikateli
     - **Obsah smlouvy uzavírané distančním způsobem**
-      - Doplnit
+      - Smlouvy musí obsahovat údaje sdělené spotřebiteli podnikatelem před uzavřením smlouvy, a to jak ty uvedené v obecné části, tak i ty uvedené v části upravující distanční uzavírání smlouvy
+      - Podnikatel musí minimálně jednu kopii smlouvy spotřebitelovi po jejím uzavření vydat
+    - Spotřebitel musí mít i přístup k všeobecným OP
+    - **Odstoupení od smlouvy u smluv uzavřených distančním způsobem**
+      - Do 14 dnů od uzavření smlouvy, 14 dnů od dodání posledního zboží (opakovaná dodávka), nebo do 14 dnů od dodání prvního zboží (při souvislé dodávce)
+      - Pokud nebyl spotřebitel poučen o svém právu odstoupit od smlouvy -> lhůta se prodlužuje o 1 rok
+      - Odstoupením od smlouvy se smlouva od počátku ruší a strany jsou si povinny vydana vzájemné plnění, pokud je však dodávána služba vrací podnikatel jen úměrnou část (v podstatě cenu - její část podle toho, kolik splnil) - toto se ale uplatní jen v případě, že podnikatel začal poskytovat službu před uplynutím doby na odstoupení, to může jen na textovou žádost spotřebitele, jinak se standardně začíná až po této době - pak od smlouvy do 14 dnů bez uvedení důvodu odstoupit nelze
+      - Spotřebitel odpovídá za škodu na dodaném zboží, pokud ho používal jinak, než k jeho účelu
+      - Zákon však taxativně vymezuje případy, kdy spotřebitel od smlouvy odstoupit nemůže -> například pokud je předmětem smlouvy zboží podléhající rychlé zkáze, z hygienických důvodů etc.
+    - **Neobjednané plnění**
+      - Pokud podnikatel dodal neobjednané zboží -> spotřebitel ho nemusí na svoje náklady vracet, ani na to podnikatele upozorňovat
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
