@@ -1726,6 +1726,13 @@ Pokojná držba.
 
 Požívací a užívací právo.
 
+závazková práva jakožto z povahy práva relativní vyjadřují dynamiku občanskoprávních vztahů (výměna různých
+statků mezi individuálně určenými subjekty) x absolutní věcná práva jsou z povahy právy absolutními a vyjadřují tedy
+statiku občanskoprávních vztahů
+povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)
+  inter partes - působí výlučně mezi stranami závazku
+  erga omnes - působí vůči všem (jichž se to může týkat)
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -1949,7 +1956,11 @@ Požívací a užívací právo.
         - z právního pohledu je dlužníkem každý subjekt povinný (něco dát, udělat, …) a věřitelem subjekt oprávněný (požadovat aby dlužník něco dal, konal, …) - povinnost dlužníka se tedy z právního hlediska týká i nepěněžitého plnění
       - **Charakteristické rysy závazkových vztahů**
         - Relativní subjektivní práva *inter partes*
-
+    - **Funkce závazků**
+      - zabezpečit uspokojování lid. potřeb ve vzájemné součinnosti (kooperace) – nutnost zabezpečení součinnosti právem, které je závazné a vynutitelné, existence sankcí – zprostředkovává soukromé právo, zejména občanským právem závazkovým – smluvním i deliktním
+      - tj. zejména: umožňovat převádění hodnot (smlouva kupní, darovací, o půjčce, o dílo atd.)
+      - úprava vyrovnání újmy – v podstatě deliktní právo
+      - uspokojování potřeby, kterou si osoba nemůže obstarat sama jinými způsoby – smlouva o půjčce, nájem, příkazní smlouva
   - **Třídění závazků**
     - podle důvodu vzniku lze závazky třídit na:
       - z právního jednání (dvoj, či vícestranného)
@@ -1996,6 +2007,8 @@ Požívací a užívací právo.
       - pro posuzování práva a vykládání norem
       - výkladové pravidlo *analogie legis* pokud právo nelze nalézt/aplikovat pomocí jedné normy, použije se norma obdobná
       - další výkladové pravidlo potom je *analogie juris* = ta právě vychází ze zásad -> pokud není podobné pravidlo, posoudní se podle principů spravedlnosti a **zásad** -> zásady takto mohou vyplňovat mezery v zákoně
+- **Odpovědnost**
+  - Odpovědnost- důsledkem odpovědnosti za porušení závazku je vznik či aktivace opět nového závazku mezi porušitelem práva a nositelem pohledávky (práva, jež bylo porušeno), nikoliv závazek (povinnost) mezi porušitelem a představitelem veřejné moci (státem) jako v případě veřejnoprávní odpovědnosti.
 - **Vadné plnění**
   - Může se stát, že dlužník splní svůj dluh vadně - například obejkt (předmět plnění) nemá stanovené nebo ujednané vlastnosti -> v takové případě vznikají věřiteli **práva z vadného plnění, bylo-li zboží úplatné**
     - Nutnost vadu vytknout maximálně 6 měsíců od převzetí
