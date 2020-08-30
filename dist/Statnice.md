@@ -2263,7 +2263,10 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - **Neobjednané plnění**
       - V podstatě stejné jako výše
     - **Dočasné užívání ubytovacího zařízení a jiné rekreační služby**
-      - Doplnit
+      - Jedná se o smlouvu týkající se noclehu na více než jeden časový úsek, nebo právo spojené s ubytováním
+      - Podnikatel má opět stanovené specifické údaje, které musí poskytnout, forma smlouvy musí být písemná
+      - Tento pododíl definuje přímo i povinnosti na obsah smlouvy - jména smluvních stran, bydliště, nebo sídlo etc.
+      - Spotřebitel může od smlouvy rovněž odstoupit ve stanovené lhůtě
 
 
 
@@ -2295,6 +2298,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Změny závazků**
+  - Zákon upravuje následující změny závazků:
+    - 1- Změna v osobě dlužníka či věřitele
+    - 2- Změny v obsahu závazku
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
