@@ -2242,7 +2242,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Podnikatel má v tomto případě opět poměrně rozsáhlou **informační povinnost**, zákon taxativně stanovuje, s čím musí v takovémto případě podnikatel spotřebitele v časovém předstihu obeznámit - například náklady spojené s jednáním na dálku, povinnost zaplatit zálohu etc.
       - Pokud podnikatel neseznámil spotřebitele s dodatečnými poplatky, daněmi etc. spojenými s tímto druhem jednání a například s následným plněním (dodáním) statku -> spotřebitel je není povinen uhradit.
       - V případě spolu leží důkazní břemeno ohledně toho, že spotřebitele seznámil na podnikateli
-    - **Obsah smlouvy uzavírané distančním způsobem**
+    - **Obsah smlouvy uzavírané distančním způsobem** - obecné smlouvy, finanční služby, a rekreační služby
       - Smlouvy musí obsahovat údaje sdělené spotřebiteli podnikatelem před uzavřením smlouvy, a to jak ty uvedené v obecné části, tak i ty uvedené v části upravující distanční uzavírání smlouvy
       - Podnikatel musí minimálně jednu kopii smlouvy spotřebitelovi po jejím uzavření vydat
     - Spotřebitel musí mít i přístup k všeobecným OP
@@ -2258,6 +2258,12 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Obecně se jedná o smlouvy upravující služby poskytnuté bankou, pojišťovnou etc.
       - OZ opět upravuje jakým způsobem se má přistoupit k právům a povinnostem z těchto služeb, v této část ale jen ve smyslu pokud jsou uzavřeny dálkově
       - Jsou stanoveny další informace, které musí poskytovatel finanční sližby předem poskytnout - to není moc důležité znát
+    - **Odstoupení od smlouvy**
+      - Podobné jako u jiných smluv uzavřených distančním způsobem, viz výše, někde je lhůta prodloužena až na 30 dnů
+    - **Neobjednané plnění**
+      - V podstatě stejné jako výše
+    - **Dočasné užívání ubytovacího zařízení a jiné rekreační služby**
+      - Doplnit
 
 
 
@@ -2278,6 +2284,9 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Změny závazků
+- [ ] Zajištění a utvrzení dluhu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2304,6 +2313,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Zánik závazků
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2337,6 +2348,12 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- Závazky z porušení smlouvy
+  - Z prodlení
+  - Z vadného plnění
+  - Z újmy způsobené porušením smluvní povinnosti
+- Závazky z bezdůvodného obohacení
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2362,6 +2379,10 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Darování
+- [ ] Koupě
+- [ ] Směna
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2389,6 +2410,8 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Přenechání věci k užití jinému
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2414,6 +2437,8 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Závazky ze smluv příkazního typu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2441,6 +2466,8 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Smlouva o dílo
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2467,6 +2494,9 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- Závazky z bakovních smluv
+- Závazky z přepravních smluv
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2492,6 +2522,9 @@ Lichva.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- Závazky ze zaopatřovacích smluv
+- Závazky z odvážných smluv
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
