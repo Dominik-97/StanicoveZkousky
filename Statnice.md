@@ -492,12 +492,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Název -> musí obsahovat slova nadační fond -> například nadační fond obětem holocaustu
       - Založení - viz nadace, zápis do nadačního rejstříku
       - Jinak platí obdobně co o nadaci - podnikání, orgány etc.
-    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky. 
-      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených. 
-      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“ 
+    - **Ústav** je právnická osoba ustavená za účelem provozování činnosti užitečné společensky nebo hospodářsky s využitím své osobní a majetkové složky.
+      - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených.
+      - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“
       - Od korporací se liší tím, že řízení a provoz v nich nezajišťují členové, ale zaměstnanci.
-      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává. 
-      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní. 
+      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává.
+      - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní.
       - Ústavy se vyskytují ve všech oblastech společenského a hospodářského života.
       - Dobrým příkladem ústavu je Charita České republiky, nebo Výzkumný ústav práce a sociálních věcí.
   - Ahojda
@@ -717,23 +717,23 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       - Ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
       - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
       - **Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty - může se jednat například o licence a podobně -> konstrukt práva, v přírodě samo o sobě neexistuje - abstraktní věci.**
-    - **Ovladatelné přírodní síly** - 
+    - **Ovladatelné přírodní síly** -
       - Na ovladatelné přírodní síly, se kterými se obchoduje -> ustanovení o věcech hmotných se použije přiměřeně.
-    - **Nemovité a movité věci** - 
+    - **Nemovité a movité věci** -
       - Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon.
       - Pokud zákon stanoví, že určitá věc není součástí pozemku, ale pokud nelze takovou věc přenést z místa na místo bez porušení její podstaty -> i takováto věc je nemovitá - dalo by se říci tedy například nějaký stroj, který je pevně spojen s budovou.
       - Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
-    - **Zastupitelné věci** - 
+    - **Zastupitelné věci** -
       - Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná, ostatní jsou nezastupitelné - příkladem budiž **peníze**, nebo některé druhy **cenných papírů**.
-    - **Zuživatelné věci** - 
+    - **Zuživatelné věci** -
       - Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení je zuživatelná - příkladem je plod stromů - tedy například jablko.
       - Zuživatelná věc je rovněž věc, která náleží skladu a nebo jinému souboru -> pokud jejich běžné užití spočívá v tom, že jsou prodávány jednotlivě.
-    - **Hromadné věci** - 
+    - **Hromadné věci** -
       - Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc - například obchodní závod.
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
-    - **Obchodní závod** - 
+    - **Obchodní závod** -
       - **Obchodní závod** - organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
-    - **Pobočka** - 
+    - **Pobočka** -
       - Pobočka - součást závodu, která vykazuje funkční i hospodářskou samostatnost (obejktivní kritérium) a o které podnikatel rozhodl, že bude pobočkou (subjektivní kritérium).
       - Pobočku lze rovněž zapsat do OR - pak se jedná o odštěpný závod - to platí i o jiné organizační složce pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku.
       - Vedoucí odštěpného závodu - jako zástupce podnikatele ve všech činnostech, které se týkají provozu odštěpného závodu - ode dne, kdy byl jako vedoucí odštěpného závodu zapsán do OR, do té doby - zastoupení podnikatele k určité činnosti - viz otázka obchodní právo.
@@ -751,7 +751,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Součástí věci je vše, co k ní podle povahy patří a nemůže být od ní odděleno, aniž by se tím znehodnotila.
     - V NOZ platí (viz věci nemovité), stará římská zásada *superficies solo cedit*.
     - Povrch ustupuje půdě -> stavba je součástí pozemku, né samostatná věc -> jak tomu bylo za účinnosti starého občanského zákoníku -> existují z toho však výjimky -> například právo stavby.
-  - **Příslušenství** - 
+  - **Příslušenství** -
     - Příslušenstvím je vedlejší věc vlastníka, která je určena, aby byla trvale užívána společně s věcí hlavní.
     - Má se za to (vyvratitlená právní domněnka), že příslušenství sleduje osud věci hlavní.
     - Příslušenství je však na rozdíl od součásti věci samostatnou věcí.
@@ -814,8 +814,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - procesní způsobilost
   - Subjektivní práva se svým obsahem rovněž týkají objektů práva
     - objekty právních vztahů -> to, čeho se týkají oprávnění a povinnosti právního vztahu
-    - primární objekt je vždy určité chování
-    - sekundární objekt - předmět, který se k tomu váže, tedy zejména věci v právním smyslu
+    - primární objekt je vždy určité chování - týká se tedy svojí formou obsahu smlouvy = chová je myšleno to samotné plnění
+    - sekundární objekt - předmět daného plnění, který se k tomu váže, tedy zejména věci v právním smyslu
   - **Subjetivní právo má tři roviny**
     - možnost chovat se právně nezakázaným způsobem
     - možnost požadovat odpovídající chování od jiného
@@ -1080,7 +1080,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   - **běh času**
     - s jeho koncem právo spojuje určité následky
   - **Rozlišení lhůty a doby, jejich počátek, trvání a překážky**
-    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.
+    - **doba** = časový úsek omezující existenci práv a povinností - práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny aniž by byla potřeba nějak zvlášť projevit vůli.
     - **Lhůta** = časový úsek určení k vykonání práva, zejména k jeho uplatnění
       - zákonná X smluvní
       - hmotněprávní X procesní
@@ -1200,8 +1200,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 - [x] Manželství
 - [x] Majetkové právo manželské
-- [ ] Rodiče a dítě
-- [ ] Osvojení
+- [x] Rodiče a dítě
+- [x] Osvojení
 - [ ] Náhradní formy péče o dítě
 
 \|--------------\| <br>
@@ -1276,6 +1276,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - V běžných záležitostech však může jednat kterýkoliv z nich a mají vůči sobě zákonné zástupčí oprávnění.
       - To neplatí pokud jeden z manželů třetí osobě předem sdělí, že se zastoupení nesouhlasí, nebo pokud ho vůči manželovi zruší soud.
       - Rovněž neplatí, pokud manželé žijí v oddělených domácnostech podle § 691 odstavce 2.
+      - Manželé mají vzájemné zákonné zástupčí oprávnění = v běžných věcech se mohou zastupovat
   - **Manželé mezi sebou mají vyživovací povinnost - i vůči dětem, a to tak, aby jejich hmotná a kluturní úroveň byla zásadně stejná.**
   - **Zánik manželství**
     - Manželství může zaniknout třemi způsoby:
@@ -1337,6 +1338,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     - Matkou dítěte je žena, která ho porodila - absolutní statusový poměr matka - dítě
     - Bez mateřství nelze určit otcovství /příbuzenství
     - Vyloučení absolutního statusového poměru v rámci náhradního mateřství (surogačního) -> možnost osvojení
+
   - **Otcovství**
     - Na základě jedné ze tří zákonných domněnek
       - pokud je manželem matky (vyvratitelné), rovněž pokud se narodí do 300 dnů od zániku manželství, pokud není matka znovu provdána -> pak VPD, že je otcem manžel pozdější, nebo pokud jiný muž neprohlásí otcovství a rozvedený muž otcovství popře a matak se k prohlášení připojí
@@ -1347,7 +1349,220 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
         - na návrh matky/dítěte/muže, který o sobě tvrdí, že je otcem
         - vyvratitelná právní domněnka pokud spolu souložili - je muž otcem
         - v případě sporu - nařízení testu DNA
-  - Ahojda
+
+  - **Rodičovská práva a povinnosti**
+
+    - Mají vůči sobě vzájemná práva a povinnosti
+
+    - Těch se nemohou vzdát - jsou **nezadatelná**
+
+    - Účelem je zajištění **hmotného a morálního prospěchu**
+
+    - Dítě je povinno dbát svých rodičů, podřídit se jejich výchovným opatřením (přiměřeně okolnostem a věku dítěte) - nsemí ohrožovat zdraví, jeho rozvoj a důstojnost
+
+    - 3 základní práva
+
+      - osobnostní práva - práva spojená s osobností - například určit dítěti jméno, souhlasným prohlášením určit otcovství, dát souhlas k osvojení etc.
+      - rodičovská odpovědnost - jedná se o práva a povinnosti
+        - **1- pečovat o dítě a jeho rozvoj**
+        - **2- zastupovat dítě**
+          - zastupování při právních jednáních, kterým není způsobilé, společně, jednat však může každý z nich
+          - rodič nemůže zastoupit dítě v případě střetu zájmu jeho se zájmem dítěte, v případě střetu zájmů rodiče a dítěte -> jmenován kolizní opatrovník
+          - pro vyřízení záležitosti dítěte (nejedná-li se o záležitost osbního stavu) -> mohou rodiče uzavřít smlouvu o zastoupení s jinou osobou
+        - **3- spravovat jmění dítěte**
+          - nutnost péče řádného hospodáře (náležitá péče, potřebné znalosti a loajalita), při porušení -> povinnost hradit škodu
+          - Nejde-li o běžnou záležitost - nutný souhlas soudu
+          - Co rodiče získají použitím majetku -> nabývá dítě
+          - Příjmy z majetku - k jeho správě a k potřebám dítěte, rovněž k potřebám rodiny - se souhlasem soudu
+          - pokud rodiče nevykonávají řádně - ustanoven **opatrovník jmění**
+        - vzniká - narozením, zaniká zletilostí/emancipací/sňatkem
+      - Rodiče jí vykonávají vzájemně ve shodě se zájmy dítěte (věnují patřičnou pozornost jeho názoru)
+      - pokud se rodiče nedohodnou na významné skutečnosti - rozhodne soud
+        - participace dítěte - soud chce znát názor dítěte (má se za to, že pokud je starší 12 let -> je schopno participovat), není-li schopno ho sdělit -> soud vyslechne osobu, která je schopná ho sdělit -> její zájmy však nesmí být v rozporu se zájmy dítěte
+      - RO náleží stejně oběma rodičům, má jí každý rodič, ledaže jí byl zbaven
+        - opatření zasahující do RO - nemá vliv na vyživovací povinnost
+          - **Pozastavení výkonu RO**
+            - a- nezletilý rodič, který nanabyl plné svéprávnosti, náleží mu pouze výkon té části, která spočívá v péči o dítě
+            - b- omezení svéprávnosti - v celém rozsahu RO, ledaže soud rozhodne jinak (péče a styk)
+            - c- brání-li tomu jiná závažná skutečnost výkonu RO
+          - **Omezení RO**
+            - vždy rozhodnutím soudu
+            - pokud rodič nevykonává svojí RO řádně + omezení vyžaduje zájem dítěte
+            - soud určí v rozhodnutí rozsah
+          - **zbavení RO**
+            - vždy rozhodnutím soudu - rodič zneužívá nebo zanedbává RO
+            - vždy posoudí, pokud rodič spáchal trestný čin, či k němu využil dítě
+            - Rodič ztrácí právo styku s dítětem - jen výjimečně ho může soud zachovat
+            - Soud může rodiče zbavit i osobnostních práv - například souhlas k osvojení
+        - **Kdo vykonává RO při výše uvedených případech?**
+          - V plném rozsahu druhý rodič
+          - Pokud není žádný rodič / žádný z nich není nositelem RO - **poručník**
+          - pokud rodiče jsou, ale oba jsou omezeni v RO - **opatrovník**
+  - **Péče o dítě po rozvodu**
+    - Manželství není možné rozvést, dokud nejsou vypořádány poměry nelzetilého dítěte
+    - Soud nejdříve určí jak bude každý z rodičů o dítě napříště pečovat
+      - Formy péče
+        - a- péče jednoho z rodičů
+        - b- střídavá péče
+        - c- společná péče (oba rodiče musí souhlasit)
+        - d- péče jiné osoby než rodiče - není-li žádný z rodičů schopen/ochoten o dítě pečovat, např. prarodiče
+      - Soud schvaluje rozsudkem pokud se rodiče **dohodly**
+      - Pokud rozhoduje on - také **rozsudkem**
+      - Soud rozhoduje na základě mnoha kritérií jakou formu zvolit
+        - například zájem dítěte, vztah dítěte k rodičům, životní poměry rodičů atd.
+      - úprava poměrů dítěte nesezdaných, nebo sezdaných rodičů, kteří žijí odděleně nevyžaduje úpravu formy péče
+      - soud může změnit své rozhodnutí, pokud se změní poměry, podle kterých rozhodoval
+      - **Úprava styku rodiče s dítětem**
+        - soud upraví poměry i ve smyslu styku - tzn i pokud by byla péče jen jednoho rodiče -> druhý má právo se s dítětem stýkat, to soud může upravit - například zakázat z důvodu omezení rodičovské odpovědnosti, toto soud ale upraví jen ve chvíli, kdy se rodiče nedohodnou
+        - rodič má povinnost styk dítěte s druhým rodičem umožnit a nijak dítě proti druhému rodiči nepopuzovat
+        - VEDLEJŠÍ: dítě má právo i na styk s jinými osobami s ním příbuznými - k nimž má citový vztah
+- **Osvojení**
+  - Jsou dvě formy náhradní péče o dítě:
+    - 1- rodinná
+    - 2- ústavní
+  - **Osvojení spadá do rodinné**
+    - jedná se o přijetí osoby za vlastní
+    - na základě rozhodnutí soudu
+    - stanoven základní předpoklad osvojení - vztah stejný, jako je standardně mezi rodičem a dítětem, nebo alespoň základy takovéhoto vztahu
+    - **Osovojení nezletilého**
+      - osvojenec - nezletilý, který nenabyl plné svéprávnosti
+      - osvojitel - zletilý, plně svéprávný a další zákonné podmínky (předpoklady dobrého rodiče, zdraví etc.)
+        - Osvojiteli se mohou stát manželé, nebo jeden z manželů
+          - Osvojují-li společně - podávají návrh společně
+        - Může osvojit i osamělá osoba
+        - Důležitý je přiměřený věkový rozdíl
+        - **Proces osvojení**
+          - je třeba souhlasu dítěte a jeho rodičů
+            - a- Dítě musí souhlasit, je-li starší 12 let, u mladších dětí může souhlasit opatrovník
+            - b- Rodiče musí souhlasit, souhlas nemůže dát rodič mladší 16 let, jeho dítě ani nemůže být osvojeno
+              - Matka může udělit souhlas až 6 týdnů po porodu
+              - Otec hned po narození dítěte
+              - do 3 měsíců lze souhlas odvolat
+          - **Situace nevyžadující souhlas rodičů**
+            - pokud jsou rodiče zbaveni RO + osobnostního práva dát souhlas k osvojení
+            - rodič není schopen projevit svou vůli
+            - rodič se zdržuje na neznámém místě
+            - neprojevuje o dítě zájem (minimálně po dobu 3 měsíců)
+          - O tom, zda je potřeba souhlasu rodičů nebo ne -> rozhoduje soud
+          - **Předání dítěte do péče osvojitele**
+            - pokud není souhlas rodičů odvolán = **preadopční péče**
+              - rozhoduje o něm soud
+              - po uplynutí 6 měsíců lze rozhodnout o osvojení dítěte osvojitelem
+          - Po rozhodnutí o osvojení - **právní důsledky osvojení**
+            - mezi osvojencem a osvojitelem vzniká stejný vztah jako mezi rodičem a dítětem
+            - původní rodičovský vztah zaniká (nezaniká ve chvíli kdy osvojil jeden z manželů rodiče vztah toho druhého rodiče - například nově vdaná žena, osvojí nový manžel - rodičovská práva ženy rodičky nezanikají)
+            - osvojitelé jsou zapsání namísto rodičů do rodného listu
+            - dítě získává příjmění osvojitelů
+            - osvojitelům vzniká RO a vyživovací povinnost
+            - pokud je osvojenec rodičem -> účinky osvojení i na jeho dítě
+            - osvojitel musí s osvojením dítě seznámit nejpozději do zahájení školní docházky
+              - je možné utajit okolnosti osvojení a biologickou rodinu (na návrh rozhodnutím soudu z vážných důvodů) -> odtajnění na základě rozhodnutí soudu v případě, že by bylo dítě vážně ohroženo na zdraví, či na životě, dítě se se spisem o osvojení může rovněž seznámit když nabude plné svéprávnosti
+          - **Zrušení osvojení**
+            - po dobu 3 let od osvojení - na návrh osvojence, nebo osvojitele
+            - obnovují se vztahy před osvojením, rovněž se dítěti vrací staré příjmení
+            - po uplynutí 3 let se osvojení stává nezrušitelné!
+            - na žádost může soud osvojení prohlásit za nezrušitelné i dříve
+    - **Osvojení zletilého**
+      - =stejné právní důsledky jako osvojení nezletilého
+      - lze jen z taxativně vymezených důvodů = pak se jedná o **plné osvojení**
+        - 1- přirozený sourozenec osvojovaného byl osvojen týmž osvojitelem,
+        - 2- v době podání návrhu by osvojený nezletilý,
+        - 3- osvojitel pečoval o osvojence již jako ovlastního již v době jeho nezletilosti,
+        - 4- osvojitel hodlá osvojit dítě svého manžela
+      - **neúplné osvojení** - osvojení zletilého, které není obdobou osvojení nezletilého
+        - jen z důvodů hodných zvláštního zřetele
+        - nepromítá se do osobního stavu osvojence ani osvojitele, trvá vztah mezi osvojenecem a jeho pokrevní rodinou
+        - osvojenec dědí po osvojiteli v **první třídě** při intestátní posloupnosti, nemá však zákonné dědické právo vůči ostatním členům rodiny osvojitele
+- **Náhradní formy péče o dítě**
+  - Dva typy
+    - 1- **rodinné**
+      - 1- **osvojení**
+      - 2- **pěstounství**
+        - pokud o dítě nemůže osobně pečovat žádný z rodičů ani poručník -> soud může svěřit dítě do péče **pěstounům**
+        - pěstounství má přednost před ústavní péčí
+        - může být stanoveno na dobu, po kterou rodičům brání nějaká překážka v osobní péči o dítě
+        - rozhoduje soud
+        - **Osoba pěstouna**
+          - záruky řádné péče o dítě
+          - bydliště na území Čr
+          - souhlas se svěřením dítěte do vlastní péče od pěstouna
+          - pěstou je náhradním pečovatelem
+          - rodiče mají právo na informace a na styk s dítětem
+          - **pěstou nezískává RO** = není zákonným zástupcem dítěte!
+          - RO náleží buď rodičům, nebo poručníkovi, hlavní povinností pěstouna je pouze osobní péče o dítě
+          - pěstoun nemá vyživovací povinnost - jsou mu vypláceny dávky pěstounské péče - má několik složek
+          - pěstounskou péči zprostředkovává OSPOD
+          - vyživovací povinnost zůstává rodičům, ti platí výživné na úkor státu
+        - **Zánik PP**
+          - Nejpozději nabytím plné svéprávnosti dítěte
+        - Existuje i profesionální pěstounská péče max na jeden rok - pro specifické případy
+      - 3- **svěření do péče jiné osoby**
+        - viz péče o dítě po rozvodu
+        - pokud nemůže nebo nechce pečovat žádný z rodičů
+        - zpravidla se jedná o příbuzného
+        - přednost před ústavní péčí
+        - přiměřeně se použijí ustanovení o pěstounství, ale pečující osoba nedostává dávky, vyživovací povinnost mají přímo rodiče - **platí výživné pečující osobě**
+        - pečující osoba nemá vyživovací povinnost k dítěti pokud jí nemá ze zákona - například prarodič
+        - v případě nutnosti je možné dané osobě svěřit dítě do pěstounské péče - **zabezpečení pěstounskými dávkami**
+      - 4- **poručnictví** (pokud poručník o dítě osobně pečuje)
+        - Pokud není žádný rodič, který má k dítěti plnou RO -> soud jmenuje dítěti poručníka
+        - Poručník má k dítěti všechny práva a povinnosti jako rodič, nemá ale k dítěti vyživovací povinnost, náleží mu RO = je zákonným zástupcem dítěte
+        - poručnictví je pod stálým dozorem soudu
+        - každé nikoli běžné rozhodnutí týkající se dítěte podléhá schválení soudu
+        - poručník podává zprávy o osobě dítěte a jeho jměni alespoň 1x ročně
+        - soud jmenuje dítěti poručníka neprodleně poté, kdy zjistí, že jde o dítě, jemuž je třeba poručníka jmenovat - do té doby je *ex lege* poručníkem dítěte OSPOD
+        - **Osoba poručníka**
+          - zpravidla se jedná o toho, koho doporučili rodiče, příbuzní či jiná osoba dítěti blízká
+          - musí se jmenováním souhlasit
+          - plně svéprávný a další podmínky (způsob života etc.)
+          - pokud není poručníka a nelze nikoho jmenovat -> **veřejný poručník** - **OSPOD**
+          - poručník nemá povinnost o dítě osobně pečovat - pokud pečuje - náleží mu hmotné zabezpečení jako **pěstounovi**
+        - **Zánik poručnictví**
+          - alespoň jeden z rodičů nabyde RO ebo schopnost jí vykonávat
+          - dítě nabude svéprávnost/je osvojeno
+          - smrtí poručníka/poručence
+          - na žádost poručníka ho soud odvolá z funkce
+          - soud poručníka odvolá rovněž zanedbává-li své povinnosti        
+    - 2- **ústavní**
+      - kojenecké ústavy, dětské domovy, diagnostické ústavy, zařízení pro děti vyžadující okamžitou pomoc (Klokánky)
+        - použije se jen, nejde-li zajistit péči o dítě formou náhradní rodinné péče
+        - v zákonem vymezených případech - soud může nařídit ústavní výchovu (rodiče například z vážných důvodů nemohou zabezpečit péči o dítě)
+        - nejdéle na dobu 3 let, ale lze opakovaně prodloužit
+        - nejdéle do 18 roku života, ve výjmečných případech může soud v zájmu dítěte prodloužit do 19 let věku
+        - přezkum každých 6 měsíců - zda jsou stále důvody a zda nejde dítě umístit do náhradní rodinné péče
+    - **Opatrovnictví** - ten se ale o dítě nestará, pouze ho zastupuje v určitých zákonných důvodech, když je jmenován soudem
+      - jedná se o speciální druh zastoupení z rozhodnutí soudu, viz zastoupení
+      - soud jmenuje v případě, že:
+        - a- střet zájmu dítěte a zákonného zástupce
+        - b- nehájí zákonný zástupce dostatečně zájmy dítěte
+        - c- je to v zájmu dítěte zapotřebí z jiného důvodu
+        - d- stanoví tak zákon - například pokud jsou oba rodiče omezeni na výkonu RO - pro osvojení
+      - **Opatrovník jmění dítěte**
+        - zpravidla v případě, že má dítě velký majetek a rodič jej není schopen řádně spravovat
+        - povinnost řádného hospodáře a zákaz podstupování nepřiměřených rizik
+        - podávaá soudu zprávy o vyúčtování ze zprávy jmění
+        - má právo na přiměřenou odměnu z výnosu jmění dítěte (výši určí soud)
+- **Výživné**
+      - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
+      - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
+      - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
+      - na frekvenci je možné se dohodnout
+      - **Přiznání výživného soudem**
+        - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
+        - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
+        - výživné lze přizna až 3 roky zpětně
+        - při podstatné změně okolností může povinný žádat novou úpravu výživného
+      - **Vyživovací povinnost**
+        - mají mezi sebou předci a potomci
+        - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
+        - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
+      - **soud zkoumá okolnosti**
+        - jak na straně oprávněného, tak povinného
+        - za jistých okolností nemá například nárok - odmítl zaměstnání
+      - životní úroveň rodičů a dítěte má být zásadně shodná
+      - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
+      - dítě je povino rodičům zajistit slušnou výživu
+      - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1366,6 +1581,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+DODĚLAT
+- [x] Vlastnické právo
+- [ ] Ochrana vlastnického práva
+- [ ] Spoluvlastnictví
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1374,6 +1593,88 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají**
+  - Věcná práva umožňují úplné nebo částečné právní panství nad určitou hmotnou i nehmotnou věcí.
+  - Postavení oprávněné osoby vylučuje kohokoliv jiného z právního působení na věc jím ovládanou, v případě porušení tohoto práva má právní nárok na ochranu před takovým jednáním.
+  - Působí *erga omnes*, jedná se o práva jednoho individuálně určeného subjektu vůči mnoha neurčeným subjektům.
+  - Věcná práva obsahují pouze negativní vymezení povinnosti ostatních, tj. povinnosti zdržet se (non facere) zásahů do věcných práv, která svědčí věcně oprávněnému.
+  - Předmětem věcných práv bývá zpravidla existující individuálně určená hmotná věc (např. konkretní stavba nebo automobil), nelze je vymezit jako právo na něco obecně (např. právo na mzdu). Výjimkou je např. právo stavby, jež je bráno jako věc v právním smyslu, nebo zástavní právo, které lze zřídit např. k pohledávce.
+  - Značná část věcných práv podléhá principu publicity, typicky jde o jejich zápisy do katastru nemovitostí.
+  - České právo má omezený počet věcný práv vyplývající z takzvané zásady *numerus clausus*
+  - Značně se liší oproti **závazkovým právům**, které zakládají práva a povinnosti jen mezi smluvními stranami, tedy *inter partes*
+- **Vlastnické právo**
+  - § 1011 - Vlastnictví - vše co někomu patří (věci hmotné i nehmotné) jsou jeho vlastnictvím
+  - Právní titul k věci?
+  - Nejobsáhlejší věcné právo a rovněž nejsilnější věcné právo
+    - právo všeobecné, přímé, výlučné panství nad věcí
+    - **jedná se o elastické právo - pokud je jeho šíře omezena a toto omezení skončí - vlátí se vlastnické právo do své původní šíře**
+    - **vlastnické právo je perzistentní (trvalé) - časově neomezené, trvá dokud vlastník má alespoň holé vlastnictví (vlastnický titul jako takový) i bez možnost nakládání s vlastnictvím**
+    - Má se za to, že každý si chce podržet své vlastnictví
+  - Upravené v části třetí - Absolutní majetková práva
+  - Jedná se však o právo, které je chráněno i Ústavním pořádkem (LZPS), tak i mezinárodními smlouvami
+  - Vlastnické právo je nezbytnou podmínkou existence a fungování svobodného trhu a tržního hospodářství.
+  - Působí *erga omnes*
+    - Vlastnickému právu tedy odpovídá povinnost všech ostatních subjektů nerušit vlastníka ve výkonu vlastnických práv.
+    - V rámci druhů subjektivních povinností se tedy jedná o povinost *omittere*, tedy zdržeti se zásahů do vlastnického práva
+  - Jedná se o oprávnění vlastníka v mezích zákona nakládat s věcí podle své vůle jakýmkoliv způsobem
+  - Vlastník má právo v mezích právního řádu se svým vlastnictvím libovolně nakládat a jiné z toho vyloučit
+  - Vlastnictví je předmětem vlastnického práva
+  - Jeho obsahem je právo vlastnit, které je složeno z níže uvedené analytické koncepce.
+  - **Definice vlastnictví**
+    - **syntetická koncepce** - převládá - všeobecné, přímé a výlučné panství osoby nad konkrétní věcí
+    - **analytická koncepce** - výčet práv, které pojem zahrnuje
+      - právo věc držet
+      - právo věc užívat
+      - právo na plody a užitky
+      - právo s věcí nakládat
+      - právo věc zničit a opustit
+  - **Omezení vlastnického práva**
+    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena, pokud by dané omezení nerespektoval -> možné postižení prostředky správního nebo trestního práva
+    - Vlastnické právo vlastníka končí tam, kde začíná vlastnické právo druhého vlastníka
+    - § 11 odst. 3 LZPS: Vlastnictví zavazuje. Nesmí být zneužito na újmu práv druhých anebo v rozporu se zákonem chráněnými obecnými zájmy. Jeho výkon nesmí poškozovat lidské zdraví, přírodu a životní prostřední nad míru stanovenou zákonem
+    - Prvním druhem omezení je **omezení VP veřejnoprávními předpisy**
+      - Zde se jedná o některá omezení - například ve formě možnost věc užívat, pokud se jedná o chráněnou památku -> je stanoven způsob památkové ochrany
+    - **Další omezení existují v občanském zákoníku**
+      - dvě kategorie:
+        - **Ve veřejném zájmu**
+          - **Vyvlastnění** - ve veřejném zájmu, který nelze jinak uspokojit, na základě zákona, za plnou náhradu
+            - Jedná se o něm ve zvláštním vyvlastňovacím řízení
+            - VP lze omezit, nebo vyvlastnit
+          - **Použití vlastníkovi věci**
+            - Zásadně ve stavu nouze nebo v naléhavém veřejném zájmu -> lze použít vlastníkovu věc, pokud účelu nelze dosáhnout jinak
+        - **V soukromém zájmu**
+          - V rámci subjektivních práv víme, že právo a povinnost jsou párové pojmy
+          - Moje právo vlastnit tedy zakládá i určité povinnosti, které musím při vlastnění dodržovat
+            - **Generální zákaz** - § 1012 OZ
+              - Vlastník má neomezené právo s věcí nakládat, **ale v rámci mezí zákona**, svým vlastnictvím tedy nesmí obtěžovat jiné a nesmí vykonávat takové činy, jejichž hlavním účelem je jiné osoby obtěžovat, nebo poškodit.
+            - **Zákaz imisí** - § 1013 OZ
+              - imsemi jsou různé prvky typu prach, voda, hluk etc.
+              - Ty nesmí vnikat na cizí pozemek v míře nepřiměřené místním poměrům a podstatně omezující užívání pozemku
+              - Zakázány jsou rovněž přímé imise -> úmyslné imise
+            - Občanský zákoník rovněž upravuje další práva, především ve smyslu práv a povinností (které ve své podstatě mohou omezovat vlastnická práva), které mezi sebou mají majitelé sousedních pozemků - říká se jim takzvaná **sousedská práva ** (jedná se o legální břemena)
+              - Je jich hodně a nemá smysl je znát, příkladem je:
+                - právo vstoupit na cizí pozemek pro vlastní movitou věc na pozemku se nacházejícím,
+                - práva týkající se rostlin - například spadlých plodů na cizí pozemek,
+                - zákaz určitých druhů pozemkových úprav, kvůli kterým by sousední pozemek ztratil náležitou oporu,
+                - stékající voda - právo požadovat úpravu stavby tak, aby nestékala voda nebo sníh na sousední pozemek,
+                - Etc.
+          - **Omezení práva může vyházet i z právní skutečnosti založemé na právním jednání vlastníka**
+            - Olbigačněprávní - například užívací a požívací právo, popřípadě půjča - ta pak souvisí s vytvořením věcného práva (například zástavní právo)
+            - Věcněprávní - například věcná břemena, či právo stavby
+          - Existují další omezení ve vztahu k vlastnictví věci, občanský zákoník upravuje dva důležité případy:
+            - **nezbytná cesta** - pokud by nebylo přístupu na pozemek možné dosáhnout z veřejné komunikace - může soused žádat vlastníka o nezbytnou cestou přes jeho pozemek za úplatu, může se obrátit i na soud - ten může schválit i jako služebnost
+            - **rozhrada** - hranice pozemku, například plot a zeď - vlastnící jí mají povinnost udržovat
+              - jedná se o společné vlastnictví
+- **Nabytí vlastnického práva**
+  - Pokud je právo převedeno - **derivativní nabytí**
+  - Pokud vzniká vlastnické právo k nové věci - **originální nabytí**
+- **Ochrana vlastnického práva**
+  - čl. 36 (1) LZPS: Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
+  - Listina základních práv a svobod rovněž zaručuje ochranu vlastnictví.
+  - Dále je chráněno i přímo v rámci OZ:
+    - § 12: Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávající veřejnou moc. Není-li v zákoně stanoveno něco jiného, je tímto OVM soud.
+  -
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1392,6 +1693,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+DODĚLAT
+- [ ] Držba
+- [ ] Detence
+- [ ] Věcná práva k věci cizí
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1400,6 +1705,48 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Držba**
+  - Držba je kontrola, kterou osoba úmyslně vykonává nad věcí, přičem držitel (possesor) s ní nakládá jako s vlastní.
+  - Držba je faktický stav chráněný a upravený právem.
+  - Držitelem je ten, kdo vykonává právo pro sebe.
+  - Držet lze právo, které lze právním jednáním převést na jiného a které připouští trvalý nebo opakovaný výkon.
+  - Osobní práva nejsou předmětem držby ani vydržení -> zákon ale poskytuje ochranu osobě, která vykonává právo v dobré víře, ač ji ve skutečnosti nenáleží -> ten kdo vykonává osobní právo poctivě je oprávněn jej vykonávat a hájit -> například pokud jsou vykonávána rodičovská práva k cizímu dítěti v důsledku záměny obou dětí ve zdravotnickém zařízení.
+  - Držba souvisí s právem, ale nerozlišuje se zda je držba věci, nebo práva, protože i držba věci je držbou vlastnického práva.
+  - Má dvě složky:
+    - fyzické ovládnutí věci: ten kdo má věc u sebe
+    - Vůle/úmysl ovládat věc jako vlastní: chuť být vlastníkem, vůle ovládat věc jako vlastní, naprosto a úplně pro sebe, ten kdo má věc pro sebe
+    - Podmínku vůle musí splňovat držitel (vlastník) věci, fyzické ovládnutí může splňovat i jiná osoba, například osoba, která na základě právního vztahu věc drží - vypůjčení, pronájem, přijetí do úschovy.
+  - **Držitel** = ten kdo vykonává právo pro sebe - právo držet, užívat a nakládat, není z toho nikomu odpovědný
+    - Aby mohl někdo být považován za držitele -> nutnost mít ově složky držby.
+    - Tato situace nastává pravidelně u vlastníka.
+    - Může jí však být i jiná osoba -> například osoba, která je v dobré víře, že nabyla vlastnické právo k věci, ale ve skutečnosti jej nenabyla například z důvodu neplatné smlouvy.
+    - Držba však může vzniknout i tomu, kdo věc odcizil - proto jsou stanoveny různé druhy držby a poskytuje jim různý stupeň ochrany.
+  - **Druhy držby**
+    - **vlastnická držba** = splňuje obě složky, je součástí vlastnického práva = právo držet
+    - **nevlastnická držba** = držba někoho jiného než vlastníka, držba v užším slova smyslu, držba jak ji chápe OZ = tedy fyzické ovládnutí věci
+    - s nevlastnickou držbou souvisí **detence** = tedy stav faktického ovládání věci, ale bez vůle mít ji pro sebe, detentor, který věc fakticky ovládá (chybí vůle) se k věci chová jako k věci cizí - nájem, pacht, výprosa a výpůjčka.
+  - **Předmětem držby**
+    - Věcné právo - majetkové, převoditelné na jiného, připouští trvalý, nebo opakovaný výkon -> **držet lze vlastnické právo, právo stavby a právo odpovídající věcnému břemenu**
+
+Definice věcných práv a závazkových práv.
+
+Pokojná držba.
+
+Požívací a užívací právo.
+
+závazková práva jakožto z povahy práva relativní vyjadřují dynamiku občanskoprávních vztahů (výměna různých
+statků mezi individuálně určenými subjekty) x absolutní věcná práva jsou z povahy právy absolutními a vyjadřují tedy
+statiku občanskoprávních vztahů
+povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)
+  inter partes - působí výlučně mezi stranami závazku
+  erga omnes - působí vůči všem (jichž se to může týkat)
+- **Věcná práva k věci cizí**
+  - právo stavby
+  - věcné břemeno
+  - zástavní právo
+  - zadržovací právo
+  - předkupní právo, je-li jako věcné právo sjednáno
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1419,6 +1766,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Dědické právo - pojem
+  - [x] Systém
+  - [x] Základní pojmy a principy
+  - [x] Dědění
+  - [x] Odkaz
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1426,6 +1779,136 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Dědické právo pojem**
+  - Dědické právo v právním smyslu je právo, které upravuje právo dědiců na pozůstalost po zemřelém (zůstavitelovi)
+  - Představuje jedu ze základních oblastí OZ a jedná se o normativní a regulativní systém, který upravuje přechodné majetkové povinnosti dle OZ.
+  - Jedná se o absolutní majetkové právo, které platí proti všem.
+- **Systém**
+  - Je upraveno v § 1475 až 1720 OZ
+  - Jedná se o převod jmění z osoby zemřelého na určenou osobu.
+    - Tato osoba může být určena buď zákonem - pak se jedná o takzvanou intestátní posloupnost
+    - Osoba však může být určena rovněž přáním zakladatele - pak se jedná o dědice, tím může být jak FO tak i PO (v případě pořízení pro případ smrti), nebo o odkazovníka (v případě vyhrazení odkazu) - tomu však vzniká pohledávka za dědicem
+    - Intestátním, nebo testamentárním dědicům vzniká takzvaný **dědický titul** - který je buď intestátní (zákonný) a nebo (testamentární)
+    - Lze dědit podle několika dědických titulů - pak se jedná o takzvanou kumulaci dědických titulů
+- **Základní pojmy a principy**
+  - Dědické právo vychází ze zásad (principů):
+    - a) zachování hodnot
+    - b) univerzální sukcese - přecházejí jak práva, tak i povinnosti
+      - dědici jsou odpovědi za dluhy zůstavitele v plném rozsahu i nad nabyté dědictví, mohou si ale vyhradit **soupis pozůstalosti** - pak růčí pouze do výše nabytého dědictví
+    - c) přechod majetku na jednotlivce - dědictví nabívají konkrétní osoby
+    - d) rovnosti
+    - e) volnosti přijetí či odmítnutí dědictví
+    - f) ingerence přijetí moci při nabytí - o tom rozhoduje soud
+  - Pojmy
+    - Pozůstalost - veškeré jmění, které náleželo do vlastnictví zůstavitele v den jeho smrti
+      - Nespadají věci, které nejsou způsobilé přejít na právní nástupce
+      - Nespadají tak například práva a povinnosti, které jsou výhradně vázány na osobu zůstavitele, ledaže byli jako dluh uznány u orgánu veřejné moci - například bolestné, či satisfakce v penězích.
+    - Dědictví - právo jednotlivých dědiců na pozůstalost nebo na poměrnou část z ní
+    - **Nepominutelný dědic**
+      - Pouze dítě zůstavitele, nebo potomci dítěte zůstavitele.
+      - Nepomiutelný dědic má vždy právo na svůj povinný díl.
+        - Pokud je nezletilý 3/4 jeho zákonného dědického podílu.
+        - Pokud je zletilý 1/4 jeho zákonného dědického podílu.
+        - Tedy například pozůstalost -> 10 milionů -> 1 nezletilý a 1 zletilý
+          - Nezletilý - minimálně 3/4 z 5 milionů - 3,75 milionu
+          - Zletilý - minimálně 1/4 z 5 milionů - 1,25 milionu
+          - Zůstavitel tedy může pořídil o 5 milionech pro jiné dědice, 5 milionů ale musí nechat nezatížených pro své nepominutelné dědice
+      - **Opomenutí nebo zkrácení dědice však nezpůsobí neplatnost závěti, pouze dědici založí právo domáhat se vůči ostatním dědicům svého povinného dílu.**
+- **Dědění**
+  - Dědické právo vzniká smrtí zůstavitele a je právem na pozůstalost nebo na poměrný podíl z ní (ten kdo zemře společně se zůstavitelem, nebo před ním není způsobilý dědit).
+    - **Požadavky kladené na zůstavitele**
+      - Vždy se musí jednat o FO
+      - Zůstavitel může být omezen ve aktivní způsoblisto dědit (aktivní dědické právo) - pokud je nezletilý a pokud je omezen ve svéprávnosti
+      - Výjimka - dovršení 15 let - může pořizovat formou veřejné listiny i bez souhlasu zákonného zástupce
+      - Omezený na svéprávnosti - možnost pořízení také pouze formou veřejné listiny
+      - Závislý (například na alkoholu) a omezený na svéprávnosti - může pořizovat jakoukoliv formou avšak pouze o polovině pozůstalosti, pokud by však neměl zákonné dědice - o celém majetku
+    - **Požadavky kladené na dědice**
+      - Musí splňovat jak aktivní, tak i pasivní podmínky
+      - Aktivní (**dědická nezpůsobilost** v případě následujícího bodu)
+        - Nesmí se dopustit proti zůstaviteli vymezených činů - například úmyslný trestní čin proti zůstavitelovi, jeho předkovi, potomkovi nebo manželovi, ani zavrženíhodného činu proti poslední vůli - například donucení, zničení, nebo zfalšování, popřípadě pokud se dopustil domácího násilí
+        - Pokud se jich dopustí -> automaticky dědicky nezpůsobilý, ledaže mu to zůstavitel výslovně prominul
+        - **Další druhy aktivních podmínek**
+          - Pokud nastanou -> vyloučení dědice z dědického práva
+          - Mohou být jak na straně zůstavitele, tak na straně dědice
+          - Taxativně vymezené:
+            - **Zřeknutí se dědického práva** - za života zůstavitele smlouvou, může působit i vůči potomkům dědice, který se zřekl (to je dispozitivní a záleží to na tom, jak si to strany mezi sebou ujednají)
+            - **Odmítnutí dědictví** - v případě, že tato možnost není vyloučena dědickou smlouvou, kterou mezi sebou zůstavitel s dědicem sepsali, může dědic po smrti zůstavitele výslovným prohlášením vůči soudu dědictví odmítnout.
+              - Nepominutelný dědic může dědictví odmítnout rovněž s výhradou povinného dílu
+              - V případě odmítnutí se na dědice pohlíží, jako by dědictví nikdy nenabyl.
+            - **Vzdání se dědictví** - po smrti se dědic může svého dílu vzdát ve prospěch jiného dědice - ten musí souhlasit, jinak se ke vzdání se dědictví nepřihlíží.
+              - Učiní-li tak nepominutelný dědice, vzdává se práva i na povinný díl i s účinností pro své potomky.
+              - **Důležité:** pokud byl dědic obtížen příkazem, nařízením odkazu, nebo jiným opatřením, které podle zůstavitelovi vůle může a má splnit jen osobně , nezbavuje se vzdáním povinnosti splnit takové opatření.
+            - **Vydědění (na straně zůstavitele)** - zůstavitel může z vymezených důvodů dědice vydědit - a to jak z práv tak i povinností, prohlášení o vydědění lze učinit stejným způsobem jako závěť.
+              - 4 důvody:
+              - Neposkytnutí potřebné pomoci v nouzi,
+              - neprojevuje opravdový zájem, jaký by projevovat měl,
+              - byl odsouzen pro trestný čin svědčící o okolností jeho zvrhlé povaze,
+              - vede trvale nezřízený život.
+              - Další důvody:
+                - Není dědicky způsobilý
+                - Je zadlužený a je tu obava, že by se nedostalo na jeho potomky -> pak ale musí zůstavit daný vyděděný díl jeho potomkům
+              - Pokud není důvod -> dědic má právo na svůj povinný díl, pokud dědic s důvodem nesouhlasí -> může se bránit žalobou a musí prokazovat
+              - Může též sepsat negativní závěť  -> vyloučení jiného než nepominutelného dědice
+            - **Zcizení dědictví **- dědic může po smrti zůstavitele dědictví smlouvou ve formě veřejné listiny bezúplatně a nebo úplatně zcizit.
+              - Nabyvatel vstupuje jak do práv, tak i do povinností, s zcizitelem je za dluhy však zavázán společně a nerozdílně.
+      - Pasivní
+        - Dědic musí být buď právnická osoba, nebo fyzická osoba, nebo stát v případě odúmrti
+        - PO i v případě, že vznikne maximálně do 1 roku od smrti zůstavitele
+        - **Předpoklady dědictví**
+          - 1- smrt FO
+          - 2- existence pozůstalosti
+          - 3- způsobilý dědic
+          - 4- dědický titul
+          - 5- přijetí dědictví
+  - **Dědické tituly**
+    - Dědí se na základě dědického titulu - na základě tohoto titulu se člověk považuje za dědice (dědic = ten komu náleží dědické právo)
+      - dědická smlouva - nejsilnější dědický titul,
+        - nutnost - pořizovací a smluvní způsobilost, formou veřejné listiny - maximálně o 3/4 majetku - o 1/4 rozhoduje zůstavitel pomocí zvlášť projevené vůle - například pomocí závěti
+        - dvoustranné právní jednání - nelze jednostranně zrušit
+        - ve formě notářského zápisu -> jinak se považuje za závěť
+      - Závěť - druhý nejsilnější dědický titul,
+        - jednostranný odvolatelný projev vůle, existuje několik druhů závětí
+          - psaná vlastní rukou a podepsaná (holografní)
+          - nepsaná vlastní rukou - musí být před 2 svědky (alografní)
+          - nebo může být ve formě notářského zápisu
+          - existuje ještě závěť s úlevami (privilegovaná závěť) - v jistých specifických vymezených případech, například při ohrožení života - možnost ústně pořídit závěť před 3 svědky -> omezená platnost
+        - **Vedlejší doložky v závěti**
+          - zakladatel může v závěti rovněž stanovit doložení času a nebo podmíku či příkaz - **splnitelnou**
+        - **zrušení závěti**
+          - odvolání, pořízení nové
+        - **projev vůle**
+          - určitý a prostý, osobně zůstavitel, jeho vlastní vůle
+      - Zákon - nejslabší dědický titul
+        - pokud není platné DS nebo Z, nastupuje intestátní posloupnost - 6 dědických tříd
+        - 1- děti, manžel
+        - 2- Manžel, rodiče,
+        - 3- sourozenci, spolužijící v domácnosti minimálně po dobu 1 roku
+        - Další nejsou podstatné
+  - **Odkaz a dovětek**
+    - **Odkaz** - zůstavitel může povolat odkazovníka, kterému něco odkáže (právo nebo věc), jedná se o výjimku z univerzálně dědické sukcese - přechází pouze práva a odkazovní neručí za dluhy zůstavitele, odkazovní není dědicem! (může se však stát dědicem, pokud není jiných dědiců a on jediný je odkazovníkem)
+      - lze zřídit jak ve prospěch osoby právnické tak i fyzické
+      - dědictví potvrzuje soud, odkaz však uplatňuje odkazovník přímo vůči dědicům bez soudní ingerence - zůstavitel tak fakticky zřídil pohledávku odkazovníka vůči dědicům
+      - zřídí se tak, že se určitému dědici nařídí, aby vydala obsah odkazu odkazovníkovi
+      - odkazovníkem může být určen pouze ten, kdo je způsobilý dědit
+      - každému dědici musí zůstat alespoň 1/4 dědictví odkazy neobtížená
+    - **Dovětek** - dalším pořízením pro případ smrti, neustanovuje se jím však dědic, ale zůstavitel v něm činí různá opatření - zřízení odkazu, zatížení dědice nebo odkazovníka (pododkaz) příkazem a podobně.
+      - použijí se na něj stejná ustanovení jako na závěť
+      - může být pořízen současně se závětí, nebo samostatně
+  - **Vykonavatel závěti a správce pozůstalosti**
+    - Vykonavatel - hledí na dodržování zůstavitelovi vůle a jeho pokynů, může namítat nezpůsobilost etc.
+    - Správce pozůstalosti - spravuje majetek v pozůstalosti, řídí se příkazy vykonavatele
+  - **Procesní aspekty pozůstalostního řízení**
+    - Zahajuje se na návrh dědice, nebo ve chvíli, kdy matriční úřad oznámí soudu úmrtí zůstavitele.
+      - Skládá se v podstatě ze dvou fází.
+      - 1- předběžné řízení -> zjišťuje se jmění zůstavitele, okruh dědiců, z evidence Právních jednání pro případ smrti se zjišťuje, zda po sobě zůstavitel nezanech listiny důležité v řízení o pozůstalosti -> tedy například závěť či dovětek, je potřeba říct, že majetek ale notář sám nevyhledává, je potřeba ho určit -> zpravidla osoba, která vypravuje pohřeb
+      - 2- jednání u soudního komisaře -> jímž je soudem pověřený notář -> pozůstalost se rozdělí mezi jednotlivé dědice, podle dohody dědiců, podle zákonných dědických podílů, nebo podle přání zůstavitele. Notář následně vydá usnesení jímž pozůstalostní řízení končí
+    - Převod NM - zapíše se do KN zpětně ke dni úmrtí zůstavitele.
+  - **Dědická substituce a svěřenské nástupnictví**
+    - Dědická substitute (obecné náhradnictví) - v případě, že by dědic dědictví nenabyl (například kvůli úmrtí), je mu možné povolat náhradního dědice, který bude dědit místo něj
+      - Nabude-li dědictví dědic, náhradnictví zaniká
+    - Svěřenské nástupnictví - dědic povolá následníka přednímu dědici, dědic je pak obecně jen poživatel (držet a užívat a má nárok na plody a užitky, nesmí s ním však nakládat), například po úmrtí, nebo po splnění nějaké podmínky, má přední dědic povinnost vydat dědictví svému nástupci
+      - nařízení zůstavitele, aby přední dědic (fiduciář) přenechal dědictví nebo jeho část po své smrti nebo při splnění jiné podmínky jinému, následnému dědici, který se označuje jako svěřenský nástupce (fideikomisář).
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1445,6 +1928,14 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Závazek
+  - [x] Struktura
+    - [x] Subjekty a strany
+    - [x] Předmět
+    - [x] Obash
+  - [x] Společné závazky
+  - [x] Vznik závazků
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1453,6 +1944,158 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Závazek**
+  - **Relativní majetková práva plynou ze závazků**
+  - předmětem závazkového práva je závazek
+  - Závazek čili obligace (též závazkový právní poměr)
+  - Jedná se o součást soukromého práva, je tvořeno systémem norem upravujících závazky
+    - Právní norma = obecně závazné pravidlo chování, jehož zachování je vynutitelné státní mocí a je vyjádřeno ve zvláštní stanovené formě
+  - Upraveno ve čtvrté části OZ - relativní majetková práva
+  - Jedná se o vztah mezi dvěma lidmi, nebo skupinami, z něhož jedné (dlužníku) plyne povinnost v budoucnu něco dát, udělat, popřípadě něčeho se zdržet, kdežto druhé naopak oprávnění splnění závazku očekávat, případně i vymáhat (věřitel) - je to vynutitelný a chráněný vztah.
+    - Uznání principu závazku je jedním ze základních a nezbytných předpokladů platnosti práva. Závazek (obligace) je v právu individuální vztah mezi dvěma či více (fyzickými nebo právnickými) osobami, který dlužníka zavazuje vůči věřiteli k určitému plnění, což je povinnost něco dát, něco konat, něčeho se zdržet nebo něco strpět.
+  - Právo věřitele na určité plnění dlužníka je pohledávka (§1721), které obsahově totožně odpovídá povinnosti dlužníka – dluhu. Je-li právo dospělé (např. pohledávka je splatná) bývá označováno jako nárok.
+  - Je nutné říci, že ze závazkového vztahu přes výše uvedené vznikají práva a povinnosti oběma stranám, standardně třeba na jedné straně - vydání určité věci a na druhé straně zaplacení kupní ceny.
+    - Věřitelem ze závazkového smluvního vztahu se tak může stát kterákoliv strana - jedna například ve smyslu vydání věci (žaloba na vydání) a druhá například ve smyslu uhrazení kupní ceny (žaloba na uhrazení kupní ceny), nebo kterákoliv z pohledu deliktu jedné ze stran (například náhrada za škodu).
+    - výjimku by mohli samozřejmě tvořit bezúplatné smlouvy
+  - **Pojem závazek**
+    - používá se pro označení:
+      - závazkového právního vztahu (například vztah ze smlouvy, ale i závazek z porušení práva)
+      - povinnosti z tohoto závazku plynoucí (například povinnost zaplatit kupní cenu)
+        - úprava nahradila pojem závazek v tomto smyslu pojmem dluh
+      - **Pojem závazek a dluh**
+        - pohledávka - právo věřitele požadovat od dlužníka určité plnění (tj. aby něco dal, udělal, něčeho se zdržel či něco strpěl)
+        - stane-li se pohledávka splatnou (dospělou), stává se nárokem - lze ji vymáhat soudně
+        - dluh - povinnost dlužníka poskytnout věřiteli určité plnění (tj. něco dát, udělat, …)
+      - **Pojem věřitel a dlužník**
+        - v hovorové češtině se zpravidla jako dlužník označuje ten, kdo jinému (věřiteli) dluží peníze
+        - z právního pohledu je dlužníkem každý subjekt povinný (něco dát, udělat, …) a věřitelem subjekt oprávněný (požadovat aby dlužník něco dal, konal, …) - povinnost dlužníka se tedy z právního hlediska týká i nepěněžitého plnění
+      - **Charakteristické rysy závazkových vztahů**
+        - Relativní subjektivní práva *inter partes*
+    - **Funkce závazků**
+      - zabezpečit uspokojování lid. potřeb ve vzájemné součinnosti (kooperace) – nutnost zabezpečení součinnosti právem, které je závazné a vynutitelné, existence sankcí – zprostředkovává soukromé právo, zejména občanským právem závazkovým – smluvním i deliktním
+      - tj. zejména: umožňovat převádění hodnot (smlouva kupní, darovací, o půjčce, o dílo atd.)
+      - úprava vyrovnání újmy – v podstatě deliktní právo
+      - uspokojování potřeby, kterou si osoba nemůže obstarat sama jinými způsoby – smlouva o půjčce, nájem, příkazní smlouva
+  - **Třídění závazků**
+    - podle důvodu vzniku lze závazky třídit na:
+      - z právního jednání (dvoj, či vícestranného)
+      - z deliktu porušení povinosti (smluvní či zákonné)
+        - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
+      - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
+        - vznik z jiné právní skutečnosti, do které se dají řadit i závazky vzniklé ze zákona (viz níže) je možné členit dále na
+          - **kvazikontrakty** - nepřikázané jednatelství, veřejná soutěž, veřejný příslib
+          - **kvazidelikty** - objektivní odpovědnost za újmu (chybí zavinění), bezdůvodné obohacení
+      - Další druhy třídění:
+        - například formální X neformální, úplatné X bezúplatné
+        - Dále třeba například závazek hlavní a vedlejší
+          - Vedlejší závazek ýáleží na závazku hlavním a zpravidla sleduje jeho osud
+  - **Vznik závazků**
+    - viz třídění závazků
+    - tedy právní důvod existence závazku
+      - ze smlouvy
+        - SIDE NOTE - **uzavření smlouvy adhezním způsobem** - typ smlouvy "ber a nebo nech být", druhá strana nemá možnost ovlivnit obsah smlouvy
+        - Smlouva je nejběžnější
+          - Proces - zjednodušeně
+            - 1- návrh na uzavření smlouvy
+            - 2- uzavření smlouvy - nabitím účinnosti - tedy přijetí (samozřejmě může být určen čas, nebo jiná podmínka)
+          - Příklady smluv:
+            - kupní, darovací, o dílo, zápůjčka, výpůjčka - bezplatná, nájemní smlouva, pacht, úschova, o ubytování, o přpravě osob a věcí a další **inominátní smlouvy**, smlouva se vždy posuzuje podle svého obsahu, nikoli podle svého názvu
+          - Existují další způsoby uzavření smluv než klasická - nabídka a přijetí
+            - dražba - příklepem, veřejná soutěž o nejvýhodnější nabídku, veřejná nabídka
+          - Možnost ke smlouvě stanovit obchodní podmínky, co je ale ve smlouvě má přednost
+      - ze zákona - standardně z nějakého protiprávního činu
+      - z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá - například z bezdůvodného obohacení, nepříkázaného jednatelstcí, upotřebení věci ku prospěchu jiného
+        - Ustanovení o závazcích, které vznikají ze smluv, se použijí přiměřeně i na závazky vznikající na základě jiných právních skutečností.
+  - **Obash závazků**
+    - Souvisí s **druhy právních povinností** - neboť ze závazku plyne jedné straně povinnost
+      - něco dáti
+      - něco konati
+      - něčeho se zdržet
+      - něco strpět
+  - **Zásady smluvního práva**
+    - Zejména jde o zásady
+      - Rovnosti stran
+      - Smluvní svobody (jen výjimečně je povinnost uzavřít smlouvu - například účetní)
+      - Svobody uzavřít smlouvu
+      - Zásada sdělení informací při uzavírání smlouvy
+      - Svoboda výběru druhé strany
+      - Svoboda uzavřít i jiné než **nominátní** smlouvy - **inominátní**
+      - Svoboda tvorby obsahu smlouvy - navazuje na autonomii vůle
+      - *Pacta sunt servanda* - smlouvy se musí dodržovat
+      - Zásada dobré víry
+      - Není možné se s úspěchem dovolávat vlastní nepoctivosti
+    - Význam zásad smluvního práva
+      - pro posuzování práva a vykládání norem
+      - výkladové pravidlo *analogie legis* pokud právo nelze nalézt/aplikovat pomocí jedné normy, použije se norma obdobná
+      - další výkladové pravidlo potom je *analogie juris* = ta právě vychází ze zásad -> pokud není podobné pravidlo, posoudní se podle principů spravedlnosti a **zásad** -> zásady takto mohou vyplňovat mezery v zákoně
+- **Odpovědnost**
+  - Odpovědnost- důsledkem odpovědnosti za porušení závazku je vznik či aktivace opět nového závazku mezi porušitelem práva a nositelem pohledávky (práva, jež bylo porušeno), nikoliv závazek (povinnost) mezi porušitelem a představitelem veřejné moci (státem) jako v případě veřejnoprávní odpovědnosti.
+- **Vadné plnění**
+  - Může se stát, že dlužník splní svůj dluh vadně - například obejkt (předmět plnění) nemá stanovené nebo ujednané vlastnosti -> v takové případě vznikají věřiteli **práva z vadného plnění, bylo-li zboží úplatné**
+    - Nutnost vadu vytknout maximálně 6 měsíců od převzetí
+  - Pokud bylo plnění v obchodě (tedy spotřebitel X podnikatel) - pokud se do 6 měsíců objeví chyby -> vyvratitelná právní domněnka, že daná věc byla vadná již při převzetí
+    - Pokud je vada ostranitelná -> možnost domáhat se opravy, doplnění toho co chybí, nebo přiměřené slevy z ceny
+    - Pokud je vada neodstranitelná a nelze-li kvůli ní předmět správně užívat -> odstoupení od smlouvy, nebo přiměřená sleva z ceny
+  - Dlužník však ze zákona odpovídá pouze za vady, které měl předmět v době předání.
+    - Pro záruku, že si předmět udrží sjednané vlastnosti po nějakou dobu -> potřeba sjednat **záruku za jakost** - například při prodeji spotřebitel X podnikatel automaticky 2 letá záruka za jakost
+- **Struktura závazku**
+  - **Subjekty** - Strany, které mezi sebou mají právní vztah založený na základě smlouvy
+  - **Objekty** - Neboli předměty, kterých se daná smlouva týká - Plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový.
+    - Dá se tedy říci, že věřitel má právo očekávat toto plnění v podobě s obsahem závazku a durem právní povinnosti z něho plynoucího
+    - Jdou opět třídit:
+      - Dle určení předmětu: Jednotlivě, druhově, alternativně
+      - Dle dělitelnosti: dělitelné X nedělitelné
+      - Dle opakování se: Jednorázové X opakující se X trvající
+      - A tak dále, například: Peněžité X Nepeněžité X Úrokové
+  - **Obsah** - práva a povinnosti ujednané mezi stranami
+- **Zánik závazků**
+  - Řádným splněním - *soluce*
+  - Uplynutím doby - záleží zda prekluze, nebo promlčení
+  - Dohodou - *disoluce*
+  - Pokud je znemožněno plnění
+  - Smrtí dlužníka - v případě omezení pouze na danou osobu
+  - A další, například:
+    - Narovnnání, novace, započtení, prominutí, výpovědí, odstoupením (smlouva se od počátku ruší - povinnost vrátit si plnění), adresované X neadresované
+- **Společné smlouvy**
+  - alespoň na jedné straně je více než 1 účastník
+  - pluralita subjektů - ti se musí ve smlouvě zavázat ke společnému plnění
+    - na straně věřitele
+    - na straně dlužníka
+    - na obou stranách
+  - vztahy mezi stranami se liší podle druhu závazku:
+    - dílčí závazek - každý dlužní dluží svůj díl a každý věřitel je věřitelem jen svého dílu
+    - nedílný závazek - celé plnění může věřitel požadovat po jednom dlužníkovi, ale závazek může mít takovou povahu, že jsou ho schopni plnit jen všichni spoludlužníci dohromady - pak věřitel nemůže požadovat plnění jen po jednom - to je ten rozdíl oproti solidárnímu závazku
+    - solidární závazek - společně a nerozdíle (jeden za všechny, všichni za jednoho) mohou být oprávněni jak věřitelé, tak mohou být i povinni dlužníci -> pokud jeden dlužník splní, má právo požadovat náhradu od ostatních společných dlužníků
+  - druh závazku primárně závisí na vůli smluvních stran a na předmětu plnění (zda je nebo není dělitelný)
+  - druh společného závazku může určit zákon nebo soud
+  - důvodem samostatné právní úpravy je vznik složitějších právních situací
+  - navazuje na dosavadní právní úpravu
+  - NOZ - obecná ustanovení - § 1868 a následující
+    - §1868
+      - (1) Zaváže-li se několik dlužníků k témuž plnění, nebo zaváže-li se dlužník několika věřitelům k témuž plnění, spravují se společný dluh i společná pohledávka podle zásad o spoluvlastnictví.
+      - (2) Je-li na jedné ze stran více osob, má druhá strana právo požadovat určení společného zástupce pro účely doručování. Neučiní-li tak, určí tohoto zástupce na návrh soud.
+ - **Nepoměry v plnění**
+  - 1- Neúměrné zkrácení - možné se dovolat do roku od uzavření smlouvy - relativní neplatnost -> možnost požadovat zrušení, nebo doplnění
+  - 2- Lichva - zneužití tísně, nezkušenosti, rozumové slabosti etc. jehož obsahem je plnění v hrubém nepoměru -> absolutní neplatnost, pokud takovouto smlouvu ale uzavře podnikatel -> platná a nemůže se dovolávat neplatnosti
+- **Další podstatné informace týkající se závazků**
+  - Úroky
+    - úprava: § 1802 NOZ
+    - nutné sjednat ve smlouvě → není-li jejich výše ujednána, platí dlužník úroky ve výši stanovené pr. předpisem
+  - Záloha
+    - úprava: § 1807 NOZ
+    - =to, co dala jedna strana druhé před uzavřením smlouvy
+    - například záloha z kupní smlouvy - část celkové kupní ceny
+  - Závdavek
+    - úprava: § 1808 NOZ
+    - =prostředek potvrzení uzavření smlouvy a strana, který jej dala, poskytuje jistotu, že dluh splní
+    - odevzdává se nejpozději při uzavření smlouvy
+    - jedná se například o kauci u pronájmu bytu
+  - Některé závazky mají od počátku povahu natorální obligace a nejdou proto vymáhat - například závaky z her, nebo losu
+
+
+
+~~- Závazek může být **právní** - při nesplnění lze vymáhat vnějšími prostředky a sankcemi.~~
+~~- Věcné a závazkové právo, právo hmotné a procesní.~~
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -1470,6 +2113,11 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+- [x] Smlouvy
+  - [x] Uzavírání smluv
+  - [x] Formování jejich obsahu
+  - [x] Jejich forma a účinky
+- [x] Smlouva o smlouvě budoucí
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1478,6 +2126,87 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Smlouvy**
+  - **Obecně**
+    - Právní důvod vzniku závazku
+    - Právní vztah, jimiž strany projevují vůli zřídit mezi sebou závazek a řídit se obsahem tohoto závazku (smlouvy)
+      - Ustanovení o smlouvě se použijí obdobně i na projev vůle, kterým se jedna osoba obrací na jiné osoby (ledaže je to vyloučeno povahou dané vůle nebo zákonem)
+    - Pokud je při témžě právním jednání uzavřeno několik smluv, nebo pokud je do jedné listiny zahrnuto více smluv -> posuzují se samostatně, ledaže jsou na sobě závislé -> pak se posuzují společně co do vzniku a zániku
+    - **Princip svobodného jednání o smlouvě a neexistence povinnosti smlouvu uzavřít** -> nikdo neodpovídá za to, že neuzavře smlouvu, je to každého právo
+      - 1- Výjimka je, pokud jednání zahájil s úmyslem smlouvu neuzavřít -> pak je možné dovodit odpovědnost (domnívám se, že například za škodu)
+      - 2- Druhou výjimkou je, pokud strana smlouvu neuzavře bez spravedlivého důvodu, přesto, že se v jejím vyjednávání dostaly obě strany velice daleko a uzavření smlouvy se zdálo jisté -> odpovědnost za škodu
+    - **Povinnost sdělit si mezi stranami podstatné skutkové a právní okolnosti** -> kvůli možnosti "kvalifikovaně" se rozhodnout
+  - **Uzavírání smlouvy**
+    - Základní způsob uzavření smlouvy spočívá v:
+      - 1- Učinění návrhu na uzavření smlouvy (jinak také oferta)
+        - **Náležitosti**
+          - Právní jednání směřující k uzavření smlouvy = **nabídka**
+          - Musí existovat zřejmá existence úmyslu navrhovatele uzavřít smlouvu s osobou, které činí nabídku
+          - Musí obsahovat podstatné náležitosti smlouvy a vůli navrhovatel být nabídkou vázán, bude-li přijata
+            - VEDLEJŠÍ (Za nabídku se však dá považovat i reklama v katalogu, nebo vystavení zboží (při podnikatelské činnosti))
+          - Pokud právní jednání neobsahuje výše uvedené = nejedná se o nabídku a nemůže být přijata
+          - **Veřejný příslib a výzva k podání nabídky**
+            - Nabídku je možné učinit rovně ve formě takzvaného **veřejného příslibu** -> obsahuje li projev vůle nabízejícího slib plnění za určitý výkon či výsledek (Kdo najde mého psa, vyplatím mu odměnu ve výši 5000 korun českých).
+            - Pokud neobsahuje slib plnění, jedná se o výzvu k podání nabídky
+          - **Zrušení a odvolání nabídky**
+            - Nabídka muže být učiněna jako neodvolatený projev vůle (tady je dobré zmínit, že toto může plynout i například z jednoho z pramenů obchodního práva, a to z **obchodních zvyklostí**) -> i tak lze zrušit, pokud zrušení dojde druhé straně dříve, nebo současně s doručením nabídky.
+            - Nabídku lze i odvolat -> i v době po obdržení nabídky, pokud je ve smlouvě tato možnost vyhrazena
+          - **Zánik nabídky**
+            - Účinností odmítnutí
+            - Dále úmrtí, omezení svéprávnosti, zánik (PO)
+      - 2- Přijetí návrhu (nabídky) na uzavření smlouvy -> účinnost smlouvy (jinak také akceptace)
+        - **Náležitosti**
+          - Přijetí nabídky -> ve chvíli kdy je včas (například ve lhůtě) projeven souhlas nabídku přijmout (mlčení, nebo nečinnost zpravidla není souhlas), ale lze přijmout i konkludentně (například při obchodních zvyklostech)
+          - Přijetí se změnami -> jedná se o nový souhlas
+          - Pokud je nabídka určena více lidem a z povahy nabídky navrhovatel chce, aby všichni lidi nabídku přijali -> považuje se za přijatou přijetím všech oslovených
+          - Přijetí lze zrušit - pokud zrušení přijde alespoň současně s přijetím nabídky
+          - Smlouva je uzavřena okamžikem účinnosti přijetí
+    - Jsou i další způsoby uzavření smlouvy - zvláštní způsoby uzavírání smlouvy
+      - 1- Dražba -> smlouva uzavřena příklepem licitátora
+      - 2- Veřejná soutěž o nejvhodnější nabídku -> výzva k podávání nabídek (lze zrušit pouze pokud je tato možnost vyhrazena), vyhlašovatel si vybírá tu z nabídek, která mu nejvíce vyhovuje, může odmítnout i všechny pokud si to vyhradí
+      - 3- Veřejná nabídka -> navrhovatel uveřejní nějakou nabídku -> ta je uzavřena s osobou, která nabídku přijme, popřípadě pokud přijme více osob s tou, kterou si navrhovatel vybere, popřípadě se všemi osobami
+  - **Formulování obsahu smlouvy**
+    - **Nominátní smlouvy** - posoudí se podle obsahu a jejich forma (tedy i obsahové náležitosti) jsou vymezeny ke každé pojmenované smlouvě
+    - **Inominátní smlouvy** - občanský zákoník stanovuje základní obsahové náležitosti obecně
+    - Část obsahu smlouvy může být ujednán i dodatečně, dohodnou-li se tak strany, má se za to, že doplnění je podmínkou účinnosti uzavřené smlouvy, zákon stanoví dispozitivní lhůtu 1 rok pro doplnění, jinak se smlouva ruší
+    - Část obsahu smlouvy může být stanovena v obchodních podmínkách (smlouva má však vždy přednost při nesouladu OP se smlouvou)
+      - Pokud je to ujednáno a pokud strana v běžném obchodním styku uzavírá smlouvy s větším počtem osob -> je možné z rozumných důvodů OP změnit -> musí být však ujednána možnost v takovém případě smlouvu vypovědět
+      - Druhá strana závazku je chráněna před **neočekávanými podmínkami v OP** pokud je výslovně nepřijala
+    - **Obsah smlouvy**
+      - Vzniká závazev s **právní povinností**, dát, zdržet se, strpět, nebo vykonat, viz výše
+      - Samotný OZ ale obecně nestanoví krom faktického obashu a předmětu závazku žádné další specifické požadavky například na identifikaci subjektů -> povinnost zřejmě plyne z **informačního principu**, *analogie legis* by se dalo použít ustanovení popisující nutný obash smluv uzavíraných se spotřebitelem
+      - Měla by obsahovat důvod pro který dlužník plní věřiteli - pokud neobsahuje, nebrání to jejímu vzniku a trvání, věřitel je ho ale povinen v případě nutnosti prokázat -> určité druhy závazků tuto povinnost nekladou (například závazek z cenného papíru)
+      - Pokud se jedná o plnění za úplatu -> měla by být vyjádřena cena, jinak cena obvyklá
+      - Obsah smlouvy nesmí být v **hrubém nepoměru** -> pak je možné požadovat zrušení a vrácení plnění, nebo doplnění plnění -> neplatí, pokud strana vědomě s nepoměrným plněním souhlasila, objektní lhůta 1 rok
+      - Obash smlouvy je naplatný také pokud se jedná o **licvhu** -> zneužití postavení druhé strany k plnění v hrubém nepoměru -> na podnikatele se nevztahuje
+      - Smlouva může být obsahem **smlouvou adhezní** -> ber nebo nech být, slabší strana je ale chráněna před zneužitím OP, nebo doložek k újmě slabší strany
+  - **Forma smlouvy a její účinky**
+    - Smlouva může být uzavřena jak **ústně**, tak i **písemně**
+      - V případě ústní - podstatná je vůle stran ujednat podstatné náležitosti smlouvy
+      - Je možné smlouvu po ústním uzavření potvrdit písermnou formou -> platná pokud je jen s nepatrnými ochylkami a je scvhálena druhou stranou
+      - Pokud strany projeví vůli ujednat smlouvu v určité formě -> má se za to, že pokud v ní ujednána nebude, nechtějí jí být vázáni (platí i pokod jedna ze stran trvá na uzavření smlouvy v písemné podobě)
+    - **Účinky**
+      - Smlouva strany zavazuje k právům a povinnostem ve smlouvě určeným, zavazuje jen *inter partes*, třetí osoby zavazuje jen stanoví-li tak zákon
+      - Smlouva je běžně účinná přijetím druhé strany, může být však i vázána na rozhodnutí určitých orgánů -> pak je účinná tímto rozhodnutím
+      - Smlouvu lze **měnit** jen:
+        - 1- se souhlasem všech stran
+        - 2- v případech v souladu se zákonem
+        - **Změna okolností**
+          - Změna okolností na smlouvě nic nemění, pokud se nejedná o **podstatnou změnu okolností** (podstatné je, aby vznikl hrubý nepoměr mezi plněními) -> pokud na sebe strana nevzala riziko změny okolností
+            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud (subjektivní lhůta k podání 2 měsíce)
+      - Je možné ujednat si zákaz zatížení, nebo zcizení -> působí **inter partes**, pokud není ujednáno jako **věcné právo**
+      - **Smlouva ve prospěch třetí osoby**
+        - Je možné ujednat plnění ve prospěch třetí osoby -> ta musí právo přijmout, pokud nepřijme, může věřitel požadovat plnění pro sebe pokud to neodporuje obashu a účelu smlouvy
+      - **Smlouva o plnění třetí osoby**
+        - **Smlouva o přimluvení se u třetí osoby** = pouze zavázání, že se přimluví u třetí osoby, aby ujednané plnění poskytla -> neodpovídá pokud neposkytne
+        - **Smlouva o zavázání se, že třetí osoba poskytne** = to samé jako výše, přímluvce je ale odpovědný za situaci, kdy třetí osoba odmítne plnit
+  - **Smlouva o smlouvě budoucí**
+    - Jedná se o situaci, kdy se jedna strana zaváže uzavřít po vyzvání v ujednané lhůtě v budoucnu smlouvu, ta musí být ve smlouvě o smlouvě budoucí alespoň základně specifikována -> zavázená straně vzniká povinnost smlouvu neprodleně uzavřít po tom, co jí k tomu vyzve strana oprávněná
+    - Povinnost smlouvu uzavřít nevzniká v případě, že oprávněná stran k uzavření nevyzve, nebo v případě podstatné změny okolností -> zavázaná strana podstatnou změnu okolností musí v takovém případě při vyzvání namítnout
+    - Nesplíní-li zavázaná strana svojí povinnost uzavřít smlouvu -> může obsah smlouvy určit osoba určená ve smlouvě, nebo soud podle účelu smlouvy
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1497,6 +2226,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Závazky ze smluv uzavíraných se spotřebitelem
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1504,6 +2235,58 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Závazky ze smluv uzavíraných se spotřebitelem**
+  - Ustanovení týkající se **spotřebitelských smluv**
+    - Smlouvy, které uzavírá FO nepodnikatel, nebo i FO podnikatel, ale mimo svoj podnikání s podnikatelem
+    - K tomu, kdo je podnikatel - viz Otázka 2 z obchodního práva
+  - **Podnikatelova informační povinnost vůči spotřebiteli**
+    - Podnikatel má před uzavřením smlouvy vůči spotřebiteli poměrně značnou informační povinnost
+    - Musí spotřebitele informovat o hodně záležitostech - ty jsou taxativně vymezeny - jedná se například o identifikaci podnikatele, popis zboží, spotřebitelova práva z vadného plnění etc.
+    - výjimkou je smlouva o vyřizování záležitostí každodenního života, přičemž tato záležitost bude podnikatelem hned vykonána - domnívám se, že zde se jedná například o pultový prodej, dále se nepoužije na finanční služby
+  - **Ochrana spotřebitele**
+    - Ochrana spotřebitele je v rámci spotřebitelských smluv zásadním znakem
+    - Pro spotřebitele se užije nejpříznivější možný výklad
+    - Jsou zakázána ustanovení odchylující se od zákona o ochraně spotřebitele - absolutní neplatnost
+    - Spotřebitel se rovněž svých práv nemůže vzdát
+    - Jsou zakázána ujednání zakládající nerovnováhu práv nebo povinností v neprospěch spotřebitele - není absolutní, pokud je s tím spotřebitel dostatečně obeznámen a souhlasí s tím -> jsou taková ujednání platná, rovněž nejsou neplatná, pokud se jich spotřebitel dovolá (Proč by to ale dělal?)
+    - § 1814 taxativně vymezuje zakázaná ujednání ve spotřebitelských smlouvách - například omezení ustanovení týkajících se práv z vadného plnění, odpovědnosti za škodu etc.
+    - V případě, že byla smlouva uzavřena **distančním způsobem**, nebo se smlouva týká **rekreačních služeb** a část kupní ceny bylo financováno pomalu zápůjčky, nebo úvěru poskytnutých podnikatelem, nebo jeho smluvním partnerem -> může spotřebitel odstoupit od smlouvy, tím odstoupí i od smlouvy o zápůjčce nebo úvěru -> není možné za toto ukládat sankce
+      - pokud se nejedná o výše uvedené smlouvy - v základu se rovněž použije, je ho ale možné vyloučit
+    - pokud má spotřebitel právo odstoupit od smlouvy -> nelze toto odstoupení spojit s postihem a spotřebitel rovněž nemusí uvádět důvod odstoupení
+  - **Uzavírání smluv distančním způsobem**
+    - Jedná se o jednání směřující k uzavření smlouvy prostřednictvím prostředku komunikace na dálku, bez nutnosti fyzické přítomnosti stran, nebo jednání směřujícího k uzavření smlouvy mimo obvyklé prostory podnikatele
+    - Ustanovení Pododdílu 1 Uzavírání smluv distančním způsobem se nepoužije na určité druhy smluv - ty zákon taxativně vymezuje - například smlouva o poskytování zdravotní péče, či smlouva o finanční službě (O té viz níže.).
+    - Podnikatel má v tomto případě opět poměrně rozsáhlou **informační povinnost**, zákon taxativně stanovuje, s čím musí v takovémto případě podnikatel spotřebitele v časovém předstihu obeznámit - například náklady spojené s jednáním na dálku, povinnost zaplatit zálohu etc.
+      - Pokud podnikatel neseznámil spotřebitele s dodatečnými poplatky, daněmi etc. spojenými s tímto druhem jednání a například s následným plněním (dodáním) statku -> spotřebitel je není povinen uhradit.
+      - V případě spolu leží důkazní břemeno ohledně toho, že spotřebitele seznámil na podnikateli
+    - **Obsah smlouvy uzavírané distančním způsobem** - obecné smlouvy, finanční služby, a rekreační služby
+      - Smlouvy musí obsahovat údaje sdělené spotřebiteli podnikatelem před uzavřením smlouvy, a to jak ty uvedené v obecné části, tak i ty uvedené v části upravující distanční uzavírání smlouvy
+      - Podnikatel musí minimálně jednu kopii smlouvy spotřebitelovi po jejím uzavření vydat
+    - Spotřebitel musí mít i přístup k všeobecným OP
+    - **Odstoupení od smlouvy u smluv uzavřených distančním způsobem**
+      - Do 14 dnů od uzavření smlouvy, 14 dnů od dodání posledního zboží (opakovaná dodávka), nebo do 14 dnů od dodání prvního zboží (při souvislé dodávce)
+      - Pokud nebyl spotřebitel poučen o svém právu odstoupit od smlouvy -> lhůta se prodlužuje o 1 rok
+      - Odstoupením od smlouvy se smlouva od počátku ruší a strany jsou si povinny vydana vzájemné plnění, pokud je však dodávána služba vrací podnikatel jen úměrnou část (v podstatě cenu - její část podle toho, kolik splnil) - toto se ale uplatní jen v případě, že podnikatel začal poskytovat službu před uplynutím doby na odstoupení, to může jen na textovou žádost spotřebitele, jinak se standardně začíná až po této době - pak od smlouvy do 14 dnů bez uvedení důvodu odstoupit nelze
+      - Spotřebitel odpovídá za škodu na dodaném zboží, pokud ho používal jinak, než k jeho účelu
+      - Zákon však taxativně vymezuje případy, kdy spotřebitel od smlouvy odstoupit nemůže -> například pokud je předmětem smlouvy zboží podléhající rychlé zkáze, z hygienických důvodů etc.
+    - **Neobjednané plnění**
+      - Pokud podnikatel dodal neobjednané zboží -> spotřebitel ho nemusí na svoje náklady vracet, ani na to podnikatele upozorňovat
+    - **Smlouvy o finančních službách**
+      - Obecně se jedná o smlouvy upravující služby poskytnuté bankou, pojišťovnou etc.
+      - OZ opět upravuje jakým způsobem se má přistoupit k právům a povinnostem z těchto služeb, v této část ale jen ve smyslu pokud jsou uzavřeny dálkově
+      - Jsou stanoveny další informace, které musí poskytovatel finanční sližby předem poskytnout - to není moc důležité znát
+    - **Odstoupení od smlouvy**
+      - Podobné jako u jiných smluv uzavřených distančním způsobem, viz výše, někde je lhůta prodloužena až na 30 dnů
+    - **Neobjednané plnění**
+      - V podstatě stejné jako výše
+    - **Dočasné užívání ubytovacího zařízení a jiné rekreační služby**
+      - Jedná se o smlouvu týkající se noclehu na více než jeden časový úsek, nebo právo spojené s ubytováním
+      - Podnikatel má opět stanovené specifické údaje, které musí poskytnout, forma smlouvy musí být písemná
+      - Tento pododíl definuje přímo i povinnosti na obsah smlouvy - jména smluvních stran, bydliště, nebo sídlo etc.
+      - Spotřebitel může od smlouvy rovněž odstoupit ve stanovené lhůtě
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1523,6 +2306,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Změny závazků
+- [ ] Zajištění a utvrzení dluhu
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1530,6 +2316,98 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Změny závazků**
+  - Zákon upravuje následující změny závazků:
+    - 1- Změna v osobě dlužníka či věřitele
+    - 2- Změny v obsahu závazku
+  - **Změna v osobě věřitele**
+    - **Postoupení pohledávky**
+      - Věřitel (postupitel) může celou, nebo část pohledávky postoupit postupníkovi i bez souhlasu dlužníka.
+      - Postoupením pohledávky nabýva postupník také její příslušenství (například úroky) a jiná práva s pohledávkou spojená - například **zajištění** pohledávky.
+      - Postoupit lze pohledávku, kterou lze zcizit - toto zcizení nesmí být vyloučeno právním jednáním mezi věřitelem a dlužníkem, rovněž nelze postoupit pohledávku, která zaniká smrtí, nebo pokud by se postoupením výrazně zhoršilo postavení dlužníka.
+      - Dokud dlužník nemá informaci (od postupitele nebo postupníka) o postoupení, může svůj dluh plnit i postupitelovi, postoupení pohledávky rovněž nemá vliv na třetí osobu, která dluh zajistila, dokud není informována.
+      - Pokud postupitel postoupil pohledávku několika osobám -> je vůči dlužníkovi účinné to postoupení, o kterém se dozvěděl nejdříve.
+      - Postoupit lze i **soubor pohledávek** - současných, nebo budoucích, takovýýto soubor však musí být dostatečně určen
+  - **Změna v osobě dlužníka**
+    - Má tři druhy:
+      - 1- Převzetí dluhu
+      - 2- Přistoupení k dluhu
+      - 3- Převzetí majetku
+    - **Převzetí dluhu**
+      - Ujednání dlužníka se třetí osobou, že převezme jeho dluh, respektive nastoupí na jeho místo jako dlužníka - k účinnosti je nutný souhlas věřitele
+      - V případě odmítnutí udělení souhlasu ze strany věřitele - přejímateli vzniká povinnost zajistit, aby dlužník nemusel věřiteli plnit
+      - Obsah závazku se po převzetí nemění - námitky zůstávají
+    - **Přistoupení k dluhu**
+      - Jedná se o ujednání třetí osoby s věřitelem bez souhlasu dlužníka, že za něj splní jeho dluh -> stává se novým dlužníkem vedle původního dlužníka a je sním zavázán společně a nerozdílně
+    - **Převzetí majetku**
+      - V případě přejetí majetku dlužníka, nebo jeho poměrné části -> nový majitel se stává se zcizitelem dlužníkem dluhů, které převzal (společně a nerozdílně)
+        - Musel a nebo měl o nich však vědět a není povinnen plnit více, než je hodnota převzaného majetku
+        - Pokud se jedná o osobu dlužníkovi blízkou - není omezení výše
+        - Toto ustanovení se nepoužije při zcizení závodu, nebo jeho pobočky, nebo při přeměně PO
+  - **Postoupení smlouvy**
+    - Podstatný rozdíl od postoupení pohledávky - smlouva je celý právní důvod závazku, pohledávka je pouze právo věřitele ze závazku
+    - Postupitel může převést práva a povinnosti ze smlouvy, nebo z její části na postupníka (třetí osobu) -> avšak za předpokladu, že to ve smlouvě není vyloučeno, postoupená strana s tím souhlasí a zatím nebylo plněno
+      - Pokud bylo plněno, lze postoupit práva a povinnosti k tomu, co ještě plněno nebylo
+    - Postoupení je vůčiné vůči postoupené straně od okamžiku jejího souhlasu s postoupením
+    - **Následky postoupení smlouvy**
+      - Okamžikem postoupení se postupitel osvobozuje od svých práv a povinností v rozsahu, v jakém smlouvu postoupil
+      - Výše uvedenému se však dá zabránit, pokud postoupená strana vůči postupitelovi prohlásí, že s osvobozením nesouhlasí -> pak může postoupená strana požadovat plnění po postupiteli v případě, že by postupník neplnit převzaté povinnosti
+      - Všechny námitky k postoupené smlouvě, nebo její části zůstávají zachovány
+  - **Změny v obsahu závazků**
+    - Jedná se o změnu práv a povinností ze smlouvy bez změny jejich subjektů
+    - **Novace**
+      - Pokud si strany mezou sebou ujednají změnu obsahu závazku -> závazek se ruší a nahrazuje se novým
+      - Pokud ale starý závazek může vedle druhého obstát, má se za to, že se nezrušil, pokud si to strany neujednají a stojí vedle nového závazku - domnívám se, že sem by šel zařadit třeba **dodatek** ke smlouvě
+    - **Narovnání**
+      - Pokud mají strany mezi sebou určité sporné nebo pochybné práva a povinnosti, je možné stávající závazek nahradit novým závazkem - domnívám se, že zde se závatek jako takový vždy ruší a vzniká nový
+- **Zajištění a utvrzení dluhu**
+  - Dluh lze zajistit, zaváže-li se třetí osoba věřiteli nebo ve prospěch věřitele za dlužníkovo plnění, anebo dá-li někdo věřiteli nebo ve prospěch věřitele majetkovou jistotu, že dlužník svůj dluh splní. Utvrdit lze dluh ujednáním smluvní pokuty nebo uznáním dluhu.
+  - **Jistota**
+    - Jedná se o obecnou úpravu ohledně zajištění dluhu
+    - Představuje osobní, nebo majetkové zajištění, že dlužník splní věřiteli svůj dluh
+    - Osobní jistota je typicky ručení, nebo finanční záruka
+    - Majetková jistota - představována věcí, která je dána věřiteli, a která představuje jeho zajištění, že dluh bude splněn - například zástavní právo, zajištění převodem práva, nebo i nepojmenovaným způsobem - například složení peněžité částky jako kauce (osobně bych sem řadil i závdavek)
+    - Jistota je tedy zajištěna buď závazkovými instituty, nebo může být zapsána i jako věcné právo - například již výše zmíněné zástavní právo
+    - Pokud je více věřitelů, tak se primárně uspokojí věřitelé, kteří mají jistotu ve formě věcného práva zapsaného ve veřejném registru, poté věřitelé, kteří jsou zajištěni věcným právem nezapsaným ve veřejném registru, a jako poslední se uspokojí věřitelé, kteří jsou zajištěni pouze závazkovým právem
+    - Jistota zajišťuje část hodnoty dluhu, proto sníží-li se hodnota jistoty, může věřitel požadovat její doplnění, v případě, že doplněna nebude, stává se část pohledávky, která není dostatečně zajištěna splatnou
+    - Splněním dluhu vstupuje tato osoba (osoba, která plnila z titulu ručení za dluh, nebo ho jinak zajišťovala) do práv věřitele a má právo, aby jí dlužník vyrovnal, co za něho plnila. Pohledávka věřitele na ni přechází včetně příslušenství, zajištění a dalších práv s pohledávkou spojených. Věřitel vydá tomu, kdo za dlužníka plnil, potřebné doklady o pohledávce a sdělí mu vše, co je k uplatnění pohledávky zapotřebí.
+  - **Zajištění**
+    - **Ručení**
+      - Prohlášení ručitele, že uspokojí dlužníka v případě, že dlužník nebude plnit
+      - Pokud věřitel ručitele nepřijme -> nemůže po něm nic žádat
+      - Zajištěn může být dluh celý, nebo i jen jeho část, dále může být sjednano na dobu určitou, popřípadě na celou dobu platnosti závazku, právo věřitele vůči ručiteli se však nemůže promlčet dříve, než se promlčí právo věřitele vůči dlužníkovi
+      - Pokud dlužník nesplní v přiměřené době po předchozím upozornění, má věřitel právo požadovat plnění po ručiteli, ten však může plnění odepřít za předpokladu, že nemožnost plnění dlužníkem způsobil věřitel
+      - **Zánik ručení**
+        - Zánikem dluhu, který zajišťuje až na zákonem stanovené výjimky
+        - Dále se domnívám, že rovněž dohodou
+    - **Finanční záruka**
+      - Obdobná věc jako ručení, jedná se o prohlášení, že ručitel uspokojí věřitele do určité stanovené finanční částky v případě, že dlužník neplní, nebo je-li splněna jiná smluvní podmínka
+      - Pokud je záruka vystavená bankou - jedná se o **bankovní záruku**
+      - Podmínky finanční záruky jsou stanoveny v **záruční listině**, je možné záruku vystavit jen na určitou dobu
+    - **Zajišťovací převod práva**
+     - Zajištění dluhu prostřednictvím převedení vlastnického práva na věřitele
+     - Převedení má rozvazovací podmínku uhrazení dluhu -> pak je převedena zpět na dlužníka, pokud dlužník nesplní, věřitel si právo může ponechat a pouze uhradí rozdíl v ceně práva, pokud by cena značně převyšovala výši dluhu, kterou by dané právo zajišťovalo
+     - Pokud je zajištěna zapisovaná věc - zajištění vzniká konstitutivním zápisem do daného registru
+     - U převedeného práva je vykonávána pouze prostá správa - zachování majetku, nikoli jeho rozmnožování
+    - **Dohoda ze srážkách ze mzdy nebo jiných příjmů**
+      - V podstatě je možné ujednat, že pokud dlužník nebude plnit -> bude plátce mzdy/platu/odměny vyplácen srážky přímo věřiteli
+      - Pokud je však věřitelem někdo jiný, než plátce mzdy, musí plátce mzdy s touto dohodou souhlasit
+    - Osobně bych se klonil ještě k notářskému zápisu s přímou vykonavatelností - vyplývá z něj přímo exekuční titul
+    - Jako takové další pseudozajištění bych považovat **bianco směnku**
+  - **Utvrzení dluhu**
+    - **Smluvní pokuta**
+      - Jedná se o pokutu pro případy porušení smluvních povinností smluvní stranou
+      - Je možné jí požadovat bez ohledu na to, zda vznikla věřitelovi škoda
+      - Lze jí možno sjednat jako peněžitou i nepeněžitou
+      - Je-li ujednána pokuta, nemá věřitel právo na úhradu vzniknuvší škody z povinnosti, která byla porušena, a ke které se smluvní pokuta váže.
+      - Nepřiměřeně vysokou pokutu může soud na návrh dlužníka příměřeně snížit
+    - **Uznání dluhu**
+      - K uznání může dojít smluvně, nebo i aktivním jednáním dlužníka (to se ale nepoužije, pokud je právo již promlčené)
+      - Co se aktivního jednání dlužníka týče, jedná se o:
+        - Placení úroků,
+        - plní-li dlužník dluh zčásti -> uznán je celý dluh
+      - Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1549,6 +2427,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Zánik závazků
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1556,6 +2436,90 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Zánik závazků**
+  - Jedná se o zánik vzájemných práva a povinností, které mezi sebou smluvní strany mají.
+  - Způsobů, kterými může zaniknout závazek je mnoho.
+  - **Splnění**
+    - Nejzákladnejším důvodem k zániku závazku je splnění vzájemných práva povinností smluvními stranami.
+    - Závazek zaniká splněním dluhu.
+    - Dlužník musí splnit na svůj náklad a nebezpečí včas.
+    - Ve smlouvě je standardně ujednán předmět plnění, způsob plnění, místo a čas - dlužník nemůže být nucen plnit něco jiného než je ve smlouvě, rovněž věřitel nemůže být nucen přijmout něco jiného než je uvedeno ve smlouvě.
+    - Jak již jsem psal výše, ze závazku mají standardně práva a povinnosti obě strany - pokud se tedy jedná o vzájemné plnění, kterákoliv ze stran může požadovat plnění po druhé straně až ve chvíli, kdy sama splní, nebo je ochotna a schopna splnit dluh společně s druhou stranou.
+    - **Řádné plnění**
+      - Aby mohla smlouva dobře fungovat a závazky z ní plněny a tím se strany dostali až k jejich řádnému splnění a následně potenciálnímu zániku smlouvy, musí vzájemné plnění splňovat určité nároky.
+      - Tedy především exstuje povinnost plnit bez **vad** a plnit podle podmínek ve smlouvě předmět s požadovanými **vlastnostmi** -> pokud je plněno vadně, vznikají příjemci **práva z vadného plnění**
+      - **Zcizitel nemůže svoje povinnosti z vadného plnění omezit**, nabyvatel se však může těchto práv písemně **vzdát**, ALE POZOR, jen obecně, například u spotřebitelských smluv se spotřebitel práv vyplývajících ze zákona o ochraně spotřebitele a občanského zákoníku vzdát nemůže -> k takovému projevu vůle by se nepříhlíželo, a považoval by se za absolutně neplatný, práv z vadného plnění se tak například může vzdát kupec ojetého automobilu při koupi od nepodnikatele
+        - **Vymezené vady plnění**
+          - Jedná se **zejména**, tedy ne výlučně o:
+          - poskytnutí předmětu s neodpovídajícími vlastnostmi, nebo v neodpovídající jakosti,
+          - neupozornění na vady předmětu, která má předmět při předání - pokud vada nebyla zřejmá, nebo není zapsaná ve veřejném registru, vadou věci je i pokud na něj třetí osoba uplatňuje právo,
+          - lhaní o vadách předmětu, nebo způsobu jeho používání,
+          - zcizení cizí věci neoprávněně jako svojí.
+        - Je možné přenechat věc **úhrnkem**, takzvaně "jak stojí a leží", pak jdou její vady k tíži nabyvatele.
+        - Jak již jsem popsal výše u obecné otázky k závazkům, zcizitel běžně nese jen výše uvedené vady při předání, pokud má být zaručen za funkčnost předmětu po nějakou dobu po zcizení, je třeba uzavřít **záruku za jakost**
+        - Vadu je třeba vytknout zciziteli, při vytknutí neběží lhůta k právům z vadného plnění a ze záruky
+        - Nabyvatel může vadu vytknout u soudu - stanovena lhůta, rovněž může vytknout vady při sjednání záruky, pokud není vada vytknutá všas - soud právo na z vadného plnění neuzná
+        - Pokud je vada ostranitelná, může se nabyvatel domáhat - opravy, doplnění toho co chybí, nebo přiměřené slevy z kupní ceny, pokud je neopravitelná - má nabyvatel právo na odstoupení od smlouvy a nebo přiměřenou slevu z kupní ceny
+        - Právo z vadného plnění nevylučuje odpovědnost zcizitele za škodu, toho, čeho se ale nabyvatel domohl prostřednictvím práva z vadného plnění se již nemůže domoci z jiného právního důvodu
+        - Pokud vznikla vada z plnění a dlužník plní, započítává se plnění nejdříve na splnění závazku, až poté na vady z plnění
+    - **Způsob plnění**
+      - Závazek může mít více způsobů jeho plnění, způsob volí buď dlužník, nebo věřitel (ten zvolený způsob musí oznámit)
+      - Zvolené plnění musí dlužník plnit, bez souhlasu věřitele není oprávněn plnit několika způsoby, ani k tomu nemůže být nucen veřitelem
+      - V případě znemožnění plnění jedním ze způsobů OZ upravuje situace, kdy je jedna ze stran oprávněna odstoupit - není zas tak důležité
+      - Plnění lze určit podle druhu věci -> ten je pak dlužník povinen plnit (musí se shodovat účel)
+      - Dluh se plní vcelku, pokud to ale neodporuje povaze závazku, nebo účelu smlouvy, musí věřitel přijmout i částečné plnění (logicky jsem de podřadit například plnění ve splátkách)
+      - Pokud se závazek skládá z nákladů, úroků a jistiny -> plnění se primárně započítává na náklady a úroky
+        - Dlužník může projevit vůli, aby se započítávalo nejdříve na jistinu, to je možné, ale úročí se v tomto případě náklady a úroky
+      - Pokud dlužník plní prostřednictvím jiné osoby, odpovídá za plnění jako by plnil on sám, plnění třetí osoby však věřitel musí přijmout pokud s plněním dlužník souhlasí (pokud se plnění netýká výhradně osoby dlužníka)
+      - Kdo plní dluh jiného, aniž za dluh ručí a ani jinak dluh nezajistil, může na věřiteli požadovat před splněním nebo při něm, aby mu postoupil svoji pohledávku.
+    - **Poukázka**
+      - VEDLEJŠÍ
+      - Jedná se o situaci, kdy poukazatel vystaví poukazníku poukázku, která mu umožňuje žádat poukázaném nějaké plnění
+      - Může být vastavena na řad, nebo na doručitele
+    - **Kvitance**
+      - V podstatě se jedná o potvrzení věřitele, že mu dlužník splnil dluh
+      - Dlužník může plnit i osobě oprávněné za věřitele plnění přijmout, pokud mu vydá věřitelem vystavenou kvitanci, nebo se prokáže, že plnění přijmout může
+      - **Dlužní úpis**
+        - Jedná se o uznání dluhu, nebo jiný dlužní úpis
+        - Věřitel musí v případě jeho existence při splnění dluhu vydato tomto potvrzení
+      - **Náhradní splnění**
+        - Pokud nelze splnit (například z důvodů na straně věřitele), může se dlužník zbavit své povinnosti tím, že plnění uloží do soudní úschovy
+    - **Místo plnění**
+      - K řádnému plnění je třeba plnit na sjednaném místě, nebo na místě určeném zákonem
+      - Pokud se plní převodm na účet, dluh je splněn připsáním peněž na účet věřitele
+      - Pokud se plní poštovní složenkou, dluh je splněn připsáním peněž na účet zůstavitele, nebo vyplacením peněz
+    - **Čas plnění**
+      - Je li stanoven čas, je povinen dlužník plnit i bez vyzvání věřitelem
+      - Pokud není ujednán, je možné požadovat splnění ihned a dlužník musí plnit bez zbytečného odkladu
+      - Plní-li dlužník peněžitý dluh před stanoveným časem, není oprávněn bez souhlasu věřitele odečíst od dlužné částky úroky odpovídající době, o niž plnil dříve.
+    - **Prodlení stran**
+      - V prodlení může být jak dlužník, tak i věřitel
+        - **Dlužník**
+          - V prodlení pokud svůj dluh včas a řádně neplní, není odpovědný pokud nemůže plnit z důvodů na straně věřitele
+          - Věřitel může plnění vymáhat, nebo od smlouvy odstoupit
+          - Věřitel může požadovat úrok z prodlení (ujednaný smluvními stranami, nebo dle nařízení vlády)
+          - Pokud jsou sjednány úroky z prodlení -> nemá věřitel právo požadova náhradu škody vzniklou neplněním
+          - Strany se mohou domluvit na splátkovém kalendáři
+        - **Věřitel**
+          - Věřitel je v prodlení, nepřijal-li řádně plnění dlužníka, nebo mu neposkytl potřebnou součinnost
+    - Dále
+  - **Dohoda**
+    - Dohoda jest dalším způsobem zániku závazků
+  - **Další způsoby**
+    - Jedná se o následující situace:
+      - **Započtení vzájemných práva a povinností**
+      - **Splynutí**
+      - **Prominutí dluhu**
+      - **Výpověď**
+      - **Odstoupení od smlouvy**
+      - **Následná nemožnost plnění**
+
+Podstatná změna okolností.
+
+Neúměrné zkrácení.
+
+Lichva.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1574,6 +2538,12 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Závazky z porušení smlouvy
+  - [ ] Z prodlení
+  - [ ] Z vadného plnění
+  - [ ]mZ újmy způsobené porušením smluvní povinnosti
+- [ ] Závazky z bezdůvodného obohacení
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1601,6 +2571,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Darování
+- [ ] Koupě
+- [ ] Směna
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1626,6 +2600,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Přenechání věci k užití jinému
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1653,6 +2629,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Závazky ze smluv příkazního typu
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1678,6 +2656,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Smlouva o dílo
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1705,6 +2685,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Závazky z bakovních smluv
+- [ ] Závazky z přepravních smluv
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1730,6 +2713,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Závazky ze zaopatřovacích smluv
+- [ ] Závazky z odvážných smluv
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1757,6 +2743,10 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Soudnictví
+- [x] Soudní soustava
+- [x] Justiční systém
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -1765,7 +2755,88 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Věcná a místní příslušnost
+- **Soudnictví**
+  - Je upraveno občanským právem procesním
+  - Jedná se tedy o procesní právo
+  - **Občanské právo procesní** - soubor norem, které upravují postup v občanském soudním řízení.
+  - Jedná se o způsob, jakým se domoci hmotného práva.
+  - Spolu s uplatňováním práva dochází také k jeho **ohrožování** a **porušování** - proto stát vytvořil určitý kontrolní systém **orgánů právní ochrany**, který v případě porušení zákona/smluvního vztahu/rozhodnutí orgánu usiluje o **znovuobnovení právního stavu**.
+  - **Orgány právní ochrany** = orgány zřízené státem, které zajišťují dodržování práva. Tyto orgány disponují státní mocí v podobě **vynucujících nástrojů**.
+    - Lze do nich řadit -> především soudy, státní zastupitelství, Policii Čr, ale také advokáty, notáře a exekutory.
+- **Soudní systém**
+  - V demokratických zemí chrání dodržování práva systém soudů. Soudy jsou zřízeny státem jako **nestranné** a **nezávislé** (rovněž specializované a odborné) instituce. Při svém rozhodování se soudci řídí pouze platnými zákony, svým uvážením (někdy pak také například podle principů morálky, spravedlnosti atd.)
+  - Každý občan, který se domnívá, že bylo jeho právo porušeno (aktivní legitimace) má možnost domáhat se jeho nápravy u soudu - říká občanský zákoník v § 12, zákonná ochrana (soudní ochrana) je obsažena i v LZPS a v Ústavě Čr.
+  - Rovněž lze u soudu požadovat rozhodnutí, že občanovi jisté právo nebo povinnost náleží bez ohledu na jiného občana (příkladem mohou být nesporná řízení).
+  - Na druhé straně může být před soud povolán ten, kdo právo nebo povinnost závažným způsobem porušil (jsou vyloučeny některé minoritní "delikty") - souda pak rozhoduje o jeho vině, respektive nalázé a aplikuje právo.
+  - Podle **povahy věcí**, které jsou před soudem projednávány, se rozlišují čtyři základní typy soudů:
+    - **civilní -** řeší občanskoprávní vztahy - například rozvod manželstí, řeší jak sporné, tak i nesporné řízení
+    - **trestní -** jedná se o veřejné právo, rozdohuje o vině a uložení trestů pachatelům trestných činů
+    - **správní -** přezkoumávají rozhodnutí správních orgánů (například o přestupku)
+    - **ústavní -** rozhodují o dodržování ústavy a ústavnosti právních předpisů, ústavní soud však nerozhoduje ve věci samé, ale pouze zhodnotí, zda nebylo porušeno nějaké základní právo člověka
+- **Soudní soustava**
+  - Je nastavena zákonem o soudech a soudcích, mimo tuto soustavu stojí Ústavní soud - řízen zákonem o ústavním soudu
+  - Jedná se o **hierarchicky uspořádanou** soudní soustavu - existuje tu vztah nadřízenosti a podřízenosti.
+  - Soustavu soudů v Čr tvoří Obecné soudy:
+    - **Okresní soudy** - nejnižší stupeň, projednávají občanskoprávní spory, pracovní spory a věci patřící do oblasti rodinného práva (rodinné vztahy), dále řeší méně závažné trestné činy.
+      - Jsou zřízeny v každém okresním městě, je jich 86 - 75 okresních (v okresních městech), 10 obvodních soudů v praze a 1 městský v Brně
+    - **Krajské soudy **- druhý stupeň pokud v prvním stupni rozhodoval okresní soud - rozhodují tedy o odvoláním proti rozsudkům okresních soudů
+      - V prvním stupni rozhodují o věcech právně složitějších a společensky významných - ochrana osobnosti, autorská práva etc. a o závažnějších trestních činnech - za které hrozí nejméně pět let odnění svobody (zločiny, ne přečiny).
+      - Je jich 8 a nacházejí se v krajích (v Prase se jmeuje Městský soud)
+      - Působí podle **Správního řádu** rovněž ve věcech správních a jsou i **Rejstříkovími soudy**
+      - Odvolání standardně znamená, že rozhodnutí nemůže nabýt právní moci, v případě rozhodnutí krajského soudu jako soudu odvolacího však rozhodnutí nabývá právní moci i když se strana dovolá k Nejvyššímu soudu
+    - **Vrchní soudy** - druhým stupněm soustavy, pokud v prvním rozhodovaly Krajské soudy - rozhodují proti odvoláním rozsudků krajských soudů.
+      - Vrchní soudy jsou 2 v Praze a Olomouci
+    - **Nejvyšší soud České republiky** - vrcholný soudní orgán, rozhoduje o **mimořádných opravných prostředcích** - **dovoláních** proti rozsudkům odvolacích soudů (krajských, nebo vrchních) ve věcech občanskoprávních i trestních a vykládá zákony.
+      - Nejvyšší soud České republiky sídlí v Brně (stejně jako Ústavní soud)
+    - **Nejvyšší správní soudy** - vrcholný orgán **správního soudnictví**, rozhoduje o **mimořádných opravných prostředcích** - **kasačních stížnostech** v rámci správního soudnictví - dále rozhoduje ve věcech volebních, ve věcech politických stran (například zrušení a rozpuštění) etc.
+      - Nejvyšší správní soud České republiky sídlí v Brně
+  - **Ústavní soud**
+    - Stojí mimo soustavu soudů - je řízen podle zákona o Ústavním soudu - dohlíží na dodržování ústavnosti v zemi. Rozhoduje o ústavních stížnostech, například o zrušení zákonů, nebo o porušení ústavně zaručených práv občanů.
+      - Pokud je něco v rozporu s Ústavním pořádkem, mezinárodní smlouvou, nebo o ústavní žalobě Senátu na prezidenta České republiky.
+      - Proti jeho rozhodnutí se nelze odvolat - respektive lze, ale ne v Čr, jen k Evropskému soudu pro lidská práva do Štrasburku, ale jen kvůli porušení práva nebo záruky uvedené v Evropské úmluvě o lidských právech.
+      - Sídlí v Brně.
+      - ![Soustava_Soudů](Podklady/Obcanske_pravo/soustava_soudu.png)
+- **Principy fungování soudnictví**
+  - Právo na spravedlivý proces - základním principem, dále
+  - Nezávislost a nestrannost soudů a soudců
+  - Zákonný soud a zákonný soudce - zákon určuje místní a věcnou příslušnost
+  - Princip rovnosti (účastníci jsou si rovni) a kontradiktornosti (účastníci se ke všem skutečnostem u soudu mohou vyjádřit)
+  - princip veřejnosti
+  - princip ústnosti (podstatné je to co u soudu bylo předneseno) a přímosti (soud jedná přímo ve styku s účastníky)
+  - princip hospodárnosti - úmysl poskytnout ochranu rychle, účinně a bez zbytečných nákladů
+  - princip předvídatelnosti - **princip legitimního očekávání** - soud by se neměl odchýlit od běžné rozhodovací praxe, pokud se odchýlí, je po něm možné požadavat vysvětlení
+  - Dále **odvětvové principy**
+    - Vytvářejí charakteristiku procesu - párové protikladné pojmy
+    - Záleží zda je SŘ, nebo NŘ
+      - dispozice/oficialita
+      - projednací/vyšetřovací
+      - volné hodnocení důkazů/legální důkazní teorie - u legální je důkazní síla stanovena (především veřejné listiny), u volného je důkazní síla na uvážení soudu
+      - princip formální pravdy/princip materiální pravdy
+- **Soudci**
+  - Kladeny značné nároky.
+  - Bezphoný občan České republiky starší 30 let s vysokoškolským právnickým vzděláním a složenou justiční zkouškou - minimálně 3 roky předtím musí být v pozici **justičního čekatele**.
+  - Po jejím složení a dalších formálních náležitostech může justiční komise navrhnou soudce ke jmenování - jmenuje prezident doživotně.
+  - Soudce ústavního soudu (celkem 15) jmenuje prezident republiky na 10 let se souhlasem senátu.
+  - Své funkce se soudci ujímají složením slibu.
+  - **Rozhodování - stručně**
+    - Soudci rozhodují buď jako **samosoudci** - u většiny civilních záležitostí a rozhodují sami.
+    - Soudci mohou rovněž rozhodovat v **senátu** - ten se skládá z předsedy senátu soudu (soudce) a dvou přísedících (soudci z lidu).
+  - Trestní stíhání a vzatí do vazby - pouze se souhlasem prezidenta, v případě ústavních soudců se souhlasem senátu.
+- **Justiční systém**
+  - Není odborným termínem, zahrnuje i instituce působící okolo soudů
+    - státní zastupitelství - soustava úřadů, které se vedle soudů také podílí na právní ochraně.
+      - Úloha především v trestním řízení
+      - Může ale vstupovat i do občanskoprávních řízení, nebo je zahajovat
+      - **Soustava -** je podobná jako soustava soudů - okresní, krajské, vrchní, nejvyšší
+      - Sídla a obvody SZ se shodují se sídlama a obvodama soudů.
+    - notářství - poskytují právní služby, nebo slouží i jako soudní komisaři (například pozůstalostní řízení), vidimace - ověření shody listin, legalizace - ověření podpisu určité osoby, mohou i zastupovat FO a PO ve správním a občanskoprávním řízení, zápis u Notářské komory České republiky
+    - advokacii - poskytují za úplatu právní služby, například zastupují u občanskoprávních řízení, sepisují smlouvy atd. - zápis u Advokátní komory České republiky
+    - soukromé exekutory
+    - státní správu soudů
+    - justiční stráž
+    - (policie) - chrání a předchází trestné činnosti
+
+~~Věcná a místní příslušnost~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1784,7 +2855,7 @@ Věcná a místní příslušnost
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
 - [ ] Subjekty civilního procesu
 - [ ] Procesní úkony
 
@@ -1798,8 +2869,36 @@ Věcná a místní příslušnost
 
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
-  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo.
-
+  - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo -> subjektivní (možnosti procesních postupů) a objektivní (psané procesní právo)
+- **Civilní proces ve zkratce**
+  - Jedná se soubor právních vztahů vznikajících v důsledku postupu soudů a dalších procesních subjektů při poskytování ochrany soukromoprávním a jiným právním vztahům.
+  - **Pojmové znaky**:
+    - **procesní vztahy** - trojstranný, soud, žalovaný a žalobce (v případě sporných)
+    - **procesní subjekty** - mohou ovlivňovat řízení (soud, účastníci řízení)
+    - **procesní úkony** - procesní činnost subjektů
+  - **Druhy civilního procesu**
+    - Nalézací - nalázá právo, nebo jej vytváří, ve sporných řízeních spravidla deklaratorní rozhodnutí, v nesporných zpravidla konstitutivní
+    - Vykonávací (exekuční) - pokud žalovaný neplní dobrovolne na například na základě právního titulu nalezeného u řízení nalézacího - buď provádí soudní exekutoři, nebo soukromí exekutoři - dvojkolejnost
+    - Insolvenční - rozhodování o existenci úpadku a jeho řešení
+    - Zajišťovací - cíl obnovení posledního pokojného stavu před porušením práva, slouží k zajištění práva - například předběžná opatření, zajištění soudcovského zástavního práva aj.
+    - Rozhodčí (arbitrážní) - upravené zákonem o rozhodčím řízení, mimosoudní řešení sporů před rozhodcem
+  - **Druhy řízení**
+    - Sporné - OSŘ - povaha soukromoprávních sporů - reparační, ochrana porušeného práva
+    - Nesporné - ZZŘS - povaha veřejnoprávního zájmu - svéprávnost, nezvěstnost, smrt, úschovy, osvojení - prevenční, upravuje vztahy pro budoucnost
+  - VEDLEJŠÍ **Příslušnost soudu - věcná a místní u NŘ - přislušní soud osoby v jejímž zájmu se řízení koná, u SŘ se rozhoduje například podle sídla, bydliště, umístění nemovitosti etc.**
+  - **Zahájení řízení**
+    - SŘ - podání žaloby
+    - NŘ - na návrh i bez návrhu (zahajuje soud usnesením), obvykle bez návrhu - například pozůstalostní řízení
+  - VEDLEJŠÍ **Dispozice a oficialita**
+    - Každý druh řízení má svoje "principy"
+    - NŘ - princip oficiality - ukládá soudu jak má fungovat, soud tak například i sám prošetřuje
+    - SŘ - princip dispozice - celé jednání je v rukou žalobce, ten ho tak může například stáhnout, důkazy například provádí výhradně účastníci
+    - **Od tohoto se odvíjí princip projednací a pricnip vyšetřovací**
+      - v NŘ - soud provede všechny i nenavrthnuté důkazy, sám je vyhledává
+      - v SŘ - provede pouze důkazy předložené účastníky - soud důkazy nevyhledává, ale může provést i nenavržené důkazy - pokud jsou potřebné pro zjištění skutkového stavu
+    - **Zásada materiální pravdy vs zásada formální pravdy**
+      - Materiální v NŘ - soud se musí snažit o úplné a přesné zjištění skutkového stavu.
+      - Formální v NŘ - může se spokojit i s tvrzením účastníků, pokud jsou shodná.
 - **Subjekty civilního procesu**
   - Procesní subjekty = subjekty, kteří právně ovlivňují proces, jsou vybaveni procesními právy a povinostmi, vznikají mezi nimi procesněprávní vztahy
     - **Soud** - základní subjekt, instituce, prostřednictvím, které zajišťuje stát ochranu práv
@@ -1829,12 +2928,16 @@ Věcná a místní příslušnost
     - **Definice účastníků**
       - U sporného řízení
         - žalobce a žalovaný
-        - vedlejší účastník - účastník s právním zájmem na jeho výsledku
+          - **společenství účastníků** - situace, kdy je na straně žalobce, nebo žalovaných více
+            - žalobci = aktivní společenství
+            - žalovaní = pasivní společenství
+        - vedlejší účastník - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
           - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
           - má stejná práva a povinnosti jako účastník
       - U nesporného řízení
-        - navrhovatel a ten, o jehož právech či povinnostech má být v řízení jednáno
-        - navrhovatel a ten, jehož za účastníka označí zákon
+        - SZ je standardně pouze jen u NŘ, krom insolvenčního řízení - může vstupovat do řízení a řízení zahajovat
+        - navrhovatel (například SZ, nebo zdravotní ústav) a ten, o jehož právech či povinnostech má být v řízení jednáno - například osoba, která má být omezene ve svéprávnosti
+        - navrhovatel a ten, jehož za účastníka označí zákon, například manžel zůstavitele v řízení o pozůstalosti
       - **Zvláštní subjekty řízení**
         - subjekty, které reprezentují veřejný nebo jiný zájem odlišný od osobního zájmu
           - státní zastupitelství - například v určitých typech řízení, která jsou upravena v ZZŘS
@@ -1844,6 +2947,23 @@ Věcná a místní příslušnost
           - a další osoby zůčastněné na řízení jako:
             - svěděk, znalec, zmocněnec účastníka, kolizní opatrovník (divák není účastníkem)
           - pro určitý úsek mohou být i účastníky -> když se rozhoduje o jejich právu (například svědek při rozhodováním o svědečném - náhrada hotových výdajů a ušlého výdělku, znalec při rozhodování o znalečném - náhrada hotových výdajů a odměna)
+  - **Způsobilost účastníků**
+    - **Procesní subjektivita**
+      - Musí mít procesní subjektivitu, tu mají pokud mají právní subjektivitu
+      - Právní subjektivita - PO i FO, může být účastníkem i stát
+      - **její nedostatek je neodstranitelnou vadou**
+    - **Procesní způsobilost**
+      - způsobilost před soudem samostatně jednat - přiznána každému v rozsahu v jakém je svéprávný -> v plném rozsahu zletilostí (pokud není omezena svéprávnost), jinak podle rozumové a volní vyspělosti
+      - omezení ve svéprávnosti nemohou jednat samostatně - zastoupení, za PO jen jedna FO, za stát UPZSVM, popřípadě organizační složka
+      - **její nedostatek je odstranitelnou vadou** -> zastoupení
+    - **Zastoupení při nedostatku procesní způsobilosti**
+      - především zákonným zástupcem - není dotčeno účastenství a zástupce se nestává účastníkem (zvláštní subjekt řízení)
+      - 3 druhy - zákonné, na základě rozhodnutí (opatrovnictví), smluvní na základě plné moci
+        - Plná moc - prostá (jeden úkon) X procesní - na celé řízení
+          - Dá se odvolat i vypovědět
+          - Zaniká dnem právní moci rozsudku, řídí se ustanovením o příkazní smlouvě a z. o advokacii
+          - advokát i notář mají právo nechat se zastoupit - substituční plná moc
+- ~~Aktivní a pasivní legitimace~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1862,6 +2982,9 @@ Věcná a místní příslušnost
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+DODĚLAT
+- [ ] Jednání
+- [ ] Dokazování
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1870,6 +2993,43 @@ Věcná a místní příslušnost
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Řízení**
+  - Jedná se o celou soudní peripetii.
+  - Záleží, zda se jedná o sporné, nebo nesporné řízení.
+    - U NŘ - nenařizuje se přípravné jednání -> nařizuje se ústní jednání, jednání není nařízeno jen, stanovuje-li to zákon
+  - Například u sporného
+    - 1- zahájení řízení na návrh
+      - Důležité je správně podat návrh, jinak soud vyzve k opravě - **žalobní petit** - důležitý, protože pouze v jeho mezích může Soud u SŘ rozhodovat.
+    - 2- příprava jednání - připravení veškerých náležitostí na jednání, neboť u sporných jednání je nařízení jednání běžné
+    - 3- přípravné jednání je nařízeno, když není možné rozhodnout o věci bez nařízení řízení, popřípadě pokud se výzva k vyjádření, nebo kvalifikovaná výzva jeví jako neúčelná.
+      - Soudce se v rámci něho může se součiností účastníku snažit o odstranění zjištěných nedostatků, a například se pokusí o smír.
+      - Povinnost se dostavit -> jinak rozsudek pro uznání, pokud se nedostaví žalobce -> řízení zastaveno.
+    - 4- Ústní jednání - projednává se věc sama. Provádí se při něm dokazování. Může být odročeno jen z vážných důvodů - například velká složitost.
+    - 5- skončení jednání, vyhlášení rozsudku - mělo by být ideálně okamžitě, ale soud může odročit vynesení rozsudku o 10 dní, pokud je věc složitá
+- **Jednání**
+  - Jednáním jako takovým je myšleno především Ústní jednání - nejdůležitější.
+- **Dokazování**
+  - Dokazování probíhá při ústním jednání, ve sporném řízení je možné navrhovat nové důkazy pouze do jeho skončení.
+  - U SŘ platí neúplná apelace při odvolání - není možné přinášet nové důkazy po skončení dokazování, jsou však zákonné výjimky.
+
+Řízení sporné a nesporné
+
+Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+
+Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
+
+Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
+
+Usnesení a rozhodnutí ve věci samé.
+
+Odvolání do 15 dnů.
+
+Odročení.
+
+Instance
+
+Úplná a neúplná apelace
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1940,7 +3100,8 @@ Věcná a místní příslušnost
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-
+DODĚLAT
+- [ ] Alternativní řešení sporů
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -2148,7 +3309,8 @@ finanční arbitr
   - Podnikat může buď právnická nebo fyzická osoba
   - Je tedy možné členit dle jednotlivých forem, tedy OSVČ u FO a jednotlivé formy právnických osob u PO
   - **Členění, které je myšleno v této otázce je ale asi následující**
-    - **plnoprávní podnikatelé** 
+    - Jako podnikatel je ale obecně definován - Kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele.
+    - **plnoprávní podnikatelé**
       - a) fikce podnikatele pro osoby zapsané v OR - § 421 (1)
       - b) vyvratitelná právní domněnka pro osoby, které mají živnostenské nebo jiné oprávnění - § 421 (2)
     - **neplnoprávní podnikatelé**
@@ -2170,7 +3332,7 @@ finanční arbitr
     - sídlo podnikatele ve VR musí být v prostorách, ke kterým má podnikatel **relevantní právní titul** (§ 14 ZVR)
     - u PO může být v zakladatelském p. jednání jen název obce, ale ve VR pak vždy celá adresa sídla
     - podnikatel-FO, který není v OR: jeho sídlem je místo, kde má hlavní závod, nemá-li ho > jeho bydliště (bydlištěm je místo, kde se podnikatel zdržuje s úmyslem žít tam trvale)
-    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného 
+    - pokud sídlo/bydliště podnikatele není jeho skutečné sídlo/bydliště, může se každý dovolat i toho skutečného
     - zahraniční osoba může do ČR přemístit sídlo, ale musí zvolit p. formu české PO, bude se řídit českým právem, nelze u OK v likvidaci, insolvenci (platí obdobně i pro české osoby, umožňuje-li to p. řád státu, kam přemisťují)
 
 \|--------------------------------------\| <br>
@@ -2242,7 +3404,7 @@ finanční arbitr
   - **Ochrana jména podnikatele**
     - Sourprávních nástrojů, které má podnikatel k dispozici před neoprávněnými zásahy jiných osob do práv k jeho jménu
     - Pokud byl podnikatel dotčen v právu ke své obchodní firmě -> **stejná ochrana jako při ochraně před nekalou soutěží**
-    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména), 
+    - **Ochrana relativní** - ochrana ve vztahu k subjektům, které přišli do právního styku a poruší vůči němu dobré mravy soutěže ve smyslu obchodní firmy (jména),
     - **Ochrana absolutní** - směřuje proti komukoliv,
       - **Jednotlivé ochrany** - jak u relativní, tak i u absolutní ochrany
         - **zdržovací nárok** - zdržení se protiprávního jednání
@@ -3233,7 +4395,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Kvůli vzniku a rozvoji trhu (dělba práce a specializace umožnila zvýšení produktivity a efektivity práce a vznik nadproduktu). Rovněž kvůli inovacím.
     - Mělo dopad na produkční možnosti společnosti.
   - Trh funguje na základě **neviditelné ruky trhu**, jehož součástí je **lassiez faire** (nech plynout), stát však zasahuje (**smíšený systém**).
-    - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje. 
+    - Snaha individua o zisk přispívá k blahobytu celé společnosti, neboť tím poskytuje to, co někdo jiný potřebuje.
   - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
     - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent statků, viz peníze, měna je potom zákonné platidlo na území daného státu.
   - **Členění trhu**
@@ -3449,7 +4611,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
         - **Utajené informace** - jedna strana trhu má více odborných znalostí nebo informací než druhá
       - Může vyůstit do **degenerace trhu** ve smyslu:
         - **Morálního hazardu** - informovaný subjekt maximalizuje svůj užitek snižováním užitků jiných, například asymetrie informací mezi zastupovaným subjektem a zastupujícím subjektem
-        - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady 
+        - **Nepříznivým výběrem** - vede k vytěsňování kvalitnějšího zboží z trhů méně kvalitním zbožím, například kvůli jeho maskování jako kvalitní zboží s nižšími vstupními náklady
     - **(Deformací vlivem státních zásahů do cenového mechanismu)**
       - Jedná se také o potlačení trhu
       - Nejčastěji z důvodu zdanění a přímé regulace cen.
@@ -4146,10 +5308,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Výhody
     - Doplnit
   - Rizika
-    - **Ztráta samostatné měnové politiky**: 
-    - **Cena za zapojení se do Evropského stabilizačního mechanismu:** 
-    - **Riziko vnímané inflace**: 
-    - **Jednorázové náklady na zavedení eura:** 
+    - **Ztráta samostatné měnové politiky**:
+    - **Cena za zapojení se do Evropského stabilizačního mechanismu:**
+    - **Riziko vnímané inflace**:
+    - **Jednorázové náklady na zavedení eura:**
   - Maastrichtská kritéria
     - Doplnit
 
@@ -4227,69 +5389,69 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Měnová (monetární) politika**
   - Je součástí **hospodářské politiky státu**.
-  
+
   - Tvoří jí centrální banka, která je však **absolutně nezávislá na vládě**.
-  
+
   - Je souhrnem opatření a zásad, které mají prostřednictvím **měnových nástrojů** prosazovat **plnění měnových cílů**.
-  
+
   - Tvoří jí **Česká národní banka** (centrální banka), ta je absolutně nezávislá na vládě a funguje podle zákona o české národní bance.
-  
+
   - Úkolem banky podle zákona je: *zabezpečit stabilitu české měny a za tím účelem určovat měnovou politiku*.
-  
+
   - Důležitými orgány jsou guvernér, dva víceguveréři a bankovní rada, kterou jmenuje prezident na dobu 6 let.
-  
+
   - Je to banka bank a dohlíží (dozoruje) na českou ekonomiku, hospodářství, bankovnictví a finančnictví.
-  
+
   - V česku je na první pozici v rámci **dvoustupňového bankovního systému**.
-  
+
   - Banka ve svém důsledku cílí na ovlivňování třech základních konečných cílů, viz níže.
-  
+
   - **Proces by se tedy dal popsat jako:**
-    
+
     - Využití nějakého nástroje měnové politiky,
     - Tento nástroj ovlivní zprostředkující cíl,
     - Tento zprostředkující cíl ovlivní **cenovou stabilitu** (tedy aktivní ovlivňování a hlídání **inflace**), **hospodářský růst** (udržitelný hospodářský růst s ohledem na růst produktivity práce a potenciální produkt), **nezaměstnanost** (snaží se jí udržet na co nejnižší hodnotě, samozřejmě je nutné nesnižovat nezaměstnanost pod přirozenou míru) a udržení vyrovnané **bilance zboží a služeb**.
-    
+
   - Většiny cílů banka dosahuje pomocí změny peněžní zásoby na trhu peněž, tedy posunutím vertikální přímky znázorňující nabídku peněz doleva (snížení peněžní zásoby - restriktivní politika), nebo posunutím dané přímky doprava (zvýšení peněžní zásoby - expanzivní politika) - množství peněz (nabídka) má potom vliv na poptávku po penězích, v bodě, kde se obě křivky protnou vznikne nová cena peněž (tedy nominální úroková míra, existuje ještě reálná úroková míra - úrok je očištěn o inflační vlivy).
-  
+
   - | Měnový nástroj                        | Zprostředkující cíl                           | Finální cíl                                                  |
     | ------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
     | Primární nástroj / Sekundární nástroj | Peněžní zásoba / Měnový kurz / Změna pravidel | Ekonomický růst / Nezaměstnanost / Cenová stabilita / Bilance zboží a služeb (Obchodní bilance na běžném účtu platební bilance) |
-  
+
   - Co se samotných nástojů týče:
-  
+
   - | Nástroj                       | Zprostředkující cíl | Konečný cíl            |
     | ----------------------------- | ------------------- | ---------------------- |
     | Diskontní sazba               | Peněžní zásoba      | Nezaměstnanost         |
     | Operace na volném trhu        | Úroková míra        | Inflace                |
     | PMR                           |                     |                        |
     | Devizové rezervy (intervence) | Měnový kurz         | Bilance zboží a služeb |
-  
+
   - Co se úrokové míry týče, ta je určena nabídkou a poptávkou po penězích, když se tedy zvýší peněžní zásoba, snižuje se úroková sazba a naopak.
-  
+
   - K ovlivňování ekonomiky používá banka buď **primární nástroje monetární politiky**, nebo **sekundární nástroje monetární politiky**.
-  
+
   - **Centrální banka se primárně soustředí na:**
-  
+
     - Kontrolu množství peněz v ekonomice,
     - Regulaci úrokových měr (tohoto dosahuje pomocí regulace množství peněz na trhu),
     - stanovení podmínek úvěrování.
-  
+
   - **Monetární politika může nabývat podob:**
-  
+
     - **Expanzivní** - používání dostupných nástrojů české národní banky ke zvýšení peněz v oběhu,
     - **Restriktivní** - používání těchtýž dostupných nástrojů ke snížení peněz v oběhu.
-  
+
   - **Současným cílem České národní banky je cílování inflace na hodnotu 2%, ta je nejlepší možnou hodnotou (mírná udržitelná inflace), nulová inflace, vysoká inflace nebo deflace je negativní.**
-  
+
   - **Je potřeba říci, že finální cíle centrální banky nejsou slučitelné, nástroje expanzivní politiky snižují nezaměstnanost a zvyšují inflaci a prostřednictvím depreciace měny zvyšují saldo obchodní bilance, zatímco nástroje restriktivní politiky zvyšují nezaměstnanost a snižují inflaci (krátkodobá Phillipsova křivka) a snižují saldo obchodní bilance kvůli apreciaci měny (jedná se o příliv a naopak odliv zahraničního kapitálu).**
-  
+
   - **Měnová politika funguje jen krátkodobě, z dlouhodobého hlediska zůstává pouze inflace, měnová politika funguje dlouhodobě jen v případě ekonomického růstu (reálného ekonomického růstu, tedy růstu potenciálního produktu).**
-  
+
   - V rácmi **primárních nástrojů monetární politiky** může centrální banka nastavovat jednotlivá pravidla.
-  
+
   - V rámci **sekundárních nástrojů monetární politiky** má centrální banka několik možností jak zasahovat do ekonomiky:
-  
+
     - **Operace na volném trhu** - tedy prodávání nebo nakupování cenných papírů na finančních trzích (trhy primární a sekundární), nakupování cenných papírů zvyšuje nabídku peněz a jedná se tak o expanzivní měnovou politiku, zatímco prodávání, nebo vydávání a emitování cenných papírů snižuje peněžní zásobu a jedná se tak o restriktivní měnovou politiku.
     - **Devizové intervence** - prodávání, nebo nakupování deviz (cizích měn), to na grafu poptávky po české koruně způsobí posun nabídky buď do leva, nebo do prava - zvýší se, nebo sníží poptávka po české koruně, dle toho se sníží, nebo zvýší kurz koruny, to souvisí se zahraničním obchodem a salda běžného účtu platební bilance (obchodní bilance), devalvace (depreciace) koruny pozitivně působí na export (zvyšování čistého exportu), zatímco revalvace (apreciace) koruny pozitivně působí na import (snižování čistého exportu), s ohledem na to, že čistý export je součástí výpočtu HDP výdajovou metodou, působí devizové intervence na snížení hospodářského růstu (zchlazení ekonomiky při konjunktuře a přehřívání), nebo na zvýšení hospodářského růstu (snaha nastartovat ekonomiku v hospodářské recesi).
     - **Změny úrokových sazeb:**
@@ -4297,9 +5459,9 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Diskontní sazba** - týká se takzvaných automatických facilit, banky si mohou přes noc u ČNB uložit svojí přebytečnou likviditu, ta je jim úročena diskontní sazbou. **Diskontní sazbou** jsou rovněž úročeny takzvané **diskontní úvěry**, které si mohou banky od ČNB brát, aby překlenuly dočasný nedostatek likvidity.
       - **Lombardní sazba** - stanovuje se u takzvaných **lombardních úvěrů**, ty ČNB poskytuje bankám s nedostatečnou likviditou, jedná se tedy o půjčku ze strany ČNB komerčním bankám, tvoří horní mez pro půjčky na mezibankovním trhu, tedy pro **PRIBOR**.
     - **Změny minimální výše povinných bankovních rezerv** - v současné době je na úrovni 2%, v případě snížení mohou banky více půjčovat (zvýší se peněžní multiplikátor).
-  
+
   - Měnová báze - jedná se o celkovou hodnotu oběživa a povinných minimálních bankovních rezerv.
-  
+
 - Politika centrálních bank
 
   - Centrální banky ve vztahu k využívání svých nástrojů vyzkoušely mnoho různých politik:
@@ -4307,7 +5469,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Ukotvení měnovým kurzem**: jedná se o ukotvení kurzu na jinou měnu, problém je, že tato politika neumožňuje centrální bance provádět expanzivní, nebo restriktivní politiku, protože ta dopadá na zvyšování, nebo snižování kurzu, následný závazek banky vrátit kurz na starou hodnotu znamená využití nástrojů, které jdou přímo proti původně použitým nástrojům, které byli použity za účelem restriktivní nebo expanzivní měnové politiky.
     - **Politka stálého měnového růstu (měnového cílování)**: centrální banka při této politice uvolňuje do oběhu stále stejné množství peněz a rovnoměrně tak zvyšuje peněžní zásobu, měnová politika v tomto případě **neakomoduje inlační impulzy**, při této politice se tak může ustálit **inflační očekávání na poměrně nízké úrovni** a bude docházet i ke stálému ekonomickému růstu, problémem však je, že banka nemá úplnou kontrolu nad růstem peněžní zásoby, ta totiž závisí na tom, jak velké rezervy chtějí udržovat komerční banky a podle toho s buď snižuje, nebo zvyšuje peněžní multiplikátor, centrální banka musí při uplatňování této politiky rovněž za žádných okolností neměnit výši uvolňovaných peněz.
     - **Politika inflačního cílování**: jedná se o politiku, kterou **využívá Česká národní banka**, místo výše peněžní zásoby se cíluje inflace, což je konec konců pro spotřebitele a výrobce mnohem více vypovídající informace, než informace říkající o kolik procent poroste peněžní zásoba. Touto politikou dokáže ČNB ovlivňovat i samotná inflační očekávání. Problém může nastat, pokud se ČNB "netrefí" do jím vyhlášeného **inflačního cíle**, to může v ekonomice vzhledem k **inflačním očekáváním, která jsou nastavená podle inflačního cíle** způsobit poměrně velké problémy.
-  
+
 - Dezinflační politika centrálních bank
 
   - V případě vysoké inflace může být zájem inflaci snížit.
@@ -5135,9 +6297,9 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
 - **Kategorizace rizik**
   - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
-    - Podle firemní procesů - 
-    - Podle podnikatelských aktivit - 
-    - Podle obecně závazných pravidel - 
+    - Podle firemní procesů -
+    - Podle podnikatelských aktivit -
+    - Podle obecně závazných pravidel -
 - **Metody měření a ošetření rizika**
   - No
 - **Risk Appetite**
