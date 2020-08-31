@@ -2318,11 +2318,15 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - 3- Převzetí majetku
     - **Převzetí dluhu**
       - Ujednání dlužníka se třetí osobou, že převezme jeho dluh, respektive nastoupí na jeho místo jako dlužníka - k účinnosti je nutný souhlas věřitele
-      - Doplnit
+      - V případě odmítnutí udělení souhlasu ze strany věřitele - přejímateli vzniká povinnost zajistit, aby dlužník nemusel věřiteli plnit
+      - Obsah závazku se po převzetí nemění - námitky zůstávají
     - **Přistoupení k dluhu**
-      - Doplnit
+      - Jedná se o ujednání třetí osoby s věřitelem bez souhlasu dlužníka, že za něj splní jeho dluh -> stává se novým dlužníkem vedle původního dlužníka a je sním zavázán společně a nerozdílně
     - **Převzetí majetku**
-      - Doplnit
+      - V případě přejetí majetku dlužníka, nebo jeho poměrné části -> nový majitel se stává se zcizitelem dlužníkem dluhů, které převzal (společně a nerozdílně)
+        - Musel a nebo měl o nich však vědět a není povinnen plnit více, než je hodnota převzaného majetku
+        - Pokud se jedná o osobu dlužníkovi blízkou - není omezení výše
+        - Toto ustanovení se nepoužije při zcizení závodu, nebo jeho pobočky
   - **Postoupení smlouvy**
     - Podstatný rozdíl od postoupení pohledávky - smlouva je celý právní důvod závazku, pohledávka je pouze právo věřitele ze závazku
   - **Změny v obsahu závazků**
