@@ -2364,6 +2364,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 - **Zajištění a utvrzení dluhu**
   - Dluh lze zajistit, zaváže-li se třetí osoba věřiteli nebo ve prospěch věřitele za dlužníkovo plnění, anebo dá-li někdo věřiteli nebo ve prospěch věřitele majetkovou jistotu, že dlužník svůj dluh splní. Utvrdit lze dluh ujednáním smluvní pokuty nebo uznáním dluhu.
   - **Jistota**
+    - Jedná se o obecnou úpravu ohledně zajištění dluhu
+    - Představuje osobní, nebo majetkové zajištění, že dlužník splní věřiteli svůj dluh
+    - Osobní jistota je typicky ručení, nebo finanční záruka
+    - Majetková jistota - představována věcí, která je dána věřiteli, a která představuje jeho zajištění, že dluh bude splněn - například zástavní právo, zajištění převodem práva, nebo i nepojmenovaným způsobem - například složení peněžité částky jako kauce (osobně bych sem řadil i závdavek)
+    - Jistota je tedy zajištěna buď závazkovými instituty, nebo může být zapsána i jako věcné právo - například již výše zmíněné zástavní právo
   - **Zajištění**
     - **Ručení**
     - **Finanční záruka**
