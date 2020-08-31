@@ -1602,6 +1602,7 @@ DODĚLAT
   - Předmětem věcných práv bývá zpravidla existující individuálně určená hmotná věc (např. konkretní stavba nebo automobil), nelze je vymezit jako právo na něco obecně (např. právo na mzdu). Výjimkou je např. právo stavby, jež je bráno jako věc v právním smyslu, nebo zástavní právo, které lze zřídit např. k pohledávce.
   - Značná část věcných práv podléhá principu publicity, typicky jde o jejich zápisy do katastru nemovitostí.
   - České právo má omezený počet věcný práv vyplývající z takzvané zásady *numerus clausus*
+  - Značně se liší oproti **závazkovým právům**, které zakládají práva a povinnosti jen mezi smluvními stranami, tedy *inter partes*
 - **Vlastnické právo**
   - § 1011 - Vlastnictví - vše co někomu patří (věci hmotné i nehmotné) jsou jeho vlastnictvím
   - Právní titul k věci?
@@ -1981,6 +1982,9 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - z deliktu porušení povinosti (smluvní či zákonné)
         - u úředního rozhodnutí (například § 161 OSŘ - Pravomocné rozsudky ukládající prohlášení vůle nahrazují toho prohlášení)
       - na základě jiné právní skutečnosti - například objektivní odpovědnost (dala by se asi zařadit jako zákonné porušení povinnosti), či bezdůvodné obohacení, či z jiné právní skutečnosti - například právní událost
+        - vznik z jiné právní skutečnosti, do které se dají řadit i závazky vzniklé ze zákona (viz níže) je možné členit dále na
+          - **kvazikontrakty** - nepřikázané jednatelství, veřejná soutěž, veřejný příslib
+          - **kvazidelikty** - objektivní odpovědnost za újmu (chybí zavinění), bezdůvodné obohacení
       - Další druhy třídění:
         - například formální X neformální, úplatné X bezúplatné
         - Dále třeba například závazek hlavní a vedlejší
