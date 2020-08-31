@@ -2403,6 +2403,22 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Zánik závazků**
+  - Jedná se o zánik vzájemných práva a povinností, které mezi sebou smluvní strany mají.
+  - Způsobů, kterými může zaniknout závazek je mnoho.
+  - **Splnění**
+    - Nejzákladnejším důvodem k zániku závazku je splnění vzájemných práva povinností smluvními stranami.
+  - **Dohoda**
+    - Dohoda jest dalším způsobem zániku závazků
+  - **Další způsoby**
+    - Jedná se o následující situace:
+      - **Započtení vzájemných práva a povinností**
+      - **Splynutí**
+      - **Prominutí dluhu**
+      - **Výpověď**
+      - **Odstoupení od smlouvy**
+      - **Následná nemožnost plnění**
+
 Podstatná změna okolností.
 
 Neúměrné zkrácení.
