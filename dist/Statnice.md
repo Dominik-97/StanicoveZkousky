@@ -2503,16 +2503,26 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
           - Strany se mohou domluvit na splátkovém kalendáři
         - **Věřitel**
           - Věřitel je v prodlení, nepřijal-li řádně plnění dlužníka, nebo mu neposkytl potřebnou součinnost
+        - Pokud prodlévající strana porušila svým prodlením smluvní povinnost podstatným způsobem, může druhá strana odstoupit od smlouvy
+        - Pokud je porušení nepodstatné, může strana odstoupit po té, co druhá strana nesplnila po upozornění ani v dodatečné přiměřené lhůtě
+        - Pokud je čas plnění stanoven přesně - **fixní závazek** a je zřejmé, že by věřitel neměl na trvání smlouvy v případě prodlení dále zájem - považuje se neplnění dlužníka jako zánik smlouvy a věřitelovo odstoupení od smlouvy, ledaže věřitel oznámí trvání na plnění
     - Dále
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
+    - Stranám je ponecháno na vůli závazek smlouvou zrušit bez sjednání závazku nového
   - **Další způsoby**
     - Jedná se o následující situace:
       - **Započtení vzájemných práva a povinností**
+        - Strany si mohou vzájemně započít povinnosti na plnění stejného druhu, závazek zaniká v tom rozsahu, ve kterém proběhlo započtení
+        - K započtení jsou způsobilé pohledávky, které lze uplatnit u soudu
+        - Nejistá a neurčitá pohledávka není způsobilá k započtení
+        - Proti určitým pohledávkám započítat nelze - například výživné pro nezletilého, pohledávku na náhradu újmy způsobené na zdraví
+        - Lze započíst pohledávku i po jejím promlčením, pokud šla započíst již před jejím promlčením
       - **Splynutí**
       - **Prominutí dluhu**
       - **Výpověď**
       - **Odstoupení od smlouvy**
+        - **Odstupné**
       - **Následná nemožnost plnění**
 
 Podstatná změna okolností.
