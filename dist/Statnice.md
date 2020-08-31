@@ -2452,9 +2452,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
         - **Vymezené vady plnění**
           - Jedná se **zejména**, tedy ne výlučně o:
           - poskytnutí předmětu s neodpovídajícími vlastnostmi, nebo v neodpovídající jakosti,
-          - neupozornění na vady předmětu, která má předmět při předání,
+          - neupozornění na vady předmětu, která má předmět při předání - pokud vada nebyla zřejmá, nebo není zapsaná ve veřejném registru,
           - lhaní o vadách předmětu, nebo způsobu jeho používání,
           - zcizení cizí věci neoprávněně jako svojí.
+        - Je možné přenechat věc **úhrnkem**, takzvaně "jak stojí a leží", pak jdou její vady k tíži nabyvatele.
+        - Jak již jsem popsal výše u obecné otázky k závazkům, zcizitel běžně nese jen výše uvedené vady při předání, pokud má být zaručen za funkčnost předmětu po nějakou dobu po zcizení, je třeba uzavřít **záruku za jakost**
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
   - **Další způsoby**
