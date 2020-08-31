@@ -2377,7 +2377,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Osobně bych se klonil ještě k notářskému zápisu s přímou vykonavatelností - vyplývá z něj přímo exekuční titul
   - **Utvrzení dluhu**
     - **Smluvní pokuta**
-      - Domnívám se, že nesmí být sjednán úrok společně se smluvní pokutou?
+      - Jedná se o pikutu pro případy porušení smluvních 
     - **Uznání dluhu**
       - K uznání může dojít smluvně, nebo i aktivním jednáním dlužníka (to se ale nepoužije, pokud je právo již promlčené)
       - Co se aktivního jednání dlužníka týče, jedná se o:
