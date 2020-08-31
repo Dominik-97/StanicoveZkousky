@@ -2385,9 +2385,13 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Pokud je záruka vystavená bankou - jedná se o **bankovní záruku**
       - Podmínky finanční záruky jsou stanoveny v **záruční listině**, je možné záruku vystavit jen na určitou dobu
     - **Zajišťovací převod práva**
-     - Doplnit
+     - Zajištění dluhu prostřednictvím převedení vlastnického práva na věřitele
+     - Převedení má rozvazovací podmínku uhrazení dluhu -> pak je převedena zpět na dlužníka, pokud dlužník nesplní, věřitel si právo může ponechat a pouze uhradí rozdíl v ceně práva, pokud by cena značně převyšovala výši dluhu, kterou by dané právo zajišťovalo
+     - Pokud je zajištěna zapisovaná věc - zajištění vzniká konstitutivním zápisem do daného registru
+     - U převedeného práva je vykonávána pouze prostá správa - zachování majetku, nikoli jeho rozmnožování
     - **Dohoda ze srážkách ze mzdy nebo jiných příjmů**
-      - Doplnit
+      - V podstatě je možné ujednat, že pokud dlužník nebude plnit -> bude plátce mzdy/platu/odměny vyplácen srážky přímo věřiteli
+      - Pokud je však věřitelem někdo jiný, než plátce mzdy, musí plátce mzdy s touto dohodou souhlasit
     - Osobně bych se klonil ještě k notářskému zápisu s přímou vykonavatelností - vyplývá z něj přímo exekuční titul
     - Jako takové další pseudozajištění bych považovat **bianco směnku**
   - **Utvrzení dluhu**
