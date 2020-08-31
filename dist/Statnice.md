@@ -2326,12 +2326,23 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - V případě přejetí majetku dlužníka, nebo jeho poměrné části -> nový majitel se stává se zcizitelem dlužníkem dluhů, které převzal (společně a nerozdílně)
         - Musel a nebo měl o nich však vědět a není povinnen plnit více, než je hodnota převzaného majetku
         - Pokud se jedná o osobu dlužníkovi blízkou - není omezení výše
-        - Toto ustanovení se nepoužije při zcizení závodu, nebo jeho pobočky
+        - Toto ustanovení se nepoužije při zcizení závodu, nebo jeho pobočky, nebo při přeměně PO
   - **Postoupení smlouvy**
     - Podstatný rozdíl od postoupení pohledávky - smlouva je celý právní důvod závazku, pohledávka je pouze právo věřitele ze závazku
+    - Postupitel může převést práva a povinnosti ze smlouvy, nebo z její části na postupníka (třetí osobu) -> avšak za předpokladu, že to ve smlouvě není vyloučeno, postoupená strana s tím souhlasí a zatím nebylo plněno
+      - Pokud bylo plněno, lze postoupit práva a povinnosti k tomu, co ještě plněno nebylo
+    - Postoupení je vůčiné vůči postoupené straně od okamžiku jejího souhlasu s postoupením
+    - **Následky postoupení smlouvy**
+      - Okamžikem postoupení se postupitel osvobozuje od svých práv a povinností v rozsahu, v jakém smlouvu postoupil
+      - Výše uvedenému se však dá zabránit, pokud postoupená strana vůči postupitelovi prohlásí, že s osvobozením nesouhlasí -> pak může postoupená strana požadovat plnění po postupiteli v případě, že by postupník neplnit převzaté povinnosti
+      - Všechny námitky k postoupené smlouvě, nebo její části zůstávají zachovány
   - **Změny v obsahu závazků**
+    - Jedná se o změnu práv a povinností ze smlouvy bez změny jejich subjektů
     - **Novace**
+      - Pokud si strany mezou sebou ujednají změnu obsahu závazku -> závazek se ruší a nahrazuje se novým
+      - Pokud ale starý závazek může vedle druhého obstát, má se za to, že se nezrušil, pokud si to strany neujednají a stojí vedle nového závazku - domnívám se, že sem by šel zařadit třeba **dodatek** ke smlouvě
     - **Narovnání**
+      - Pokud mají strany mezi sebou určité sporné nebo pochybné práva a povinnosti, je možné stávající závazek nahradit novým závazkem - domnívám se, že zde se závatek jako takový vždy ruší a vzniká nový
 - **Zajištění a utvrzení dluhu**
   - **Jistota**
   - **Zajištění**
