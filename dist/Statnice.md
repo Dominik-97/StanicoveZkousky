@@ -2481,15 +2481,28 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - V podstatě se jedná o potvrzení věřitele, že mu dlužník splnil dluh
       - Dlužník může plnit i osobě oprávněné za věřitele plnění přijmout, pokud mu vydá věřitelem vystavenou kvitanci, nebo se prokáže, že plnění přijmout může
       - **Dlužní úpis**
-        - Doplnit
+        - Jedná se o uznání dluhu, nebo jiný dlužní úpis
+        - Věřitel musí v případě jeho existence při splnění dluhu vydato tomto potvrzení
       - **Náhradní splnění**
-        - Doplnit
+        - Pokud nelze splnit (například z důvodů na straně věřitele), může se dlužník zbavit své povinnosti tím, že plnění uloží do soudní úschovy
     - **Místo plnění**
-      - Doplnit
+      - K řádnému plnění je třeba plnit na sjednaném místě, nebo na místě určeném zákonem
+      - Pokud se plní převodm na účet, dluh je splněn připsáním peněž na účet věřitele
+      - Pokud se plní poštovní složenkou, dluh je splněn připsáním peněž na účet zůstavitele, nebo vyplacením peněz
     - **Čas plnění**
-      - Doplnit
+      - Je li stanoven čas, je povinen dlužník plnit i bez vyzvání věřitelem
+      - Pokud není ujednán, je možné požadovat splnění ihned a dlužník musí plnit bez zbytečného odkladu
+      - Plní-li dlužník peněžitý dluh před stanoveným časem, není oprávněn bez souhlasu věřitele odečíst od dlužné částky úroky odpovídající době, o niž plnil dříve.
     - **Prodlení stran**
-      - Doplnit
+      - V prodlení může být jak dlužník, tak i věřitel
+        - **Dlužník**
+          - V prodlení pokud svůj dluh včas a řádně neplní, není odpovědný pokud nemůže plnit z důvodů na straně věřitele
+          - Věřitel může plnění vymáhat, nebo od smlouvy odstoupit
+          - Věřitel může požadovat úrok z prodlení (ujednaný smluvními stranami, nebo dle nařízení vlády)
+          - Pokud jsou sjednány úroky z prodlení -> nemá věřitel právo požadova náhradu škody vzniklou neplněním
+          - Strany se mohou domluvit na splátkovém kalendáři
+        - **Věřitel**
+          - Věřitel je v prodlení, nepřijal-li řádně plnění dlužníka, nebo mu neposkytl potřebnou součinnost
     - Dále
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
