@@ -1594,6 +1594,14 @@ DODĚLAT
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají**
+  - Věcná práva umožňují úplné nebo částečné právní panství nad určitou hmotnou i nehmotnou věcí.
+  - Postavení oprávněné osoby vylučuje kohokoliv jiného z právního působení na věc jím ovládanou, v případě porušení tohoto práva má právní nárok na ochranu před takovým jednáním.
+  - Působí *erga omnes*, jedná se o práva jednoho individuálně určeného subjektu vůči mnoha neurčeným subjektům.
+  - Věcná práva obsahují pouze negativní vymezení povinnosti ostatních, tj. povinnosti zdržet se (non facere) zásahů do věcných práv, která svědčí věcně oprávněnému.
+  - Předmětem věcných práv bývá zpravidla existující individuálně určená hmotná věc (např. konkretní stavba nebo automobil), nelze je vymezit jako právo na něco obecně (např. právo na mzdu). Výjimkou je např. právo stavby, jež je bráno jako věc v právním smyslu, nebo zástavní právo, které lze zřídit např. k pohledávce.
+  - Značná část věcných práv podléhá principu publicity, typicky jde o jejich zápisy do katastru nemovitostí.
+  - České právo má omezený počet věcný práv vyplývající z takzvané zásady *numerus clausus*
 - **Vlastnické právo**
   - § 1011 - Vlastnictví - vše co někomu patří (věci hmotné i nehmotné) jsou jeho vlastnictvím
   - Právní titul k věci?
@@ -1732,6 +1740,12 @@ statiku občanskoprávních vztahů
 povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)
   inter partes - působí výlučně mezi stranami závazku
   erga omnes - působí vůči všem (jichž se to může týkat)
+- **Věcná práva k věci cizí**
+  - právo stavby
+  - věcné břemeno
+  - zástavní právo
+  - zadržovací právo
+  - předkupní právo, je-li jako věcné právo sjednáno
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2344,6 +2358,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - **Narovnání**
       - Pokud mají strany mezi sebou určité sporné nebo pochybné práva a povinnosti, je možné stávající závazek nahradit novým závazkem - domnívám se, že zde se závatek jako takový vždy ruší a vzniká nový
 - **Zajištění a utvrzení dluhu**
+  - Dluh lze zajistit, zaváže-li se třetí osoba věřiteli nebo ve prospěch věřitele za dlužníkovo plnění, anebo dá-li někdo věřiteli nebo ve prospěch věřitele majetkovou jistotu, že dlužník svůj dluh splní. Utvrdit lze dluh ujednáním smluvní pokuty nebo uznáním dluhu.
   - **Jistota**
   - **Zajištění**
     - **Ručení**
