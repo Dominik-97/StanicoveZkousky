@@ -2475,6 +2475,22 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
       - Kdo plní dluh jiného, aniž za dluh ručí a ani jinak dluh nezajistil, může na věřiteli požadovat před splněním nebo při něm, aby mu postoupil svoji pohledávku.
     - **Poukázka**
       - VEDLEJŠÍ
+      - Jedná se o situaci, kdy poukazatel vystaví poukazníku poukázku, která mu umožňuje žádat poukázaném nějaké plnění
+      - Může být vastavena na řad, nebo na doručitele
+    - **Kvitance**
+      - V podstatě se jedná o potvrzení věřitele, že mu dlužník splnil dluh
+      - Dlužník může plnit i osobě oprávněné za věřitele plnění přijmout, pokud mu vydá věřitelem vystavenou kvitanci, nebo se prokáže, že plnění přijmout může
+      - **Dlužní úpis**
+        - Doplnit
+      - **Náhradní splnění**
+        - Doplnit
+    - **Místo plnění**
+      - Doplnit
+    - **Čas plnění**
+      - Doplnit
+    - **Prodlení stran**
+      - Doplnit
+    - Dále
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
   - **Další způsoby**
