@@ -2369,15 +2369,34 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Osobní jistota je typicky ručení, nebo finanční záruka
     - Majetková jistota - představována věcí, která je dána věřiteli, a která představuje jeho zajištění, že dluh bude splněn - například zástavní právo, zajištění převodem práva, nebo i nepojmenovaným způsobem - například složení peněžité částky jako kauce (osobně bych sem řadil i závdavek)
     - Jistota je tedy zajištěna buď závazkovými instituty, nebo může být zapsána i jako věcné právo - například již výše zmíněné zástavní právo
+    - Pokud je více věřitelů, tak se primárně uspokojí věřitelé, kteří mají jistotu ve formě věcného práva zapsaného ve veřejném registru, poté věřitelé, kteří jsou zajištěni věcným právem nezapsaným ve veřejném registru, a jako poslední se uspokojí věřitelé, kteří jsou zajištěni pouze závazkovým právem
+    - Jistota zajišťuje část hodnoty dluhu, proto sníží-li se hodnota jistoty, může věřitel požadovat její doplnění, v případě, že doplněna nebude, stává se část pohledávky, která není dostatečně zajištěna splatnou
   - **Zajištění**
     - **Ručení**
+      - Prohlášení ručitele, že uspokojí dlužníka v případě, že dlužník nebude plnit
+      - Pokud věřitel ručitele nepřijme -> nemůže po něm nic žádat
+      - Zajištěn může být dluh celý, nebo i jen jeho část, dále může být sjednano na dobu určitou, popřípadě na celou dobu platnosti závazku, právo věřitele vůči ručiteli se však nemůže promlčet dříve, než se promlčí právo věřitele vůči dlužníkovi
+      - Pokud dlužník nesplní v přiměřené době po předchozím upozornění, má věřitel právo požadovat plnění po ručiteli, ten však může plnění odepřít za předpokladu, že nemožnost plnění dlužníkem způsobil věřitel
+      - **Zánik ručení**
+        - Zánikem dluhu, který zajišťuje až na zákonem stanovené výjimky
+        - Dále se domnívám, že rovněž dohodou
     - **Finanční záruka**
+      - Obdobná věc jako ručení, jedná se o prohlášení, že ručitel uspokojí věřitele do určité stanovené finanční částky v případě, že dlužník neplní, nebo je-li splněna jiná smluvní podmínka
+      - Pokud je záruka vystavená bankou - jedná se o **bankovní záruku**
+      - Podmínky finanční záruky jsou stanoveny v **záruční listině**, je možné záruku vystavit jen na určitou dobu
     - **Zajišťovací převod práva**
+     - Doplnit
     - **Dohoda ze srážkách ze mzdy nebo jiných příjmů**
+      - Doplnit
     - Osobně bych se klonil ještě k notářskému zápisu s přímou vykonavatelností - vyplývá z něj přímo exekuční titul
+    - Jako takové další pseudozajištění bych považovat **bianco směnku**
   - **Utvrzení dluhu**
     - **Smluvní pokuta**
-      - Jedná se o pikutu pro případy porušení smluvních 
+      - Jedná se o pokutu pro případy porušení smluvních povinností smluvní stranou
+      - Je možné jí požadovat bez ohledu na to, zda vznikla věřitelovi škoda
+      - Lze jí možno sjednat jako peněžitou i nepeněžitou
+      - Je-li ujednána pokuta, nemá věřitel právo na úhradu vzniknuvší škody z povinnosti, která byla porušena, a ke které se smluvní pokuta váže.
+      - Nepřiměřeně vysokou pokutu může soud na návrh dlužníka příměřeně snížit
     - **Uznání dluhu**
       - K uznání může dojít smluvně, nebo i aktivním jednáním dlužníka (to se ale nepoužije, pokud je právo již promlčené)
       - Co se aktivního jednání dlužníka týče, jedná se o:
