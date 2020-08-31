@@ -2443,11 +2443,11 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- Závazky z porušení smlouvy
-  - Z prodlení
-  - Z vadného plnění
-  - Z újmy způsobené porušením smluvní povinnosti
-- Závazky z bezdůvodného obohacení
+- [ ] Závazky z porušení smlouvy
+  - [ ] Z prodlení
+  - [ ] Z vadného plnění
+  - [ ]mZ újmy způsobené porušením smluvní povinnosti
+- [ ] Závazky z bezdůvodného obohacení
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2589,8 +2589,8 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- Závazky z bakovních smluv
-- Závazky z přepravních smluv
+- [ ] Závazky z bakovních smluv
+- [ ] Závazky z přepravních smluv
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2618,8 +2618,8 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- Závazky ze zaopatřovacích smluv
-- Závazky z odvážných smluv
+- [ ] Závazky ze zaopatřovacích smluv
+- [ ] Závazky z odvážných smluv
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
