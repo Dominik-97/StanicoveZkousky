@@ -2441,6 +2441,20 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
   - Způsobů, kterými může zaniknout závazek je mnoho.
   - **Splnění**
     - Nejzákladnejším důvodem k zániku závazku je splnění vzájemných práva povinností smluvními stranami.
+    - Závazek zaniká splněním dluhu.
+    - Dlužník musí splnit na svůj náklad a nebezpečí včas.
+    - Ve smlouvě je standardně ujednán předmět plnění, způsob plnění, místo a čas - dlužník nemůže být nucen plnit něco jiného než je ve smlouvě, rovněž věřitel nemůže být nucen přijmout něco jiného než je uvedeno ve smlouvě.
+    - Jak již jsem psal výše, ze závazku mají standardně práva a povinnosti obě strany - pokud se tedy jedná o vzájemné plnění, kterákoliv ze stran může požadovat plnění po druhé straně až ve chvíli, kdy sama splní, nebo je ochotna a schopna splnit dluh společně s druhou stranou.
+    - **Řádné plnění**
+      - Aby mohla smlouva dobře fungovat a závazky z ní plněny a tím se strany dostali až k jejich řádnému splnění a následně potenciálnímu zániku smlouvy, musí vzájemné plnění splňovat určité nároky.
+      - Tedy především exstuje povinnost plnit bez **vad** a plnit podle podmínek ve smlouvě předmět s požadovanými **vlastnostmi** -> pokud je plněno vadně, vznikají příjemci **práva z vadného plnění**
+      - **Zcizitel nemůže svoje povinnosti z vadného plnění omezit**, nabyvatel se však může těchto práv písemně **vzdát**, ALE POZOR, jen obecně, například u spotřebitelských smluv se spotřebitel práv vyplývajících ze zákona o ochraně spotřebitele a občanského zákoníku vzdát nemůže -> k takovému projevu vůle by se nepříhlíželo, a považoval by se za absolutně neplatný, práv z vadného plnění se tak například může vzdát kupec ojetého automobilu při koupi od nepodnikatele
+        - **Vymezené vady plnění**
+          - Jedná se **zejména**, tedy ne výlučně o:
+          - poskytnutí předmětu s neodpovídajícími vlastnostmi, nebo v neodpovídající jakosti,
+          - neupozornění na vady předmětu, která má předmět při předání,
+          - lhaní o vadách předmětu, nebo způsobu jeho používání,
+          - zcizení cizí věci neoprávněně jako svojí.
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
   - **Další způsoby**
