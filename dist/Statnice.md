@@ -2371,6 +2371,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - Jistota je tedy zajištěna buď závazkovými instituty, nebo může být zapsána i jako věcné právo - například již výše zmíněné zástavní právo
     - Pokud je více věřitelů, tak se primárně uspokojí věřitelé, kteří mají jistotu ve formě věcného práva zapsaného ve veřejném registru, poté věřitelé, kteří jsou zajištěni věcným právem nezapsaným ve veřejném registru, a jako poslední se uspokojí věřitelé, kteří jsou zajištěni pouze závazkovým právem
     - Jistota zajišťuje část hodnoty dluhu, proto sníží-li se hodnota jistoty, může věřitel požadovat její doplnění, v případě, že doplněna nebude, stává se část pohledávky, která není dostatečně zajištěna splatnou
+    - Splněním dluhu vstupuje tato osoba (osoba, která plnila z titulu ručení za dluh, nebo ho jinak zajišťovala) do práv věřitele a má právo, aby jí dlužník vyrovnal, co za něho plnila. Pohledávka věřitele na ni přechází včetně příslušenství, zajištění a dalších práv s pohledávkou spojených. Věřitel vydá tomu, kdo za dlužníka plnil, potřebné doklady o pohledávce a sdělí mu vše, co je k uplatnění pohledávky zapotřebí.
   - **Zajištění**
     - **Ručení**
       - Prohlášení ručitele, že uspokojí dlužníka v případě, že dlužník nebude plnit
@@ -2452,11 +2453,28 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
         - **Vymezené vady plnění**
           - Jedná se **zejména**, tedy ne výlučně o:
           - poskytnutí předmětu s neodpovídajícími vlastnostmi, nebo v neodpovídající jakosti,
-          - neupozornění na vady předmětu, která má předmět při předání - pokud vada nebyla zřejmá, nebo není zapsaná ve veřejném registru,
+          - neupozornění na vady předmětu, která má předmět při předání - pokud vada nebyla zřejmá, nebo není zapsaná ve veřejném registru, vadou věci je i pokud na něj třetí osoba uplatňuje právo,
           - lhaní o vadách předmětu, nebo způsobu jeho používání,
           - zcizení cizí věci neoprávněně jako svojí.
         - Je možné přenechat věc **úhrnkem**, takzvaně "jak stojí a leží", pak jdou její vady k tíži nabyvatele.
         - Jak již jsem popsal výše u obecné otázky k závazkům, zcizitel běžně nese jen výše uvedené vady při předání, pokud má být zaručen za funkčnost předmětu po nějakou dobu po zcizení, je třeba uzavřít **záruku za jakost**
+        - Vadu je třeba vytknout zciziteli, při vytknutí neběží lhůta k právům z vadného plnění a ze záruky
+        - Nabyvatel může vadu vytknout u soudu - stanovena lhůta, rovněž může vytknout vady při sjednání záruky, pokud není vada vytknutá všas - soud právo na z vadného plnění neuzná
+        - Pokud je vada ostranitelná, může se nabyvatel domáhat - opravy, doplnění toho co chybí, nebo přiměřené slevy z kupní ceny, pokud je neopravitelná - má nabyvatel právo na odstoupení od smlouvy a nebo přiměřenou slevu z kupní ceny
+        - Právo z vadného plnění nevylučuje odpovědnost zcizitele za škodu, toho, čeho se ale nabyvatel domohl prostřednictvím práva z vadného plnění se již nemůže domoci z jiného právního důvodu
+        - Pokud vznikla vada z plnění a dlužník plní, započítává se plnění nejdříve na splnění závazku, až poté na vady z plnění
+    - **Způsob plnění**
+      - Závazek může mít více způsobů jeho plnění, způsob volí buď dlužník, nebo věřitel (ten zvolený způsob musí oznámit)
+      - Zvolené plnění musí dlužník plnit, bez souhlasu věřitele není oprávněn plnit několika způsoby, ani k tomu nemůže být nucen veřitelem
+      - V případě znemožnění plnění jedním ze způsobů OZ upravuje situace, kdy je jedna ze stran oprávněna odstoupit - není zas tak důležité
+      - Plnění lze určit podle druhu věci -> ten je pak dlužník povinen plnit (musí se shodovat účel)
+      - Dluh se plní vcelku, pokud to ale neodporuje povaze závazku, nebo účelu smlouvy, musí věřitel přijmout i částečné plnění (logicky jsem de podřadit například plnění ve splátkách)
+      - Pokud se závazek skládá z nákladů, úroků a jistiny -> plnění se primárně započítává na náklady a úroky
+        - Dlužník může projevit vůli, aby se započítávalo nejdříve na jistinu, to je možné, ale úročí se v tomto případě náklady a úroky
+      - Pokud dlužník plní prostřednictvím jiné osoby, odpovídá za plnění jako by plnil on sám, plnění třetí osoby však věřitel musí přijmout pokud s plněním dlužník souhlasí (pokud se plnění netýká výhradně osoby dlužníka)
+      - Kdo plní dluh jiného, aniž za dluh ručí a ani jinak dluh nezajistil, může na věřiteli požadovat před splněním nebo při něm, aby mu postoupil svoji pohledávku.
+    - **Poukázka**
+      - VEDLEJŠÍ
   - **Dohoda**
     - Dohoda jest dalším způsobem zániku závazků
   - **Další způsoby**
