@@ -2379,6 +2379,11 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - **Smluvní pokuta**
       - Domnívám se, že nesmí být sjednán úrok společně se smluvní pokutou?
     - **Uznání dluhu**
+      - K uznání může dojít smluvně, nebo i aktivním jednáním dlužníka (to se ale nepoužije, pokud je právo již promlčené)
+      - Co se aktivního jednání dlužníka týče, jedná se o:
+        - Placení úroků,
+        - plní-li dlužník dluh zčásti -> uznán je celý dluh
+      - Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
