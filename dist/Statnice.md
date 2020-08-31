@@ -2226,7 +2226,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Závazky ze smluv uzavíraných se spotřebitelem
+- [x] Závazky ze smluv uzavíraných se spotřebitelem
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2306,8 +2306,8 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Změny závazků
-- [ ] Zajištění a utvrzení dluhu
+- [x] Změny závazků
+- [x] Zajištění a utvrzení dluhu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2427,7 +2427,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Zánik závazků
+- [x] Zánik závazků
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2519,11 +2519,31 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
         - Proti určitým pohledávkám započítat nelze - například výživné pro nezletilého, pohledávku na náhradu újmy způsobené na zdraví
         - Lze započíst pohledávku i po jejím promlčením, pokud šla započíst již před jejím promlčením
       - **Splynutí**
+        - Pokud splyne právo a povinnost u jedné osoby, zanikne právo i povinnost, nestanoví-li zákon jinak.
       - **Prominutí dluhu**
+        - Závazek se rovněž ruší, promine-li věřitel dlužníkovi jeho dluh, má se za to, že dlužník s prominutím souhlasí, ale může i nesouhlasit, a to i pouhym plnění na dluh.
+        - Za prominutí se považuje i vydání kvitance či dlužního úpisu před splěním dluhu.
       - **Výpověď**
+        - Lze pokud si to strany ujednají, nebo stanoví-li tak zákon
+        - Zásadní je doba, na kterou je závazek sjednán
+          - Smlouva na dobu neurčitou musí jít vždy vypovědět, zatímco smlouva na dobu určitou nemusí jít vypovědět, pokud nedojde k zákonem stanoveným podmínkám (standardně se jedná o porušení povinností ze smlouvy)
+        - Závazek standardně zaniká koncem výpovědní doby, lze si ale stanovit i vypovězení závazku bez výpovědní doby
+        - OZ určuje i časové podmínky vypovězení závazku uzavřeného na dobu neurčitou (3 měsíce před koncem kalendářního čtvrtletí)
+        - Pokud jse mlouva uzavřena na více než 10 let, lze po 10 letech žádat vypovězení smlouvy, takovouto smlouvu může zrušit i soud při podstatné změně okolností
       - **Odstoupení od smlouvy**
+        - Možné pokud si to strany ujednají, nebo stanoví-li tak zákon
+        - Odstoupit lze vždy, pokud jedna ze stran porušila smlouvu podstatným způsobem
+        - Odstoupením od smlouvy se závazek zrušuje od počátku -> domnívám se, že strany si musí vydat vzájemné plnění, pokud-li však dlužník zčásti plnil, může věřitel odstoupit jen od té části závazku, na který dlužník ještě neplnil
+        - Odstoupením od smlouvy zanikají v rozsahu jeho účinků práva a povinnosti stran. Tím nejsou dotčena práva třetích osob nabytá v dobré víře.
+        - Nezaníká rovně závazek ze smluvní pokuty nebo z úroku z prodlení, pokud je již dospělý
         - **Odstupné**
+          - Strany si mohou ujednat, že zruší závazek se zaplacením odstupného - závazek se v tomto případě ruší obdobně jako při odstoupení od smlouvy.
       - **Následná nemožnost plnění**
+        - Nemožnost plnění prokazuje dlužník
+        - Jedná se o situaci, ve které je plnění dluhu nemožné, ale pokud je jen ztížené -> nezaniká
+        - Dlužník musí nemožnost plnění oznámit bez zbytečného odkladu věřiteli, jinak je mu odpovědný za škodu
+        - Právo **nezaniká smrtí** dlužníka, ledaže bylo vázáno výlučně na jeho osobu, pokud zemře věřitel, zaniká závazek, pokud bylo plnění omezeno výhradně a pouze na jeho osobu.
+
 
 Podstatná změna okolností.
 
