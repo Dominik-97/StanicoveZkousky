@@ -3543,7 +3543,7 @@ finanční arbitr
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Právní úprava živnostenského podnikání
+- [x] Právní úprava živnostenského podnikání
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -3656,6 +3656,23 @@ finanční arbitr
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
+
+**Právní úprava neživnostenského podnikání**
+
+- Před níže uvedeným je vhodné chvíli mluvit o podnikání jako takovém, viz předchozí otázka
+
+-	podnikání, pro které je nutné získat oprávnění, ale nikoli podle ŽZ, ale dle jiných zvláštních zákonů
+  - a- svobodná povolání
+    -	např. advokáti, architekti, daňoví poradci, lékaře apod.
+    -	jedná se o poskytování individualizovaných služeb vysoce kvalifikovanými osobami
+    -	regulaci podnikání vykonávají profesní komory jako PO veřejného práva (dříve cechy)
+      -	↪ povinné členství (poplatky) + disciplinární působnost komory nad svými členy, svoje disciplinární orgány etc.
+    -	svéprávnost, bezúhonnost, odbornost, složení zkoušky, slibu; někdy zákaz jiné činnosti
+  - b- ostatní případy neživnostenského povolání
+    -	mají vlastní zákon, který upravuje podmínky podnikání v daném odvětví nebo oboru
+    -	působnost rozhodnout o oprávnění je svěřena některému z ústředních orgánu státní správy
+    -	tento orgán pak následně vykonává dozor nad dodržováním zákonných povinností a ukládá pokuty za jejich porušení
+    -	svéprávnost, bezúhonnost, odbornost, překážky podnikání, finanční předpoklady (500 mil. banky), technické, organizační, personální předpoklady, důvěryhodnost, transparentnost
 
 **Podnikání zahraničních osob**
 
