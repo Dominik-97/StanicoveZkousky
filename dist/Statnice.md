@@ -3609,6 +3609,7 @@ finanční arbitr
     -	3- zrušení živnostenského oprávnění (na 3 roky od nabytí právní moci zrušení)
 
 -	zvláštní (odborné) podmínky pro živnosti: jsou obsaženy v přílohách živnostenského zákona
+  - například u spracování chemikálií se může jednat o povinnost vysokoškolského vzdělání v oblasti chemie
 
 -	obsah jednotlivých živností: nařízení vlády 278/2008 Sb., o obsahových náplních jednotlivých živností
 
@@ -3661,14 +3662,20 @@ finanční arbitr
 
 - Před níže uvedeným je vhodné chvíli mluvit o podnikání jako takovém, viz předchozí otázka
 
+- Živ. zák. přímo i vymezuje to co živností není, ale zároveň nespadá ani do živnostenského podnikání (dle mého chápání)
+  - například umělecká činnost
+  - archeologické práce
+  - restaurování
+  - etc.
+
 -	podnikání, pro které je nutné získat oprávnění, ale nikoli podle ŽZ, ale dle jiných zvláštních zákonů
-  - a- svobodná povolání
+  - a- svobodná povolání - standardně FO
     -	např. advokáti, architekti, daňoví poradci, lékaře apod.
     -	jedná se o poskytování individualizovaných služeb vysoce kvalifikovanými osobami
     -	regulaci podnikání vykonávají profesní komory jako PO veřejného práva (dříve cechy)
       -	↪ povinné členství (poplatky) + disciplinární působnost komory nad svými členy, svoje disciplinární orgány etc.
     -	svéprávnost, bezúhonnost, odbornost, složení zkoušky, slibu; někdy zákaz jiné činnosti
-  - b- ostatní případy neživnostenského povolání
+  - b- ostatní případy neživnostenského povolání - standardně PO
     -	mají vlastní zákon, který upravuje podmínky podnikání v daném odvětví nebo oboru
     -	působnost rozhodnout o oprávnění je svěřena některému z ústředních orgánu státní správy
     -	tento orgán pak následně vykonává dozor nad dodržováním zákonných povinností a ukládá pokuty za jejich porušení
