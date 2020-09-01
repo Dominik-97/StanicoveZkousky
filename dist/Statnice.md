@@ -3614,8 +3614,9 @@ finanční arbitr
 -	obsah jednotlivých živností: nařízení vlády 278/2008 Sb., o obsahových náplních jednotlivých živností
 
 -	odpovědný zástupce – pokud podnikatel nemá dostatek odborné způsobilosti, může v dané živnosti podnikat prostřednictvím odpovědného zástupce -> FO, která splňuje podmínky provozování živnosti a nejsou u ní dány překážky pro provozování živnosti, podnikatel však rovněž musí splňovat minimálně obecné podmínky provozování živnosti, OZ odpovídá za řádný provoz živnosti a za dodržování živnostenskoprávních předpisů
-  - pro PO by měl být ideálně vybrán člen statutárního orgánu, ale může být ustanoven i kdokoliv další
+  - pro PO by měl být ideálně vybrán člen statutárního orgánu, ale může být ustanoven i kdokoliv další, **PO odpovědného zástupce musí ustanovit** - samozřejmě pokud je třeba splnit zvláštní podmínky živnostenského zákona
   - v případě zahraniční osoby - měl by být vedoucí organizační složky závodu umístěného v Čr
+  - jadna osoba odpovědný zástupce může být ustanoven pro max 4 podnikatele
 
 -	**zánik živnostenského oprávnění** -> smrtí FO / zánikem PO, uplynutím doby, v případech stanovených zvláštním zákonem, rozhodnutím živnostenského úřadu o zrušení živnostenského oprávnění - sem spadá i žádost podnikatele o zrušení živnosti
   - živnost lze rovněž přerušit - na žádost podnikatele
@@ -3692,7 +3693,7 @@ finanční arbitr
 - **Bydlištěm se v tomto případě rozumí místo trvalého pobytu**
 
 - **Obecné pravidlo**
-  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek a ve stejném rozsahu jako české osoby, pokud zákon nestanoví něco jiného (rovněž podle ZMPS mají zahraniční osoby stejná práva v rámci majetkových a osobních práv jako česká osoba)
+  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek a ve stejném rozsahu jako české osoby, pokud zákon nestanoví něco jiného (rovněž podle ZMPS mají zahraniční osoby stejná práva v rámci majetkových a osobních práv jako česká osoba), rovněž (azylanty a osoby, kterým byla udělena doplňková ochrana, a jejich rodinné příslušníky)
   - Svéprávnost a právní subjektivita a ostatní zákoné definice PO a FO se řídí právním řádem, kde má FO **obvyklý pobyt** a PO **sídlo** - podle ZMPS tedy český právní řád uznává osobu platně vzniklou podle právního řádu cizí země, za platného subjekta práva/řídí se podle právního řádu místa, kde vznikla (ve své podstatě, tak české právo může uznávat jakési kvazisubjekty, které by český právní řád jinak za osobu neoznačil, nebo neuznal)
     - Pro právní jednání však stačí, že je osoba způsobilá podle právního řádu země, ve které jedná
   - SFEU umožňuje volný pohyb osob a zboží, služeb a kapitálu
@@ -3707,6 +3708,7 @@ finanční arbitr
 - **Podmínky podnikání zahraniční osoby v Čr**
 - Aby zahraniční osoba mohla v Čr podnikat, musí splnit běžné náležitosti stanovené v ŽZ, rovněž ale musí splňovat další subset pravidel, v tomto případě se jedná o podmínky z oblasti cizineckého práva - zejména ve smyslu pobytu u FO (zákon o pobytu cizinců na území Čr)
   - 1- k ohlášení živnosti/žádosti o koncesi nutno doložit povolení k pobytu
+    - Pokud bude podnikat zahraniční osoba PO - musí ustanovit odpovědného zástupce (bude se běžně jednat o vedoucího odštěpného závodu, může ale určit i jinou osobu)
   -	2- splnit podmínky ŽZ: bezúhonnost (výpis z TR mladší 3 měsíců), svéprávnost, odborná způsobilost (směrnice o uznávání kvalifikací v rámci EU > zákon o uznávání odborné kvalifikace občanů EU)
   -	3- zápis do OR (nemusí se zapisovat: 1. občané EU/EHP + jejich rodinní příslušníci (tj. i non-EU manžel Čecha), 2. dlouhodobí rezidenti v EU + rodinní příslušníci s dlouhodobým pobytem)
     - Jedná se tedy o obecné pravidlo, které nemusí být vždy zásadním předpokladem pro provozování živnosti, **osoby, které se však do OR zapisovat musí, mohou zahájit podnikání až dnem zápisu - konstitutivní zápis, a to v rozsahu, v jaké jsou zapsáni**
