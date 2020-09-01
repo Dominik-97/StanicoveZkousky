@@ -3664,7 +3664,7 @@ finanční arbitr
 
 - Před níže uvedeným je vhodné chvíli mluvit o podnikání jako takovém, viz předchozí otázka
 
-- Živ. zák. přímo i vymezuje to co živností není, ale zároveň nespadá ani do živnostenského podnikání (dle mého chápání)
+- Živ. zák. přímo i vymezuje to co živností není, ale zároveň nespadá ani do neživnostenského podnikání (dle mého chápání)
   - například umělecká činnost
   - archeologické práce
   - restaurování
@@ -3692,14 +3692,25 @@ finanční arbitr
 - **Bydlištěm se v tomto případě rozumí místo trvalého pobytu**
 
 - **Obecné pravidlo**
-  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek jako české osoby, pokud zákon nestanoví něco jiného
+  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek jako české osoby, pokud zákon nestanoví něco jiného (rovněž podle ZMPS mají zahraniční osoby stejná práva v rámci majetkových a osobních práv jako česká osoba)
   - Svéprávnost a právní subjektivita a ostatní zákoné definice PO a FO se řídí právním řádem, kde má FO **obvyklý pobyt** a PO **sídlo** - podle ZMPS tedy český právní řád uznává osobu platně vzniklou podle právního řádu cizí země, za platného subjekta práva
+    - Pro právní jednání však stačí, že je osoba způsobilá podle právního řádu země, ve které jedná
+  - SFEU umožňuje volný pohyb osob a zboží, služeb a kapitálu
 
-- Buď jako fyzická osoba podnikatel podle živnostenského zákona
-- Nebo jako podnikatel ale ne podle živnostenského zákona
-- Nebo jako PO a založit si v Čr odštěpný závod
-  - Je povinen ve smyslu živnostenského zákona jmenovat odpovědnou osobu pro získání živnostenského oprávnění
-- Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
+- **Způsoby podnikání zahraniční osoby v Čr**
+  - a- Buď jako fyzická osoba podnikatel podle živnostenského zákona
+  - b- Nebo jako podnikatel ale ne podle živnostenského zákona (například evropský advokát)
+  - c- Nebo jako PO a založit si v Čr odštěpný závod
+    - Je povinen ve smyslu živnostenského zákona jmenovat odpovědnou osobu pro získání živnostenského oprávnění
+  - d- Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
+
+- **Podmínky podnikání zahraniční osoby v Čr**
+  - 1- k ohlášení živnosti/žádosti o koncesi nutno doložit povolení k pobytu
+  -	2- splnit podmínky ŽZ: bezúhonnost (výpis z TR mladší 3 měsíců), svéprávnost, odborná způsobilost (směrnice o uznávání kvalifikací v rámci EU > zákon o uznávání odborné kvalifikace občanů EU)
+  -	3- zápis do OR (nemusí se zapisovat: 1. občané EU/EHP + jejich rodinní příslušníci (tj. i non-EU manžel Čecha), 2. dlouhodobí rezidenti v EU + rodinní příslušníci s dlouhodobým pobytem)
+
+-	nevyžaduje se znalost českého jazyka, avšak je tu povinnost zajistit, aby v provozovně určené pro prodej zboží nebo poskytování služeb spotřebitelům, byla přítomna osoba splňující podmínku znalosti Čj či Sj
+-	podnikání podle zákona o advokacii  status tzv. evropského advokáta (zapisování do seznamu vedený ČAK) není oprávněn sepisovat některé smluvní typy (např. o převodu nemovitosti)
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
