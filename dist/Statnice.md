@@ -475,7 +475,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
     - Organizaci je možné zvolist ve stanovách - ty mohou orgány pojmenovat jakkoliv, jen nesmí působit klamavým dojmem.
       - V základ nejvyšší orgán - členská schůze, statutární orgán - individuální (předseda), kolektivní (výbor), dále může být zřízena kontrolní komise a rozhodčí komise.
     - Název - dodatek - spolek, zapsaný spolek, nebo z.s.
-    - Hlavní činností -> pouze ochrana a uspokojování těch zájmů, které vedly společníky k jeho založení
+    - Hlavní činností -> pouze ochrana a uspokojování těch zájmů, které vedly společníky k jeho založení, podnikání však může být jako vedlejší činnost spolku -> zisk z dané činnosti je však možné použít pouze pro účely spolku
     - Nelze zakládat za účelem podnikání, nebo jiné výdělečné činnosti
     - Příkladem může být spolek pro obnovu venkova Čr
     - Je zapisován do spolkového rejstříku.
@@ -501,10 +501,13 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
       - Ústav provozuje činnost, jejíž výsledky jsou každému rovnocenně dostupné za podmínek předem stanovených.
       - Název ústavu musí obsahovat slova „zapsaný ústav“, postačí však zkratka „z.ú.“
       - Od korporací se liší tím, že řízení a provoz v nich nezajišťují členové, ale zaměstnanci.
-      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává.
+      - Statutárním orgánem ústavu je ředitel odpovědný správní radě, která ho do funkce jmenuje a z funkce odvolává, je možné založit i dozorující orgán (například dozorčí rada).
       - Ústavů je mnoho, podle zaměření jejich činností a způsobů jejich založení a řízení se rozlišují ústavy soukromoprávní a veřejnoprávní.
       - Ústavy se vyskytují ve všech oblastech společenského a hospodářského života.
       - Dobrým příkladem ústavu je Charita České republiky, nebo Výzkumný ústav práce a sociálních věcí.
+      - Zákon dává možnost ústavu založit obchodní závod či provozovat vedlejší činnost -> domnívám se tedy, že fakticky může podnikat.
+        - Domnívám se, že kvůli své veřejné prospěšnosti může být zisk použit opět jen pro účely fungování ústavu.
+      - Zapisuje se do rejstříku ústavů.
   - Ahojda
 - **Organizační struktura**
   - NOZ předpokládá, že právnická osoba je organizovaným útvarem, čímž naznačuje existenci její vnitřní struktury - tak to i musí být, protože právnická osoba je jen fingovaná osoba, není skutečně živá a nemá svéprávnost, vždycky tedy musí být někdo, kdo jí bude zastupovat a jehož přičiněním bude daná právnická osoba nabívat práv a poviností.
@@ -4106,6 +4109,24 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 - specifika jsou upraveny v zákoně o majetku České republiky
 - stát může zakládat i jiné právnické osoby, v rámci podnikatelské činnosti však jen s.p. a a.s. (jinak například fundace, příspěvkové organizace - druh ústavu etc.)
 - jedná se o společnosti, které jsou založené státem, respektive jeho organizační složkou (nemá právní osobnost, ale zastupuje stát v určité vymezené oblasti veřejné správy a nakládá s určitým státním majetkem, práva a povinnosti z jedánání tohoto útvaru však vznikají přímo státu) -> ministerstvem
+  - stát se však rovněž na založení může podílet
+  - rovněž však nemusí společnost zakládat, nebo se účastnit na jejím založení, může v ní rovněž mít pouze majetkovou účast
+    - to znamená, že stát musí nabýt akcie dané akciové společnosti, na podmínky nabytí se užijí ustanovení zákona o majetku České republiky
+
+**A.S. s majetkovou účastí státu**
+- stát se může majetkově účastnit pouze na a.s. (co se týče obchodní společnosti, tedy ne na s.r.o, k.s. a v.o.s.) - ustanovení týkající se fungování a.s. se nemění -> uplatní se opět ZOK
+  - zákon o majetku české republiky však jako speciální právní předpis upravuje jakým způsobem funguje samotná mejtková účast státu v akciové společnosti
+- k majetkové účasti (založení, účasti na založení, nebo nákupu akcií) je třeba *apriori* souhlas vlády, ten stanoví i formu akcie, tedy na jméno (cenný papír na řad), nebo na majitele (cenný papír na doručitele), k dalšímu nakládání s majetkem je rovněž potřeba souhlas vlády
+- funkci zakladatele a vkladatele a.s. vykonává za stát **ministerstvo**
+  - ministerstvo k tomu použije majetek, s kterým může dle zákona hospodařit
+- **práva akcionáře** vykonává v a.s. pověřený zaměstnanec ministerstva, ten přitom postupuje v souladu se zákone (s péčí řádného hospodáře) a dle pokynů ministra, tomu i podává pravidelné zprávy o své činnosti
+
+**Další PO, které může stát založit**
+- Stát může rovněž založit ústav (3 druh PO) a fundace (2 druh PO)
+- Může je založit se souhlasem vlády
+- Vláda rovněž stanoví, jaké ministerstvo bude vykonávat funkci zakladatele
+- správa se vykonává obdobně jako u a.s.
+-
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -4491,6 +4512,8 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+Zakládání právnických osob právnickými osobami.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
