@@ -4131,6 +4131,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 **Zakázaná účast v jiných PO a dalších sdruženích**
   - stát se nemůže účastnit na družstvu, respektive nemůže být jeho členem (jsou stanoveny výjimky, ale běžně jím zkrátka být nemůže)
   - stát rovněž nemůže uzavřít smlouvu o společnosti (společnost podle občanského práva) ani smlouvu o tiché společnosti
+  - při splnění určitých požadavků a souhlasu vlády se může stát rovněž účastnit na spolku
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
