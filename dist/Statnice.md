@@ -4120,7 +4120,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Specifika právního postavení podnikatele v závazkových právních vztazích
+- [x] Specifika právního postavení podnikatele v závazkových právních vztazích
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
