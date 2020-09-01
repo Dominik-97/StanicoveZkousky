@@ -3553,6 +3553,59 @@ finanční arbitr
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Podnikání obecněji**
+1) podmínky podnikání obecně
+-	čl. 11 & 26 LZPS: vlastnictví + svobodná volba povolání, právo podnikat a provozovat jinou hospodářskou činnost (FO i PO) -> lze na základě zákona podmínit či omezit dle čl. 26 (2) a čl. 41 LZPS
+  -	X čl. 4 (4) zákony mají šetřit smysl a podstatu ZPS (ÚS: test proporcionality)
+  - důvody pro omezení: poskytování kvalitních služeb a zboží a bezpečnost hospodářského styku
+  -	podnikáním nemohou být obecně zakázané činnosti / činnosti vyhrazené zákonem pouze státu nebo určené PO
+
+-	podle podmínek podnikání můžeme rozlišovat:
+  - a- zákonem neregulované podnikání
+    -	činnosti, které jsou vyloučeny z ŽZ + ani je neupravují žádné jiné zvláštní zákony, pokud naplní znaky podle § 420 odst. 1 OZ
+    -	např. pronájem nemovitostí, bytů…, drobná pěstitelská a chovatelská činnost…
+b) zákonem regulované podnikání
+─	zákon stanovuje omezující podmínky
+─	podnikatel musí získat podnikatelské oprávnění, aby mohl v daném oboru podnikat
+─	dělí se na živnostenské (regulováno podle ŽZ) a neživnostenské podnikání (+ z nich lze oddělit skupinu tzv. svobodných povolání – advokáti, architekti,…)
+─	podnikatelské oprávnění = veřejnoprávní oprávnění podnikat  vzniká na základě zákona splněním podmínek, na základě správního rozhodnutí příslušného správního orgánu nebo zápisem do seznamu, o kt. se následně vydává osvědčení (např. advokáti)
+─	ŽZ: živnostenské oprávnění; jiné zákony: licence, autorizace (architekti) nebo osvědčení (advokáti)
+─	podnikatelské oprávnění nelze převést na jinou osobu  svědčí pouze osobě, které bylo uděleno
+─	výjimka: při přechodu VP k obch. závodu (dědění, přeměna PO) – nabyvatel může dočasně provozovat pod oprávněními svého předchůdce
+- **Živnostenské podnikání**
+─	§ 2 ŽZ Živností je soustavná činnost provozovaná samostatně, vlastním jménem, na vlastní odpovědnost, za účelem dosažení zisku a za podmínek stanovených tímto zákonem.
+─	§ 3 ŽZ negativní def.:  takové podnikání, které upravují jiné zákony (zákon o bankách), podnikání, ohledně něhož zákon žádné podmínky nestanoví (pronájem bytů)… [dlouhý katalog v § 3]
+─	pojem živnost je tedy užší než pojem podnikání dle § 420 OZ
+─	živnostenské oprávnění je oprávnění provozovat živnost (prokazuje se výpisem ze živn. rejstříku)
+─	třídění živností podle předmětu výrobní, obchodní a poskytování služeb
+─	třídění živností podle vzniku živnostenského oprávnění:
+a) ohlašovací
+─	oprávnění vzniká na základě zákona za splnění podmínky ohlášení podnikatelem
+─	volná živnost  splnění pouze všeobecných podmínek provozování živnosti; nevyžaduje se odborná ani jiná způsobilost (X ale zařazeny i „skrytě vázané“ živnosti, pro které je odbornost vyžadována jinými zákony; např. projektování pozemkových úprav)
+─	řemeslné živnosti  podmínka odborné způsobilosti (dosažení určitého odborného vzdělání /odborná praxe)
+─	vázané živnosti  podmínka odborné způsobilosti stanovené ŽZ i jinými zákony,
+b) koncesované
+─	oprávnění vzniká na základě rozhodnutí živnostenského úřadu o udělení koncese obvykle po předchozím vyjádření příslušného dozorujícího správního orgánu
+─	u koncesovaných živností zákon předepisuje nejen odbornou způsobilost, ale i jinou způsobilost
+─	např. provozování pohřebních služeb, cestovních kanceláří, veřejných dražeb
+─	podmínky provozování živnosti:
+─	obecné (musí splňovat každý)
+─	svéprávnost (omezení vede ke zrušení živnosti; pokračovat může teor. opatrovník), lze nahradit souhlasem zákonného zástupce k provozování živnosti se souhlasem soudu, obecně zletilostí
+─	bezúhonnost (negativně: není jim, kdo byl pravomocně odsouzen za úmyslný TČ
+ v souvislosti s podnikáním anebo s předmětem podnikání)
+- nemá daňové nedoplatky u finančního úřadu ani nedoplatky na sociální a zdravotní pojištění
+ zrušení ŽO u živnostníka, v ZOK zánik funkce u člena statut. orgánu ex lege
+─	zvláštní (odborné podmínky pro určitou skupinu živnostníků)
+─	překážky provozování živnosti
+─	kvalifikovaná úpadková situace
+─	zákaz činnosti (jako sankce; nemůže vykonávat ani příbuzné obory)
+─	zrušení živnostenského oprávnění (na 3 roky od nabytí právní moci zrušení)
+─	zvláštní (odborné) podmínky pro živnosti: přílohy živnostenského zákona
+─	obsah jednotlivých živností: nařízení vlády 278/2008 Sb., o obsahových náplních jednotlivých živností
+─	odpovědný zástupce – pokud podnikatel nemá dostatek odborné způsobilosti, může v dané živnosti podnikat prostřednictvím odpovědného zástupce FO, která splňuje podmínky provozování živnosti a nejsou u ní dány překážky pro provozování živnosti
+─	zánik živnostenského oprávnění  smrtí FO / zánikem PO, uplynutím doby, v případech stanovených zvláštním zákonem, rozhodnutím živnostenského úřadu o zrušení živnostenského oprávnění
+- **Postup založení živnosti**
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
