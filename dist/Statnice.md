@@ -126,6 +126,8 @@ title: Státnice
     * Každý má povinnost jednat v právním styku poctivě, v souladu s dobrými mravy, bezdůvodně neškodit, ochrana dobré víry
     * Zjevné zneužití práva nepožívá právní ochrany
     * Ochrana v minulosti nabytých práv - zákaz retroaktivity
+    * Právo člověka končí tam, kde začíná právo jiného člověka
+    * Každý může činit co právo nezakazuje, nikdo nemůže být nucen činit to co právo neukládá
     * Pokud nelze právní případ rozhodnout podle výslovného ustanovení -> rozhodne se podle nejbližšího podobného ustanovení -> jinak podle principů spravedlnosti a zásad
     * Zásado kdo dřív přijde, ten dřív mele -> například KN
     * Judikatura má precedenční charakter - očekávání, že případ bude vyřešet obdobně, jako případy podobného typu -> pokud ne, nárok na vysvětlení
@@ -197,6 +199,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
       * Část například statusová -> nikdo se nemůže vzdát právní subjektivity.
 * Obecná část
   * Paragrafy 1 až 14.
+
+Princip oficiality = například soud musí začít konat z úřední povinnosti
+Princip legality = OVM může konat jen to, co mu ukládá zákon
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -4124,6 +4129,67 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**OBECNĚ K POSTAVENÍ PODNIKATELE V ZÁVAZKOVÝCH VZTAZÍCH**
+-	podnikatel je zákonodárcem považován za profesionála -> je očekávána vyšší úroveň znalostí, zkušeností a pečlivosti než u běžných osob – nepodnikatelů
+  - § 5 OZ – v zájmu třetích osob a jejich dobré víry zakotvuje vyšší standard požadované péče pro osoby hlásící se k určitému povolání, či stavu, tedy i pro podnikatele
+-	pokud někdo vystupuje jako podnikatel, dává tím najevo, že je v oblasti svého podnikání schopen jednat se znalostí a pečlivostí, která je s touto oblastí podnikání spojena (nedodržení -> domněnka nedbalosti § 2912/2 OZ)
+  - *(1) Nejedná-li škůdce, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale.*
+  - *(2) Dá-li škůdce najevo zvláštní znalost, dovednost nebo pečlivost, nebo zaváže-li se k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebí, a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale.*
+
+**VÝKLAD PRÁVNÍHO JEDNÁNÍ PODNIKATELE**
+  -	specifikum při výkladu PJ § 558 OZ -> v právním styku podnikatelů se přihlíží k obchodním zvyklostem zachovávaným obecně, anebo v daném odvětví, ledaže to vyloučí ujednání stran nebo zákon
+  -	avšak i mezi podnikateli existuje určitá nerovnost – jak v odborné kvalifikaci a zkušenosti, tak i v hospodářské síle  tuto skutečnost právo reflektuje; rozlišování, zdali jsou na obou stranách závazkových vztahů podnikatelé (B2B), či nikoli (B2C)
+
+-	**obecné zásady v závazkových vztazích podnikatele:**
+  -	1- usnadnění obchodního styku -> nabídka reklamou, určení části obsahu obchodní smlouvy odkazem na obchodní podmínky, používání doložek s pevně stanoveným významem (ve vykládacích pravidlech)…
+  -	2- zpřísnění požadavků na podnikatele:
+    -	a- rozsáhlé informační povinnosti – plní podnikatel ve vztahu ke třetím osobám -> zpřístupnění řady údajů ve veř. rejstřících (OR, ŽR), povinnost uvádět na obchodních listinách zákonem dané údaje
+    -	b- odepření ochrany - podnikatele, jako profesionála, není třeba přiměřeně chránit -> nadměrná ochrana by akorát zpomalovala obchodní styk
+  -	3- ochrana slabší strany
+    -	§ 433 OZ zákaz využití závislosti slabší strany a dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných P@P stran (např. zdánlivé: ujednání o promlčení sjednané v neprospěch slabší strany)
+    -	§ 2898 OZ nelze předem vyloučit či omezit právo slabší strany na náhradu jakékoli újmy (zdánlivost)
+    -	vztah podnikatel-spotřebitel + vztah podnikatel-podnikatel
+
+**OBCHODNÍ ZVYKLOSTI – NÁSTROJ USNADNĚNÍ OBCHODNÍHO STYKU**
+  -	jeden z nástrojů usnadnění obchodního styku -> obchodní zvyklosti
+    - jedná se o ustálená pravidla, která jsou dodržována účastníky obchodních vztahů a mohou mít různý dosah -> některá pravidla jsou uplatňována všeobecně v obchodě, jiná jen v některém odvětví/druhu zboží/území
+  -	obchodní zvyklosti mohou plnit dvojí funkci:
+    -	1- sloužit jako vykládací pravidlo – § 558 (2) první věta OZ v právním styku podnikatelů se přihlíží k obchodním zvyklostem zachovávaným obecně, anebo v daném odvětví, ledaže to vyloučí ujednání stran nebo zákon
+    -	2- určovat P@P podnikatelů - § 558 (2) druhá věta OZ není-li jiné ujednání, platí, že obchodní zvyklost má přednost před ustanovením zákona, jež nemá donucující účinky (= před dispozitivními ustanoveními OZ) (1. nesmí odporovat kogentní normě, 2. nesmí být vyloučena)
+      - pokud to ujednání podnikatelů vyloučí, tak se podnikatel může dovolávat obch. zvyklostí, jen prokáže-li, že je druhý podnikatel znal či musel znát a s postupem podle nich byl srozuměn
+  -	příklad zvyklosti – doba splatnosti kupní ceny při dodání určitého zboží (např. staveb. materiálu) je 3 týdny
+  -	obchodní zvyklostí se však nemůže stát porušování zákona (NS ČR, 2011)
+
+**ZPŘÍSNĚNÍ POŽADAVKŮ KLADENÝCH NA PODNIKATELE**
+  - A- Informační povinnosti:
+    - důležitá je transparentnost protistrana je oprávněna vědět, kdo je za podnikatele oprávněn jednat a v jakém rozsahu, dále informace o hosp. situaci podnikatele a další údaje > povinnost zápisu do OR/ŽR
+    - povinnost uvádět na obchodních listinách (obchodní dopisy, objednávkové listy, faktury a smlouvy) údaje o jménu a sídle (+ skutečnost o tom, že je zapsán v OR + pokud má svůj identifikační údaj – IČO)
+    - zákon podnikatelům neukládá povinnost mít internetové stránky X ZOK: AS a družstva
+      - pokud si podnikatel zřídí internetové stránky, musí zde uvádět stejné údaje, jako na obchodních listinách
+      - nečiní-li tak může mu být udělena pokuta, popř. zákaz činnosti
+  - B- Odepření ochrany:
+    -	nemožnost dovolávat se zrušení smlouvy pro neúměrné zkrácení či neplatnosti smlouvy u lichvy (§ 1797 OZ)
+    -	dlužnická solidarita podnikatelů  pokud je k plnění zavázáno společně několik podnikatelů, tak jsou zavázáni společně a nerozdílně (§ 1874 OZ)
+
+**NABYTÍ VLASTNICKÉHO PRÁVA OD NEOPRÁVNĚNÉHO V OBCHODNÍM STYKU**
+  -	-> posílení ochrany kupujícího, který často bude spotřebitelem
+  -	předpokladem pro nabití vlastnického práva od neoprávněného je, že:
+    -	1- věc není zapsána ve veřejném seznamu
+    -	2- dobrá víra nabyvatele
+    -	3- k nabytí došlo při podnikatelské činnosti v rámci běžného obchodního styku (§1109 písm. b)
+  - ve snaze potírat některé nekalé praktiky v obchodech s použitým zbožím (např. zastavárny, autobazary) zakotvil zákonodárce zvláštní režim pro prodej použitých movitých věcí prolomení ochrany dobré víry nabyvatele ve prospěch původního vlastníka v případě, kdy věc byla původnímu vlastníkovi nedobrovolně odňata, nebo ji ztratil (1. prokáže to, 2. neuběhly víc jak 3 roky) (§ 1110 OZ)
+
+**DALŠÍ ZVLÁŠTNÍ ÚPRAVA V OBLASTI VZTAHŮ PODNIKATELE**
+  -	Ochrana před opožděním plateb (§ 1963)
+    -	na 1. místě smlouva; není-li uvedena splatnost > 30 dnů od dodání zboží/služby či faktury (dle toho, co proběhne později) nebo od převzetí či ověření zboží/služby
+    -	podnikatelé si mohou sjednat splatnost nad 60 dnů, není-li to hrubě nespravedlivé
+    -	podnikatel dodává VP korporaci: standard 30, lze odložit na 60, jen umožňuje-li to povaha závazku
+  -	Zvl. ustanovení o prodeji zboží v obchodě (§ 2158 an.)
+    -	vztahují se speciálně na prodávající podnikatele vůči kupujícím, ledaže je kupujícím také podnikatel (a koupě se zřejmě týká jeho podnik. činnosti): odpovědnost za jakost při převzetí, práva z vadného plnění (běžný kupující: 24 měs. od převzetí, kupující-podnikatel: dobu lze zkrátit)
+  -	Zvl. ustanovení o nájmu prostoru sloužícího k podnikání + pronájmu věcí movitých (§ 2302 an., § 2316, ot. 22)
+  -	Neúměrné krácení (§ 1793) + lichva (§ 1796)
+  -	Dlužnická solidarita (§1872-4)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
