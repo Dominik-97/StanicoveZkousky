@@ -3614,6 +3614,8 @@ finanční arbitr
 -	obsah jednotlivých živností: nařízení vlády 278/2008 Sb., o obsahových náplních jednotlivých živností
 
 -	odpovědný zástupce – pokud podnikatel nemá dostatek odborné způsobilosti, může v dané živnosti podnikat prostřednictvím odpovědného zástupce -> FO, která splňuje podmínky provozování živnosti a nejsou u ní dány překážky pro provozování živnosti, podnikatel však rovněž musí splňovat minimálně obecné podmínky provozování živnosti, OZ odpovídá za řádný provoz živnosti a za dodržování živnostenskoprávních předpisů
+  - pro PO by měl být ideálně vybrán člen statutárního orgánu, ale může být ustanoven i kdokoliv další
+  - v případě zahraniční osoby - měl by být vedoucí organizační složky závodu umístěného v Čr
 
 -	**zánik živnostenského oprávnění** -> smrtí FO / zánikem PO, uplynutím doby, v případech stanovených zvláštním zákonem, rozhodnutím živnostenského úřadu o zrušení živnostenského oprávnění - sem spadá i žádost podnikatele o zrušení živnosti
   - živnost lze rovněž přerušit - na žádost podnikatele
@@ -3735,6 +3737,58 @@ V obchod-A_2017_18
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+1. OBCHODNÍ REJSTŘÍK
+─	= informační systém veřejné správy, vede jej rejstříkový soud v elektronické podobě
+─	= veřejný rejstřík, do kterého se zapisují zákonem stanovené údaje o PO/FO
+A) PO/FO, kterým ukládá zápis do OR zákon, a B) o podnikatelích FO, které o zápis dobrovolně požádají
+(jiné PO, než ty, kterým ukládá zápis zákon, do OR zapsat nelze)
+─	skládá se z rejstříkových vložek a sbírky listin
+─	každá osoba zapsaná do OR se považuje za podnikatele, a to i tehdy, byla-li založena za jiným účelem
+─	OR je upraven: OZ (§120-121), zák. o veřejných rejstřících, zák. o informačních systémech veřejné správy
+─	veřejný rejstřík = rejstřík osob (PO/FO), který je za VR prohlášen zákonem (OR, spolkový rejstřík, nadační rejstřík,…) X veřejný seznam = seznam věcí, do kt. může každý nahlížet (KN, patentový rejstřík) X rej. zástav
+─	rejstříkový spis = všechny dokumenty, tj. písemnosti v listinné nebo elektronické podobě, které soudu došly nebo které vydal ve vztahu ke konkrétní zapsané osobě
+─	sbírka listin = součástí OR a tvoří ji především dokumenty, jejichž uložení do této sbírky ukládá zákon
+─	§ 120 (3) OZzmění-li se zapsaná skutečnost, oznámí zapsaná osoba, nebo ten, komu to ukládá zákon, změnu bez zbytečného odkladu tomu, kdo veřejný rejstřík vede  návrh na změnu na předepsaném formuláři
+─	TČ: ohrožení nebo omezení jiného na právech tím, že zapsaná osoba nepodá bez zbytečného odkladu návrh na zápis zákonem stanoveného údaje do OR nebo neuloží listinu do sbírky listin, ač je k tomu podle zákona nebo smlouvy povinna, je trestným činem (dále i uvedení nepravdivých nebo hrubě zkreslených údajů)
+─	rejstříkový soud = krajský soud, v jehož obvodu je obecný soud osoby, jíž se zápis ve VR týká (u PO je to KS, v jehož obvodu má sídlo; u FO KS, v jehož obvodu má sídlo nebo bydliště)
+─	princip formální publicity – každý může dostat opis zápisu či listiny v OR (či potvrzení, že údaj v OR není)
+─	princip materiální publicity („princip dobré víry“)
+─	skutečnosti zapsané do OR jsou účinné vůči každému ode dne jejich zveřejnění
+─	ten, jehož se zápis týká, nemůže namítat, že zápis neodpovídá skutečnostem (proti dobrověrným) ani to, že je čerstvý zápis správný do uplynutí 15 dní od zápisu, když osoba v dobré víře prokáže, že o něm během těch 15 dnů nemohla vědět
+─	druhy zápisů do OR:
+a) konstitutivní – zakládají určitou právní skutečnost (např. vznik OK)
+b) deklaratorní – pouze deklarují určitou, již existující právní skutečnost (např. udělení prokury)
+─	návrh na zápis do OR lze podat zásadně pouze na formuláři a musí být doložen listinami o skutečnostech, které mají být do OR zapsány – lze podat v listinné nebo elektronické podobě
+─	OZ ukládá zapisovat do OR o PO alespoň den vzniku, den zrušení s uvedením právního důvodu, den zániku, název, adresu sídla a předmět činnosti, jméno a adresu bydliště nebo sídla každého členu statut. orgánu
+─	rezervace firmy – zakladatelé OK mohou požádat rejstříkový soud, aby zapsal do OR obchodní firmu řádně založené, ale dosud nevzniklé obchodní korporace, do 1 měsíce ale musí dát návrh na zápis OK do OR
+
+Řízení o zápisu:  
+	- na návrh
+	- bez návrhu (když má dojít ke shodě mezi stavem v OR s faktickým stavem)
+─	odmítnutí návrhu na zápis  neoprávněná osoba, nebyl podán na formuláři, neobsahuje všechny podstatné náležitosti, nesrozumitelný nebo neurčitý návrh, chybí listiny, zakázaný účel  soud: výzva k odstranění vad
+─	účastníci řízení: navrhovatel a zapisovaná osoba (NE osoby zapisované do OR v rámci zápisu PO), příp. i SZ
+•	A) zápis bez rozhodnutí
+─	když je podkladem rozhodnutí soudu nebo správního orgánu
+─	je-li podkladem notářský zápis a:
+─	navrhovatel = zapisovaný (jediný účastník) / prvozápis PO / přeměna OK, všechny zúčastněné OK mají v obvodu sídlo
+•	B) zápis rozhodnutím (usnesením)
+-	zápis se provede až po nabytí právní moci usnesení (ke dni v návrhu, nejdříve ale k právní moci)
+─	lhůta pro zápis/rozhodnutí RS: nejpozději do 5 pracovních dnů (ode dne podání návrhu)
+─	↪ fikce zápisu – neprovede-li RS ve lhůtě zápis ani nerozhodne, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí lhůty (povinnost promítnout zápis fikcí do 2 pracovních dnů)
+─	X opravný prostředek u této fikce: oprávněné osoby mohou do 1 měsíce podat návrh na změnu či výmaz
+(to mohou i osoby zapisované v rámci zápisu PO + ty se mohou domáhat změny vždy, jsou-li vymazány z OR, i bez fikce)
+─	zápis do OR mohou vedle soudu provádět také notáři (pouze ti, co se psali podkladový NZ):
+─	mají-li zapisované skutečnosti podkladový NZ nebo NZ o rozhodnutí orgánu PO
+─	v podkladovém NZ je vyjádření notáře o tom, že obsah PJ je v souladu s právními předpisy a se zakladatelským PJ PO
+─	notáři byly předloženy všechny listiny, které zákon požaduje pro zápis do OR
+
+2. ŽIVNOSTENSKÝ REJSTŘÍK
+─	= informační systém veř. správy, evidence zákonem stanovených údajů o osobách, kt. mají živnost.oprávnění
+─	evidované údaje: např. jméno zapsané osoby, předmět podnikání, druh živnosti, provozovna(y), apod.
+─	ŽR je v rozsahu stanoveném zákonem veřejný a ve zbývajícím rozsahu neveřejný
+─	správcem ŽR je Živnostenský úřad ČR a jeho provozovateli jsou krajské a obecní živnostenské úřady
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
