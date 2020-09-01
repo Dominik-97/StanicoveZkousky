@@ -3981,6 +3981,8 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Ochrana hospodářské soutěže
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -3988,6 +3990,12 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**OCHRANA HOSPODÁŘSKÉ SOUTĚŽE**
+- **Omezování** - jedná se o druhou součást ochrany hospodářské soutěže
+- Ochrana hospodářské soutěže má tedy 2 složky:
+  - Ochrana proti nekalé soutěži: viz dvě předchozí otázky - jedná se o ochranu v rámci probíhající hospodářské soutěže
+  - ochrana proti omezování hospodářské soutěže: viz tato otázka - jedná se o ochranu samotné hospodářské soutěže jako takové - tedy nastavení a ochrana takových podmínek, které umožňují podstivou hospodářskou soutěž
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
