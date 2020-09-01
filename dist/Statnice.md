@@ -4046,6 +4046,93 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+1.POJEM, SYSTÉM, PRÁVNÍ ÚPRAVA A ZÁSADY PRÁV K NEHMOTNÝM STATKŮM
+─	pojem
+-	nehmotné statky = výsledky duševní činnosti (myšlenky, ochranná označení či pověst), které jsou natolik významné, že jsme se rozhodli je objektivním právem upravit  subj. práva: právní ochrana
+-	je třeba odlišovat nehmotný statek (vynález) od subjektivního práva k němu (patent – soubor práv)
+-	duševní vlastnictví = soubor nehmotných statků
+-	↪ právo (k) duševnímu vlastnictví = jejich objektivní právní úprava nebo: subjektivní práva k nim
+-	X osobnostní (přirozená práva) = nehmotné statky, kt. nejsou předmětem duševního vlastnictví
+─	systém práva duševního vlastnictví
+-	a) autorské právo (autorská práva k autorským dílům)
+-	b) právo k průmyslovému vlastnictví
+i.	výsledky tvůrčí činnosti v oblasti hospodářské (vynálezy, užitné a průmysl. vzory,…)
+ii.	ochranná označení (ochranné známky, označení původu a zeměpisná označení)
+iii.	nehmotné statky nechráněné zvláštní úpravou (obchodní tajemství, know-how, goodwill)  tato skupina je chráněna pomocí mimosmluvního civilního deliktu nekalé soutěže
+(nekalá soutěž dle teorií: součást prům. vlastnictví X související nástroj jeho ochrany X součást i soutěžního práva)
+-	LZPS: čl. 34 práva k výsledkům tvůrčí činnosti, čl. 11 vlastnictví, čl. 15 svoboda umělecké, vědecké tvorby, čl. 26 svoboda podnikání
+-	VP ochrana: TZ: § 268 (porušení práv k ochr. známce a jiným ozn., § 269 (porušení chráněných prům. práv
+-	správní právo: přestupky, jiné správní delikty (padělky,…)
+-	↪ vznik práv prům. vlastnictví má povahu veřejnoprávního rozhodnutí ÚPV ve správním řízení X ochrana porušení těchto práv třetí osobou má povahu soukromoprávní (nerealizuje se VP postih)
+─	zásady práva duševního vlastnictví
+-	zásada teritoriální právní úpravy – ochrana v daném státě má právní účinky jen v jeho rámci
+-	absolutní a výlučné subjektivní právo – ochrana na daném území proti všem (nehmotný statek může v prům. vlastnictví vytvořit nezávisle i další osoba X autorské dílo (krom PC programu, databáze)
+> ochrana vzniká až udělením příslušným státním orgánem   zápisné = veřejnoprávní akt
+-	princip priority přihlášky (od podání, v někt. zemích výjimečně od počátku užívání, jde-li o notorietu)
+-	absolutní a objektivní celosvětová novost – je potřeba pro udělení ochrany
+-	omezení doby ochrany výsledků tvůrčí činnosti (x ochranná označení: ochrana na dobu neomezenou)
+-	výsledek tvůrčí činnosti může dle právního řádu ČR vytvořit jen FO – původce (autorský z.: autor)
+-	nehmotné statky se užíváním neopotřebují, zkušeností se obohacují (ale mohou i zastarat), nedělí se, mají vlastnost tzv. potencionální ubikvity – mohou existovat na více místech současně
+2. OBCHODNÍ TAJEMSTVÍ A KNOW-HOW
+─	OT právně vymezeno v § 504 OZ šesti pojmovými znaky (kumulativně): skutečnosti, které:
+•	souvisí se závodem (pro podnikání relevantní)
+•	konkurenčně významné
+•	ocenitelné
+•	určitelné (lze je identifikovat např. v dokumentaci)
+•	utajené (nejsou běžně dostupné v příslušných obchodních kruzích; postačuje reletivní utajení)
+•	utajení musí být vlastníkem v jeho zájmu zajištěno odpovídajícím způsobem (sejf, omezený přístup,..)
+─	nositel obchodního tajemství OZ = vlastník (nikoli „podnikatel“)
+─	utajované skutečnosti uplatňované ve všech aspektech podnikání + pro podnikání vlastníka podstatné
+─	ze zařazení mezi nehmotné věci plyne ochrana instituty vlastnického práva avšak komplikované použití všech ochranných prostředků (např. vznik stejného obchodního tajemství u dvou subjektů nezávisle na sobě  oba jsou vlastníci), navíc by tu byla silnější ochrana méně významného práva (než např. u patentu)  lze uvažovat o pouhém právu držby informací
+─	+ zvl. skutková podstata nekalé soutěže porušení obchodního tajemství ochrana relativní a užší (tj. inter partes + OT využito pouze v hosp. styku) než oproti absolutnímu právu; v něčem ale širší: může ho uplatnit i licenční nabyvatel, tj. nevlastník
+─	porušení OT = jednající jinému neoprávněně sdělí/zpřístupní či pro sebe či jiného využije
+─	know-how= nepatentované zkušenosti a jiné poznatky, které jsou v soukromém zájmu utajovány není jasně vymezeno, často jako synonymum k „obchodnímu tajemství“, ale širší ( musí splňovat 3 znaky: utajené, podstatné pro provozování závodu a určitelné); mohou být chráněny max. z generální klauzule nekalé soutěže, popř. držba informace
+─	OT & know-how ve smlouvách  může být smluvně poskytováno dalším osobám
+-	když je hlavním plněním = smlouva o know-how („nepravá licence“) ↪ buď jen relativní právo OT užívat (≈obdoba nevýhradní LS), nebo na něj OT převést (≈ obdoba výhradní LS)
+-	nebo součástí smlouvy o převodu práv (např. v rámci kupní smlouvy převádějící patent)
+-	nebo součástí smlouvy o dílo, o franšíze, distribuci, výzkumu a vývoji apod.
+-	„opční smlouva“ – nabyvatel se za odměnu s utajovaným OT/know-how (pod hrozbou sankce za vyzrazení) seznámí a má čas se rozhodnout, zda jej ne/přijme (cena za licenci se pak sníží o cenu opce)
+─	veřejnoprávní ochrana OT § 248 TZ jako úmyslný čin porušení předpisů o hosp. soutěži
+─	jiné typy utajovaných údajů: důvěrné informace při sjednávání smlouvy, povinnost důvěrnosti v urč. funkcích (auditoři, advokáti, atp.), ochrana osobních údajů, konkurenční doložka (max. na 5 let X v PP 1 rok + náhrada), utajované informace (z. o ochraně utaj. info, o bezpečnosti ČR, o Policii ČR, o BIS, o zpravodaj. službách…)
+3. PRÁVA PRŮMYSLOVÉHO VLASTNICTVÍ
+─	princip teritoriality právní ochrany vyžaduje sbližování národních úprav prům. vlastnictví  časté mezinárodní úmluvy v oblasti průmyslového vlastnictví
+─	↪ hlavní: Pařížská unijní úmluva na ochranu prům. vlastnictví; dále důležitost WIPO – Světová organizace duševního vlastnictví (např. Bernská úmluva o ochraně autorských děl+ založení M Úřadu DV);
+↪ TRIPS – Dohoda o obchodních aspektech práv duševního vlastnictví (přijata v rámci WTO)
+
+•	výsledky tvůrčí duševní činnosti
+1.	vynález
+─	vynález je chráněn patentem, který je v ČR udělován Úřadem průmyslového vlastnictví (ÚPV)
+─	znaky vynálezu způsobilého k patentové ochraně:
+─	nový – není veřejně dostupný a není součástí stavu techniky
+─	výsledek vynálezecké činnosti – musí se jednat o určitý vyšší nápad
+─	průmyslově využitelný (ne: diagnostika, ošetřování lids./zvíř. těla)
+─	patenty se neudělují na vynálezy, jež se příčí dobrým mravům nebo veřejnému pořádku
+─	podnikový vynález – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu ZV neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV)
+─	ochrana na základě přihlášky na ÚPV, od níž se odvíjí právo přednosti (priorita)
+─	↪ obsahem přihlášky musí být patentový nárok – v něm předmět, pro který se požaduje ochrana
+─	ÚPV – 2 typy průzkumu – předběžný (formální nedostatky, pak ÚPV zveřejní přihlášku 18 měsíců od vzniku priority > to umožní připomínky) a úplný (na žádost navrhovatele či jiné osoby, max. 36 měsíců od vzniku priority) > patentový rejstřík
+─	patent platí po dobu 20 let od podání přihlášky (placení udržovacího poplatku)
+─	omezení účinku patentu: vyčerpání práv (první uvedení na trh, nelze pak zakázat přeprodej), zákonné licence (patent lze využít i bez souhlasu a náhrady: v dopravních prostředích – lodě, letadla, experimentální účely, neobchodní účely, individuální příprava léku na předpis)
+─	dodatkové ochranné osvědčení: prodloužení patentu o dobu mezi podáním přihlášky a registrací u státního orgánu pro uvedení na trh (u léčiv, přípravky pro ochranu rostlin); max. na 5 let
+─	převod patentu: KS + intabulace > účinný až zápisem do patentového rejstříku
+─	pís. prohlášení o veřej. nabídce licence – vyznačí se v rejstříku (vynález může užít, kdo na ni přistoupí), udržovací poplatky se platí pak jen poloviční
+─	nucená licence – nikdy ÚPV neudělena, zájemce může žádat o uzavření LS, nevyužívá-li vlastník bezdůvodně vynález (ne dříve než 4 roky od přihlášky či 3 roky od udělení patentu)
+─	mezin. Úmluva o udělování evropských patentů Evropský patentový úřad (EPÚ) [≠ orgán EU]  jedna evropská přihláška  2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států
+─	nově má být: evropský patent s jednotným účinkem bude EPÚ vydávat jen pro zúčastněné státy EU na základě „patentového balíčku“ (nařízení o jednotné patentové ochraně + nařízení o překladech + MS o Jednotném patentovém soudu – neratifikována)
+2.	užitný vzor
+─	technicky méně významné řešení, které je nové, přesahuje rámec pouhé odborné dovednosti a je průmyslově využitelné („malý vynález“)
+─	právní ochrana je udělena na základě zápisu do rejstříku užitných vzorů u ÚPV na dobu 4 let s 3letým prodlužováním (max. 10 let)
+─	řízení rychlé, proveden po formálním přezkumu
+3.	průmyslový vzor
+─	vzhled výrobku nebo jeho části spočívající ve znacích linií, obrysů, barev, tvaru, struktury nebo materiálů výrobku samého nebo jeho zdobení představuje estetické aspekty designu
+─	způsobilý k ochraně, je-li nový a má-li individuální podobu zápisem do rejstříku prům. vzorů u ÚPV na dobu 5 let, kterou lze max. 4x obnovit  max. 25 let
+─	nevztahuje se na znaky, kt. jsou předurčeny jeho technickou funkcí (např. závit objímky u žárovky)
+─	nařízení ES o ochraně průmyslových vzorů Společenství – stačí zápis na Úřadu EU pro duševní vlastnictví (EUIPO) (Alicante) na základě 1 přihlášky > pro všechny země EU
+4.	topografie polovodičového výrobku (čipu) – zobrazení znázorňující trojrozměrné uspořádání vrstev – max. na dobu 10 let a to poprvé od chvíle, kdy byla veřejně obchodně využita
+5.	odrůda rostlin – novost, odlišnost, uniformita a stálost Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
+6.	zlepšovací návrh
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -4094,7 +4181,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Státní podnik
+- [x] Státní podnik
 - [x] Specifika majetkové účasti státu v jiných podnikatelských subjektech
 
 \|--------------\| <br>
