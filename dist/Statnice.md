@@ -4102,6 +4102,11 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+**SPECIFIKA MEJETKOVÉ ÚČASTI STÁTU V JINÝCH PODNIKATELSKÝCH SUBJEKTECH**
+- specifika jsou upraveny v zákoně o majetku České republiky
+- stát může zakládat i jiné právnické osoby, v rámci podnikatelské činnosti však jen s.p. a a.s. (jinak například fundace, příspěvkové organizace - druh ústavu etc.)
+- jedná se o společnosti, které jsou založené státem, respektive jeho organizační složkou (nemá právní osobnost, ale zastupuje stát v určité vymezené oblasti veřejné správy a nakládá s určitým státním majetkem, práva a povinnosti z jedánání tohoto útvaru však vznikají přímo státu) -> ministerstvem
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
