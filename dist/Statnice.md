@@ -3613,7 +3613,7 @@ finanční arbitr
 
 -	obsah jednotlivých živností: nařízení vlády 278/2008 Sb., o obsahových náplních jednotlivých živností
 
--	odpovědný zástupce – pokud podnikatel nemá dostatek odborné způsobilosti, může v dané živnosti podnikat prostřednictvím odpovědného zástupce -> FO, která splňuje podmínky provozování živnosti a nejsou u ní dány překážky pro provozování živnosti, podnikatel však rovněž musí splňovat minimálně obecné podmínky provozování živnosti
+-	odpovědný zástupce – pokud podnikatel nemá dostatek odborné způsobilosti, může v dané živnosti podnikat prostřednictvím odpovědného zástupce -> FO, která splňuje podmínky provozování živnosti a nejsou u ní dány překážky pro provozování živnosti, podnikatel však rovněž musí splňovat minimálně obecné podmínky provozování živnosti, OZ odpovídá za řádný provoz živnosti a za dodržování živnostenskoprávních předpisů
 
 -	**zánik živnostenského oprávnění** -> smrtí FO / zánikem PO, uplynutím doby, v případech stanovených zvláštním zákonem, rozhodnutím živnostenského úřadu o zrušení živnostenského oprávnění - sem spadá i žádost podnikatele o zrušení živnosti
   - živnost lze rovněž přerušit - na žádost podnikatele
@@ -3683,7 +3683,15 @@ finanční arbitr
 
 **Podnikání zahraničních osob**
 
-- Zahraniční osoba - fyzická osoba s bydlištěm mimo území Čr a právnická osoba se sídlem mimo Čr
+- Zásadními prameny této úpravy - ZOMPS, OZ, ŽZ, ZOK, Zákon o pobytu cizinců na území Čr
+
+- Zahraniční osoba - fyzická osoba s bydlištěm mimo území Čr a právnická osoba se sídlem mimo Čr (není tedy rozhodující státní příslušnost)
+- Česká osoba - FO, nebo PO se sídlem nebo bydlištěm na území Čr
+- **Bydlištěm se v tomto případě rozumí místo trvalého pobytu**
+
+- **Obecné pravidlo**
+  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek jako české osoby, pokud zákon nestanoví něco jiného
+  - Svéprávnost a právní subjektivita a ostatní zákoné definice PO a FO se řídí právním řádem, kde má FO **obvyklý pobyt** a PO **sídlo** - podle ZMPS tedy český právní řád uznává osobu platně vzniklou podle právního řádu cizí země, za platného subjekta práva
 
 - Buď jako fyzická osoba podnikatel podle živnostenského zákona
 - Nebo jako podnikatel ale ne podle živnostenského zákona
