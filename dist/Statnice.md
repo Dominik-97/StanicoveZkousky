@@ -3692,8 +3692,8 @@ finanční arbitr
 - **Bydlištěm se v tomto případě rozumí místo trvalého pobytu**
 
 - **Obecné pravidlo**
-  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek jako české osoby, pokud zákon nestanoví něco jiného (rovněž podle ZMPS mají zahraniční osoby stejná práva v rámci majetkových a osobních práv jako česká osoba)
-  - Svéprávnost a právní subjektivita a ostatní zákoné definice PO a FO se řídí právním řádem, kde má FO **obvyklý pobyt** a PO **sídlo** - podle ZMPS tedy český právní řád uznává osobu platně vzniklou podle právního řádu cizí země, za platného subjekta práva
+  - ŽZ stanoví v § 5, že zahraniční osoby mohou na území Čr podnikat za stejných podmínek a ve stejném rozsahu jako české osoby, pokud zákon nestanoví něco jiného (rovněž podle ZMPS mají zahraniční osoby stejná práva v rámci majetkových a osobních práv jako česká osoba)
+  - Svéprávnost a právní subjektivita a ostatní zákoné definice PO a FO se řídí právním řádem, kde má FO **obvyklý pobyt** a PO **sídlo** - podle ZMPS tedy český právní řád uznává osobu platně vzniklou podle právního řádu cizí země, za platného subjekta práva/řídí se podle právního řádu místa, kde vznikla (ve své podstatě, tak české právo může uznávat jakési kvazisubjekty, které by český právní řád jinak za osobu neoznačil, nebo neuznal)
     - Pro právní jednání však stačí, že je osoba způsobilá podle právního řádu země, ve které jedná
   - SFEU umožňuje volný pohyb osob a zboží, služeb a kapitálu
 
@@ -3705,9 +3705,11 @@ finanční arbitr
   - d- Nebo jako PO a založit si v Čr právnickou osobu s majetkovou účastní zahraniční osoby
 
 - **Podmínky podnikání zahraniční osoby v Čr**
+- Aby zahraniční osoba mohla v Čr podnikat, musí splnit běžné náležitosti stanovené v ŽZ, rovněž ale musí splňovat další subset pravidel, v tomto případě se jedná o podmínky z oblasti cizineckého práva - zejména ve smyslu pobytu u FO (zákon o pobytu cizinců na území Čr)
   - 1- k ohlášení živnosti/žádosti o koncesi nutno doložit povolení k pobytu
   -	2- splnit podmínky ŽZ: bezúhonnost (výpis z TR mladší 3 měsíců), svéprávnost, odborná způsobilost (směrnice o uznávání kvalifikací v rámci EU > zákon o uznávání odborné kvalifikace občanů EU)
   -	3- zápis do OR (nemusí se zapisovat: 1. občané EU/EHP + jejich rodinní příslušníci (tj. i non-EU manžel Čecha), 2. dlouhodobí rezidenti v EU + rodinní příslušníci s dlouhodobým pobytem)
+    - Jedná se tedy o obecné pravidlo, které nemusí být vždy zásadním předpokladem pro provozování živnosti, **osoby, které se však do OR zapisovat musí, mohou zahájit podnikání až dnem zápisu - konstitutivní zápis, a to v rozsahu, v jaké jsou zapsáni**
 
 -	nevyžaduje se znalost českého jazyka, avšak je tu povinnost zajistit, aby v provozovně určené pro prodej zboží nebo poskytování služeb spotřebitelům, byla přítomna osoba splňující podmínku znalosti Čj či Sj
 -	podnikání podle zákona o advokacii  status tzv. evropského advokáta (zapisování do seznamu vedený ČAK) není oprávněn sepisovat některé smluvní typy (např. o převodu nemovitosti)
