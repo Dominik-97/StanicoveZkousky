@@ -4126,7 +4126,11 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 - Může je založit se souhlasem vlády
 - Vláda rovněž stanoví, jaké ministerstvo bude vykonávat funkci zakladatele
 - správa se vykonává obdobně jako u a.s.
--
+- Všechny tyto PO fakticky mohou podnikat, jedná se tedy rovněž o podnikatelské subjekty -> zisk z podnikání ale mohou zpravidla použít jen pro své účely a nemohou podnikat jako hlavní činnost
+
+**Zakázaná účast v jiných PO a dalších sdruženích**
+  - stát se nemůže účastnit na družstvu, respektive nemůže být jeho členem (jsou stanoveny výjimky, ale běžně jím zkrátka být nemůže)
+  - stát rovněž nemůže uzavřít smlouvu o společnosti (společnost podle občanského práva) ani smlouvu o tiché společnosti
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
