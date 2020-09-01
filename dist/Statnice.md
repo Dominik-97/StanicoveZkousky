@@ -3841,13 +3841,15 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 \|------------------------------\| <br>
 
 **PŘEDMĚT A POVAHA PRÁVA NEKALÉ SOUTĚŽE**
- - smyslem práva nekalé soutěže je zabezpečit, aby hospodářská soutěž probíhala čistě, tedy jenom na základě hospodářských výkonů soutěže
+ - smyslem práva nekalé soutěže je zabezpečit, aby hospodářská soutěž probíhala čistě, tedy jenom na základě hospodářských výkonů soutěže a kvality statků
  - nekalá soutěž = chování, která soutěž falšují (ovlivňují jinak než kvalitou a kvantitou hosp. výkonů) a zkreslují výsledky hospodářské soutěže -> obdobný cíl jako právo na ochranu hosp. soutěže: ochrana jejího průběhu
- - jde o odpovědnostní právo -> popis skutkové podstaty nedovoleného jednání a následek (sankce)
+  - jedná se o právní okolí podniku (podstatná složka), pokud by nebylo legislativně zajištěno, jen těžko by se rozvíjela podstivá hospodářská soutěž, kvalita statků a probíhali inovace
+ - jde o odpovědnostní právo -> popis skutkové podstaty (dispozice) nedovoleného jednání a následek (sankce)
  - současně spjato i s právem průmysl. vlastnictví, protože může být chápáno jako ochrana klientely podniku
 
 
 **PLATNÁ PRÁVNÍ ÚPRAVA NEKALÉ SOUTĚŽE**
+ - Najdeme jí v několika právních předpisech
  - dnes v OZ -> IV. část – závazky, III. hlava – závazky z deliktů, díl 2 – zneužití a omezení soutěže > nekalá soutěž
   - Vytyčuje jak skutkové podstaty nekalé soutěže, tak i způsob jak se proti nekalé soutěži bránit
  - veřejnoprávní úprava (přestupky, TČ) - nekalá seoutěž však není upravena pouze v soukromoprávní oblasti, ale dokonce i ve veřejnoprávní oblasti
@@ -3877,8 +3879,9 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 - Občanský zákoník stanovuje následujících 10 (zejména se za narušení hospodářské soutěže považuje), pod skutkovou podstatu lze ale subsumovat další skutkové podstaty nekalé soutěže
  1. **klamavá reklama**
   - schopnost vyvolat v adresátovi reklamy nesprávnou představu, která neodpovídá realitě -> a tím ovlivnit jeho hospodářské chování
+  - lhaná nebo zamlčování v reklamě
  2. **klamavé označení zboží, nebo služeb**
-  - schopnost vyvolat mylnou domněnku, že označené zboží/služba pochází z určité oblasti či od určitého výrobce
+  - schopnost vyvolat mylnou domněnku, že označené zboží/služba pochází z určité oblasti či od určitého výrobce, má určitý účel nebo určitou vlastnost
  3. **srovnávací reklama**
   - „označuje přímo/nepřímo jiného soutěžitele či jeho zboží/službu“; podkategorie klamavé r.
   - je-li natolik objektivní, že nemůže působit klamavě, pak je přípustná
