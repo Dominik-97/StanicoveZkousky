@@ -3825,6 +3825,13 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 
 Částečně v obchod-A_2017_18
 
+- [ ] Obecná skutková podstata nekalé soutěže
+- [ ] Klamavá reklama
+- [ ] Klmavé označení zboží a služeb
+- [ ] Vyvolání nebezpečí záměny
+- [ ] Parazitování na pověsti
+- [ ] Podplácení
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -3832,6 +3839,100 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**PŘEDMĚT A POVAHA PRÁVA NEKALÉ SOUTĚŽE**
+ - smyslem práva nekalé soutěže je zabezpečit, aby hospodářská soutěž probíhala čistě, tedy jenom na základě hospodářských výkonů soutěže
+ - nekalá soutěž = chování, která soutěž falšují (ovlivňují jinak než kvalitou a kvantitou hosp. výkonů) a zkreslují výsledky hospodářské soutěže -> obdobný cíl jako právo na ochranu hosp. soutěže: ochrana jejího průběhu
+ - jde o odpovědnostní právo -> popis skutkové podstaty nedovoleného jednání a následek (sankce)
+ - současně spjato i s právem průmysl. vlastnictví, protože může být chápáno jako ochrana klientely podniku
+
+
+**PLATNÁ PRÁVNÍ ÚPRAVA NEKALÉ SOUTĚŽE**
+ - dnes v OZ -> IV. část – závazky, III. hlava – závazky z deliktů, díl 2 – zneužití a omezení soutěže > nekalá soutěž
+  - Vytyčuje jak skutkové podstaty nekalé soutěže, tak i způsob jak se proti nekalé soutěži bránit
+ - veřejnoprávní úprava (přestupky, TČ) - nekalá seoutěž však není upravena pouze v soukromoprávní oblasti, ale dokonce i ve veřejnoprávní oblasti
+  - pokud se někdo dopustí chování naplňující skutkovou podstatu nekalé soutěže, je z otoho možné dovodit dokonce trestní odpovědnost!
+  - Trestní zákoník (TČ § 248 „Porušení předpisů o pravidlech hosp. soutěže“; odst. 1 – nekalá soutěž)
+- Ochranu hospodářské soutěže dále upravují i další právné předpisy
+  - z. č. 634/1992 Sb., o ochraně spotřebitele (< sm. 2005/29/ES – „SNOP“)
+  - z.č . 40/1995 Sb., o regulaci reklamy
+  - směrnice 2005/29/ES o nekalých obchodních praktikách vůči spotřebitelům na vnitřním trhu (SNOP)
+  - směrnice 2006/114/ES o klamavé a srovnávací reklamě (pův.: 84/450/EHS: klamavá, 97/55/ES: +srovnávací r.)
+
+**NEKALÁ SOUTĚŽ V RÁMCI OBČANSKÉHO ZÁKONÍKU**
+  - V občanském zákoníku je vymezena takzvaná generální klauzule nekalé soutěže
+  - **Generální klauzule § 2976/1:**
+    - *„Kdo se dostane v hospodářském styku do rozporu s dobrými mravy soutěže jednáním způsobilým přivodit újmu jiným soutěžitelům nebo zákazníkům, dopustí se nekalé soutěže.“*
+    - Blíže k jednotlivým částem této definice:
+      - 1- soutěžně orientované jednání v hospodářském styku (výklad: nutná existence soutěže mezi stranami)
+      - 2- rozpor s dobrými mravy soutěže (DMS≠DM) – v judikatuře spíše negativní vymezení; půjde o soubor pravidel chování (neartikulovaných zákonodárcem), kt. vznikají spontánně v hospodář. praxi a kt. odpovídají převládajícím představám o slušnosti a poctivosti (tj. chovají se tak + jsou o platnosti přesvědčeni)
+      - 3- jednání způsobilé přivodit újmu jiným soutěžitelům/zákazníkům = obj. odpovědnost (ke vzniku práva na náhradu škody není třeba zavinění ani reálná újma); **zákazník = širší než spotřebitel (i podnikatel v nesoutěž. vztahu)**
+
+- **Občanský zákoník rovněž definuje určité přesné případy, které jsou považované za nekalou soutěž**
+  - Zvláštní skutkové podstaty § 2976/2:
+    - demonstrativní výčet jednání – zvl. skutkových podstat; jednání, které je popsáno ve zvláštních skutkových podstatách musí vždy naplňovat i znaky generální klauzule, aby se dalo považovat za nekalou soutěž
+    - jiné skutkové podstaty je třeba subsumovat pod gen. klauzuli (př. dumping, obecná kontraktační povinnost)
+
+**JEDNOTLIVÉ ZVLÁŠTNÍ SKUTKOVÉ PODSTATY NEKALÉ SOUTĚŽE**
+- Občanský zákoník stanovuje následujících 10 (zejména se za narušení hospodářské soutěže považuje), pod skutkovou podstatu lze ale subsumovat další skutkové podstaty nekalé soutěže
+ 1. **klamavá reklama**
+  - schopnost vyvolat v adresátovi reklamy nesprávnou představu, která neodpovídá realitě -> a tím ovlivnit jeho hospodářské chování
+ 2. **klamavé označení zboží, nebo služeb**
+  - schopnost vyvolat mylnou domněnku, že označené zboží/služba pochází z určité oblasti či od určitého výrobce
+ 3. **srovnávací reklama**
+  - „označuje přímo/nepřímo jiného soutěžitele či jeho zboží/službu“; podkategorie klamavé r.
+  - je-li natolik objektivní, že nemůže působit klamavě, pak je přípustná
+  - není klamavá, srovnává výrobky sloužící stejnému účelu, srovnává objektivně více podstatných, důležitých a ověřitelných vlastností produktu, nezlehčuje soutěžitele,…
+ 4. **vyvolání nebezpečí záměny**
+  1. užívání označení, které již užívá jiný soutěžitel;
+  2. užití označení závodu, produktů nebo jejich úpravy, které jsou pro jiného příznačné;
+  3. otrocké napodobení výrobků, služeb nebo obalů
+ 5. **parazitování na pověsti závodu, výrobku či služeb jiného soutěžitele**
+  - Doplnit
+ 6. **Podplácení (z-ců nebo členů orgánů soutěžitele)**
+  - Doplnit
+ 7. **zlehčování**
+  - Doplnit
+ 8. **Porušení obchodního tajemství**
+  - Doplnit
+ 9. **dotěrné obtěžování**
+  - Doplnit
+ 10. **ohrožení zdraví nebo životního prostředí**
+  - Doplnit
+
+Zvláštní skutkové podstaty nekalé soutěže
+Nekalá soutěž je pojem, který náleží do hospodářské soutěže. V současné právní úpravě je nekalá soutěž obsažena v občanském zákoníku a to v §2976 a následujících. Hlavní těžiště úpravy nekalé soutěže spočívá v generální klauzuli - §2976 odst. 1., která vymezuje nekalosoutěžní jednání.
+O nekalé soutěži hovoříme jako o deliktu objektivní povahy, kde není zákonem vyžadováno zavinění. Jestliže tedy jednání splňuje podmínky generální klauzule, pak toto jednání lze označit za nekalosoutěžní. Proti nekalé soutěži je možné se bránit podáním soukromoprávní žaloby k soudu, kde dojde k posouzení situace a popřípadě na základě žaloby přiznání konkrétního nároku, které slouží k ochraně pře nekalosoutěžním jednáním.
+Občanský zákoník demonstrativně uvádí skutkové podstaty nekalé soutěže v ustanovení § 2976, v §2977 – 2989 jsou pak skutkové podstaty dále specifikovány. Vedle těchto skutkových podstat však rozlišujeme ještě nepojmenované skutkové podstaty, které vznikly na základě judikatury soudů.[1] Aby mohly být uplatněny konkrétní skutkové podstaty nekalé soutěže, je třeba aby nejprve byly splněny pomínky generální klauzule
+Klamavá reklama
+§ 2977 OZ(1) Klamavá reklama je taková reklama, která souvisí s podnikáním nebo povoláním, sleduje podpořit odbyt movitých nebo nemovitých věcí nebo poskytování služeb, včetně práv a povinností, klame nebo je způsobilá klamat podáním nebo jakýmkoli jiným způsobem osoby, jimž je určena nebo k nimž dospěje, a tím i zřejmě způsobilá ovlivnit hospodářské chování takových osob.(2) Při posuzování, zda je reklama klamavá, se přihlédne ke všem jejím výrazným znakům. Zvláště se přihlédne k údajům, které reklama obsahuje ohledněa) dostupnosti, povahy, provedení, složení, výrobního postupu, data výroby nebo poskytnutí, způsobilosti k určenému účelu, použitelnosti, množství, zeměpisného či obchodního původu, jakož i podrobnějšího vytčení a dalších znaků zboží nebo služeb včetně předpokládaných výsledků použití nebo výsledků a podstatných znaků provedených zkoušek či prověrek,b) ceny nebo způsobu jejího určení,c) podmínek, za nichž se zboží dodává nebo služba poskytuje, ad) povahy, vlastností a práv zadavatele reklamy, jako jsou zejména jeho totožnost, majetek, odborná způsobilost, jeho práva duševního vlastnictví nebo jeho vyznamenání a pocty.
+Klamavou reklamou je způsobilá být reklama komerční šířená jakýmkoli komunikačním zdrojem, směřující k lidem (adresátům i ostatním lidem – například náhodnému čtenáři odborného časopisu – laik si přečte právnický časopis). Posuzování, zda je reklama nekalá, či zda je možné ji označit jako dovolenou je na posouzení soudce, který postupuje dle podmínek klamavé reklamy zakotvených v odstavci 2 pod písmeny a)-d).
+Pro klamavou reklamu je také podstatné ustanovení v § 2979 OZ, které stanovuje další požadavky na klamavost – tedy aby akt bylo možné označit jako klamavý. Příkladem klamavých reklam může být například: nabídka cestovní kanceláře na parkování zdarma u hotelu – kde parkování zdarma sice je, ale není zde dostatek parkovacích míst, nebo lákání na krásnou pláž u hotelu – kde pláž sice je, ale natolik kamenitá, že neumožňuje přístup do moře, atd. Dle 2. odstavce §2979 OZ se při posuzování klamavosti bere na vědomí i celková vnější úprava (velikost a typ písma), druh, typ (např. typ šunky), způsob (home-made) a také úmyslným výpustkám částí textu.[2]
+Klamavou reklamu není možné posuzovat podle morálních norem společnosti, jelikož kdyby měly být reklamy naprosto korektní, nevnucovaly se, mírně nezaváděly, pak by takové reklamy téměř nebylo možné vytvořit. Podstatou reklamy je totiž zaujmout co největší a nejširší množství adresátů. Není proto možné reklamu zaměňovat se seriózní obchodní nabídkou.
+Klamavé označování zboží nebo služby
+§ 2978 OZ(1) Klamavé označení zboží nebo služby je takové označení, které je způsobilé vyvolat v hospodářském styku mylnou domněnku, že jím označené zboží nebo služba pocházejí z určité oblasti či místa nebo od určitého výrobce, anebo že vykazují zvláštní charakteristický znak nebo zvláštní jakost. Nerozhodné je, zda označení bylo uvedeno bezprostředně na zboží, na obalu, obchodní písemnosti nebo jinde. Rovněž je nerozhodné, zda ke klamavému označení došlo přímo nebo nepřímo a jakým prostředkem se tak stalo.(2) Klamavost působí i údaj všeobecně vžitý v hospodářském styku k označení druhu nebo jakosti, je-li k němu připojen dodatek způsobilý klamat, zejména s použitím výrazu „pravý“, „skutečný“ nebo „původní“.(3) Ustanoveními předchozích odstavců nejsou dotčeny jiné právní předpisy o ochraně průmyslového nebo jiného duševního vlastnictví.
+Další skutková podstat, která se řadí mezi klamavé skutkové podstaty nekalé soutěže. Podobně jako klamavá reklama je i klamavé označení ohrožovacím deliktem, při kterém stačí vznik nebezpečí oklamání, není třeba aby k oklamání skutečně došlo. Při posuzování, zda se jedná či nejedná o klamavé označení je podstatné na problematiku nahlížet očima běžného spotřebitele a posoudit, jak určité označení chápe jeho adresát. Jestli tedy je možné, že dojde k záměně či nikoli. Podobně jako u klamavé reklamy i zde je při posuzování klamavosti třeba postupovat v souladu s § 2979 odstavce 1 a 2.
+Účelem klamavého označení je tedy naprosto logicky ovlivnit spotřebitele a jiné zákazníky pomocí užívání zavádějících pojmenování, značek či symbolů. Nutno podotknout, že výčet, který je uveden v odstavci 1 je taxativní (je úplný bez možnosti dodatku) nikoli demonstrativní. Podobně jako u klamavé reklamy i zde je možno užívat ne-pravdy, ale pouze ty, které nejsou způsobilé klamat.
+Srovnávací reklama
+§ 2980 OZ(1) Srovnávací reklama přímo nebo nepřímo označuje jiného soutěžitele nebo jeho zboží či službu.(2) Srovnávací reklama je přípustná, pokud se srovnání týče,a) není-li klamavá,b) srovnává-li jen zboží a službu uspokojující stejnou potřebu nebo určené ke stejnému účelu,c) srovnává-li objektivně jednu nebo více podstatných, důležitých, ověřitelných a příznačných vlastností zboží nebo služeb včetně ceny,d) srovnává-li zboží s označením původu pouze se zbožím stejného označení,e) nezlehčuje-li soutěžitele, jeho postavení, jeho činnost nebo její výsledky nebo jejich označení ani z nich nekalým způsobem netěží, af) nenabízí-li zboží nebo službu jako napodobení či reprodukci zboží nebo služby označovaných ochrannou známkou soutěžitele nebo jeho názvem.
+Jak je uvedeno v 1. odstavci týká se srovnávací reklama situací, kdy je jiný soutěžitel, jeho zboží či služba přímo značen, i na případy, kdy je označení pouze nepřímé, ale přesto zjevné. Hned na začátku je nutno podotknout, že ne všechny srovnávací reklamy jsou posuzovány jako nekalosoutěžní.
+Vždy, když není možné přesně posoudit, zda daný případ splňuje prvky generální klauzule nekalé soutěže a zároveň naplňuje skutkovou podstatu srovnávací reklamy je věc posuzována ve prospěch dovolenosti srovnávací reklamy (tak je postupováno v souladu s judikaturou soudního dvora EU) – v rámci posuzováni je tak preferováno liberálnější stanovisko nahlížení na srovnávací reklamu. Tedy v případě, že se v dané situaci dojde k závěru, že se jedná o srovnávací reklamu se rozhoduje, zda je tato reklama přípustná, či nikoli. Přípustnost srovnávací reklamy, respektive situace, kdy je srovnávací reklama přípustná jsou uvedeny v odst. 2.
+Vyvolání nebezpečí záměny
+§ 2981 OZ(1) Kdo užije jména osoby nebo zvláštního označení závodu užívaného již po právu jiným soutěžitelem, vyvolá tím nebezpečí záměny.(2) Nebezpečí záměny vyvolá i ten, kdo užije zvláštního označení závodu nebo zvláštního označení či úpravy výrobku, výkonu nebo obchodního materiálu závodu, které v zákaznických kruzích platí pro určitý závod za příznačné.(3) Stejně tak vyvolá nebezpečí záměny, kdo napodobí cizí výrobek, jeho obal nebo výkon, ledaže se jedná o napodobení v prvcích, které jsou již z povahy výrobku funkčně, technicky nebo esteticky předurčeny, a napodobitel učinil veškerá opatření, která lze na něm požadovat, aby nebezpečí záměny vyloučil nebo alespoň podstatně omezil, pokud jsou tato jednání způsobilá vyvolat nebezpečí záměny nebo klamnou představu o spojení se soutěžitelem, jeho závodem, pojmenováním, zvláštním označením nebo s výrobkem či výkonem jiného soutěžitele.
+Vyvolání nebezpečí záměny se řadí mezi klamavé soutěžní praktiky s parazitními prvky. V praxi tedy soutěžitel pomocí klamání parazituje na jiných subjektech, výrobcích či výkonech. Není podstatný přímý cíl soutěžitele, důležité je nebezpečí, že může dojít k záměně nebo možnost vyvolání klamavé představy. Podobně jako u jiných skutkových podstat, ani zde nemusí k záměně či klamání dojít, stačí pouze, že existuje ta možnost či nebezpečí. Při posuzování soudu se celá situace vždy posuzuje individuálně a očima průměrného spotřebitele.
+Zákonná úprava vyvolání nebezpečí záměny má 3 odstavce, přičemž každý z těchto odstavců lze chápat jako speciální dílčí skutkovou podstatu.
+Ochrana proti nebezpečí zaměnitelnosti má křížový efekt, to znamená, že obchodní firma může být chráněna z titulu nekalé soutěže i proti ochranné známce stejného či změnitelného znění.
+Parazitování na pověsti
+§ 2982 OZParazitováním je zneužití pověsti závodu, výrobku nebo služby jiného soutěžitele umožňující získat pro výsledky vlastního nebo cizího podnikání prospěch, jehož by soutěžitel jinak nedosáhl.
+V první řadě, aby tato skutková podstata mohla být vůbec uplatněna, je třeba aby zde existovala určitá pověst (resp. dobrá pověst soutěžitele) – závodu, výrobku, služby, na níž by bylo možné parazitovat. Při výkladu slova pověst není třeba jít na národní či mezinárodní úroveň, postačuje, když má pověst existuje v rámci úzké lokality. Není vyžadováno, aby soutěžitelé (ten který parazituje, a ten na němž je parazitováno) pocházeli ze stejného či zaměnitelného oboru. Taktéž pojmy závod, výrobek a službu je v rámci výkladu třeba chápat spíše extenzivněji (šířeji). Pro tuto skutkovou podstatu je podstatný úmysl – záměrné jednání účelového charakteru jednoho ze soutěžitelů.
+V případě, kdy dochází k výslovnému snižování poškozeného soutěžitele a bude zde výraznější agresivní prvek, pak se nebude jednat o parazitování na pověsti ale o skutkovou podstatu zlehčování, která je posuzována podle § 2984.[8] Při posuzování soudcem je také třeba, aby byly odlišeny situace, kdy se jedná o vztah symbiózy, tedy i využívaný subjekt má z daného vztahu prospěch.
+Podplácení
+§2983 OZPodplácením ve smyslu tohoto zákona je jednání, jímža) soutěžitel osobě, která je členem statutárního nebo jiného orgánu jiného soutěžitele nebo je v pracovním poměru k jinému soutěžiteli, přímo nebo nepřímo nabídne, slíbí či poskytne jakýkoliv prospěch za tím účelem, aby jejím nekalým postupem docílil na úkor jiných soutěžitelů pro sebe nebo jiného soutěžitele přednost nebo jinou neoprávněnou výhodu v soutěži, anebob) osoba uvedená v písmenu a) přímo či nepřímo žádá, dá si slíbit nebo přijme za stejným účelem jakýkoliv prospěch.
+Existuje mnoho způsobů, jak dosáhnout kýžené věci či stavu, k nim bezpochyby patří i korupční jednání. Právo rozlišuje jeho dvě podoby: v trestním právu je zakotvené úplatkářství ve věcech obecného zájmu a v rámci skutkových podstat nekalé soutěže je pak upraveno podplácení. V oblasti nekalé soutěže se jedná o druh parazitního jednání, kdy se soutěžitel snaží získat výhodu s vynaložením co nejmenšího (nejlépe žádného) úsilí.
+Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každému tomuto druhu podplácení je věnováno jedno písmeno v § 2983 OZ.
+•	Aktivní podplácení (podplácející) je zakotveno pod písmenem a), v tomto případě soutěžitel aktivně nabídne, slíbí či poskytne prospěch jiné osobě. Z formulace zákona vyplývá, že subjektem aktivního podplácení jakožto podplácející může být pouze soutěžitel. Soutěžitel jakožto účastník hospodářské soutěže může být jednotlivec, fyzická osoba nebo osoba právnická, ta však bývá v jednání zastupována prostřednictvím fyzických osob a jejich prostřednictvím se také dopouští podplácení] Osoba, která podplácí nemusí být ani nikterak významná, může se jednat o řadového pracovníka. Při formulaci jakýkoli prospěch je třeba mít na paměti, že se může jednat o prospěch peněžní, ale i nepeněžní (hmotný i nehmotný). Avšak ne všechny předměty předané jinému subjektu lze chápat jako podplácení, pojem se nevztahuje na obvyklé obchodní pozornosti – propagační předměty – jako jsou například propisky, diáře, bloky, …
+•	Pasivní podplácení (podplácený) je pak popsáno v písmenu b) téhož ustanovení – je jím chápána situace, kdy subjekt žádá nebo si dá slíbit či přijme prospěch od soutěžitele. Zde je okruh subjektů, kteří mohou být rušiteli v rámci pasivního podplácení mnohem užší a jedná se pouze o ty subjekty, které jsou pod písmenem b) vyjmenovány – člen statutárního či jiného orgánu jiného soutěžitele, osoba v pracovním poměru k jinému soutěžiteli.
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
