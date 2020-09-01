@@ -4095,7 +4095,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|---------\| <br>
 
 - [ ] Státní podnik
-- [ ] Specifika majetkové účasti státu v jiných podnikatelských subjektech
+- [x] Specifika majetkové účasti státu v jiných podnikatelských subjektech
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -4104,6 +4104,52 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**STÁTNÍ PODNIK**
+ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, určený majetek podniku
+1 Státní podniky
+Státní podnik je upraven zákonem č. 77/1997 Sb., o státním podniku.
+Většina státních podnikú byla v minulých letech změněna na akciové společnosti, takže jich zbývá jen velmi málo – např. Česká pošta, s. p., Státní tiskárna cenin, s. p., Lesy České republiky, s. p. ….
+Právní formu je možno označit zkratkou „s. p.“.
+ 1.1 Zakladatelé
+Zakladatelem státního podniku je stát, konkrétně jeho jménem příslušné ministerstvo po předchozím souhlasu vlády.
+ Podnik se zakládá zakládací listinou.
+Zakládací listina musí obsahovat: označení ministerstva, které vykonává funkci zakladatele, obchodní jméno a sídlo zakládaného podniku, hlavní předmět podnikání, výši kmenového jmění, určení ředitele a jeho oěřený podpis, počet členů dozorčí rady a další údaje, které stanoví zákon.
+ 1.2 Vznik podniku
+Státní podnik vzniká dnem zápisu do obchodního rejstříku.
+ Vzniku podniku předchází jeho založení, které zajišťuje příslušné ministerstvo.
+1.3 Zdroj kapitálu
+Státní podnik nemá v začátku vlastní majetek, ale má právo hospodařit s majetkem státu, který je určen v zakládací listině.
+ Hospodařením se svěřeným majetkem státu si státní podnik vyváří svůj obchodní majetek.
+1.4 Statutární orgán
+Statutárním orgánem státního podniku je ředitel.
+Ředitel řídí činnost podniku a rozhoduje o všech jeho záležitostech, kromě těch které jsou zákonem vyhrazeny do působnosti zakladatele.
+Ředitel je jmenován a odvoláván ministrem (pokud si toto právo nevyhradí vláda).
+Ředitel jmenuje a odvolává své zástupce, ti se zapisují do obchodního rejstříku.
+Ředitel vydává vnitřní organizační řád podniku.
+ 1.5 Kontrolní orgán
+Kontrolním orgánem státního podniku je dozorčí rada.
+ Dozorčí rada schvaluje zásadní otázky rozvoje podniku, projednává výroční zprávu, dohlíží na činnost ředitele a vykonává řadu dalších činností podle zákona.
+ Členové dozorčí rady jsou jmenování z řad nezávislých odborníků, ekonomů, vědecko-technických pracovníků, pracovníků bank a zástupců pracovníků podniku.
+Dozorčí rada musí mít alespoň 3 členy. 1/3 členů tvoří zaměstnanci podniku, kteří jsou voleni a odvoláváni zaměstnanci podniku a 2/3 členů jmenuje a odvolává zakladatel.  
+Členem dozorčí rady nemůže být ředitel podniku ani jeho zástupci.
+1.6 Ručení
+ Za své závazky ručí podnik svým obchodním majetkem s výjimkou majetku určeného v zakládací listině.
+Státní podnik neručí za závazky státu a stát neručí za závazky podniku (pokud tak nestanoví zákon).
+1.7 Dělení zisku
+Z čistého zisku vytváří státní podnik povinně dva fondy:
+•	rezervní fond,
+•	fond kulturních a sociálních potřeb.
+
+ Rezervní fond je určen ke krytí ztrát a rizik a k financování výkyvů v hospodaření podniku.
+ Fond kulturních a sociálních potřeb je určen na financování potřeb zaměstnanců (příspěvky na stravování, rekreaci ...), hospodaření s ním se řídí Vyhláškou Ministerstva financí č. 114/2002 Sb., o fondu kulturních a sociálních potřeb.
+ Státní podnik může vytvářet i další - nepovinné fondy.
+1.8 Zdanění příjmů
+Státní podnik odvádí daň z příjmu právnických osob.
+1.9 Zánik podniku
+Státní podnik zaniká dnem výmazu z obchodního rejstříku.
+ Zániku státního podniku předchází jeho zrušení (s likvidací nebo bez likvidace), o kterém rozhoduje zakladatel pouze po předchozím souhlasu vlády
+
 
 **SPECIFIKA MEJETKOVÉ ÚČASTI STÁTU V JINÝCH PODNIKATELSKÝCH SUBJEKTECH**
 - specifika jsou upraveny v zákoně o majetku České republiky
