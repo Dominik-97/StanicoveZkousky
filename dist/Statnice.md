@@ -3955,6 +3955,13 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Zlehčování
+- [ ] Nepřípustná srovnávací reklama
+- [ ] Porušení obchodního tajemství
+- [ ] Dotěrné obtěžování
+- [ ] Ohrožení zdraví a živtního prostředí
+- [ ] Ochrana proti nekalé soutěži
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4015,6 +4022,14 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Práva k nehmotným statkům při podnikání
+  - [ ] Vynýlez
+  - [ ] Užitný vzor
+  - [ ] Průmyslový vzor
+  - [ ] Topografie polovodičového výrobku
+  - [ ] Odrůda rostlin
+  - [ ] Zlepšovací návrh
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4040,6 +4055,10 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Ochranná známka
+- [ ] Označení původu
+- [ ] Zeměpisné označení
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -4067,6 +4086,9 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Státní podnik
+- [ ] Specifika majetkové účasti státu v jiných podnikatelských subjektech
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4092,6 +4114,8 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [ ] Specifika právního postavení podnikatele v závazkových právních vztazích
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
