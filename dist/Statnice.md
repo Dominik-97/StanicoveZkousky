@@ -2423,6 +2423,10 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
         - plní-li dlužník dluh zčásti -> uznán je celý dluh
       - Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 
+Vedlejší
+Zadržovací právo věci - kdo má splatný dluh u někoho, ten mu může zadržet jeho věc, pokud je dlužník v prodlení se splácením
+Vedlejší
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
