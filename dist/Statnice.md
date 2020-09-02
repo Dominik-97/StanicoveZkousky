@@ -4192,9 +4192,9 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Ochranná známka
-- [ ] Označení původu
-- [ ] Zeměpisné označení
+- [x] Ochranná známka
+- [x] Označení původu
+- [x] Zeměpisné označení
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -4203,6 +4203,43 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+**ochranná označení**
+  - jedná se o součást ochrany průmyslového vlastnictví
+    - **1- ochranná známka**
+      -	jakékoli označení schopné grafického znázornění, pokud je způsobilé odlišit výrobky nebo služby jedné osoby od výrobků nebo služeb jiné osoby
+      -	podle vzhledu je lze členit na slovní, slovní grafické, obrazové, kombinované, prostorové
+      -	na území ČR máme 4 formy právní ochrany OZ:
+        -	zápisem v rejstříku OZ u ÚPV po dobu 10 let s možností na 10 let prodloužit (opak.), na nekonečnou dobu
+        -	zápisem v rejstříku ochranných známek EU přihláškou u EUIPO - EU Úřad pro duš. vlas. (doba stejná)
+        -	mezinárodním zápisem v rejstříku u M Úřadu DV (doba stejná) – přihl. u nár. úřadu
+        -	užíváním -> všeobecně známá známka (podle PUÚ, TRIPS) - podle WTO
+      -	OZ je jako nehmotná věc předmětem vlastnictví; je-li zapsaná -> ® je možné používat tento symbol
+        - používá se pro grafické znázornění stejného typu -> například brand, nelze používat na něco jiného
+          - nikdo pak nesmí využívat ochranné označení pro svoje obchodní účely
+        - platí pro stejné nebo podobné výrobky nebo služby X **OZ s dobrým jménem** (jedná se o dobré jméno ochranné známky) -> nelze použít ani pro jiný druh zboží nebo služeb
+        - **všeobecně známá OZ** -> OZ, která má všeobecně známou rozlišovací schopnost i když není zapsána
+      -	OZ musí mít rozlišovací způsobilost (nemůže se jednat o slovo jako jablko pro podnikání s jablky) -> ÚPV však již nezkoumá unikátnost, je na jiných vlastnících OZ, aby podávali připomínky k nově navrhovaným OZ
+      -	do 3 měsíců po zveřejnění ve Věstníku může kdokoliv podat připomínky
+      -	**kolektivní OZ** -> je způsobilá rozlišovat výrobky či služby celé skupiny podnikatelů (potenciálně třeba ve spolku?)
+      - **certifikační OZ** -> možnost u EUIPO zřídiz OZ na formu certifikování výrobků
+      - chráněna i správním právem - kdo neoprávněně používá -> dopouští se přestupku
+    - **2- označení původu a zeměpisné označení** - podmínkou jest, že díky výrobě v dané oblasti musí být zboží spojováno s nějakou extrémní kvalitou etc.
+      -	označení původu – název oblasti, nebo místa země, odkud zboží pochází, jehož vlastnosti jsou výlučně nebo převážně dány zvláštními přírodními i lidskými faktory zeměpisného prostředí a výroba probíhá ve vymezeném prostředí
+      -	zeměpisné označení – název území používaný k označení zboží pocházejícího z tohoto území, jestliže má určitou kvalitu, pověst či jiné vlastnosti (X údaj o provenienci)
+      - **rozdíl** spočívá především v nárocích - pro OP musí v podstatě veškerá výroba probíhat v dané oblasti **X** pro ZO stačí, aby například jen jedna fáze výroby probíhala v daném území
+      -	proti falešnému a klamavému užití se lze bránit jen ochranou proti nekalé soutěži
+      -	ochrana -> zápis do rejstříku u ÚPV na dobu časově neomezenou
+      -	žádost podává sdružení výrobců či zpracovatelů; zapsané označení původu i zeměp. označení může využívat každý, kdo na území vyrábí… i když není v seznamu sdružení, ale musí dodržovat nějakou stanovenou recepturu a standardně i vyrábět v dané oblasti
+        - týká se určitého vymezeného typu zboží v přihlášce, nelze tak používat na jakýkoliv výrobek v dané oblasti vyrobený
+    - **3-	obchodní firma a jméno nezapsaného podnikatele (ochrana jako při nekalé soutěži)**
+
+**VYMÁHÁNÍ PRÁV PRŮM. VLASTNICTVÍ**
+  -	z. č. 221/2006 Sb., o vymáhání práv z průmyslového vlastnictví: osobou oprávněnou vymáhat je vlastník/ /majitel práva + nabyvatel licence (se souhlasem vlastníka, po 1 měsíci od oznámení i bez souhlasu)
+  -	v ČR v 1. stupni rozhoduje výlučně Městský soud v Praze (specializ. 3členné senáty; „patentový soud“)
+    - oprávněný se může domáhat práva na náhradu škodu, vydání bezdůvodného obohacení nebo přiměřené zadostiučinění za nemajetkovou újmu (-> v utrpěné výši, či soud paušálně: 2x obvyklého licen. poplatku)
+    -	může jej zastupovat patentový zástupce (seznam pat. zástupců, Komora pat. zástupců, zákon o pat. zástupcích), nebo samozřejmě jiný zástupce
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
