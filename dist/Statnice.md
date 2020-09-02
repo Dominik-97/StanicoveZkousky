@@ -4819,32 +4819,35 @@ VEDLEJŠÍ
 
 **RODINNÝ ZÁVOD**
   - V rodinném závodu společně pracují manželé nebo alespoň s jedním z manželů i jejich příbuzní až do třetího stupně nebo osoby s manžely sešvagřené až do druhého stupně, přičemž závod je ve vlastnictví některé z těchto osob
-  - O použití zisku z rodinného závodu a o dalších důležitých rozhodnutích rozhodují členové rodiny hlasováním
+  - O použití zisku z rodinného závodu a o dalších důležitých rozhodnutích rozhodují členové rodiny hlasováním, ti mají také právo podílet se na zisku podle své odvedené práce
+  - Účastenství na provozu rodiného závodu lze přenést pouze na jiného člena rodiny
   - Rodinný závod, resp. vlastnický podíl na něm, může být zcizen, ostatní členové rodiny ale mají předkupní právo
   - Potřeba právní regulace takového závodu vychází ze skutečnosti, že vztah mezi členy rodiny při podnikání není většinou nijak zvlášť upraven
-  - Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu
+  - Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu, rovněž ho vylučuje například smlouva o tiché společnosti, pracovní poměr atd.
 
-Dispozice s obchodním závodem
--Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp.
--Pro koupi závodu stanoví ObčZ určitá speciální pravidla, podpůrně se však užijí obecná ustanovení o kupní smlouvě
--Koupí závodu kupující nabývá všechno, co k závodu jako celku v okamžiku přechodu vlastnictví závodu patří, vyjma licencí, u kterých to vylučuje jejich povaha
--Smluvní strany mohou z koupě jednotlivou věc i vyloučit, integrita obchodního závodu tím však nemůže být narušena
--Koupí závodu na kupujícího přecházejí všechna práva a povinnosti ze zaměstnaneckých vztahů
--Na kupujícího přecházejí ze zákona pohledávky a dluhy příslušející k závodu, vyjma těch, jejichž existenci nemohl kupující rozumně předpokládat (tj. objektivně nepředvídatelné dluhy ze zákona na nabyvatele nepřecházejí)
--Neudělí-li přitom věřitel souhlas k převzetí dluhu kupujícím, ručí za splnění dluhu prodávající
--Kupující, který je zapsán do veřejného rejstříku, nabývá vlastnictví závodu zveřejněním dokladu o koupi
--Kupující, který není zapsán do veřejného rejstříku, nabývá vlastnictví závodu účinností smlouvy
--Po uzavření smlouvy prodávající závod kupujícímu předá a provede o tom zápis
--V zápisu strany uvedou výčet všeho, co předaný závod zahrnuje a co se kupujícímu předává , i všeho, co chybí, ačkoliv to předáno mělo být
--Prodávající je povinen upozornit kupujícího na vady prodaného závodu, o kterých věděl, nebo vědět měl
--Pokud dojde k vadnému plnění, náleží kupujícímu práva z vadného plnění pro kupní smlouvu
--Koupí závodu ze zákona přecházejí dluhy, které jsou jeho součástí (souhlas věřitele se k samotnému přechodu dluhu nepožaduje, bez něho však prodávající zůstává ručitelem)
--Pokud se ale zhorší dobytnost určité pohledávky, má její věřitel, který s prodejem závodu nesouhlasil, právo domáhat se, aby soud rozhodl, že prodej závodu je vůči němu neúčinný
-•	-Ustanovení zákona o koupi závodu se použijí i pro ostatní převody vlastnického práva k němu
-•	-Jakékoliv dispozice, které lze provádět se závodem jako celkem lze provádět i s jeho částí - pobočkou
-Předchozí obchodní zákoník používal pojmu podnik
--Termínem podnik však evropské právo zároveň označuje subjekt odlišný od člověka, který sám právně jedná (především v kontextu evropské práva na ochranu hospodářské soutěže)
--Nový občanský zákoník se tak vrátil k tradičnímu označení „obchodní závod“, používaném prvorepublikovými právními předpisy
+**DISPOZICE S OBCHODNÍM ZÁVODEM**
+  - Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp.
+  - Pro koupi závodu stanoví ObčZ určitá speciální pravidla, podpůrně se však užijí obecná ustanovení o kupní smlouvě
+  - Koupí závodu kupující nabývá všechno, co k závodu jako celku v okamžiku přechodu vlastnictví závodu patří, vyjma licencí, u kterých to vylučuje jejich povaha
+    - Smluvní strany mohou z koupě jednotlivou věc i vyloučit, integrita obchodního závodu tím však nemůže být narušena
+  - Koupí závodu na kupujícího přecházejí všechna práva a povinnosti ze zaměstnaneckých vztahů
+  - Na kupujícího přecházejí ze zákona pohledávky a dluhy příslušející k závodu, vyjma těch, jejichž existenci nemohl kupující rozumně předpokládat (tj. objektivně nepředvídatelné dluhy ze zákona na nabyvatele nepřecházejí)
+    - Neudělí-li přitom věřitel souhlas k převzetí dluhu kupujícím, ručí za splnění dluhu prodávající
+    - Pokud však souhlas udělí, prodávající již za splnění dluhů neručí
+  - Kupující, který je zapsán do veřejného rejstříku, nabývá vlastnictví závodu zveřejněním dokladu o koupi
+  - Kupující, který není zapsán do veřejného rejstříku, nabývá vlastnictví závodu účinností smlouvy
+  - Po uzavření smlouvy prodávající závod kupujícímu předá a provede o tom zápis
+  - V zápisu strany uvedou výčet všeho, co předaný závod zahrnuje a co se kupujícímu předává , i všeho, co chybí, ačkoliv to předáno mělo být
+  - Prodávající je povinen upozornit kupujícího na vady prodaného závodu, o kterých věděl, nebo vědět měl
+    - Pokud dojde k vadnému plnění, náleží kupujícímu práva z vadného plnění pro kupní smlouvu
+  - Koupí závodu ze zákona přecházejí dluhy, které jsou jeho součástí (souhlas věřitele se k samotnému přechodu dluhu nepožaduje, bez něho však prodávající zůstává ručitelem)
+    - Pokud se ale zhorší dobytnost určité pohledávky, má její věřitel, který s prodejem závodu nesouhlasil, právo domáhat se, aby soud rozhodl, že prodej závodu je vůči němu neúčinný
+
+- Ustanovení zákona o koupi závodu se použijí i pro ostatní převody vlastnického práva k němu
+- Jakékoliv dispozice, které lze provádět se závodem jako celkem lze provádět i s jeho částí - pobočkou
+- Předchozí obchodní zákoník používal pojmu podnik
+- Termínem podnik však evropské právo zároveň označuje subjekt odlišný od člověka, který sám právně jedná (především v kontextu evropské práva na ochranu hospodářské soutěže)
+- Nový občanský zákoník se tak vrátil k tradičnímu označení „obchodní závod“, používaném prvorepublikovými právními předpisy
 
 1. ZÁVOD JAKO PŘEDMĚT DISPOZICE
 •	─      závod je obchodovatelnou věcí a tudíž s ním lze i disponovat
