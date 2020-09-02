@@ -4046,25 +4046,34 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-1.POJEM, SYSTÉM, PRÁVNÍ ÚPRAVA A ZÁSADY PRÁV K NEHMOTNÝM STATKŮM
-─	pojem
--	nehmotné statky = výsledky duševní činnosti (myšlenky, ochranná označení či pověst), které jsou natolik významné, že jsme se rozhodli je objektivním právem upravit  subj. práva: právní ochrana
--	je třeba odlišovat nehmotný statek (vynález) od subjektivního práva k němu (patent – soubor práv)
--	duševní vlastnictví = soubor nehmotných statků
--	↪ právo (k) duševnímu vlastnictví = jejich objektivní právní úprava nebo: subjektivní práva k nim
--	X osobnostní (přirozená práva) = nehmotné statky, kt. nejsou předmětem duševního vlastnictví
-─	systém práva duševního vlastnictví
--	a) autorské právo (autorská práva k autorským dílům)
--	b) právo k průmyslovému vlastnictví
-i.	výsledky tvůrčí činnosti v oblasti hospodářské (vynálezy, užitné a průmysl. vzory,…)
-ii.	ochranná označení (ochranné známky, označení původu a zeměpisná označení)
-iii.	nehmotné statky nechráněné zvláštní úpravou (obchodní tajemství, know-how, goodwill)  tato skupina je chráněna pomocí mimosmluvního civilního deliktu nekalé soutěže
-(nekalá soutěž dle teorií: součást prům. vlastnictví X související nástroj jeho ochrany X součást i soutěžního práva)
--	LZPS: čl. 34 práva k výsledkům tvůrčí činnosti, čl. 11 vlastnictví, čl. 15 svoboda umělecké, vědecké tvorby, čl. 26 svoboda podnikání
--	VP ochrana: TZ: § 268 (porušení práv k ochr. známce a jiným ozn., § 269 (porušení chráněných prům. práv
--	správní právo: přestupky, jiné správní delikty (padělky,…)
--	↪ vznik práv prům. vlastnictví má povahu veřejnoprávního rozhodnutí ÚPV ve správním řízení X ochrana porušení těchto práv třetí osobou má povahu soukromoprávní (nerealizuje se VP postih)
-─	zásady práva duševního vlastnictví
+**POJEM, SYSTÉM, PRÁVNÍ ÚPRAVA A ZÁSADY PRÁV K NEHMOTNÝM STATKŮM**
+-	**pojem**
+  -	nehmotné statky = výsledky duševní činnosti (myšlenky, ochranná označení či pověst), které jsou natolik významné, že jsme se rozhodli je objektivním právem upravit -> subj. práva: právní ochrana
+  -	je třeba odlišovat nehmotný statek (vynález) od subjektivního práva k němu (**patent – soubor práv**)
+  -	**duševní vlastnictví** = soubor nehmotných statků
+    - právo (k) duševnímu vlastnictví = jejich objektivní právní úprava nebo: subjektivní práva k nim
+    -	X osobnostní (přirozená práva) = nehmotné statky, kt. nejsou předmětem duševního vlastnictví
+
+-	**systém práva duševního vlastnictví**
+  -	a- autorské právo (autorská práva k autorským dílům)
+  -	b- právo k průmyslovému vlastnictví
+    - 1- výsledky tvůrčí činnosti v oblasti hospodářské (vynálezy, užitné a průmysl. vzory,…)
+    - 2- ochranná označení (ochranné známky, označení původu a zeměpisná označení)
+    - 3- nehmotné statky nechráněné zvláštní úpravou (obchodní tajemství, know-how, goodwill) -> tato skupina je chráněna pomocí mimosmluvního civilního deliktu nekalé soutěže
+      - (nekalá soutěž dle teorií: součást prům. vlastnictví X související nástroj jeho ochrany X součást i soutěžního práva)
+
+- **Základy ochrany ochrany subjektivních práv vycházejících z nehmotných statků jsou chráněny listinou základních práv a svobod**
+  -	LZPS: čl. 34 práva k výsledkům tvůrčí činnosti = chráněno zákonem, čl. 11 vlastnictví, právo na něj, a ochrana, čl. 15 svoboda umělecké, vědecké tvorby = zaručena, čl. 26 svoboda podnikání = právo svobodně vykonávat a svobodně vybrat
+- **Nehmotné statky jsou chráněny i v rámci TP**
+  -	VP ochrana: TZ: § 268 (porušení práv k ochr. známce a jiným ozn., § 269 (porušení chráněných prům. práv) = například uvedení výrobku chráněného právem z průmyslového vlastnictví na trh bez povolení
+- **VP ochrana dále ve smyslu SP**
+  -	správní právo: přestupky, jiné správní delikty (padělky,…)
+    - vznik práv prům. vlastnictví má povahu veřejnoprávního rozhodnutí ÚPV ve správním řízení X ochrana porušení těchto práv třetí osobou má povahu soukromoprávní (nerealizuje se VP postih)
+
+- ochrana je tedy jak občanskoprávní - formou klasické žaloby (primárně si myslím, že je vždy vhodné poslat předžalobní výzvu - aby pak byl nárok na proplacení nákladů řízení)
+- tak i veřejnoprávní - určitá práva má například Česká obchodní inspekce a Celní správa, v těch nejzávažnějších případech může dojít i k naplnění skutkové podstaty trestného činu, viz výše
+
+-	**zásady práva duševního vlastnictví**
 -	zásada teritoriální právní úpravy – ochrana v daném státě má právní účinky jen v jeho rámci
 -	absolutní a výlučné subjektivní právo – ochrana na daném území proti všem (nehmotný statek může v prům. vlastnictví vytvořit nezávisle i další osoba X autorské dílo (krom PC programu, databáze)
 > ochrana vzniká až udělením příslušným státním orgánem   zápisné = veřejnoprávní akt
