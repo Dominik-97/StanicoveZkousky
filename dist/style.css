@@ -332,19 +332,22 @@ page-break-after: avoid;
 html {
     margin: 0;
     height: 100%;
+    min-width: 390px;
 }
 
 body {
   margin: 0;
   height: 100%;
   background-color: grey;
+  min-width: 389px;
 }
 
 .collapsible {
+  min-width: 388px;
   background-color: #777;
   color: white;
   cursor: pointer;
-  /*padding: 18px;*/
+  padding: 18px;
   width: 100%;
   border: none;
   text-align: left;
@@ -356,7 +359,8 @@ body {
   background-color: #555;
 }
 .content {
-  /*padding: 0 18px;*/
+  min-width: 387px;
+  padding: 0 18px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
