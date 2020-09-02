@@ -328,6 +328,10 @@ h2, h3 {
 page-break-after: avoid;
 }
 }*/
+body {
+  background-color: grey;
+}
+
 .collapsible {
   background-color: #777;
   color: white;
