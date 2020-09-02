@@ -4946,6 +4946,9 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Cenné papíry
+- [ ] Zaknihovanné cenné papíry
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4953,6 +4956,121 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- 1- PRAMENY PRÁVNÍ ÚPRAVY
+•       OZ – obecná úprava CP – rozptýlená úprava věcí (§ 514-544), věcných práv (§ 1103-4), závazků (úschova § 2409-2412, imobilizace § 2413-4), další obecná ustanovení, co dopadají na věci (jako předměty sml. vztahů)
+•       ZPKT (z. o podnikání na kapitálovém trhu)
+─      právní základ infrastruktury trhu pro obchod s CP, úprava někt. způsobů nakládání s CP (např. veřejná nabídka), pravidla pro vedení evidence investičních nástrojů
+─      je značně harmonizován s právem EU (novela ZPKT v r. 2017 v souvislosti s MIFID II – The Markets in Financial Instruments Directive – Směrnice o trzích finančních nástrojů)
+•       zvl. úprava pojmenovaných CP:
+─      OZ (kupón, skladištní list, náložný list)
+─      ZOK (kmenový list, akcie, zatímní list, vyměnitelné a prioritní dluhopisy, opční list)
+─      z. o investičních společnostech a fondech (podílový a investiční list, zakladatelská a investiční akcie)
+─      z. směnečný a šekový (směnky a šeky)
+─      z. o dluhopisech
+
+- 2- POJEM CENNÉHO PAPÍRU
+─      definice CP – listina, se kterou je spojeno právo takovým způsobem, že je po vydání CP nelze bez této listiny uplatnit ani převést (§ 514 OZ) [sepětí subjektivního práva a listiny coby hmotného nosiče]
+─      zákon sice zmiňuje listinu (tj. papír), ale stejnou funkci může plnit libovolný jiný hmotný substrát schopný zachytit písemný projev vůle ( § 3026 OZ)
+─      1. způsobilým předmětem inkorporace do CP je vždy subjektivní právo, a to z oblasti SP majetkového
+─      „cennost“ papíru se opírá o konstrukci právní fikce  dané subjektivní právo je inkorporací zhmotněno v CP, stává se z něj tak také věc hmotná, bez listiny nemá právní význam („stojí s ní a padá“)
+─       X jiné listiny – samotné právo nenesou ani s nimi nepřechází, nanejvýš o něm podávají důkaz (smlouva, písemné uznání dluhu, legitimační listiny – šatní žeton)
+─      2. inkorporace dluhu (povinnosti) vůči výstavci do CP
+─      např. zatímní či kmenový list (= inkorporace povinností společníka podle společenské smlouvy)
+─      povinnosti jsou součástí souboru, jemuž dominují práva (účast ve společnosti) [ze zákona]
+─      dluh může být spojen i s nepojmenovaným CP
+─      výjimky při uplatnění práva z CP:
+─      ztracený, zničený či řádně nepředložený CP > umoření CP (soud prohlásí listinu za umořenou podle ZŘS a nahradí ji svým rozhodnutím > deinkorporuje subj. právo od starého CP a spojí ho s novým CP)
+─      bez předložení CP – legitimační funkci CP může nahradit jiná právní skutečnost, např. seznam osob oprávněných z CP (seznam akcionářů – nemusí se legitimovat CP při valné hromadě); předložení CP je ale nezbytným předpokladem pro zápis do seznamu
+─      převod CP na jméno – výjimka: k přechodu práva dochází již smlouvou k okamžiku její účinnosti, tj. bez předání CP, tudíž odporuje zákonné definici CP v § 514, v zákoně tak však označen je
+─      princip celistvosti CP
+-        dokud CP existuje, přecházejí všechna práva, jež ztělesňuje, výlučně s ním
+-        princip prolomen v úpravě samostatné převoditelnosti některých práv s CP spojených – např. u akcie (právo na vyplacení podílu na zisku, na podíl na likvidačním zůstatku, přednostní právo na upisování akcií a další majetková práva; samostatně převoditelné není nikdy právo hlasovací)
+-        naopak vlastník při převodu akcie musí převést všechna práva k akcii (i ta samostatně převoditelná)
+
+- 3- VYDÁNÍ CENNÉHO PAPÍRU
+─      vydání (emise) CP je proces, na jehož konci se z listiny, která měla původně jen vlastní hodnotu (coby list papíru či jiného materiálu), stává cenný papír
+─      překonané teorie vydání
+-        kreační teorie – jednostranný a neadresný projev vůle výstavce (problém: odcizení zlodějem)
+-        smluvní teorie – základ vydání CP ve smlouvě mezi výstavcem a prvním nabyvatelem
+-        vlastnická teorie – k vydání CP je vyžadováno jeho řádné nabytí prvním vlastníkem (i vydržením)
+─      teorie domnělého práva
+-        listina musí splňovat formální náležitosti stanovené zákonem + musí se stát majetkem prvního nabyvatele stanoveným způsobem (navazuje na vlastnickou teorii)
+-        zákon chrání dobrou víru třetích osob pro případ, že způsob nebyl dodržen – byl-li nabyvatel v dobré víře, dojde k vydání CP, i když nebyly dodrženy náležitosti postupu při vydání
+─      imobilizace jako způsob vydání CP – výstavce cenný papír nepředává jeho prvnímu majiteli, nýbrž svěřuje do hromadné úschovy; CP je vydán dnem, kdy jej výstavce předal schovateli
+
+- 4- FUNKCE CENNÝCH PAPÍRŮ
+─     převodní funkce
+-     v cenném papíru je vtěleno subjektivní právo a přechází s ním dle pravidel platných pro věci hmotné, tedy zásadně předáním na základě smlouvy
+─   legitimační funkce
+-     k prokázání oprávnění k přijetí plnění z CP stačí CP předložit
+-     výstavce nemusí plnit, dokud mu CP není předložen; je-li mu předložen, nemusí zkoumat nic dalšího
+─     liberační funkce
+-     dluh výstavce z CP zanikne splněním předložiteli, i kdyby později vyšlo najevo, že plnění přijala osoba neoprávněná (pravý vlastník by se pak vypořádal s ní – bezdůvodné obohacení)
+─     garanční funkce
+-     CP zásadně zaručuje svému vlastníkovi existenci práva do něj vtěleného
+-     vydání CP založená na teorii domnělého práva > když se listina do oběhu dostane neoprávněně a výstavce z něj nikomu nedluží > získá-li jej třetí osoba v dobré víře > stane se z ní CP
+-     privilegovaný způsob nabytí práva v dobré víře od osoby neoprávněné (na rozdíl od pohledávky, kterou jako věc nehmotnou nelze nabýt od nevlastníka)
+-     námitky výstavce (dlužníka) vůči držiteli CP:
+-        absolutní námitky (námitky proti CP – nedostatek náležitostí, nepravost podpisu atd.)
+-        relativní námitky (ze vzájemných vztahů s konkrétním oprávněným)
+
+- 5- FORMA A PŘEVOD CENNÝCH PAPÍRŮ
+─     dělení CP dle formy => způsob, jímž se CP převádí a jak se oprávněný může legitimovat k výkonu práv z CP
+1.   forma na doručitele
+─      v CP na doručitele se neuvádí jméno oprávněné osoby, převádí se pouhým předáním
+─      pro legitimaci k výkonu práv, která jsou s ním spojena, postačuje pouhé předložení
+2.   forma na řad
+─      CP na řad od počátku uvádí jméno (název) konkrétního oprávněného (remitenta)
+─      jedině remitent se může předložením CP legitimovat k výkonu práv do něj vtělených
+─      převádí se jednostranným PJ převodce, tzv. rubopis (indosament) – vyznačený na rubu či přívěsku CP
+─      tzv. indosačním prohlášením („za mne na řad“ s připojeným jménem nabyvatele) projevuje vůli, aby na její místo (řad) nastoupil jiný oprávněný (rubopisník, indosatář) + předáním
+─      nevyplněný rubopis (blankoindosament) – neuvádí osobu rubopisníka, podobný režim jako u CP na doručitele; nepoužitelné u kmenového listu, akcie i zatímního listu
+─      nabyvateli při legitimaci musí svědčit nepřetržitá řada rubopisů, musí se zohlednit jiné právní skutečnosti, které nemusí být zaznamenány (přeměny, smrt zůstavitele) – řada se může jevit přetržená
+─      originární nabytí – právo se odvozuje ze směnky samotné, nezávisle na postavení předchůdce
+3.   forma na jméno
+─      k výkonu práv se může legitimovat jedině předložitel, který je v cenném papíru označen
+─      vlastnické právo se převádí smlouvou k okamžiku její účinnosti, není možný převod rubopisem
+─      musí prokázat, že osoba uvedená na CP mu CP převedla (cese)
+─      derivativní nabytí – nabyvatel vstupuje do p. postavení předchůdce (> dlužníkovi zůstávají všechny námitky a obrany, jaké měl proti původnímu vlastníku CP na jméno) – jako u klasické cese pohledávky
+
+právní titul převodu
+─      k přechodu vlastnického práva je bez ohledu na formu CP vždy nezbytná existence právního titulu – smlouva kupní, darovací, směnná, smlouva o zajišťovacím převodu práva, smlouva o zápůjčce
+─      nevlastníkovi stejně bude plněno po legitimaci, titul se nezkoumá, ledaže by se vlastníku CP podařilo prokázat, že titul neexistoval/odpadl
+omezená nabídka forem
+─      skladištní, náložní list: všechny 3 formy možné
+─      akcie: akcie na majitele (=CP na doručitele), akcie na jméno (=CP na řad), matoucí terminologie ZOK
+(akcie jako CP na jméno vyloučena, protože by tam byla omezená převoditelnost)
+─      směnka: CP na řad, CP na jméno (nelze na doručitele, náležitostí je jméno remitenta)
+─      kmenový či zatímní list: jen jako CP na řad
+─      kupon či opční list: jen jako CP na doručitele
+nejasná forma – domněnky
+─      chybí-li na CP údaj o oprávněné osobě, jde o CP na doručitele
+─      obsahuje-li CP jméno oprávněného, má se za to, že jde o CP na řad
+─      u směnek, aby byly CP na jméno, je třeba výslovně projev vůle výstavce > rektadoložku
+
+- 6- TŘÍDENÍ A DRUHY CENNÝCH PAPÍRŮ
+─     CP individuálně X hromadně vydávané, individuálně X veřejně nabízené, přijaté X nepřijaté k obchodování na evropském regulovaném trhu, způsobilé X nezpůsobilé veřejné nabídky atd.
+─     CP státní, komunální, vydávané ČNB, korporátní či jiné
+─     třídění dle zastupitelnosti
+-     vzájemně zastupitelné – CP téhož druhu vydávané týmž emitentem v téže formě, z nichž vznikají stejná práva; ve smlouvě mohou být vymezeny druhově (ochranné prvky + otisk místo podpisu)
+-     nezastupitelné
+─     třídění dle účinků vzniku
+-     deklaratorní – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP)
+-     konstitutivní – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy)
+─     třídění dle vyjádření hospodářské kauzy
+-     kauzální – je patrné, co bylo důvodem jejich vzniku (téměř všechny pojmenované CP)
+-     abstraktní – svůj hospodářský důvod vyjadřovat nemusejí nebo nesmějí (směnka)
+─     třídění dle druhu
+-     účastnické (podílnické) – ztělesňují podíl ve společnosti či na účelovém sdružení jmění; akcie či zatímní listy (a.s. či e.s.), kmenové listy (s.r.o.), investiční listy (k.s. na investiční listy); podílové listy
+-     dlužnické – inkorporují právo na plnění, tj. pohledávku; peněžitý předmět plnění (dluhopis, směnka, šek, kupon), nepeněžitý (náložný list, skladištní list, opční list – právo na přednostní úpis akcií)
+-     věcněprávní – vtělují právo věcné; zemědělský skladní list (vtělení VP či ZP k zeměd. komoditám)
+-        zbožové – různé druhy CP, jejichž předmětem je v konečném důsledku zboží
+─     nepojmenované druhy CP
+-     listina musí určit právo, které je s ní spojeno, údaj o výstavci a to, že zmíněné právo vtěluje
+-     ZOK: zákaz inkorporovat do CP podíl společníka v OK, ledaže jde o kapitál. společnost (X družstvo)
+-     absolutní právo lze inkorporovat jen, když tak stanoví zákon (tj. jen u pojmenovaných CP)
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -4972,6 +5090,9 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Právní úprava podnikání na kapitálovém trhu
+- [ ] Právní úprava kolektivního investování
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4979,6 +5100,99 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+•	Pojem kapitálový trh není v právním řádu definován
+•	Zjednodušeně ho však lze definovat jako součást finančního trhu, kde dochází k pohybu kapitálu prostřednictvím různých forem cenných papírů mezi účastníky kapitálového trhu
+•	Kapitálový trh je trhem s dlouhodobými finančními instrumenty, jejichž splatnost přesahuje jeden rok -  hypoteční úvěry a jiné dlouhodobé úvěry, akcie a jiné majetkové cenné papíry, dluhopisy apod. určené pro dlouhodobé financování investic
+•	vs. „peněžní trh“ - obchodovány finanční instrumenty s dobou splatnosti kratší než jeden rok, obvykle spíše v řádu dnů či měsíců - krátkodobé cenné papíry, krátkodobé vklady apod. umožňující osobám obchodujícím na peněžním trhu přístup k potřebným zdrojům, zajišťují likviditu
+•	Soubor právních norem regulujících právní vztahy vznikající, realizující se a zanikající v oblasti kapitálového trhu
+•
+•	Cíle regulace práva kapitálového trhu:
+o	riziko nezískání / zamlčení pravdivé informace v rozsahu nezbytném pro provedení přesného investičního rozhodnutí; toto riziko se do jisté míry odbourává vymezením informačních povinností (historické finanční skandály);
+o	riziko ztráty svěřeného kapitálu; způsobem snížení tohoto rizika je především státní dohled, garance kontroly, rozhodovací oprávnění investorů a pravidla přístupu na kapitálový trh
+o	riziko neprofesionální správy svěřeného kapitálu; obdobně jako v předchozím případě se riziko minimalizuje rozsahem povolených investičních služeb, kontrolou, pravidly insider trading
+•	základním pramenem práva upravujícím podmínky podnikání na kapitálovém trhu, poskytování služeb v oblasti kapitálového trhu a veřejnou nabídku cenných papírů je zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, který zároveň vymezuje základní instituty a pojmy kapitálového trhu
+•	zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu - stanovuje působnost a pravomoc ČNB (správní úřad pro oblast kapitálového trhu)
+•	zákon č. 240/2013 Sb., o investičních společnostech a investičních fondech
+•	zákon č. 377/2005 Sb., o finančních konglomerátech (doplňkový dohled)
+•	zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů
+•	zákon č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů
+•	Předmětem podnikání na kapitálovém trhu jsou investiční nástroje, tedy:
+o	investiční cenné papíry
+o	cenné papíry kolektivního investování
+o	nástroje peněžního trhu (úvěry, peněžní prostředky v cizí měně)
+o	finanční deriváty (opce, futures, swapy, forwardy, nástroje umožňující přenos úvěrového rizika, finanční rozdílové smlouvy apod.)
+•	Mezi investiční cenné papíry pak řadíme zejména akcie a dluhopisy
+•	Služby poskytované účastníky kapitálového trhu v souvislosti s investičními nástroji nazýváme investičními služby, těmi jsou především:
+o	přijímání a předávání pokynů týkajících se investičních nástrojů
+o	provádění pokynů týkajících se investičních nástrojů na účet zákazníka
+o	obchodování s investičními nástroji na vlastní účet
+o	obhospodařování majetku zákazníka, je-li jeho součástí investiční nástroj, na základě volné úvahy v rámci smluvního ujednání
+o	investiční poradenství týkající se investičních nástrojů
+•	subjekty, které pociťují relativní přebytek peněžních prostředků a jsou ochotny poskytnout tyto peněžní prostředky dočasně jiným, a
+•
+•	subjekty, které pociťují relativní nedostatek peněžních prostředků, potřebují si peněžní prostředky dočasně obstarat a jsou ochotny za to zaplatit odpovídající cenu.
+•	Pojem účastníci kapitálového trhu zahrnuje veškeré subjekty, které se účastní operací na kapitálovém trhu
+•	Těmito subjekty podle zákona o podnikání na kapitálovém trhu jsou:
+o	Obchodník s cennými papíry
+o	Investiční zprostředkovatel
+o	Vázaný zástupce
+o	Profesionální zákazník
+•	Obchodník s cennými papíry je právnická osoba (akciová společnost či společnost s ručením omezeným), která poskytuje investiční služby na základě povolení České národní banky
+•	Obchodník s cennými papíry poskytuje investiční služby s odbornou péčí a obezřetně, jedná kvalifikovaně, čestně a spravedlivě a v nejlepším zájmu zákazníků
+•	Pokyny zákazníka provádí obchodník s cennými papíry za nejlepších podmínek a ve vztahu k pokynům ostatních zákazníků nebo pokynům na vlastní účet jedná spravedlivě a bez zbytečných průtahů
+•	Investiční zprostředkovatel je osoba zaregistrovaná u České národní banky, která je oprávněna přijímat a předávat pokyny týkající se investičních nástrojů nebo poskytovat investiční poradenství. Investiční zprostředkovatel však:
+o	nepřijímá peněžní prostředky nebo investiční nástroje zákazníků
+o	pokyny předává pouze:
+	■bance
+	■obchodníkovi s cennými papíry
+	■obhospodařovateli fondu kolektivního investování
+•	Vázaný zástupce je fyzická nebo právnická osoba, která je oprávněna za zastoupeného:
+o	zařídit, a popřípadě i uzavřít, obchody týkající se přijímání a předávaní pokynů týkajících se investičních nástrojů
+o	poskytovat investiční poradenství
+o	propagovat investiční služby
+•	Zastoupeným vázaného zástupce však může být pouze:
+o	obchodník s cennými papíry
+o	investiční zprostředkovatel
+•	Vázaný zástupce nesmí přijímat peněžní prostředky nebo investiční nástroje zákazníků
+•	Vázaný zástupce je povinen jednat s vynaložením odborné péče, za výkon investičních činností vázaným zástupcem však odpovídá zastoupený
+o	Profesionálním zákazníkem rozumí zákon o podnikání na kapitálovém trhu především:
+	obchodníka s cennými papíry
+	finanční instituce (banka, spořitelní a úvěrní družstvo, pojišťovna, zajišťovna, investiční společnost, investiční fond, penzijní fond, penzijní společnost)
+	osoby provádějící sekuritizaci či hedging
+	státy nebo členské státy federace
+	národní banky
+	osoby, jejichž rozhodující činnost spočívá v obchodování na vlastní účet s investičními nástroji nebo komoditami
+	dále pak  všechny ostatní právnické osoby založené za účelem podnikání, které překračují určité ekonomické ukazatele stanovené zákonem  
+•	Profesionální zákazník pak může být i kdokoliv jiný na vlastní žádost
+•	Zákon předpokládá, že profesionální zákazník má odborné znalosti a zkušenosti v oblasti investic k tomu, aby činil vlastní investiční rozhodnutí a vyhodnocoval rizika, která podstupuje v souvislosti s investiční službou nebo obchodem s investičním nástrojem
+•	Obchodovat s cennými papíry lze v zásadě dvěma způsoby:
+o	v rámci regulovaného trhu
+o	v rámci neregulovaného trhu (OTC)
+o	Pro obchodování na neregulovaném trhu nestanoví zákon žádné zvláštní požadavky, vyjma pravidel pro nabízení cenných papírů veřejnosti
+•	V takovém případě je emitent povinen uveřejnit informace týkající se nabízeného cenného papíru ve formě prospektu cenného papíru
+•	Prospekt musí obsahovat veškeré údaje, které jsou nezbytné pro investory k zasvěcenému posouzení nabízeného cenného papíru a práv s ním spojených
+•	Prospekt se uveřejňuje bez zbytečného odkladu po jeho schválení na internetových stránkách emitenta nebo jiné osoby nabízející cenné papíry, organizátora regulovaného trhu či v podobě brožury, která je bezplatně dostupná veřejnosti v sídle a provozovně organizátora regulovaného trhu
+•	Oproti tomu regulovaný trh je trh organizovaný organizátorem regulovaného trhu, na kterém se pravidelně obchoduje a který má stanovená pravidla pro přijímání a obchodování s investičními nástroji
+•	Regulovaný trh může být organizován pouze zvláštním subjektem – organizátorem regulovaného trhu, který k tomu má povolení České národní banky
+•	Organizátor regulovaného trhu může organizovat jako součást regulovaného trhu oficiální trh s cennými papíry – oficiální trh, který splňuje přísnější podmínky pro přijetí cenného papíru k obchodování na oficiálním trhu
+•	Požadavek na transparentnost regulovaného trhu (ochrana před zneužitím vnitřních informací atd.):
+o	Slabá teorie
+o	Středně silná teorie
+o	Silná teorie kapitálového trhu
+•	Dohled nad plněním povinností účastníků kapitálového trhu vykonává Česká národní banka
+•	Česká národní banka může uložit osobě podléhající dohledu, která porušila zákon o podnikání na kapitálovém trhu, opatření k nápravě, zahrnující zejména:
+o	nařídit mimořádné provedení auditu či změnu auditora
+o	zakázat či na dobu 5 let pozastavit některou činnost podléhající dohledu
+o	pozastavit obchodování s investičními nástroji
+o	zavést nucenou správu
+o	změnit rozsah povolení uděleného podle zákona o podnikání na kapitálovém trhu
+o	odejmout povolení nebo souhlas, zrušit registraci nebo provést výmaz vázaných zástupců
+o	zakázat nebo pozastavit nejdéle na dobu 10 pracovních dnů veřejné nabízení investičních cenných papírů, obchodování s investičním cenným papírem na regulovaném trhu nebo jeho přijetí na něj
+o	zakázat nebo pozastavit propagaci nebo oznámení týkající se veřejné nabídky nebo přijetí investičního cenného papíru k obchodování na regulovaném trhu
+o	nařídit výměnu vedoucí osoby podléhajících dohledu
+nařídit uveřejnění povinně uveřejňované informace
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>

@@ -62,8 +62,8 @@ Hotovo 2/30
 - [x] Otázka 13
 - [x] Otázka 14
 - [x] Otázka 15
-- [ ] Otázka 16
-- [ ] Otázka 17
+- [x] Otázka 16
+- [x] Otázka 17
 - [ ] Otázka 18
 - [ ] Otázka 19
 - [ ] Otázka 20
