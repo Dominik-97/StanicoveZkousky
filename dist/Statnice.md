@@ -4957,65 +4957,65 @@ VEDLEJŠÍ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-- 1- PRAMENY PRÁVNÍ ÚPRAVY
-•       OZ – obecná úprava CP – rozptýlená úprava věcí (§ 514-544), věcných práv (§ 1103-4), závazků (úschova § 2409-2412, imobilizace § 2413-4), další obecná ustanovení, co dopadají na věci (jako předměty sml. vztahů)
-•       ZPKT (z. o podnikání na kapitálovém trhu)
-─      právní základ infrastruktury trhu pro obchod s CP, úprava někt. způsobů nakládání s CP (např. veřejná nabídka), pravidla pro vedení evidence investičních nástrojů
-─      je značně harmonizován s právem EU (novela ZPKT v r. 2017 v souvislosti s MIFID II – The Markets in Financial Instruments Directive – Směrnice o trzích finančních nástrojů)
-•       zvl. úprava pojmenovaných CP:
-─      OZ (kupón, skladištní list, náložný list)
-─      ZOK (kmenový list, akcie, zatímní list, vyměnitelné a prioritní dluhopisy, opční list)
-─      z. o investičních společnostech a fondech (podílový a investiční list, zakladatelská a investiční akcie)
-─      z. směnečný a šekový (směnky a šeky)
-─      z. o dluhopisech
+- **1- PRAMENY PRÁVNÍ ÚPRAVY**
+  - OZ – obecná úprava CP – rozptýlená -> úprava věcí (§ 514-544), věcných práv (§ 1103-4), závazků (úschova § 2409-2412, imobilizace § 2413-4), další obecná ustanovení, co dopadají na věci (jako předměty sml. vztahů)
+  - ZPKT (z. o podnikání na kapitálovém trhu)
+    - právní základ infrastruktury trhu pro obchod s CP, úprava někt. způsobů nakládání s CP (např. veřejná nabídka), pravidla pro vedení evidence investičních nástrojů
+    - je značně harmonizován s právem EU (novela ZPKT v r. 2017 v souvislosti s MIFID II – The Markets in Financial Instruments Directive – Směrnice o trzích finančních nástrojů)
+  - **Příklady jednotlivých CP upravených v zákonech**
+    - zvl. úprava pojmenovaných CP:
+      - OZ (kupón, skladištní list, náložný list)
+      - ZOK (kmenový list, akcie, zatímní list, vyměnitelné a prioritní dluhopisy, opční list)
+      - z. o investičních společnostech a fondech (podílový a investiční list, zakladatelská a investiční akcie)
+      - z. směnečný a šekový (směnky a šeky)
+      - z. o dluhopisech
 
-- 2- POJEM CENNÉHO PAPÍRU
-─      definice CP – listina, se kterou je spojeno právo takovým způsobem, že je po vydání CP nelze bez této listiny uplatnit ani převést (§ 514 OZ) [sepětí subjektivního práva a listiny coby hmotného nosiče]
-─      zákon sice zmiňuje listinu (tj. papír), ale stejnou funkci může plnit libovolný jiný hmotný substrát schopný zachytit písemný projev vůle ( § 3026 OZ)
-─      1. způsobilým předmětem inkorporace do CP je vždy subjektivní právo, a to z oblasti SP majetkového
-─      „cennost“ papíru se opírá o konstrukci právní fikce  dané subjektivní právo je inkorporací zhmotněno v CP, stává se z něj tak také věc hmotná, bez listiny nemá právní význam („stojí s ní a padá“)
-─       X jiné listiny – samotné právo nenesou ani s nimi nepřechází, nanejvýš o něm podávají důkaz (smlouva, písemné uznání dluhu, legitimační listiny – šatní žeton)
-─      2. inkorporace dluhu (povinnosti) vůči výstavci do CP
-─      např. zatímní či kmenový list (= inkorporace povinností společníka podle společenské smlouvy)
-─      povinnosti jsou součástí souboru, jemuž dominují práva (účast ve společnosti) [ze zákona]
-─      dluh může být spojen i s nepojmenovaným CP
-─      výjimky při uplatnění práva z CP:
-─      ztracený, zničený či řádně nepředložený CP > umoření CP (soud prohlásí listinu za umořenou podle ZŘS a nahradí ji svým rozhodnutím > deinkorporuje subj. právo od starého CP a spojí ho s novým CP)
-─      bez předložení CP – legitimační funkci CP může nahradit jiná právní skutečnost, např. seznam osob oprávněných z CP (seznam akcionářů – nemusí se legitimovat CP při valné hromadě); předložení CP je ale nezbytným předpokladem pro zápis do seznamu
-─      převod CP na jméno – výjimka: k přechodu práva dochází již smlouvou k okamžiku její účinnosti, tj. bez předání CP, tudíž odporuje zákonné definici CP v § 514, v zákoně tak však označen je
-─      princip celistvosti CP
--        dokud CP existuje, přecházejí všechna práva, jež ztělesňuje, výlučně s ním
--        princip prolomen v úpravě samostatné převoditelnosti některých práv s CP spojených – např. u akcie (právo na vyplacení podílu na zisku, na podíl na likvidačním zůstatku, přednostní právo na upisování akcií a další majetková práva; samostatně převoditelné není nikdy právo hlasovací)
--        naopak vlastník při převodu akcie musí převést všechna práva k akcii (i ta samostatně převoditelná)
+- **2- POJEM CENNÉHO PAPÍRU**
+  - definice CP – listina, se kterou je spojeno právo takovým způsobem, že je po vydání CP nelze bez této listiny uplatnit ani převést (§ 514 OZ) [sepětí subjektivního práva a listiny coby hmotného nosiče]
+    - zákon sice zmiňuje listinu (tj. papír), ale stejnou funkci může plnit libovolný jiný hmotný substrát schopný zachytit písemný projev vůle (-> § 3026 OZ)
 
-- 3- VYDÁNÍ CENNÉHO PAPÍRU
-─      vydání (emise) CP je proces, na jehož konci se z listiny, která měla původně jen vlastní hodnotu (coby list papíru či jiného materiálu), stává cenný papír
-─      překonané teorie vydání
--        kreační teorie – jednostranný a neadresný projev vůle výstavce (problém: odcizení zlodějem)
--        smluvní teorie – základ vydání CP ve smlouvě mezi výstavcem a prvním nabyvatelem
--        vlastnická teorie – k vydání CP je vyžadováno jeho řádné nabytí prvním vlastníkem (i vydržením)
-─      teorie domnělého práva
--        listina musí splňovat formální náležitosti stanovené zákonem + musí se stát majetkem prvního nabyvatele stanoveným způsobem (navazuje na vlastnickou teorii)
--        zákon chrání dobrou víru třetích osob pro případ, že způsob nebyl dodržen – byl-li nabyvatel v dobré víře, dojde k vydání CP, i když nebyly dodrženy náležitosti postupu při vydání
-─      imobilizace jako způsob vydání CP – výstavce cenný papír nepředává jeho prvnímu majiteli, nýbrž svěřuje do hromadné úschovy; CP je vydán dnem, kdy jej výstavce předal schovateli
+- 1. způsobilým předmětem inkorporace do CP je vždy subjektivní právo, a to z oblasti SP majetkového
+  - „cennost“ papíru se opírá o konstrukci právní fikce -> dané subjektivní právo je inkorporací zhmotněno v CP, stává se z něj tak také věc hmotná, bez listiny nemá právní význam („stojí s ní a padá“)
+  - X jiné listiny – samotné právo nenesou ani s nimi nepřechází, nanejvýš o něm podávají důkaz (smlouva, písemné uznání dluhu, legitimační listiny – šatní žeton)
+- 2. inkorporace dluhu (povinnosti) vůči výstavci do CP
+  - např. zatímní či kmenový list (= inkorporace povinností společníka podle společenské smlouvy)
+  - povinnosti jsou součástí souboru, jemuž dominují práva (účast ve společnosti) [ze zákona]
+  - dluh může být spojen i s nepojmenovaným CP
 
-- 4- FUNKCE CENNÝCH PAPÍRŮ
-─     převodní funkce
--     v cenném papíru je vtěleno subjektivní právo a přechází s ním dle pravidel platných pro věci hmotné, tedy zásadně předáním na základě smlouvy
-─   legitimační funkce
--     k prokázání oprávnění k přijetí plnění z CP stačí CP předložit
--     výstavce nemusí plnit, dokud mu CP není předložen; je-li mu předložen, nemusí zkoumat nic dalšího
-─     liberační funkce
--     dluh výstavce z CP zanikne splněním předložiteli, i kdyby později vyšlo najevo, že plnění přijala osoba neoprávněná (pravý vlastník by se pak vypořádal s ní – bezdůvodné obohacení)
-─     garanční funkce
--     CP zásadně zaručuje svému vlastníkovi existenci práva do něj vtěleného
--     vydání CP založená na teorii domnělého práva > když se listina do oběhu dostane neoprávněně a výstavce z něj nikomu nedluží > získá-li jej třetí osoba v dobré víře > stane se z ní CP
--     privilegovaný způsob nabytí práva v dobré víře od osoby neoprávněné (na rozdíl od pohledávky, kterou jako věc nehmotnou nelze nabýt od nevlastníka)
--     námitky výstavce (dlužníka) vůči držiteli CP:
--        absolutní námitky (námitky proti CP – nedostatek náležitostí, nepravost podpisu atd.)
--        relativní námitky (ze vzájemných vztahů s konkrétním oprávněným)
+- výjimky při uplatnění práva z CP:
+  - ztracený, zničený či řádně nepředložený CP > umoření CP (soud prohlásí listinu za umořenou podle ZŘS a nahradí ji svým rozhodnutím > deinkorporuje subj. právo od starého CP a spojí ho s novým CP)
+  - bez předložení CP – legitimační funkci CP může nahradit jiná právní skutečnost, např. seznam osob oprávněných z CP (seznam akcionářů – nemusí se legitimovat CP při valné hromadě); předložení CP je ale nezbytným předpokladem pro zápis do seznamu
+  - převod CP na jméno – výjimka: k přechodu práva dochází již smlouvou k okamžiku její účinnosti, tj. bez předání CP, tudíž odporuje zákonné definici CP v § 514, v zákoně tak však označen je
+  - princip celistvosti CP
+    - dokud CP existuje, přecházejí všechna práva, jež ztělesňuje, výlučně s ním
+    - princip prolomen v úpravě samostatné převoditelnosti některých práv s CP spojených – např. u akcie (právo na vyplacení podílu na zisku, na podíl na likvidačním zůstatku, přednostní právo na upisování akcií a další majetková práva; samostatně převoditelné není nikdy právo hlasovací)
+    - naopak vlastník při převodu akcie musí převést všechna práva k akcii (i ta samostatně převoditelná)
 
-- 5- FORMA A PŘEVOD CENNÝCH PAPÍRŮ
+- **3- VYDÁNÍ CENNÉHO PAPÍRU**
+  - vydání (emise) CP je proces, na jehož konci se z listiny, která měla původně jen vlastní hodnotu (coby list papíru či jiného materiálu), stává cenný papír
+  - překonané teorie vydání - kreační, smluvní vlastnická - nepodstatné
+  - teorie domnělého práva = stanovuje kdy je vydán cenný papír
+    - listina musí splňovat formální náležitosti stanovené zákonem + musí se stát majetkem prvního nabyvatele stanoveným způsobem (navazuje na vlastnickou teorii)
+    - zákon chrání dobrou víru třetích osob pro případ, že způsob nebyl dodržen – byl-li nabyvatel v dobré víře, dojde k vydání CP, i když nebyly dodrženy náležitosti postupu při vydání
+  - imobilizace jako způsob vydání CP – výstavce cenný papír nepředává jeho prvnímu majiteli, nýbrž svěřuje do hromadné úschovy; CP je vydán dnem, kdy jej výstavce předal schovateli
+
+- **4- FUNKCE CENNÝCH PAPÍRŮ**
+  - převodní funkce
+    - v cenném papíru je vtěleno subjektivní právo a přechází s ním dle pravidel platných pro věci hmotné, tedy zásadně předáním na základě smlouvy
+  - legitimační funkce
+    - k prokázání oprávnění k přijetí plnění z CP stačí CP předložit
+    - výstavce nemusí plnit, dokud mu CP není předložen; je-li mu předložen, nemusí zkoumat nic dalšího
+  - liberační funkce
+    - dluh výstavce z CP zanikne splněním předložiteli, i kdyby později vyšlo najevo, že plnění přijala osoba neoprávněná (pravý vlastník by se pak vypořádal s ní – bezdůvodné obohacení)
+  - garanční funkce
+    - CP zásadně zaručuje svému vlastníkovi existenci práva do něj vtěleného
+    - vydání CP založená na teorii domnělého práva > když se listina do oběhu dostane neoprávněně a výstavce z něj nikomu nedluží > získá-li jej třetí osoba v dobré víře > stane se z ní CP
+    - privilegovaný způsob nabytí práva v dobré víře od osoby neoprávněné (na rozdíl od pohledávky, kterou jako věc nehmotnou nelze nabýt od nevlastníka)
+    - námitky výstavce (dlužníka) vůči držiteli CP:
+      - absolutní námitky (námitky proti CP – nedostatek náležitostí, nepravost podpisu atd.)
+      - relativní námitky (ze vzájemných vztahů s konkrétním oprávněným)
+
+- **5- FORMA A PŘEVOD CENNÝCH PAPÍRŮ**
 ─     dělení CP dle formy => způsob, jímž se CP převádí a jak se oprávněný může legitimovat k výkonu práv z CP
 1.   forma na doručitele
 ─      v CP na doručitele se neuvádí jméno oprávněné osoby, převádí se pouhým předáním
@@ -5070,6 +5070,37 @@ nejasná forma – domněnky
 -     listina musí určit právo, které je s ní spojeno, údaj o výstavci a to, že zmíněné právo vtěluje
 -     ZOK: zákaz inkorporovat do CP podíl společníka v OK, ledaže jde o kapitál. společnost (X družstvo)
 -     absolutní právo lze inkorporovat jen, když tak stanoví zákon (tj. jen u pojmenovaných CP)
+
+1. ZAKNIHOVANÉ A IMOBILIZOVANÉ CENNÉ PAPÍRY (ZCP a ICP)
+─     tradiční označení, ale ZCP vlastně není CP, nemá hmotný substrát – jde o věc movitou, avšak nehmotnou;
+─     ZCP = zápis v evidenci, který nahrazuje hmotný CP; lze ho převést jen změnou zápisu v evidenci
+─     proces zaknihování = dematerializace CP (odhmotnění), právo s ním ale zachází jako s věcí hmotnou
+─     na ZCP se použije úprava CP, nevylučuje-li to jejich povaha či zákon
+─      u ZCP se nerozlišují formy, jsou vždy vedeny na jméno konkrétní osoby a zákon stanoví specifický způsob převodu a legitimace (výjimka pro akcie – počítá se s formou)
+─      použije se většina zbylých kritérií třídění CP a ustanovení o jejich vydání
+─     přeměna CP na ZCP a naopak (§ 529-544 OZ)
+─      přeměna by neměla bránit vzájemné zastupitelnosti CP a ZCP, vydal-li je týž emitent a vznikají-li z nich tatáž práva
+2. VEDENÍ EVIDENCE ZCP a ICP
+•       centrální evidence („centrální evidence ZCP“, § 92 ZPKT)
+─      soustředění evidence co největšího počtu ZCP do jediného místa (evidovat v ní lze ale i ICP)
+─      1. tuzemský centrální depozitář, od 2016: 2. zahraniční centrální depozitář, 3. ČNB
+─      ZCP lze evidovat zásadně jen v centrální evidenci a evidenci na ni navazující (výjimky pro CP kolektivního investování a státní dluhopisy)
+•       samostatná evidence („samostatná evidence investičních nástrojů“)
+─      každý obchodník s CP, který má v povolení ke své činnosti uvedenu investiční službu úschovy a správy investičních nástrojů, osoby oprávněné k vedení evidence ZCP kolektivního investování a další
+─      především evidence o CP převzatých do úschovy, obzvláště tedy o ICP a sběrném dluhopisu; dále evidence ZCP kolektivního investování, zaknihované státní dluhopisy
+ druhy majetkových účtů:
+─      účet vlastníka – evidence ZCP a ICP toho, pro něhož byl účet zřízen, vyvratitelná domněnka, že ZCP a ICO patří osobě, na jejímž vlastnickém účtu jsou zapsány
+─      účet zákazníků – majitel účtu zde eviduje ZCP a ICP svých zákazníků (majitel účtu ≠ vlastník CP)
+─      osoba vedoucí centrální evidenci nepozná z účtu zákazníků údaje o jednotlivých vlastnících
+•       navazující evidence (dvoustupňová evidence)
+─      vede ji majitel účtu zákazníků v centrální či samostatné evidenci – vést zde lze jen účty vlastníků
+(X výjimka: lze zde vést i účty zákazníků, pouze pro zahraniční subjekt > třístupňová evidence)
+─     evidence emisí
+─      přehled o vlastnících ZCP či ICP z celé emise (ať jsou na jakémkoli stupni)
+─      vede ji osoba vedoucí evidenci 1. stupně (centrální nebo samostatnou evidenci), má smlouvu s emitentem, který ZCP či ICP z dané emise vydal > předává mu výpis z evidence emisí
+─      na její výzvu přispívají údaji ze svých navazujících evidencí osoby, které je vedou
+─      výpisy z evidence emisí slouží jako primární nástroj k určení (legitimaci) osob oprávněných k výkonu práv ze ZCP či ICP v takové evidenci
+─      pokud se údaje na výpisu z evidence emise liší od údajů na výpisu z majetkového účtu, za rozhodující se považují údaje na výpisu z evidence emise
 
 
 \|--------------------------------------\| <br>
