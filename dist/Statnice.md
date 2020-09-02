@@ -5783,6 +5783,129 @@ Zakládání právnických osob právnickými osobami.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+EVROPSKÉ HOSPODÁŘSKÉ ZÁJMOVÉ SDRUŽENÍ
+•	OK, jejímž účelem je usnadňovat nebo rozvíjet hospodářskou činnost svých členů a zlepšit nebo zvýšit hospodářské výsledky této činnosti
+•	může být založeno pouze pro podpůrné a doplňkové činnosti ve vztahu k hlavním činnostem svých členů, není určeno k podnikání (ale je vždy podnikatelem, protože se zapisuje do obchodního rejstříku)
+•	na neřešené otázky se subsidiárně použije úprava VOS (!)
+•	na evropské úrovni nemá právní osobnost, české právo mu ji přiznává
+•	právní úprava
+o	nařízení o evropském hospodářském zájmovém sdružení
+o	zákon č. 360/2004 Sb., o evropském hospodářském zájmovém sdružení
+•	musí mít obchodní firmu, která má v dodatku „evropské hospodářské zájmové sdružení“ nebo „EHZS“
+•	sídlo se musí nacházet na území EU
+•	evropský prvek – členové musí mít sídlo či ústředí nebo musí vykonávat svou činnost na území různých členských států EU
+•	založení smlouvou o sdružení
+•	vznik zápisem do veřejného rejstříku určeného národním prováděcím předpisem (tj. OR)
+•	musí mít alespoň dva členy
+•	organizační struktura
+o	NO – společně jednající členové
+o	SO – jednatel nebo jednatelé
+o	další fakultativní orgány
+•	zrušení jednomyslným rozhodnutím všech členů, rozhodnutím soudu
+•	sdružení zaniká zrušením registrace (výmazem z obchodního rejstříku)
+EVROPSKÁ SPOLEČNOST
+•	kapitálová společnost ve formě AS
+•	povinná tvorba ZK v minimální výši 120.000 EUR
+•	ZK je rozdělen na akcie
+•	akcionáři ručí za dluhy společnosti jen do výše jimi upsaného ZK
+•	právní úprava
+o	nařízení o statutu evropské společnosti
+o	zákon č. 627/2004 Sb., o evropské společnosti
+•	autonomní právo fungování a vnitřní organizace SE tvoří její stanovy
+•	obchodní firma musí obsahovat dodatek se zkratkou SE
+•	sídlo se musí nacházet na území EU a ve stejném členském státě jako její správní ústředí
+•	založení společnosti
+o	společnost může vzniknout fúzí AS, založením holdingové SE, založením dceřiné SE či přeměnou AS na SE
+o	existující SE může sama založit dceřinou SE
+o	zakladateli mohou být pouze právnické osoby, které se řídí právem nejméně dvou členských států
+•	vznik SE se sídlem v ČR zápisem do OR
+•	účast zaměstnanců na řízení SE
+o	práva na informace a projednání, možnost tvorby výboru zaměstnanců nebo volba jejich zástupců
+o	dohoda o způsobu a rozsahu zapojení zaměstnanců
+•	VH a její rozhodování se subsidiárně řídí národní úpravou státu sídla
+•	dualistická organizační struktura
+o	řídící orgán (v českém právu představenstvo)
+o	dozorčí orgán (v českém právu DR)
+•	monistická organizační struktura
+o	pouze jeden orgán, kterému náleží řídící i kontrolní funkce – správní orgán (SR)
+o	členský stát může stanovit, že obchodní vedení společnosti bude vykonávat statutární ředitel
+•	v otázkách zrušení a zániku společnosti je přímo odkazováno na právní režim členského státu sídla
+EVROPSKÁ DRUŽSTEVNÍ SPOLEČNOST
+•	OK o neuzavřeném počtu členů, jejímž hlavním účelem je podpora a uspokojování potřeb svých členů
+•	právní úprava
+o	nařízení o statutu evropské družstevní společnosti
+o	zákon č. 307/2006 Sb., o evropské družstevní společnosti
+•	obchodní firma musí v dodatku obsahovat zkratku SCE
+•	možnost libovolného přemisťování sídla do jiného členského státu uvnitř EU
+•	založení evropské družstevní společnosti
+o	založit ji může alespoň pět fyzických osob s bydlištěm alespoň ve dvou členských státech, alespoň dvě společnosti, alespoň pět lidí a společností, alespoň dvě družstva založená podle národních předpisů, družstvo s provozovnou nebo dceřinou společností na území jiného členského státu
+o	založení vyhotovením a podpisem stanov
+o	založení fúzí nebo změnou právní formy
+•	vznik zápisem do určeného veřejného rejstříku
+•	účast zaměstnanců na řízení
+o	právo na zapojení se do rozhodování o záležitostech
+o	právo na informace a projednání, právo vlivu
+•	organizační struktura
+o	VH
+o	dualistický systém – dozorčí orgán (v českém právním řádu kontrolní komise), řídící orgán (představenstvo)
+o	monistický systém – správní orgán (SR)
+•	zrušení, likvidace a zánik se řídí národními úpravami družstev
+
+PŘEMĚNY
+•	právní úprava: NOZ a zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev
+•	zaniká-li přeměnou OK – neprovádí se likvidace, neboť veškerá její PaP přejdou na právní nástupce
+Druhy přeměn
+1.	fúze (spojení)
+a.	splynutím – dvě nebo více dosavadních OK ukončují samostatnou existenci a spojují se do nově vznikajícího subjektu [A + B = C]
+b.	sloučením – jedna nebo více dosavadních OK ukončuje samostatnou existenci a splývá do jiné existující OK [A + B = B]
+2.	rozdělení
+a.	rozštěpením – OK ukončuje svou existenci tím, že se rozděluje do více subjektů
+i.	rozštěpení sloučením [A (A1 + A2) = B (+A1) + C (+A2)]
+ii.	rozštěpení se vznikem nové OK [A = B + C]
+iii.	kombinace
+b.	odštěpením – část OK se vyděluje do nově vznikajícího subjektu, zbývající část po operaci přetrvává
+i.	odštěpení sloučením [A (A1 + A2) + B = A (A1) + B(+A2)]
+ii.	odštěpení se vznikem nové OK [A = A + B]
+iii.	kombinace
+3.	převod jmění na společníka – jediný nebo hlavní společník převezme veškeré jmění
+a.	osobní společnosti – zánik účasti ostatních společníků
+b.	kapitálové společnosti – společník, který drží podíl odpovídající alespoň 90 % ZK a zároveň 90 % hlasovacích práv
+c.	družstva – nelze
+4.	změna právní formy – původní OK trvá dále, dochází ke změně uspořádání a právního postavení společníků
+a.	možnost změny na jakoukoliv jinou formu OK
+b.	změna na jiný typ PO je nemožný; bytová a sociální družstva mohou změnit formu, jen souhlasí-li s tím všichni členové
+5.	přeshraniční přemístění sídla
+a.	přemístění sídla do ČR – nesmí to zakazovat právní předpisy obou států, musí změnit formu na českou, musí se řídit českým právním řádem
+b.	přemístění sídla do zahraničí – právní forma a statut se po přemístění řídí českým právním řádem, nestanoví-li něco jiného právní řád státu, do kterého se sídlo přemisťuje
+Průběh přeměny
+•	vypracování (1) projektu přeměny (určení, které části majetku a závazků přejdou na kterou nástupnickou OK, jakých podílů na nástupnických OK se dostane dosavadním společníkům) a (2) znaleckých posudků
+•	založení projektu přeměny do SL a zveřejnění – u kapitálových společností a družstev SO vypracuje zprávu o přeměně
+•	schválení projektu přeměny NO každé zúčastněné OK do 1 měsíce od založení
+o	požadavek přísné většiny (všichni společníci u osobních společností, 3/4 přítomných společníků u kapitálových společností, 2/3 přítomných členů u družstva při přítomnosti alespoň 2/3 všech členů)
+•	zápis přeměny do OR – účinkem zápisu zaniknou zanikající a vzniknou nástupnické OK, společníci se stanou společníky nástupnických OK, nástupnické OK vstoupí do právního postavení svých předchůdců
+
+>	rozhodnutí NS sp. zn. 29 Cdo 3068/2013: „Při zápisu přeměn obchodních společností či družstev do obchodního rejstříku se bezvýjimečně uplatní princip nezvratitelnosti zápisu. Jakkoliv totiž případné vady v procesu přeměny (včetně porušení právních předpisů či stanov, jež by mohlo vést k vyslovení neplatnosti usnesení valné hromady, jímž byla přeměna schválena) již po zápisu přeměny do obchodního rejstříku nemohou být důvodem pro zrušení tohoto zápisu či vyslovení neplatnosti usnesení valné hromady, jinak je tomu v případě, kdy se např. valná hromada vůbec nekonala a zápis o jejím konání byl zfalšován.“
+
+•	rozhodný den – den, od něhož se jednání zanikající PO považuje za jednání uskutečněné na účet nástupnické PO
+Ochrana zájmů věřitelů
+•	při fúzi – 6měsíční lhůta (od zveřejnění zápisu) k uplatnění práva na poskytnutí dostatečné jistoty, jestliže se fúzí dobytnost jejich pohledávek zhoršila
+•	při rozdělení – právo požadovat poskytnutí jistoty; každá nástupnická OK ručí za závazky, jež přešly na ostatní OK, až do výše svého počátečního vlastního kapitálu
+•	ochrana zájmů (menšinových) společníků
+o	právo na narovnání vůči nástupnickým OK ve lhůtě 6 měsíců od zveřejnění zápisu přeměny – tj. poskytnutí kompenzace vzniklé majetkové ztráty v penězích
+o	v případě, že od společníka nelze spravedlivě požadovat, aby v korporaci setrval, má právo na odkoupení jeho podílu nástupnickou OK za spravedlivou cenu
+Přeshraniční přeměny
+•	právní úprava: 10. směrnice umožňuje přeshraniční fúze kapitálových společností
+•	české právo umožňuje přeshraniční fúze i rozdělení všech forem OK – záleží na tom, zda je to umožněno také ve členských státech, jejichž právem se řídí zúčastněné OK
+•	obdobný proces se zakladními rozdíly:
+o	(1) osvědčení pro přeshraniční přeměnu
+	splnění uvedených podmínek potvrdí v každém členském státu pro tam sídlící zúčastněné OK určený orgán (notář), a vydá osvědčení pro přeshraniční přeměnu
+o	(2) zapojení zaměstnanců
+	míra účasti zaměstnanců na řízení nástupnických OK určena dohodou mezi zúčastněnými OK a vyjednávajícím výborem (zástupci zaměstnanců)
+	výsledkem dohody je smlouva o rozsahu práva vlivu zaměstnanců
+•	není-li dohoda neuzavřena, o způsobu zapojení rozhodne výbor zaměstnanců
+•	není-li rozhodnutí přijato, zvolí se způsob, který zaměstnancům poskytuje největší míru vlivu
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -5800,6 +5923,12 @@ Zakládání právnických osob právnickými osobami.
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
+
+- [x] Banky
+- [x] Pojišťovny a zajišťovny
+- [x] Družstevní záložny
+- [x] Investiční společnosti
+- [x] Investiční fondy
 
 \|--------------\| <br>
 \| Paragrafy \| <br>

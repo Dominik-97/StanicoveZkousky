@@ -99,16 +99,16 @@ Hotovo 5/30
 - [ ] Otázka 15
 - [ ] Otázka 16
 - [x] Otázka 17
-- [ ] Otázka 18
-- [ ] Otázka 19
-- [ ] Otázka 20
-- [ ] Otázka 21
+- [x] Otázka 18
+- [x] Otázka 19
+- [x] Otázka 20
+- [x] Otázka 21
 - [ ] Otázka 22
 - [ ] Otázka 23
-- [ ] Otázka 24
+- [x] Otázka 24
 - [ ] Otázka 25
 - [ ] Otázka 26
 - [ ] Otázka 27
 - [ ] Otázka 28
-- [ ] Otázka 29
-- [ ] Otázka 30
+- [x] Otázka 29
+- [x] Otázka 30
