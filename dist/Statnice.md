@@ -4491,61 +4491,64 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
       - smlouvy se spotřebitely mají poměrně mnoho zakázaných ujednání, které jsou stiženy absolutní neplatností - například ve vztahu k ochraně spotřebitele
 
 **POVINNOSTI PODNIKATELE ZE SPOTŘEBITELSKÝCH SMLUV**
-- 1- VZTAH PODNIKATEL-SPOTŘEBITEL
--	↑ specializace výroby/produktů > ↓ reálná schopnost osob činit plně informované rozhodnutí o pořízení
--	spotřebitel má zřídka možnost prosadit svou vůli ohledně podmínek pořízení (jen volbou jiného podnikatele)
--	informační deficit, hosp. nerovnost > silnější postavení > neochota modifikovat navržené smluvní podmínky
--	> p. úprava ČR+EU > snaha překonat materiální nerovnost, posílit slabší faktické postavení spotřebitelů
-2. PRAMENY PRÁVNÍ ÚPRAVY
-─	jeden z nejvýznamnějších cílů evropského práva  řada směrnic implementovaných do právních řádů ČS
-A)	OZ – část věnovaná spotřebitelským smlouvám:
-•	směrnice EP a Rady o právech spotřebitelů  obecná informační povinnost vůči spotřebiteli + režim smluv uzavíraných distančně nebo mimo obchodní prostory
-•	směrnice Rady o nepřiměřených podmínkách ve spotřebitelských smlouvách – zákaz smluvních podmínek (individuálně nesjednaných), které zakládají výraznou nerovnováhu práv a povinností
-•	směrnice o uvádění finančních služeb pro spotřebitele na trh na dálku
-•	směrnice o ochraně spotřebitele ohledně někt. aspektů timesharing smluv (dočasné užívání ubyt.zařízení)
-B)	dílčí ochrana spotřebitele v OZ:
-•	zákaz sjednání propadné zástavy i poté, co zajištěný dluh dospěje (se spotřebiteli + malými/stř. podnikateli)
-•	zvláštní úprava kupní smlouvy (§ 2158 an., prodej zboží v obchodě) ← směrnice o někt. aspektech prodeje spotřebního zboží a záruky X český OZ navíc: i na PO nakupující mimo souvislost s podnikáním
-C)	soutěžní právo + právo proti nekalé soutěži
-•	směrnice o nekalých obch. praktikách vůči spotřebitelům na vnitřním trhu > zák. o ochraně spotřebitele
-D)	informační povinnost vůči spotřebiteli: široká škála dalších předpisů
-•	zákon o cenách ← směrnice o ochraně spotřebitele při označování cen výrobků nabízených spotřebiteli
-•	zákon o spotřebitelském úvěru ← směrnice o smlouvách o spotřebitelském úvěru + sm. o s. ú. na nemovitosti
-E)	obecná úprava závazkového práva
-─	kromě speciálního režimu je také třeba subsidiárně aplikovat obecnou úpravu závazkového práva
-•	obecné instituty OZ (ochrana slabší strany, neúměrné krácení, ujednání v rozporu s DM, VP)
-•	další p. předpisy: zákon o regulaci reklamy, zákon o provozování rozhlasového a TV vysílání
--	§ 1812 OZ: nelze se vzdát ochrany spotřebitele (ani ujednáním, ani jednostranně) > nepřihlíží se
-3. ZÁKLADNÍ POJMOSLOVÍ
-─	i) spotřebitelská smlouva
--	= smlouva, kterou podnikatel uzavře se spotřebitelem
--	není samostatným smluvním typem  může jí být jakýkoli smluvní typ i smlouva nepojmenovaná (uplatní se i u smluv regulovaných zvl. předpisy – svob. povolání – služby poskytované advokátem)
--	definičním znakem jsou její smluvní strany  B2C vztahy (business-to-consumers)
-─	ii) podnikatel
--	osoba, která při oslovení spotřebitelů, vyjednávání, uzavírání a plnění smlouvy vystupuje v souvislosti se svou podnikatelskou činností (§ 420 OZ)
--	↪ širší pojetí  osoba, která uzavírá smlouvu 1) související s její vlastní obchodní, výrobní nebo obdobnou činností [činnost obdobná podnikání, nevykazuje některý z jeho znaků (např. účel dosažení zisku > neziskovky, osoby veř. práva – VŠ, nemocnice…)] + 2) při samostatném výkonu svého povolání
--	↪ správního deliktu se dopustí ten, kdo vyvolává dojem nebo nepravdivě uvádí, že nejedná v rámci své podnikatelské činnosti
-─	iii) spotřebitel
--	§ 419 OZspotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti uzavírá smlouvu s podnikatelem nebo s ním jinak jedná > spotřebitelem nemůže být PO
--	status spotřebitele nelze vnímat absolutně – vždy záleží na okolnostech daného jednání
--	souvislost s podnikatelskou činností  problém v případě podnikatele FO – kdy jedná/nejedná v rámci své podnikatelské činnosti X smíšená povaha jednání (podnikatel FO kupuje mobilní telefon, který chce používat pro soukromé účely, ale také při podnikání)  evropská judikatura tenduje spíše k odmítnutí spotřebitelské ochrany (podnikatelský účel jednání by musel být zcela okrajový)
-─	iv) smlouva uzavíraná distančním způsobem (distanční smlouva)
--	smlouvy, které jsou vyjednávány výlučně s využitím tzv. komunikačních prostředků na dálku
--	↪ poštovní služba, internet, telefon nebo fax
--	spotřebitel zde nepřichází do přímého kontaktu s podnikatelem (jeho z-ci) a nemá možnost si zboží prohlédnout nebo vyzkoušet v kamenném obchodě
-─	v) smlouva uzavíraná mimo obchodní prostory (tzv. „podomní prodej“)
--	1) především podomní prodej stricto sensu – podnikatel nabízí zboží a kontrahuje se spotřebitelem přímo v jeho domácnosti nebo na pracovišti
--	2) prodej v jiných prostorech (mimo obvyklý prostor) – veřej. prostranství, veřej. dopr. prostředky
--	obvyklý prostor = sídlo podnikatele, jeho pobočka, stánek, pojízdná prodejna či jiná prodejna
--	3) i smlouvy, které sice byly uzavřené v prostoru obvyklém pro podnikatelovo podnikání, avšak bezprostředně poté, co podnikatel oslovil spotřebitele mimo tyto prostory (nalákal je dovnitř)
--	4) i prodejní zájezdy (Šmejdi)  podnikatelé mají oznamovací povinnost vůči ČOI (§ 20 zák. o ochraně spotřebitele), během akce + 7 dní po skončení nesmí požadovat plnění na kupní cenu
-4. KOMUNIKACE PODNIKATELE SE SPOTŘEBITELEM
-─	i) povinnost jasné a srozumitelné komunikace
--	sdělení podnikatele spotřebiteli musí být jasná a srozumitelná (§1812; určitost+srozum PJ -§553)
--	tato jasná sdělení musí být předkládána v jazyce, v němž se uzavírá smlouva
--	porušení povinnosti jasné a srozumitelné komunikace je podnikateli přičítáno k tíži při výkladu PJ
--	↪ lze-li obsah smlouvy vyložit různým způsobem > k tíži toho, kdo výraz použil jako první (§ 557) > lex specialis: výklad pro spotřebitele nejpříznivější (§ 1812 OZ) (tj. i kdyby výraz použil první spotřebitel)
--	↪ nelze-li výkladem určit obsah > zdánlivé PJ
+- **1- VZTAH PODNIKATEL-SPOTŘEBITEL**
+  -	↑ specializace výroby/produktů > ↓ reálná schopnost osob činit plně informované rozhodnutí o pořízení
+  -	spotřebitel má zřídka možnost prosadit svou vůli ohledně podmínek pořízení (jen volbou jiného podnikatele)
+  -	informační deficit, hosp. nerovnost > silnější postavení > neochota modifikovat navržené smluvní podmínky
+  -	> p. úprava ČR+EU > snaha překonat materiální nerovnost, posílit slabší faktické postavení spotřebitelů
+
+- **2- PRAMENY PRÁVNÍ ÚPRAVY**
+  -	jeden z nejvýznamnějších cílů evropského práva -> řada směrnic implementovaných do právních řádů ČS
+    - A)	OZ – část věnovaná spotřebitelským smlouvám:
+      - směrnice EP a Rady o právech spotřebitelů  obecná informační povinnost vůči spotřebiteli + režim smluv uzavíraných distančně nebo mimo obchodní prostory
+      - směrnice Rady o nepřiměřených podmínkách ve spotřebitelských smlouvách – zákaz smluvních podmínek (individuálně nesjednaných), které zakládají výraznou nerovnováhu práv a povinností
+      - směrnice o uvádění finančních služeb pro spotřebitele na trh na dálku
+      - směrnice o ochraně spotřebitele ohledně někt. aspektů timesharing smluv (dočasné užívání ubyt.zařízení)
+    - B)	dílčí ochrana spotřebitele v OZ:
+      - zákaz sjednání propadné zástavy i poté, co zajištěný dluh dospěje (se spotřebiteli + malými/stř. podnikateli)
+      - zvláštní úprava kupní smlouvy (§ 2158 an., prodej zboží v obchodě) ← směrnice o někt. aspektech prodeje spotřebního zboží a záruky X český OZ navíc: i na PO nakupující mimo souvislost s podnikáním
+    - C)	soutěžní právo + právo proti nekalé soutěži
+      - směrnice o nekalých obch. praktikách vůči spotřebitelům na vnitřním trhu > zák. o ochraně spotřebitele
+    - D)	informační povinnost vůči spotřebiteli: široká škála dalších předpisů
+      - zákon o cenách ← směrnice o ochraně spotřebitele při označování cen výrobků nabízených spotřebiteli
+      - zákon o spotřebitelském úvěru ← směrnice o smlouvách o spotřebitelském úvěru + sm. o s. ú. na nemovitosti
+    - E)	obecná úprava závazkového práva
+      -	kromě speciálního režimu je také třeba subsidiárně aplikovat obecnou úpravu závazkového práva
+      - obecné instituty OZ (ochrana slabší strany, neúměrné krácení, ujednání v rozporu s DM, VP)
+      - další p. předpisy: zákon o regulaci reklamy, zákon o provozování rozhlasového a TV vysílání
+      -	§ 1812 OZ: nelze se vzdát ochrany spotřebitele (ani ujednáním, ani jednostranně) > nepřihlíží se
+
+- **3- ZÁKLADNÍ POJMOSLOVÍ**
+  -	i) spotřebitelská smlouva
+    -	= smlouva, kterou podnikatel uzavře se spotřebitelem
+    -	není samostatným smluvním typem  může jí být jakýkoli smluvní typ i smlouva nepojmenovaná (uplatní se i u smluv regulovaných zvl. předpisy – svob. povolání – služby poskytované advokátem)
+    -	definičním znakem jsou její smluvní strany  B2C vztahy (business-to-consumers)
+  -	ii) podnikatel
+    -	osoba, která při oslovení spotřebitelů, vyjednávání, uzavírání a plnění smlouvy vystupuje v souvislosti se svou podnikatelskou činností (§ 420 OZ)
+      - širší pojetí  osoba, která uzavírá smlouvu 1) související s její vlastní obchodní, výrobní nebo obdobnou činností [činnost obdobná podnikání, nevykazuje některý z jeho znaků (např. účel dosažení zisku > neziskovky, osoby veř. práva – VŠ, nemocnice…)] + 2) při samostatném výkonu svého povolání
+      - správního deliktu se dopustí ten, kdo vyvolává dojem nebo nepravdivě uvádí, že nejedná v rámci své podnikatelské činnosti
+  -	iii) spotřebitel
+    -	§ 419 OZ -> spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti uzavírá smlouvu s podnikatelem nebo s ním jinak jedná > spotřebitelem nemůže být PO
+    -	status spotřebitele nelze vnímat absolutně – vždy záleží na okolnostech daného jednání
+    -	souvislost s podnikatelskou činností  problém v případě podnikatele FO – kdy jedná/nejedná v rámci své podnikatelské činnosti X smíšená povaha jednání (podnikatel FO kupuje mobilní telefon, který chce používat pro soukromé účely, ale také při podnikání)  evropská judikatura tenduje spíše k odmítnutí spotřebitelské ochrany (podnikatelský účel jednání by musel být zcela okrajový)
+  -	iv) smlouva uzavíraná distančním způsobem (distanční smlouva)
+    -	smlouvy, které jsou vyjednávány výlučně s využitím tzv. komunikačních prostředků na dálku
+      - poštovní služba, internet, telefon nebo fax
+    -	spotřebitel zde nepřichází do přímého kontaktu s podnikatelem (jeho z-ci) a nemá možnost si zboží prohlédnout nebo vyzkoušet v kamenném obchodě
+  -	v) smlouva uzavíraná mimo obchodní prostory (tzv. „podomní prodej“)
+    -	1) především podomní prodej stricto sensu – podnikatel nabízí zboží a kontrahuje se spotřebitelem přímo v jeho domácnosti nebo na pracovišti
+    -	2) prodej v jiných prostorech (mimo obvyklý prostor) – veřej. prostranství, veřej. dopr. prostředky
+      -	obvyklý prostor = sídlo podnikatele, jeho pobočka, stánek, pojízdná prodejna či jiná prodejna
+    -	3) i smlouvy, které sice byly uzavřené v prostoru obvyklém pro podnikatelovo podnikání, avšak bezprostředně poté, co podnikatel oslovil spotřebitele mimo tyto prostory (nalákal je dovnitř)
+    -	4) i prodejní zájezdy (Šmejdi)  podnikatelé mají oznamovací povinnost vůči ČOI (§ 20 zák. o ochraně spotřebitele), během akce + 7 dní po skončení nesmí požadovat plnění na kupní cenu
+
+- **4- KOMUNIKACE PODNIKATELE SE SPOTŘEBITELEM**
+  -	i) povinnost jasné a srozumitelné komunikace
+    -	sdělení podnikatele spotřebiteli musí být jasná a srozumitelná (§1812; určitost+srozum PJ -§553)
+    -	tato jasná sdělení musí být předkládána v jazyce, v němž se uzavírá smlouva
+    -	porušení povinnosti jasné a srozumitelné komunikace je podnikateli přičítáno k tíži při výkladu PJ
+      - lze-li obsah smlouvy vyložit různým způsobem > k tíži toho, kdo výraz použil jako první (§ 557) > lex specialis: výklad pro spotřebitele nejpříznivější (§ 1812 OZ) (tj. i kdyby výraz použil první spotřebitel)
+    - nelze-li výkladem určit obsah > zdánlivé PJ
 ─	ii) předsmluvní informační povinnosti
 -	spotřebitel: informační deficit X podnikatel, který své produkty prodává je v dané oblasti znalý
 -	§ 1811 OZ podnikatel v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebiteli učiní nabídku, sdělí spotřebiteli předepsané informace (údaje o podnikateli, vlastnosti produktu, cena, způsob platby, náklady na dodání, práva z vadného plnění, ze záruky)
