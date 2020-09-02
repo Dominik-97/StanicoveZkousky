@@ -21,8 +21,8 @@ Hotovo 0/30
 - [x] Otázka 7
 - [x] Otázka 8
 - [x] Otázka 9
-- [x] Otázka 10
-- [x] Otázka 11
+- [ ] Otázka 10
+- [ ] Otázka 11
 - [x] Otázka 12
 - [x] Otázka 13
 - [x] Otázka 14
@@ -48,20 +48,20 @@ Hotovo 0/30
 Hotovo 2/30
 
 - [x] Otázka 1 - dist/Statnice.md
-- [x] Otázka 2 - dist/Statnice.md
+- [ ] Otázka 2 - dist/Statnice.md
 - [x] Otázka 3 - dist/Statnice.md
 - [ ] Otázka 4 - Podklady
-- [ ] Otázka 5 - Podklady
+- [x] Otázka 5 - Podklady
 - [ ] Otázka 6 - Podklady
 - [ ] Otázka 7 - Podklady
 - [ ] Otázka 8 - Podklady
 - [ ] Otázka 9 - Podklady
 - [ ] Otázka 10 - Podklady
-- [ ] Otázka 11 - Podklady
-- [ ] Otázka 12 - Podklady
-- [ ] Otázka 13
-- [ ] Otázka 14
-- [ ] Otázka 15
+- [x] Otázka 11 - Podklady
+- [x] Otázka 12 - Podklady
+- [x] Otázka 13
+- [x] Otázka 14
+- [x] Otázka 15
 - [ ] Otázka 16
 - [ ] Otázka 17
 - [ ] Otázka 18

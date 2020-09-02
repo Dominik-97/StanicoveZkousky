@@ -2139,7 +2139,7 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
 
 - **Smlouvy**
   - **Obecně**
-    - Právní důvod vzniku závazku
+    - Právní důvod vzniku závazku (obecná definice), speciálně se použijí určitá ustanovení týkající se uzavírání smluv - B2B, či B2C
     - Právní vztah, jimiž strany projevují vůli zřídit mezi sebou závazek a řídit se obsahem tohoto závazku (smlouvy)
       - Ustanovení o smlouvě se použijí obdobně i na projev vůle, kterým se jedna osoba obrací na jiné osoby (ledaže je to vyloučeno povahou dané vůle nebo zákonem)
     - Pokud je při témžě právním jednání uzavřeno několik smluv, nebo pokud je do jedné listiny zahrnuto více smluv -> posuzují se samostatně, ledaže jsou na sobě závislé -> pak se posuzují společně co do vzniku a zániku
@@ -2149,12 +2149,14 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
     - **Povinnost sdělit si mezi stranami podstatné skutkové a právní okolnosti** -> kvůli možnosti "kvalifikovaně" se rozhodnout
   - **Uzavírání smlouvy**
     - Základní způsob uzavření smlouvy spočívá v:
+    - Před ofertou se ještě rozlišuje předsmluvní negociační fáze - uplatňujíc se vní zásady smluvní volnosti a autonomie stran, ochrana legitimního očekávání spojeného s uzavřením smlouvy, ochrana obchodního tajemství a důvěrných informací
       - 1- Učinění návrhu na uzavření smlouvy (jinak také oferta)
         - **Náležitosti**
           - Právní jednání směřující k uzavření smlouvy = **nabídka**
+          - Je buď adresované, nebo neadresované, viz níže
           - Musí existovat zřejmá existence úmyslu navrhovatele uzavřít smlouvu s osobou, které činí nabídku
-          - Musí obsahovat podstatné náležitosti smlouvy a vůli navrhovatel být nabídkou vázán, bude-li přijata
-            - VEDLEJŠÍ (Za nabídku se však dá považovat i reklama v katalogu, nebo vystavení zboží (při podnikatelské činnosti))
+          - Musí obsahovat podstatné náležitosti smlouvy a vůli navrhovatel být nabídkou vázán, bude-li přijata - tedy musí obsahovat podstatné náležitosti pojmenovaných smluv, v případě **nepojmenovaných smluv** pak musí jasně vymezovat práva a povinnosti smluvních stran
+            - VEDLEJŠÍ (Za nabídku se však dá považovat i reklama v katalogu, nebo vystavení zboží (při podnikatelské činnosti)) -> tu pak jako nabídku může zákazník koupí přijmout (považuje se to za nabídku s výhradou vyčerpání zásob a ztráty podnikatele schopnosti plnit)
           - Pokud právní jednání neobsahuje výše uvedené = nejedná se o nabídku a nemůže být přijata
           - **Veřejný příslib a výzva k podání nabídky**
             - Nabídku je možné učinit rovně ve formě takzvaného **veřejného příslibu** -> obsahuje li projev vůle nabízejícího slib plnění za určitý výkon či výsledek (Kdo najde mého psa, vyplatím mu odměnu ve výši 5000 korun českých).
@@ -2165,10 +2167,12 @@ povinnosti: u závazkových práv povinnosti spočívají v konání i k nekoná
           - **Zánik nabídky**
             - Účinností odmítnutí
             - Dále úmrtí, omezení svéprávnosti, zánik (PO)
+          - **Rámcová smlouva**
+            - upravují podmínky mezi podnikateli *pro futuro*, vymezují tedy nějaký základní *frame* smlouvy, který pak bude doplněn a specifikován o podstatné náležitosti
       - 2- Přijetí návrhu (nabídky) na uzavření smlouvy -> účinnost smlouvy (jinak také akceptace)
         - **Náležitosti**
           - Přijetí nabídky -> ve chvíli kdy je včas (například ve lhůtě) projeven souhlas nabídku přijmout (mlčení, nebo nečinnost zpravidla není souhlas), ale lze přijmout i konkludentně (například při obchodních zvyklostech)
-          - Přijetí se změnami -> jedná se o nový souhlas
+          - Přijetí se změnami -> jedná se o odmítnutí původní nabídky a stanovení nové -> proces začíná od znovu, pokud jsou však změny malého rázu - nejde o změnu nabídky, pokud původní oferent změny bez zbytečného odkladu přijme
           - Pokud je nabídka určena více lidem a z povahy nabídky navrhovatel chce, aby všichni lidi nabídku přijali -> považuje se za přijatou přijetím všech oslovených
           - Přijetí lze zrušit - pokud zrušení přijde alespoň současně s přijetím nabídky
           - Smlouva je uzavřena okamžikem účinnosti přijetí
@@ -4386,7 +4390,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 
 -	**obecné zásady v závazkových vztazích podnikatele:**
   -	1- usnadnění obchodního styku -> nabídka reklamou, určení části obsahu obchodní smlouvy odkazem na obchodní podmínky, používání doložek s pevně stanoveným významem (ve vykládacích pravidlech)…
-    - Doložka je podobná adhezní smlouvě, jedná se tedy o nějakou postraní listinu, která obsahuje nějaké dodatečné údaje vázající se ke smluvnímu vztahu, může tak například nějaká obecná pravidla, se kterými druhá strana má souhlasit
+    - Doložka je podobná adhezní smlouvě, jedná se tedy o nějakou postraní listinu, která obsahuje nějaké dodatečné údaje vázající se ke smluvnímu vztahu, může tak například nějaká obecná pravidla, se kterými druhá strana má souhlasit, může například určovat vykládací pravidla, kterými se smluvní strany budou řídit
   -	2- zpřísnění požadavků na podnikatele:
     -	a- rozsáhlé informační povinnosti – plní podnikatel ve vztahu ke třetím osobám -> zpřístupnění řady údajů ve veř. rejstřících (OR, ŽR), povinnost uvádět na obchodních listinách zákonem dané údaje
       - viz například smlouvy uzavírané se spotřebitelem -> rozsáhlá informační povinnost podnikatele před uzavřením smlouvy
