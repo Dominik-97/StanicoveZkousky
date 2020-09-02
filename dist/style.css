@@ -328,7 +328,15 @@ h2, h3 {
 page-break-after: avoid;
 }
 }*/
+
+html {
+    margin: 0;
+    height: 100%;
+}
+
 body {
+  margin: 0;
+  height: 100%;
   background-color: grey;
 }
 
