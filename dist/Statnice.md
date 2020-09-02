@@ -4642,7 +4642,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 - [x] Zásady zadávání veřejných zakázek
 - [x] Druhy a režimy veřejných zakázek
 - [x] Zadávací řízení
-- [ ] Veřejné zakázky malého rozsahu
+- [x] Veřejné zakázky malého rozsahu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -4695,7 +4695,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
     -	b) **pravé výjimky** z povinnosti zadat veřejnou zakázku v zadávacím řízení
       -	i) obecné – bez ohledu na druh zadávacího řízení a předmět veřejné zakázky
         - jedná se například o situace, kdy by veřejnou zakázkou bylo ohroženo veřejné zdraví etc.
-        - výjimka je rovněž pro zakázky malého rozsahu – ale i tak je povinen dodržovat základní zásady zadávacího řízení
+        - **výjimka je rovněž pro zakázky malého rozsahu – ale i tak je povinen dodržovat základní zásady zadávacího řízení**
       -	ii) zvláštní – vztahují se jen k určitému druhu zadávacího řízení/předmětu VZ
         - zvláštní případy k jednotlivým druhům zakázek, kdy je není potřeba zadávat formou veřejných zakázek
 
