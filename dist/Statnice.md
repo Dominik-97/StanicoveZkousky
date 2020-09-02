@@ -985,6 +985,8 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   - Ahojda
 - **Právní jednání**
   - **jedná se o projev vůle směřující ke vzniku, změně, nebo zániku práv a povinností - v souladu s právem**
+  - vykládá se podle svého obsahu - pokud je více výkladů, jde rozdílný výklad k tíži toho, kdo ho použil jako první
+    - v právním styku podnikatelů -> význam se přisoudí podle toho jaký ma v obchodních stycích pravidelně význam
   - nejvýznamější občanskoprávní skutečnost
   - vyvolává právní následky, které jsou v něm vyjádřeny i ty plynoucí ze zákona, dobrých mravů, zvyklostí nebo zavedené praxe stran
   - PJ musí obsahem i účelem odpovídat zákonu i dobrým mravům a veřejnému pořádku
@@ -1045,8 +1047,8 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   - Absolutní - neplatnost je absolutní, soud k ní přihlédne i bez návrhu -> pokud se zjevně příčí dobrým mravům, narušuje veřejný pořádek, nebo je plnění od počátku nemožné, v ostatních případech se jedná o neplatnost relativní
   - Relativní - neplatnost je relativní, soud k ní přihlédne jen na návrh
   - má se za to, že každé jednání je spíše platné, nežli neplatné
-  - neplatné právní jednání nemá žádné účinky, krom náhrady škody
-  - od neplatnosti je potřeba odlišovat zdánlivé (nulitní) právní jednání -> na to se hledí, jako by od počátku nebylo - například pro nedostatek vůle
+  - neplatné právní jednání nemá žádné účinky, krom náhrady škody, neplatné je tedy například právní jednání, kterým někdo někoho uvedl v **omyl**
+  - od neplatnosti je potřeba odlišovat zdánlivé (nulitní) právní jednání -> na to se hledí, jako by od počátku nebylo - například pro nedostatek vůle, nebo jeho nesrozumitelnosti a nemožnosti výkladu
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
