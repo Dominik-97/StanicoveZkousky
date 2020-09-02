@@ -4031,12 +4031,12 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|---------\| <br>
 
 - [ ] Práva k nehmotným statkům při podnikání
-  - [ ] Vynýlez
+  - [x] Vynýlez
   - [ ] Užitný vzor
   - [ ] Průmyslový vzor
   - [ ] Topografie polovodičového výrobku
   - [ ] Odrůda rostlin
-  - [ ] Zlepšovací návrh
+  - [x] Zlepšovací návrh
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -4126,6 +4126,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     - TRIPS – Dohoda o obchodních aspektech práv duševního vlastnictví (přijata v rámci WTO)
 
 - **výsledky tvůrčí duševní činnosti**
+  - Každý druh má svůj vlastní rejstřík, do kterého se po podání a schválení přihlášky zapisuje
   - **1- vynález**
     -	vynález je chráněn patentem, který je v ČR udělován Úřadem průmyslového vlastnictví (ÚPV)
     -	znaky vynálezu způsobilého k patentové ochraně:
@@ -4151,13 +4152,17 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     -	právní ochrana je udělena na základě zápisu do rejstříku užitných vzorů u ÚPV na dobu 4 let s 3letým prodlužováním (max. 10 let)
     -	řízení rychlé, proveden po formálním přezkumu
     - obsahuje i negativní definici co nemůže být UV
+    - podání také u ÚVP
   - **3- průmyslový vzor**
     -	vzhled výrobku nebo jeho části spočívající ve znacích linií, obrysů, barev, tvaru, struktury nebo materiálů výrobku samého nebo jeho zdobení představuje estetické aspekty designu
     -	způsobilý k ochraně, je-li nový a má-li individuální podobu zápisem do rejstříku prům. vzorů u ÚPV na dobu 5 let, kterou lze max. 4x obnovit  max. 25 let
     -	nevztahuje se na znaky, kt. jsou předurčeny jeho technickou funkcí (např. závit objímky u žárovky)
     -	nařízení ES o ochraně průmyslových vzorů Společenství – stačí zápis na Úřadu EU pro duševní vlastnictví (EUIPO) (Alicante) na základě 1 přihlášky > pro všechny země EU
+    - jinak možno pokuj jen Čr chce se ocrana - ÚVP
   - **4- topografie polovodičového výrobku (čipu)**
     - zobrazení znázorňující trojrozměrné uspořádání vrstev – max. na dobu 10 let a to poprvé od chvíle, kdy byla veřejně obchodně využita
+    - jedná se o znázornění polovodičů (například čipů)
+    - zápis také u ÚVP
   - **5- odrůda rostlin**
     - novost, odlišnost, uniformita a stálost Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
   - **6-	zlepšovací návrh**
