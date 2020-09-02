@@ -4636,6 +4636,13 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Zadání veřejné zakázky
+- [ ] Zadavatel a dodavatel
+- [ ] Zásady zadávání veřejných zakázek
+- [ ] Druhy a režimy veřejných zakázek
+- [ ] Zadávací řízení
+- [ ] Veřejné zakázky malého rozsahu
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
