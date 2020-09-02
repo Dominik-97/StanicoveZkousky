@@ -4072,7 +4072,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
   - **práva k průmyslovému vlastnictví**
     - týkají se ochrany ideje, tedy toho pravého nehmotného vlastnictví
     - jednotlivé typy ochran jsou pak například ve vztahu k vynálezu, k technickému řešení, ke vzhledu etc.
-    - je možné je obnovovat do nekonečna (v nějakých případech)
+    - je možné je obnovovat do nekonečna (v nějakých případech) v některých zemích
 
 - **Základy ochrany ochrany subjektivních práv vycházejících z nehmotných statků jsou chráněny listinou základních práv a svobod**
   -	LZPS: čl. 34 práva k výsledkům tvůrčí činnosti = chráněno zákonem, čl. 11 vlastnictví, právo na něj, a ochrana, čl. 15 svoboda umělecké, vědecké tvorby = zaručena, čl. 26 svoboda podnikání = právo svobodně vykonávat a svobodně vybrat
@@ -4230,17 +4230,18 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
   - Většina státních podnikú byla v minulých letech změněna na akciové společnosti, takže jich zbývá jen velmi málo – např. Česká pošta, s. p., Státní tiskárna cenin, s. p., Lesy České republiky, s. p. ….
   - Právní formu je možno označit zkratkou „s. p.“.
 - **Zakladatelé**
-  - Zakladatelem státního podniku je stát, konkrétně jeho jménem příslušné ministerstvo po předchozím souhlasu vlády.
+  - Zakladatelem státního podniku je stát, konkrétně jeho jménem příslušné ministerstvo po předchozím souhlasu vlády - **založená za účelem plnění strategických, hospodářských, společenských, bezpečnostních nebo dalších zájmů státu**
   - Podnik se zakládá zakládací listinou.
   - Zakládací listina musí obsahovat: označení ministerstva, které vykonává funkci zakladatele, obchodní jméno a sídlo zakládaného podniku, hlavní předmět podnikání, výši kmenového jmění, určení ředitele a jeho oěřený podpis, počet členů dozorčí rady a další údaje, které stanoví zákon.
 - **Vznik podniku**
   - Státní podnik vzniká dnem zápisu do obchodního rejstříku.
   - Vzniku podniku předchází jeho založení, které zajišťuje příslušné ministerstvo.
 - **Zdroj kapitálu**
-  - Státní podnik nemá v začátku vlastní majetek, ale má právo hospodařit s majetkem státu, který je určen v zakládací listině.
-  - Hospodařením se svěřeným majetkem státu si státní podnik vyváří svůj obchodní majetek - zisk, který je přerozdělován v rámci podniku.
+  - Státní podnik nemá v začátku vlastní majetek, ale má právo hospodařit s majetkem státu - kmenový kapitál, který je určen v zakládací listině, v listině se také určuje další takzvaný **určený majetek** - jedná se o důležitý majetek, jako například budovy -> je s ním možné nakládat jen se souhlasem zakladatele
+  - Hospodařením se svěřeným majetkem státu si státní podnik vyváří svůj obchodní majetek, respektive ostatní majetek, se kterým může volně nakládat - zisk, který je přerozdělován v rámci podniku.
+  - Obchodním majetkem je souhrn věcí, práv a jiných majetkových hodnot státu, s nimiž má podnik právo hospodařit.
 - **Statutární orgán**
-  - Statutárním orgánem státního podniku je ředitel.
+  - Statutárním orgánem státního podniku je ředitel - pouze jeden ředitel.
   - Ředitel řídí činnost podniku a rozhoduje o všech jeho záležitostech, kromě těch které jsou zákonem vyhrazeny do působnosti zakladatele.
   - Ředitel je jmenován a odvoláván ministrem (pokud si toto právo nevyhradí vláda).
   - Ředitel jmenuje a odvolává své zástupce, ti se zapisují do obchodního rejstříku.
