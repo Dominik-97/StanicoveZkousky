@@ -4638,8 +4638,8 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \|---------\| <br>
 
 - [ ] Zadání veřejné zakázky
-- [ ] Zadavatel a dodavatel
-- [ ] Zásady zadávání veřejných zakázek
+- [x] Zadavatel a dodavatel
+- [x] Zásady zadávání veřejných zakázek
 - [ ] Druhy a režimy veřejných zakázek
 - [ ] Zadávací řízení
 - [ ] Veřejné zakázky malého rozsahu
@@ -4652,6 +4652,55 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+**PRÁVNÍ ÚPRAVA A JEJÍ FUNKCE**
+  -	je nutno chápat jako úpravu zvláštního kontraktačního procesu, jehož zamýšleným výsledkem je uzavření obchodní smlouvy mezi zadavatelem na straně jedné a dodavatelem na straně druhé
+    -	§ 2 zákona o zadávání v.z. -> zadáním veřejné zakázky se rozumí uzavření úplatné smlouvy mezi zadavatelem a dodavatelem, z níž vyplývá povinnost dodavatele poskytnout dodávky, služby nebo stavební práce
+  -	důvodem zvláštní úpravy -> nutnost ochrany veřejných statků před jejich neefektivním vynakládáním
+    - potřeba zajistit, aby uzavřená smlouva odpovídala nejlepší možné nabídce + předcházení negativním vlivům jako je korupce -> vyhrává ekonomicky nejvýhodnější nabídka
+  -	přísná a podrobná regulace celého kontraktačního procesu -> ten je značně zformalizovaný a všechny jeho významné fáze jsou upraveny (vyhlášené zadání, stanovení požadavků na uchazeče, způsob zpracování nabídek, postup hodnocení nabídek, informační povinnosti, uzavření smlouvy atd.)
+
+**ZÁKLADNÍ ZÁSADY ZADÁVÁNÍ VEŘEJNÝCH ZAKÁZEK**
+  -	jsou formulovány v § 6 ZZVZ:
+    -	i) zásada transparentnosti – řada podrobných a formalizovaných informačních povinností zadavatele
+    -	ii) zásada přiměřenosti – takové zadání, které bude odpovídat obsahu a rozsahu poptávaného plnění
+    -	iii) zásada rovného zacházení – podrobná úprava vtahu zadavatele vzhledem ke všem uchazečům a veřejnou zakázku
+    -	iv) zásada zákazu diskriminace – vyloučení uchazečů jen na základě zákonných důvodů a zákaz užití některých omezujících podmínek pro účast v zadávacím řízení
+
+**PRAMENY PRÁVNÍ ÚPRAVY**
+  -	řada směrnic EU, které upravují právní úpravu veřejných zakázek
+    - směrnice EP a Rady o zadávání veřejných zakázek
+  -	národní právní úpravou je zcela nový zákon č. 134/2016 Sb., **o zadávání veřejných zakázek** -> zpracoval relevantní unijní směrnice a zrušil starý zákon o veřejných zakázkách z r. 2006
+  -	dále je důležitá úprava tzv. nabídkových řízení, která se uplatní ve veřejných službách v přepravě cestujících -> zákon č. 194/2010 Sb., o veřejných službách v přepravě cestujících -> cílem je efektivní a hospodárné nakládání s veřejnými zdroji při zjištění dopravní obslužnosti
+
+**SMLUVNÍ STRANY VE VEŘEJNÝCH ZAKÁZKÁCH**
+─	zadavatel = osoba, které má být na základě smlouvy upravené ustanoveními o zadávání veřejných zakázek poskytnuto plnění, a to za úplatu, jež bude vynaložena z veřejných zdrojů
+─	zákon člení zadavatele na veřejné zadavatele a zadavatele ostatní (dotovaní a sektoroví)
+─	veřejným zadavatelem je ČR a org. složky státu, ČNB, státní příspěvkové organizace, ÚSC a jejich příspěvkové organizace a jiné PO, pokud byly založeny nebo zřízeny za účelem uspokojování potřeb veřejného zájmu
+─	dotovaným zadavatelem je osoba, která získává veřejnou zakázku hrazenou z více než 50 % z peněžních prostředků poskytnutých z rozpočtu veřejného zadavatele, rozpočtu EU apod., nebo zdroje z těchto rozpočtů přesahují částku 200 mil. Kč; dále se nesmí jednat o zakázky malého rozsahu
+─	sektorovým zadavatelem je zadavatel disponující zvláštními nebo výhradními právy udělenými k tomu příslušným orgánem VM, a to k relevantním činnostem ve specifických a v zákoně definovaných oblastech hospodářství (např. plynárenství, energetika, drážní, veř. doprava apod.)
+─	možnost spolupráce zadavatelů, která může mít podobu:
+-	a) centralizované zadávání – provádí centrální zadavatel
+-	b) přímá spolupráce více zadavatelů – povinnost uzavřít písemnou smlouvu
+─	dodavatel – FO/PO, které mohou potencionálně projevit zájem účastnit se zadávacího řízení, podat nabídku a následně poskytnou i poptávané plnění
+─	pojem uchazeč je bezprostředně spojen se samotnou účastí v příslušném zadávacím řízení
+─	vybraný dodavatel je ten účastník zadávacího řízení, jehož nabídka byla zadavatelem vyhodnocena jako nejlepší a se kterým se rozhodl uzavřít smlouvu
+5. POVINNOST ZADAT VEŘEJNOU ZAKÁZKU V ZADÁVACÍM ŘÍZENÍ
+─	zadavatel je ze zákona povinen zadat veřejnou zakázku v zadávacím řízení nebo použít některý z postupů, který je považován za srovnatelný z hlediska naplnění cílů a smyslu zákonné úpravy veřejných zakázek
+-	a) nepravé výjimky, dané určitým druhem spolupráce zadavatele a dodavatelů
+-	= zákonem předvídané formy spolupráce zadavatelů a dodavatelů, u nichž se díky jejich úzkému vztahu nepovažuje uzavření smlouvy za zadání veřejné zakázky
+-	nebo takové případy, kdy dochází k uzavření smlouvy přímo mezi veřejnými zadavateli
+-	b) pravé výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení
+-	i) obecné – bez ohledu na druh zadávacího řízení a předmět veřejné zakázky
+-	ii) zvláštní – vztahují se jen k určitému druhu zadávacího řízení/předmětu VZ
+─	↪ výjimka pro zakázky malého rozsahu – ale i tak je povinen dodržovat základní zásady zadávacího řízení
+6. DRUHY VEŘEJNÝCH ZAKÁZEK
+─	lze je členit ve smyslu zákonné úpravy podle dvou kategorií, a to:
+-	a) podle předmětu plnění
+-	určení druhu a rozsahu plnění
+-	i) veřejné zakázky na dodávky – předmětem je pořízení věci, zvířat nebo ovladatelných přírodních sil; pořízením se rozumí zejména koupě, nájem nebo pacht
+-	ii) veřejné zakázky na služby – plnění spočívá v poskytování služeb, jež nemají souvislost se stavebními pracemi
+-	iii) veřejné zakázky na stavební práce – zhotovení stavby a poskytnutí souvisejících projektových činností
+-	b) podle předpokládané hodnoty veřejné zakázky (stanovuje nařízení vlády)
 - |              | Dod a Služ | D a S     | Stav | Stav      |
   | ------------ | ---------- | --------- | ---- | --------- |
   |              | od         | do        | od   | do        |
