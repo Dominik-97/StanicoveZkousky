@@ -4637,11 +4637,11 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Zadání veřejné zakázky
+- [x] Zadání veřejné zakázky
 - [x] Zadavatel a dodavatel
 - [x] Zásady zadávání veřejných zakázek
 - [x] Druhy a režimy veřejných zakázek
-- [ ] Zadávací řízení
+- [x] Zadávací řízení
 - [ ] Veřejné zakázky malého rozsahu
 
 \|--------------\| <br>
@@ -4734,7 +4734,30 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 
 **PODMÍNKY ÚČASTI V ZADÁVACÍM ŘÍZENÍ**
   - **kvalifikace** - základní a profesní, dále mohou být stanoveny další fakultativní podmínky na kvalifikaci
-  - **technické podmínky** - 
+  - **technické podmínky** - požadavky na vlastnosti předmětu veřejné zakázky
+  - **obchodní nebo jiné smluvní podmínky** - zvláštní podmínky plnění veřejné zakázky
+  - **jistota** - složení jistoty, která zajišťuje, že účastník má opravdu zájem, je stanovena její maximální výše
+
+**POSTUP V ZADÁVACÍM ŘÍZENÍ**
+  - 1- hodnocení nabídek
+    - hodnotí se dle zadávací dokumentace
+    - dále podle ekonomické výhodnosti a kvality nabídek
+    - v případě, že je VŘ nad hodnotu 300 milionů - musí být ustanovena speciální vyhodnocující komise
+  - 2- výběr dodavatele a uzavření smlouvy
+    - zadavatel má povinnost vybrat jednoho účastníka - stím se bez zbytečného odkladu uzavře smlouvy
+      - je stanovena lhůta na podávání námitek proti výběru, po jejím konci se smlouva uzavře
+    - ostatní účastníky je zadavatel povinen o svém rozhodnutí informovat a zveřejnit svoje rozhodnutí ve věstníku veřejných zakázek EU nebo na svém profilu
+
+VEDLEJŠÍ
+**Koncesní řízení** - nejedná se koncese ve smylsu živnostenského zákona
+  - koncese - uzavření koncesní smlouvy jako smlouvy úplatné, na jejímž základě se dodavatel zaváže k poskytnutíčinností v rámci stavebních prací nebo   poskytnutí služeb, za něž má od zadavatele právo na braní užitků vyplývajících z provozování stavby nebo poskytování služeb
+  - má charakter jednoho z nadlimitních řízení
+  - zpravidla uzavírána na dobu určitou, zpravidla na dobu 5 let
+
+**OCHRANA PROTI VÝBĚRU V ZADÁVACÍM ŘÍZENÍ**
+  - ochrany je možné dosáhnout primárně pomocí námitek - uplatnitelné na vše v rámci řízení, kdykoliv v řízení
+  - lhůta k podání činí 15 dnů, od kdy se účastník dozvěděl, že něco v řízení neproběhlo tak, jak má podle zákona
+    - lhůta na projednání zadavatele činí 15 dnů - může námitkám vyhovět - a pak zjedná nápravu, nebo je odmítnout - účastník pak může podat návrh na přezkoumání Úřadu pro ochranu hospodářské soutěže
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
