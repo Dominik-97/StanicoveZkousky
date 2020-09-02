@@ -5809,101 +5809,127 @@ Zakládání právnických osob právnickými osobami.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-OBECNĚ
-•	obsaženo ve zvláštních zákonech, které jsou ve vztahu speciality k úpravě v zákoně o obchodních korporacích a občanském zákoníku
-•	právo EU – nařízení o obezřetnostních požadavcích na úvěrové instituce a investiční podniky
-•	požadavek udělení povolení (licence) ČNB
-•	provozní požadavky a zásady hospodaření – účelem je zabezpečit obezřetný způsob hospodaření a vytváření dostatečných rezerv, korporace musí mít zpracováný odpovídající řídící a kontrolní systém
-Založení a vznik
-•	obecná právní úprava právní formy OK, která je pro danou činnost předepsána, doplněná o podmínky stanovené zvláštním zákonem
-•	požadavky na udělení povolení: dostatek finančních zdrojů, splacení ZK v požadované výši, důvěryhodnost a způsobilost osob, technická a organizační opatření
-•	povolení obsahuje vymezení podnikatelských činností, k jejichž provozování je zvláštní korporace oprávněna
-•	povolení je uděleno na dobu neurčitou a je nepřevoditelné
-Organizace zvláštní korporace
-•	zvláštní zákon stanovuje požadavky na jednotlivé orgány, popř. předepisuje povinnost zřídit další orgány (výbor pro audit, výbory pro rizika, úvěrová komise atd.)
-•	k přijetí některých zásadních rozhodnutí NO se vyžaduje souhlas orgánu státního dohledu (např. ČNB), jinak jsou neplatná; informační povinnost
-•	členové SO mají zvláště upravenou odpovědnost za plnění svých povinností
-•	další náležitosti stanov za účelem vyšší transparentnosti
-Společníci zvláštní korporace
-•	zájemci o nabytí kvalifikované účasti na zvláštní OK nebo o její ovládání musí požádat o souhlas dohledový orgán
-•	je posuzována důvěryhodnost žadatele (popř. jeho orgánů), odborná způsobilost a zkušenost atd.
-•	při neplnění zákonem stanovených podmínek může dohledový orgán společníkovi pozastavit výkon některých práv
-Státní dohled
-•	předmětem státního dohledu je dodržování podmínek povolení a právních předpisů
-•	korporace je povinna orgánu státního dohledu poskytnout stanovené podklady a informace
-•	dohledový orgán je oprávněn přijmout nápravná opatření a sankce vůči korporaci, např. nucenou správu korporace (pozastavuje se výkon funkce všech orgánů banky, správce má postavení SO)
-Zrušení a zánik
-•	platí obecná úprava doplněná zvláštním zákonem
-•	soud rozhodne o zrušení a likvidaci, pokud byly porušeny podmínky pro vznik nebo zákon
-•	likvidace – likvidátora jmenuje a odvolává soud na návrh ČNB
-BANKY
-•	banka je OK, jejímž účelem je provádět bankovní obchody: přijímat vklady, poskytovat úvěry a zajišťovat platební styk
-•	synonymem banky je spořitelna (dříve rozdíl – spořitelny byly zaměřené na FO)
-•	banka
-o	AS (nebo SE) se sídlem v ČR
-o	přijímá vklady od veřejnosti, poskytuje úvěry na základě bankovní licence
-o	další činnosti: platební styk a zúčtování, vydávání a správa platebních karet a cestovních šeků, poskytování záruk, otvírání akreditivů, obstarávání inkasa, poskytování investičních služeb atd.
-Založení a vznik banky
-•	žádost k udělení licence může předložit již vzniklá AS, zakladatel nové AS, spořitelní a úvěrní družstvo, pokud současně požádá o souhlas se změnou právní formy
-•	zvláštní požadavky na AS
-o	průhledný a nezávadný původ ZK a dalších finančních zdrojů banky, minimální výše ZK 500 000 000 Kč, splacený ZK v plné výši
-o	důvěryhodnost a odborná způsobilost osoby, které má být licence udělena, osob s kvalifikovanou účastí, nebo 20 největších akcionářů, členů volených orgánů
-o	požadavky na osoby úzce propojené s bankou (průhlednost, nesmí bránit bankovnímu dohledu)
-organizační struktura banky
-•	požadavky na volené orgány: představenstvo musí mít alespoň 3 členy, SR alespoň 5 (z nich jedním správní ředitel); členem voleného orgánu může být jen FO
-•	významná banka je povinna zřídit další orgány: výbor pro rizika, výbor pro jmenování, výbor pro odměňování
-•	povinnost zřídit výbor pro audit (3 členové, nejméně jeden nezávislý na bance)
-STAVEBNÍ SPOŘITELNY
-•	banka, která může vykonávat pouze činnosti, povolené v jí udělené bankovní licenci, kterými jsou stavební spoření a další činnosti podle zákona
-•	zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření
-•	stavební spoření – účelové spoření spočívající v přijímání vkladů od účastníků stavebního spoření, poskytování úvěrů účastníkům stavebního spoření, poskytování příspěvků účastníkům stavebního spoření
-•	další činnosti: poskytování úvěrů osobám uspokojujícím bytové potřeby, přijímání vkladů od bank a dalších finančních institucí, poskytování záruk za úvěry ze stavebního spoření, obchodování s dluhopisy atd.
-•	bankovní licenci uděluje stavební spořitelně ČNB; Ministerstvo financí schvaluje všeobecné obchodní podmínky stavební spořitelny a vykonává státní kontrolu
-DRUŽSTEVNÍ ZÁLOŽNY
-•	zákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech
-•	činnost: přijímání vkladů a poskytování úvěrů jenom svým členům
-•	další činnosti – pouze pro členy
-o	finanční leasing, platební styk, zúčtování a vydávání a správa platebních prostředků, poskytování záruk ve formě ručení nebo bankovní záruky, otvírání akreditivů, obstarání inkasa atd.
-•	firma musí obsahovat označení „spořitelní a úvěrní družstvo“/„družstevní záložna“/„spořitelní družstvo“/„úvěrní družstvo“
-•	hospodaření družstevní záložny – družstevní záložna zřizuje rizikový fond a rezervní fond
-Založení a vznik družstevní záložny
-•	nejméně 30 členů, musí být splacena částka nejméně 35 000 000 Kč ze ZK – družstvo se sídlem na území ČR
-Členství v družstevní záložně
-•	povinnost seznámit všechny uchazeče o členství se všemi skutečnostmi souvisejícími s členstvím
-•	družstevní podíl přechází na právního nástupce člena, který zemřel nebo zanikl, pokud je způsobilý
-•	družstevní podíl lze převést na jinou osobu
-•	při hlasování má každý člen tolik hlasů, kolik násobků základního členského vkladu do družstva vložil
-•	předmět členského vkladu může být pouze peněžitý
-Organizace družstevní záložny
-•	úvěrová komise – nejméně 3 členové; rozhoduje o poskytování úvěrů a záruk a zajištění úvěrů
-•	významné družstevní záložny zřizují výbor pro rizika, výbor pro jmenování, výbor pro odměňování
-•	výbor pro audit
-Přeměny
-•	fúze je možná jen s jinou družstevní záložnou, rozdělení lze pouze na družstevní záložny – nutný předchozí souhlasu ČNB
-•	změna právní formy je možná pouze na AS, pokud ČNB a udělila souhlas a rozhodla o udělení bankovní licence
-POJIŠTOVNY
-•	pojištění – sdružení osob, které se cítí ohroženy nahodilým vznikem určité majetkové potřeby, a které se sdružily za účelem společného uhrazení této potřeby, vznikne-li některé ze zúčastněných osob
-•	pojištění v oboru práva veřejného: sociální, nemocenské, důchodové
-•	pojištění v oboru práva soukromého: dobrovolné pojištění – pojištění životní a neživotní
-•	pojišťovna
-o	oprávněna provozovat pojišťovací činnost na základě a v rozsahu povolení
-o	AS nebo družstvo
-o	na území ČR
-•	provozní požadavky a zásady hospodaření
-o	povinnost vytváření technických rezerv (peněžní prostředky na výplatu pojistných plnění)
-o	povinnost udržovat disponibilní míru solventnosti (upravená výše vlastních zdrojů, garanční fond pojišťovny)
-Pojišťovací činnost
-•	přebírání pojistných rizik na základě uzavřených pojistných smluv a plnění z nich
-•	správa pojištění, likvidace pojistných událostí, poskytování asistenčních služeb, uzavírání smluv se zajišťovnami (zajišťovací činnost – přebírání pojistných rizik pojišťovny) o zajištění závazků vyplývajících z pojistných smluv, činnost směřující k předcházení vzniku škod a zmirňování jejich následků
-Založení a vznik pojišťovny
-•	podmínky pro udělení povolení: požadavky na výši ZK, splacené vklady, slovo „pojišťovna“ ve firmě
-Organizace pojišťovny
-•	pojišťovna je povinna ustanovit odpovědného pojistného matematika – posuzuje správnost různých výpočtů, zpracovává ročně zprávu o své činnosti
-•	pojišťovna je povinna zřídit výbor pro audit
+**OBECNĚ**
+  - obsaženo ve zvláštních zákonech, které jsou ve vztahu speciality k úpravě v zákoně o obchodních korporacích a občanském zákoníku, i působnost práva EU
+  - požadavek udělení povolení (licence) ČNB
+  - provozní požadavky a zásady hospodaření – účelem je zabezpečit obezřetný způsob hospodaření a vytváření dostatečných rezerv, korporace musí mít zpracováný odpovídající řídící a kontrolní systém
+
+**Založení a vznik**
+  - obecná právní úprava právní formy OK, která je pro danou činnost předepsána, doplněná o podmínky stanovené zvláštním zákonem
+  - požadavky na udělení povolení: dostatek finančních zdrojů, splacení ZK v požadované výši, důvěryhodnost a způsobilost osob, technická a organizační opatření
+  - povolení obsahuje vymezení podnikatelských činností, k jejichž provozování je zvláštní korporace oprávněna
+  - povolení je uděleno na dobu neurčitou a je nepřevoditelné
+
+**Organizace zvláštní korporace**
+  -	zvláštní zákon stanovuje požadavky na jednotlivé orgány, popř. předepisuje povinnost zřídit další orgány (výbor pro audit, výbory pro rizika, úvěrová komise atd.)
+  - k přijetí některých zásadních rozhodnutí NO se vyžaduje souhlas orgánu státního dohledu (např. ČNB), jinak jsou neplatná; informační povinnost
+    - jinak se vždy jedná o formy a.s., nebo družstva - standardní orgány se tak řídí ZOK, mají jen povinnost zřídit dodatečné orgány
+  - členové SO mají zvláště upravenou odpovědnost za plnění svých povinností
+  -	další náležitosti stanov za účelem vyšší transparentnosti
+
+**Společníci zvláštní korporace**
+  -	zájemci o nabytí kvalifikované účasti (vymezeno procentem podílu na upsaných akciích a možnosti rozhodovat) na zvláštní OK nebo o její ovládání musí požádat o souhlas dohledový orgán
+    - je posuzována důvěryhodnost žadatele (popř. jeho orgánů), odborná způsobilost a zkušenost atd.
+    - při neplnění zákonem stanovených podmínek může dohledový orgán společníkovi pozastavit výkon některých práv
+
+**Státní dohled**
+  -	předmětem státního dohledu je dodržování podmínek povolení a právních předpisů
+  -	korporace je povinna orgánu státního dohledu poskytnout stanovené podklady a informace
+  -	dohledový orgán je oprávněn přijmout nápravná opatření a sankce vůči korporaci, např. nucenou správu korporace (pozastavuje se výkon funkce všech orgánů banky, správce má postavení SO)
+
+**Zrušení a zánik**
+  - platí obecná úprava doplněná zvláštním zákonem
+  - soud rozhodne o zrušení a likvidaci, pokud byly porušeny podmínky pro vznik nebo zákon
+  - likvidace – likvidátora jmenuje a odvolává soud na návrh ČNB
+
+- **1- BANKY**
+  -	banka je OK (a.s.), jejímž účelem je provádět bankovní obchody: přijímat vklady, poskytovat úvěry a zajišťovat platební styk
+  -	synonymem banky je spořitelna (dříve rozdíl – spořitelny byly zaměřené na FO)
+-	**banka obecně**
+  -	AS (nebo SE - evropská společnost) se sídlem v ČR, popřípadě organizační složka cizí banky
+  -	přijímá vklady od veřejnosti, poskytuje úvěry na základě bankovní licence
+  -	další činnosti: platební styk a zúčtování, vydávání a správa platebních karet a cestovních šeků, poskytování záruk, otvírání akreditivů (závazek banky poskytnout na účet jejího klienta někomu určité plnění po prokázání nároku), obstarávání inkasa, poskytování investičních služeb atd.
+- **Založení a vznik banky**
+  -	žádost k udělení licence může předložit již vzniklá AS, zakladatel nové AS, spořitelní a úvěrní družstvo, pokud současně požádá o souhlas se změnou právní formy
+  -	zvláštní požadavky na AS
+    -	průhledný a nezávadný původ ZK a dalších finančních zdrojů banky, minimální výše ZK 500 000 000 Kč, splacený ZK v plné výši
+    -	důvěryhodnost a odborná způsobilost osoby, které má být licence udělena, osob s kvalifikovanou účastí, nebo 20 největších akcionářů, členů volených orgánů
+    -	požadavky na osoby úzce propojené s bankou (průhlednost, nesmí bránit bankovnímu dohledu)
+
+- **organizační struktura banky**
+  -	požadavky na volené orgány: **představenstvo** (SO) musí mít alespoň 3 členy, popřípadě **Správ. rada** (SO) alespoň 5 (z nich jedním správní ředitel); členem voleného orgánu může být jen FO
+  - dále existuje **valná hromada** jako NO
+  - rovněž je zřizována **dozorčí rada**
+  -	významná banka je povinna zřídit další orgány: výbor pro rizika, výbor pro jmenování, výbor pro odměňování
+  -	povinnost zřídit výbor pro audit (3 členové, nejméně jeden nezávislý na bance)
+
+- **2- STAVEBNÍ SPOŘITELNY**
+  -	pouze banka, která může vykonávat pouze činnosti, povolené v jí udělené bankovní licenci, kterými jsou stavební spoření a další činnosti podle zákona
+  -	zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření
+  -	stavební spoření – účelové spoření spočívající v přijímání vkladů od účastníků stavebního spoření, poskytování úvěrů účastníkům stavebního spoření, poskytování příspěvků účastníkům stavebního spoření
+  -	další činnosti: poskytování úvěrů osobám uspokojujícím bytové potřeby, přijímání vkladů od bank a dalších finančních institucí, poskytování záruk za úvěry ze stavebního spoření, obchodování s dluhopisy atd.
+  -	bankovní licenci uděluje stavební spořitelně ČNB; Ministerstvo financí schvaluje všeobecné obchodní podmínky stavební spořitelny a vykonává státní kontrolu
+
+- **3- DRUŽSTEVNÍ ZÁLOŽNY**
+  -	zákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech
+  -	činnost: přijímání vkladů a poskytování úvěrů jenom svým členům
+  -	další činnosti – pouze pro členy
+    -	finanční leasing, platební styk, zúčtování a vydávání a správa platebních prostředků, poskytování záruk ve formě ručení nebo bankovní záruky, otvírání akreditivů, obstarání inkasa atd.
+  -	firma musí obsahovat označení „spořitelní a úvěrní družstvo“/„družstevní záložna“/„spořitelní družstvo“/„úvěrní družstvo“
+  -	hospodaření družstevní záložny – družstevní záložna zřizuje rizikový fond a rezervní fond
+
+- **Založení a vznik družstevní záložny**
+  -	nejméně 30 členů, musí být splacena částka nejméně 35 000 000 Kč ze ZK – družstvo se sídlem na území ČR
+
+- **Členství v družstevní záložně**
+  -	povinnost seznámit všechny uchazeče o členství se všemi skutečnostmi souvisejícími s členstvím
+  -	družstevní podíl přechází na právního nástupce člena, který zemřel nebo zanikl, pokud je způsobilý
+  -	družstevní podíl lze převést na jinou osobu
+  -	při hlasování má každý člen tolik hlasů, kolik násobků základního členského vkladu do družstva vložil
+  -	předmět členského vkladu může být pouze peněžitý
+
+- **Organizace družstevní záložny**
+  -	úvěrová komise – nejméně 3 členové; rozhoduje o poskytování úvěrů a záruk a zajištění úvěrů
+  -	významné družstevní záložny zřizují výbor pro rizika, výbor pro jmenování, výbor pro odměňování
+  -	výbor pro audit
+
+- **Přeměny**
+  -	fúze je možná jen s jinou družstevní záložnou, rozdělení lze pouze na družstevní záložny – nutný předchozí souhlasu ČNB
+  -	změna právní formy je možná pouze na AS, pokud ČNB a udělila souhlas a rozhodla o udělení bankovní licence
+
+- **4- POJIŠTOVNY**
+-	pojištění – sdružení osob, které se cítí ohroženy nahodilým vznikem určité majetkové potřeby, a které se sdružily za účelem společného uhrazení této potřeby, vznikne-li některé ze zúčastněných osob
+  -	pojištění v oboru práva veřejného: sociální, nemocenské, důchodové
+  -	pojištění v oboru práva soukromého: dobrovolné pojištění – pojištění životní a neživotní
+
+-	**pojišťovna**
+  -	oprávněna provozovat pojišťovací činnost na základě a v rozsahu povolení
+  -	AS nebo družstvo
+  -	na území ČR
+
+-	**provozní požadavky a zásady hospodaření**
+  -	povinnost vytváření technických rezerv (peněžní prostředky na výplatu pojistných plnění)
+  -	povinnost udržovat disponibilní míru solventnosti (upravená výše vlastních zdrojů, garanční fond pojišťovny)
+
+- **Pojišťovací činnost**
+  -	přebírání pojistných rizik na základě uzavřených pojistných smluv a plnění z nich
+  -	správa pojištění, likvidace pojistných událostí, poskytování asistenčních služeb, uzavírání smluv se zajišťovnami (zajišťovací činnost – přebírání pojistných rizik pojišťovny) o zajištění závazků vyplývajících z pojistných smluv, činnost směřující k předcházení vzniku škod a zmirňování jejich následků
+
+- **Založení a vznik pojišťovny**
+  -	podmínky pro udělení povolení: požadavky na výši ZK, splacené vklady, slovo „pojišťovna“ ve firmě
+
+- **Organizace pojišťovny**
+  -	pojišťovna je povinna ustanovit odpovědného pojistného matematika – posuzuje správnost různých výpočtů, zpracovává ročně zprávu o své činnosti
+  -	pojišťovna je povinna zřídit výbor pro audit
+  - další orgány SO - správní rada, dozorčí rada
+
+- **4.1- Zajišťovny**
+  - jedná se o pojišťovny pojišťoven
+
 - **-5 investiční fondy**
-  - Způsob jak společně investovat peníze s dalšími investoryza účelem finančního prospěchu
-  - Jedná se o právnickou osobu
-  - Má svojí organizační strukturu (why the hell would anyone want to know anything about the struktura man)
+  - Způsob jak společně investovat peníze s dalšími investory za účelem finančního prospěchu
+  - Jedná se o právnickou osobu nebo strukturu bez právní osobnosti
+  - Má svojí organizační strukturu - hlavní obhospodařování - portfolio manažer, a pak třeba správce fondu - administrativní funkce
   - Jsou řízeny zákonem o investičních společnostech a investičních fondech
   - Dělí se na **Fondy kolektivního investování** a **Fondy kvalifikovaných investorů**
     - FKoI - obecně na nich může investovat každý
@@ -5912,7 +5938,13 @@ Organizace pojišťovny
     - Dělí se na IF s právní osobností a na IF bez práv. os. -> podílový fond
     - standardně například podílový fond spravovaný investiční společností (a.s.), nebo může sám mít formu a.s.
   - Funguje obecně tak, že vydává akcie a ty investuje - dle toho jak se mu daří - například dividendy
+
 - **-6 investiční společnosti**
+  - jedná s o právnickou osobu ve formě a.s., která může:
+    - **obhospodařovat inves. fond** - tzn. provádět investice
+    - **administraci inves. fond** - tzn. ostatní věci okolo správy inves. fondu - mimo investování
+  - licenci uděluje ČNB, buď na obě činnosti, nebo jen na jednu z nich
+  - řídí se podle stejného zákona jako inves. fondy.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
