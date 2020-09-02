@@ -4459,6 +4459,8 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Povinnosti podnikatele ze spotřebitelských smluv
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4466,6 +4468,136 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Povinnost**
+  - **Prameny**
+  - Zákony Čr:
+    - Především:
+      - OZ
+      - Zákon o ochraně spotřebitele
+      - Zákon o spotřebitelském úvěru
+    - Sekundární právo EU
+      - směrnice o právu spotřebitelů
+      - směrnice o nepřiměřených podmínkách ve spotřebitelských smlouvách
+
+- **Vymezení pojmu**
+  - Spotřebitel = každý, který v právním vztahu vystupuje jako nepodnikatel či mimo rámec výkonnu své činnosti a uzavírá smlouvu s podnikatelem
+  - Podnikatel = osoba, kterou za podnikatele označí OZ, obecně osoba vykonávající činnost podle živnostenského nebo obdobného zákona (celá definice viz otázka podnikatel)
+  - Spotřebitelská smlouva = právní důvod vzniku závazku mezi podnikatelem a spotřebitelem, zjednodušeně tedy smlouva, kterou uzavírá podnikatel se spotřebitelem
+    - Má několik specifických prvků oproti klasickým smlouvám
+      - Povinnost jasných a srozumitelných sdělení vůči spotřebiteli v jazyce, ve kterém se uzavírá smlouva (§ 1811 OZ)
+      - předsmluvní informační povinnost (§ 1811 OZ)
+      - pokud je možné obsah smlouvy vyložit několika způsoby - použije se způsob příznivější pro spotřebitele
+      - smlouvy se spotřebitely mají poměrně mnoho zakázaných ujednání, které jsou stiženy absolutní neplatností - například ve vztahu k ochraně spotřebitele
+
+**POVINNOSTI PODNIKATELE ZE SPOTŘEBITELSKÝCH SMLUV**
+1. VZTAH PODNIKATEL-SPOTŘEBITEL
+─	↑ specializace výroby/produktů > ↓ reálná schopnost osob činit plně informované rozhodnutí o pořízení
+─	spotřebitel má zřídka možnost prosadit svou vůli ohledně podmínek pořízení (jen volbou jiného podnikatele)
+─	informační deficit, hosp. nerovnost > silnější postavení > neochota modifikovat navržené smluvní podmínky
+─	> p. úprava ČR+EU > snaha překonat materiální nerovnost, posílit slabší faktické postavení spotřebitelů
+2. PRAMENY PRÁVNÍ ÚPRAVY
+─	jeden z nejvýznamnějších cílů evropského práva  řada směrnic implementovaných do právních řádů ČS
+A)	OZ – část věnovaná spotřebitelským smlouvám:
+•	směrnice EP a Rady o právech spotřebitelů  obecná informační povinnost vůči spotřebiteli + režim smluv uzavíraných distančně nebo mimo obchodní prostory
+•	směrnice Rady o nepřiměřených podmínkách ve spotřebitelských smlouvách – zákaz smluvních podmínek (individuálně nesjednaných), které zakládají výraznou nerovnováhu práv a povinností
+•	směrnice o uvádění finančních služeb pro spotřebitele na trh na dálku
+•	směrnice o ochraně spotřebitele ohledně někt. aspektů timesharing smluv (dočasné užívání ubyt.zařízení)
+B)	dílčí ochrana spotřebitele v OZ:
+•	zákaz sjednání propadné zástavy i poté, co zajištěný dluh dospěje (se spotřebiteli + malými/stř. podnikateli)
+•	zvláštní úprava kupní smlouvy (§ 2158 an., prodej zboží v obchodě) ← směrnice o někt. aspektech prodeje spotřebního zboží a záruky X český OZ navíc: i na PO nakupující mimo souvislost s podnikáním
+C)	soutěžní právo + právo proti nekalé soutěži
+•	směrnice o nekalých obch. praktikách vůči spotřebitelům na vnitřním trhu > zák. o ochraně spotřebitele
+D)	informační povinnost vůči spotřebiteli: široká škála dalších předpisů
+•	zákon o cenách ← směrnice o ochraně spotřebitele při označování cen výrobků nabízených spotřebiteli
+•	zákon o spotřebitelském úvěru ← směrnice o smlouvách o spotřebitelském úvěru + sm. o s. ú. na nemovitosti
+E)	obecná úprava závazkového práva
+─	kromě speciálního režimu je také třeba subsidiárně aplikovat obecnou úpravu závazkového práva
+•	obecné instituty OZ (ochrana slabší strany, neúměrné krácení, ujednání v rozporu s DM, VP)
+•	další p. předpisy: zákon o regulaci reklamy, zákon o provozování rozhlasového a TV vysílání
+-	§ 1812 OZ: nelze se vzdát ochrany spotřebitele (ani ujednáním, ani jednostranně) > nepřihlíží se
+3. ZÁKLADNÍ POJMOSLOVÍ
+─	i) spotřebitelská smlouva
+-	= smlouva, kterou podnikatel uzavře se spotřebitelem
+-	není samostatným smluvním typem  může jí být jakýkoli smluvní typ i smlouva nepojmenovaná (uplatní se i u smluv regulovaných zvl. předpisy – svob. povolání – služby poskytované advokátem)
+-	definičním znakem jsou její smluvní strany  B2C vztahy (business-to-consumers)
+─	ii) podnikatel
+-	osoba, která při oslovení spotřebitelů, vyjednávání, uzavírání a plnění smlouvy vystupuje v souvislosti se svou podnikatelskou činností (§ 420 OZ)
+-	↪ širší pojetí  osoba, která uzavírá smlouvu 1) související s její vlastní obchodní, výrobní nebo obdobnou činností [činnost obdobná podnikání, nevykazuje některý z jeho znaků (např. účel dosažení zisku > neziskovky, osoby veř. práva – VŠ, nemocnice…)] + 2) při samostatném výkonu svého povolání
+-	↪ správního deliktu se dopustí ten, kdo vyvolává dojem nebo nepravdivě uvádí, že nejedná v rámci své podnikatelské činnosti
+─	iii) spotřebitel
+-	§ 419 OZspotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti uzavírá smlouvu s podnikatelem nebo s ním jinak jedná > spotřebitelem nemůže být PO
+-	status spotřebitele nelze vnímat absolutně – vždy záleží na okolnostech daného jednání
+-	souvislost s podnikatelskou činností  problém v případě podnikatele FO – kdy jedná/nejedná v rámci své podnikatelské činnosti X smíšená povaha jednání (podnikatel FO kupuje mobilní telefon, který chce používat pro soukromé účely, ale také při podnikání)  evropská judikatura tenduje spíše k odmítnutí spotřebitelské ochrany (podnikatelský účel jednání by musel být zcela okrajový)
+─	iv) smlouva uzavíraná distančním způsobem (distanční smlouva)
+-	smlouvy, které jsou vyjednávány výlučně s využitím tzv. komunikačních prostředků na dálku
+-	↪ poštovní služba, internet, telefon nebo fax
+-	spotřebitel zde nepřichází do přímého kontaktu s podnikatelem (jeho z-ci) a nemá možnost si zboží prohlédnout nebo vyzkoušet v kamenném obchodě
+─	v) smlouva uzavíraná mimo obchodní prostory (tzv. „podomní prodej“)
+-	1) především podomní prodej stricto sensu – podnikatel nabízí zboží a kontrahuje se spotřebitelem přímo v jeho domácnosti nebo na pracovišti
+-	2) prodej v jiných prostorech (mimo obvyklý prostor) – veřej. prostranství, veřej. dopr. prostředky
+-	obvyklý prostor = sídlo podnikatele, jeho pobočka, stánek, pojízdná prodejna či jiná prodejna
+-	3) i smlouvy, které sice byly uzavřené v prostoru obvyklém pro podnikatelovo podnikání, avšak bezprostředně poté, co podnikatel oslovil spotřebitele mimo tyto prostory (nalákal je dovnitř)
+-	4) i prodejní zájezdy (Šmejdi)  podnikatelé mají oznamovací povinnost vůči ČOI (§ 20 zák. o ochraně spotřebitele), během akce + 7 dní po skončení nesmí požadovat plnění na kupní cenu
+4. KOMUNIKACE PODNIKATELE SE SPOTŘEBITELEM
+─	i) povinnost jasné a srozumitelné komunikace
+-	sdělení podnikatele spotřebiteli musí být jasná a srozumitelná (§1812; určitost+srozum PJ -§553)
+-	tato jasná sdělení musí být předkládána v jazyce, v němž se uzavírá smlouva
+-	porušení povinnosti jasné a srozumitelné komunikace je podnikateli přičítáno k tíži při výkladu PJ
+-	↪ lze-li obsah smlouvy vyložit různým způsobem > k tíži toho, kdo výraz použil jako první (§ 557) > lex specialis: výklad pro spotřebitele nejpříznivější (§ 1812 OZ) (tj. i kdyby výraz použil první spotřebitel)
+-	↪ nelze-li výkladem určit obsah > zdánlivé PJ
+─	ii) předsmluvní informační povinnosti
+-	spotřebitel: informační deficit X podnikatel, který své produkty prodává je v dané oblasti znalý
+-	§ 1811 OZ podnikatel v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebiteli učiní nabídku, sdělí spotřebiteli předepsané informace (údaje o podnikateli, vlastnosti produktu, cena, způsob platby, náklady na dodání, práva z vadného plnění, ze záruky)
+-	u distančních smluv či podomního prodeje je informační povinnost podnikatele vymezena šířeji (o nákladech na prostředky dálkové komunikace, nesmí požadovat platby, na kt. předem neupozornil)
+─	iii) závaznost předsmluvních informací
+-	spotřebitelská smlouva uzavřená distančně nebo mimo obchodní prostory musí obsahovat údaje dříve sdělené spotřebiteli  OZ sice připouští smluvní ujednání, kterými se lze odchýlit od již sdělených údajů, avšak tyto změny musí být výslovně ujednány
+-	↪ pokud k tomuto ujednání nedojde, bude platit obsah smlouvy pro spotřebitele příznivější a původní údaje se tak k tíži podnikatele stávají součástí závazku ze spotřebitelské smlouvy
+5. DODÁNÍ NEOBJEDNANÉHO PLNĚNÍ
+─	§ 1838 OZ pokud se spotřebitel ujme držby zboží dodaného bez objednávky, hledí se na něho jako na poctivého držitele a nemusí na své náklady podnikateli nic vracet ani ho vyrozumět
+─	může tak zboží skladovat, zničit, předat jinému, užívat,… (podnikatel má ale právo si věc vyzvednout)
+─	zákaz přiložit výzvu k provedení platby k neobjednanému zboží či službě (klamavé/agresivní obch. praktiky)
+6. ZÁKAZ NEPŘIMĚŘENÝCH UJEDNÁNÍ
+─	§ 1813 OZ zakazuje ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele
+─	hlavním kritériem je tedy požadavek přiměřenosti (proporcionality) zakázána jsou ta ujednání, která vedou ke kvalifikované (významné) nerovnosti v postavení smluvních práv
+─	§ 1815 OZ  k takovým ujednáním se nepřihlíží, avšak v tomto směru respektuje zákon také vůli spotřebitele, který se může takového ujednání dovolat (nejde tedy o relativní neplatnost  k těmto ujednáním se nepřihlíží vždy; účinná budou jen tehdy, dovolá-li se jich sám spotřebitel – „relativní platnost“)
+─	ujednání o předmětu a o ceně nepodléhají zákazu nepřiměřených ujednání
+─	směrnice: zákaz pouze těch, která nebyla individuálně sjednána X OZ: zákaz všech nepřiměřených ujednání
+7. PRÁVO SPOTŘEBITELE ODSTOUPIT OD SMLOUVY
+─	u spotřebitelských smluv uzavíraných distančně nebo mimo obchodní prostory (+smlouva timesharingová + o spotřebitelském úvěru)  právo na odstoupení od smlouvy a to i bez udání důvodů - toto právo vyplývá ze zákona a nemusí tak být výslovně sjednáno
+─	spotřebitel může v zákonné 14denní lhůtě odstoupit od smlouvy (stačí ve lhůtě odeslat projev vůle)
+─	↪ nebyl-li spotřebitel na právo předem upozorněn – má prodlouženou lhůtu:  1 rok a 14 dnů
+─	↪ pokud v této lhůtě podnikatel spotřebitele dodatečně informuje, zkracuje opět na 14 dnů ode dne doručení poučení spotřebiteli
+─	nemá právo odstoupit u plnění, která nelze vrátit či která nelze po vrácení řádně prodat (byť za nižší cenu)
+─	odstoupením se závazek ruší od samého počátku (ex tunc)
+─	spotřebitel je povinen po odstoupení do 14 dnů na svůj náklad vrátit podnikateli dodané zboží
+─	podnikatel je povinen bez zbytečného odkladu (max. do 14 dnů od odstoupení od smlouvy) vrátit spotřebiteli veškeré peněžní prostředky není spravedlivé tuto peněžní částku jakkoli zkracovat (např. za náklady na nový obal zboží apod.), je oprávněn ale vyčkat s platbou do předání/prokázání odeslání zboží
+─	u poskytování služeb není s poskytováním obvykle započato, není co vypořádávat (jestliže spotřebitel písemně požádal o zahájení poskytování už v prvních 14 dnech, bude upozorněn na možnost povinnosti platby, pokud odstoupí > poměrná část peněz podnikateli)
+─	směrnice: spotřebitel odpovídá pouze za případné snížení hodnoty zboží v důsledku nakládání s tímto zbožím jiným způsobem, než je nutné k tomu, aby se obeznámil s povahou, vlastnostmi a funkčností zboží
+─	X § 1833: „než je nutné s ohledem na jeho povahu a vlastnosti“ (širší, je třeba eurokonformní výklad)
+─	odpovídá pouze, pokud byl o tom v rámci předsmluvní informační povinnosti informován
+8. SEKTOROVÉ ÚPRAVY
+─	i) poskytování finančních služeb
+-	služby bankovní, úvěrové, platební, pojistné, směna měn, investiční služby
+-	§ 1841 an. finanční smlouvy uzavřené distančním způsobem
+-	širší předsmluvní informační povinnost
+-	delší lhůta k odstoupení (30 dnů u živ. pojištění, penz. připojištění; 3 měs. - klamavý údaj)
+─	ii) timesharing (dočasné užívání ubytovacího zařízení a jiné rekreační služby)
+-	p. užívat po určitou část roku rekreační zařízení s noclehem na víc než 1 čas. úsek, min. 1 rok
+-	není to smluvní typ – může vzniknout z kupní, nájemní, inominátní smlouvy
+-	nedostatek písemné formy může namítat jen spotřebitel
+-	jazyk smlouvy dle bydliště či státní příslušnosti spotřebitele
+-	povinné začlenění formuláře pro odstoupení přímo do smlouvy
+─	iii) poskytování spotřebitelských úvěrů
+-	= odložená platba, peněžitá zápůjčka, úvěr nebo obdobná finanční služba poskytovaná nebo zprostředkovaná spotřebiteli (a) na bydlení, b) vázaný s. úvěr – na financování urč. produktu)
+-	povinnost s odbornou péčí posoudit schopnost spotřebitele splácet (porušení: relat. neplatnost)
+-	písemná forma > lze se dovolat > úvěr se považuje za úročený ve výši repo sazby ČNB
+-	vázaný úvěr: odstoupit lze do 14 dnů (ať už uzavřen prezenčně, či distančně) X úvěr na bydlení: není právo odstoupit, ale doba na rozmyšlenou – povinnost podnikatele na 14 dnů zafixovat podmínky
+-	smluvní pokuta nesmí přesáhnout 1 ‰ denně ani celkem polovinu celkové výše úvěru
+9. MIMOSOUDNÍ ŘEŠENÍ SPORŮ
+-	po 1. 12. 2016 je vyloučeno řešit spory ze spotřebitelských smluv v rozhodčím řízení (spory ze starších smluv v něm ale řešit lze; dříve rozhodčí doložky, pak pouze separátní rozhodčí smlouvy)
+-	konciliační řízení – spotřebitel má právo jej zahájit u sporů z kupní smlouvy nebo poskytování služeb; subjekt řízení je ČOI; podnikatel poskytuje součinnost, není povinen dohodu o mimos. řešení uzavřít, musí být uzavřena do 90 dnů, jinak soud, lze pak u soudu využít důkazní prostředky získané z řízení
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
