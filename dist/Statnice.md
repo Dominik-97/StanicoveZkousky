@@ -4890,42 +4890,42 @@ VEDLEJŠÍ
       - X nepřecházejí: veřejnoprávní oprávnění (živnost. oprávnění) či povinnosti (dluh na daních)  ty nejsou součástí závodu a ulpívají na prodávajícím
     - ochrana věřitelů:
       - k převzetí dluhu kupujícím se nevyžaduje souhlas věřitele (X obecná úprava §1888), nicméně nedá-li souhlas, pak bude kupující sice dlužníkem, ale prodávající bude ručitelem
-•	-        právo věřitele domáhat se relativní neúčinnosti prodeje závodu ve stanovené době u soudu (to pomůže věřiteli tehdy, když by chtěl kupující vůči němu uplatnit námitku vzešlou ze vzáj. vztahu)
-•	-        oznamovací povinnost prodávajícího vůči svým věřitelům a dlužníkům
-•	─      kupní cena  § 2176 má se za to, že je ujednána ve smlouvě na základě údajů v účetních záznamech ke dni uzavření (má-li nabýt účinnosti později, mění se v závislosti na zvýšení/snížení jmění, k němuž mezitím došlo)
-•	-    v reálu se hodnota často liší od ocenění v účetnictví, proto se častěji použijí jiné metody než dispozitivní § 2176
-•	─      odstoupení od smlouvy  „zpětný pohyb“ pohledávek a dluhů > odstoupením od smlouvy se prodávající stává dlužníkem a kupující ručitelem (nedal-li věřitel souhlas k převzetí dluhu prodávajícím), informační povinnost kupujícího vůči věřitelům
-•	─      jiné převody než KS ustanovení o koupi závodu se použijí obdobně; u směny (nejprve zvl. úprava směny > obdobně zvl. úprava koupě závodu > přiměřeně obecná úprava koupě), i darování
+      - právo věřitele domáhat se relativní neúčinnosti prodeje závodu ve stanovené době u soudu (to pomůže věřiteli tehdy, když by chtěl kupující vůči němu uplatnit námitku vzešlou ze vzáj. vztahu)
+      - oznamovací povinnost prodávajícího vůči svým věřitelům a dlužníkům
+    - kupní cena -> § 2176 má se za to, že je ujednána ve smlouvě na základě údajů v účetních záznamech ke dni uzavření (má-li nabýt účinnosti později, mění se v závislosti na zvýšení/snížení jmění, k němuž mezitím došlo)
+      - v reálu se hodnota často liší od ocenění v účetnictví, proto se častěji použijí jiné metody než dispozitivní § 2176
+    - odstoupení od smlouvy -> „zpětný pohyb“ pohledávek a dluhů > odstoupením od smlouvy se prodávající stává dlužníkem a kupující ručitelem (nedal-li věřitel souhlas k převzetí dluhu prodávajícím), informační povinnost kupujícího vůči věřitelům
+    - jiné převody než KS -> ustanovení o koupi závodu se použijí obdobně; u směny (nejprve zvl. úprava směny > obdobně zvl. úprava koupě závodu > přiměřeně obecná úprava koupě), i darování
 
-•	3. ZÁVOD JAKO PŘEDMĚT NEPENĚŽITÉHO VKLADU DO OK
-•	 musí být oceněn znalcem, použije přiměřeně úprava KS; OK se vznikem stává věřitelem pohledávek a dlužníkem dluhů závodu; ručitel = vkladatel závodu
+- **2- ZÁVOD JAKO PŘEDMĚT NEPENĚŽITÉHO VKLADU DO OK**
+ - -> musí být oceněn znalcem, použije přiměřeně úprava KS; OK se vznikem stává věřitelem pohledávek a dlužníkem dluhů závodu; ručitel = vkladatel závodu
 
-•	4. PACHT ZÁVODU
-•	─      závod může být předmětem pachtu, protože je svou povahou věcí přinášející užitek
-•	─      vlastník závodu nepozbývá vlastnické právo k závodu, ale dočasně převádí práva (užívací a požívací)
-•	─      propachtovatel – přenechává pastýři závod (či jeho část) k dočasnému užívání a požívání
-•	─      X pachtýř  - platí pachtovné nebo poskytuje poměrnou část výnosu závodu (či jeho části)
-•	(pachtýřem může být jen osoba s oprávněním k podnikání, k němuž závod slouží)
-•	─      ustanovení o pachtu závodu (§ 2349-2357 OZ) + obecná úprava pachtu + přiměřeně úprava nájmu
-•	─      pro smlouvu o pachtu závodu není předepsaná písemná forma
-•	─      pacht závodu nemusí být schválen nejvyšším orgánem OK (jako převod, zastavení)
-•	─      pachtýř nezapsaný ve VR > nabývá účinností smlouvy X zapsaný > zveřejněním založení pachtu do sbírky listin
-•	─      pachtýř se stává věřitelem pohledávek souvisejících s provozem závodu; dluhy pachtýř přejímá jen za podmínky, že o jejich existenci věděl nebo je musel rozumně předpokládat
-•	─      ochrana věřitelů obdobně jako u koupi závodu  informační povinnost + ručení propachtovatele za splnění dluhů souvisejících s provozem závodutoto zákonné ručení nastává pouze v případě, pokud věřitel neudělil souhlas s převzetím dluhu pachtýřem (právo odporu věřitele – na relativní neúčinnost pachtu)
-•	─      pachtýř může závod užívat v takovém rozsahu, v jakém je to třeba k jeho řádnému provozování musí jednat v rámci péče řádného hospodáře
-•	─      při zániku pachtu: odevzdání závodu ve stavu, který odpovídá běžnému opotřebení a změnám,k nimž došlo při řádném provozu závodu; ochrana věřitelů: informační povinnost pachtýře + ručí za přešlé dluhy
+- **3- PACHT ZÁVODU**
+  - závod může být předmětem pachtu, protože je svou povahou věcí přinášející užitek
+  - vlastník závodu nepozbývá vlastnické právo k závodu, ale dočasně převádí práva (užívací a požívací)
+  - propachtovatel – přenechává pachtýři závod (či jeho část) k dočasnému užívání a požívání
+    - X pachtýř  - platí pachtovné nebo poskytuje poměrnou část výnosu závodu (či jeho části)
+    - (pachtýřem může být jen osoba s oprávněním k podnikání, k němuž závod slouží)
+  - ustanovení o pachtu závodu (§ 2349-2357 OZ) + obecná úprava pachtu + přiměřeně úprava nájmu
+  - pro smlouvu o pachtu závodu není předepsaná písemná forma
+  - pacht závodu nemusí být schválen nejvyšším orgánem OK (jako převod, zastavení)
+  - pachtýř nezapsaný ve VR > nabývá účinností smlouvy X zapsaný > zveřejněním založení pachtu do sbírky listin
+  - pachtýř se stává věřitelem pohledávek souvisejících s provozem závodu; dluhy pachtýř přejímá jen za podmínky, že o jejich existenci věděl nebo je musel rozumně předpokládat
+  - ochrana věřitelů obdobně jako u koupi závodu -> informační povinnost + ručení propachtovatele za splnění dluhů souvisejících s provozem závodutoto zákonné ručení nastává pouze v případě, pokud věřitel neudělil souhlas s převzetím dluhu pachtýřem (právo odporu věřitele – na relativní neúčinnost pachtu)
+  - pachtýř může závod užívat v takovém rozsahu, v jakém je to třeba k jeho řádnému provozování -> musí jednat v rámci péče řádného hospodáře
+  - při zániku pachtu: odevzdání závodu ve stavu, který odpovídá běžnému opotřebení a změnám,k nimž došlo při řádném provozu závodu; ochrana věřitelů: informační povinnost pachtýře + ručí za přešlé dluhy
 
-•	5. ZASTAVENÍ ZÁVODU
-•	─      vlastník závodu nepozbývá vlastnické právo k závodu, často ani právo jej užívat a požívat, neboť se zpravidla nepředává zástavnímu věřiteli, zajištěný dluh je často hrazen z výnosu provozu zastaveného podniku
-•	─      zástavní právo je právem k věci cizí (iura in re aliena)
-•	─      není upraveno jako zvláštní smluvní typ  aplikuje se obecná úprava zástavního práva
-•	─      zástavním právem lze zajistit peněžitý, tak i nepeněžitý dluh, zároveň existující dluh, tak i dluh, který teprve v budoucnu vznikne + lze jím zajistit i dluh třetí osoby (praktické typicky v rámci koncernu)
-•	─      zástavní právo se zřizuje zástavní smlouvou určení závodu-předmětu zástavy + dluhu, pro nějž se ZP zřizuje
-•	─      ↪ toto zástavní právo vznikne až zápisem do rejstříku zástav, který vede Notářská komora ČR
-•	─      zástavní smlouva musí být pořízena ve formě veřejné listiny
-•	─      OK: zastavení závodu musí být schváleno nejvyšším orgánem společnosti
-•	─      závod je hromadnou věcí > ZP se vztahuje na všechny jednotlivé věci, které k závodu náleží, ať už jsou kdekoli + i na každou jednotlivou věc, která k závodu přibude (za trvání ZP nelze sjednávat další ZP k jednotlivinám)
-•	─      zastavením závodu vzniká věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněženého závodu k výkonu ZP bude zpravidla docházet prodejem závodu
+- **4- ZASTAVENÍ ZÁVODU**
+  - vlastník závodu nepozbývá vlastnické právo k závodu, často ani právo jej užívat a požívat, neboť se zpravidla nepředává zástavnímu věřiteli, zajištěný dluh je často hrazen z výnosu provozu zastaveného podniku
+    - zástavní právo je právem k věci cizí (iura in re aliena)
+    - není upraveno jako zvláštní smluvní typ -> aplikuje se obecná úprava zástavního práva
+  - zástavním právem lze zajistit peněžitý, tak i nepeněžitý dluh, zároveň existující dluh, tak i dluh, který teprve v budoucnu vznikne + lze jím zajistit i dluh třetí osoby (praktické typicky v rámci koncernu) - KONCERN osoba ovládající několik osob ovládaných
+  - zástavní právo se zřizuje zástavní smlouvou určení závodu-předmětu zástavy + dluhu, pro nějž se ZP zřizuje
+    - toto zástavní právo vznikne až zápisem do rejstříku zástav, který vede Notářská komora ČR
+  - zástavní smlouva musí být pořízena ve formě veřejné listiny
+  - OK: zastavení závodu musí být schváleno nejvyšším orgánem společnosti
+  - závod je hromadnou věcí > ZP se vztahuje na všechny jednotlivé věci, které k závodu náleží, ať už jsou kdekoli + i na každou jednotlivou věc, která k závodu přibude (za trvání ZP nelze sjednávat další ZP k jednotlivinám)
+  - zastavením závodu vzniká věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněženého závodu -> k výkonu ZP bude zpravidla docházet prodejem závodu
 
 
 \|--------------------------------------\| <br>
