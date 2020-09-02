@@ -4678,12 +4678,13 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
       -	**veřejným zadavatelem** je ČR a org. složky státu, ČNB, státní příspěvkové organizace, ÚSC a jejich příspěvkové organizace a jiné PO, pokud byly založeny nebo zřízeny za účelem uspokojování potřeb veřejného zájmu
       -	**dotovaným zadavatelem** je osoba, která získává veřejnou zakázku hrazenou z více než 50 % z peněžních prostředků poskytnutých z rozpočtu veřejného zadavatele, rozpočtu EU apod., nebo zdroje z těchto rozpočtů přesahují částku 200 mil. Kč; dále se nesmí jednat o zakázky malého rozsahu
       -	**sektorovým zadavatelem** je zadavatel disponující zvláštními nebo výhradními právy udělenými k tomu příslušným orgánem VM, a to k relevantním činnostem ve specifických a v zákoně definovaných oblastech hospodářství (např. plynárenství, energetika, drážní, veř. doprava apod.)
+      - **tuto formu může zvolit i jiná PO, která by dle zákona jinak nemusela ze své vlastní vůle**
     -	možnost spolupráce zadavatelů, která může mít podobu:
       -	a) centralizované zadávání – provádí centrální zadavatel
       -	b) přímá spolupráce více zadavatelů – povinnost uzavřít písemnou smlouvu
   -	**dodavatel** – FO/PO, které mohou potencionálně projevit zájem účastnit se zadávacího řízení, podat nabídku a následně poskytnou i poptávané plnění
-    -	pojem uchazeč je bezprostředně spojen se samotnou účastí v příslušném zadávacím řízení
-    -	vybraný dodavatel je ten účastník zadávacího řízení, jehož nabídka byla zadavatelem vyhodnocena jako nejlepší a se kterým se rozhodl uzavřít smlouvu
+    -	pojem **uchazeč** je bezprostředně spojen se samotnou účastí v příslušném zadávacím řízení
+    -	**vybraný dodavatel** je ten účastník zadávacího řízení, jehož nabídka byla zadavatelem vyhodnocena jako nejlepší a se kterým se rozhodl uzavřít smlouvu
 
 **POVINNOST ZADAT VEŘEJNOU ZAKÁZKU V ZADÁVACÍM ŘÍZENÍ**
   -	zadavatel je ze zákona povinen zadat veřejnou zakázku v zadávacím řízení nebo použít některý z postupů, který je považován za srovnatelný z hlediska naplnění cílů a smyslu zákonné úpravy veřejných zakázek
