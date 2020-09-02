@@ -4834,7 +4834,8 @@ VEDLEJŠÍ
   - Na kupujícího přecházejí ze zákona pohledávky a dluhy příslušející k závodu, vyjma těch, jejichž existenci nemohl kupující rozumně předpokládat (tj. objektivně nepředvídatelné dluhy ze zákona na nabyvatele nepřecházejí)
     - Neudělí-li přitom věřitel souhlas k převzetí dluhu kupujícím, ručí za splnění dluhu prodávající
     - Pokud však souhlas udělí, prodávající již za splnění dluhů neručí
-  - Kupující, který je zapsán do veřejného rejstříku, nabývá vlastnictví závodu zveřejněním dokladu o koupi
+    - Prodávající ma zcizení závodu rovněž povinnost ohlásit všem věřitelům společně s tím, komu zcizil
+  - Kupující, který je zapsán do veřejného rejstříku, nabývá vlastnictví závodu zveřejněním dokladu o koupi - ve sbirce listin
   - Kupující, který není zapsán do veřejného rejstříku, nabývá vlastnictví závodu účinností smlouvy
   - Po uzavření smlouvy prodávající závod kupujícímu předá a provede o tom zápis
   - V zápisu strany uvedou výčet všeho, co předaný závod zahrnuje a co se kupujícímu předává , i všeho, co chybí, ačkoliv to předáno mělo být
