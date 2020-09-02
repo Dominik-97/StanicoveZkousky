@@ -4712,7 +4712,29 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
         |              | od         | do        | od   | do        |
         | VŘ Mal. Roz. | 0          | 2M        | 0    | 6M        |
         | Podlim.      | 2          | 3,7M      | 6    | 143M      |
-        | Nadlim.      | 3,7        | nekonečno | 143  | nekonečno |  
+        | Nadlim.      | 3,7        | nekonečno | 143  | nekonečno |
+
+**DRUHY ZADÁVACÍHO ŘÍZENÍ PRO DRUHY VŘ**
+    - Odvíjí se od režimu veřejných zakázek
+    - **Nadlimitní veřejné zakázky**
+      - Je jich 6, dva základní jsou:
+      - **Otevřené řízení** - ve věstníku veřejných zakázek EU se uveřejní nabídka - různé subjekty podávají nabídky a stávají se z nich účastníci řízení
+      - **Užší řízení** - v podstatě to samé, ale podává se nejdříve žádost o účast v řízení - je možné ihned vyřadit potenciální účastníky, kteří nesplňují určitou podmínku, a do řízení se poté dostanou jen účastníci podmínky splňující
+    - **Podlimitní veřejné zakázky**
+      - **Standardně se použivá zjednodušené podlimitní řízení**
+      - **Je ale možné použít i jakékoliv nadlimitní řízení**
+    - **Zvláštní postupy**
+      - Zvláštní postupy pro řízení o veřejných zakázkách
+        - Spadá sem například soutěž o návrh
+    - **Zjednodušený režim**
+      - používá se pro specifické potřeby - například sociální, forma je zjednodušená oproti jiným druhům řízení
+
+**PRŮBĚH ZADÁVACÍHO ŘÍZENÍ**
+  - zadávací podmínky jsou určeny zadavatelem v **zadávací dokumentaci** - musí být splněny zásadní zásady, tedy hlavní je **zákaz diskriminace**
+
+**PODMÍNKY ÚČASTI V ZADÁVACÍM ŘÍZENÍ**
+  - **kvalifikace** - základní a profesní, dále mohou být stanoveny další fakultativní podmínky na kvalifikaci
+  - **technické podmínky** - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
