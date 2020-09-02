@@ -4048,6 +4048,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 
 **POJEM, SYSTÉM, PRÁVNÍ ÚPRAVA A ZÁSADY PRÁV K NEHMOTNÝM STATKŮM**
 -	**pojem**
+  - jedná se o ochranu duševního vlastnictví
   -	nehmotné statky = výsledky duševní činnosti (myšlenky, ochranná označení či pověst), které jsou natolik významné, že jsme se rozhodli je objektivním právem upravit -> subj. práva: právní ochrana
   -	je třeba odlišovat nehmotný statek (vynález) od subjektivního práva k němu (**patent – soubor práv**)
   -	**duševní vlastnictví** = soubor nehmotných statků
@@ -4074,15 +4075,17 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 - tak i veřejnoprávní - určitá práva má například Česká obchodní inspekce a Celní správa, v těch nejzávažnějších případech může dojít i k naplnění skutkové podstaty trestného činu, viz výše
 
 -	**zásady práva duševního vlastnictví**
--	zásada teritoriální právní úpravy – ochrana v daném státě má právní účinky jen v jeho rámci
--	absolutní a výlučné subjektivní právo – ochrana na daném území proti všem (nehmotný statek může v prům. vlastnictví vytvořit nezávisle i další osoba X autorské dílo (krom PC programu, databáze)
-> ochrana vzniká až udělením příslušným státním orgánem   zápisné = veřejnoprávní akt
--	princip priority přihlášky (od podání, v někt. zemích výjimečně od počátku užívání, jde-li o notorietu)
--	absolutní a objektivní celosvětová novost – je potřeba pro udělení ochrany
--	omezení doby ochrany výsledků tvůrčí činnosti (x ochranná označení: ochrana na dobu neomezenou)
--	výsledek tvůrčí činnosti může dle právního řádu ČR vytvořit jen FO – původce (autorský z.: autor)
--	nehmotné statky se užíváním neopotřebují, zkušeností se obohacují (ale mohou i zastarat), nedělí se, mají vlastnost tzv. potencionální ubikvity – mohou existovat na více místech současně
-2. OBCHODNÍ TAJEMSTVÍ A KNOW-HOW
+  -	zásada teritoriální právní úpravy – ochrana v daném státě má právní účinky jen v jeho rámci
+  -	absolutní a výlučné subjektivní právo – ochrana na daném území proti všem (nehmotný statek může v prům. vlastnictví vytvořit nezávisle i další osoba X autorské dílo (krom PC programu, databáze)
+    - -> ochrana vzniká až udělením příslušným státním orgánem  -> zápisné = veřejnoprávní akt
+  -	princip priority přihlášky (od podání, v někt. zemích výjimečně od počátku užívání, jde-li o notorietu - skutečnost, kterou není třeba dokazovat, neboť je všeobecně známá a pokládá se za fakt)
+  -	absolutní a objektivní celosvětová novost – je potřeba pro udělení ochrany
+  -	omezení doby ochrany výsledků tvůrčí činnosti (x ochranná označení: ochrana na dobu neomezenou)
+  -	výsledek tvůrčí činnosti může dle právního řádu ČR vytvořit jen FO – původce (autorský z.: autor)
+  -	nehmotné statky se užíváním neopotřebují, zkušeností se obohacují (ale mohou i zastarat), nedělí se, mají vlastnost tzv. potencionální ubikvity – mohou existovat na více místech současně
+
+VEDLEJŠÍ
+**OBCHODNÍ TAJEMSTVÍ A KNOW-HOW**
 ─	OT právně vymezeno v § 504 OZ šesti pojmovými znaky (kumulativně): skutečnosti, které:
 •	souvisí se závodem (pro podnikání relevantní)
 •	konkurenčně významné
@@ -4103,6 +4106,8 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 -	„opční smlouva“ – nabyvatel se za odměnu s utajovaným OT/know-how (pod hrozbou sankce za vyzrazení) seznámí a má čas se rozhodnout, zda jej ne/přijme (cena za licenci se pak sníží o cenu opce)
 ─	veřejnoprávní ochrana OT § 248 TZ jako úmyslný čin porušení předpisů o hosp. soutěži
 ─	jiné typy utajovaných údajů: důvěrné informace při sjednávání smlouvy, povinnost důvěrnosti v urč. funkcích (auditoři, advokáti, atp.), ochrana osobních údajů, konkurenční doložka (max. na 5 let X v PP 1 rok + náhrada), utajované informace (z. o ochraně utaj. info, o bezpečnosti ČR, o Policii ČR, o BIS, o zpravodaj. službách…)
+VEDLEJŠÍ
+
 3. PRÁVA PRŮMYSLOVÉHO VLASTNICTVÍ
 ─	princip teritoriality právní ochrany vyžaduje sbližování národních úprav prům. vlastnictví  časté mezinárodní úmluvy v oblasti průmyslového vlastnictví
 ─	↪ hlavní: Pařížská unijní úmluva na ochranu prům. vlastnictví; dále důležitost WIPO – Světová organizace duševního vlastnictví (např. Bernská úmluva o ochraně autorských děl+ založení M Úřadu DV);
