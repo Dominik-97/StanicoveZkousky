@@ -4030,12 +4030,12 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Práva k nehmotným statkům při podnikání
+- [x] Práva k nehmotným statkům při podnikání
   - [x] Vynýlez
-  - [ ] Užitný vzor
-  - [ ] Průmyslový vzor
-  - [ ] Topografie polovodičového výrobku
-  - [ ] Odrůda rostlin
+  - [x] Užitný vzor
+  - [x] Průmyslový vzor
+  - [x] Topografie polovodičového výrobku
+  - [x] Odrůda rostlin
   - [x] Zlepšovací návrh
 
 \|--------------\| <br>
@@ -4082,7 +4082,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
   -	správní právo: přestupky, jiné správní delikty (padělky,…)
     - vznik práv prům. vlastnictví má povahu veřejnoprávního rozhodnutí ÚPV ve správním řízení X ochrana porušení těchto práv třetí osobou má povahu soukromoprávní (nerealizuje se VP postih)
 
-- ochrana je tedy jak občanskoprávní - formou klasické žaloby (primárně si myslím, že je vždy vhodné poslat předžalobní výzvu - aby pak byl nárok na proplacení nákladů řízení)
+- ochrana je tedy jak občanskoprávní - formou klasické žaloby (primárně si myslím, že je vždy vhodné poslat předžalobní výzvu - aby pak byl nárok na proplacení nákladů řízení) - zde se domnívám, že spadá do agendy krajských soudů v prvním stupni
 - tak i veřejnoprávní - určitá práva má například Česká obchodní inspekce a Celní správa, v těch nejzávažnějších případech může dojít i k naplnění skutkové podstaty trestného činu, viz výše
 
 -	**zásady práva duševního vlastnictví**
@@ -4165,6 +4165,9 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     - zápis také u ÚVP
   - **5- odrůda rostlin**
     - novost, odlišnost, uniformita a stálost Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
+    - Ochrana práv k odrůdám zajišťuje držiteli šlechtitelského osvědčení výlučné právo k využívání chráněné odrůdy.
+      - Ochrana jak na úrovni národní -> UKZUZ
+      - Ale je možné jí zřídit i na Evropské úrovni
   - **6-	zlepšovací návrh**
     - jedná se ve své podstatě o návrh na zlepšení nějaké ideje, tedy například provozního řešení
     - pokud zlepšovací návrh osobu napadne v rámci činnosti závislé práce, je povinnen jej nabídnout nejdříve zaměstnavateli
