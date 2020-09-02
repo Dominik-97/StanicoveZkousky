@@ -4802,26 +4802,27 @@ VEDLEJŠÍ
   - Zvláštností závodu je, že jednotlivé věci i dluhy, které jsou jeho součástí, z tohoto souboru vycházejí či do něho vcházejí, obchodní závod jako funkční celek však zůstává zachován
 
 **POBOČKA OBCHODNÍHO ZÁVODU**
-  - Obchodní závod může být z rozhodnutí podnikatele vnitřně členěn, mluvíme pak o vnitřní organizaci obchodního závodu
+  - **Obchodní závod** může být z rozhodnutí podnikatele vnitřně členěn, mluvíme pak o vnitřní organizaci obchodního závodu
   - Částí obchodního závodu, je podle § 503 občanského zákoníku pobočka, která je vymezena jako taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou
     - Tedy objektivní
     - A subjektivní kritérium
--Pobočka nemá právní subjektivitu, jde stále pouze o vnitřní část závodu. Pracovníci pobočky jednají jménem podnikatele provozujícího závod
--Zvláštní postavení má taková pobočka, o které podnikatel rozhodl, že bude zapsána do obchodního rejstříku, tu označuje zákon jako odštěpný závod
--U takové pobočky (odštěpného závodu) je tím zdůrazněna její relativní funkční a hospodářská nezávislost
--Odštěpný závod tímto krokem nenabývá právní subjektivity. Jeho vedoucí, zapsaný do obchodního rejstříku, je však jako zákonný zástupce podnikatele oprávněn za něj jednat ve všech záležitostech týkajících se odštěpného závodu
-•	Provozovna
--Z místního hlediska se obchodní závod člení na provozovny
--Provozovnu vymezuje živnostenský zákon jako prostor, ve kterém je živnost provozována (může jí být např. i prodejní automat)
--Živnost může být provozována i  ve více provozovnách, ke všem však podnikatel musí mít právní důvod k užívání
--Podnikatel má povinnost zajistit soulad provozovny s veřejnoprávními předpisy (bezpečnost práce, nenarušení imisemi apod.)
+  - **Pobočka** nemá právní subjektivitu, jde stále pouze o vnitřní část závodu. Pracovníci pobočky jednají jménem podnikatele provozujícího závod
+  - Zvláštní postavení má taková pobočka, o které podnikatel rozhodl, že bude zapsána do obchodního rejstříku, tu označuje zákon jako odštěpný závod
+    - U takové pobočky (**odštěpného závodu**) je tím zdůrazněna její relativní funkční a hospodářská nezávislost
+    - Odštěpný závod tímto krokem nenabývá právní subjektivity. Jeho vedoucí, zapsaný do obchodního rejstříku, je však jako zákonný zástupce podnikatele oprávněn za něj jednat ve všech záležitostech týkajících se odštěpného závodu
+    - Domnívám se ale, že se bude jednat o samostatnou účetní jednotku
+  - **Provozovna**
+    - Z místního hlediska se obchodní závod člení na provozovny (provozovna je rovněž termínus technikus živnostenského zákona)
+    - Provozovnu vymezuje živnostenský zákon jako prostor, ve kterém je živnost provozována (může jí být např. i prodejní automat)
+    - Živnost může být provozována i  ve více provozovnách, ke všem však podnikatel musí mít právní důvod k užívání
+    - Podnikatel má povinnost zajistit soulad provozovny s veřejnoprávními předpisy (bezpečnost práce, nenarušení imisemi apod.) a ohlášení provozoven na živnostenském úřadě
 
-Rodinný závod
--V rodinném závodu společně pracují manželé nebo alespoň s jedním z manželů i jejich příbuzní až do třetího stupně nebo osoby s manžely sešvagřené až do druhého stupně, přičemž závod je ve vlastnictví některé z těchto osob
--O použití zisku z rodinného závodu a o dalších důležitých rozhodnutích rozhodují členové rodiny hlasováním
--Rodinný závod, resp. vlastnický podíl na něm, může být zcizen, ostatní členové rodiny ale mají předkupní právo
--Potřeba právní regulace takového závodu vychází ze skutečnosti, že vztah mezi členy rodiny při podnikání není většinou nijak zvlášť upraven
--Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu
+**RODINNÝ ZÁVOD**
+  - V rodinném závodu společně pracují manželé nebo alespoň s jedním z manželů i jejich příbuzní až do třetího stupně nebo osoby s manžely sešvagřené až do druhého stupně, přičemž závod je ve vlastnictví některé z těchto osob
+  - O použití zisku z rodinného závodu a o dalších důležitých rozhodnutích rozhodují členové rodiny hlasováním
+  - Rodinný závod, resp. vlastnický podíl na něm, může být zcizen, ostatní členové rodiny ale mají předkupní právo
+  - Potřeba právní regulace takového závodu vychází ze skutečnosti, že vztah mezi členy rodiny při podnikání není většinou nijak zvlášť upraven
+  - Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu
 
 Dispozice s obchodním závodem
 -Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp.
@@ -5085,6 +5086,9 @@ Předchozí obchodní zákoník používal pojmu podnik
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Smlouva o výkonu funkce člena orgánu
+- Podmínky pro výkon funkce člena orgánu
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
