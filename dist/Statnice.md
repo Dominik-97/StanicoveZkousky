@@ -4161,6 +4161,9 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
   - **5- odrůda rostlin**
     - novost, odlišnost, uniformita a stálost Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
   - **6-	zlepšovací návrh**
+    - jedná se ve své podstatě o návrh na zlepšení nějaké ideje, tedy například provozního řešení
+    - pokud zlepšovací návrh osobu napadne v rámci činnosti závislé práce, je povinnen jej nabídnout nejdříve zaměstnavateli
+    - právo na využívání zlepšovacího návrh vzniká po uzavření smlouvy se zlepšovatelem s odměnou
 
 
 \|--------------------------------------\| <br>
