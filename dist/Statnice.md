@@ -3880,7 +3880,7 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 
 - **Občanský zákoník rovněž definuje určité přesné případy, které jsou považované za nekalou soutěž**
   - Zvláštní skutkové podstaty § 2976/2:
-    - demonstrativní výčet jednání – zvl. skutkových podstat; jednání, které je popsáno ve zvláštních skutkových podstatách musí vždy naplňovat i znaky generální klauzule, aby se dalo považovat za nekalou soutěž
+    - demonstrativní (ani nemůže být taxativní, neboť ani zdaleka nelze vydefinovat všechny potenciální případy nekalé soutěže) výčet jednání – zvl. skutkových podstat; jednání, které je popsáno ve zvláštních skutkových podstatách musí vždy naplňovat i znaky generální klauzule, aby se dalo považovat za nekalou soutěž
     - jiné skutkové podstaty je třeba subsumovat pod gen. klauzuli (př. dumping, obecná kontraktační povinnost)
 
 **JEDNOTLIVÉ ZVLÁŠTNÍ SKUTKOVÉ PODSTATY NEKALÉ SOUTĚŽE**
@@ -4133,7 +4133,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
       -	výsledek vynálezecké činnosti – musí se jednat o určitý vyšší nápad
       -	průmyslově využitelný (ne: diagnostika, ošetřování lids./zvíř. těla)
     -	patenty se neudělují na vynálezy, jež se příčí dobrým mravům nebo veřejnému pořádku
-    -	podnikový vynález – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu ZV neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV)
+    -	**podnikový vynález** – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu zaměstnavatele neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV)
     -	ochrana na základě přihlášky na ÚPV, od níž se odvíjí právo přednosti (priorita)
       - obsahem přihlášky musí být patentový nárok – v něm předmět, pro který se požaduje ochrana
     -	ÚPV – 2 typy průzkumu – předběžný (formální nedostatky, pak ÚPV zveřejní přihlášku 18 měsíců od vzniku priority > to umožní připomínky) a úplný (na žádost navrhovatele či jiné osoby, max. 36 měsíců od vzniku priority) > patentový rejstřík
@@ -4145,10 +4145,12 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     -	nucená licence – nikdy ÚPV neudělena, zájemce může žádat o uzavření LS, nevyužívá-li vlastník bezdůvodně vynález (ne dříve než 4 roky od přihlášky či 3 roky od udělení patentu)
     -	mezin. Úmluva o udělování evropských patentů Evropský patentový úřad (EPÚ) [≠ orgán EU]  jedna evropská přihláška  2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států -> je tedy nutno nechat patent dodatečně uznat v jednotlivých členských zemích
       -	nově je: evropský patent s jednotným účinkem - EPÚ vydává jen pro zúčastněné státy EU na základě „patentového balíčku“ (nařízení o jednotné patentové ochraně + nařízení o překladech + MS o Jednotném patentovém soudu)
+    - negativně vylučuje nepatentovatelné vynálezy
   - **2- užitný vzor**
     -	technicky méně významné řešení, které je nové, přesahuje rámec pouhé odborné dovednosti a je průmyslově využitelné („malý vynález“)
     -	právní ochrana je udělena na základě zápisu do rejstříku užitných vzorů u ÚPV na dobu 4 let s 3letým prodlužováním (max. 10 let)
     -	řízení rychlé, proveden po formálním přezkumu
+    - obsahuje i negativní definici co nemůže být UV
   - **3- průmyslový vzor**
     -	vzhled výrobku nebo jeho části spočívající ve znacích linií, obrysů, barev, tvaru, struktury nebo materiálů výrobku samého nebo jeho zdobení představuje estetické aspekty designu
     -	způsobilý k ochraně, je-li nový a má-li individuální podobu zápisem do rejstříku prům. vzorů u ÚPV na dobu 5 let, kterou lze max. 4x obnovit  max. 25 let
@@ -4356,7 +4358,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 
 **ZPŘÍSNĚNÍ POŽADAVKŮ KLADENÝCH NA PODNIKATELE**
   - A- Informační povinnosti:
-    - důležitá je transparentnost -> protistrana je oprávněna vědět, kdo je za podnikatele oprávněn jednat a v jakém rozsahu, dále informace o hosp. situaci podnikatele a další údaje > povinnost zápisu do OR/ŽR
+    - důležitá je transparentnost -> protistrana je oprávněna vědět, kdo je za podnikatele oprávněn jednat a v jakém rozsahu, dále informace o hosp. situaci podnikatele a další údaje > povinnost zápisu do OR/ŽR, rovněž informační povinnost například ve vztahu uzavírání smluv se spotřebitelem na dálku
     - povinnost uvádět na obchodních listinách (obchodní dopisy, objednávkové listy, faktury a smlouvy) údaje o jménu a sídle (+ skutečnost o tom, že je zapsán v OR + pokud má svůj identifikační údaj – IČO)
     - zákon podnikatelům neukládá povinnost mít internetové stránky X ZOK: AS a družstva
       - pokud si podnikatel zřídí internetové stránky, musí zde uvádět stejné údaje, jako na obchodních listinách
