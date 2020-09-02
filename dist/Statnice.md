@@ -4777,6 +4777,10 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Obchodní závod
+- [ ] Rodinný závod
+- [ ] Dispozice s obchodním závodem
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -4784,6 +4788,115 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+•	Obchodní závod
+-Obchodní závod je definován § 502 ObčZ jako „organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti“, přitom se má za to (vyvratitelná domněnka), že „závod tvoří vše, co zpravidla slouží k jeho provozu“
+-Definice obchodního závodu staví na objektivním prvku - organizovaný soubor jmění a subjektivním prvku - vůle podnikatele používat toto jmění k podnikání
+-Podnikatel k provozu závodu zpravidla vyčlení určité věci (majetek), provozem závodu však soustavně vstupuje do určitých právních vztahů, ze kterých mu vznikají i dluhy, obchodní závod je souhrnem majetku i dluhů (jmění)
+-Podnikatel si může zajišťovat provoz obchodního závodu buď sám (typicky v případě drobného živnostníka), nebo ve spolupráci s jeho společníky, rodinou či zaměstnanci
+-Obvyklou součástí závodu budou často i věci nehmotné (patenty, užitné vzory,) či práva k užívání určitých věcí (nájem provozovny) ochranné známky
+-Zvláštností závodu je, že jednotlivé věci i dluhy, které jsou jeho součástí, z tohoto souboru vycházejí či do něho vcházejí, obchodní závod jako funkční celek však zůstává zachován
+
+Pobočka obchodního závodu:
+-Obchodní závod může být z rozhodnutí podnikatele vnitřně členěn, mluvíme pak o vnitřní organizaci obchodního závodu
+-Částí obchodního závodu, je podle § 503 občanského zákoníku pobočka, která je vymezena jako taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou
+-Pobočka nemá právní subjektivitu, jde stále pouze o vnitřní část závodu. Pracovníci pobočky jednají jménem podnikatele provozujícího závod
+-Zvláštní postavení má taková pobočka, o které podnikatel rozhodl, že bude zapsána do obchodního rejstříku, tu označuje zákon jako odštěpný závod
+-U takové pobočky (odštěpného závodu) je tím zdůrazněna její relativní funkční a hospodářská nezávislost
+-Odštěpný závod tímto krokem nenabývá právní subjektivity. Jeho vedoucí, zapsaný do obchodního rejstříku, je však jako zákonný zástupce podnikatele oprávněn za něj jednat ve všech záležitostech týkajících se odštěpného závodu
+•	Provozovna
+-Z místního hlediska se obchodní závod člení na provozovny
+-Provozovnu vymezuje živnostenský zákon jako prostor, ve kterém je živnost provozována (může jí být např. i prodejní automat)
+-Živnost může být provozována i  ve více provozovnách, ke všem však podnikatel musí mít právní důvod k užívání
+-Podnikatel má povinnost zajistit soulad provozovny s veřejnoprávními předpisy (bezpečnost práce, nenarušení imisemi apod.)
+
+Rodinný závod
+-V rodinném závodu společně pracují manželé nebo alespoň s jedním z manželů i jejich příbuzní až do třetího stupně nebo osoby s manžely sešvagřené až do druhého stupně, přičemž závod je ve vlastnictví některé z těchto osob
+-O použití zisku z rodinného závodu a o dalších důležitých rozhodnutích rozhodují členové rodiny hlasováním
+-Rodinný závod, resp. vlastnický podíl na něm, může být zcizen, ostatní členové rodiny ale mají předkupní právo
+-Potřeba právní regulace takového závodu vychází ze skutečnosti, že vztah mezi členy rodiny při podnikání není většinou nijak zvlášť upraven
+-Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu
+
+Dispozice s obchodním závodem
+-Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp.
+-Pro koupi závodu stanoví ObčZ určitá speciální pravidla, podpůrně se však užijí obecná ustanovení o kupní smlouvě
+-Koupí závodu kupující nabývá všechno, co k závodu jako celku v okamžiku přechodu vlastnictví závodu patří, vyjma licencí, u kterých to vylučuje jejich povaha
+-Smluvní strany mohou z koupě jednotlivou věc i vyloučit, integrita obchodního závodu tím však nemůže být narušena
+-Koupí závodu na kupujícího přecházejí všechna práva a povinnosti ze zaměstnaneckých vztahů
+-Na kupujícího přecházejí ze zákona pohledávky a dluhy příslušející k závodu, vyjma těch, jejichž existenci nemohl kupující rozumně předpokládat (tj. objektivně nepředvídatelné dluhy ze zákona na nabyvatele nepřecházejí)
+-Neudělí-li přitom věřitel souhlas k převzetí dluhu kupujícím, ručí za splnění dluhu prodávající
+-Kupující, který je zapsán do veřejného rejstříku, nabývá vlastnictví závodu zveřejněním dokladu o koupi
+-Kupující, který není zapsán do veřejného rejstříku, nabývá vlastnictví závodu účinností smlouvy
+-Po uzavření smlouvy prodávající závod kupujícímu předá a provede o tom zápis
+-V zápisu strany uvedou výčet všeho, co předaný závod zahrnuje a co se kupujícímu předává , i všeho, co chybí, ačkoliv to předáno mělo být
+-Prodávající je povinen upozornit kupujícího na vady prodaného závodu, o kterých věděl, nebo vědět měl
+-Pokud dojde k vadnému plnění, náleží kupujícímu práva z vadného plnění pro kupní smlouvu
+-Koupí závodu ze zákona přecházejí dluhy, které jsou jeho součástí (souhlas věřitele se k samotnému přechodu dluhu nepožaduje, bez něho však prodávající zůstává ručitelem)
+-Pokud se ale zhorší dobytnost určité pohledávky, má její věřitel, který s prodejem závodu nesouhlasil, právo domáhat se, aby soud rozhodl, že prodej závodu je vůči němu neúčinný
+•	-Ustanovení zákona o koupi závodu se použijí i pro ostatní převody vlastnického práva k němu
+•	-Jakékoliv dispozice, které lze provádět se závodem jako celkem lze provádět i s jeho částí - pobočkou
+Předchozí obchodní zákoník používal pojmu podnik
+-Termínem podnik však evropské právo zároveň označuje subjekt odlišný od člověka, který sám právně jedná (především v kontextu evropské práva na ochranu hospodářské soutěže)
+-Nový občanský zákoník se tak vrátil k tradičnímu označení „obchodní závod“, používaném prvorepublikovými právními předpisy
+
+1. ZÁVOD JAKO PŘEDMĚT DISPOZICE
+•	─      závod je obchodovatelnou věcí a tudíž s ním lze i disponovat
+•	─      nejčastější jeho dispozicí je úplatný převod (prodej)
+•	─      ↪ speciální ustanovení reflektující zvláštní povahu závodu jako věci hromadné
+•	2. KOUPĚ ZÁVODU
+•	─      na základě kupní smlouvy, jejímž předmětem je závod či jeho část tvořící samostatnou org. složku nabývá kupující vše, co k závodu jako celku náleží
+•	─      v OZ není zvl. smluvním typem (X ObchZ: prodej podniku = sml. typ)  avšak máme zvláštní ustanovení o koupi závodu (§ 2175-2183 OZ) – v nepokrytém rámci se subsidiárně aplikuje obecné úprava koupě
+•	─      smluvními stranami smlouvy o koupi závodu typicky podnikatelé (nemusí být vždy: např. prodává dědic)
+•	─      převod závodu či podstatné části (> podstatná změna struktury či předmětu podnikání/činnosti)  schválení nevyšším orgánem OK (všichni společníci / valná hromada / členská schůze); souhlas musí být s převodem – tj. základními parametry (ne nutně s obsahem smlouvy – ale může)
+•	─      zákon nepředepisuje písemnou formu smlouvy o koupi závodu
+•	─      okamžik přechodu vlastnictví na kupujícího:
+•	-        kupující není zapsán ve VR  uzavřením smlouvy (má translační účinek)
+•	-        kupující je zapsán ve VR  zveřejněním údaje, že uložil doklad o koupi závodu do sbírky listin
+•	─      univerzalita nabytí závodu (šetří transakční náklady)
+•	-         kupující se stává vlastníkem jednotlivých věcí, které závod tvoří, aniž by pro jejich nabytí bylo třeba zvláštních nabývacích titulů
+•	-        při koupi lze vyloučit jednotlivou položku, ale celek nesmí ztratit vlastnost závodu
+•	-        nabývání nemovitostí: ? je zápis do KN konstitutivní (běžně vždy), nebo deklaratorní (nedělený okamžik nabytí vlastnictví závodu) ? – učebnice: spíše to druhé (povaha závodu)
+•	-         kupující se stává dlužníkem dluhů a věřitelem pohledávek, aniž by musel uzavírat jednotlivé smlouvy o jejich převzetí (přejímá však pouze dluhy jemu známé či rozumně předpokladatelné)
+•	-         kupující nastupuje do nájemních smluv, kterými mohou být dále pronajímány jednotlivé prostory závodu sloužící k podnikání (učebnice má za to, že písemný souhlas pronajímatele se neuplatní, protože nejde o převod nájmu, ale vlastně o přechod práv)
+•	-         na kupujícího přecházejí i P@P z pracovněprávních vztahů a z kolektivních smluv (§ 338 ZP)
+•	-         kupující nabývá i práva z duševního, zejména průmyslového vlastnictví, která jsou součástí závodu (nelze převést práva, u nichž to vylučuje jejich povaha, např. autorské právo)
+•	─      X nepřecházejí: veřejnoprávní oprávnění (živnost. oprávnění) či povinnosti (dluh na daních)  ty nejsou součástí závodu a ulpívají na prodávajícím
+•	─      ochrana věřitelů:
+•	-        k převzetí dluhu kupujícím se nevyžaduje souhlas věřitele (X obecná úprava §1888), nicméně nedá-li souhlas, pak bude kupující sice dlužníkem, ale prodávající bude ručitelem
+•	-        právo věřitele domáhat se relativní neúčinnosti prodeje závodu ve stanovené době u soudu (to pomůže věřiteli tehdy, když by chtěl kupující vůči němu uplatnit námitku vzešlou ze vzáj. vztahu)
+•	-        oznamovací povinnost prodávajícího vůči svým věřitelům a dlužníkům
+•	─      kupní cena  § 2176 má se za to, že je ujednána ve smlouvě na základě údajů v účetních záznamech ke dni uzavření (má-li nabýt účinnosti později, mění se v závislosti na zvýšení/snížení jmění, k němuž mezitím došlo)
+•	-    v reálu se hodnota často liší od ocenění v účetnictví, proto se častěji použijí jiné metody než dispozitivní § 2176
+•	─      odstoupení od smlouvy  „zpětný pohyb“ pohledávek a dluhů > odstoupením od smlouvy se prodávající stává dlužníkem a kupující ručitelem (nedal-li věřitel souhlas k převzetí dluhu prodávajícím), informační povinnost kupujícího vůči věřitelům
+•	─      jiné převody než KS ustanovení o koupi závodu se použijí obdobně; u směny (nejprve zvl. úprava směny > obdobně zvl. úprava koupě závodu > přiměřeně obecná úprava koupě), i darování
+•	3. ZÁVOD JAKO PŘEDMĚT NEPENĚŽITÉHO VKLADU DO OK
+•	 musí být oceněn znalcem, použije přiměřeně úprava KS; OK se vznikem stává věřitelem pohledávek a dlužníkem dluhů závodu; ručitel = vkladatel závodu
+•	4. PACHT ZÁVODU
+•	─      závod může být předmětem pachtu, protože je svou povahou věcí přinášející užitek
+•	─      vlastník závodu nepozbývá vlastnické právo k závodu, ale dočasně převádí práva (užívací a požívací)
+•	─      propachtovatel – přenechává pastýři závod (či jeho část) k dočasnému užívání a požívání
+•	─      X pachtýř  - platí pachtovné nebo poskytuje poměrnou část výnosu závodu (či jeho části)
+•	(pachtýřem může být jen osoba s oprávněním k podnikání, k němuž závod slouží)
+•	─      ustanovení o pachtu závodu (§ 2349-2357 OZ) + obecná úprava pachtu + přiměřeně úprava nájmu
+•	─      pro smlouvu o pachtu závodu není předepsaná písemná forma
+•	─      pacht závodu nemusí být schválen nejvyšším orgánem OK (jako převod, zastavení)
+•	─      pachtýř nezapsaný ve VR > nabývá účinností smlouvy X zapsaný > zveřejněním založení pachtu do sbírky listin
+•	─      pachtýř se stává věřitelem pohledávek souvisejících s provozem závodu; dluhy pachtýř přejímá jen za podmínky, že o jejich existenci věděl nebo je musel rozumně předpokládat
+•	─      ochrana věřitelů obdobně jako u koupi závodu  informační povinnost + ručení propachtovatele za splnění dluhů souvisejících s provozem závodutoto zákonné ručení nastává pouze v případě, pokud věřitel neudělil souhlas s převzetím dluhu pachtýřem (právo odporu věřitele – na relativní neúčinnost pachtu)
+•	─      pachtýř může závod užívat v takovém rozsahu, v jakém je to třeba k jeho řádnému provozování musí jednat v rámci péče řádného hospodáře
+•	─      při zániku pachtu: odevzdání závodu ve stavu, který odpovídá běžnému opotřebení a změnám,k nimž došlo při řádném provozu závodu; ochrana věřitelů: informační povinnost pachtýře + ručí za přešlé dluhy
+•	5. ZASTAVENÍ ZÁVODU
+•	─      vlastník závodu nepozbývá vlastnické právo k závodu, často ani právo jej užívat a požívat, neboť se zpravidla nepředává zástavnímu věřiteli, zajištěný dluh je často hrazen z výnosu provozu zastaveného podniku
+•	─      zástavní právo je právem k věci cizí (iura in re aliena)
+•	─      není upraveno jako zvláštní smluvní typ  aplikuje se obecná úprava zástavního práva
+•	─      zástavním právem lze zajistit peněžitý, tak i nepeněžitý dluh, zároveň existující dluh, tak i dluh, který teprve v budoucnu vznikne + lze jím zajistit i dluh třetí osoby (praktické typicky v rámci koncernu)
+•	─      zástavní právo se zřizuje zástavní smlouvou určení závodu-předmětu zástavy + dluhu, pro nějž se ZP zřizuje
+•	─      ↪ toto zástavní právo vznikne až zápisem do rejstříku zástav, který vede Notářská komora ČR
+•	─      zástavní smlouva musí být pořízena ve formě veřejné listiny
+•	─      OK: zastavení závodu musí být schváleno nejvyšším orgánem společnosti
+•	─      závod je hromadnou věcí > ZP se vztahuje na všechny jednotlivé věci, které k závodu náleží, ať už jsou kdekoli + i na každou jednotlivou věc, která k závodu přibude (za trvání ZP nelze sjednávat další ZP k jednotlivinám)
+•	─      zastavením závodu vzniká věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněženého závodu k výkonu ZP bude zpravidla docházet prodejem závodu
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
