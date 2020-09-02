@@ -3690,7 +3690,7 @@ finanční arbitr
     -	např. advokáti, architekti, daňoví poradci, lékaře apod.
     -	jedná se o poskytování individualizovaných služeb vysoce kvalifikovanými osobami
     -	regulaci podnikání vykonávají profesní komory jako PO veřejného práva (dříve cechy)
-      -	↪ povinné členství (poplatky) + disciplinární působnost komory nad svými členy, svoje disciplinární orgány etc.
+      - povinné členství (poplatky) + disciplinární působnost komory nad svými členy, svoje disciplinární orgány etc.
     -	svéprávnost, bezúhonnost, odbornost, složení zkoušky, slibu; někdy zákaz jiné činnosti
   - b- ostatní případy neživnostenského povolání - standardně PO
     -	mají vlastní zákon, který upravuje podmínky podnikání v daném odvětví nebo oboru
@@ -3728,7 +3728,7 @@ finanční arbitr
     - Jedná se tedy o obecné pravidlo, které nemusí být vždy zásadním předpokladem pro provozování živnosti, **osoby, které se však do OR zapisovat musí, mohou zahájit podnikání až dnem zápisu - konstitutivní zápis, a to v rozsahu, v jaké jsou zapsáni**
 
 -	nevyžaduje se znalost českého jazyka, avšak je tu povinnost zajistit, aby v provozovně určené pro prodej zboží nebo poskytování služeb spotřebitelům, byla přítomna osoba splňující podmínku znalosti Čj či Sj
--	podnikání podle zákona o advokacii  status tzv. evropského advokáta (zapisování do seznamu vedený ČAK) není oprávněn sepisovat některé smluvní typy (např. o převodu nemovitosti)
+-	podnikání podle zákona o advokacii -> status tzv. evropského advokáta (zapisování do seznamu vedený ČAK)-> není oprávněn sepisovat některé smluvní typy (např. o převodu nemovitosti)
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -3778,7 +3778,7 @@ A) PO/FO, kterým ukládá zápis do OR zákon, a B) o podnikatelích FO, které
 ─	veřejný rejstřík = rejstřík osob (PO/FO), který je za VR prohlášen zákonem (OR, spolkový rejstřík, nadační rejstřík,…) X veřejný seznam = seznam věcí, do kt. může každý nahlížet (KN, patentový rejstřík) X rej. zástav
 ─	rejstříkový spis = všechny dokumenty, tj. písemnosti v listinné nebo elektronické podobě, které soudu došly nebo které vydal ve vztahu ke konkrétní zapsané osobě
 ─	sbírka listin = součástí OR a tvoří ji především dokumenty, jejichž uložení do této sbírky ukládá zákon
-─	§ 120 (3) OZzmění-li se zapsaná skutečnost, oznámí zapsaná osoba, nebo ten, komu to ukládá zákon, změnu bez zbytečného odkladu tomu, kdo veřejný rejstřík vede  návrh na změnu na předepsaném formuláři
+─	§ 120 (3) OZ->změní-li se zapsaná skutečnost, oznámí zapsaná osoba, nebo ten, komu to ukládá zákon, změnu bez zbytečného odkladu tomu, kdo veřejný rejstřík vede -> návrh na změnu na předepsaném formuláři
 ─	TČ: ohrožení nebo omezení jiného na právech tím, že zapsaná osoba nepodá bez zbytečného odkladu návrh na zápis zákonem stanoveného údaje do OR nebo neuloží listinu do sbírky listin, ač je k tomu podle zákona nebo smlouvy povinna, je trestným činem (dále i uvedení nepravdivých nebo hrubě zkreslených údajů)
 ─	rejstříkový soud = krajský soud, v jehož obvodu je obecný soud osoby, jíž se zápis ve VR týká (u PO je to KS, v jehož obvodu má sídlo; u FO KS, v jehož obvodu má sídlo nebo bydliště)
 ─	princip formální publicity – každý může dostat opis zápisu či listiny v OR (či potvrzení, že údaj v OR není)
@@ -3795,7 +3795,7 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 Řízení o zápisu:  
 	- na návrh
 	- bez návrhu (když má dojít ke shodě mezi stavem v OR s faktickým stavem)
-─	odmítnutí návrhu na zápis  neoprávněná osoba, nebyl podán na formuláři, neobsahuje všechny podstatné náležitosti, nesrozumitelný nebo neurčitý návrh, chybí listiny, zakázaný účel  soud: výzva k odstranění vad
+─	odmítnutí návrhu na zápis  neoprávněná osoba, nebyl podán na formuláři, neobsahuje všechny podstatné náležitosti, nesrozumitelný nebo neurčitý návrh, chybí listiny, zakázaný účel -> soud: výzva k odstranění vad
 ─	účastníci řízení: navrhovatel a zapisovaná osoba (NE osoby zapisované do OR v rámci zápisu PO), příp. i SZ
 •	A) zápis bez rozhodnutí
 ─	když je podkladem rozhodnutí soudu nebo správního orgánu
@@ -3803,8 +3803,8 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 ─	navrhovatel = zapisovaný (jediný účastník) / prvozápis PO / přeměna OK, všechny zúčastněné OK mají v obvodu sídlo
 •	B) zápis rozhodnutím (usnesením)
 -	zápis se provede až po nabytí právní moci usnesení (ke dni v návrhu, nejdříve ale k právní moci)
-─	lhůta pro zápis/rozhodnutí RS: nejpozději do 5 pracovních dnů (ode dne podání návrhu)
-─	↪ fikce zápisu – neprovede-li RS ve lhůtě zápis ani nerozhodne, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí lhůty (povinnost promítnout zápis fikcí do 2 pracovních dnů)
+─	lhůta pro zápis/rozhodnutí-> RS: nejpozději do 5 pracovních dnů (ode dne podání návrhu)
+  ─	 fikce zápisu – neprovede-li RS ve lhůtě zápis ani nerozhodne, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí lhůty (povinnost promítnout zápis fikcí do 2 pracovních dnů)
 ─	X opravný prostředek u této fikce: oprávněné osoby mohou do 1 měsíce podat návrh na změnu či výmaz
 (to mohou i osoby zapisované v rámci zápisu PO + ty se mohou domáhat změny vždy, jsou-li vymazány z OR, i bez fikce)
 ─	zápis do OR mohou vedle soudu provádět také notáři (pouze ti, co se psali podkladový NZ):
@@ -4112,16 +4112,17 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     -	utajení musí být vlastníkem v jeho zájmu zajištěno odpovídajícím způsobem (sejf, omezený přístup,..)
   -	nositel obchodního tajemství OZ = vlastník (nikoli „podnikatel“)
   -	utajované skutečnosti uplatňované ve všech aspektech podnikání + pro podnikání vlastníka podstatné
-  -	ze zařazení mezi nehmotné věci plyne ochrana instituty vlastnického práva avšak komplikované použití všech ochranných prostředků (např. vznik stejného obchodního tajemství u dvou subjektů nezávisle na sobě  oba jsou vlastníci), navíc by tu byla silnější ochrana méně významného práva (než např. u patentu)  lze uvažovat o pouhém právu držby informací
-    -	+ zvl. skutková podstata nekalé soutěže porušení obchodního tajemství ochrana relativní a užší (tj. inter partes + OT využito pouze v hosp. styku) než oproti absolutnímu právu; v něčem ale širší: může ho uplatnit i licenční nabyvatel, tj. nevlastník
+  -	ze zařazení mezi nehmotné věci plyne ochrana instituty vlastnického práva-> avšak komplikované použití všech ochranných prostředků (např. vznik stejného obchodního tajemství u dvou subjektů nezávisle na sobě -> oba jsou vlastníci), navíc by tu byla silnější ochrana méně významného práva (než např. u patentu) -> lze uvažovat o pouhém právu držby informací
+    -	+ zvl. skutková podstata nekalé soutěže porušení obchodního tajemství-> ochrana relativní a užší (tj. inter partes + OT využito pouze v hosp. styku) než oproti absolutnímu právu; v něčem ale širší: může ho uplatnit i licenční nabyvatel, tj. nevlastník
   -	porušení OT = jednající jinému neoprávněně sdělí/zpřístupní či pro sebe či jiného využije
-  -	**know-how** = nepatentované zkušenosti a jiné poznatky, které jsou v soukromém zájmu utajovány není jasně vymezeno, často jako synonymum k „obchodnímu tajemství“, ale širší (-> musí splňovat 3 znaky: utajené, podstatné pro provozování závodu a určitelné); mohou být chráněny max. z generální klauzule nekalé soutěže, popř. držba informace
-  -	OT & know-how ve smlouvách  může být smluvně poskytováno dalším osobám
-    -	když je hlavním plněním = smlouva o know-how („nepravá licence“) ↪ buď jen relativní právo OT užívat (≈obdoba nevýhradní LS), nebo na něj OT převést (≈ obdoba výhradní LS)
+  -	**know-how** = nepatentované zkušenosti a jiné poznatky, které jsou v soukromém zájmu utajovány-> není jasně vymezeno, často jako synonymum k „obchodnímu tajemství“, ale širší (-> musí splňovat 3 znaky: utajené, podstatné pro provozování závodu a určitelné); mohou být chráněny max. z generální klauzule nekalé soutěže, popř. držba informace
+  -	OT & know-how ve smlouvách -> může být smluvně poskytováno dalším osobám
+    -	když je hlavním plněním = smlouva o know-how („nepravá licence“)
+      - buď jen relativní právo OT užívat (≈obdoba nevýhradní LS), nebo na něj OT převést (≈ obdoba výhradní LS)
     -	nebo součástí smlouvy o převodu práv (např. v rámci kupní smlouvy převádějící patent)
     -	nebo součástí smlouvy o dílo, o franšíze, distribuci, výzkumu a vývoji apod.
     -	„opční smlouva“ – nabyvatel se za odměnu s utajovaným OT/know-how (pod hrozbou sankce za vyzrazení) seznámí a má čas se rozhodnout, zda jej ne/přijme (cena za licenci se pak sníží o cenu opce)
-  -	veřejnoprávní ochrana OT § 248 TZ jako úmyslný čin porušení předpisů o hosp. soutěži
+  -	veřejnoprávní ochrana OT ->§ 248 TZ jako úmyslný čin porušení předpisů o hosp. soutěži
   -	jiné typy utajovaných údajů: důvěrné informace při sjednávání smlouvy, povinnost důvěrnosti v urč. funkcích (auditoři, advokáti, atp.), ochrana osobních údajů, konkurenční doložka (max. na 5 let X v PP 1 rok + náhrada), utajované informace (z. o ochraně utaj. info, o bezpečnosti ČR, o Policii ČR, o BIS, o zpravodaj. službách…)
 \-\-VEDLEJŠÍ\-\-
 
@@ -4140,7 +4141,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
       -	výsledek vynálezecké činnosti – musí se jednat o určitý vyšší nápad
       -	průmyslově využitelný (ne: diagnostika, ošetřování lids./zvíř. těla)
     -	patenty se neudělují na vynálezy, jež se příčí dobrým mravům nebo veřejnému pořádku
-    -	**podnikový vynález** – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu zaměstnavatele neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV), přihlásit tedy může i právnická osoba
+    -	**podnikový vynález** – vytvořen původcem ke splnění úkolu z prac. poměru -> původce je povinen o vytvoření podnikového vynálezu zaměstnavatele neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV), přihlásit tedy může i právnická osoba
     -	ochrana na základě přihlášky na ÚPV, od níž se odvíjí právo přednosti (priorita)
       - obsahem přihlášky musí být patentový nárok – v něm předmět, pro který se požaduje ochrana
     -	ÚPV – 2 typy průzkumu – předběžný (formální nedostatky, pak ÚPV zveřejní přihlášku 18 měsíců od vzniku priority > to umožní připomínky) a úplný (na žádost navrhovatele či jiné osoby, max. 36 měsíců od vzniku priority) > patentový rejstřík
@@ -4150,7 +4151,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     -	převod patentu: KS + intabulace > účinný až zápisem do patentového rejstříku
     -	pís. prohlášení o veřej. nabídce licence – vyznačí se v rejstříku (vynález může užít, kdo na ni přistoupí), udržovací poplatky se platí pak jen poloviční
     -	nucená licence – nikdy ÚPV neudělena, zájemce může žádat o uzavření LS, nevyužívá-li vlastník bezdůvodně vynález (ne dříve než 4 roky od přihlášky či 3 roky od udělení patentu)
-    -	mezin. Úmluva o udělování evropských patentů Evropský patentový úřad (EPÚ) [≠ orgán EU]  jedna evropská přihláška  2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států -> je tedy nutno nechat patent dodatečně uznat v jednotlivých členských zemích
+    -	mezin. Úmluva o udělování evropských patentů-> Evropský patentový úřad (EPÚ) [≠ orgán EU] -> jedna evropská přihláška -> 2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států -> je tedy nutno nechat patent dodatečně uznat v jednotlivých členských zemích
       -	nově je: evropský patent s jednotným účinkem - EPÚ vydává jen pro zúčastněné státy EU na základě „patentového balíčku“ (nařízení o jednotné patentové ochraně + nařízení o překladech + MS o Jednotném patentovém soudu)
     - negativně vylučuje nepatentovatelné vynálezy
   - **2- užitný vzor**
@@ -4160,8 +4161,8 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     - obsahuje i negativní definici co nemůže být UV
     - podání také u ÚVP
   - **3- průmyslový vzor**
-    -	vzhled výrobku nebo jeho části spočívající ve znacích linií, obrysů, barev, tvaru, struktury nebo materiálů výrobku samého nebo jeho zdobení představuje estetické aspekty designu
-    -	způsobilý k ochraně, je-li nový a má-li individuální podobu zápisem do rejstříku prům. vzorů u ÚPV na dobu 5 let, kterou lze max. 4x obnovit  max. 25 let
+    -	vzhled výrobku nebo jeho části spočívající ve znacích linií, obrysů, barev, tvaru, struktury nebo materiálů výrobku samého nebo jeho zdobení-> představuje estetické aspekty designu
+    -	způsobilý k ochraně, je-li nový a má-li individuální podobu-> zápisem do rejstříku prům. vzorů u ÚPV na dobu 5 let, kterou lze max. 4x obnovit -> max. 25 let
     -	nevztahuje se na znaky, kt. jsou předurčeny jeho technickou funkcí (např. závit objímky u žárovky)
     -	nařízení ES o ochraně průmyslových vzorů Společenství – stačí zápis na Úřadu EU pro duševní vlastnictví (EUIPO) (Alicante) na základě 1 přihlášky > pro všechny země EU
     - jinak možno pokuj jen Čr chce se ocrana - ÚVP
@@ -4170,7 +4171,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     - jedná se o znázornění polovodičů (například čipů)
     - zápis také u ÚVP
   - **5- odrůda rostlin**
-    - novost, odlišnost, uniformita a stálost Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
+    - novost, odlišnost, uniformita a stálost ->Ústřední kontrolní a zkušební zemědělský ústav – max. 25-30 let
     - Ochrana práv k odrůdám zajišťuje držiteli šlechtitelského osvědčení výlučné právo k využívání chráněné odrůdy.
       - Ochrana jak na úrovni národní -> UKZUZ
       - Ale je možné jí zřídit i na Evropské úrovni
@@ -4506,7 +4507,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 - **2- PRAMENY PRÁVNÍ ÚPRAVY**
   -	jeden z nejvýznamnějších cílů evropského práva -> řada směrnic implementovaných do právních řádů ČS
     - A)	OZ – část věnovaná spotřebitelským smlouvám:
-      - směrnice EP a Rady o právech spotřebitelů  obecná informační povinnost vůči spotřebiteli + režim smluv uzavíraných distančně nebo mimo obchodní prostory
+      - směrnice EP a Rady o právech spotřebitelů -> obecná informační povinnost vůči spotřebiteli + režim smluv uzavíraných distančně nebo mimo obchodní prostory
       - směrnice Rady o nepřiměřených podmínkách ve spotřebitelských smlouvách – zákaz smluvních podmínek (individuálně nesjednaných), které zakládají výraznou nerovnováhu práv a povinností
       - směrnice o uvádění finančních služeb pro spotřebitele na trh na dálku
       - směrnice o ochraně spotřebitele ohledně někt. aspektů timesharing smluv (dočasné užívání ubyt.zařízení)
@@ -4527,16 +4528,16 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 - **3- ZÁKLADNÍ POJMOSLOVÍ**
   -	i) spotřebitelská smlouva
     -	= smlouva, kterou podnikatel uzavře se spotřebitelem
-    -	není samostatným smluvním typem  může jí být jakýkoli smluvní typ i smlouva nepojmenovaná (uplatní se i u smluv regulovaných zvl. předpisy – svob. povolání – služby poskytované advokátem)
-    -	definičním znakem jsou její smluvní strany  B2C vztahy (business-to-consumers)
+    -	není samostatným smluvním typem -> může jí být jakýkoli smluvní typ i smlouva nepojmenovaná (uplatní se i u smluv regulovaných zvl. předpisy – svob. povolání – služby poskytované advokátem)
+    -	definičním znakem jsou její smluvní strany -> B2C vztahy (business-to-consumers)
   -	ii) podnikatel
     -	osoba, která při oslovení spotřebitelů, vyjednávání, uzavírání a plnění smlouvy vystupuje v souvislosti se svou podnikatelskou činností (§ 420 OZ)
-      - širší pojetí  osoba, která uzavírá smlouvu 1) související s její vlastní obchodní, výrobní nebo obdobnou činností [činnost obdobná podnikání, nevykazuje některý z jeho znaků (např. účel dosažení zisku > neziskovky, osoby veř. práva – VŠ, nemocnice…)] + 2) při samostatném výkonu svého povolání
+      - širší pojetí -> osoba, která uzavírá smlouvu 1) související s její vlastní obchodní, výrobní nebo obdobnou činností [činnost obdobná podnikání, nevykazuje některý z jeho znaků (např. účel dosažení zisku > neziskovky, osoby veř. práva – VŠ, nemocnice…)] + 2) při samostatném výkonu svého povolání
       - správního deliktu se dopustí ten, kdo vyvolává dojem nebo nepravdivě uvádí, že nejedná v rámci své podnikatelské činnosti
   -	iii) spotřebitel
     -	§ 419 OZ -> spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti uzavírá smlouvu s podnikatelem nebo s ním jinak jedná > spotřebitelem nemůže být PO
     -	status spotřebitele nelze vnímat absolutně – vždy záleží na okolnostech daného jednání
-    -	souvislost s podnikatelskou činností  problém v případě podnikatele FO – kdy jedná/nejedná v rámci své podnikatelské činnosti X smíšená povaha jednání (podnikatel FO kupuje mobilní telefon, který chce používat pro soukromé účely, ale také při podnikání)  evropská judikatura tenduje spíše k odmítnutí spotřebitelské ochrany (podnikatelský účel jednání by musel být zcela okrajový)
+    -	souvislost s podnikatelskou činností -> problém v případě podnikatele FO – kdy jedná/nejedná v rámci své podnikatelské činnosti X smíšená povaha jednání (podnikatel FO kupuje mobilní telefon, který chce používat pro soukromé účely, ale také při podnikání) -> evropská judikatura tenduje spíše k odmítnutí spotřebitelské ochrany (podnikatelský účel jednání by musel být zcela okrajový)
   -	iv) smlouva uzavíraná distančním způsobem (distanční smlouva)
     -	smlouvy, které jsou vyjednávány výlučně s využitím tzv. komunikačních prostředků na dálku
       - poštovní služba, internet, telefon nebo fax
@@ -4546,7 +4547,7 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
     -	2) prodej v jiných prostorech (mimo obvyklý prostor) – veřej. prostranství, veřej. dopr. prostředky
       -	obvyklý prostor = sídlo podnikatele, jeho pobočka, stánek, pojízdná prodejna či jiná prodejna
     -	3) i smlouvy, které sice byly uzavřené v prostoru obvyklém pro podnikatelovo podnikání, avšak bezprostředně poté, co podnikatel oslovil spotřebitele mimo tyto prostory (nalákal je dovnitř)
-    -	4) i prodejní zájezdy (Šmejdi)  podnikatelé mají oznamovací povinnost vůči ČOI (§ 20 zák. o ochraně spotřebitele), během akce + 7 dní po skončení nesmí požadovat plnění na kupní cenu
+    -	4) i prodejní zájezdy (Šmejdi) -> podnikatelé mají oznamovací povinnost vůči ČOI (§ 20 zák. o ochraně spotřebitele), během akce + 7 dní po skončení nesmí požadovat plnění na kupní cenu
 
 - **4- KOMUNIKACE PODNIKATELE SE SPOTŘEBITELEM**
   -	i) **povinnost jasné a srozumitelné komunikace**
@@ -4557,10 +4558,10 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
     - nelze-li výkladem určit obsah > zdánlivé PJ
   -	ii) **předsmluvní informační povinnosti**
     -	spotřebitel: informační deficit X podnikatel, který své produkty prodává je v dané oblasti znalý
-    -	§ 1811 OZ podnikatel v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebiteli učiní nabídku, sdělí spotřebiteli předepsané informace (údaje o podnikateli, vlastnosti produktu, cena, způsob platby, náklady na dodání, práva z vadného plnění, ze záruky)
+    -	§ 1811 OZ ->podnikatel v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebiteli učiní nabídku, sdělí spotřebiteli předepsané informace (údaje o podnikateli, vlastnosti produktu, cena, způsob platby, náklady na dodání, práva z vadného plnění, ze záruky)
     -	u distančních smluv či podomního prodeje je informační povinnost podnikatele vymezena šířeji (o nákladech na prostředky dálkové komunikace, nesmí požadovat platby, na kt. předem neupozornil)
   -	iii) **závaznost předsmluvních informací**
-    -	spotřebitelská smlouva uzavřená distančně nebo mimo obchodní prostory musí obsahovat údaje dříve sdělené spotřebiteli  OZ sice připouští smluvní ujednání, kterými se lze odchýlit od již sdělených údajů, avšak tyto změny musí být výslovně ujednány
+    -	spotřebitelská smlouva uzavřená distančně nebo mimo obchodní prostory musí obsahovat údaje dříve sdělené spotřebiteli -> OZ sice připouští smluvní ujednání, kterými se lze odchýlit od již sdělených údajů, avšak tyto změny musí být výslovně ujednány
       - pokud k tomuto ujednání nedojde, bude platit obsah smlouvy pro spotřebitele příznivější a původní údaje se tak k tíži podnikatele stávají součástí závazku ze spotřebitelské smlouvy
 
 - **5- DODÁNÍ NEOBJEDNANÉHO PLNĚNÍ**
