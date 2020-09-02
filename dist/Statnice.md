@@ -4134,7 +4134,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
       -	výsledek vynálezecké činnosti – musí se jednat o určitý vyšší nápad
       -	průmyslově využitelný (ne: diagnostika, ošetřování lids./zvíř. těla)
     -	patenty se neudělují na vynálezy, jež se příčí dobrým mravům nebo veřejnému pořádku
-    -	**podnikový vynález** – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu zaměstnavatele neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV)
+    -	**podnikový vynález** – vytvořen původcem ke splnění úkolu z prac. poměru  původce je povinen o vytvoření podnikového vynálezu zaměstnavatele neprodleně informovat (právo patentu přechází na ZV); původci však zůstává právo na přiměřenou ochranu (může do 3 měs. přihlásit, nepřihlásí-li jej ZV), přihlásit tedy může i právnická osoba
     -	ochrana na základě přihlášky na ÚPV, od níž se odvíjí právo přednosti (priorita)
       - obsahem přihlášky musí být patentový nárok – v něm předmět, pro který se požaduje ochrana
     -	ÚPV – 2 typy průzkumu – předběžný (formální nedostatky, pak ÚPV zveřejní přihlášku 18 měsíců od vzniku priority > to umožní připomínky) a úplný (na žádost navrhovatele či jiné osoby, max. 36 měsíců od vzniku priority) > patentový rejstřík
@@ -4491,11 +4491,11 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
       - smlouvy se spotřebitely mají poměrně mnoho zakázaných ujednání, které jsou stiženy absolutní neplatností - například ve vztahu k ochraně spotřebitele
 
 **POVINNOSTI PODNIKATELE ZE SPOTŘEBITELSKÝCH SMLUV**
-1. VZTAH PODNIKATEL-SPOTŘEBITEL
-─	↑ specializace výroby/produktů > ↓ reálná schopnost osob činit plně informované rozhodnutí o pořízení
-─	spotřebitel má zřídka možnost prosadit svou vůli ohledně podmínek pořízení (jen volbou jiného podnikatele)
-─	informační deficit, hosp. nerovnost > silnější postavení > neochota modifikovat navržené smluvní podmínky
-─	> p. úprava ČR+EU > snaha překonat materiální nerovnost, posílit slabší faktické postavení spotřebitelů
+- 1- VZTAH PODNIKATEL-SPOTŘEBITEL
+-	↑ specializace výroby/produktů > ↓ reálná schopnost osob činit plně informované rozhodnutí o pořízení
+-	spotřebitel má zřídka možnost prosadit svou vůli ohledně podmínek pořízení (jen volbou jiného podnikatele)
+-	informační deficit, hosp. nerovnost > silnější postavení > neochota modifikovat navržené smluvní podmínky
+-	> p. úprava ČR+EU > snaha překonat materiální nerovnost, posílit slabší faktické postavení spotřebitelů
 2. PRAMENY PRÁVNÍ ÚPRAVY
 ─	jeden z nejvýznamnějších cílů evropského práva  řada směrnic implementovaných do právních řádů ČS
 A)	OZ – část věnovaná spotřebitelským smlouvám:
@@ -4594,7 +4594,10 @@ E)	obecná úprava závazkového práva
 -	písemná forma > lze se dovolat > úvěr se považuje za úročený ve výši repo sazby ČNB
 -	vázaný úvěr: odstoupit lze do 14 dnů (ať už uzavřen prezenčně, či distančně) X úvěr na bydlení: není právo odstoupit, ale doba na rozmyšlenou – povinnost podnikatele na 14 dnů zafixovat podmínky
 -	smluvní pokuta nesmí přesáhnout 1 ‰ denně ani celkem polovinu celkové výše úvěru
-9. MIMOSOUDNÍ ŘEŠENÍ SPORŮ
+9. SPECIFICKÉ USTANOVENÍ O KUPNÍ SMLOUVĚ V OBCHODU, ČI NA SMLOUVY UZAVÍRANÉ DISTANČNĚ
+  - například povinná záruka za jakost při prodávání výrobku
+  - u smluv uzavíraných distančně pak třeba možnost do 14 dnů odstoupit od smlouvy
+10. MIMOSOUDNÍ ŘEŠENÍ SPORŮ
 -	po 1. 12. 2016 je vyloučeno řešit spory ze spotřebitelských smluv v rozhodčím řízení (spory ze starších smluv v něm ale řešit lze; dříve rozhodčí doložky, pak pouze separátní rozhodčí smlouvy)
 -	konciliační řízení – spotřebitel má právo jej zahájit u sporů z kupní smlouvy nebo poskytování služeb; subjekt řízení je ČOI; podnikatel poskytuje součinnost, není povinen dohodu o mimos. řešení uzavřít, musí být uzavřena do 90 dnů, jinak soud, lze pak u soudu využít důkazní prostředky získané z řízení
 
