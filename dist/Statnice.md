@@ -5222,6 +5222,81 @@ nařídit uveřejnění povinně uveřejňované informace
 
 Trestní odpovědností právnické osoby není dotčena trestní odpovědnost fyzických osob uvedených v § 8 odst. 1 a trestní odpovědností těchto fyzických osob není dotčena trestní odpovědnost právnické osoby. Byl-li trestný čin spáchán společným jednáním více osob, z nichž alespoň jedna je osoba právnická, odpovídá každá z nich, jako by trestný čin spáchala sama.
 
+1. ADMINISTRATIVNÍ ODPOVĚDNOST PODNIKATELE
+•	soukromoprávní odpovědnost: se uplatňuje pouze na základě iniciativy oprávněného (a oprávněný tuto iniciativu velmi často nevyvine); vzniká už splněním zákonných předpokladů (PPJ, Š, KN, Z)
+•	veřejnoprávní odpovědnost: k uplatnění se nevyžaduje iniciativa dotčené osoby; nevzniká samotným protiprávním jednáním, sankce se uplatní až na základě konstitutivního rozhodnutí ve správním řízení
+─	VP úprava zakotvuje: 1) povinnosti podnikatelů (k ochraně spotřebitelů a zákazníků), 2) orgány pověřené kontrolou, 3) řízení, umožňující odhalit PPJ a uložit sankce, 4) sankce
+ v SP: plnění připadá poškozenému X u VP: plnění jdou do veřejných rozpočtů
+─	VP a SP sankce se navzájem nevylučují:
+─	 SP odpovědnost za škodu je univerzální sankcí (generální skutková podstata)
+─	X skutk. podstaty VP odpovědnosti formulovány přesně a úzce a musí být zakotveny v zákoně
+─	administrativní O. koncipována podobně jako trestní, ale rozhodují tu správní orgány (ne soudy, krom přezkumu)
+─	z. č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich + z. č. 251/2016 Sb., o některých přestupcích
+─	správní ~~delikty~~ > přestupky (do 1. 7. 2017 byly „přestupky“ jen pro FO + „jiné správní delikty“ pro FO i PO)
+─	u PO + podnikatelů: objektivní odpovědnost s možností liberace ze zákonných důvodů
+─	u nepodnikatelů: subjektivní odpovědnost (tj. nutné zavinění)
+─	administrativní O. závisí na předmětu podnikání podnikatele + na řadu z nich se vztahuje i ochrana spotřebitelů (živnostníky zavazují živnostenské předpisy, dovozce celní p., všechny: daňové p.)
+sankce dle § PřeZ
+─	 správní tresty (§ 35): napomenutí, pokuta, zákaz činnosti, propadnutí věci nebo náhradní hodnoty, zveřejnění rozhodnutí o přestupku
+─	ochranná opatření (§51) omezující opatření, zabrání věci nebo náhradní hodnoty
+	(např. uzavření provozovny nesplňující hygienické předpoklady)
+přestupky PO:
+─	§ 167 OZ: „PO zavazuje protiprávní čin, kt. se při plnění úkolů dopustil člen voleného orgánu, zaměstnanec…“
+─	§ 20/1 PřeZ: PO je pachatelem, jestliže k naplnění znaků přestupku došlo jednáním FO, kt. se... považuje za osobu,
+-	jejíž jednání je přičitatelné PO a která porušila právní povinnost uloženou PO,
+-	a to při činnosti PO / v přímé souvislosti s činností PO / ku prospěchu PO /v zájmu PO
+		[platí i pro organizační složku nebo jiný útvar, který je součástí PO]
+─	§ 20/2 PřeZ: Za osobu, jejíž jednání je přičitatelné PO, se…. považuje
+-	a) statutární orgán nebo člen statutárního orgánu,
+-	b) jiný orgán PO nebo jeho člen,
+-	c) zaměstnanec nebo osoba v obdobném postavení při plnění úkolů vyplýv. z tohoto postavení,
+-	d) FO, která plní úkoly PO,
+-	e) FO, kterou PO používá při své činnosti, nebo
+-	f) FO, která za PO jednala, jestliže PO výsledku takového jednání využila.
+─	z. o některých přestupcích: § 9 přestupky na úseku podnikání - přestupkem je:
+─	FO/PO: provozování podnikání bez veřejnoprávního povolení, je-li vyžadováno
+─	PO/podnikající FO: porušování povinností v souv. se zápisu do OR, nepoužívání firmy/jména, klamavé údaje na obchodních listinách atp.
+─	promlčecí doba: 1 rok X 3 roky, jde-li přestupek s horní hranicí pokuty min. 100 tis.
+─	nově: pravomoc správního orgánu zakázat zrušení, zánik nebo přeměnu obviněné PO, existuje-li důvodné podezření, že by se chtěla vyhnout sankci / výkonu správního trestu / by mohla zmařit uspokojení nároku na náhradu Š či vydání bezdův. obohacení [X zákaz nesmí být nepřiměřený]
+─	nově: pozbytí statusu podnikatele nemá za následek zánik odpovědnosti za přestupek
+2. TRESTNÍ ODPOVĚDNOST PODNIKATELŮ
+─	TČ: přečiny a zločiny  přečiny = nedbalostní + úmyslné TČ s horní hranicí trestní sazby do 5 let
+─	skutkové podstaty týkající se podnikatelů hlavně mezi TČ proti majetku a dále mezi TČ hospodářskými
+─	↪ skutková podstata, kt. může naplnit jen podnikatel např. TČ ohrožování zdraví závadnými potravinami nebo jinými předměty (ale „podnikatel“ je v TZ zmíněn explicitně zřídka, spíš poznáme z popisu jednání)
+─	dvě kategorie TČ, kde nalezneme podnikatele jako možného pachatele:
+•	TČ proti majetku
+─	TČ porušení povinností při správě cizího majetku způsobí na něm škodu nikoliv malou
+─	úvěrový a dotační podvod, poškození věřitele, zvýhodnění věřitele, způsobení úpadku,…
+•	TČ proti hospodářské soutěži
+─	př. porušení pravidel hosp. soutěže  § 248 TZ – trestní odpovědnost za nekalou soutěž
+─	TČ neoprávněného podnikání – odnětí svobody až na 2 léta nebo zákaz činnosti
+─	TČ poškozování spotřebitele  např. tím, že šidí na jakosti, uvede ve větším na trh výrobky a přitom zatají jejich podstatné vady,…
+─	TČ zkreslování údajů o stavu hospodaření a jmění
+─	TČ zneužití informace v obchodním styku
+─	TČ zneužití postavení v obchodním styku
+─	TČ zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě
+─	TČ pletichy při zadání veřejné zakázky a při veřejné soutěži
+─	TČ vystavení nepravdivého potvrzení (podnikatelem oprávněným k poskytování fin. služeb)
+─	TČ poškozování finančních zájmů EU (nesprávné dokumenty, údaje > zkrácení fin. prostředků)
+─	TČ proti průmyslovým právům a autorskému právu
+•	 další trestné činy  úplatkářství, neoprávněné zaměstnávání cizinců apod.
+3. TRESTNÍ ODPOVĚDNOST PO
+─	úprava v z. č. 418/2011 Sb., o trestní odpovědnosti PO a řízení proti nim
+─	t. odpovědnost PO: protiprávní čin spáchaný jejím jménem nebo v jejím zájmu nebo v rámci její činnosti
+─	§ 8(1) osoby, které mohou založit přičitatelnost PO:
+─	statutární orgán nebo jeho člen, jiná osoba oprávněná jménem nebo za PO jednat
+─	ti, kdo vykonávají u PO řídící nebo kontrolní činnost (vedoucí)
+─	osoby vykonávající rozhodující vliv na řízení
+─	zaměstnanci a osoby v obdobném postavení
+─	TO, i když se nepodaří zjistit, která konkrétní FO jednala
+─	TO i tehdy, kdy: k protiprávnímu činu došlo před vznikem PO / byla prohlášena za neplatnou po vzniku / právní úkon zakládající oprávnění k jednání je neplatný či neúčinný / jednající FO není odpovědna za své činy
+─	liberace § 8(5): PO se trestní odpovědnosti zprostí, pokud vynaložila veškeré úsilí, které na ní bylo možno spravedlivě požadovat, aby spáchání protiprávního činu osobami uvedenými v odst. 1 zabránila.
+─	při zániku PO přechází odpovědnost na jejího právního nástupce
+─	taxativní výčet trestů, jež lze uložit PO: zrušení, propadnutí věci nebo majetku, zákaz plnění veřejných zakázek, zákaz činnosti a další
+─	trestnost může zaniknout účinnou lítostí (nejde-li o některou ze skutk. podstat úplatkářství, porušení pravidel hosp. soutěže, zjednání výhody/pletichy i veř. zakázek atd.
+─	vyloučení kumulace správních a trestních sankcí za stejnou věc (ne bis in idem)
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -5247,6 +5322,90 @@ Trestní odpovědností právnické osoby není dotčena trestní odpovědnost f
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+1. SMLOUVA O SPOLEČNOSTI
+	A) pojem a význam společnost
+─	zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci
+─	podstatné náležitosti: a) dohoda o společném účelu, b) ujednání o vkladu či závazku k činnosti
+─	společnost mohou založit nejméně 2 osoby (FO či PO), „společnost občanského práva“
+─	forma není předepsána (X pokud je majetkový vklad  soupis vkladu společníků s podpisy)
+•	1. nemá právní subjektivitu (jde o obligaci)
+─	podílové spoluvlastnictví společníků (vložený majetek), solidární ručení za dluhy
+•	2. společný účel (výdělečný i nevýdělečný, krátkodobý i dlouhodobý, musí být dovolený)
+─	úprava v OZ převážně dispozitivní charakter (X zákaz lví společnosti, omezení p. na informace)
+─	výhoda: neformálnost založení  bez nutnosti smlouvy v kvalifikované formě a registrace v určeném rejstříku X nevýhoda: absence právní osobnosti
+─	využití: např. v oblasti veřejných zakázek  dodavatelé nejsou schopni plnit samostatně, a tak uzavřou smlouvu o společnosti; i v rámci OK: např. dohoda o hlasování akcionářů, pomocná funkce u jiných PJ (na spolek, kt. nebyl zapsán do VR, se použije úprava společnosti)
+─	i jako subsidiární úprava u OK (hlavně u osobních společností, u kapitálových max. povinnost loajality)
+	B) P@P společníků
+─	členství je osobní povahy, účast nelze převést na jiného (je to obligace); obsah: vzájemná P@P
+─	povinnost podporovat dosažení společného účelu
+─	povinnost loajality vůči ostatním společníkům
+─	povinnost přispět: vnést vklad či se zavázat k určité činnosti pracovní X kapitálová X smíšená sp.
+─	za činnost > právo na podíl na zisku, u věcí > stávají se spoluvlastníky nebo právo užívat/požívat
+─	zákaz konkurence: nic, co konkuruje společnému účelu (X výslovný souhlas společníků)
+─	1. zdrží se, 2. nahradí škodu, 3. vyloučen, 4. aby jednání bylo prohlášeno „na společný účet“ , 5. postoupení práva na odměnu
+─	právo na rozdělení majetku nabytého za trvání společnosti (nejsou-li spoluvl. podíly určeny > jsou stejné) X zákaz tzv. lvího podílu (societas leonina) (= vyloučení společníka z práva na podílu)
+─	povinnost nést ztrátu – rovným dílem, lze upravit; vyloučit ji lze, ale nemá účinky proti 3. osobám
+─	právo rozhodovat o záležitostech společnosti  většina hlasů X změna smlouvy– jednomyslně; kvórum i počet hlasů na společníka lze smluvně upravit
+─	právo správy společné věci – ale mohou pověřit správce (může být i třetí osoba)
+─	právo na informace – od správce (pravidelná vyúčtování)
+	C) společnost jako organizace
+─	je to obligace, přesto má určité organizační rysy:
+•	rozhodování o nejvýznamnějších otázkách – vždy všichni společníci (paralela s nejvyš. orgánem OK)
+•	správa společnosti (spol. záležitostí) – všichni společně, popřípadě některý z nich či třetí osoba (záleží na smlouvě); vnitřní záležitosti (plánování výroby, účetnictví), nakládání se spol. majetkem
+•	zastupování společnosti (jednání vůči 3. osobám) – všichni společně, jelikož společnost nemá právní subjektivitu, ledaže je smlouvou o zastupování pověřen některý z nich či třetí osoba
+↪ zde je výjimka – jedná-li kterýkoliv společník ve společné záležitosti se třetí osobou, považuje se za příkazníka všech společníků a jeho jednání zavazuje všechny společníky
+	D) vznik a zánik
+─	vznik: uzavřením smlouvy  není předepsaná forma (X zpřísnění formy zvl. zákony – př. z. o advokacii)
+─	zánik členství společníka > společnost trvá (krom zániku 1 ze 2 společníků > nemůže být 1 společník)
+─	vystoupit lze kdykoliv a to z jakéhokoliv či bez důvodu (omezení: nevhodná doba pro společnost, hrozící újma ostatním > pak jen když má vážný důvod)
+─	lze vyloučit (podstatné porušení povinnosti, insolvenční řízení na jeho majetek)
+─	smrtí (není-li ujednáno, že platí pro dědice jako p. nástupce)
+─	zánik společnosti – ze zákona:
+─	1. dohoda o zániku, 2. splnění podmínek smlouvy, 3. dosažení účelu, 4. dosažení účelu se stane nemožným, 5. uplynutí doby, 6. zaniklo členství 1 společníka u 2členné spol.
+
+2. SMLOUVA O TICHÉ SPOLEČNOSTI
+	A) obsah, forma, povaha a funkce
+─	tichý společník se zavazuje k vkladu, kterým se bude podílet po celou dobu trvání tiché společnosti na výsledcích podnikání podnikatele, a podnikatel se zavazuje platit tichému společníkovi podíl na zisku
+─	podstatné náležitosti: a) povinnost tichého společníka k vkladu
+b) závazek podnikatele platit mu podíl na zisku
+─	časté vedlejší náležitosti: výše podílu na zisku, splatnost, způsob vložení předmětu vkladu atd.
+─	obecný rámec jednání povinnost jednat poctivě
+─	jde o obligační vztah mezi podnikatelem a tichým společníkem (jakákoli FO/PO)
+─	forma není předepsána
+─	funkce:
+─	jedním z nástrojů financování podnikatelské činnosti
+─	diskrétní formou účasti na podnikání (kapitálová investice), „tichá účast“ není veřejně deklarována není evidována v OR či jiném rejstříku, ani se nezakládá do sbírky listin
+↪ možnost zneužití tiché smlouvy  avšak podléhá sankcím
+	B) smluvní strany
+─	osoba přijímající tichou účast musí být vždy podnikatel (výjimka: nesmí být v.o.s., musí celý zisk rozdělit mezi společníky); tichý společník: jakákoli česká/zahraniční FO/PO
+─	smlouvu může s OK uzavřít i její společník; s podnikatelem i jeho ZC
+─	podnikatel může uzavřít více smluv o tiché společnosti, nebo jednu smlouvu s více tichými společníky (pak jsou solidárními dlužníky i věřiteli)
+	C) vklad tichého společníka
+─	vklad a předmět vkladu vkladem se rozumí peněžní vyjádření hodnoty předmětu vkladu
+─	předmět vkladu = věc, kterou t. společník vkládá do t. společnosti (peníze či jiná (ne)movitá věc)
+─	způsobilé jsou 1. obchodovatelné věci, 2. které lze ocenit v penězích, 3. s nimiž je T společník oprávněn nakládat
+─	dispozitivní pravidlo – je-li předmětem vkladu nemovitá věc  podnikatel nabývá (pouze) užívacího a požívacího práva k nemovitosti; je-li jím movitá věc > má se za to, že se stal vlastníkem
+	D) P@P smluvních stran
+─	P@P tichého společníka:
+─	vkladová povinnost t. společníka: předat předmět vkladu anebo umožnit s ním nakládat, (nevyplývá-li ze smlouvy jinak) bez zbytečného odkladu po vzniku tiché společnosti
+─	povinnost ručení: NE, ani primárně ani akcesoricky (X výjimky: dojde k deklaraci spojení: 1) jeho jméno je obsaženo ve jménu či obch. firmě podnikatele > ručí za všechny dluhy; 2) deklarace jím samotným vůči konkrétní třetí osobě > ručí za dluhy ze smlouvy s touto osobou)
+─	právo kontroly: dispozitivní právo nahlížet do obchodních dokladů a účetních záznamů (kogentní jen, když prokáže, že záznamy nejsou vedeny správně, poctivě – což prokáže stěží)
+─	právo na stejnopis účetní závěrky: bez zbytečného odkladu po jejím schválení
+─	právo na podíl na zisku: není-li výše stanovena smluvně určí se vzhledem k výši jeho vkladu a zavedené praxi stran, popřípadě vzhledem ke zvyklostem (ale ty se uplatní těžko, když jsou „tiché“)
+─	povinnost nést podíl na ztrátě: kogentní: podíl na ztrátě je stejný jako podíl na zisku; jeho vklad se o podíl na ztrátě snižuje > tj. může tak dojít až ke konzumaci vkladu a tím zániku t. společnosti (mohou si ale sjednat, že vklad se nebude snižovat, že uhradí podíl na ztrátě z jiných prostředků)
+─	povinnost mlčenlivosti – mají obě strany
+─	P@P podnikatele:
+─	povinnost podnikatele podnikat – to plyne ale spíše z § 6/1: příkaz jednat v právním styku poctivě, dále z §1787/2: P@P se odvozují od účelu smlouvy, kt. má zřejmě sledovat
+	E) zánik tiché společnosti
+─	obecná úprava zániku závazků v OZnapř. dohoda stran, uplynutím času, splynutím práv a povinností v jedné osobě, odstoupením ze zákonných či sjednaných důvodů, výpověď smlouvy,…
+─	↪ speciální důvody zániku:
+─	konzumace vkladu (ledaže tichý společník uhradí podíl na ztrátě jinak)
+─	ukončení podnikání, kterého se tichá společnost týká
+─	úpadek podnikatele
+─	vypořádání: pouze vklad tichého společníka  povinnost podnikatele vydat mu bez zbytečného odkladu po zániku tiché společnosti jeho vklad upravený o podíl na výsledcích svého podnikání
+─	↪ t. společníkovi tak vzniká peněžitá pohledávka ve výši vkladu snížená, případně zvýšená o podíl na ztrátě či zisku (+právo na vrácení dosud nevyplaceného podílu na zisku z minulých let)
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
