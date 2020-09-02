@@ -5488,6 +5488,169 @@ b) závazek podnikatele platit mu podíl na zisku
 - Smlouva o výkonu funkce člena orgánu
 - Podmínky pro výkon funkce člena orgánu
 
+ZÁKLADNÍ CHARAKTERISTIKA
+•	definice (§ 95 odst. 1 ZOK): „Veřejná obchodní společnost je společnost alespoň dvou osob, které se účastní na jejím podnikání nebo správě jejího majetku a ručí za její dluhy společně a nerozdílně.“
+•	Pojmové znaky:
+o	(1) společenství dvou osob
+	Vznik VOS pouze jedním společníkem je důvodem k prohlášení společnosti jako neplatné (§ 129 odst. 1 písm. d) NOZ)
+	Snížení minimálního počtu je důvodem pro zrušení společnosti (§ 211 odst. 2 NOZ)
+o	(2) účast společníků na podnikání nebo na správě majetku společnosti
+	tento znak odkazuje na § 2 odst. 1 ZOK – osobní společnost může být založena za účelem podnikatelským ve smyslu § 420 odst. 1 NOZ nebo správou vlastního majetku  
+o	(3) solidární neomezené ručení společníků za dluhy společnosti
+•	Obchodní firma (§ 96 ZOK) – musí obsahovat „veřejná obchodní společnost“/“veř. obch. spol.“/“v.o.s.“ – obsahuje-li firma jméno jednoho společníků je připouštěn dodatek „a spol.“
+•	Ručení
+o	Obsah ručitelského závazku vyplývá z obecné povahy ručení (§ 2018 an. NOZ)
+o	nový přistoupivší společník, ručí i za dluhy společnosti, které vznikly před přistoupením (§ 101 odst. 1 ZOK)
+o	vystoupivší společník nadále ručí za dluhy společnosti, které vznikly za jeho účasti (§ 111 odst. 1 ZOK)
+ZALOŽENÍ A VZNIK
+•	Založení – VOS se zakládá společenskou smlouvou:
+o	Formální náležitosti: písemné forma s úředně ověřenými podpisy (§ 6 odst. 1 ve spojení s § 8 odst. 1 ZOK)
+o	Materiální náležitosti: minimální obsahové náležitosti a velké množství dispositivních ustanovení – projev smluvního základu OK (tzv. smluvní autonomie společníků)
+•	Vznik – dnem zápisu do OR
+ZRUŠENÍ A ZÁNIK
+•	Obecná úprava důvodů pro zrušení v § 168 an. NOZ (př. právní jednání, uplynutí doby, dosažení účelu, přeměna)
+•	Zvláštní úprava důvodů pro zrušení v § 113 odst. 1 ZOK
+o	(1) výpověď společníka – musí být podána do 6 měsíců před uplynutím příslušního účetního období
+o	(2) právní moci soudního rozhodnutí o zrušení společnosti – důvody dle § 93, § 115 odst. 1 ZOK a § 172 NOZ
+o	(3) smrt společníka FO – ledaže je připouštěno dědění
+o	(4) zánik společníka PO – ledaže je připouštěn přechod podílu na právního nástupce
+o	(5) právní mocí rozhodnutí o prohlášení konkursu na majetek, zamítnutí návrhu na zahájení insolvenčního řízení pro nedostatek majetku nebo zrušení konkursu pro nedostatek majetku
+o	(6) právní moci rozhodnutí o schválení odlužení
+o	(7) pravomocné nařízení výkonu rozhodnutí postižení podílu/právní mocí exekučního příkazu k postižení podílu
+o	(8) nesplnění podmínek dle § 46 ZOK
+o	(9) vyloučení společníka ze společníka soudem
+o	(10) jiné důvody ve společenské smlouvě
+•	Vyloučení (odvrácení) efektivnosti zrušovacího důvodu – společníci musí projevit vůli, že trvají na existenci společnosti
+o	(1) obnovení účasti společníka
+o	(2) přistoupení nového společníka (§ 113 odst. 3 ZOK) – společníci musí rozhodnout o přistoupení nového společníka splňující podmínky dle § 46 ZOK
+o	(3) dohoda zbývajících společníku (§ 113 odst. 2 ZOK) – ve VOS musí zůstat alespoň 2 společníci a rozhodnutí o změně společenské smlouvy musí být přijato do okamžiku předložení konečné zprávy o průběhu likvidace
+•	Zánik – podáním návrhu na výmaz společnosti z OR a okamžikem výmazu společnost zanikne
+POSTAVENÍ SPOLEČNÍKŮ
+Členství
+•	Společníkem FO i PO (musí mít zmocněnce, jinak je jím člen SO) – členství je vyloučeno u osob v úpadku (§ 95 odst. 3 ZOK)
+•	Změny v osobách společníků – relativní rigidní úprava – vzhledem k osobnímu charakteru změna osoby je již důvodem pro zrušení společnosti s likvidací (srov. § 113 ZOK)
+•	Originární vznik: uzavření společenské smlouvy jako zakladatel (§ 8 odst. 1 ZOK) a přistoupením ke smlouvě (§ 110 ZOK)
+•	Derivativní vznik
+o	společenská smlouva musí zakotvit (§ 113 odst. 1 písm. c) a d) ZOK)
+	(1) děděním u FO – v okamžiku smrti společníka (zůstavitele) – lze odmítnout účast ve společnosti výpovědí do 3 měsíců ode dne, kdy se stal dědicem (§ 117 odst. 1 ZOK)
+	(2) přechod podílu na právního nástupce PO – v okamžiku zániku PO
+o	Převod podílu je zakázán (§ 116 ZOK)
+•	Obecné pravidlo pro zánik členství – zánik členství ve VOS má zpravidla důsledek zrušení společnosti
+•	způsoby zániku členství bez zrušení společnosti
+o	(1) vystoupení společníka – pouze na základě změny společenské smlouvy (§ 110 odst. 1 ZOK)
+o	(2) vyloučení společníka v kadučním řízení (§ 101 odst. 2 ZOK) – byla-li společenskou smlouvou zakotvena vkladová povinnost a společník je v prodlení
+Práva a povinnosti
+•	Podrobnější úprava ponechána na vůli společníků
+Práva
+•	Majetková práva
+o	(1) právo podílet se na zisku (§ 112 ZOK) – rovným dílem, ledaže společenská smlouva stanoví jinak
+o	(2) právo na náhradu výdajů (§ 104 ZOK) – podmínky:
+	(1) výdaje vynaložené při zařizování záležitosti VOS (tj. v souvislosti s podnikáním či správou majetku)
+	(2) rozumné pokládání nákladů jako potřebných (tj. výše musí být přijatelná a hospodárná)
+o	(3) právo na vypořadací a podíl na likvidačním zůstatku  
+•	Nemajetková práva
+o	(1) právo podílet se na správě společnosti
+	Změna společenské smlouvy – dohodou všech společníků (!) (§ 99 odst. 1 ZOK) a má-li být změnou dotčeno právo společníků, je nutný výslovný souhlas
+	Ostatní záležitosti – souhlas všech společníků, ledaže společenská smlouva určí jinak (§ 105 ZOK)
+	Výjimka (§ 115 odst. 2 ZOK) – souhlas pouze většiny společníků při vyloučení společníka soudem (!)
+o	(2) Actio pro socio (§ 108 ZOK) – žaloba na splnění vkladové povinnosti (§ 102 ZOK), náhrada způsobené újmy vůči jinému společníkovi (§ 53 odst. 3 ZOK)
+o	(3) právo na informace – každý společník má právo být informován o všech záležitostech společnosti
+	Právo nahlížet do všech dokladů a jejich kontroly (§ 107 ZOK) – kogentní povaha
+Povinnosti
+•	(1) osobní účast na podnikání/správě majetku (§ 95 odst. 1 ZOK) – kogentní ustanovení
+•	(2) neomezené ručení za dluhy
+•	(3) povinnost podílet se na ztrátě společnosti (§ 112 ZOK) – každý ze společníků rovným dílem
+•	(4) Vkladová povinnost (§ 100 an. ZOK)
+o	Není zákonem stanovená povinnost – společníci mohou zakotvit ve společenské smlouvě nad rámec
+	musí být stanovena výše, způsob a lhůta pro splacení
+o	jinak se prosadí subsidiární úprava – (1) v penězích, (2) bez zbytečného odkladu, (3) po vzniku účasti (§ 100 ZOK)
+o	v poměrech VOS může být nepeněžitým vkladem práce nebo služba (§ 103 ZOK) – jedná se o výjimku z § 17 odst. 3 ZOK (důvodem je, že VOS jako osobní společnost akcentuje osobní vlastnosti společníků)
+o	následky prodlení (§ 101 a § 102 NOZ) – (1) úrok z prodlení, (2) vyloučení NO VOS (musí připouštět společenská smlouva a souhlasit všichni zbývající společníci), (3) žaloba na plnění vkladové povinnosti, (4) návrh na vyloučení prodlévajícího společníka (před podáním musí být písemně vyzván k nápravě)
+•	(5) další povinnosti: povinnost loajality, zákaz konkurence – lze zcela vyloučit (§ 109 ZOK)
+ORGANISAČNÍ STRUKTURA
+•	skladba členů obligatorních orgánů postavena na účasti všech společníků
+•	struktura závislá na znění společenské smlouvy – možnost modifikace účasti v orgánech společnosti a zavedení fakultativních orgánů
+Nejvyšší orgán
+•	NO jsou všichni společníci (§ 44 odst. 1 ZOK)
+•	Rozhodování:
+o	(1) Změna společenské smlouvy (§ 99 odst. 1 ZOK) – obligatorní jednomyslná dohoda všech společníků – každý má pouze jeden hlas
+	Má-li být změnou dotčeno právo pouze některého ze společníků – nutnost výslovného souhlasného prohlášení ke změně (§ 99 odst. 2 ZOK)
+o	(2) Ostatní záležitosti – dispositivně souhlas všech společníků (§ 105 ZOK)
+	Záležitosti vyžadující jednomyslnost – př. rozhodnutí o vyloučení v kadučním řízení (§ 101 odst. 2 ZOK)
+	Záležitosti vyžadující většinu – př. vyjádření souhlasu s návrhem na vyloučení k soudu (§ 115 odst. 2 ZOK)
+Statutární orgán
+•	všichni společníci za předpokladu, že všichni splňují podmínky pro výkon funkce dle § 46 ZOK (bezúhonnost, neexistence překážky provozování živnosti)
+o	společenská smlouva může určit, že SO je některý nebo jediný společník
+•	jedná za společnost navenek, přijímá rozhodnutí v rámci obchodního vedení společnosti
+•	každý ze společníků je ze zákona oprávněn jednat za společnost samostatně
+•	neodvolatelnost člena SO – společenská smlouva může určitého člena určit jako neodvolatelného
+o	změna společenské smlouvy sama o sobě nevede k ukončení funkce
+o	soud musí zrušit určení neodovolatenosti – na návrh a z důvodu porušování povinností zvlášť závažným způsobem (§ 106 odst. 2 ZOK)
+
+- Komanditní
+
+ZÁKLADNÍ CHARAKTERISTIKA
+•	definice (§ 118 odst. 1 ZOK): „Komanditní společnost je společnost, v níž alespoň jeden společník ručí za její dluhy omezeně (dále jen „komanditista“) a alespoň jeden společník neomezeně (dále jen „komplementář“).“
+•	pojmové znaky – osobní společnost – (1) osobní prvek v podobě komplementáře (neomezené zákonné ručení) a (2) kapitálový prvek (zejm. omezené zákonné ručení)
+•	obchodní firma (§ 118 odst. 2 ZOK) – musí obsahovat „komanditní společnost“/“kom. spol.“/“k.s.“ – obsahuje-li firma jméno komanditisty – komanditista ručí neomezeně jako komplementář (!)
+•	právní úprava a systematika:
+o	obecně pro KS – při absenci zvláštní úpravy pro KS se přiměřeně použijí ustanovení VOS (§ 119 ZOK)
+o	pro komanditistu – právní úprava SRO se použije k určení právního postavení komanditistů (výše vypořádacího podílu dle § 120 odst. 2 ZOK, přiměřeně převoditelnost podílu dle § 123 ZOK)
+•	hospodářský význam – využití pro tzv. fond kvalifikovaných investorů, která může vydávat účastnické cenné papíry
+ZALOŽENÍ A VZNIK
+•	založení – společenská smlouva v písemné formě s úředně ověřenými podpisy (✘§ 8 věta druhá ZOK konstatuje, že společenská smlouva při založení kapitálové společnosti vyžaduje notářský zápis – nikoliv u osobních společností)
+o	podmínky pro nabytí členství v KS:
+	(1) obecně: absence prohlášení konkursu na majetek v posledních letech, zamítnutí insolvenčního návrhu nebo zrušení konkursu pro nedostatek majetku (§ 118 odst. 2 in fine ZOK ve spojení § 95 odst. 3 ZOK)
+	(2) pro komplementáře: povinnost splňovat požadavky dle § 46 an. ZOK (§ 125 odst. 1 ZOK)
+o	Společenská smlouva a obsahové náležitosti
+	Náležitosti dle NOZ (§ 123 NOZ): sídlo, firma, předmět činnosti (podnikání, správa vlastního majetku)
+	Náležitosti dle ZOK (§ 124 ZOK): (i) určení komanditisty a komplementáře, (ii) určení výše vkladu komandisty, (iii) určení výše komanditní sumy, je-li stanoveno ručení do komanditní sumy (§ 129 ZOK)
+•	vznik – zápisem do OR
+ZRUŠENÍ A ZÁNIK
+•	další důvody pro zrušení – lze společenskou smlouvou nad rámec upravit další důvody zániku (!)
+•	důvody pro zrušení PO (srov. § 168 an. NOZ) – právním jednáním, uplynutím doby, dosažení účelu
+•	důvody pro zrušení dle ZOK (§ 119 ve spojení s § 113 ZOK) – viz B43
+o	hovoří-li úprava VOS o společnících, tak v poměrech se jedná o komplementáře (!)
+o	nicméně nutno vzít na vědomí odchylné postavení komanditisty – ne všechny důvody pro zrušení VOS vedou bez dalšího rovněž ke zrušení KS (!)
+	výjimky (§ 127 odst. 1 ZOK) – smrt/zánik komanditisty, prohlášení konkursu na majetek komanditisty, schválení odlužení komanditisty, neúspěšná dražba
+•	výše uvedené výjimky způsobují pouze zánik účasti komanditisty (§ 127 odst. 2 ZOK)
+o	vedle důvodů dle § 113 ZOK – KS má další důvod (§ 127 odst. 3 ZOK) – žádný komplementářů nesplňuje § 46 ZOK
+•	obnovení účasti komanditisty (§ 128 ZOK) – odpadnou-li důvody pro zánik účasti (viz výše) – povinnost nahradit splacený vypořádací podíl do 2 měsíců od obnovy účasti v KS
+•	společnost zaniká výmazem z OR – návrh na výmaz podává likvidátor
+POSTAVENÍ SPOLEČNÍKŮ
+Členství
+•	originární členství – vznik uzavřením společenské smlouvy nebo přistoupením✘při zániku účasti společníka rozsah zákonného ručení je jen za dluhy, které vznikly během jeho účasti  
+•	derivativní členství – pouze podíl ze strany komanditisty a za podmínek převodu podílů v poměrech SRO lze nabýt
+Práva a povinnosti
+Práva
+•	majetková práva – právo na podíl na zisku, vypořádací podíl, likvidační zůstatek
+o	specifika při rozdělení zisku
+	(1) nejdříve se dělí mezi KS a komplementáře, a to na polovinu, není-i stanoveno jinak (§ 126 odst. 1 ZOK)
+	(2) poté část připadající na společnost se dále rozdělí mezi komanditisty dle podílů (§ 126 odst. 3 ZOK)
+o	Komanditní suma (§ 129 ZOK) – společenská smlouva může určit ručení komanditistů za dluhy do výše určené částky (tzv. komanditní sumy)
+	Komanditní suma nesmí být nižší, než kolik činí vklad komanditisty (§ 129 odst. 1 in fine ZOK)
+	Povinnost hrazení ztráty KS jen do výše komanditní sumy (§ 129 odst. 2 písm. b) ZOK)
+	Zákonné ručení jen do výše komanditní sumy zapsané v OR v době, kdy věřitel vyzval k plnění (§ 129 odst. 2 písm. c) ZOK), tj. neprosadí se režim dle § 122 ZOK
+	komanditní suma se snižuje v rozsahu, ve kterém komanditista splnil svou povinnost (za situace, kdy komanditní sumy je vyšší než vkladová povinnosti)
+•	nemajetková práva – obdobné jako u VOS (viz B44)
+Povinnosti  
+•	(1) zákonné ručení
+o	Komplementáři: ručení za dluhy celým svým majetkem (neomezeně) společně a nerozdílně (§ 118 odst. 1 ZOK)
+o	Komanditisté: ručení za dluhy společně a nerozdílně do výše svého nesplaceného vkladu podle stavu zápisu v OR
+	Odlišný režim ručení u komanditní sumy (§ 129 odst. 2 písm. c) ZOK) – do výše [1] komanditní sumy [2] zapsané v OR v [3] době, kdy věřitel vyzval k plnění
+•	(2) vkladová povinnost – pouze komanditisté
+•	(3) povinnost hradit ztrátu
+o	Ztráta se dělí mezi společností a komplementáři (§ 126 odst. 1 věta první ZOK)
+o	Komanditista se podílí na ztrátí pouze pokud je určena komanditní suma (!) – v tomto případě se podílí společně s ostatními na ztrátě dle svého podílu do výše komanditní sumy (§ 129 odst. 1 písm. b) ZOK) – jinak nenesou (§ 126 odst. 3 in fine ZOK)
+•	(4) zákaz konkurence – společník bez souhlasu všech ostatních nesmí podnikat v předmětu podnikání společnosti
+ORGANISAČNÍ STRUKTURA
+Nejvyšší orgán
+•	všichni společníci (§ 44 odst. 1 ZOK) – působnost ve věcech nepříslušející SO
+•	komanditisté a komplementáři rozhodují/hlasují zvlášť (§ 125 odst. 2 ZOK) – i přes zákonnou dikci, že rozhodují společně
+Statutární orgán (§ 125 odst. 1 ZOK)
+•	každý komplementář splňující podmínky členství v orgánu – působnost v obchodním vedení a zastupování společnosti
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -5645,6 +5808,111 @@ Zakládání právnických osob právnickými osobami.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+OBECNĚ
+•	obsaženo ve zvláštních zákonech, které jsou ve vztahu speciality k úpravě v zákoně o obchodních korporacích a občanském zákoníku
+•	právo EU – nařízení o obezřetnostních požadavcích na úvěrové instituce a investiční podniky
+•	požadavek udělení povolení (licence) ČNB
+•	provozní požadavky a zásady hospodaření – účelem je zabezpečit obezřetný způsob hospodaření a vytváření dostatečných rezerv, korporace musí mít zpracováný odpovídající řídící a kontrolní systém
+Založení a vznik
+•	obecná právní úprava právní formy OK, která je pro danou činnost předepsána, doplněná o podmínky stanovené zvláštním zákonem
+•	požadavky na udělení povolení: dostatek finančních zdrojů, splacení ZK v požadované výši, důvěryhodnost a způsobilost osob, technická a organizační opatření
+•	povolení obsahuje vymezení podnikatelských činností, k jejichž provozování je zvláštní korporace oprávněna
+•	povolení je uděleno na dobu neurčitou a je nepřevoditelné
+Organizace zvláštní korporace
+•	zvláštní zákon stanovuje požadavky na jednotlivé orgány, popř. předepisuje povinnost zřídit další orgány (výbor pro audit, výbory pro rizika, úvěrová komise atd.)
+•	k přijetí některých zásadních rozhodnutí NO se vyžaduje souhlas orgánu státního dohledu (např. ČNB), jinak jsou neplatná; informační povinnost
+•	členové SO mají zvláště upravenou odpovědnost za plnění svých povinností
+•	další náležitosti stanov za účelem vyšší transparentnosti
+Společníci zvláštní korporace
+•	zájemci o nabytí kvalifikované účasti na zvláštní OK nebo o její ovládání musí požádat o souhlas dohledový orgán
+•	je posuzována důvěryhodnost žadatele (popř. jeho orgánů), odborná způsobilost a zkušenost atd.
+•	při neplnění zákonem stanovených podmínek může dohledový orgán společníkovi pozastavit výkon některých práv
+Státní dohled
+•	předmětem státního dohledu je dodržování podmínek povolení a právních předpisů
+•	korporace je povinna orgánu státního dohledu poskytnout stanovené podklady a informace
+•	dohledový orgán je oprávněn přijmout nápravná opatření a sankce vůči korporaci, např. nucenou správu korporace (pozastavuje se výkon funkce všech orgánů banky, správce má postavení SO)
+Zrušení a zánik
+•	platí obecná úprava doplněná zvláštním zákonem
+•	soud rozhodne o zrušení a likvidaci, pokud byly porušeny podmínky pro vznik nebo zákon
+•	likvidace – likvidátora jmenuje a odvolává soud na návrh ČNB
+BANKY
+•	banka je OK, jejímž účelem je provádět bankovní obchody: přijímat vklady, poskytovat úvěry a zajišťovat platební styk
+•	synonymem banky je spořitelna (dříve rozdíl – spořitelny byly zaměřené na FO)
+•	banka
+o	AS (nebo SE) se sídlem v ČR
+o	přijímá vklady od veřejnosti, poskytuje úvěry na základě bankovní licence
+o	další činnosti: platební styk a zúčtování, vydávání a správa platebních karet a cestovních šeků, poskytování záruk, otvírání akreditivů, obstarávání inkasa, poskytování investičních služeb atd.
+Založení a vznik banky
+•	žádost k udělení licence může předložit již vzniklá AS, zakladatel nové AS, spořitelní a úvěrní družstvo, pokud současně požádá o souhlas se změnou právní formy
+•	zvláštní požadavky na AS
+o	průhledný a nezávadný původ ZK a dalších finančních zdrojů banky, minimální výše ZK 500 000 000 Kč, splacený ZK v plné výši
+o	důvěryhodnost a odborná způsobilost osoby, které má být licence udělena, osob s kvalifikovanou účastí, nebo 20 největších akcionářů, členů volených orgánů
+o	požadavky na osoby úzce propojené s bankou (průhlednost, nesmí bránit bankovnímu dohledu)
+organizační struktura banky
+•	požadavky na volené orgány: představenstvo musí mít alespoň 3 členy, SR alespoň 5 (z nich jedním správní ředitel); členem voleného orgánu může být jen FO
+•	významná banka je povinna zřídit další orgány: výbor pro rizika, výbor pro jmenování, výbor pro odměňování
+•	povinnost zřídit výbor pro audit (3 členové, nejméně jeden nezávislý na bance)
+STAVEBNÍ SPOŘITELNY
+•	banka, která může vykonávat pouze činnosti, povolené v jí udělené bankovní licenci, kterými jsou stavební spoření a další činnosti podle zákona
+•	zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření
+•	stavební spoření – účelové spoření spočívající v přijímání vkladů od účastníků stavebního spoření, poskytování úvěrů účastníkům stavebního spoření, poskytování příspěvků účastníkům stavebního spoření
+•	další činnosti: poskytování úvěrů osobám uspokojujícím bytové potřeby, přijímání vkladů od bank a dalších finančních institucí, poskytování záruk za úvěry ze stavebního spoření, obchodování s dluhopisy atd.
+•	bankovní licenci uděluje stavební spořitelně ČNB; Ministerstvo financí schvaluje všeobecné obchodní podmínky stavební spořitelny a vykonává státní kontrolu
+DRUŽSTEVNÍ ZÁLOŽNY
+•	zákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech
+•	činnost: přijímání vkladů a poskytování úvěrů jenom svým členům
+•	další činnosti – pouze pro členy
+o	finanční leasing, platební styk, zúčtování a vydávání a správa platebních prostředků, poskytování záruk ve formě ručení nebo bankovní záruky, otvírání akreditivů, obstarání inkasa atd.
+•	firma musí obsahovat označení „spořitelní a úvěrní družstvo“/„družstevní záložna“/„spořitelní družstvo“/„úvěrní družstvo“
+•	hospodaření družstevní záložny – družstevní záložna zřizuje rizikový fond a rezervní fond
+Založení a vznik družstevní záložny
+•	nejméně 30 členů, musí být splacena částka nejméně 35 000 000 Kč ze ZK – družstvo se sídlem na území ČR
+Členství v družstevní záložně
+•	povinnost seznámit všechny uchazeče o členství se všemi skutečnostmi souvisejícími s členstvím
+•	družstevní podíl přechází na právního nástupce člena, který zemřel nebo zanikl, pokud je způsobilý
+•	družstevní podíl lze převést na jinou osobu
+•	při hlasování má každý člen tolik hlasů, kolik násobků základního členského vkladu do družstva vložil
+•	předmět členského vkladu může být pouze peněžitý
+Organizace družstevní záložny
+•	úvěrová komise – nejméně 3 členové; rozhoduje o poskytování úvěrů a záruk a zajištění úvěrů
+•	významné družstevní záložny zřizují výbor pro rizika, výbor pro jmenování, výbor pro odměňování
+•	výbor pro audit
+Přeměny
+•	fúze je možná jen s jinou družstevní záložnou, rozdělení lze pouze na družstevní záložny – nutný předchozí souhlasu ČNB
+•	změna právní formy je možná pouze na AS, pokud ČNB a udělila souhlas a rozhodla o udělení bankovní licence
+POJIŠTOVNY
+•	pojištění – sdružení osob, které se cítí ohroženy nahodilým vznikem určité majetkové potřeby, a které se sdružily za účelem společného uhrazení této potřeby, vznikne-li některé ze zúčastněných osob
+•	pojištění v oboru práva veřejného: sociální, nemocenské, důchodové
+•	pojištění v oboru práva soukromého: dobrovolné pojištění – pojištění životní a neživotní
+•	pojišťovna
+o	oprávněna provozovat pojišťovací činnost na základě a v rozsahu povolení
+o	AS nebo družstvo
+o	na území ČR
+•	provozní požadavky a zásady hospodaření
+o	povinnost vytváření technických rezerv (peněžní prostředky na výplatu pojistných plnění)
+o	povinnost udržovat disponibilní míru solventnosti (upravená výše vlastních zdrojů, garanční fond pojišťovny)
+Pojišťovací činnost
+•	přebírání pojistných rizik na základě uzavřených pojistných smluv a plnění z nich
+•	správa pojištění, likvidace pojistných událostí, poskytování asistenčních služeb, uzavírání smluv se zajišťovnami (zajišťovací činnost – přebírání pojistných rizik pojišťovny) o zajištění závazků vyplývajících z pojistných smluv, činnost směřující k předcházení vzniku škod a zmirňování jejich následků
+Založení a vznik pojišťovny
+•	podmínky pro udělení povolení: požadavky na výši ZK, splacené vklady, slovo „pojišťovna“ ve firmě
+Organizace pojišťovny
+•	pojišťovna je povinna ustanovit odpovědného pojistného matematika – posuzuje správnost různých výpočtů, zpracovává ročně zprávu o své činnosti
+•	pojišťovna je povinna zřídit výbor pro audit
+- **-5 investiční fondy**
+  - Způsob jak společně investovat peníze s dalšími investoryza účelem finančního prospěchu
+  - Jedná se o právnickou osobu
+  - Má svojí organizační strukturu (why the hell would anyone want to know anything about the struktura man)
+  - Jsou řízeny zákonem o investičních společnostech a investičních fondech
+  - Dělí se na **Fondy kolektivního investování** a **Fondy kvalifikovaných investorů**
+    - FKoI - obecně na nich může investovat každý
+    - FKvI - může na nich investovat jen kvalifikovaný investor - podmínky jak se stát kvalifikovaným investorem upravuje zákon - například profesionální zákazník (třeba banka)
+  - Každý fond může mít různou právní strukturu
+    - Dělí se na IF s právní osobností a na IF bez práv. os. -> podílový fond
+    - standardně například podílový fond spravovaný investiční společností (a.s.), nebo může sám mít formu a.s.
+  - Funguje obecně tak, že vydává akcie a ty investuje - dle toho jak se mu daří - například dividendy
+- **-6 investiční společnosti**
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
