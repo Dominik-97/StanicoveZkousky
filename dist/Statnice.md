@@ -4705,13 +4705,13 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
       -	i) **veřejné zakázky na dodávky** – předmětem je pořízení věci, zvířat nebo ovladatelných přírodních sil; pořízením se rozumí zejména koupě, nájem nebo pacht
       -	ii) **veřejné zakázky na služby** – plnění spočívá v poskytování služeb, jež nemají souvislost se stavebními pracemi
       -	iii) **veřejné zakázky na stavební práce** – zhotovení stavby a poskytnutí souvisejících projektových činností
-    -	b) podle předpokládané hodnoty veřejné zakázky (stanovuje nařízení vlády)
-- |              | Dod a Služ | D a S     | Stav | Stav      |
-  | ------------ | ---------- | --------- | ---- | --------- |
-  |              | od         | do        | od   | do        |
-  | VŘ Mal. Roz. | 0          | 2M        | 0    | 6M        |
-  | Podlim.      | 2          | 3,7M      | 6    | 143M      |
-  | Nadlim.      | 3,7        | nekonečno | 143  | nekonečno |  
+    -	b) podle předpokládané hodnoty veřejné zakázky (stanovuje nařízení vlády) (**režim veřejných zakázek**) - **VŘ Malého rozsahu**, **Podlimitní VŘ**, **Nadlimitní VŘ**
+      - |              | Dod a Služ | D a S     | Stav | Stav      |
+        | ------------ | ---------- | --------- | ---- | --------- |
+        |              | od         | do        | od   | do        |
+        | VŘ Mal. Roz. | 0          | 2M        | 0    | 6M        |
+        | Podlim.      | 2          | 3,7M      | 6    | 143M      |
+        | Nadlim.      | 3,7        | nekonečno | 143  | nekonečno |  
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
