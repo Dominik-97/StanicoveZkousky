@@ -5220,6 +5220,8 @@ nařídit uveřejnění povinně uveřejňované informace
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Trestní odpovědností právnické osoby není dotčena trestní odpovědnost fyzických osob uvedených v § 8 odst. 1 a trestní odpovědností těchto fyzických osob není dotčena trestní odpovědnost právnické osoby. Byl-li trestný čin spáchán společným jednáním více osob, z nichž alespoň jedna je osoba právnická, odpovídá každá z nich, jako by trestný čin spáchala sama.
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
