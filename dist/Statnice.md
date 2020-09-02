@@ -4063,6 +4063,16 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     - 3- nehmotné statky nechráněné zvláštní úpravou (obchodní tajemství, know-how, goodwill) -> tato skupina je chráněna pomocí mimosmluvního civilního deliktu nekalé soutěže
       - (nekalá soutěž dle teorií: součást prům. vlastnictví X související nástroj jeho ochrany X součást i soutěžního práva)
 
+- **Právo autorské VS právo k průmyslovému vlastnictví**
+  - jedná se o duševní vlastnictví u obou celků, existují mezi nimi však rozdíly
+  - **autorské právo**
+    - rozdíl je ve "formě" ochrany - autorské právo se vztahuje k ochraně samotného produktu lidské imaginace (tedy například k literární tvorbě, hudební tvorbě a jiné umělecké tvorbě) a chrání již samo o sobě tedy vatvořené dílo, s tím souvisí jeho dvě součásti - **majetková součást autorského práva** a **osobnostní část majetkového práva**
+      - osobnostní práva, jedná se o nepřovoditelná autorská práva, například ve smyslu autorství jako takového (tedy uvedení autora)
+      - majetková práva, upravují, jakým způsobem může být s daným produktem lidské imaginace nakládáno - tedy například právo na rozmnožování díla - na tyto práva je obecně možné udělit licenci - například na distribuování a rozmnožování (například hudební nahrávka), autorské právo je standardně časově omezené a trvá do smrti autora + určitý čas po jeho smrti
+  - **práva k průmyslovému vlastnictví**
+    - týkají se ochrany ideje, tedy toho pravého nehmotného vlastnictví
+    - jednotlivé typy ochran jsou pak například ve vztahu k vynálezu, k technickému řešení, ke vzhledu etc.
+
 - **Základy ochrany ochrany subjektivních práv vycházejících z nehmotných statků jsou chráněny listinou základních práv a svobod**
   -	LZPS: čl. 34 práva k výsledkům tvůrčí činnosti = chráněno zákonem, čl. 11 vlastnictví, právo na něj, a ochrana, čl. 15 svoboda umělecké, vědecké tvorby = zaručena, čl. 26 svoboda podnikání = právo svobodně vykonávat a svobodně vybrat
 - **Nehmotné statky jsou chráněny i v rámci TP**
