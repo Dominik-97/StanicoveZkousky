@@ -4796,26 +4796,33 @@ VEDLEJŠÍ
 **OBCHODNÍ ZÁVOD**
   - Obchodní závod je definován § 502 ObčZ jako „organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti“, přitom se má za to (vyvratitelná domněnka), že „závod tvoří vše, co zpravidla slouží k jeho provozu“
   - Definice obchodního závodu staví na objektivním prvku - organizovaný soubor jmění a subjektivním prvku - vůle podnikatele používat toto jmění k podnikání
+    - jedná se o **věc hromadnot** a jako s takovou s ním lze i nakládat (je definován v části, kde se definují jednotlivé druhy věcí)
   - Podnikatel k provozu závodu zpravidla vyčlení určité věci (majetek), provozem závodu však soustavně vstupuje do určitých právních vztahů, ze kterých mu vznikají i dluhy, obchodní závod je souhrnem majetku i dluhů (jmění)
   - Podnikatel si může zajišťovat provoz obchodního závodu buď sám (typicky v případě drobného živnostníka), nebo ve spolupráci s jeho společníky, rodinou či zaměstnanci
   - Obvyklou součástí závodu budou často i věci nehmotné (patenty, užitné vzory,) či práva k užívání určitých věcí (nájem provozovny) ochranné známky
+    - ─	závod = soubor jednotlivých věcí, movitých i nemovitých; hmotných i nehmotných (významná je klientela vázaná na závod, skutečnosti tvořící obchodní tajemství aj.)
   - Zvláštností závodu je, že jednotlivé věci i dluhy, které jsou jeho součástí, z tohoto souboru vycházejí či do něho vcházejí, obchodní závod jako funkční celek však zůstává zachován
+    - jedná se nikoli o **subjekt**, ale o **předmět** právních vztahů -> obchodovatelná věc (zcizení, pacht, inominátní smlouvy, vklad do zák. kap. atd.)
+  - podnikatel **může mít více obchodních závodů** -> to vyplývá z možnosti udělit prokuru pro některý ze závodů, všechny ale budou provozovat pod jednou firmou (je-li v OR) nebo jménem
 
 **POBOČKA OBCHODNÍHO ZÁVODU**
-  - **Obchodní závod** může být z rozhodnutí podnikatele vnitřně členěn, mluvíme pak o vnitřní organizaci obchodního závodu
+  - **Obchodní závod** je přeci **funkčně, organizačně i účetně kompaktní celek**, ale může být z rozhodnutí podnikatele vnitřně členěn, mluvíme pak o vnitřní organizaci obchodního závodu
   - Částí obchodního závodu, je podle § 503 občanského zákoníku pobočka, která je vymezena jako taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou
     - Tedy objektivní
     - A subjektivní kritérium
   - **Pobočka** nemá právní subjektivitu, jde stále pouze o vnitřní část závodu. Pracovníci pobočky jednají jménem podnikatele provozujícího závod
+  - Jedná se o část závodu, která vykazuje funkční a hospodářskou samostatnost a, o které podnikatel rozhodl, že se má pobočkou státi
   - Zvláštní postavení má taková pobočka, o které podnikatel rozhodl, že bude zapsána do obchodního rejstříku, tu označuje zákon jako odštěpný závod
     - U takové pobočky (**odštěpného závodu**) je tím zdůrazněna její relativní funkční a hospodářská nezávislost
     - Odštěpný závod tímto krokem nenabývá právní subjektivity. Jeho vedoucí, zapsaný do obchodního rejstříku, je však jako zákonný zástupce podnikatele oprávněn za něj jednat ve všech záležitostech týkajících se odštěpného závodu
     - Domnívám se ale, že se bude jednat o samostatnou účetní jednotku
+    - Podmět k zápisu OZ může dát jen podnikatel zapsaný v OZ
   - **Provozovna**
     - Z místního hlediska se obchodní závod člení na provozovny (provozovna je rovněž termínus technikus živnostenského zákona)
     - Provozovnu vymezuje živnostenský zákon jako prostor, ve kterém je živnost provozována (může jí být např. i prodejní automat)
     - Živnost může být provozována i  ve více provozovnách, ke všem však podnikatel musí mít právní důvod k užívání
     - Podnikatel má povinnost zajistit soulad provozovny s veřejnoprávními předpisy (bezpečnost práce, nenarušení imisemi apod.) a ohlášení provozoven na živnostenském úřadě
+    - adresu provozovny – část závodu; nelze ztotožňovat se sídlem podnikatele
 
 **RODINNÝ ZÁVOD**
   - V rodinném závodu společně pracují manželé nebo alespoň s jedním z manželů i jejich příbuzní až do třetího stupně nebo osoby s manžely sešvagřené až do druhého stupně, přičemž závod je ve vlastnictví některé z těchto osob
@@ -4826,7 +4833,7 @@ VEDLEJŠÍ
   - Proto také uzavření společenské smlouvy vylučuje aplikaci pravidel o rodinném závodu, rovněž ho vylučuje například smlouva o tiché společnosti, pracovní poměr atd.
 
 **DISPOZICE S OBCHODNÍM ZÁVODEM**
-  - Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp.
+  - Obchodní závod, jako věc hromadná, může být prodán, směněn, darován, vložen do obchodní korporace atp., je také možné, aby byl obchodní závod zděděn, či aby se dostal do jiné PO prostřednictvím její přeměny s právním nástupcem
   - Pro koupi závodu stanoví ObčZ určitá speciální pravidla, podpůrně se však užijí obecná ustanovení o kupní smlouvě
   - Koupí závodu kupující nabývá všechno, co k závodu jako celku v okamžiku přechodu vlastnictví závodu patří, vyjma licencí, u kterých to vylučuje jejich povaha
     - Smluvní strany mohou z koupě jednotlivou věc i vyloučit, integrita obchodního závodu tím však nemůže být narušena
@@ -4850,7 +4857,7 @@ VEDLEJŠÍ
 - Termínem podnik však evropské právo zároveň označuje subjekt odlišný od člověka, který sám právně jedná (především v kontextu evropské práva na ochranu hospodářské soutěže)
 - Nový občanský zákoník se tak vrátil k tradičnímu označení „obchodní závod“, používaném prvorepublikovými právními předpisy
 
-1. ZÁVOD JAKO PŘEDMĚT DISPOZICE
+**ZÁVOD JAKO PŘEDMĚT DISPOZICE - další informace**
 •	─      závod je obchodovatelnou věcí a tudíž s ním lze i disponovat
 •	─      nejčastější jeho dispozicí je úplatný převod (prodej)
 •	─      ↪ speciální ustanovení reflektující zvláštní povahu závodu jako věci hromadné
