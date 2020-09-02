@@ -4652,6 +4652,13 @@ ZAJÍMAVOST Pojmy majetek podniku, jmění podniku, kmenové jmění podniku, ur
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- |              | Dod a Služ | D a S     | Stav | Stav      |
+  | ------------ | ---------- | --------- | ---- | --------- |
+  |              | od         | do        | od   | do        |
+  | VŘ Mal. Roz. | 0          | 2M        | 0    | 6M        |
+  | Podlim.      | 2          | 3,7M      | 6    | 143M      |
+  | Nadlim.      | 3,7        | nekonečno | 143  | nekonečno |  
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
