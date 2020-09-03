@@ -4521,6 +4521,15 @@ DODĚLAT
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Něco obecně o občanském právním řízení** (bude dobré říct u všech těchto otázek)
+  - OSŘ je druh civilního sporu v němž soudy projednávají a rozhodují spory a jiné právní věci a provádějí výkon rozhodnutí, která nebyla splněna dobrovolně.
+  - **Struktura**
+    - Nejobecněji by se dala struktura OS řízení zobrazit následovně:
+      - (předžalobní výzba)
+      - zahájení řízení (návrh, žaloba),
+      - průběh řízení (dokazování),
+      - zakončení řízení (vynesení rozsudku).
+
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
   - Procesní -> upravuje postup, jak se domoci subjektivních práv či jak realizovat subjektivní povinnosti - regulují proces a postup -> upravují jak se postupuje v občansko právním řízení realizují hmotné právo -> subjektivní (možnosti procesních postupů) a objektivní (psané procesní právo)
@@ -4538,7 +4547,9 @@ DODĚLAT
     - Rozhodčí (arbitrážní) - upravené zákonem o rozhodčím řízení, mimosoudní řešení sporů před rozhodcem
   - **Druhy řízení**
     - Sporné - OSŘ - povaha soukromoprávních sporů - reparační, ochrana porušeného práva
+      - Stojí proti sobě dvě strany, které mají nějaký spor
     - Nesporné - ZZŘS - povaha veřejnoprávního zájmu - svéprávnost, nezvěstnost, smrt, úschovy, osvojení - prevenční, upravuje vztahy pro budoucnost
+      - Zde proti sobě strany žádný spor mít nemusejí, ale je rozhodováno o něčem, o čem může rozhodovat pouze soud
   - VEDLEJŠÍ **Příslušnost soudu - věcná a místní u NŘ - přislušní soud osoby v jejímž zájmu se řízení koná, u SŘ se rozhoduje například podle sídla, bydliště, umístění nemovitosti etc.**
   - **Zahájení řízení**
     - SŘ - podání žaloby
@@ -4581,17 +4592,17 @@ DODĚLAT
         - povinnost dostavit se k soudu
     - **Definice účastníků**
       - U sporného řízení
-        - žalobce a žalovaný
+        - **žalobce** a **žalovaný**
           - **společenství účastníků** - situace, kdy je na straně žalobce, nebo žalovaných více
             - žalobci = aktivní společenství
             - žalovaní = pasivní společenství
-        - vedlejší účastník - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
-          - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu
+        - **vedlejší účastník** - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
+          - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu (například matka dítěte při rozhodování o určování otcovství)
           - má stejná práva a povinnosti jako účastník
       - U nesporného řízení
         - SZ je standardně pouze jen u NŘ, krom insolvenčního řízení - může vstupovat do řízení a řízení zahajovat
-        - navrhovatel (například SZ, nebo zdravotní ústav) a ten, o jehož právech či povinnostech má být v řízení jednáno - například osoba, která má být omezene ve svéprávnosti
-        - navrhovatel a ten, jehož za účastníka označí zákon, například manžel zůstavitele v řízení o pozůstalosti
+        - **navrhovatel** (například SZ, nebo zdravotní ústav) a ten, **o jehož právech či povinnostech má být v řízení jednáno** - například osoba, která má být omezene ve svéprávnosti
+        - dále jako třetí účastník ten, **jehož za účastníka označí zákon**, například manžel zůstavitele v řízení o pozůstalosti
       - **Zvláštní subjekty řízení**
         - subjekty, které reprezentují veřejný nebo jiný zájem odlišný od osobního zájmu
           - státní zastupitelství - například v určitých typech řízení, která jsou upravena v ZZŘS
