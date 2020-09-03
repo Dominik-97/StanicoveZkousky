@@ -2735,9 +2735,9 @@ Vedlejší
 
 Podstatná změna okolností - změna okolností, kdy je plnění nemožné.
 
-Neúměrné zkrácení.
+Neúměrné zkrácení - neúměrná velikost vzájemných plnění.
 
-Lichva.
+Lichva - využití slabší strany, například její tísně.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2757,11 +2757,11 @@ Lichva.
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Závazky z porušení smlouvy
-  - [ ] Z prodlení
-  - [ ] Z vadného plnění
-  - [ ] Z újmy způsobené porušením smluvní povinnosti
-- [ ] Závazky z bezdůvodného obohacení
+- [x] Závazky z porušení smlouvy
+  - [x] Z prodlení
+  - [x] Z vadného plnění
+  - [x] Z újmy způsobené porušením smluvní povinnosti
+- [x] Závazky z bezdůvodného obohacení
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -2949,131 +2949,145 @@ VEDLEJŠÍ
   - §1925 OZ - právo z vadného plnění nevylučuje právo na náhradu škody
     - čeho však lze dosáhnout uplatněním práva z vadného plnění, toho se nelze domáhat z jiného právního důvodu  ( např: vadný el. Spotřebič)
 
+- **Náhrada škody** **PRVNÍ ČÁST**
+
 - **Újma x Škoda**
- • újma může být
-      • majetková (újma na jmění, škoda) ( je povinné ji nahradit)
-      • nemajetková
-• podle OZ se
-     • škoda hradí vždy, jsou-li splněny zákonem stanovené předpoklady pro vznik povinnosti hradit újmu,
-      • nemajetková újma se hradí jen stanoví-li to OZ nebo jiný zákon výslovně anebo je-li to sjednáno (zvláštní zákon o obchodních korporacích)
+  - újma má dva druhy a může být
+    - majetková (újma na jmění, škoda) ( je povinné ji nahradit) - označuje se právě jako škoda
+    - nemajetková - označuje se právě jako újma
+  - podle OZ se
+    - škoda hradí vždy, jsou-li splněny zákonem stanovené předpoklady pro vznik povinnosti hradit újmu,
+    - nemajetková újma se hradí jen stanoví-li to OZ nebo jiný zákon výslovně anebo je-li to sjednáno (zvláštní zákon o obchodních korporacích)
 
-- **Zadostiučinění**
- • §2951/2 OZ - nemajetková újma se odčiní přiměřeným zadostiučiněním
- • zadostiučinění musí být poskytnuto
-      • v penězích,
-      • nezajistí-li jeho jiná způsob skutečně a dostatečně účinné odčinění způsobené újmy
-Náhrada nemajetkové újmy
- • §2956 OZ - vznikne-li škůdci povinnost odčinit člověku újmu na jeho přirozeném právu chráněném ustanovením první části OZ nahradí,
-       • škodu i
-       • nemajetkovou újmu,
-kterou tím způsobil
- • §3/2 ZOK - ukládá-li tento zákon povinnost nahradit újmu, postihuje škůdce i povinnost nahradit nemajetkovou újmu
- • §2971 OZ - odůvodňuje-li to zvláštní okolnosti, za nichž škůdce způsobil újmu protiprávním činem, zejména
-     • porušil-li z hrubé nedbalosti důležitou právní povinnost, anebo
-     • způsobil-li újmu úmyslně z touhy ničit, ublížit nebo z jiné pohnutky zvlášť zavrženíhodné, nahradí škůdce též nemajetkovou újmu důvodně pociťuje jako osobní neštěstí, které nelze jinak odčinit
-Vznik povinnosti nahradit škodu
- • předpoklady povinnosti hradit škodu
-   • porušení povinností,
-   • vznik škody,
-   • příčinná souvislost (kauzální nexus), popř.
-   • zavinění
- Náhrada škody
- • obecně platí, že předpokladem vzniku povinnosti hradit škodu je zavinění
-• bez ohledu na své zavinění je škůdce povinen nahradit škodu jen v případech stanovených zákonem (objektivní odpovědnost)
- Jednostranné omezení práva na náhradu újmy
- • oznámí-li někdo (jednostranné jednání), že svoji povinnost k náhradě újmy vůči jiným osobám
-     • vylučuje nebo
-     • omezuje
-nepřihlíží se k tomu
-Náhrada majetkové a nemajetkové újmy =Prevence
-• nepřihlíží se k ujednání, které předem vylučuje nebo omezuje
-   • povinnost k náhradě újmy způsobené
-         • člověku na jeho přirozených právech, anebo
-         • způsobené úmyslně nebo z hrubé nedbalosti
-   • právo slabší strany na náhradu jakékoli újmy
- • v těchto případech se práva na náhradu nelze ani platně vzdát
+- **Zadostiučinění** X náhraza za majetkovou škodu nemá specifické pojmenování
+  - §2951/2 OZ - nemajetková újma se odčiní přiměřeným zadostiučiněním
+  - zadostiučinění musí být poskytnuto
+    - v penězích,
+    - nezajistí-li jeho jiná způsob skutečně a dostatečně účinné odčinění způsobené újmy (například omluva)
 
-• §2899 OZ - kdo pro sebe přijal nebezpečí oběti, byť tak učinil za takových okolností, že to lze považovat za neprozřetelné, nevzdal se tím práva na náhradu proti tomu, kdo újmu způsobil
-Prevence
-• §2900 OZ - vyžadují-li to
-     • okolnosti případu nebo
-     • zvyklosti soukromého práva
-je každý povinen počítat při svém konání ta, aby nedošlo k neodůvodněné újmě na
-      • svobodě,
-      • životě,
-      • vlastnictví jiného
-Zakročovací povinností
- • §2901 OZ - vyžadují-li to
-      • okolností případu nebo
-      • zvyklosti soukromého práva
- má povinnost zakročit na ochranu jiného každý, kdo
-     • vytvořit nebezpečnou situaci nebo
-     • nad ní má kontrolu, anebo
-     • odůvodňuje-li to povaha poměru mezi osobami
- • povinnost zakročit na ochranu jiného má i ten, kdo může podle svých
-      • možností a
-      • schopností
-snadno odvrátit újmu
-      • o níž ví nebo musí vědět,
-      • že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit
-Preventivní oznamovací povinnost
-      • kdo
-             • porušil právní povinnost, nebo
-             • kdo může a má vědět, že jí poruší,
-• oznámí to bez zbytečného odkladu osobě, které z toho může vzniknout újma, a
-• upozorní ji na možné následky
-• splní-li ten, kdo porušil právní povinnost oznamovací povinnost, nemá poškozený právo na náhradu té újmy, které mohl po oznámení zabránit
-• nezakročí-li ten, komu újma hrozí, k jejímu odvrácení způsobem přiměřeným okolnostem, nese ze svého, čemu mohl zabránit
-Zásah soudu
- • při vážném ohrožení může ohrožený požadovat, aby soud uložil
-        • vhodné a
-        • přiměřené opatření k odvrácení hrozící újmy
- Náhoda
- • újmu způsobenou náhodou nahradí ten, kdo dal ze své vlny k náhodě podnět, zejména tím, že
-       • poruší příkaz, nebo
-       • poškodí zařízení, které má nahodilé újmě zabránit
-Nutná obrana
- • §2905 OZ - kdo odvrací
-    • od sebe nebo
-    • od jiného,
-protiprávní útok
-    • bezprostředně hrozící nebo
-    • trvající,
-a způsobí přitom útočníkovi újmu, není povinen k její náhradě
-• to neplatí, je-li zjevné, že napadenému hrozí vzhledem k jeho poměrům
-     • újma jen nepatrná nebo
-     • obrana je zcela zjevně nepřiměřená, zejména vzhledem k závažnosti újmy způsobené odvrácením útoku útočníkovi
-Krajní nouze
- • §2906 OZ - kdo odvrací
-   • od sebe nebo
-   • od jiného,
-přímo hrozící nebezpečí újmy, není povinen k náhradě újmy tím způsobené
-     • nebylo-li za daných okolností možní odvrátit nebezpečí jinak nebo
-• nezpůsobí-li následek zjevně stejně závažný nebo ještě závažnější než újma, která hrozila
- • to neplatí, vyvolal-li nebezpečí vlastní vinou sám jednající
-• zásadně se netýká nebezpečí způsobeného osobou, ale zejména živelnou katastrofou
-Odvrácení hrozící újmy
- • při posouzení zda někdo jednal
-        • v nutné obraně, anebo
-        • v krajní nouzi se přihlédne i k omluvitelnému vzrušení mysli toho, kdo odvracel útok nebo jiné nebezpečí
- • kdo odvracel hrozící újmu, má právo na
-          • náhradu účelně vynaložených nákladů a
-          • náhradu újmy, kterou přitom utrpěl, i proti tomu, v jehož zájmu jednal, nanejvýš však v rozsahu přiměřeném tomu, co odvrátil
-Povinnosti nahradit škodu (porušení dobrých mravů, nedbalost)
- • §2909 OZ - škůdce, který poškozenému způsobí škodu úmyslným porušením dobrých mravů je povinen ji nahradit
-• vykonává-li však své právo, je škůdce povinen škodu nahradit, jen sledoval-li jako hlavní účel poškození jiného
-Domněnka nedbalosti
-• způsobí-li škůdce poškozenému škodu porušením zákonné povinnosti, má se za to, že škodu zavinil z nedbalosti (důležité pro zavinění)
- • nejedná-li škůdce tak, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale
-• jestliže škůdce
-       • dá najevo zvláštní znalost, dovednost nebo pečlivost, nebo
-       • se zaváže k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebu,
-a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale
+- **Náhrada nemajetkové újmy například ve vztahu k osobnostním právům člověka**
+  - §2956 OZ - vznikne-li škůdci povinnost odčinit člověku újmu na jeho přirozeném právu chráněném ustanovením první části OZ nahradí,
+    - škodu i
+    - nemajetkovou újmu (formou zadostiučinění), kterou tím způsobil
+  - Další příklady
+    - §3/2 ZOK - ukládá-li tento zákon povinnost nahradit újmu, postihuje škůdce i povinnost nahradit nemajetkovou újmu
+    - §2971 OZ - odůvodňuje-li to zvláštní okolnosti, za nichž škůdce způsobil újmu protiprávním činem, zejména
+      - porušil-li z hrubé nedbalosti důležitou právní povinnost, anebo
+      - způsobil-li újmu úmyslně z touhy ničit, ublížit nebo z jiné pohnutky zvlášť zavrženíhodné, nahradí škůdce též nemajetkovou újmu důvodně pociťuje jako osobní neštěstí, které nelze jinak odčinit
 
-Porušení smluvní povinnosti
-• poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou
-     • druhé straně nebo
-     • i osobě, jejímuž zájmu mělo splnění sjednané povinnosti zjevně sloužit
+- **Vznik povinnosti nahradit škodu**
+  - předpoklady povinnosti hradit škodu
+    - porušení povinností,
+    - vznik škody,
+    - příčinná souvislost (kauzální nexus), popř.
+    - zavinění
+  - **Náhrada škody**
+    - obecně platí, že předpokladem vzniku povinnosti hradit škodu je zavinění
+    - bez ohledu na své zavinění je škůdce povinen nahradit škodu jen v případech stanovených zákonem (objektivní odpovědnost) - například škoda z provozu závodu
+
+- **Jednostranné omezení práva na náhradu újmy a škody**
+    - oznámí-li někdo (jednostranné jednání), že svoji povinnost k náhradě újmy/škody vůči jiným osobám
+      - vylučuje nebo
+      - omezuje
+    - nepřihlíží se k tomu
+  - **Náhrada majetkové a nemajetkové újmy =Prevence** = ustanovení, které specificky vyjmenovává případy, u kterých není možné omezit odpovědnost za újmu/škodu
+    - nepřihlíží se k ujednání, které předem vylučuje nebo omezuje
+      - povinnost k náhradě újmy způsobené
+        - člověku na jeho přirozených právech, anebo
+        - způsobené úmyslně nebo z hrubé nedbalosti
+      - právo slabší strany na náhradu jakékoli újmy
+      - v těchto případech se práva na náhradu nelze ani platně vzdát
+
+- §2899 OZ - kdo pro sebe přijal nebezpečí oběti, byť tak učinil za takových okolností, že to lze považovat za neprozřetelné, nevzdal se tím práva na náhradu proti tomu, kdo újmu způsobil
+
+- **Další specifické části týkající se náhrady škody/újmy**
+- **Prevence**
+  - §2900 OZ - vyžadují-li to
+    - okolnosti případu nebo
+    - zvyklosti soukromého práva
+  - je každý povinen počítat při svém konání ta, aby nedošlo k neodůvodněné újmě na
+    - svobodě,
+    - životě,
+    - vlastnictví jiného
+  - **Zakročovací povinností**
+    - §2901 OZ - vyžadují-li to
+      - okolností případu nebo
+      - zvyklosti soukromého práva
+    - má povinnost zakročit na ochranu jiného každý, kdo
+      - vytvořit nebezpečnou situaci nebo
+      - nad ní má kontrolu, anebo
+      - odůvodňuje-li to povaha poměru mezi osobami
+    - povinnost zakročit na ochranu jiného má i ten, kdo může podle svých
+      - možností a
+      - schopností
+    - snadno odvrátit újmu
+      - o níž ví nebo musí vědět,
+      - že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit
+  - **Preventivní oznamovací povinnost**
+    - kdo
+      - porušil právní povinnost, nebo
+      - kdo může a má vědět, že jí poruší,
+    - oznámí to bez zbytečného odkladu osobě, které z toho může vzniknout újma, a
+    - upozorní ji na možné následky
+    - splní-li ten, kdo porušil právní povinnost oznamovací povinnost, nemá poškozený právo na náhradu té újmy, které mohl po oznámení zabránit
+    - nezakročí-li ten, komu újma hrozí, k jejímu odvrácení způsobem přiměřeným okolnostem, nese ze svého, čemu mohl zabránit
+  - **Zásah soudu**
+    - při vážném ohrožení může ohrožený požadovat, aby soud uložil
+      - vhodné a
+      - přiměřené opatření k odvrácení hrozící újmy
+
+- **Náhoda**
+  - újmu způsobenou náhodou nahradí ten, kdo dal ze své vlny k náhodě podnět, zejména tím, že
+    - poruší příkaz, nebo
+    - poškodí zařízení, které má nahodilé újmě zabránit
+
+- **Situace vylučující povinnost hradit škodu**
+- **Nutná obrana**
+  - §2905 OZ - kdo odvrací
+    - od sebe nebo
+    - od jiného,
+  - protiprávní útok
+    - bezprostředně hrozící nebo
+    - trvající,
+  - a způsobí přitom útočníkovi újmu, není povinen k její náhradě
+  - to neplatí, je-li zjevné, že napadenému hrozí vzhledem k jeho poměrům
+    - újma jen nepatrná nebo
+    - obrana je zcela zjevně nepřiměřená, zejména vzhledem k závažnosti újmy způsobené odvrácením útoku útočníkovi
+- **Krajní nouze**
+  - §2906 OZ - kdo odvrací
+    - od sebe nebo
+    - od jiného,
+  - přímo hrozící nebezpečí újmy, není povinen k náhradě újmy tím způsobené
+    - nebylo-li za daných okolností možní odvrátit nebezpečí jinak nebo
+    - nezpůsobí-li následek zjevně stejně závažný nebo ještě závažnější než újma, která hrozila
+      - to neplatí, vyvolal-li nebezpečí vlastní vinou sám jednající
+  - zásadně se netýká nebezpečí způsobeného osobou, ale zejména živelnou katastrofou
+- **Odvrácení hrozící újmy**
+  - při posouzení zda někdo jednal
+    - v nutné obraně, anebo
+    - v krajní nouzi se přihlédne i k omluvitelnému vzrušení mysli toho, kdo odvracel útok nebo jiné nebezpečí
+  - kdo odvracel hrozící újmu, má právo na
+    - náhradu účelně vynaložených nákladů a
+    - náhradu újmy, kterou přitom utrpěl, i proti tomu, v jehož zájmu jednal, nanejvýš však v rozsahu přiměřeném tomu, co odvrátil
+
+- **Povinnost hradit škodu** **ČÁST DRUHÁ**
+  - Povinnosti nahradit škodu (porušení dobrých mravů, porušení zákona, nedbalost)
+    - §2909 OZ - škůdce, který poškozenému způsobí škodu úmyslným porušením dobrých mravů je povinen ji nahradit
+      - vykonává-li však své právo, je škůdce povinen škodu nahradit, jen sledoval-li jako hlavní účel poškození jiného
+    - stejně tak je povinen škodu nahradit škůdce, který porušil nějakou zákonnou povinnost (třeba poškozenému něco zničil - rušil jeho vlastnické právo)
+
+- **Domněnka nedbalosti**
+  - způsobí-li škůdce poškozenému škodu porušením zákonné povinnosti, má se za to, že škodu zavinil z nedbalosti (důležité pro zavinění)
+  - nejedná-li škůdce tak, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale
+  - jestliže škůdce
+    - dá najevo zvláštní znalost, dovednost nebo pečlivost, nebo
+    - se zaváže k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebu,
+  - a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale
+
+- **Porušení smluvní povinnosti**
+  - poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou
+    - druhé straně nebo
+    - i osobě, jejímuž zájmu mělo splnění sjednané povinnosti zjevně sloužit
 
 • ke vzniku povinnosti k náhradě škody není třeba zavinění
     • překážka vznikla
@@ -4658,7 +4672,7 @@ se nepoužijí na pohledávky ze sázky, hry nebo loterie
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-DODĚLAT
+
 - [ ] Subjekty civilního procesu
 - [ ] Procesní úkony
 
