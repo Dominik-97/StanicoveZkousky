@@ -3493,6 +3493,209 @@ Zápůjčka
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+21.Závazky ze smluv příkazního typu.
+Smlouvy příkazního typu
+• mezi smlouvy příkazního typu patří
+      • příkaz,
+      • zprostředkování,
+      • komise,
+      • zasílatelství,
+      • obchodní zastoupení
+ Příkazní smlouva
+ • §2430 an. OZ - příkazní smlouvou se příkazník zavazuje obstarat záležitost příkazce (dříve mezi podnikateli smlouva mandátní)
+ • obstarání může být úplatné a bezúplatné
+• obstarává-li někdo určité záležitosti jako podnikatel, má povinnost - byl-li o obstarání takové záležitosti požádán - dát druhé straně bez zbytečného odkladu výslovně najevo, zda na sebe obstarání záležitosti bere nebo ne; jinak nahradí škodu tím způsobenou
+
+• příkazník je povinen
+     • plnit příkaz poctivě a pečlivě podle svých schopností,
+     • přenechat příkazci veškerý užitek z obstarané záležitosti
+• od příkazcových pokynů se může odchýlit,
+    • je-li to nezbytné v zájmu příkazce a
+    • nemůže-li včas obdržet jeho souhlas
+
+• příkazník proveze příkaz zásadné osobně
+• svěří-li provedení příkazu jinému, odpovídá, jako by příkaz prováděl sám
+ALE
+• dovolí-li příkazce, aby si ustanovil náhradníka, nebo
+• byl-li nezbytně nutný, nahradí příkazník jen škodu, kterou způsobil chybnou volbou náhradníka
+
+ • obdrží-li příkazník od příkazce pokyn zřejmě nesprávný,
+     • upozorní ho na to a
+     • splní takový pokyn jen tehdy, když na něm příkazce trvá
+
+• §2435 OZ - příkazník
+  • podá příkazci na jeho žádost zprávu o postupu plnění příkazu,
+  • převede na příkazce veškerý užitek z prováděného příkazu a
+  • po provedení příkazu předloží příkazci vyúčtování
+
+• příkazce je povinen
+    • složit na žádost příkazníkovi zálohu k úhradě hotových výdajů a
+    • nahradit mu náklady účelně vynaložené při provádění příkazu, i když se výsledek nedostaví
+
+ • příkazce poskytne příkazníkovi odměnu,
+   • byla-li sjednána nebo
+   • je-li obvyklá, zejména vzhledem k příkazcovu podnikání,
+
+• příkazce poskytne odměnu, i když výsledek nenastal, ledaže nezdar způsobil příkazník tím, že porušil své povinnosti
+ • vyžaduje-li obstarání záležitosti, aby příkazník za příkazce právně jednal, vystaví příkazce příkazníkovi včas plnou moc
+• příkazník může příkaz vypovědět nejdříve ke konci měsíce následujícího po měsící, v němž byla výpověď doručena
+ • při zániku příkazu odvoláním, výpovědí, anebo smrtí zařídí příkazník vše, co nesnese odkladu, dokud příkazce neprojeví jinou vůli
+
+• §2443 OZ - příkazce může příkaz odvolat podle libosti, nahradí však příkazníkovi
+    •náklady, které do té doby měl,
+    • škodu, pokud ji utrpěl, a
+    • část odměny přiměřenou vynaložené námaze příkazníka
+Zprostředkování
+• §2445 an. ZOK - smlouvou o zprostředkování se
+   • zprostředkovatel zavazuje, že zprostředkuje zájemci uzavření určité smlouvy s třetí osobou, a
+   • zájemce se zavazuje zprostředkovateli zaplatit provizi
+   • zprostředkovatel sdělí zájemci vše, co má význam pro jeho rozhodování o uzavření zprostředkované smlouvy
+   • zájemce sdělí zprostředkovateli vše, co pro něho má rozhodný význam pro uzavření zprostředkované smlouvy
+
+ • provize zprostředkovatele je splatná dnem uzavření zprostředkované smlouvy - nedojde-li k uzavření smlouvy, právo na provizi nevznikne
+• bylo-li sjednáno, že zprostředkovatel pro zájemce obstará příležitost uzavřít s třetí osobou smlouvu s určitým obsahem, je provize splatná již obstaráním příležitosti
+
+• zprostředkovatel nesmí navrhnout zájemci uzavření smlouvy s osobou, o které má důvodnou pochybnost, zda povinnosti ze zprostředkované smlouvy řádně a včas splní
+Komise
+• §2455 an. OZ - komisionářskou smlouvou se
+  • komisionář zavazuje obstarat pro komitenta na jeho účet vlastník jménem určitou záležitost, a
+  • komitent se zavazuje zaplatit mu odměnu
+
+• od pokynů komitenta se může komisionář odchýlit,
+  • je-li to v zájmu komitenta a
+  • nemůže-li si vyžádat jeho včasný souhlas
+
+• z právního jednání učiněného komisionářem vůči třetí osobě nevznikají práva ani povinnosti komitentovi, nýbrž komisionáři samotnému
+• po obstarání záležitostí je komisionář povinen
+  • provést vyúčtování,
+  • postoupit komitentovi práva nebytý v souvislosti s obstaráním záležitosti a
+  • vydat mu vše, co při tom získal
+
+• jestliže komisionář
+  • prodal věc za nižší cenu, než určil komitent, nahradí mu rozdíl v ceně,
+  • koupil věc za vyšší cenu, než určil komitent, může komitent odmítnout kopi, pokud se mu komisionář zároveň s podáním zprávy o koupi nezavázal zaplatit rozdíl v ceně,
+  • obstaral záležitost komitenta za výhodnějších podmínek, než mu komitent určil, náleží prospěch jen komitentovi
+
+ • věc svěřená komisionáři k prodeji zůstává ve vlastnictví komitenta, dokud vlastnické právo nenabude třetí osoba
+• považuje se za sporné, kterým okamžikem se věc, kterou koupil komisionář pro komitenta, stává vlastnictvím komitenta
+ALE
+ • z §2465 OZ - (komisionář má k věci, dokud se u něho nachází zadržovací právo k zajištění dluhů ze smlouvy) se dovozuje, že spíše dovozuje, že předáním věci komisionáři nabývá vlastnické právo komitent
+ • §2461 OZ - neuvede-li komisionář ve zprávě o provedení příkazu osobu, s níž na účet komitenta uzavřel smlouvu, může komitent uplatnit svá práva proti samotnému komisionáři jako zavázanému z této smlouvy (samovstup komisionáře)
+• nebyla-li výše odměny sjednána, náleží komisionáři odměna přiměřená
+  • vykonané činnosti a
+  • dosaženému výsledku, spolu s účelně vynaloženými náklady
+Zasílatelství
+• §2471 an. OZ - zasílatelskou smlouvou se
+• zasílatel zavazuje příkazci
+   • obstarat mu vlastním jménem a na jeho účet přepravu zásilky z určitého místa do jiného, případně i
+   • obstarat nebo provést úkony s přepravou související, a
+ • příkazce se zavazuje zaplatit zasílateli odměnu
+• smlouva nemá předepsanou písemnou formu, není-li však uzavřena v písemné formě, má zasílatel právo žádat, aby mu příkazce doručil příkaz k obstarání přepravy (zasílatelský příkaz)
+• zasílatel může užít k obstarání přepravy dalšího zasílatele (mezizasílatele)
+
+• zasílatel může provést přepravu, kterou má obstarat sám (samovstup zasílatele),
+  • neodporuje-li to smlouvě nebo
+  • nezakáže-li to příkazce nejpozději do začátku uskutečňování přepravy
+• povinnost pojistit zásilku má zasílatel, jen bylo-li to sjednáno
+
+• neposkytne-li příkazce zasílateli správné údaje o
+   • obsahu zásilky a
+   • všech skutečnostech potřebných k uzavření smlouvy o přepravě, nahradí škodu, která zasílateli vznikne porušením této povinnosti
+• vznikne-li na převzaté zásilce při obstarávání přepravy škoda, zasílatel ji nahradí, neprokáže-li, že škodu nemohl odvrátit
+
+• nebyla-li sjednána výše odměny zasílateli
+  • přiměřená odměna, jaká se
+   • v době uzavření smlouvy
+   • za obdobných smluvních podmínek
+   • obvykle poskytuje a
+  • náhrada účelně vynaložených nákladů
+• zasílatel má k zásilce (listinám, které ho opravňují se zásilkou nakládat) dokud jsou u něho, zástavní právo k zajištění dluhů vyplývajících ze smlouvy
+ Obchodní zastoupení
+• §2483 OZ - smlovou o obchodním zastoupení
+   • se zavazuje obchodní zástupce jako nezávislý podnikatel dlouhodobě vyvíjet pro zastoupeného činnost směřující
+    • k uzavírání určitého druhu obchodů zastoupeným neno
+    • ke sjednání obchodů jménem zastoupeného a na jeho účet a
+   • zastoupený se zavazuje platit obchodnímu zástupci provizi
+
+• není-li sjednání, kde má obchodní zástupce vyvíjet činnost, platí za sjednané pzemí České republiky
+• je-li obchodním zástupcem zahraniční osoba, platí za sjednané území stát, kde má ochodní zástupce sídlo v době uzavření smlouvy
+ Výhradní obchodní zastoupení
+ • bylo-li sjednáno výhradní obchodní zastoupení, nemá zastoupený právo
+   • na rozhodném území nebo
+   • pro určený okruh osob
+využívat jiného obchodního zástupce
+
+• zastoupený má ale právo uzavírat obchody, na které se vztahuje výhradní obchodní zastoupení, i bez součinnosti obchodního zástupce
+ • v takovém případě však obchodnímu zástupci vzniká právo na provizi jako by tyto obchody byly uzavřeny s jeho součinností
+
+• obchodní zástupce nemá na rozhodném území nebo pro určený okruh osob
+  • právo vykonávat obchodní zastoupení pro jiné osoby, ani
+  • uzavírat obchody na vlastní účet nebo na účet jiné osoby
+Nevýhradní obchodní zastoupení
+• nevyplývá-li ze smlouvy, že je obchodní zastoupení výhradní,
+  • může zastoupený pověřit stejným obchodním zastoupením, jaké sjednal s obchodním zástupcem i jinou osobu, a
+   • obchodní zástupce může vykonávat činnost, ke které se zavázal vůči zastoupenému, i pro jiné osoby/uzavírat obchody, jež jsou předmětem OZ, i na vlastní účet nebo účet jiné osoby
+Povinnosti obchodního zástupce
+ • obchodní zástupce
+   • vykonává svou činnost s odbornou péčí,
+   • dbá zájmu zastoupeného,
+   • postupuje ve shodě s pověřením a rozumnými pokyny zastoupeného a
+   • sdělí zastoupenému nezbytné údaje, které se dozvěděl v souvislosti s plněním svých povinností a které s tímto plněním souvisí
+
+ • bylo-li by to v rozporu se zájmy zastoupeného, nesmí obcohdní zástupce
+   • sdělit třetí osobě údaje, které od zastoupeného získal, ani
+   • tyto údaje využít pro sebe nebo pro jiné osoby, ledaže s tím zastoupený souhlasí
+
+• tato povinnost trvá i po zániku obchodního zastoupení
+    • obchodní zástupce neručí za to, že třetí osoba splní povinnost z obchodu, který
+    • zastoupenému navrhl k uzavření, nebo • jménem zastoupeného sám uzavřel
+ALE
+ • to neplatí
+   • zavázal-li se k tomu v písemné formě a
+   • byla-li za převzetí ručení sjednána zvláštní úplata
+• nemůže-li obchodní zástupce vykonávat svou činnost, sdělí to zastoupenému bez zbytečného odkladu
+
+• zastoupený obchodnímu zástupci
+   • obstará a sdělí údaje nezbytné k plnění jeho povinností,
+   • poskytne nezbytnou dokumentaci vztahující se k předmětu obchodů,
+   • předá všechny poklady a věci potřebné pro plnění jeho povinností
+
+• zastoupený sdělí obchodnímu zástupci bez zbytečného odkladu, zda obchod obstaraný obchodním zástupcem přijal, nebo odmítl, popřípadě zda jej nesplnil
+ • předpokládá-li zastoupený významné snížení rozsahu činnosti proti tomu, co obchodní zástupce mohl rozumně očekávat, oznámí to obchodnímu zástupci v rozumné době
+ Provize
+• nebyla-li výše provize sjednána, má obchodní zástupce právo na provizi ve výši odpovídající zvyklostem
+  • v místě jeho činnosti
+  • vzhledem k druhu zboží nebo služeb, které jsou předmětem obchodů
+• nejsou-li takové zvyklosti, má obchodní zástupce právo na provizi v rozumné výši
+ Trvání obchodního zastoupení
+• není-li sjednání, na jakou dobu se obchodní zastoupení zřizuje, a neplyne-li to ani z účelu smlouvy, platí, že obchodní zastoupení bylo sjednání na dobu neurčitou
+ • bylo-li obchodní zastoupení
+   • sjednáno na dobu určitou a
+   • řídí-li se strany smlouvou i po uplynutí sjednané doby, hledí se na obchodní zastoupení, jako by bylo sjednáno na dobu neurčitou
+Výpověď
+• je-li obchodní zastoupení sjednáno na dobu neurčitou, lze je vypovědět
+• výpovědní doba je
+    • pro první rok trvání obchodního zastoupení jeden měsíc,
+    • pro druhý rok dva měsíce a
+    • pro třetí a další roky tři měsíce
+ Zvláštní odměna
+• zanikne-li obchodní zastoupení, má obchodní zástupce právo na zvláštní odměnu, pokud
+    • zastoupenému
+        • získal nové zákazníky nebo
+        • významně rozvinul obchod s dosavadními zákazníky
+ a zastoupený má dosud z těchto obchodů podstatné výhody a placení zvláštní odměny je s ohledem na všechny okolnosti případu spravedlivé
+ Konkurenční doložka
+• strany si mohou sjednat, že obchodní zástupce po zániku obchodního zastoupení nesmí
+   • na určeném území nebo
+   • vůči určenému okruhu osob na tomto území
+vykonávat činnost, která by měla soutěžní povahu ve vztahu k podnikání zastoupeného
+ • konkurenční doložka sjednaná na dobu delší než dva roky od zániku zastoupení, je neplatná
+Zakázaná ujednání
+• občanský zákoník zakazuje v rámci smlouvy o obchodním zastoupení celou řadu ujednání, zejména ujednání o provizi odchylující od zákona
+• nedodržení tohoto zákazu sankcionuje zákon zdánlivosti
+
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -3520,6 +3723,184 @@ Zápůjčka
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+22.Dílo.
+Smlouva o dílo
+Definice a podstatné náležitosti
+• §2586/1 OZ - smlouvou o dílo se zhotovitel zavazuje
+      • provést na svůj náklad a nebezpečí pro objednatele dílo a
+      • objednatel se zavazuje dílo převzít a zaplatit jeho cenu
+• podstatnými náležitostmi smlouvy o dílo jsou vymezení díla nebo jeho předmětu a cena
+Nesení nákladů
+ • provádění díla na náklad zhotovitele znamená, že
+     • nestanoví-li zákon či
+     • nedohodnou-li strany něco jiného, (zejména poskytování záloh), nese náklady provádění díla až do zaplacení ceny zhotovitel
+ ALE
+ • §2611 OZ
+       • provádí-li se dílo po částech nebo se značnými náklady a
+       • neujednaly-li strany placení zálohy,
+ může zhotovitel požadovat během provádění díla přiměřenou část odměny s přihlédnutím k vynaloženým nákladům
+ (§1807 OZ - má se za to, že co dala jedna strana druhé před uzavřením smlouvy, je záloha)
+Nesení nebezpečí
+• nesení nebezpečí škody při provádění díla zahrnuje zejména riziko zhotovitele, že
+       • náklady provádění díla budou větší, než předvídal,
+       • nezvolí správný způsob provádění díla,
+       • dílo nelze provést vůbec, nebo dohodnutým způsobem (zejména v důsledku vyšší moci),
+       • v souvislosti s prováděním díla nastanou jiné nepříznivé následky které nezpůsobila (zavinila) jiná osoba nebo se nepodařilo zjistit osobu, která je způsobila
+Zvláštní úprava nesení nebezpečí škody u smlouvy o dílo
+• §2598/1 OZ - objednatel nese nebezpečí škody na věci, kterou opatřil k provedení díla, pokud trvá jeho vlastnické právo k věci
+• §2608/2 OZ - převzetím nabývá objednatel vlastnické právo ke zhotovené věci a přechází na něj nebezpečí škody na věci, nestalo-li se tak již dříve
+• §2625 OZ - zhotovuje-li se objednateli stavba na objednávku, nese zhotovitel nebezpečí
+        • škody nebo
+        • zničení stavby až do jejího předání, ledaže by ke škodě došlo i jinak
+Určení ceny
+• §2586/2 OZ - cena díla je sjednána dostatečně určitě, je-li dohodnut alespoň
+     • způsob jejího určení, anebo
+     • je-li určena alespoň odhadem.
+• mají-li strany vůli uzavřít smlouvu bez určení ceny díla, platí za sjednanou obvyklá cena
+Definice díla
+• §2587 OZ - dílem se rozumí
+     • zhotovení určité věci, nespadá-li pod kupní smlouvu,
+     • údržba,
+     • oprava nebo úprava věci, nebo
+     • činnost s jiným výsledkem (již nemusí být hmotně zachycený)
+• dílem se rozumí vždy zhotovení, údržba, oprava neno úprava stavby nebo její části
+Subdodávky
+• §2589 OZ - zhotovitel
+     • buď provede dílo osobně, anebo
+     • je nechá provést pod svým osobním vedením
+ • to neplatí, není-li provedení díla vázáno na osobní vlastnosti zhotovitele nebo není-li to vzhledem k povaze díla zapotřebí
+Čas plnění
+• §2590 OZ - zhotovitel provede dílo s potřebnou péči ve sjednaném čase a obstará vše, co je k provedení díla potřeba
+• není-li doba plnění sjednána, provede zhotovitel dílo v době přiměřené jeho povaze
+ Součinnost objednatele
+ • §2591 OZ - je-li k provedení díla nutná součinnost objednatele, určí mu zhotovitel přiměřenou lhůtu k jejímu poskytnutí
+• uplyne-li lhůta marně, má zhotovitel právo podle své volby si
+     • zajistit náhradní plnění na účet objednatele, anebo,
+     • odstoupit od smlouvy, upozorní-li na to objednatele
+Kontrola provádění díla
+ • §2593 OZ - objednatel má právo kontrolovat provádění díla
+• zjistí-li, že zhotovitel porušuje svou povinnost, může požadovat, aby zhotovitel zajistil nápravu a prováděl dílo řádným způsobem
+• neučíní-li tak zhotovitel ani v přiměřené době,
+      • může objednatel odstoupit od smlouvy,
+      • jen vedl-li by postup zhotovitele nepochybně k podstatnému porušení smlouvy
+ Nevhodná povaha věcí předaných zhotoviteli objednatelem
+ • zhotovitel je povinen upozornit objednatele bez zbytečného odkladu na nevhodnou povahu
+        • předané věci nebo
+        • příkazu,
+který mu dal
+ • to neplatí, nemohl-li nevhodnost zjistit ani při vynaložení potřebné péče
+• trvá-li objednatel na provedení
+      • podle zřejmě nevhodného příkazu nebo
+      • s použitím zřejmě nevhodné věci,
+ i pro zhotovitelově upozornění, může zhotovitel od smlouvy odstoupit
+ Vlastnické právo k předmětu díla
+ • §2599 OZ - je-li předmětem díla věc určená jednotlivě, nabývá k ní vlastnické právo, až na zákonem stanovené vyjímky, objednatel
+• je-li předmětem díla věc určená podle druhu, nabývá k ní vlastnické právo, až na zákonem stanovené vyjímky, zhotovitel
+Vlastnické právo ke stavbě
+• stavba, až na zákonem stanovené vyjímky,
+     • není věc a
+     • jejím vlastníkem se stane vlastník pozemku (stavba je součástí pozemku)
+Provedení a převzetí díla
+ • §2604 OZ - dílo je provedeno, je-li dokončeno a předáno
+ • §2605 OZ - dílo je dokončeno, je-li předvedena jeho způsobilost sloužit svému účelu (ale §2607 OZ - zkoušky)
+• objednatel převezme dokončené dílo
+        • s výhradami, nebo
+        • bez výhrad,
+• převezme-li objednatel dílo bez výhrad,
+        • nepřizná mu soud právo ze zjevné vady díla,
+        • namítne-li zhotovitel, že právo nebylo uplatněno včas
+Provedení dohodnutých zkoušek
+• §2607 OZ - má-li být dokončení díla prokázáno provedením sjednaných zkoušek, považuje se provedení díla za dokončené úspěšných provedením zkoušek
+• k účasti na nich zhotovitel objednatele včas přizve
+• nezúčastní-li se objednatel zkoušky a nevylučuje-li to povaha věci, nebrání to jejich provedení
+Svépomocný prodej  
+• §2609 OZ - je-li předmět díla věc, může ji zhotovitel na účet objednatele vhodným způsobem prodat, nepřevezme-li ji objednatel bez zbytečného odkladu poté, co mělo být dílo dokončeno
+ • bylo-li dílo dokončeno později, pak bez zbytečného odkladu po vyrozumění o dokončení díla
+ • nehlásí-li se
+      • neznámý nebo
+      • nesnadno dosažitelný
+ objednatel o dílo po dobu delší než šest měsíců, popř. brání-li tomu povaha věci, nehlásí-li se objednatel o věc po dobu přiměřenou její povaze, může zhotovitel věc na jeho účet prodat i bez vyrozumění
+ Vznik práva na zaplacení ceny
+• §2610 OZ - právo na zaplacení ceny díla vzniká provedením díla (dle §2604 OZ - dílo je provedeno, je-li dokončeno a předáno)
+• je-li dílo přejímáno po částech, vzniká právo na zaplacení ceny za každou část při jejím provedení
+Překročení ceny
+ • §2612 OZ - zjistí-li zhotovitel po uzavření smlouvy, že cenu určenou odhadem bude třeba podstatně překročit, oznámí to objednateli s odůvodněným určením nové ceny
+• neučiní-li to bez zbytečného odkladu poté, co potřebu zvýšení ceny zjistil, anebo zjistit měl a mohl, nemá právo na zaplacení rozdílu v ceně
+• při podstatném překročení ceny může objednatel od smlouvy odstoupit
+• má-li z částečného plnění prospěch, zaplatí zhotoviteli poměrnou část původně určené ceny • neodstoupí-li objednatel od smlouvy bez zbytečného odkladu po doručení oznámení o vyšší ceně, platí, že se zvýšením ceny souhlasí
+Vady díla
+ • §2615 OZ - dílo má vadu, neodpovídá-li smlouvě
+• o právech objednatele z vadného plnění platí obdobné ustanovení o kupní smlouvě - viz výklad práv z vad díla ke kupní smlouvě
+• objednatel však není oprávněn požadovat provedení náhradního díla, jestliže nelze předmět díla vzhledem k jeho pvoaze vrátit nebo předat zhotoviteli
+Práva z vadného plnění
+• má-li dílo při předání vadu, zakládá to povinnosti zhotovitele z vadného plnění, způsobí-li vadu zhotovitel porušením své povinnosti
+Záruka
+• §2619 OZ - dal-li zhotoviteli záruku za jakost díla, použijí se obdobné ustanovení o kupní smlouvě
+• záruční doba týkající se díla počíná běžet předáním díla
+Cena podle rozpočtu
+• §2620 OZ - je-li cena sjednána
+      • pevnou částkou, nebo
+      • odkazem na rozpočet, který je součástí smlouvy nebo který byl objednateli sdělen zhotovitelem do uzavření smlouvy,
+nemůže ani objednatel ani zhotovitel žádat změnu ceny proto, že si dílo vyžádalo jiné úsilí nebo jiné náklady, než bylo předpokládáno
+• nastane-li však nepřevídatelné, zcela mimořádná okolnost, která dokončení díla podstatně ztěžuje, může soud podle svého uvážení rozhodnout o
+       • spravedlivém zvýšení ceny za dílo, anebo
+       • o zrušení smlouvy a o tom, jak se strany vypořádají
+ • byla-li však cena určena na základě rozpočtu s výhradou,
+      • že se nezaručuje jeho úplnost nebo,
+      • že je nezávazný,
+ může zhotovitel požadovat
+ • zvýšení ceny, objeví-li se v případě rozpočtu s výhradou nezaručené úplnosti při provádění díla potřeba činnosti nezahrnutých do rozpočtu, pokud nebyly předvídatelné v době uzavření smlouvy, a
+ • v případě rozpočtu s výhradou nezávaznosti, částku, o kterou nevyhnutelně převýší náklady pčelně vynaložené zhotovitelem náklady zahrnuté do rozpočtu
+• objednatel může bez zbytečného odkladu odstoupit od smlouvy, požaduje-li zhotovitel zvýšení o více než 10% ceny podle rozpočtu
+ • v tomto případě je objednatel povinen nahradit zhotoviteli část ceny odpovídající rozsahu částečného provedení díla podle rozpočtu
+Stavba jako předmět díla
+ • §2623 OZ - na smlouvu o
+      • úpravě nemovité věci a
+      • zhotovení,
+      • opravě nebo
+      • úpravě stavby
+se použije úprava smlouvy o dílo s následujícími odchylkami
+Nebezpečí škody
+• §2624 OZ - zhotovuje-li se objednateli stavba na objednávku, nese zhotovitel nebezpečí škody nebo zničení stavby až do jejízo předání,
+ LEDAŽE
+ • by ke škodě i jinak
+ Kontrola provádění díla
+• §2626 OZ - stanoví-li smlouva, že objednatel zkontroluje předmět díla na určitém stupni jeho provádění, zhotovitel pozve objednatele ke kontrole
+• nepozve-li jej včas/pozve-li jej ve zřejmě nevhodné době, umožní objednateli dodatečnou kontrolu a hradí náklady s tím spojené
+ • nedostaví-li se objednatel ke kontrole, na níž byl řádně pozván nebo jež se měla konat podle ujednaného časového rozvrhu, může zhotovitel pokračovat v provádění díla
+Skryté překážky
+• §2627 OZ - zjistí-li zhotovitel při provádění díla skryté překážky týkající se místa, kde mám být dílo provedeno, znemožňující provést dílo dohodnutým způsobem, oznámí to bez zbytečného odkladu objednateli a navrhne mu změnu díla
+• do dosažení dohody o změně díla může jeho provádění přerušit
+Převzetí stavby •
+ §2628 OZ - objednatel nemá právo odmítnout převzetí stavby pro ojedinělé drobné vady, které
+     • samy o sobě ani ve spojení s jinými
+     • nebrání užívání stavby funkčně nebo esteticky. ani
+     • její užívání podstatným způsobem neomezují
+• obdobné ujednání se dříve začleňovalo do smlouvy
+Vady stavby
+• sjednají-li strany zkrácení doby odpovědnosti, nepřihlíží se k tomu, je-li objednatel slabší stranou
+• prováděcí právní předpis může v odůvodněných případech stanovit zkrácení doby pro uplatnění práv z vadného plnění pro některé části stavby až na dva roky
+• §2630 OZ - bylo-li plněno vadně, je vzhledem k tomu, co sám dodal, zavázán se zhotovitelem společně a nerozdílně
+ • poddodavatel zhotovitele, ledaže prokáže, že vadu způsobilo jen rozhodnutí zhotovitele nebo toho, kdo nad stavbou vykonával dozor
+ • kdo dodal stavební dokumentaci, ledaže prokáže, že vadu nezpůsobila chyba ve stavební dokumentaci, a
+ • kdo prováděl dozor nad stavbou, ledaže prokáže, že vadu stavby nezpůsobilo selhání dozoru
+• zhotovitel se zprostí povinnosti z vady stavby, prokáže-li, že vadu způsobila jen
+      • chyba ve stavební dokumentaci dodané osobou, kterou si objednatel zvolil, nebo
+      • selhání dozoru nad stavbou vykonávaného osobou, kterou si objednatel zvolil
+Dílo s nehmotným výsledkem
+• §2631 OZ - spočívá-li dílo v jiném výsledku činnosti, než je zhotovení věci nebo údržba, oprava či úprava věci, postupuje zhotovitel při této činnosti,
+    • jak bylo sjednáno a
+     • s odbornou péčí tak, aby dosáhl výsledku činnosti určeného ve smlouvě
+ Průmyslové nebo jiné duševní vlastnictví
+ • výsledek činnosti, který je předmětem práva
+        • průmyslového nebo
+        • jiného duševního vlastnictví může zhotovitel poskytnout i jiným osobám než objednateli, bylo-li tak ujednáno
+• neobsahuje-li smlouva výslovný zákaz tohoto poskytnutí,
+      • je-li k němu zhotovitel oprávněn,
+     • není-li to vzhledem k povaze díla v rozporu se zájmy objednatele
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -3550,6 +3931,240 @@ Zápůjčka
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+23.Závazky z bankovních smluv, závazky z přepravních smluv.
+
+Bankovní smlouvy
+• smlouvy o účtu,
+• vkladní knížka,
+• smlouva o jednorázovém vkladu,
+• akreditiv,
+• inkaso
+• občanský zákoník na rozdíl od zákoníku obchodního nepředepisuje, aby jednou ze stran “bankovní” smlouvy byla banka
+• pro některé smlouvy ale veřejnoprávní předpisy, vyžadují k uzavírání těchto smluv licenci
+• §2/1 BankZ - bez licence nesmí nikdo přijímat vklady od veřejnosti, pokud zvláštní zákon nestanoví jinak
+• to platí i pro některé další “bankovní” smlouvy
+Účet - obecná úprava
+• §2662 OZ - smlouvou o účtu se zavazuje ten, kdo vede účet,
+     • zřídit
+         • od určité doby
+         • v určité měně účet pro jeho majitele,
+     • umožnit
+          • vložení hotovosti na účet nebo
+          • výběr hotovosti z účtu nebo
+      • provádět převody peněžních prostředků z účtu či na účet
+ Konsenzuální povaha smlouvy
+• smlouva o účtu má konsenzuální povahu - k jejímu vzniku stačí souhlasný projev vůle smluvních stran, není nutné reálné jednání, např. složení prostředků na účet
+• tím se liší od smlouvy o zápůjčce, která je reálnou smlouvou a vznikne až přenecháním předmětu zápůjčky vydlužiteli
+Spolumajitelé účtu
+• je-li účet zřízen pro více osob (spolumajitelé účtu), má každá z nich postavení majitele účtu • spolumajitelé účtu nakládají
+        • s prostředky na účtu samostatně (není-li dohodnuto jinak),
+        • s účtem společně
+ • má se za to, že jejich podíly na peněžních prostředcích na účtu jsou stejné
+ Účet
+• s peněžními prostředky na účtu může
+     • majitel (spolumajitel) účtu a
+     • za podmínek sjednaných ve smlouvě i jeho zmocněnci
+ nakládat sjednaným způsobem
+• nevyplývá-li ze zmocnění opak, nezaniká smrtí zmocnitele
+Kontokorent
+ • sjednají-li strany, že ten, kdo vede účet
+        • umožní výběr hotovosti nebo
+        • provede převod peněžních prostředků z účtu,
+ ač pro to na účtu není dostatek peněžních prostředků (kontokorent), použijí se příměřené ustanovení o úvěru
+ Účet
+ • zemře-li majitel účtu, zastaví ten, kdo vede účet, v den následující po dni, kdy mu byla smrt majitele účtu doložena, ty
+       • výplaty hotovosti a
+       • převody peněžních prostředků z účtu, 50 o kterých majitel účtu určil, že se v nich po jeho smrti pokračovat nemá
+Úrok
+• zákon nestanoví povinnost toho, kdo vede účet, poskytovat majiteli úrok
+• pokud strany úrok z peněžních prostředků na účtu sjednají, je splatný na konci kalendářního měsíce
+ • ten, kdo vede účet, připíše úrok k zůstatku peněžních prostředků na účtu bez zbytečného odkladu poté, co se stal splatným
+Platební účet
+• platební účet (dříve zejména běžný účet) upravuje zákon č. 284/2009 Sb., o platebním styku (ZPS), který rovněž upravuje převody peněžních prostředků na jiném než platebním účtu, jde-li o platební transakci podle zákona o platebním styku
+• smlouva o účtu je rámcovou smlouvou o platebních službách ve smyslu §74 ZPS
+Jiný než platební účet
+• jiným než platebním účtem je účet, který neslouží k provádění platebních transakcí (vložení hotovosti na účet, výběr hotovosti z účtu nebo provádění převodů peněžních prostředků z účtu či na účet)
+ • jiným než platebním účtem je např.
+       • účet stavebního spoření,
+       • účet s výpovědní dobou apod.
+ • §2671 OZ - byl-li sjednán úrok, náleží majiteli jiného než platebního účtu ode dne připsání peněžních prostředků na účet do dne předcházejícího dni jejich odepsání z účtu
+• ten, kdo vede účet, připíše na něj přijaté nebo převedené peněžní prostředky nejpozději následující pracovní den poté, co získal právo s nimi nakládat
+• majitel účtu může závazek ze smlouvy o účtu vypovědět i bez výpovědní doby, i když je smlouva uzavřena na dobu určitou
+• ten, kdo vede účet, může závazek ze smlouvy o účtu vypovědět s účinností ke konci měsíce následujícího po měsíci, v němž výpověď došla majiteli účtu
+Vkladní knížka
+ • na vkladní knížku se vztahuje obecná úprava smlouvy o účtu
+• §2676 OZ - vkladní knížkou potvrzuje výstavce vkladní knížky vložení hotovosti na účet a výběr hotovosti z účtu
+• vkladní knížka není cenným papírem, je potvrzením sui generis - bez jejího předložení nelze nakládat s peněžními prostředky na účtu
+ • vkladní knížku nelze umořit podle §303 an. ZVŘS
+ • (§304/2 ZVŘ - v řízení před soudem nelze umořit takové listiny, které je podle zákona oprávněna umořit právnická osoba, jež je vystavila)
+• při ztrátěě nebo zničení vkladní knížky vystaví výstavce vkladní knížky na žádost majitele vkladní knížky novou vkladní knížku
+• pokud majitel vkladní knížky
+         • nenakládá s peněžními prostředky na účtu po dobu dvaceti let ani
+         • nepředloží vkladní knížku k doplnění záznamů, ruší se závazek uplynutím této doby
+• majitel vkladní knížky má právo na výplatu zůstatku peněžních prostředků na účtu včetně úroků ke dni zrušení závazků
+Jednorázový vklad
+• bylo-li nakládání s vkladem
+       • podmíněno sdělením hesla, a
+       • vkladatel heslo nezná,
+může vkladatel nakládat s vkladem, pokud prokáže, že mu vklad náleží
+Akreditiv
+ • nová právní úprava
+ • navazuje na dosavadní úpravu obsaženou v §682 až 691 ObchZ a
+• přihlíží k jednotným zvyklostem a pravidlům pro dokumentární akreditivy vydaným Mezinárodní obchodní komorou (ICC) v Paříží
+•akreditiv je typickým platebním nástrojem mezinárodního obchodního styku, v posledním období se však používá i při plnění dluhů v tuzemském platebním styku
+• jeho podstatou je, že příkazce dá příkaz výstavci akreditivu, aby poskytl smluvnímu partnerovi příkazce určené plnění, jestliže smluvní partner (oprávněný) splní smluvené podmínky
+• §2682 OZ - smlouvu o otevření akreditivu
+        • se výstavce akreditivu zavazuje vůči příkazci vystavit na jeho žádost a účet ve prospěch třetí osoby akreditiv a
+       • příkazce se zavazuje zaplatit výstavci akreditiv. odměnu
+• výstavce akreditivu oznámí oprávněnému
+        • v písemné formě bez zbytečného odkladu po uzavření smlouvy, že
+        • v jeho prospěch otvírá akreditiv, a sdělí mu jeho obsah
+ • akreditiv obsahuje alespoň
+       • určení, že se výstavce akreditivu zavazuje k určitému plnění, a
+       • akreditivní podmínky s určením, do kdy je má oprávněný splnit
+Potvrzený akreditiv
+• je-li akreditiv
+     • na žádost výstavce akreditivu
+     • potvrzen dalším výstavcem,
+vzniká oprávněnému právo na plnění i vůči potvrzujícímu výstavci
+ • ke změně nebo zrušení potvrzeného akreditivu se vyžaduje i souhlas potvrzujícího výstavce • plnil-li potvrzující výstavce oprávněnému podle podmínek akreditivu, má právo na náhradu vůči výstavci akreditivu
+Dokumentární akreditiv
+ • při dokumentárním akreditivu výstavce akreditivu plní oprávněnému
+      • jsou-li mu včas předloženy dokumenty určené akreditivem
+      • v souladu s akreditivními podmínkami
+• byl-li dokumentární akreditiv potvrzen, poskytne potvrzující výstavce oprávněnému plnění, jsou-li mu včas předloženy určené dokumenty
+ • ustanovení o dokumentárním akreditivu se použije přimeřeně i na akreditiv, podle něhož se lze domáhat plnění při splnění jiných podmínek než je předložení dokumentu
+Inkaso
+• smlouvou o inkasu se obstaravatel inkasa zavazuje obstarat pro příkazce
+    • příjetí peněžní částky nebo
+    • jiný inkasní úkon třetí osoby a příkazce se zavazuje zaplatit obstaravateli inkasa odměnu • není-li výše odměny sjednána, zaplatí příkazce obstaravateli inkasa odměnu obvyklou • obstaravatel inkasa
+       • vstupuje do závazku na místě příkazce a
+       • má jen tolik práv a povinností, kolik převzal na základě smlouvy o inkasu, resp. které plynou z platné právní úpravy
+ • obstaravatel inkasa je povinen postupovat při obstarání inkasa
+        • s odbornou péčí
+        • podle pokynů příkazce
+• zda obstaravatel postupoval s odbornou péčí, by se posuzovalo v konkrétním případě zejména s ohledem na mezinárodně uznávané standardy odborné péče
+• obstaravatel inkasa vyzve třetí osobu k provedení inkasního úkonu
+• odmítne-li vyzvaná osoba spolnit výzvu, podá o tom obstaravatel inkasa příkazci bez zbytečného odkladu zprávu
+• obstaravatel inkasa není povinen splnění výzvy vymáhat soudní cestou, ledaže by to bylo dohodnuto
+ • co obstaravatel inkasa při inkasu přijal, vydá bez zbytečného odkladu příkazci
+•	  Dokumentární inkaso
+ • při dokumentárním inkasu se
+     • obstaravatel inkasa vůči příkazci zavazuje vydat třetí osobě dokumenty, zaplatí-li tato osoba proti vydání dokumentů určitou peněžní částku, nebo
+    • provést před vydáním dokumentů jiný inkasní úkon, a příkazce se zavazuje zaplatit obstaravateli inkasa odměnu
+
+Závazky ze smluv o přepravě
+Přeprava osob a věcí
+•	Přeprava osoby
+•	§ 2550Základní ustanovení
+•	Smlouvou o přepravě osoby se dopravce zavazuje přepravit cestujícího do místa určení a cestující se zavazuje zaplatit jízdné.
+•	§ 2551
+•	Dopravce se při přepravě postará o bezpečnost a pohodlí cestujícího. Podrobnosti upraví přepravní řády.
+•	§ 2552
+•	(1) Má-li cestující zavazadlo, přepravuje je dopravce buď společně s ním a pod jeho dohledem, nebo odděleně.
+•	(2) Je-li zavazadlo přepravováno odděleně, dopravce dbá, aby bylo přepraveno do místa určení nejpozději ve stejnou dobu jako cestující.
+•	§ 2553
+•	(1) Jedná-li se o pravidelnou přepravu osob, stanoví přepravní řády, jaká práva má cestující vůči dopravci, nebyla-li přeprava provedena včas.
+•	(2) Při nepravidelné přepravě osob nahradí dopravce škodu vzniklou cestujícímu tím, že přeprava nebyla provedena včas; podmínky a rozsah náhrady stanoví přepravní řády.
+•	(3) Práva podle odstavců 1 a 2 musí cestující uplatnit u dopravce bez zbytečného odkladu. Nebylo-li takové právo uplatněno nejpozději do šesti měsíců, soud je nepřizná, namítne-li dopravce, že právo nebylo uplatněno včas.
+•	§ 2554
+•	(1) Vznikne-li cestujícímu za přepravy újma na zdraví nebo škoda na zavazadle přepravovaném společně s ním nebo vznikne-li škoda na věci, kterou měl cestující u sebe, nahradí ji dopravce podle ustanovení o náhradě škody způsobené provozem dopravních prostředků.
+•	(2) Škodu způsobenou na zavazadle přepravovaném odděleně od cestujícího dopravce nahradí podle ustanovení o náhradě škody při přepravě věci.
+•	Přeprava věci
+•	§ 2555Základní ustanovení
+•	(1) Smlouvou o přepravě věci se dopravce zavazuje odesílateli, že přepraví věc jako zásilku z místa odeslání do místa určení, a odesílatel se zavazuje zaplatit dopravci přepravné.
+•	(2) Nepožádá-li odesílatel dopravce o převzetí zásilky v ujednané době a není-li ujednána do šesti měsíců od uzavření smlouvy, práva a povinnosti ze smlouvy zaniknou.
+•	§ 2556
+•	Odesílatel potvrdí dopravci na jeho žádost objednávku přepravy. Dopravce potvrdí odesílateli na jeho žádost převzetí zásilky. Potvrzení vyžadují písemnou formu.
+•	§ 2557
+•	(1) Odesílatel poskytne dopravci správné údaje o obsahu zásilky a jeho povaze.
+•	(2) Je-li k provedení přepravy zapotřebí zvláštní listiny, předá ji odesílatel dopravci nejpozději při předání zásilky k přepravě.
+•	§ 2558
+•	Dopravce provede přepravu do místa určení s odbornou péčí v ujednané době, a nebyla-li ujednána, bez zbytečného odkladu. Má se za to, že tato doba počíná běžet dnem následujícím po převzetí zásilky dopravcem.
+•	§ 2559Přerušení přepravy
+•	Nevydal-li ještě dopravce zásilku příjemci, může odesílatel přikázat, aby přeprava byla přerušena a se zásilkou bylo naloženo podle jeho příkazu, nahradí však dopravci účelně vynaložené náklady s tím spojené.
+•	§ 2560
+•	(1) Zná-li dopravce příjemce zásilky, zásilku mu doručí. Má-li však příjemce podle smlouvy zásilku v místě určení vyzvednout, oznámí mu dopravce jen ukončení přepravy a zásilku mu na požádání vydá.
+•	(2) Zavazuje-li smlouva dopravce, aby před vydáním zásilky vybral od příjemce určitou částku či uskutečnil jiný inkasní úkon, použijí se přiměřeně ustanovení o dokumentárním inkasu.
+•	§ 2561
+•	Příjemce zásilky určený ve smlouvě nabývá práva ze smlouvy, požádá-li o vydání zásilky po jejím dojití do místa určení, popřípadě po uplynutí doby, kdy zásilka měla do místa určení dojít. Tím okamžikem přechází na příjemce i právo na náhradu škody na zásilce.
+•	§ 2562
+•	Přijetím zásilky se příjemce stává ručitelem odesílatele za pohledávky dopravce ze smlouvy týkající se přepravy převzaté zásilky. Ručení se příjemce zprostí, prokáže-li, že o těchto pohledávkách nevěděl a ani nemusel vědět.
+•	§ 2563
+•	Dopravce zásilku příjemci nevydá, bylo-li by to v rozporu s příkazem odesílatele podle § 2559. V tom případě má právo nakládat se zásilkou nadále odesílatel. Určí-li odesílatel dopravci jinou osobu jako příjemce, nabývá tato osoba práva ze smlouvy týmž způsobem jako původní příjemce.
+Přepravné
+•	§ 2564
+•	(1) Přepravné je splatné bez zbytečného odkladu po provedení přepravy do místa určení.
+•	(2) Není-li výše přepravného ujednána, náleží dopravci přepravné obvyklé v době uzavření smlouvy s přihlédnutím k obsahu závazku.
+•	§ 2565
+•	Nemůže-li dopravce dokončit přepravu z důvodů, za něž neodpovídá, náleží mu poměrná část přepravného s přihlédnutím k přepravě již uskutečněné.
+Náhrada škody
+•	§ 2566
+•	(1) Dopravce nahradí škodu vzniklou na zásilce v době od převzetí zásilky dopravcem do vydání zásilky příjemci. To neplatí, prokáže-li, že škodu nemohl odvrátit ani při vynaložení odborné péče.
+•	(2) Povinnosti k náhradě škody se dopravce zprostí, prokáže-li, že škodu způsobili
+•	a) odesílatel, příjemce nebo vlastník zásilky nebo
+•	b) vada či přirozená povaha zásilky, včetně obvyklého úbytku.
+•	(3) Způsobí-li škodu vadný obal zásilky, dopravce se povinnosti k náhradě škody zprostí důkazem, že odesílatele na vadu při převzetí zásilky k přepravě upozornil; byl-li vydán nákladní nebo náložný list, musí v něm být vada obalu poznamenána. Neupozorní-li dopravce na vadný obal, zprostí se povinnosti k náhradě škody důkazem, že vadu nemohl při převzetí zásilky poznat.
+•	(4) K ujednáním omezujícím povinnost dopravce podle odstavců 1 až 3 se nepřihlíží.
+•	§ 2567
+•	(1) Při ztrátě nebo zničení zásilky nahradí dopravce cenu, kterou zásilka měla v době, kdy ji převzal.
+•	(2) Při poškození nebo znehodnocení zásilky nahradí dopravce rozdíl mezi cenou, kterou zásilka měla v době jejího převzetí dopravcem, a cenou, kterou by v této době měla zásilka poškozená nebo znehodnocená.
+•	§ 2568
+•	(1) Vznikne-li na zásilce škoda, podá dopravce odesílateli o škodě zprávu. Nabyl-li však právo na vydání zásilky již příjemce, podá dopravce zprávu příjemci.
+•	(2) Nepodá-li dopravce zprávu o škodě bez zbytečného odkladu, nahradí odesílateli, nebo příjemci škodu tím způsobenou.
+•	§ 2569
+•	Není-li právo na náhradu škody u dopravce uplatněno do šesti měsíců ode dne převzetí zásilky, anebo nebyla-li zásilka převzata, do šesti měsíců ode dne, kdy měla být doručena, soud je nepřizná, namítne-li dopravce, že právo bylo uplatněno opožděně.
+•	§ 2570Svépomocný prodej
+•	Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
+•	§ 2571
+•	(1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
+•	(2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
+Náložný list
+•	§ 2572
+•	(1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
+•	(2) Náložný list obsahuje alespoň
+•	a) jméno dopravce a jeho bydliště nebo sídlo,
+•	b) jméno odesílatele a jeho bydliště nebo sídlo,
+•	c) označení, množství, váhu nebo objem přepravovaných věcí,
+•	d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
+•	e) údaj o místě určení a
+•	f) místo a den vydání náložného listu a dopravcův podpis.
+•	(3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
+•	§ 2573
+•	Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
+•	§ 2574
+•	Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
+•	§ 2575
+•	Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
+•	§ 2576
+•	Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
+•	§ 2577
+•	(1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
+•	(2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
+Společná ustanovení o přepravě osob a věcí
+•	§ 2578
+•	Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
+•	§ 2579
+•	Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
+•	§ 2580
+•	(1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
+•	(2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
+•	(3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
+•	§ 2581
+•	(1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
+•	(2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
+Provoz dopravního prostředku
+•	§ 2582
+•	Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
+•	§ 2583
+•	(1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
+•	(2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
+•	§ 2584
+•	Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
+•	§ 2585
+Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředk
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -3574,6 +4189,191 @@ Zápůjčka
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
+
+24.Závazky ze zaopatřovacích a odvážných smluv.
+
+ Důchod
+ • §2701 an. OZ - smlouvou o důchodu se plátce zavazuje platit příjemci pravidelné peněžní dávky (důchod)
+• zaváže-li se plátce k placení důchodu na dobu
+          • života nějaké osoby nebo
+          • delší než pět let,
+vyžaduje smlouva písemnou formu
+ • nebyla-li sjednána doba trvání závazku, platí, že povinnost platit důchod trvá po dobu příjemcova života
+ • nebyla-li sjednána doba splatnosti důchodu, jsou dávky splatné měsíčně napřed • právo na důchod nelze postoupit jinému - k opačnému ujednání se nepřihlíží
+• pohledávku splatné dávky však postoupíte
+• zřídí-li plátce důchod bezúplatně, může zároveň vyhradit, že příjemcovi věřitelé nemohou příjemcovy dávky postihnout
+            • exekučně, ani
+            • v insolvenčním řízení
+• taková výhrada je účinná vůči
+           • třetím osobám i
+           • vůči orgánům veřejné moci,
+avšak jen do výše, kterou příjemce vzhledem ke svým poměrům pro své zaopatření nutně potřebuje
+• byl-li důchod poskytnout za úplatu, nelze pro nezaplacení dávek odstoupit od smlouvy a požadovat vrácení úplaty
+ • to neplatí, bylo-li placení důchodu zajištěno a jistota zanikne, nebo se zhorší, a plátce ji v přiměřené lhůtě nedoplní na původní rozsah
+ ALE
+• odůvodňují-li to okolnosti, nařídí soud na návrh příjemce
+         • prodej části plátcova majetku a
+         • použití výtěžku k placení důchodu po přiměřenou dobu do budoucna
+Výměnek
+• §2707 an. OZ - smlouvou o výměnku si vlastník nemovité věci vymiňuje v souvislosti s jejím převodem pro sebe nebo pro třetí osobu
+            • požitky,
+            • úkony nebo
+            • práva
+sloužící k zaopatření na dobu života/na dobu určitou a nabyvatel nemovité věci se zavazuje zaopatření poskytnout
+• je-li výměnek zřízen jako reálné břemeno (§1303 an. OZ), učiní nabyvatel nemovité věci vše, co je z jeho strany zapotřebí, aby výměnek mohl být zapsán do veřejného seznamu
+• nezřekne-li se výměnkář zápisu, lze do VS zapsat vlastnické právo nabyvatele jen současně se zápisem výměnku
+• vlastník nemovité věci může pro sebe zapsat budoucí výměnek do veřejného seznamu ještě před převedením nemovité věci
+• i když to nebylo při zřízení výměnku sjednáno, přispěje osoba zavázaná k výměnku pomocnými úkony výměnkáři, který to nezbytně potřebuje v nemoci, při úrazu nebo v podobné nouzi
+ • této povinnosti se zprostí, zprostředkuje-li umístění výměnkáře ve zdravotnickém nebo podobém zařízení
+• není-li dohodnuto jinak nese náklady umístění výměnkář ze svého
+• změní-li se poměry tou měrou, že na osobě zavázané k výměnku nelze spravedlivě požadovat, aby setrvala při naturálním plnění, může soud na návrh zavázané osoby rozhodnout, že se naturální výměnek zcela nebo zčásti nahradí peněžitým důchodem
+• takovým rozhodnutím nesmí být ohroženo zaopatření výměnkáře
+• při zkáze stavby, v níž bylo výměnkáři vyhrazeno obydlí, opatří osoba zavázaná z výměnku výměnkáři na vlastní náklad vhodné náhradní bydlení
+ • byla-li smlouva o převodu nemovité věci uzavřena v souvislosti se zřízením výměnku, nelze od ní odstoupit pro neplnění povinnosti osobou zavázanou k výměnku
+Závazky z odvážných smluv
+• §2756 an. OZ - závisí-li podle ujednání stran
+            • prospěch, anebo
+             • neprospěch
+alespoň jedné ze smluvních stran na nejisté události, jedná se o smlouvu odvážnou (aleatorní) • pro závazky z odvážných smluv se nepoužijí ustanovení
+             • o změně okolnosti (§1764 až 1766 OZ - zvlášť hrubý nepoměr znevýhodněním          jedné ze stran) a
+             • neúměrném zkrácení (§1793 až 1795 OZ - plnění v hrubém nepoměru)
+Pojištění =  Los
+• §2758 an. OZ - pojistnou smlouvou se
+         • pojistitel zavazuje vůči pojistníkovi poskytnout jemu nebo třetí osobě pojistné plnění, nastane-li nahodilá událost krytá pojištěním (pojistná událost) a
+         • pojistník se zavazuje zaplatit pojistiteli pojistné
+ Forma smlouvy
+• je-li pojištění sjednáno na pojistnou dobu jeden rok a delší, vyžaduje smlouva písemnou formu
+ALE
+ • přijal-li pojistník nabídku včasným zaplacením pojistného, považuje se písemná forma smlouvy za zachovanou
+ Pojistní zájem
+• pojistný zájem je oprávněná potřeba ochrany před následky pojistné události
+• pojistník má pojistný zájem na vlastním životě, zdraví a majetku
+• má se za to, že pojistník má pojistný zájem i na životě/zdraví/majetku jiné osoby, osvědčí-li
+        • zájem podmíněný vztahem k této osobě, nebo
+        • že by mu bez jeho existence a uchování hrozila přímá majetková ztráta
+• neměl-li zájemce pojistný zájem a pojistitel o tom při uzabření smlouvy věděl nebo musel vědět, je smlouva neplatná
+• pojistil-li pojistník vědomě neexistující pojistný zájem, ale pojistitel o tom nevěděl ani nemohl vědět, je smlouva neplatná; pojistiteli však náleží odměna odpovídající pojistnému až do doby, kdy se o neplatnosti dozvěděl
+ Pojištění
+• pojištěný je osoba, na jejíž
+    • život,
+    • zdraví,
+    • majetek,
+    • odpovědnost nebo
+    • jinou hodnotu pojistného zájmu se pojištění vztahuje
+Rovné zacházení
+• použije-li pojistitel jako hledisko při určení výše pojistného nebo pro výpočet pojistného plnění
+      • národnost,
+      • rasový nebo etnický původ nebo
+      • jiné hledisko odporující zásadě rovného zacházení, nepřihlíží se ke zvýšení pojistného ani ke snížení pojistného plnění na základě těchto hledisek
+• to platí i v případě, je-li jako hledisko při určení výše pojistného nebo pro výpočet pojistného plnění použito těhotenství nebo mateřství
+ Oprávněná osoba
+• oprávněnou osobou je osoba, které vznikne v důsledku pojistného události právo na pojistné plnění
+• k ujednání o zkrácení nebo prodloužení promlčecí lhůty se nepřihlíží
+ Forma právních jednání
+• nesjednají-li strany něco jiného, vyžaduje právní jednání týkající se pojištění písemnou formu
+• pro oznámení se vyžaduje písemná forma, jen bylo-li to sjednáno
+Pojistné podmínky
+• pojistné podmínky vymezí podrobnosti o
+     • vzniku, trvání a zániku pojištění,
+     • pojistnou událost,
+     • výluka z pojištění,
+     • způsob určení rozsahu pojistného plnění a jeho splatnost
+• odkazuje-li smlouva na pojistné podmínky, seznámí s nimi pojistitel pojistníka ještě před uzavřením smlouvy
+• to neplatí, uzavírá-li se smlouva formou obchodu na dálku
+Pojistka
+• pojistitel vydá pojistníkovi pojistku jako potvrzení o uzavření smlouvy
+• nebyla-li smlouva uzavřena písemně, musí pojistka obsahovat náležitosti stanovené zákonem
+Povinné pojištění
+• ukládá-li zákon určité osobě povinnost uzavřít pojistnou smlouvu, lze se ve smlouvě odchýlit od ustanovení úpravy odvážných smluv jen
+         • připouští-li to zákon a
+         • nedojde-li tím ke snížení rozsahu pojištění stanoveného jiným zákonem
+Pojistné
+• pojistitel má právo na pojistné za dobu trvání pojištění
+ • zanikne-li pojištění v důsledku pojistní události, náleží pojistiteli pojistné do konce pojistného období, v němž pojistná událost nastala
+ • nejsou-li ve smlouvě sjednány podmínky, při jejichž splnění má pojistitel právo upravit nově vyší běžného pojistného na další pojistné období, nelze bez dohody s pojistníkem výši pojistného měnit
+Povinnost k pravdivým sdělením
+• dotáže-li se pojistitel v písemné formě zájemce o pojištění nebo pojistníka při uzavírání/změně smlouvy na skutečnosti, které mají význam pro rozhodnutí,
+        • jak ohodnotí pojistného riziko,
+        • zda je pojistí a
+        • za jakých podmínek,
+zodpoví zájemce/pojistník tyto dotazy pravdivě a úplně
+ • musí-li si být pojistitel při uzavírání smlouvy vědom nesrovnalostí mezi nabízeným pojištěním a zájemcovými požadavky, upozorní ho na ně
+• dotáže-li se zájemce při jednání o uzavření smlouvy nebo pojistník při změně smlouvy v písemné formě pojistitele na skutečnosti týkající se pojištění, zodpoví pojistitel tyto dotazy pravdivě a úplně
+Šetření pojistné události
+• nastane-li pojistná událost, oznámí ti oprávněný pojistiteli bez zbytečného odkladu a podá mu pravdivé vysvětlení o
+        • vzniku a rozsahu následků takové události,
+        • právech třetích osob a
+        • jakémkoli vícenásobném pojištění
+• současně předloží pojistiteli potřebné doklady a postupuje způsobem sjednaným ve smlouvě • pojistitel zahájí bez zbytečného odkladu po oznámení šetření nutné ke zjištění existence a rozsahu jeho povinnost plnit • šetření je skončeno sdělení jeho výsledků oznamovateli
+• není-li splatnost pojistného plnění sjendána, je splatné do patnácti dnů ode dne skončení šetření
+Následky porušení povinnosti
+• bylo-li v důsledku porušení povinnosti pojistníka nebo pojištěného při jednání o
+       • uzavření smlouvy nebo
+       • její změně sjednáno nižší pojistné, má pojistitel právo pojistné plnění snížit o takovou část, jaký je poměr pojistného, které obdržel, k pojistnému, které měl obdržet
+ Přerušení pojištění
+• nebylo-li zaplaceno pojistné, pojištěné se přeruší
+ • doba přerušení počne uplynutím dvou měsíců ode dne splatnosti pojistného až do jeho zaplacení
+• přeruší-li se pojištění během pojistné doby
+        • netrvá za přerušení povinnost platit pojistné a
+        • nevzniká právo na plnění z události, které v době přerušení nastaly a byly by jinak pojistnými událostmi
+ Zánik pojištění
+• k platnosti dohody o zániku pojištění se vyžaduje, aby v ní strany sjednaly, jak se vyrovnají • není-li sjednán okamžik zániku pojištění, platí, že pojištění zaniklo dnem, kdy dohoda nabyla účinnosti
+• pojištění zaniká uplynutím pojistné doby
+• bylo-li pojištění sjednáno na dobu určitou, lze sjednat, že uplynutím této doby pojištění nezanikne, pokud
+        • pojistitel nebo
+        • pojistník
+ nejméně šest týdnů před uplynutím pojistné doby druhé straně nesdělí, že nemá zájem na dalším trvání pojištění
+ • pojistitel i pojistník mohou pojistnou smlouvu vypovědět
+          • v zákonem stanovené či
+           • dohodnuté době
+ • od pojistné smlouvy lze odstoupit v případech stanovených
+            • smlouvou nebo
+             • dohodou stran  
+Druhy pojištění
+• občanský zákoník upravuje jednotlivé druhy pojištění, jde zejména o
+     • škodové pojištění, zakládající právo na náhradu vzniklé škody,
+     • obnosové pojištění, zakládající právo na výplatu dohodnuté částky,
+     • životní pojištění pro případ smrti, dožití se určitého věku apod. (jen jako obnosové),
+     • úrazové pojištění (jen jako obnosové),
+     • pojištění pro případ nemoci (náklady nebo sjednaná částka),
+     • pojištění majetku (dohodnutá částka nebo obvyklá cena) a další
+ Sázka
+• §2873 an. OZ - sázkou se alespoň jedna strana zavazuje vůči druhé plnit výhru,
+      • ukáže-li se nesprávným její tvrzení o skutečnosti stranám neznáme nebo
+      • ukáže-li se tvrzení druhé strany o této události správným,
+• má-li strana, jejíž tvrzení se ukáže správným, jistotu o výsledku a zatají-li to druhé straně, je sázka neplatná
+• nebyla-li výhra dána, nemůže jí vyhrávající strana vymáhat (naturální obligace)
+• byla-li výhra dána, nemůže jí prohrávající strana vymáhat zpět
+• vymáhat nelze ani pohledávku ze zápůjčky nebo úvěru poskytnutých vědomě k sázce
+• byla-li dána výhra vzhledem
+       • k okolnostem případu a
+       • postavení i možnostem stran
+zejvně přemrštěná, může ji soud na návrh prohrávající strany přiměřeně snížit
+ • ustanovení o sázce se nepoužijí, byla-li smlouva uzavřena na
+          • komoditní burze,
+          • regulovaném trhu,
+          • v mnohostranném obchodním systému anebo
+          • jde-li se o smlouvu mezi podnikateli a jejím předmětem je investiční nástroj podle zákona upravujícího podnikání na kapitálovém trhu
+Hra
+• o hře platí ustanovení o sázce obdobně
+• jde-li však o hru vyžadující pouze
+        • zručnost nebo
+        • tělesná cvičení obou stran,
+ použije se z ustanovení o sázce jen úprava nemožnosti vymáhat vyplacenou výhru zpět
+Los
+• o losu platí ustanovení o sázce obdobně
+• to neplatí, má-li být losem
+      • rozhodnut spor,
+      • rozdělena společná věc, anebo
+      • rozhodnuto hlasování
+ Sázka, hra a los
+• ustanovení o
+        • nevymahatelnosti pohledávek ze sázky, hry nebo losu a ustanovení
+        • pravomoci soudu výhru snížit
+se nepoužijí na pohledávky ze sázky, hry nebo loterie
+        • provozovaných státem nebo
+        • podléhajících úřednímu povolení
+
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
