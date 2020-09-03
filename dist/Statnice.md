@@ -4462,8 +4462,9 @@ se nepoužijí na pohledávky ze sázky, hry nebo loterie
   - Dále **odvětvové principy**
     - Vytvářejí charakteristiku procesu - párové protikladné pojmy
     - Záleží zda je SŘ, nebo NŘ
-      - dispozice/oficialita
+      - dispozice/oficialita - bez návrhu, rozhodnutí i jinak než dle návrhu
       - projednací/vyšetřovací
+      - koncentrační/jednotnost řízení - není možné uvádět důkazy po skončení dokazování X je možné uvádět důkazy kdykoliv během řízení
       - volné hodnocení důkazů/legální důkazní teorie - u legální je důkazní síla stanovena (především veřejné listiny), u volného je důkazní síla na uvážení soudu
       - princip formální pravdy/princip materiální pravdy
 - **Soudci**
@@ -4551,6 +4552,12 @@ DODĚLAT
   - 6. Po skončení dokazování vyzve účastníky k závěrečným řečím a vynese rozsudek (zpravidla hned po krátkém rozmyšlení, nebo může odročit a vynést později, myslím, že má na to zpravidla 10 dnů - **pravidlo hospodárnosti řízení**)
   - 7. Rozsudek nabude po nějaké době **právní moci** - pak musí žalovaný splnit, pokud nesplní, tak je možné zahájit další druh řízení, a to -> **řízení vykonávací**
     - Rozhodnutí v prvním stupni je nepravomocné (účastníci mají 15 dní na odvolání), pokud je podán **řádný opravný prostředek**, nemusí žalovaný konat podle rozhodnutí, ale čeká až na vynesení rozsudku odvolacího soudu (rozsudek odvolacího soudu má právní moc a nelze proti němu užít řádné opravné prostředky, žalovaný tak musí činit co mu rozhodnutí ukládá -> jinak **žaloba na výkon**)
+
+- **Náklady**
+  - Náklady řízení nesou účastníci
+    - Je potřeba v petitu po žalovaném žádat i uhrazení nákladů řízení (důležitý je v tomto předžalobní výzva, jinak snad nejde žádat uhrazení nákladů?)
+  - Za návrh na zahájení řízení se hradí soudní poplatek
+    - V určitých zákonech vymezených případech je možné ho odpustit
 
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
@@ -4743,6 +4750,14 @@ Instance
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Opravné prostředky**
+  - Soud rozhoduje vě věci samé rozsudkem (meritorní rozhodnutí)
+  - Usnesení se používá většinou k rozhodnutí procesních věcí, nicméně výjimečně s ním lze rozhodovat i ve věci samé
+    - Domnívám se, že například v případě **platebního rozkazu** (pokud není podán **odpor**)
+  - Pokud účastník s rozhodnutím nesouhlasí, může uplatnit opravné prostředky:
+    - **řádné** (s odkladným účinkem) - odvolání, odpor
+    - **mimořádné** (bez odkladného účinku) - **dovolání** - může podat pouze advokát, odvolací soud přezkoumá rozhodnutí, **žaloba na obnovu řízení** - například v případech, že se objeví nové skutečnosti, či důkazy, **žaloba pro zmatečnost** - v případě, že soudní řízení neproběhlo v souladu se zákonem.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
