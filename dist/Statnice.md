@@ -4526,9 +4526,15 @@ DODĚLAT
   - **Struktura**
     - Nejobecněji by se dala struktura OS řízení zobrazit následovně:
       - (předžalobní výzba)
-      - zahájení řízení (návrh, žaloba),
-      - průběh řízení (dokazování),
-      - zakončení řízení (vynesení rozsudku).
+      - **zahájení řízení (návrh, žaloba),**
+        - na **žalobu** jsou kladeny podmínky - pokud nejsou splněny -> je žalobci vráceno k doplnění
+          - označení stran
+          - vylýčení rozhodujících skutečností
+          - návrhy na důkazy
+          - žalobní petit (důežitý, protože soud ho nemůže překročit - tzn. nemůže přiznat více, než si žalobce žádá)
+        - Druhů žalob je nepřeberné množství - příklady, žaloby týkající se osobního stavu, plnění, určovací žaloby etc.
+      - **průběh řízení (dokazování),**
+      - **zakončení řízení (vynesení rozsudku).**
 
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
