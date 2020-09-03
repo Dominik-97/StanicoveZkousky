@@ -883,7 +883,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
     - Ochrana správními soudy
     - Ochrana Ústavním soudem
   - **ochrana pokojného stavu** - kdo se domnívá, že byl porušen pokojný stav, může se domáhat ochrany u příslušného orgánu státní správy = ochrana provizorní (rozhodnutí je předběžné, účastník se může obrátit na soud)
-  - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze
+  - **ochrana svépomocí** - pouze výjimečně ve stanovených případech = jestliže hrozí neoprávněný zásah do práva bezprostředně a je jasné, že pomoc by přišla pozdě -> ohrožený v takovém případě může přiměřeným způsobem zásah sám odvrátit (= nesmí způsobit újmu nepřiměřenou té, která mu hrozí), například sebeobrana, nutná obrana, krajní nouze, zakázaná je **útočná svépomoc** -> snaha zajistit si nové právo, které by bylo jinak zmařeno -> tam je potřeba domáhat se ochrany u orgánů
 - **Soukromoprávní odpovědnost**
   - **Vymezení deliktu**
     - Porušení práva nebo jím stanovené povinnosti
