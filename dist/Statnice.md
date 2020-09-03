@@ -272,6 +272,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
     * zákon upravuje i zodpovědnost za osobu s nebezpečnými vlastnostmi - zodpovědný je ten, který jí má na starosti
   * v plném rozsahu se nabije plnou svéprávností - nezletilý například nemá plnou deliktní způsobilost -> protože nemůže uzavírat všechny právní jednání
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
+
 * **Fyzické osoby**
   * Bez ohledu na svéprávnost, právní osobnost, nebo jakoukoliv způsobilost -> **každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu**
   * Daná osoba => má právní subjektivitu a je tak subjektem práva
@@ -353,6 +354,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
           * **Prohlásit člověka za mrtvého lze v tomto případě po uplynutí 5 let po konci roku, v němž byl daný člověk prohlášen za nezvěstného**
           * Pokud se objevila zpráva, z níž lze soudit, že je člověk naživu - lhůta 7 let.
         * **U obou situací nesmí být člověk prohlášen za mrtvého, pokud se stal nezvěstným před dovršením 18 roku života do doby než uplyne minimálně 25 let od jeho narození.**
+
 * **Ochrana osobnosti člověka**
   * **Pojem ochrany osobnosti**
     * § 3 OZ - ochrana života, zdraví, svobody, cti, důstojnosti, soukromí
@@ -387,6 +389,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
     * Právům člověka převzaného do zdravotnického zařízení bez jeho souhlasu
     * Nakládání s částmi lidského těla a ochranu lidského těla po smrti člověka (součásti lidského těla, které nelze bezbolestně odebrat nejsou věcmi, věcmi jsou ale například - vlasy, ostříhané nehty)
     * Jméno a pseudonym
+    
 * ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
   * ~~Předběžné prohlášení~~
   * ~~Nápomoc při rozhodování~~
