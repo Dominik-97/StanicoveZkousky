@@ -224,10 +224,10 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] § 15 - 117  [^3]
+- [x] § 15 - 117  [^3]
 - [x] Osoby v právním smyslu
 - [x] Fyzické osoby
-- [ ] Ochrana osobnosti člověka
+- [x] Ochrana osobnosti člověka
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -406,7 +406,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] § 118 - 435
+- [x] § 118 - 435
 - [x] Pojem
 - [x] Třídění
 - [x] Organizační struktura
@@ -576,9 +576,9 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] § 436 - 488
-- [ ] Zastoupení
-- [ ] Opatrovnictví
+- [x] § 436 - 488
+- [x] Zastoupení
+- [x] Opatrovnictví
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -932,11 +932,11 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Právní skutečnosti
-- [ ] Právní jednání
-  - [ ] Pojem
-  - [ ] Náležitosti
-  - [ ] Vady a jejich následky
+- [x] Právní skutečnosti
+- [x] Právní jednání
+  - [x] Pojem
+  - [x] Náležitosti
+  - [x] Vady a jejich následky
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1068,10 +1068,10 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Čas jako občanskoprávní skutečnost
-- [ ] Promlčení
-- [ ] Prekluze
-- [ ] Další instituty založené na běhu času
+- [x] Čas jako občanskoprávní skutečnost
+- [x] Promlčení
+- [x] Prekluze
+- [x] Další instituty založené na běhu času
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1212,7 +1212,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 - [x] Majetkové právo manželské
 - [x] Rodiče a dítě
 - [x] Osvojení
-- [ ] Náhradní formy péče o dítě
+- [x] Náhradní formy péče o dítě
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1593,8 +1593,8 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \|---------\| <br>
 DODĚLAT
 - [x] Vlastnické právo
-- [ ] Ochrana vlastnického práva
-- [ ] Spoluvlastnictví
+- [x] Ochrana vlastnického práva
+- [x] Spoluvlastnictví
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -1679,9 +1679,9 @@ DODĚLAT
               - jedná se o společné vlastnictví
       - Z výše uvedeného je tedy vidět, že vlastnické právo je omezováno na základě **a) zákona, b) vlastního právního jednání, c) rozhodnutí správního orgánu - soud, nezbytná cesta, vyvlastnění**
 - **Nabytí vlastnického práva**
-  - Pokud je právo převedeno - **derivativní nabytí**
-  - Pokud vzniká vlastnické právo k nové věci - **originální nabytí**
-  - Způsobů nabytí vlastnického práva je poměrně mnoho
+  - Pokud je právo převedeno - tedy například koupí - **derivativní nabytí**, podobné jako **relativní nabytí** - nabytí věci od předchůdce
+  - Pokud přechází vlastnické právo k věci - nález, dědění - **originální nabytí**, podobné jako **absolutní nabytí** - například věc neexistovala, nebo se jednalo o *res nullius*
+  - Způsobů nabytí vlastnického práva je poměrně mnoho (*inter vivos* a *mortis causa*), právní nástupnictví (sukcese), univerzální a singulární
     - **Smlouvou** - kupní (výhrada vlastnictví - VP převedeno až okamžikem zaplacení kupní ceny, nikoli předem), darovací, o dílo
     - **Dědění** - u nemov. se zapisuje do KN ke dni úmrtí, jinak k němu dochází okamžikem smrti zůstavitele
     - **Nabytí rozhodnutím státního orgánu** - nejčastěji soudní rozhodnutí, dnem nabytí právní moci rozhodnutí
@@ -1707,6 +1707,7 @@ DODĚLAT
       - **Další žaloby** - žaloba na určení vlastnického práva/žaloba na určení hranic/žaloba o vydání pozůstalosti
 - **Spoluvlastnictví**
   - Jedná se o věc, ke které náleží vlastnické právo několika osobám (právo jednoho vlastníka k celé věci, je tak omezeno právem ostatních vlastníků k téže věci)
+  - Plody a užitky se dělí podle podílů
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1760,6 +1761,8 @@ DODĚLAT
     - s nevlastnickou držbou souvisí **detence** = tedy stav faktického ovládání věci, ale bez vůle mít ji pro sebe, detentor, který věc fakticky ovládá (chybí vůle) se k věci chová jako k věci cizí - nájem, pacht, výprosa a výpůjčka.
   - **Předmětem držby**
     - Věcné právo - majetkové, převoditelné na jiného, připouští trvalý, nebo opakovaný výkon -> **držet lze vlastnické právo, právo stavby a právo odpovídající věcnému břemenu**
+
+Trošku popsat vydržení
 
 Definice věcných práv a závazkových práv.
 
