@@ -5805,15 +5805,11 @@ DODĚLAT
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Jedná se o způsob řešení sporů mimo klasické soudní řízení.
-
-Základnímy typy jsou:
-
-rozhodčí řízení
-
-mediace a konsiliace
-
-finanční arbitr
+~~Jedná se o způsob řešení sporů mimo klasické soudní řízení.~~
+~~Základnímy typy jsou:~~
+~~rozhodčí řízení~~
+~~mediace a konsiliace~~
+~~finanční arbitr~~
 
 - **Alternativní řešení sporů (Mimosoudní řešení sporů)**
   - Jedná se o alternativní řešení ke klasickému soudnímu sporu, strany sporu si je můžou dobrovolně zvolit, je tedy fakultativní a může být započato jen na návrh některých ze stran.
@@ -8492,6 +8488,8 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 
 Zakládání právnických osob právnickými osobami.
 
+Kmenové listy
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
@@ -8510,6 +8508,11 @@ Zakládání právnických osob právnickými osobami.
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Založení
+- [x] Vznik
+- [x] Zánik
+- [x] Organizační struktura
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -8517,6 +8520,98 @@ Zakládání právnických osob právnickými osobami.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **a.s. obecně**
+  - druh korporace, jejíž základní kapitál se neskládá z nehmotných abstraktních podílů, ale z **akcií** - CP
+  - Vlastníky společnosti jsou akcionáři - ty se podílejí na řízení společnosti a mají právo na odměnu (**dividendy**), v souvislosti s tímto jim samozřejmě plynou i další související práva a povinnosti
+  - Společnost za svoje závazky odpovídá celým svým majetkem, akcionář za závazky společnosti neručí a ani není povinen uhradit ztrátu společnosti.
+  - Od roku 2014 už akciová společnost nemusí pro případ ztráty vytvářet povinný rezervní fond. Rezervní fond však zřídit může dobrovolně.
+  - Každá akciová společnost musí mít uvedenou ve své firmě zkratku, obvykle a. s./akc. spol.
+
+- **Založení a vznik**
+  - **AKCIOVÁ SPOLEČNOST MŮŽE BÝT ZALOŽENA DVĚMA ZPŮSOBY:**
+    - na základě veřejné nabídky akcií (tzv. sukcesivní založení), tj.oznámení veřejnosti o nabízených cenných papírech (akciích) a o podmínkách jejich nabytí - veřejný návrh smlouvy
+    - bez veřejné nabídky k upsání akcií (tzv. simultánní založení)
+
+  - **ZAKLADATELÉ, ZAKLÁDAJÍCÍ DOKUMENTY**
+    - Akciovou společnost může založit i jediný zakladatel, může to být i stát. V případě jediného zakladatele se sepisuje zakladatelská listina ve formě notářského zápisu. V případě více zakladatelů se podepisuje zakladatelská smlouva ve formě notářského zápisu.
+
+  - **ZAKLADATELSKÁ SMLOUVA NEBO LISTINA A.S. (U OBOU ZPŮSOBŮ ZALOŽENÍ) MUSÍ OBSAHOVAT:**
+    - firmu, sídlo a předmět podnikání
+    - navrhovaný základní kapitál
+    - počet akcií a jejich jmenovitou hodnotu
+    - návrh stanov
+    - etc.
+  - **V PŘÍPADĚ ZALOŽENÍ SPOLEČNOSTI NA ZÁKLADĚ VEŘEJNÉ NABÍDKY AKCIÍ MUSÍ ZAKLADATELSKÁ SMLOUVA OBSAHOVAT NAVÍC:**
+    - místo a dobu upisování akcií ne kratší než dva týdny
+    - etc.
+  - **Zakladatelskou smlouvu nebo listinu doplňují stanovy, které upravují vnitřní poměry a fungování společnosti včetně úpravy práv a povinností akcionářů.**
+    - **STANOVY VE FORMĚ NOTÁŘSKÉHO ZÁPISU OBSAHUJÍ:**
+      - firma a sídlo společnosti
+      - předmět podnikání (činnosti)
+      - výši základního kapitálu a způsob splácení emisního kurzu akcií
+      - etc.
+    - Stanovy nesmějí být v rozporu se zákonem.
+
+    - **PODNIKATELSKÉ OPRÁVNĚNÍ**
+      - Zakladatelé nebo členové představenstva musí požádat o vydání živnostenského oprávnění na firmu pro založené a.s a ustanovit odpovědnou osobu.
+
+    - **ZÁKLADNÍ KAPITÁL**
+      - Státem stanovená minimální výše základního kapitálu činí 2 000 000 Kč / 80 000 EUR, pokud vede účetnictví v EUR nebo 20 000 000 Kč při založení společnosti s veřejnou nabídkou akcií.
+      - Založení akciové společnosti je účinné, splatil-li každý zakladatel případné emisní ážio a alespoň 30 % hodnoty upsaných akcií v době určené ve stanovách, nejpozději však do okamžiku podání návrhu na zápis společnosti do obchodního rejstříku.
+
+    - **AKCIE MUSÍ OBSAHOVAT:**
+      - název a sídlo společnosti
+      - jmenovitou hodnotu
+      - označení formy akcie
+      - výši základního kapitálu a počet akcií k datu emise akcie
+      - datum emise
+    - Dnem 27.6.2013 došlo ke změně obchodního zákona týkající se anonymních listinných akcií na majitele a to konkrétně nabytím účinnosti zákona o některých opatřeních ke zvýšení transparentnosti akciových společností. Od tohoto data nově založené akciové společnosti nesmějí vydat akcie na majitele v listinné podobě, čímž končí anonymita majitelů těchto akcií (akcionářů akciové společnosti).
+    - **SPLACENÍ AKCIÍ**
+      - Před konáním ustavující valné hromady musí být splaceno minimálně 30% upsaných akcií. Zakladatel, jmenovaný ve společenské nebo zakladatelské smlouvě, spravuje před vznikem společnosti vklady nebo jejich části. Společnost musí založit účet v bance nebo spořitelním či úvěrním družstvu, kam složí základní kapitál. Po splacení potřebné částky vydá banka nebo družstvo písemné potvrzení o splacení vkladů.
+
+  - **USTAVUJÍCÍ VALNÁ HROMADA**
+      - Na valné hromadě se rozhoduje o založení společnosti, schvalují se zde také stanovy a volí se orgány společnosti. Z valné hromady je pořízen zápis, který musí být notářsky ověřen a který slouží jako doklad pro zápis do obchodního rejstříku.
+
+    - **NÁVRH NA ZÁPIS A.S. DO OBCHODNÍHO REJSTŘÍKU**
+      - Návrh na zápis do obchodního rejstříku podává představenstvo jako celek, podpisy všech jeho členů musí být úředně ověřené.
+      - **Akciová společnost vznikne zápisem do obchodního rejstříku.**
+    - **PŘÍLOHY K NÁVRHU**
+      - Návrh musí obsahovat zákonem stanovené přílohy
+
+- **Zánik a.s.**
+  - Zásadní je opět rozdělení na **zrušení** a **zánik**
+  - **Zrušení** - rozhodne o něj VH
+    - musí mít formu notářského zápisu
+    - zákonně 2/3 hlasů, domnívám se, že může být upraveno ve stanovách
+    - Důvody jsou například: uplynutí doby založení, dosažení účelu, rozhodnutí o přeměně etc.
+  - **Zánik** - výmazem z OR
+  - Dva druhy:
+    - Zrušení dobrovolné - jde o dohodu všech společníků nebo rozhodnutí valné hromady a.s. (disociační rozhodnutí).
+      - Toto rozhodnutí je možno zrušit do doby, než se započalo s rozdělováním likvidačního zůstatku (dnem účinnosti takového rozhodnutí končí funkce likvidátora; k tomuto dni musí a.s. sestavit mezitímní účetní závěrku).
+    - Zrušení nucené – jde o rozhodnutí soudu např. na návrh statutárního orgánu nebo osoby, která má právní zájem nebo státního zastupitelství
+
+- **S likvidací a bez likvidace**
+  - Při zrušení a.s. dochází k mimosoudnímu vyrovnání majetkových vztahů zanikající PO a ukončení její podnikatelské aktivity
+  - Cílem je zánik -> vymazání z obchodního rejstříku
+  - Vstoupí-li a.s. do likvidace, jmenuje VH nebo soud likvidátora - ten v podstatě řeší majetkovou stránku a.s. - požaduje splacení dluhů, splácí pohledávky, podává návrh na zahájení insolvenčního řízení etc.
+    - Likvidátor navrhne zápis do OR - zapíše se ke kmenu + právní formě dodatek "v likvidaci"
+    - Sestaví se zahajující likvidační účetní závěrku a sepíše se veškeré jmění
+    - Likvidátor vyřeší dluhy a rozdělí případný likvidační zůstatek mezi akcionáře v poměru podle splacených jmenovitých hodnot akcií
+    - Nakonec je nutno sestavit závěrečnou likvidační účetní závěrku -> na závěr podá likvidátor návrh na výmaz akciové společnosti z OR.
+  - S likvidací se ruší vždy, zaniká-li reálně PO -> tedy nemá-li právního nástupce
+  - Bez likvidace se tedy ruší PO při přeměnách, či přemístění sídla etc.
+
+- **Orgány společnosti**
+  - Záleží zda je zvolen dualistický systém, nebo systém monistický:
+    - **Dualistický systém**
+      - **Valná hromada** – je shromáždění všech akcionářů (tedy vlastníků), nejvyšší orgán akciové společnosti. Ustavující valná hromada rozhodne o založení společnosti, další rozhodují pak například o změnách stanov, volí orgány společnosti, schvalují rozdělení zisku a účetní závěrku. Každý z akcionářů zde má počet hlasů, dle počtu vlastněných akcií.
+      - **Představenstvo** – je statutární orgán, který má za úkol řídit společnost v době mezi valnými hromadami, operativně rozhodovat a vést účetnictví. Obvykle je volí a odvolává valná hromada, ledaže stanovy určí, že tato působnost náleží dozorčí radě. Neurčí-li stanovy jinak, má představenstvo 3 členy. Délku funkčního období členů představenstva je možno sjednat libovolně.
+      - **Dozorčí rada** – je orgán, jehož úkolem je dohlížet na působnost představenstva, má povoleno kontrolovat účetnictví i všechny další doklady společnosti. Její členy vždy volí valná hromada. Neurčí-li stanovy jinak, má dozorčí rada 3 členy a funkční období člena dozorčí rady je 3 roky. Ve společnostech s více než 500 zaměstnanci volí 1/3 dozorčí rady zaměstnanci a počet členů dozorčí rady musí být dělitelný třemi.
+    - **Monistický systém**
+      - **Valná hromada** – je nejvyšším orgánem akciové společnosti stejně jako u dualistického systému.[9]
+      - **Správní rada** – kontrolně-řídící orgán. Neurčí-li stanovy jinak, má správní rada 3 členy.
+      - **Statutární ředitel** – statutární orgán společnosti, je jmenován správní radou. Přísluší mu obchodní vedení společnosti.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
