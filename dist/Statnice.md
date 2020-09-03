@@ -3214,97 +3214,97 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
     - kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu
 
 **Kupní cena**
- • kupní cena je sjednána dostatečně určitě, je-li sjednán alespoň způsob jejího určení
-• mají-li strany vůli uzavřít kupní smlouvu bez určení ceny, platí za sjednanou kupní cena, za niž se obvykle prodává
-        • týž nebo srovnatelný předmět
-        • v době uzavření smlouvy a
-        • za obdobných smluvních podmínek
+  - kupní cena je sjednána dostatečně určitě, je-li sjednán alespoň způsob jejího určení
+  - mají-li strany vůli uzavřít kupní smlouvu bez určení ceny, platí za sjednanou kupní cena, za niž se obvykle prodává
+        - týž nebo srovnatelný předmět
+        - v době uzavření smlouvy a
+        - za obdobných smluvních podmínek
 
 **Kupní smlouva x smlouva o dílo**
- • smlouva u dodání věci, která má být teprve vyrobena, se posoudí jako kupní smlouva; to neplatí pokud se ten, komu má být věc dodána, zavázal předat druhé straně podstatnou část toho, čeho je v k vyrobení věci zapotřebí (materiálu)
-• za kupní smlouvu se nepovažuje smlouva, podle níž převážná část plnění dodavatele spočívá ve výkonu činnosti
+  - smlouva u dodání věci, která má být teprve vyrobena, se posoudí jako kupní smlouva; to neplatí pokud se ten, komu má být věc dodána, zavázal předat druhé straně podstatnou část toho, čeho je v k vyrobení věci zapotřebí (materiálu)
+  - za kupní smlouvu se nepovažuje smlouva, podle níž převážná část plnění dodavatele spočívá ve výkonu činnosti
 
 **Povinnosti prodávajícího**
- • prodávající kupujícímu
-       •odevzdá věc a doklady, které se k věci vztahují, a
-       • umožní kupujícímu nabýt vlastnického práva k věci v souladu se smlouvou
-• prodávající splní povinnost odevzdat věc kupujícímu,
-       • umožní-li mu nakládat s věcí v místě plnění a
-       • včas mu to oznámí
+ - prodávající kupujícímu
+       - odevzdá věc a doklady, které se k věci vztahují, a
+       - umožní kupujícímu nabýt vlastnického práva k věci v souladu se smlouvou
+- prodávající splní povinnost odevzdat věc kupujícímu,
+       - umožní-li mu nakládat s věcí v místě plnění a
+       - včas mu to oznámí
 
 **Předmět koupě**
- • prodávající odevzdá kupujícímu předmět koupě ve sjednaném
-        • množství,
-        • jakosti a
-        • provedení
-• nejsou-li jakost a provedení sjednány, plní prodávající účel patrný ze smlouvy; jinak pro účel obvyklý
+ - prodávající odevzdá kupujícímu předmět koupě ve sjednaném
+        - množství,
+        - jakosti a
+        - provedení
+- nejsou-li jakost a provedení sjednány, plní prodávající účel patrný ze smlouvy; jinak pro účel obvyklý
 
 **Vadné plnění**
- • věc je vadná, není-li dodána ve sjednaném množství, jakosti a provedení
- • za vadu se považuje i
-      • plnění jiné věci (aliud) a
-      • vady v dokladech nutných pro užívání věci
- ALE
-      • plyne-li
-           • z prohlášení prodávajícího nebo
-           • z dokladu o předání, že prodávající dodal menší množství věci, nevztahují se na chybějící věci ustanovení o vadách
+ - věc je vadná, není-li dodána ve sjednaném množství, jakosti a provedení
+ - za vadu se považuje i
+      - plnění jiné věci (aliud) a
+      - vady v dokladech nutných pro užívání věci
+ - ALE
+      - plyne-li
+           - z prohlášení prodávajícího nebo
+           - z dokladu o předání, že prodávající dodal menší množství věci, nevztahují se na chybějící věci ustanovení o vadách
 
 **Práva z vadného plnění**
- • právo kupujicího z vadného plnění zakládá vada,
-      • kterou má věc při přechodu nebezpečí škody na kupujícího (i když se projeví až později) nebo
-     • vzniká později, kterou prodávající způsobil porušením své povinnosti
-• povinnosti prodávajícího ze záruky za jakost tím nejsou dotčeny
-• na práva kupujícího z vadného plnění nemá vliv, vznikla-li vada v důsledku
-       • použití věci, kterou kupující předal prodávajícímu, nebo
-       • postupu prodávajícího podle návrhů, vzorků nebo podkladů, které mu kupující opatřil
- ALE
-       • to neplatí, prokáže-li prodávající, že
-              • na nevhodnost předané věci návrhů, vzorků nebo podkladů kupujícího včas upozornil a kupující na jejím použití trval, nebo
-              • prokáže-li, že nevhodnost předané věci ani při vynaložení dostatečné péče nemohl zjistit
- • kupující nemá právo z vadného plnění, jde-li o vadu, kterou musel s vynaložením obvyklé pozornosti poznat již při uzavření smlouvy
-• to neplatí
-       • ujistí-li ho prodávající výslovně, že věc je bez vad, anebo
-       • zastřel-li lstivě vadu
+ - právo kupujicího z vadného plnění zakládá vada,
+    - kterou má věc při přechodu nebezpečí škody na kupujícího (i když se projeví až později) nebo
+    - vzniká později, kterou prodávající způsobil porušením své povinnosti
+ - povinnosti prodávajícího ze záruky za jakost tím nejsou dotčeny
+ - na práva kupujícího z vadného plnění nemá vliv, vznikla-li vada v důsledku
+       - použití věci, kterou kupující předal prodávajícímu, nebo
+       - postupu prodávajícího podle návrhů, vzorků nebo podkladů, které mu kupující opatřil
+ - ALE
+       - to neplatí, prokáže-li prodávající, že
+              - na nevhodnost předané věci návrhů, vzorků nebo podkladů kupujícího včas upozornil a kupující na jejím použití trval, nebo
+              - prokáže-li, že nevhodnost předané věci ani při vynaložení dostatečné péče nemohl zjistit
+ - kupující nemá právo z vadného plnění, jde-li o vadu, kterou musel s vynaložením obvyklé pozornosti poznat již při uzavření smlouvy
+ - to neplatí
+       - ujistí-li ho prodávající výslovně, že věc je bez vad, anebo
+       - zastřel-li lstivě vadu
 
-• kupující věc podle možnosti
-      • prohlédne co nejdříve po přechodu nebezpečí škody na věci a
-      • přesvědčí se o jejich vlastnostech a množství
+- kupující věc podle možnosti
+      - prohlédne co nejdříve po přechodu nebezpečí škody na věci a
+      - přesvědčí se o jejich vlastnostech a množství
 
-• je-li vadné plnění podstatným porušením smlouvy, má kupující právo
-    • na odstranění vady
-          • dodáním nové věci bez vady nebo
-          • dodáním chybějící věci,
-          • na odstranění vady bezplatnou opravou věci
-   • na přiměřenou slevu z kupní ceny, nebo
-   • odstoupit od smlouvy
+- je-li vadné plnění podstatným porušením smlouvy, má kupující právo
+    - na odstranění vady
+          - dodáním nové věci bez vady nebo
+          - dodáním chybějící věci,
+          - na odstranění vady bezplatnou opravou věci
+    - na přiměřenou slevu z kupní ceny, nebo
+    - odstoupit od smlouvy
 
-• kupující sdělí prodávajícímu, jaké právo si zvolí
-    • při oznámení vady, nebo
-    • bez zbytečného odkladu po oznámení vady
- • provedenou volbu nemůže kupující změnit bez souhlasu prodávajícího; to neplatí, žádal-li kupující opravdu vady, které se ukáže jako neopravitelná
+- kupující sdělí prodávajícímu, jaké právo si zvolí
+    - při oznámení vady, nebo
+    - bez zbytečného odkladu po oznámení vady
+- provedenou volbu nemůže kupující změnit bez souhlasu prodávajícího; to neplatí, žádal-li kupující opravdu vady, které se ukáže jako neopravitelná
 
- • je-li vadné plnění nepodstatným porušením smlouvy, má kupující právo
-      • na odstranění vady, anebo
-      • na přiměřenou slevu z kupní ceny
-ALE
-• dokud kupující
-      • neuplatní právo na slevu z kupní ceny nebo
-      • neodstoupí od smlouvy, může prodávající dodat to, co chybí, nebo odstranit právní vadu
- • do odstranění vady nemusí kupující platit část kupní ceny odhadem přiměřeně odpovídající jeho právu na slevu
- • neoznámil-li kupující vadu věci včas, pozbývá právo odstoupit od smlouvy
-• neoznámil-li kupující vadu bez zbytečného odkladu poté, co mohl
-    • zjevnou vadu při včasné prohlídce a dostatečné péči zjistit, nejpozději však do dvou let po odevzdání věci, soud mu k námitce prodávajícího, že vada nebyla včas oznámena, právo z vadného plnění nepřizná
- • prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které v době odevzdání věci
-     • věděl nebo
-     • musel vědět
+- je-li vadné plnění nepodstatným porušením smlouvy, má kupující právo
+      - na odstranění vady, anebo
+      - na přiměřenou slevu z kupní ceny
+- ALE
+- dokud kupující
+      - neuplatní právo na slevu z kupní ceny nebo
+      - neodstoupí od smlouvy, může prodávající dodat to, co chybí, nebo odstranit právní vadu
+ - do odstranění vady nemusí kupující platit část kupní ceny odhadem přiměřeně odpovídající jeho právu na slevu
+ - neoznámil-li kupující vadu věci včas, pozbývá právo odstoupit od smlouvy
+ - neoznámil-li kupující vadu bez zbytečného odkladu poté, co mohl
+    - zjevnou vadu při včasné prohlídce a dostatečné péči zjistit, nejpozději však do dvou let po odevzdání věci, soud mu k námitce prodávajícího, že vada nebyla včas oznámena, právo z vadného plnění nepřizná
+ - prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které v době odevzdání věci
+     - věděl nebo
+     - musel vědět
 
 **Záruka za jakost**
- • zárukou za jakost se prodávající zavazuje, že věc
-       • bude po určitou dobu způsobilá k použití pro obvyklý účel nebo
-       • že si zachová obvyklé vlastnosti
- • tyto účinky má i uvedení záruční doby, nebo doby použitelnosti věci
-      • na obalu nebo
-      • v reklamě
+ - zárukou za jakost se prodávající zavazuje, že věc
+       - bude po určitou dobu způsobilá k použití pro obvyklý účel nebo
+       - že si zachová obvyklé vlastnosti
+ - tyto účinky má i uvedení záruční doby, nebo doby použitelnosti věci
+      - na obalu nebo
+      - v reklamě
 
 **Povinnost kupujícího**
 • kupující zaplatí kupní cenu a věc převezme
@@ -5620,6 +5620,163 @@ o	rozhodnutí o odvolání:
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+VÝKON ROZHODNUTÍ
+ Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit. Toto vynucení se nazývá výkon rozhodnutí. Ve znění rozsudku je uvedená lhůta, ve které je nutné povinnost dobrovolně splnit, např. 10 dnů po nabytí právní moci rozhodnutí. Uplyne-li marně tato lhůta, nastupuje výkon rozhodnutí.
+
+Účastníci výkonu rozhodnutí
+- oprávněný – ten, v jehož prospěch se má podle rozsudku něco plnit nebo v jeho prospěch něco jednat
+- povinný – ten, který je podle rozsudku povinen něco vykonat, strpět, zaplatit, zdržet se něčeho
+Exekuce může být nařízena jen na základě návrhu, který podává oprávněný u soudu. Soud nemůže jednat z vlastního podnětu. Druhy výkonu rozhodnutí stanovuje zákon.
+
+DRUHY EXEKUCE
+1. Vymáhání peněžitých částek
+   a) Srážky ze mzdy nebo z jiných příjmů Na základě rozhodnutí soudu plátce mzdy srazí z čisté mzdy povinného vymáhanou částku a zašle ji oprávněnému. Předpisem je stanoveno, že povinnému musí být ponechána základní částka ŽM a dále postup, jak a kolik se sráží ze zbytku mzdy, v jakém pořadí se uspokojují jednotliví věřitelé apod.
+   b) Přikázání pohledávky Spočívá v odepsání příslušné částky z účtu povinného u tuzemského peněžního ústavu a jejím připsáním na účet oprávněného. Používá se tam, kde má povinný postižitelný účet, tj. jsou-li na něm dostatečné prostředky a je třeba vydobýt jednorázově větší částku.
+  c) Prodej movitých věcí Soudní vykonavatel sepíše movité věci povinného, soud zakáže povinnému s nimi disponovat. Provede se odhad ceny věci a ty se pak prodají v dražbě. Výtěžek se rozdělí mezi věřitele. Zákon stanoví, které věci jsou vyloučeny z exekuce a prodat se nesmějí.
+
+Povinný si musí ponechat:
+ - věci nezbytně potřebné k běžnému životu
+- věci k výkonu zaměstnání
+- věci k podnikání
+- zdravotní potřeby
+Exekuce může také postihnout jen určitou hodnotnější věc (auto). Tento druh se užije jen v případě, že povinný nemá postižitelnou mzdu nebo jiný příjem a nemá ani prostředky uložené na účtu v bance.
+   d) Prodej nemovitostí Využívá se k vymáhání značně vysokých částek. Soud pak zakáže povinnému, aby tuto nemovitost předvedl někomu jinému. Provede se odhad a soud nařídí dražbu. Lze postihnout i spoluvlastnický podíl na nemovitosti.
+
+2. Vymáhání nepeněžitého plnění
+  a) Vyklizení
+ Provede se přestěhováním povinného a všech, kdo s ním bydlí do náhradního bytu nebo ubytování. Pokud rozsudek ukládá povinnost vyklidit byt bez náhradního bytu nebo ubytování, tak učiní soud opatření, aby z vyklizeného objektu byli vykázáni povinný a všichni kdo s ním bydlí. Jejich věci se odstraní a předají povinnému a nebo nezletilému členu jeho rodiny. Pokud je odmítne převzít, uloží se věci do úschovy na Obecním úřadě.
+b) Odebrání věci
+Soud se postará o odebrání věci se vším, co k ní patří, povinnému a odevzdá ji oprávněnému, včetně listin, které k věci patří (např. technický průkaz k vozidlu). Soudní vykonavatel může při exekuci provést osobní i domovní prohlídku povinného.  
+c) Rozdělení společných věcí
+ Movitá nebo nemovitá věc se prodá a výtěžek se rozdělí mezi spoluvlastníky. Pokud má být věc rozdělena jinak než prodejem, rozhodne o způsobu rozdělení věci soudce.
+d) Provedení prací a výkonu
+ Soud povolí oprávněnému, aby si práce, které měl pro něho vykonat povinný, udělal buď sám, nebo si je dal provést někým jiným, např. firmou, ale na náklady povinného. Pokud jde ale o nezastupitelné jednání, kdy je např. povinný zdržet se obtěžování souseda (pronikání zápachu z kouře), lze splnění této povinnosti vynutit jen ukládáním pokut až do celkové výše 100 000 Kč.
+
+Zvlášť upraven je výkon rozhodnutí o výchově nezletilých dětí. Pokud se někdo odmítá podrobit soudnímu rozhodnutí o výchově nezletilých dětí, např. odmítne dát dítě do ústavu, předat je druhému z rodičů, předat do výchovy, umožnit styk s dítětem ve stanovených termínech, soud jej nejdříve písemně vyzve, aby rozhodnutí respektoval a povinnosti v něm uložené splnil. Pokud výzva zůstane bezvýsledná, ukládá soud pokuty, a to i opakovaně. Soud může nařídit odnětí dítěte tomu, u něhož být podle rozsudku nemá a předat je tomu, komu bylo svěřeno do výchovy. Pokud není umožňován styk s dítětem, dává novela zákona o rodině nově rozhodnout o prostředí dítěte.
+
+Řízení insolvenční
+- Rozhodováno o úpadku a způsobu jeho řešení
+- Zahrnuje v sobě prvky jak řízení nalézacího, tak řízení vykonávacího
+ - Podmínky pro proběhnutí řízení se zjišťují v jeho rámci, poté se pokračuje realizací potřebných opatření
+- Cílem je dosáhnout majetkového uspořádání mezi větším počtem subjektů, které by krizovou situaci překonalo (sanační opatření) anebo z ní vyvodit nezbytné důsledky (likvidační opatření)
+
+ Úpadek a zahájení insolvenčního řízení
+-IZ č. 182/2006 Sb. o úpadku a způsobech jeho řešení; Z o insolvenčních správcích
+-úpadek (bankrot, insolvence) = kvalifikovaný krizový stav; stav, při němž má dlužník vůči řadě věřitelů závazky a není v jeho reálných možnostech je všechny splnit
+-negativní vymezení úpadku § 6 IZ – IZ nelze užít:  stát / územní samosprávné celky / veřejné vysoké školy / ČNB / PO – převzal-li stát její dluhy nebo se za ně zaručil /  zdravotní pojišťovny, dokud jsou nositeli zvláštního povolení / politické strany a hnutí – v době vyhlášených voleb
+-modifikace práva na spravedlivý proces (vedlo by k upřednostnění některých věřitelů, ale zde je snaha, aby všichni věřitelé byli uspokojeni relativně rovnoměrně a spravedlivě)
+-2 formy úpadku: 1)plat. neschopnost: všechny kategorie dlužníků (§ 3/2 IZ)– dlužník má nejméně dva věřitele, má peněžité závazky déle jak 30 dnů po lhůtě splatnosti a není schopen tyto zvazky splnit, objektivní neschopnost, 2) předlužení (§ 3/3 IZ)–dlužníkovy splatné závazky vůči více věřitelům jsou vyšší než dlužníkův majetek; u PO a podnikajících FO,do ocenění dlužníkova majetku se zahrne i očekávaný výnos-toto ustanovení brání, aby za předlužení byl považován pomíjivý, přechodný stav zjištěný např. při pravidelné rozvaze
+-má-li dlužník pouze jednoho věřitele, nikdy nemůže jít o úpadek, ať je situace jakkoli kritická → takový věřitel musí jít klasicky cestou ex. titulu
+-hrozící úpadek § 3 (4) – lze předpokládat, že dlužník nebude schopen plnit řádně a včas podstatnou část svých peněžitých závazků (návrh na zaájení IŘ oprávněn podat jen dlužník)
+-IŘ = zjištění, zda tu úpadek je či není a následně se jedná o způsobu řešení;
+-zahájení výlučně na návrh: může podat dlužník i věřitel; u hrozícího úpadku jen dlužník; zahájení – jakmile věcně příslušnému soudu dojde insol. návrh, soud oznámí do 2 hod zahájení vyhláškou, účinky- již nelze pohledávky uplatnit žalobou., nelze provést SVR/E; pokud podává sám věřitel, musí prokázat existenci i dalších věřitelů (pojmový znak úpadku – existence více věřitelů); neplatí litispendence – další věřitelé mohou přistupovat; insolvenční návrh: obecné náležitosti + zvláštní náležitosti, podává-li dlužník(seznam majetku, závazků, ZCů, listiny dokládající úpadek); povinnost podat ins. návrh pro dlužníka, který je PO nebo podnikatelem (jinak odp. za škodu); důvod: předejít poškození věřitelů s pozdější lhůtou splatnosti svých pohledávek, kteří by při opožděném návrhu nemuseli být vůbec uspokojeni; někdy navrhovatel musí zaplatit zálohu 50.000 Kč- záloha se v závěru řízení zásadně vrací – složil-li ji věřitel
+-soud doručí účastníkům + vyrozumí instituce uvedené v zákoně + spolu s tím jsou většinou vyzváni věřitelé k přihlášení svých pohledávek (až do rozhodnutí o úpadku)
+-moratorium – může požádat dlužník podnikatel do 7(podal dlužník)/ 15 dnů (podal věřitel) od ins. návrhu – jeho poslední šance vyrovnat se s věřiteli/ odvrátit nepříznivé důsledky úpadku; po dobu trvání moratoria nelze vydat rozhodnutí o úpadku, max. 3 měsíce, dlužník podnikatel musí v návrhu předložit požadované písemnosti a prokázat souhlas většiny věřitelů
+-soud rozhodne USNESENÍM meritorně  -o úpadku/ o zamítnutí (dlužník není v úpadku); nemeritorně o odmítnutí návrhu (vady) nebo zastavení řízení (zpětvzetí IN)
+-ochrana dlužníka proti šikanózním návrhům (zjevně neodůvodněné návrhy – zahájení IŘ způsobí dlužníkovi problémy, které lze zneužít v rámci hospodářské soutěže) – sankce odpovědnosti za škodu  – uplatní dlužník proti navrhovateli
+Způsoby řešení úpadku
+- „2. fáze“ IŘ: po zjištění, zda tu úpadek – plat. neschopnost/ předlužení je či není)
+- cílem je: uspořádání majet. vztahů k osobám, které jsou dotčeny dlužníkovým úpadkem a jejich poměrné uspokojení úpadcových věřitelů
+- 2 způsoby řešení: LIKVIDAČNÍ (úpadce vyřazen z ekonom. aktivit; neznamená ztrátu právní subjektivity úpadce, ale u PO zásadně vede k tomu, že následně zaniknou jako právní subjekty-výmazem z OR, a) KONKURZ + b) ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU) a SANAČNÍ (umožněny další sociální a ekn. aktivity – může vést k překonání krize; časové rozložení či jiné usnadnění dlužníkových plateb-věřitelům se často dostane víc než při řešení likvidačním, a) REORGANIZACE (pro velké podnikatele, dluhodobé splácení a b) ODDLUŽENÍ (pro nepodnikatele – splátkový kalendář anebo prodej majetkové podstaty)
+IZ – upustil od vyrovnání a nuceného vyrovnání – byly sanačními řešeními
+-KONKURZ: obecný způsob (kterýkoli subjekt); nastupuje v případě neúspěchu oddlužení a reorganizace anebo rovnou; cílem je poměrné uspokojení zjištěných pohledávek z výnosu zpeněžení majetkové podstaty; IŘ přechází v konkurzní prohlášením konkurzu (usnesením ins. soudu); pokud úpadek nelze řešit jinak, je toto prohlášení vydáno zároveň s rozhodnutím o úpadku
+-účinky: nastávají okamžikem zveřejnění v IR; 1)dlužník ztrácí právo disponovat majetkem v majetkové podstatě (to přechází na insol. správce), 2) věřitelé ztrácí možnost individuálního postupu, 3) všechna řízení týkající se majetkové podstaty se přerušují (vyjma trestního, dědického, vypořádání SJM aj.), zásah do hmotněprávních vztahů 4) ke dni prohlášení konkursu jsou předčasně splatné dlužníkovi pohledávky a závazky – konkursu se tak mohou účastnit i věřitelé dosud nesplatných pohledávek a do majetkové podstaty bude zahrnut veškerý majetek, 5) zásah do hmotněprávních vztahů – zanikají některé jednostranné PÚ (plné moci, prokura, úkony směřující k uzavření smlouvy):  prohlášením konkursu zaniká SJM, důvodem pro podání výpovědi z nájemní smlouvy (ať dlužník nájemcem či pronajímatelem)
+X naopak nemá vliv na PP poměry( úpadcových Zců), běh promlčecí a prekluzivních lhůt, nezaniká provoz dlužníkova závodu – k ukončení provozu je třeba až následného rozhodnutí soudu
+-průběh: konkurzní správce sestaví seznam přihlášených pohledávek, sepíše majetkovou podstatu, zpracuje zprávu o hosp. situaci dlužníka; zpeněžení majetkové podstaty (1) veř. dražba, 2) prodej mov. a nemov. věcí dle osř, 3) prodej mimo dražbu); z výtěžku se uspokojí pohledávky za podstatou + pohledávky jim postavené na roveň; správce vypracuje konečnou zprávu – ta se projedná a podle toho se provádí rozvrh; konkurz končí usnesením o jeho zrušení-účinky nastávají až PM
+pohledávky v konkurzu neuspokojené nezanikají, věřitelé je mohou opět samostatně vymáhat, seznam pohledávek v protokolu o přezkumném řízení je na 10 let exekučním titulem
+-ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU: nepatrný konkurz  (FO nepodnikající a podnikatelé s obratem do 2 mil. a 50 ZCů; některé jednodušší postupy) a úpadek finančních institucí (zvl. úprava pro ochranu klientů- řada finančních institucí miliony klientů – úpadek = závažné makroekonomické důsledky), ztratí-li finanční instituce licenci, lze řešit jejich úpadek likvidačně – řada specifik ve formě zvláštností a odchylek od standardního průběhu konkursu – Hlava IV. IZ
+-REORGANIZACE: týká se dlužníkova závodu (popř. i jeho dalšího majetku); jen na návrh dlužníka a přihlášeného věřitele;  není-li povolena (ve lhůtě 3 měsíců) následuje konkurz; pouze pro podnikající FO/ PO – pro střední a větší podnikatele (obrat za rok nad 50 mil a nad 50 Zců); provoz závodu zachován, ale podroben urč. opatřením; 2 podoby: dlouhodobá/ krátkodobá (fúze, vydání CP); věřitelé jsou rozděleni do skupin a hlasují o reorganizačním plánu (projednává se na schůzi věřitelů, ale musí být schválen soudem); reorganizační plán – zákl. dokument pro provádění- obsah: způsob reorganizace, rozdělení věřitelů do skupin, rozsah uspokojení věřitelů, sanační opatření..projednává se na schůzi věřitelů , přijat, pokud pro něj hlasovaly všechny skupiny, musí být schválen rozhodnutím soudu
+-zanikají práva všech věřitelů vůči dlužníku jakož i práva 3 osob k majetku v majetkové podstatě – platí pouze režim reorganizačního plánu;
+-reorganizace končí splněním reorganizačního plánu – soud o tom vydá zvl. rozhodnutí; soud může rozhodnout i o přeměně reorganizace v konkurs
+-ODDLUŽENÍ: pouze na návrh společně s ins. návrhem; jen FO/PO nepodnikatel; novinka 2014: o oddlužení mohou žádat i podnikatelé (typicky živnostníci, nově se totiž nehodnotí povaha dlužníka, ale povaha jeho dluhů; cílem je zmírnit negativní působení úpadku na budoucí život dlužníka a využít majetkové zdroje, kt. má k dispozici; 2 způsoby:
+1) zpeněžení majtkové podstaty (jako konkurz)
+2) 5 let plnit nezajištěným věřitelům zabavitelné části příjmu v poměru určeném soudem. Zajištění věřitelé se uspokojují z výtěžku svých zajištění; O způsobu hlasují věřitelé kvalifikovanou většinou. Na základě výsledku hlasování, soud schválí způsob oddlužení
+-účinky: dlužník nabývá zpět s některými omezeními dispoziční oprávnění, nedisponuje s majetkem, který má být zpeněžen, ani s majetkem, který slouží k zajištění, jestliže dlužník řádně a včas splnil povinnosti vyplývající z oddlužení, soud jej svým rozhodnutím osvobodí od placení neuspokojených částí pohledávek zahrnutých do oddlužení.
+-NovinkY 2014: o oddlužení mohou žádat manželé společně pomocí jednoho návrhu, postavení nerozlučných společníků (dříve musel mít každý samostatný návrh a zažádali soud o spojení ke společnému projednávání) A - podpis dlužníkova manžela na návrh se již nevyžaduje
+Druhy věřitelů a uplatňování jejich pohledávek
+-ač je hlavním smyslem IŘ umožnit všem věřitelům uplatnit své pohledávky a rovnoměrně je uspokojit (par condicio creditorum), věřitelé se dělí na urč. skupiny (některé mají výhodnější postavení – pro různost povahy/ vzniku)
+-dělení: uplatnění pohledávky přihláškou (pevně stanovená lhůta 2 měsíce od rozhodnutí o úpadku, u oddlužení 30 dní)X jiným způsobem; uspokojení pohledávky již během řízení X až na konci řízení
+-nejvýhodnější: věřitelé za podstatou a pohledávky jim postavené na roveň a zajištění věřitelé
+nároky na vyloučení z konkursní podstaty – věřitel uplatňuje právo (zejm. vlastnické, restituční nárok aj.), které nepřipouští zpeněžení - uplatnění zvl. žalobou (excindační/vylučovací) proti správci podstaty
+-věřitelé podávají přihlášky od zahájení řízení (vyhláška soudu) až do rozhodnutí o úpadku; ins. správce pořídí seznam přihlášek, přezkoumají se přihlášené pohledávky (přezkumné jednání); spory o výši, pravost nebo pořadí pohledávek = incidenční spory: (součást IŘ) spory o pravost, výši nebo pořadí pohledávky, spory o vyloučení věci, práva, pohledávky nebo jiné majetkové hodnoty z majetkové podstaty, spory o vypořádání společného jmění dlužníka a jeho manžela, spory o platnost smluv, kterými došlo ke zpeněžení majetkové podstaty prodejem mimo dražbu,…
+druhy pohledávek:
+-pohledávky zajištěných věřitelů: zást. právem/ zadržovacím/ omezením převodu nem.v./ převodem práva/ apod.; musí podat přihlášku a prokázat zajištění;- uspokojují se z věci přednostně
+-pohledávky za majetkovou podstatou: vznik až po zahájení řízení (v jeho důsledku); odměna správce, členů věřitelského výboru, daně, poplatky, apod.; nemusí být přihlašovány a lze je uspokojit kdykoli během řízení; uplatňují se vůči správci, nikoli vůči úpadci
+-pohledávky postavené na roveň pohledávkám za MP: výživné, náhrada škody na zdraví, PP pohledávky za poslední 3 roky; -uspokojí se v plné výši kdykoli po rozhodnutí o úpadku
+-pohledávky vyloučené z uspokojení v IŘ – v rozvrhu se k nim nepřihlíží, ale dají se uspokojit po skončení IŘ běžnými pr. prostředky; především pohledávky akcesorické povahy (sml. pokuty, úroky) i pohledávky, které nebyly přihlášeny ve stanovených lhůtách
+-pohledávky podřízené: uspokojují se až po všech ostatních – např. podřízené dluhopisy
+-pohledávky společníků/ členů dlužníka, který je obch. spol/ družstvem – neuplatňují se, jen oznamují správci, kt. je uspokojí, jen jsou-li uspokojeny všechny ostatní přihláš. pohledávky
+-přihlásit potřeba všechny pohledávky kromě pohledávek za podstatou a na vyloučení z podstaty; přihlašují se tak i pohledávky, které již byly přiznány PM soudním rozhodnutím, anebo pohledávky, ohledně nichž již probíhá soudní řízení; přihlašují se i pohledávky nesplatné/podmíněné
+-3. osoby mohou zajištění přihlásit jako podmíněnou pohledávku, nepřihlásí-li ji věřitel (vstupují pak na jeho místo, pokud mu plnily)                                                          
+-pohledávku nutné vždy vyčíslit v penězích – přepočítána na českou měnu.
+ Insolvenční správce
+-zvláštní procesní subjekt IŘ– vedle insolvenčního soudu, účastníků, věřejných orgánů a dalších procesních subjektů
+-úkol = nakládání s majetkovou podstatou dlužníka a v případě konkursu odpovědnost za zpeněžení majetku, řešení insolvenčních a dalších sporů
+-klíčová role – od rozhodnutí o úpadku nemůže řízení probíhat bez ins. Správce
+podmínky (demonstrativní výčet):FO (+ výjimečně i PO), bezúhonnost, plná svéprávnost, kvalifikační předpoklady: dokončené VŠ vzdělání + odborná zkouška,samostatné postavení vůči dlužníkovi i vůči věřitelům; není zástupcem kohokoli z účastníků (nepodjatost); povolení -platnost na 5 let,
+-Zákon o insolvenčních správcích
+-ins. správce ustavuje ins. soud, insolvenční správce je soudu odpovědný– vybírán ze seznamu správců vedeným Min. spravedlnosti
+-ins. správcem je: FO oprávněna vykonávat tuto činnost nebo rovněž v.o.s. nebo zahraniční obch. spol. nebo zahraniční sdružení se stejným ručením jako v.o.s. oprávněna vykonávat tuto činnost
+podobné činnosti likvidátora, ALE postavení zcela odlišné: likvidátor nahrazuje statutární orgán + činnost dle hmotného práva x insolvenční správce = procesní subjekt + činnost dle procesního práva
+zproštění funkce správce – důvod: trvalá překážka výkonu funkce správce/jiné důležité důvody (neplnění povinnosti správce, zanedbání odborné péče…)
+odvolání z funkce – provádí insolvenční soud na žádost správce, popř. bez žádosti- jsou-li důležité důvody nikoli sankčního charakteru; ustanoví nového správce; odpovídá za škodu účastníkům, má právo na odměnu a náhradu výdajů, má postupovat s řádnou péčí
+-předběžný správce: může ustanovit soud ještě před rozhodnutím o úpadku (zjištění a zajištění dlužníkova majetku) X řádný – ustanoven až po úpadku
+-zvláštní správce: ustanoven soudem, vyžaduje-li to rozsah správcovy činnosti (specializace), zvláštní povolení, dlužník – např. obchodník s CP, roční obrat nad 100 mil, nad 100 ZCů
+-zástupce správce: když správce nemůže přechodně vykonávat svou fci
+-oddělený správce: je-li správce vyloučen z některých nepodstatných úkonů pro svůj poměr jen k některému z účastníků
+Incidenční spory v insolvenčním řízení
+-spory, které je nutné rozhodnout před vyřízením hlavní záležitosti ; spory vyvolané insolvenčním sporem; řeší je ins. soud jako součást IŘ (hospodárnost) X samostatně (jiný soudce ins. soudu, rychlost)
+-zahajují se na návrh, který má povahu žaloby -> žalobce a žalovaný -> postup podle OSŘ (sporné řízení, rozhoduje se rozsudkem, o smíru však usnesením (musí s nim soihlasit věřitelských výbor!); v rozsudku se zároveň rozhodne o nákladech podle OSŘ)
+-jiný okruh subjektů než v IŘ, často se týká i třetích osob
+-incidenčními spory jsou: 1.) o pravost, výši a pořadí přihláš. pohledávek 2.)o vyloučení věci/ práva/ pohledávky z majetkové podstaty 3.) o vypořádání SJM dlužníka a jeho manžela 4.) na základě odpůrčí žaloby 5.) o náhradu škody na majetkové podstatě způsobené ins. správcem 6.)
+aj.,kt.tak označí zákon    (§159 IZ)                                                                                              -pro jiné spory, jejichž účastníkem je insolvenční správce, nelze ustanovení o incidenčních sporech použít, i když probíhají za trvání insolvenčního řízení.
+-PM rozsudek vydaný v incidenčním sporu je závazný pro všechny procesní subjekty.
+-specifika: přípustní vedlejší účastníci (na rozdíl od IŘ);
+Průběh insolvenčního řízení
+Insolvenční řízení se dělí na 3 fáze: řízení o úpadku (rozhoduje se,zda je dlužník v úpadku nebo ne) , řízení o způsobu řešení úpadku, (soud musí rozhodnout do3M od vyhlášení úpadku) a fáze zvoleného způsobu úpadku(kt. může být: konkurs, reorganizace, oddlužení, jiný způsob – např. řešení úpadku finančních institucí); IŘ pak orientačně v těchto fázích:
+1) Zahajovací fáze: insolvenční řízení lze zahájit jen na návrh, zahajuje se dnem, kdy insolvenční návrh dojde věcně příslušnému soudu. Návrh může podat dlužník, věřitel.                   
+-Ins. návrh musí být opatřen úředně ověřeným podpisem osoby, kt. jej podala, nebo jejím zaručeným elektr. podpisem; jinak se k němu nepřihlíží § 97/2
+-IN obsahuje kromě obecných náležitostí: označení insolv. správce; dlužníka; rozhodující skutečnosti, kt. svědčí o úpadku; označení důkazů, kterých se navrhovatel domáhá a čeho se domáhá; dlužník pak připojí např. seznam svého majetku včetně pohledávek s uvedením dlužníků, seznam svých závazku s uvedeních svých věřitelů, seznam Zců ….; PO nebo podnikatel povinnosti podat návrh jinak odpovědnost za škodu
+-chce-li dlužník řešit svůj úpadek oddlužením nebo reorganizací, je povinen přiložit k návrhu na zahájení IŘ i návrh na povolení oddlužení nebo na povolení reorganizace
+-zahájení IŘ se oznámí vyhláškou, kterou insolvenční soud zveřejní, v I rejstříku nejpozději 2h poté, kdy mu došel insolvenční návrh (nadto i doručí účastníkům)
+2) Zjišťovací fáze: soud nařídí jednání o insolvenčním návrhu – závisí-li rozhodnutí na zjištění sporných skutečností o tom, zda dlužník je v úpadku.
+Pokud je dlužník v úpadku, může se pokusit o zmírnění dopadů insolvenčního řízení. Dlužník – podnikatel může soudu navrhnout vyhlášení moratoria
+3) Rozhodovací fáze:                                                                                                                                                                            
+A) odmítnutí IN - NEMERITORNÍ – nesplňuje-li předepsané náležitosti, soud k opravě návrhu nevyzývá;
+B) zastavení řízení – NEMERITORNÍ – např. zpětvzetí IN
+C) zamítnutí návrhu – MERITORNÍ – rozhodující skutečnosti nutno dosvědčit/dokázat; nejsou splněny předpoklady pro vydání rozhodnutí o úpadku, není pluralita věřitelů, dlužník je v druhotné platební neschopnosti a je pravděpodobné, že bude moci plnit později, zamítnutí pro nedostatek majetku dlužníka;
+D) rozhodnutí o úpadku: má-li soud zjištěno, že je dlužník v úpadku nebo mu úpadek hrozí; MERITORNÍ rozhodnutí – rozhodující skutečnosti musí být osvědčeny (v případě dlužnického návrhu) nebo dokázány (u věřitelského návrhu třeba nařídit jednání, během něhož se provede dokazování – to neplatí, pokud dlužník návrhu neodporoval, nebo listinné důkazy jsou jednoznačné)
+4) Stanovení způsobu řešení úpadku: do 3 měsíců, věřitelská schůze se usnese na způsobu řešení úpadku a soud rozhodne o způsobu řešení úpadku podle tohoto usnesení; úpadek lze řešit: konkursem, reorganizací, oddlužením
+-zpeněžení majetkové podstaty: 1) ve veřejné dražbě, 2) prodejem movitých věci a nemovitostí nebo 3) prodejem majetku mimo dražbu
+-po zpeněžení podstaty dojde k uspokojení přihlášených pohledávek
+-přihlášené pohledávky se uspokojí podle rozvrhu, před rozvrhem se uspokojují pohledávky za podstatou a pohledávky na roveň jim postavené a pohledávky zajištěných věřitelů
+Věřitelské orgány v insolvenčním řízení
+-subjekt IŘ – vedle ins. soudu, účastníků, ins. správce a dalších procesních subjektů
+-účastník IŘ – dlužník a věřitelé, kteří uplatňují své právo vůči dlužníku
+-okruh věřitelů je široký a proměnlivý – věřitelé se postupně přihlašují/ odpadají (úspěšné popření) – bylo by těžké jednat s každým zvlášť, proto vznikají právě věřitelské orgány -nejsou nositeli hmotněprávních oprávnění; jejich postavení se opírá výlučně o procesní předpisy; nejsou v pozici zástupců vůči věřitelům
+-schůze věřitelů: volba a odvolání věřitelského výboru; dále si může vyhradit cokoli, co patří do působnosti věřitelských orgánů; svolává ji a řídí ins. soud na návrh i bez návrhu; právo zúčastnit se schůze má dlužník, věřitelé, ins. správce, st. zastupitelství, příp. odbor. organizace; usnesení přijímají prostou většinou přítomných/ řádně zastoupených věřitelů; 1Kč = 1 hlas; soud může usnesení schůze věřitelů zrušit, s výjimkou usnesení o způsobu řešení úpadku, o reorganizačním plánu a o oddlužení
+-věřitelský výbor (popř. zástupce věřitelů): ustavení věř. výboru je obligatorní, je-li přihlášeno více jak 50 věřitelů; vykonává působnost věřitelských orgánů vyjma toho, co má schůze věřitelů
+X Účastníci řízení dlužník, věřitelé, kteří uplatňují své nároky vůči dlužníku, insolvenční správce, státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, likvidátor dlužníka
+ SUBJEKTY INSOLVENČNÍHO ŘÍZENÍ
+1)INSOLVENČNÍ SOUD
+věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
+rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
+dvojí funkci:
+vydává rozhodnutí (např. prohlášení konkurzu, schválení konečné zprávy) a provádí předepsaná jednání (např. přezkumné jednání)   
+různé činnosti mezi uvedenými dvěma – tzv. činnost dohlédací (zajištění průběhu řízení, dozor nad činností jiných subjektů
+účastníci řízení
+2) Dlužník – ten, proti němuž směřuje insolvenční návrh; FO či PO, podnikatel či nepodnikatel
+Věřitelé, kteří uplatňují své nároky vůči dlužníku a jejich orgány
+vedlejší účastenství není v insolvenčním řízení přípustné viz §14 IZ
+v incidenčních sporech ale přípustné je § 16 IZ                        
+Nejde-li o přihlášené věřitele § 15, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje
+3) Insolvenční správce (popřípadě další správce) – nejde o zástupce kohokoliv z účastníků
+ustanovuje se ze seznamu insolvenčních správců, který vede MS
+Podrobnější úprava v zákoně o insolvenčních správcích; postupuje s odbornou péčí, za škodu odpovídá podle obecných ustanovení o odp. za škodu, má nárok na odměnu a náhradu výdajů
+4) Státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu – může podat opravný prostředek proti rozhodnutí insolvenčního soudu, jen mají-li toto právo všichni účastníci řízení.
+5) Likvidátor dlužníka – vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
