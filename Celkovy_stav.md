@@ -22,38 +22,38 @@ Hotovo 0/30
 - [x] Otázka 8
 - [x] Otázka 9
 - [x] Otázka 10
-- [ ] Otázka 11
+- [x] Otázka 11
 - [x] Otázka 12
 - [x] Otázka 13
 - [x] Otázka 14
 - [x] Otázka 15
 - [x] Otázka 16
 - [x] Otázka 17
-- [ ] Otázka 18
-- [ ] Otázka 19
-- [ ] Otázka 20
-- [ ] Otázka 21
-- [ ] Otázka 22
-- [ ] Otázka 23
-- [ ] Otázka 24
+- [x] Otázka 18
+- [x] Otázka 19
+- [x] Otázka 20
+- [x] Otázka 21
+- [x] Otázka 22
+- [x] Otázka 23
+- [x] Otázka 24
 - [x] Otázka 25
-- [ ] Otázka 26
-- [ ] Otázka 27
-- [ ] Otázka 28
-- [ ] Otázka 29
-- [ ] Otázka 30
+- [x] Otázka 26
+- [x] Otázka 27
+- [x] Otázka 28
+- [x] Otázka 29
+- [x] Otázka 30
 
 ## ObchP
 
 Hotovo 2/30
 
 - [x] Otázka 1 - dist/Statnice.md
-- [ ] Otázka 2 - dist/Statnice.md
+- [x] Otázka 2 - dist/Statnice.md
 - [x] Otázka 3 - dist/Statnice.md
-- [ ] Otázka 4 - Podklady
+- [x] Otázka 4 - Podklady
 - [x] Otázka 5 - Podklady
 - [ ] Otázka 6 - Podklady
-- [ ] Otázka 7 - Podklady
+- [x] Otázka 7 - Podklady
 - [ ] Otázka 8 - Podklady
 - [ ] Otázka 9 - Podklady
 - [ ] Otázka 10 - Podklady
@@ -64,19 +64,19 @@ Hotovo 2/30
 - [x] Otázka 15
 - [x] Otázka 16
 - [x] Otázka 17
-- [ ] Otázka 18
+- [x] Otázka 18
 - [ ] Otázka 19
-- [ ] Otázka 20
-- [ ] Otázka 21
+- [x] Otázka 20
+- [x] Otázka 21
 - [ ] Otázka 22
 - [ ] Otázka 23
-- [ ] Otázka 24
+- [x] Otázka 24
 - [ ] Otázka 25
 - [ ] Otázka 26
 - [ ] Otázka 27
 - [ ] Otázka 28
-- [ ] Otázka 29
-- [ ] Otázka 30
+- [x] Otázka 29
+- [x] Otázka 30
 
 ## Eko a Pod Eko
 
@@ -99,16 +99,16 @@ Hotovo 5/30
 - [ ] Otázka 15
 - [ ] Otázka 16
 - [x] Otázka 17
-- [x] Otázka 18
-- [x] Otázka 19
-- [x] Otázka 20
-- [x] Otázka 21
+- [ ] Otázka 18
+- [ ] Otázka 19
+- [ ] Otázka 20
+- [ ] Otázka 21
 - [ ] Otázka 22
 - [ ] Otázka 23
-- [x] Otázka 24
+- [ ] Otázka 24
 - [ ] Otázka 25
 - [ ] Otázka 26
 - [ ] Otázka 27
 - [ ] Otázka 28
-- [x] Otázka 29
-- [x] Otázka 30
+- [ ] Otázka 29
+- [ ] Otázka 30
