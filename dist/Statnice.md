@@ -1702,7 +1702,9 @@ DODĚLAT
         - aktivní legitimace: vlastník
         - pasivní legitimace: zadržovatel
       - **Žaloba negatorní** - zápurčí, žaloba na to, aby se škůdce zdržel svého škodlivého jednání, které narušuje vlastníkovo vlastnické právo
-      - **Žaloba z domnělého vlastnického práva**
+      - **Žaloba z domnělého vlastnického práva** - v případě kvalifikované držby může uplatnit dvě výše zmíněné žaloby
+        - **ochrana detence** - ochrana toho, kdo má věc u sebe i bez kvalifikované držby -> může rovněž uplatnit obě žaloby
+      - **Další žaloby** - žaloba na určení vlastnického práva/žaloba na určení hranic/žaloba o vydání pozůstalosti
 - **Spoluvlastnictví**
   - Jedná se o věc, ke které náleží vlastnické právo několika osobám (právo jednoho vlastníka k celé věci, je tak omezeno právem ostatních vlastníků k téže věci)
 
