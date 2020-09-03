@@ -4535,6 +4535,22 @@ DODĚLAT
         - Druhů žalob je nepřeberné množství - příklady, žaloby týkající se osobního stavu, plnění, určovací žaloby etc.
       - **průběh řízení (dokazování),**
       - **zakončení řízení (vynesení rozsudku).**
+        - rozsudek se skládá z:
+          - úvodní části
+          - výroku
+          - odůvodnění
+          - poučení + den a místo
+
+- **Průběh řízení**
+  - 1. Po podání návrhu zkoumá soud, zda jsou naplněny podmínky řízení, a zda může rozhodnout
+    - Návrh následně rozešle dalším účastníkům a uloží jim, aby se k němu vyjádřili
+  - 2. Dále soud nařídí jednání a obešle účastníky, popřípadě další osoby (například svědky) v přiměřeném předstihu, aby se dostavili
+  - 3. Jednání - v jeho průběhu se provádí **dokazování**, sporná řízení uplatňují mětodu projednávací - je tedy nezbytné, aby strany předložily všechny důkazy do skončení dokazování (to skončí v průběhu jednání)
+  - 4. Pokud je dokazování náročné, může soud jednání odročit na jiný den - pak se taky může dokazovat (dokud se neukončí fáze dokazování)
+  - 5. Pokud soud považuje daný skutkový stav za dostatečně prokázaný, může se rozhodnout, že již další důkazy neprovede (skončí dokazovací část).
+  - 6. Po skončení dokazování vyzve účastníky k závěrečným řečím a vynese rozsudek (zpravidla hned po krátkém rozmyšlení, nebo může odročit a vynést později, myslím, že má na to zpravidla 10 dnů - **pravidlo hospodárnosti řízení**)
+  - 7. Rozsudek nabude po nějaké době **právní moci** - pak musí žalovaný splnit, pokud nesplní, tak je možné zahájit další druh řízení, a to -> **řízení vykonávací**
+    - Rozhodnutí v prvním stupni je nepravomocné (účastníci mají 15 dní na odvolání), pokud je podán **řádný opravný prostředek**, nemusí žalovaný konat podle rozhodnutí, ale čeká až na vynesení rozsudku odvolacího soudu (rozsudek odvolacího soudu má právní moc a nelze proti němu užít řádné opravné prostředky, žalovaný tak musí činit co mu rozhodnutí ukládá -> jinak **žaloba na výkon**)
 
 - **Právo hmotné a procesní**
   - Hmotné -> souhrn právních norem, které stanoví svým adresátům subjektivní práva a povinnosti.
