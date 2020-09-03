@@ -1681,12 +1681,23 @@ DODĚLAT
 - **Nabytí vlastnického práva**
   - Pokud je právo převedeno - **derivativní nabytí**
   - Pokud vzniká vlastnické právo k nové věci - **originální nabytí**
+  - Způsobů nabytí vlastnického práva je poměrně mnoho
+    - **Smlouvou** - kupní (výhrada vlastnictví - VP převedeno až okamžikem zaplacení kupní ceny, nikoli předem), darovací, o dílo
+    - **Dědění** - u nemov. se zapisuje do KN ke dni úmrtí, jinak k němu dochází okamžikem smrti zůstavitele
+    - **Nabytí rozhodnutím státního orgánu** - nejčastěji soudní rozhodnutí, dnem nabytí právní moci rozhodnutí
+    - **Vydržení** - originální nabytí, držitel musí vlastnit po určitou dobu
+    - **Přírůstek** - jedná se například o **plody**
+    - **Nabytí zpracováním** - zpracování věci na věc novou (v případě nabytí věc cizí) - připadne po uhrazení hodnoty zpracované věci původnímu vlastníku
+      - Pokud není dobrá víra, může původní vlastník žádat například i nahrazení do původního stavu
+    - **Další případy týkající se nabývání staveb na cizím pozemku, nabývání cizích pozemků při přestavku (stavba přesahuje na jiný pozemek) atd.**
+    - **Nálezem** - každopádně má se za to, že každý si chce svoje vlastnictví podržet - má se za to, že nalezená věc nění věc cizí -> musí se vrátit vlastníkovi a náleží nálezné, pokud vlastník není znám -> musí se oznámit a vydat obci, na jejímž území byl předmět nalezen -> ta nález uveřejní, pokud se nikdo nepřihlásí -> po 1 roce nálezce poctivý držitel -> po 3 letech se stává vlastníkem
 - **Ochrana vlastnického práva**
   - čl. 36 (1) LZPS: Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
   - Listina základních práv a svobod rovněž zaručuje ochranu vlastnictví.
   - Dále je chráněno i přímo v rámci OZ:
     - § 12: Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávající veřejnou moc. Není-li v zákoně stanoveno něco jiného, je tímto OVM soud.
-  -
+  - **Nejdůležitějším prostředkem ochrany jsou vlastnické žaloby:**
+    - 
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
