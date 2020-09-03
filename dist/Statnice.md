@@ -2653,6 +2653,239 @@ Lichva.
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+**Darování**
+  - §2055 an. OZ - darovací smlouvou dárce
+    - bezplatně převádí vlastnické právo k věci nebo
+    - se zavazuje obdarovanému věc bezplatně převést do vlastnictví a obdarovaný dar nebo nabídku přijíma
+      - pouhý slib nezakládá právo požadovat dar, ale slíbenému vzniká právo požadovat účelně vynaložené náklady v důsledku očekávání obdarování
+      - úsluha (například sousedská výpomoc) - není darováním, neboť se jedná o mimosmluvní vztah a strany se nevážou
+    - dárce může dát celý svůj majetek, nebo i svůj budoucí majetek - zde je ale smlouva platná pouze pokud dar nepřesahuje polovinu tohoto budoucího majetku
+      - možné je darovet i věc, kterou člověk nemá -> pokud se zaváže, že jí obstará
+
+**Forma smlouvy**
+  - při darování:
+    - věci zapsané do veřejného seznamu (katastr nemovitostí) nebo
+    - nedojde-li k odevzdání věci zároveň s projevem vůle darovat a příjmout dar - dárce je povinen odevzdat dar, ale nemusí platit úroky z prodlení.
+    - vyžaduje smlouva písemnou formu ( při nepředání daru)
+
+**Darování podpory**
+  - zaváže-li se dárce obdarovaného pravidelně podporovat, zaniká
+    - právo na podporu i
+    - povinnost k podpoře smrtí obdarovaného; na dědice dárce a obdarovaného, jen pokud to bylo výslovně sjednáno
+
+**Darování ve vztahu k zdravotnickému zařízení**
+  - darování osobě, která
+    - provozuje zařízení, kde se poskytují zdravotnické/sociální služby, anebo
+    - takové zařízení spravuje/je v něm zaměstnána,
+    - je neplatné, stalo-li se v době, kdy dárce byl v péči takového zařízení/jinak přijímal jeho služby
+      - to neplatí, je-li obdarovaný osobou dárci blízkou
+
+Odvolání daru pro nouzi
+ • upadne-li dárce po darování do takové nouze, že nemá ani nutnou výživu
+        • vlastní nebo
+        • osoby, k jejíž výživě je podle zákona povinen
+může dar odvolat a požadovat po obdarovaném, aby mu dar vydal zpět nebo zaplatil jeho obvyklou cenu
+ ALE
+• obdarovaný se může této povinnosti zprostit poskytováním toho, co je k výživě dárce potřeba
+• povinnost vrátit dar obdarovaný nemá je-li sám v obdobné nouzi jako dárce
+Odvolání daru pro nevděk
+• ublíží-li obdarovaný dárci
+        • úmyslně nebo
+        • z hrubé nedbalosti
+tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy odstoupit, do jednoho roku ode dne,
+       • co obdarovaný dárci ublížil,
+       • či co se o tom dárce dozvěděl
+
+ • odůvodňuje-li to okolnosti, považuje se za nevděk vůči dárci také zjevné porušení dobrých mravů vůči osobě obdarovanému blízké
+ • vzdá-li se dárce při darování mezi živýmu předem práva odvolat dar pro nouzi nebo nevděk, nepříhlíží se k tomu
+
+**Koupě**
+ - §2079 OZ - kupní smlouvou se
+  - prodávající zavazuje, že kupujícímu odevzdá věc, která je předmět koupě, a umožní mu nabýt vlastnické právo k ní, a
+  - kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu
+
+**Kupní cena**
+ • kupní cena je sjednána dostatečně určitě, je-li sjednán alespoň způsob jejího určení
+• mají-li strany vůli uzavřít kupní smlouvu bez určení ceny, platí za sjednanou kupní cena, za niž se obvykle prodává
+        • týž nebo srovnatelný předmět
+        • v době uzavření smlouvy a
+        • za obdobných smluvních podmínek
+
+**Kupní smlouva x smlouva o dílo**
+ • smlouva u dodání věci, která má být teprve vyrobena, se posoudí jako kupní smlouva; to neplatí pokud se ten, komu má být věc dodána, zavázal předat druhé straně podstatnou část toho, čeho je v k vyrobení věci zapotřebí (materiálu)
+• za kupní smlouvu se nepovažuje smlouva, podle níž převážná část plnění dodavatele spočívá ve výkonu činnosti
+
+**Povinnosti prodávajícího**
+ • prodávající kupujícímu
+       •odevzdá věc a doklady, které se k věci vztahují, a
+       • umožní kupujícímu nabýt vlastnického práva k věci v souladu se smlouvou
+• prodávající splní povinnost odevzdat věc kupujícímu,
+       • umožní-li mu nakládat s věcí v místě plnění a
+       • včas mu to oznámí
+
+**Předmět koupě**
+ • prodávající odevzdá kupujícímu předmět koupě ve sjednaném
+        • množství,
+        • jakosti a
+        • provedení
+• nejsou-li jakost a provedení sjednány, plní prodávající účel patrný ze smlouvy; jinak pro účel obvyklý
+
+**Vadné plnění**
+ • věc je vadná, není-li dodána ve sjednaném množství, jakosti a provedení
+ • za vadu se považuje i
+      • plnění jiné věci (aliud) a
+      • vady v dokladech nutných pro užívání věci
+ ALE
+      • plyne-li
+           • z prohlášení prodávajícího nebo
+           • z dokladu o předání, že prodávající dodal menší množství věci, nevztahují se na chybějící věci ustanovení o vadách
+
+**Práva z vadného plnění**
+ • právo kupujicího z vadného plnění zakládá vada,
+      • kterou má věc při přechodu nebezpečí škody na kupujícího (i když se projeví až později) nebo
+     • vzniká později, kterou prodávající způsobil porušením své povinnosti
+• povinnosti prodávajícího ze záruky za jakost tím nejsou dotčeny
+• na práva kupujícího z vadného plnění nemá vliv, vznikla-li vada v důsledku
+       • použití věci, kterou kupující předal prodávajícímu, nebo
+       • postupu prodávajícího podle návrhů, vzorků nebo podkladů, které mu kupující opatřil
+ ALE
+       • to neplatí, prokáže-li prodávající, že
+              • na nevhodnost předané věci návrhů, vzorků nebo podkladů kupujícího včas upozornil a kupující na jejím použití trval, nebo
+              • prokáže-li, že nevhodnost předané věci ani při vynaložení dostatečné péče nemohl zjistit
+ • kupující nemá právo z vadného plnění, jde-li o vadu, kterou musel s vynaložením obvyklé pozornosti poznat již při uzavření smlouvy
+• to neplatí
+       • ujistí-li ho prodávající výslovně, že věc je bez vad, anebo
+       • zastřel-li lstivě vadu
+
+• kupující věc podle možnosti
+      • prohlédne co nejdříve po přechodu nebezpečí škody na věci a
+      • přesvědčí se o jejich vlastnostech a množství
+
+• je-li vadné plnění podstatným porušením smlouvy, má kupující právo
+    • na odstranění vady
+          • dodáním nové věci bez vady nebo
+          • dodáním chybějící věci,
+          • na odstranění vady bezplatnou opravou věci
+   • na přiměřenou slevu z kupní ceny, nebo
+   • odstoupit od smlouvy
+
+• kupující sdělí prodávajícímu, jaké právo si zvolí
+    • při oznámení vady, nebo
+    • bez zbytečného odkladu po oznámení vady
+ • provedenou volbu nemůže kupující změnit bez souhlasu prodávajícího; to neplatí, žádal-li kupující opravdu vady, které se ukáže jako neopravitelná
+
+ • je-li vadné plnění nepodstatným porušením smlouvy, má kupující právo
+      • na odstranění vady, anebo
+      • na přiměřenou slevu z kupní ceny
+ALE
+• dokud kupující
+      • neuplatní právo na slevu z kupní ceny nebo
+      • neodstoupí od smlouvy, může prodávající dodat to, co chybí, nebo odstranit právní vadu
+ • do odstranění vady nemusí kupující platit část kupní ceny odhadem přiměřeně odpovídající jeho právu na slevu
+ • neoznámil-li kupující vadu věci včas, pozbývá právo odstoupit od smlouvy
+• neoznámil-li kupující vadu bez zbytečného odkladu poté, co mohl
+    • zjevnou vadu při včasné prohlídce a dostatečné péči zjistit, nejpozději však do dvou let po odevzdání věci, soud mu k námitce prodávajícího, že vada nebyla včas oznámena, právo z vadného plnění nepřizná
+ • prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které v době odevzdání věci
+     • věděl nebo
+     • musel vědět
+
+**Záruka za jakost**
+ • zárukou za jakost se prodávající zavazuje, že věc
+       • bude po určitou dobu způsobilá k použití pro obvyklý účel nebo
+       • že si zachová obvyklé vlastnosti
+ • tyto účinky má i uvedení záruční doby, nebo doby použitelnosti věci
+      • na obalu nebo
+      • v reklamě
+
+**Povinnost kupujícího**
+• kupující zaplatí kupní cenu a věc převezme
+• kupující nemusí kupní cenu zaplatit, dokud nemá možnost si tu věc prohlédnout
+ • to neplatí, byl-li sjednán takový způsobem předání věci, který možnost prohlídky vylučuje
+
+**Svépomocný prodej**
+ • prodlením strany s převzetím věci vzniká druhé straně právo věc
+      • po předchozím upozornění
+      • na účet prodávajícího vhodným způsobem prodat
+       • poté, co prodlévajícímu poskytla dodatečnou přiměřenou lhůtu k převzetí
+ • hrozí-li věci rychlá zkáza a není-li na upozornění čas, není upozornění nutné
+
+**Koupě nemovité věci**
+ • při prodeji a koupi nemovité věci vyžaduje kupní smlouva písemnou formu
+• neoznámí-li kupující prodávajícímu skrytou vadu stavby spojené se zemí pevným základem do pěti let od nabytí, soud kupujícímu, k námitce prodávajícího, že vada nebyla včas oznámena, právo z vadného plnění nepřizná
+• prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které v době odevzdání věci věděl nebo vědět musel
+
+**Vedlejší ujednání při kupní smlouvě §2132**
+Výhrady vlastnického práva
+• vyhradí-li si prodávající k věci vlastnické právo, má se za to, že se kupující stane vlastníkem teprve úplným zaplacením kupní ceny
+ • nebezpečí škody na věci však na kupujícího přechází již jejím převzetím
+Výhrada zpětné koupě  
+• z ujednání o výhradě zpětné koupě vzniká kupujícímu povinnost převést na požádání věc prodávajícímu za úplatu zpět
+ • kupující vrátí prodávajícímu věc v nezhoršeném stavu a prodávající vrátí kupujícímu kupní cenu
+• dědice zavazuje výhrada zpětné koupě jen je-li to výslovně sjednáno
+Předkupní právo §2140
+• sjedná-li si předkupník k věci předkupní právo, vzniká dlužníku povinnost nabídnout věc předkupníkovi ke koupi, pokud by ji chtěl prodat třetí osobě (koupěchtivému)
+• předkupní právo lze zvláštním ujednáním rozšířit i na jiné způsoby zcizení (darování, směna)
+• předkupní právo lze sjednat i mimo souvislost s kupní smlouvou
+• nekoupí-li předkupník nabídnutou věc, zůstává mu předkupní právo zachováno
+• věděl-li koupěchtivý o předkupním právu nebo musel-li o něm vědět, platí, že smlouva je uzavřena s rozvazovací podmínkou uplatnění předkupního práva
+• předkupní právo lze zřídit i jako právo věcné
+Koupě na zkoušku §2150
+• kdo koupí věc na zkoušku, kupuje s podmínkou, že věc ve zkušební lhůtě schválí
+• nesjednají-li strany zkušební lhůtu, činí u
+      • movitých věci tři dny a
+      • u nemovitých věcí jeden rok od uzavření smlouvy
+Výhrada lepšího kupce § 2152
+• uzavřením kupní smlouvy s výhradou lepšího kupce nabývá prodávající právo dát přednost lepšímu kupci, přihlásí-li se v určené lhůtě
+• zda je nový kupec lepší, rozhoduje prodávající; může dát zejména přednost novému kupci, třebaže první nabízí vyšší cenu
+Cenová doložka §2154
+ • je-li sjednána cenová doložka, upraví se kupní cena věci dodatečně s přihlédnutím k výrobním nákladům
+ • neurčí-li se, které náklady jsou rozhodné, mění se kupní cena v poměru k cenovým změnám hlavních surovin potřebných k vyrobení věci
+
+**Zvláštní ustanovení o prodeji zboží v obchodě**
+ • §2158 OZ - zvláštní ustanovení o prodeji zboží v obchodě se použijí jen je-li prodávajícím podnikatel, ledaže
+     • je kupujícím také podnikatel a
+     • při uzavření smlouvy je z okolností zřejmé, že se koupě týká také jeho podnikatelské činnosti
+
+• převzetím koupené věci nabývá kupující k věci vlastnické právo
+• při samoobslužném prodeji nabývá kupující vlastnické právo k věci zaplacením kupní ceny • do té doby může kupující vrátit věc na původní místo
+• prodávající odpovídá kupujícímu, že věc při převzetí nemá vady
+
+     • zejména, že
+          • má věc vlastnosti, které si strany sjednaly, popř. vlastnosti, které prodávající/výrobce popsal nebo které kupující očekával s ohledem na povahu zboží a na základě reklamy,
+          • se věc hodí k účelu, ke kterému se věc tohoto druhu obvykle používá,
+         • věc odpovídá jakosti nebo provedením smluvenému vzorku nebo předloze,
+         • je věc v odpovídajícím množství, míře nebo hmotnosti a
+         • věc vyhovuje požadavkům právních předpisů projeví-li se vada v průběhu šesti měsíců od převzetí, má se za to, že věc byla vadná již při převzetí
+
+• kupující je oprávněn uplatnit právo z vady, která se vyskytne
+         • u spotřebního zboží
+         • v době dvaceti čtyř měsíců od převzetí
+
+
+ • sjednají-li prodávající a kupující zkrácení doby pro uplatnění práv z vadného plnění, nepřihlíží se k takovému ujednání
+ • to neplatí, zkrátily-li strany tuto dobu na polovinu zákonné doby při koupi již použitého spotřebního zboží, sjednaly-li si ale zkrácení větší, platí za sjednanou polovina zákonné doby • požádá-li o to kupující, potvrdí mu prodávající v písemné formě, v jakém rozsahu a po jakou dobu trvají jeho povinnosti v případě vadného plnění
+• v potvrzení uvede i své jméno, sídlo a identifikující údaje, popřípadě i další údaje potřebné ke zjištění jeho totožnosti
+
+• nemá-li věc stanovené vlastnosti může kupující požadovat i dodání nové věci bez vad, není-li to vzhledem k jeho povaze vady nepřiměřené
+• je-li to však vzhledem k povaze vady neúměrné, zejména lze-li vadu odstranit bez zbytečného odkladu, má kupující právo na bezplatné odstranění vady
+• právo na dodání nové věci, nebo výměnu součásti má kupující i v případě odstranitelné vady, pokud nemůže věc řádně užívat pro
+      • opakovaný výskyt vady po opravě nebo
+      • pro větší počet vad
+• v takovém případě má kupující i právo od smlouvy odstoupit
+• neodstoupí-li kupující od smlouvy nebo neuplatní-li právo na
+     • dodání nové věci bez vad,
+    • na výměnu její součásti, nebo  
+    • na opravu věci,
+ může požadovat přiměřenou slevu
+• kupující má právo na přiměřenou slevu i v případě, že mu prodávající
+     • nemůže dodat novou věc bez vad, vyměnit její součást nebo věc opravit,
+     • prodávající nezjedná nápravu v přiměřené době nebo
+     • by zjednání nápravy spotřebiteli působilo značné obtíže
+
+**Směna**
+  - Každá strana se zavazuje převést svoje právo druhé straně výměnou za závazek druhé strany převést vlastnické právo k její věci.
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
