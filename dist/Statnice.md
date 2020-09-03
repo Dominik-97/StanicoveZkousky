@@ -2709,45 +2709,51 @@ VEDLEJŠÍ
     - obvyklými tak, aby
       - bylo možné použít předmět plnění podle smlouvy, a je-li stranám znám, i podle jejího účelu je-li splněno vadně, má příjemce práva z vadného plnění
 
- • §1916 OZ - dlužník plní vadně, zejména  
-• poskytne-li předmět plnění, který nemá stanovené nebo sjednané vlastnosti,
-• neupozorní-li na vady, který předmět plnění má, ač se při takovém předmětu obvykle nevyskytují
-• ujistí-li věřitele v rozporu, se skutečností, že předmět plnění nemá žádné vady, nebo
-• zcizí-li cizí věc neoprávněné jako svojí
+- §1916 OZ - dlužník plní vadně, zejména  
+  - poskytne-li předmět plnění, který nemá stanovené nebo sjednané vlastnosti,
+  - neupozorní-li na vady, který předmět plnění má, ač se při takovém předmětu obvykle nevyskytují
+    - výjimka je zde taková, že samozřejmě na ně nemusí upozorňovat pokud jsou zjevné
+  - ujistí-li věřitele v rozporu, se skutečností, že předmět plnění nemá žádné vady, nebo
+  - zcizí-li cizí věc neoprávněné jako svojí
 
-• k projevu vůle, kterým zcizitel předem omezí zákonný rozsah svých povinností z vadného plnění, se nepřihliží
- • vzdá-li se nabyvatel předem svého práva z vadného plnění, vyžaduje projev jeho vůle písemnou formou
-• dohoda o modifikaci práv z vadného plnění je možná
+- k projevu vůle, kterým zcizitel předem omezí zákonný rozsah svých povinností z vadného plnění, se nepřihliží
+  - vzdá-li se nabyvatel předem svého práva z vadného plnění, vyžaduje projev jeho vůle písemnou formou
+  - dohoda o modifikaci práv z vadného plnění je možná
 
-• je-li vada
-     • již při uzavírání smlouvy nápadná a zřejmé nebo
-     • lze-li ji zjistit z veřejného seznamu,
- jde k tíži nabyvatele
-• to neplatí, pokud zcizitel
-     • vadu lstivě zastřel nebo
-     • nabytele výslovně ujistil, že věc takovou vadu nemá nebo že je vůbec bez vad
+- je-li vada
+  - již při uzavírání smlouvy nápadná a zřejmé nebo
+  - lze-li ji zjistit z veřejného seznamu,
+- jde k tíži nabyvatele
+  - to neplatí, pokud zcizitel
+    - vadu lstivě zastřel nebo
+    - nabytele výslovně ujistil, že věc takovou vadu nemá nebo že je vůbec bez vad
 
-• §1918 OZ - přenechá-li se věc jak stojí a leží (úhrnkem), jdou její vady k tíži nabyvatele
-• to neplatí
-      • nemá-li věc vlastnost, o níž zcizitel prohlásil, že jí má, nebo
-      • již si nabyvatel vymínil úhrnkem lze přenechat jen soubor věcí
- Odpovědnost za vady x záruka za jakost
- • odpovědnost za vady, resp. povinnost nést důsledky porušení povinnosti plnit řádně
-          • vzniká ze zákona a
-          • týká se vad existujicích v době předání
+- §1918 OZ - přenechá-li se věc jak stojí a leží (úhrnkem), jdou její vady k tíži nabyvatele
+  - to neplatí
+    - nemá-li věc vlastnost, o níž zcizitel prohlásil, že jí má, nebo
+    - již si nabyvatel vymínil
 
-• záruka za jakost
-         • lze dohodnout či poskytnout jednostranně a
-         • týká se jakékoli vady, která se vyskytne v průběhu záruční doby
-         • §1919 OZ - převezme-li zcizitel záruku za jakost, zaručuje se, že
-             • předmět plnění bude po určitou dobu po splnění způsobilý pro použití ke sjednanému účelu a
-            • že si podrží sjednané vlastnosti; nejsou-li vlastnosti sjednány, vztahuje se záruka na účel a vlastnosti obvyklé
-• právní vady
-        • předmět plnění má právní vadu, uplatňuje-li k němu právo třetí osoba; to neplatí, jestliže o takovém omezení nabyvatel věděl nebo musel vědět
-        • kdo na sebe převedl právo k předmětu, o kterém ví, že
-                      • zciziteli nepatří nebo že
-                      • zcizitel není oprávněn takové právo zřídit,
-nemá právo z této vady (třetí osoba, práva k třetím osobám)
+- Odpovědnost za vady **X** záruka za jakost
+  - odpovědnost za vady, resp. povinnost nést důsledky porušení povinnosti plnit řádně
+    - vzniká ze zákona a
+    - týká se vad existujicích v době předání
+
+- **záruka za jakost**
+  - lze dohodnout či poskytnout jednostranně a
+  - týká se jakékoli vady, která se vyskytne v průběhu záruční doby
+  - §1919 OZ - převezme-li zcizitel záruku za jakost, zaručuje se, že
+    - předmět plnění bude po určitou dobu po splnění způsobilý pro použití ke sjednanému účelu a
+    - že si podrží sjednané vlastnosti; nejsou-li vlastnosti sjednány, vztahuje se záruka na účel a vlastnosti obvyklé
+  - u standardních smluv je potřeba toto sjednat, výjimku pak třeba představují ujednání u kupní smlouvy učiněné v kamenném obchodě - záruka za jakost je sjednána automaticky na základě zákona
+
+- **právní vady**
+  - vadu na předmětu plnění si nelze představovat pouze jako (rozbitou věc), vada může mít i povahu vady právní (bez hmatatelného substrátu)
+    - předmět plnění má právní vadu, uplatňuje-li k němu právo třetí osoba; to neplatí, jestliže o takovém omezení nabyvatel věděl nebo musel vědět
+    - kdo na sebe převedl právo k předmětu, o kterém ví, že
+      - zciziteli nepatří nebo že
+      - zcizitel není oprávněn takové právo zřídit,
+    - nemá právo z této vady (třetí osoba, práva k třetím osobám)
+
 Reklamace vadného plnění
  • nabyvatel může právo z vadného plnění uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď
         • označením vady nebo
