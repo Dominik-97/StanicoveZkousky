@@ -3150,9 +3150,9 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Darování
-- [ ] Koupě
-- [ ] Směna
+- [x] Darování
+- [x] Koupě
+- [x] Směna
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -3180,7 +3180,7 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
 **Darování podpory**
   - zaváže-li se dárce obdarovaného pravidelně podporovat, zaniká
     - právo na podporu i
-    - povinnost k podpoře smrtí obdarovaného; na dědice dárce a obdarovaného, jen pokud to bylo výslovně sjednáno
+    - povinnost k podpoře smrtí obdarovaného; na dědice dárce a obdarovaného přechází právo, jen pokud to bylo výslovně sjednáno
 
 **Darování ve vztahu k zdravotnickému zařízení**
   - darování osobě, která
@@ -3189,29 +3189,29 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
     - je neplatné, stalo-li se v době, kdy dárce byl v péči takového zařízení/jinak přijímal jeho služby
       - to neplatí, je-li obdarovaný osobou dárci blízkou
 
-Odvolání daru pro nouzi
- • upadne-li dárce po darování do takové nouze, že nemá ani nutnou výživu
-        • vlastní nebo
-        • osoby, k jejíž výživě je podle zákona povinen
-může dar odvolat a požadovat po obdarovaném, aby mu dar vydal zpět nebo zaplatil jeho obvyklou cenu
- ALE
-• obdarovaný se může této povinnosti zprostit poskytováním toho, co je k výživě dárce potřeba
-• povinnost vrátit dar obdarovaný nemá je-li sám v obdobné nouzi jako dárce
-Odvolání daru pro nevděk
-• ublíží-li obdarovaný dárci
-        • úmyslně nebo
-        • z hrubé nedbalosti
-tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy odstoupit, do jednoho roku ode dne,
-       • co obdarovaný dárci ublížil,
-       • či co se o tom dárce dozvěděl
+**Odvolání daru pro nouzi**
+ - upadne-li dárce po darování do takové nouze, že nemá ani nutnou výživu
+    - vlastní nebo
+    - osoby, k jejíž výživě je podle zákona povinen
+  - může dar odvolat a požadovat po obdarovaném, aby mu dar vydal zpět nebo zaplatil jeho obvyklou cenu
+  - ALE
+  - obdarovaný se může této povinnosti zprostit poskytováním toho, co je k výživě dárce potřeba
+  - povinnost vrátit dar obdarovaný nemá je-li sám v obdobné nouzi jako dárce
 
- • odůvodňuje-li to okolnosti, považuje se za nevděk vůči dárci také zjevné porušení dobrých mravů vůči osobě obdarovanému blízké
- • vzdá-li se dárce při darování mezi živýmu předem práva odvolat dar pro nouzi nebo nevděk, nepříhlíží se k tomu
+**Odvolání daru pro nevděk**
+  - ublíží-li obdarovaný dárci
+    - úmyslně nebo
+    - z hrubé nedbalosti
+  - tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy odstoupit, do jednoho roku ode dne,
+    - co obdarovaný dárci ublížil,
+    - či co se o tom dárce dozvěděl
+  - odůvodňuje-li to okolnosti, považuje se za nevděk vůči dárci také zjevné porušení dobrých mravů vůči osobě obdarovanému blízké
+  - vzdá-li se dárce při darování mezi živýmu předem práva odvolat dar pro nouzi nebo nevděk, nepříhlíží se k tomu
 
 **Koupě**
  - §2079 OZ - kupní smlouvou se
-  - prodávající zavazuje, že kupujícímu odevzdá věc, která je předmět koupě, a umožní mu nabýt vlastnické právo k ní, a
-  - kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu
+    - prodávající zavazuje, že kupujícímu odevzdá věc, která je předmět koupě, a umožní mu nabýt vlastnické právo k ní, a
+    - kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu
 
 **Kupní cena**
  • kupní cena je sjednána dostatečně určitě, je-li sjednán alespoň způsob jejího určení
