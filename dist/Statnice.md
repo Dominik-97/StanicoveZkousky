@@ -3088,21 +3088,34 @@ VEDLEJŠÍ
   - poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou
     - druhé straně nebo
     - i osobě, jejímuž zájmu mělo splnění sjednané povinnosti zjevně sloužit
+  - ke vzniku povinnosti k náhradě škody není třeba zavinění
+  - pokud škůdce prokáže, že mu splnění povinností zabránile mimořádná překážka -> může se zprostit povinnosti hradit škodu, překážka vzniklá
+    - ze škůdcových osobních poměrů nebo
+    - až v době, kdy byl škůdce s plněním smluvené povinnosti v prodlení, ani překážka,
+    - kterou byl škůdce podle smlouvy povinen překonat, ho však povinnosti k náhradě nezprostí
 
-• ke vzniku povinnosti k náhradě škody není třeba zavinění
-    • překážka vznikla
-          • ze škůdcových osobních poměrů nebo
-          • až v době, kdy byl škůdce s plněním smluvené povinnosti v prodlení, ani překážka,
-          • kterou byl škůdce podle smlouvy povinen překonat, ho však povinnosti k náhradě nezprostí
-Škoda způsobená několika osobami
- • je-li k náhradě zavázáno několik škůdců, nahradí škodu společně a nerozdílně
-• to platí i
-       • dopustí-li se více osob samostatných protiprávních činů,
-       • z nichž mohl každý způsobit škodlivý následek s pravděpodobností blížící se k jistotě,        • nelze-li určit, která osoba způsobila
-Snížení náhrady
-• §2954 OZ - způsobil-li škůdce škodu
-       • úmyslným trestným činem,
-       • z něhož měl majetkový prospěch může soud na návrh poškozeného rozhodnout o uspokojení z věci, které škůdce z majetkového prospěchu nabyl a to i nepodléhají-li jinak výkonu rozhodnutí
+- **Škoda způsobená několika osobami**
+  - je-li k náhradě zavázáno několik škůdců, nahradí škodu společně a nerozdílně
+  - to platí i
+    - dopustí-li se více osob samostatných protiprávních činů,
+    - z nichž mohl každý způsobit škodlivý následek s pravděpodobností blížící se k jistotě,        
+    - nelze-li určit, která osoba způsobila
+
+- **Zákon dále upravuje zvláštní ustanovení ve smyslu způsobené škody blížeji k situacím, u kterých je to vhodné**
+  - Škoda způsobená tím, kdo nemůže posoudit následky svého jednání
+  - Škoda způsobená osobou s nebezpečnými vlastnostmi
+  - Škoda z provozní činnosti
+  - etc.
+
+- **Hrazení škody a újmy**
+  - Škoda se hradí uvedením v předešlý stav - není-li to možné, nebo žádá-li to poškozený -> škoda se hradí v penězích.
+  - Nemajetková újma se hradí zadostiučiněním, viz výše.
+  - Hradí se skutečná škoda a to, co poškozenému ušlo (ušlý zisk). Záleží-li skutečná škoda ve vzniku dluhu, má poškozený právo, aby ho škůdce dluhu zprostil nebo mu poskytl náhradu.
+
+- **Snížení náhrady**
+  - soud může ve výjímečných případech náhradu snížit
+  - nesníží jí podud byla škoda například způsobená úmyslně etc.
+
 Bezdůvodné obohacení
 • musí mít majetkovou hodnotu a bylo ho možné vyjádřit v penězích
 • může se jednat o plnění peněžité nebo nepeněžité povahy nebo třeba určitý prospěch z užívaní cizí věci
