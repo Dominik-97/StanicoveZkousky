@@ -389,7 +389,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
     * Právům člověka převzaného do zdravotnického zařízení bez jeho souhlasu
     * Nakládání s částmi lidského těla a ochranu lidského těla po smrti člověka (součásti lidského těla, které nelze bezbolestně odebrat nejsou věcmi, věcmi jsou ale například - vlasy, ostříhané nehty)
     * Jméno a pseudonym
-    
+
 * ~~Podpůrná opatření při narušení schopnosti zletilého právně jednat~~
   * ~~Předběžné prohlášení~~
   * ~~Nápomoc při rozhodování~~
@@ -1798,141 +1798,135 @@ DODĚLAT
   - **Předmětem držby**
     - Věcné právo - majetkové, převoditelné na jiného, připouští trvalý, nebo opakovaný výkon -> **držet lze vlastnické právo, právo stavby a právo odpovídající věcnému břemenu**
   - **Druhy držby:**
-  •	Kvalifikovaná (tj. bezvadná) držba – řádná, poctivá (v dobré víře), pravá
-o	zákonem chráněná, může vést k vydržení
+    - Kvalifikovaná (tj. bezvadná) držba – řádná, poctivá (v dobré víře), pravá
+      - zákonem chráněná, může vést k vydržení
 
-o	řádná (§ 991)
-	pokud se zakládá na platném právním důvodu
-•	důvod, který by jinak vedl ke vzniku vlastnického práva
-•	nabytí
-o	přímo – bezprostředně ujmutím se věci (aniž ruším jiného)
-o	odvozeně – převodem od držitele
+-	**řádná (§ 991)**
+  -	pokud se zakládá na platném právním důvodu
+    -	důvod, který by jinak vedl ke vzniku vlastnického práva
+  -	nabytí
+    -	přímo – bezprostředně ujmutím se věci (aniž ruším jiného)
+    -	odvozeně – převodem od držitele
 
-o	poctivá (§ 992)
-	poctivost běžně znamená objektivní dobrou víru, ale v OZ se používá jako pro objektivní, tak i pro subjektivní
-	subjektivní dobrá víra (bona fides) je v OZ vždy myšlena jako subjektivní dobrá víra
-	tady se poctivostí myslí subjektivní dobrá víra
-	kdo má z přesvědčivého důvodu za to, že mu náleží právo, které vykonává, je poctivý držitel
-	nepoctivě drží ten, kdo ví nebo komu musí být z okolností zjevné, že vykonává právo, které mu nenáleží
+-	**poctivá (§ 992)**
+  -	poctivost běžně znamená objektivní dobrou víru, ale v OZ se používá jako pro objektivní, tak i pro subjektivní
+    -	subjektivní dobrá víra (bona fides) je v OZ vždy myšlena jako subjektivní dobrá víra
+  -	tady se poctivostí myslí subjektivní dobrá víra
+  -	kdo má z přesvědčivého důvodu za to, že mu náleží právo, které vykonává, je poctivý držitel
+  -	nepoctivě drží ten, kdo ví nebo komu musí být z okolností zjevné, že vykonává právo, které mu nenáleží
 
-o	pravá (§ 993)
-	nepravá – držba nabytá svémocně, potajmu nebo lstí, nebo usiluje proměnit v trvalé právo to, co mu bylo povoleno jen výprosou
+-	**pravá (§ 993)**
+  -	nepravá – držba nabytá svémocně, potajmu nebo lstí, nebo usiluje proměnit v trvalé právo to, co mu bylo povoleno jen výprosou
 
-o	§ 994: Má se za to, že držba je řádná, poctivá a pravá.
+- § 994: Má se za to, že držba je řádná, poctivá a pravá.
 
-•	Práva a povinnosti v případě, že držitel je povinen vydat věc vlastníkovi
-o	poctivý i nepoctivý držitel
-	mají povinnost věc vydat
-	nemají právo žádat, aby jim vlastník nahradil to, co vydali za nabytí věci
+-	**Práva a povinnosti v případě, že držitel je povinen vydat věc vlastníkovi**
+  -	poctivý i nepoctivý držitel
+  -	mají povinnost věc vydat
+  -	nemají právo žádat, aby jim vlastník nahradil to, co vydali za nabytí věci
 
-o	poctivý držitel
-	náležejí mu všechny plody, jakmile je oddělí
-	hradí se mu
-•	nutné náklady, jichž bylo pro trvající zachování podstaty věci potřeba
-•	náklady vynaložené účelně
-•	náklady zvyšující užitečnost věci nebo její hodnoty
-	nehradí se obvyklé udržovací náklady
-	z nákladů učiněných na okrasu jen tolik, o kolik se zvýšila obvyklá cena věci
+-	**poctivý držitel**
+  - Poctivý držitel smí v mezích právního řádu věc držet a užívat ji, ba ji i zničit nebo s ní i jinak nakládat, a není z toho nikomu odpovědný.
+  -	náležejí mu všechny plody, jakmile je oddělí
+  -	hradí se mu (při vrácení držené věci vlastníkovi)
+    -	nutné náklady, jichž bylo pro trvající zachování podstaty věci potřeba
+    -	náklady vynaložené účelně
+    -	náklady zvyšující užitečnost věci nebo její hodnoty
+  -	nehradí se obvyklé udržovací náklady
+  -	z nákladů učiněných na okrasu jen tolik, o kolik se zvýšila obvyklá cena věci
 
-o	nepoctivý držitel
-	vydá veškerý užitek a nahradí ten, který by získala zkrácená osoba
-	náleží mu náhrada nutných nákladů
-	jinak se na něj pohlíží jako na nepřikázaného jednatele
+-	**nepoctivý držitel**
+  -	vydá veškerý užitek a nahradí ten, který by získala zkrácená osoba
+  -	náleží mu náhrada nutných nákladů
+  -	jinak se na něj pohlíží jako na nepřikázaného jednatele
 
+-	**Ochrana držby**
+  - Ve smyslu pokud někdo ruší držitele v držbě
+  -	§ 1003 – žaloba na ochranu držby
+    -	zdržení se rušení a uvedení v předešlý stav (§ 1007 odst. 1)
+  -	prakticky žaloba negatorní a restituční
+  -	soud povinen rozhodnout do 15 dnů (viz § 176 an. OSŘ)
+  -	§ 1004 – zvláštní žaloba při provádění stavby
+    -	žaloba na zákaz provedení stavby
+    -	nelze, pokud jako účastník řízení neuplatnil připomínky k žádosti o povolení stavby, ačkoliv tak učinit mohl
+    -	soud povinen rozhodnout do 30 dnů
 
-•	Ochrana držby
-o	§ 1003 – žaloba na ochranu držby
-	zdržení se rušení a uvedení v předešlý stav (§ 1007 odst. 1)
-	prakticky žaloba negatorní a restituční
-	soud povinen rozhodnout do 15 dnů (viz § 176 an. OSŘ)
-o	§ 1004 – zvláštní žaloba při provádění stavby
-	žaloba na zákaz provedení stavby
-	nelze, pokud jako účastník řízení neuplatnil připomínky k žádosti o povolení stavby, ačkoliv tak učinit mohl
-	soud povinen rozhodnout do 30 dnů
+-	**ochrana při odnětí držby (MV) a ochrana při vypuzení z držby (NV)**
+  -	vypuzení z držby práva
+    -	druhá strana odepře plnit, co dosud plnila
+    -	někdo zabrání výkonu práva
+    -	někdo nedbá povinnosti zdržet se nějakého konání
+  - právo u soudu žádat negatorní a restituční žalobou
 
-o	ochrana při odnětí držby (MV) a ochrana při vypuzení z držby (NV)
-	vypuzení z držby práva
-•	druhá strana odepře plnit, co dosud plnila
-•	někdo zabrání výkonu práva
-•	někdo nedbá povinnosti zdržet se nějakého konání
+-	**svépomoc - § 1006**
+  -	držitel se může rušení vzepřít a věci se znovu zmocnit, nepřekročí-li přitom meze nutné obrany
 
-o	svépomoc - § 1006
-	držitel se může rušení vzepřít a věci se znovu zmocnit, nepřekročí-li přitom meze nutné obrany
+-	**prekluzivní lhůty ochrany a uchování (svépomoci) - § 1008**
+  -	subjektivní – 6 týdnů
+  -	objektivní – 1 rok
 
-o	prekluzivní lhůty - § 1008
-	subjektivní – 6 týdnů
-	objektivní – 1 rok
+-	**Zánik držby - § 1009**
+  -	1. vzdáním se držby
+  -	2. objektivní ztrátou možnosti vykonávat obsah práva
+  -	3. držitel je vypouzen a neuchová si jí svépomocí nebo žalobou
+  -	nezaniká však
+    -	vydržením -> stane se z ní vlastnická držba
+    -	nevykonáváním
+    -	smrtí držitele
 
-•	Zánik držby - § 1009
-o	vzdáním se držby
-o	objektivní ztrátou možnosti vykonávat obsah práva
-o	držitel je vypouzen a neuchová si jí svépomocí nebo žalobou
-o	nezaniká
-	vydržením  stane se z ní vlastnická držba
-	nevykonáváním
-	smrtí držitele
-
-
-Trošku popsat vydržení
 - **Vydržení**
+  - Jedná se o situaci, kdy poctivý držitel drží nějakou věc po nějakou zákonem určenou dobu -> nabývá pak vlastnické právo
+  - Držba musí být rovněž pravá a řádná (řádná nemusí být, ale k vydržení dojde až po 20 letech)
+  - K vydržení MV - držba po dobu 3 roky
+  - K vydržení NV - držba po dobu 10 let
+  - Určité osoby mezi sebou nemůžou vydržet - například zákonný zástupce a zastoupení, nebo opatrovník a opatrovanec
 
-Definice věcných práv a závazkových práv.
+~~Definice věcných práv a závazkových práv.~~
+~~Pokojná držba.~~
+~~Požívací a užívací právo.~~
+~~Dům je buď součástí pozemku, nebo součástní práva stavby (u obou je součástí nemovité věci)~~
+~~závazková práva jakožto z povahy práva relativní vyjadřují dynamiku občanskoprávních vztahů (výměna různých~~
+~~statků mezi individuálně určenými subjekty) x absolutní věcná práva jsou z povahy právy absolutními a vyjadřují tedy~~
+~~statiku občanskoprávních vztahů~~
+~~povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)~~
+  ~~inter partes - působí výlučně mezi stranami závazku~~
+  ~~erga omnes - působí vůči všem (jichž se to může týkat)~~
 
-Pokojná držba.
 
-Požívací a užívací právo.
-
-Dům je buď součástí pozemku, nebo součástní práva stavby (u obou je součástí nemovité věci)
-
-závazková práva jakožto z povahy práva relativní vyjadřují dynamiku občanskoprávních vztahů (výměna různých
-statků mezi individuálně určenými subjekty) x absolutní věcná práva jsou z povahy právy absolutními a vyjadřují tedy
-statiku občanskoprávních vztahů
-povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)
-  inter partes - působí výlučně mezi stranami závazku
-  erga omnes - působí vůči všem (jichž se to může týkat)
-- **Věcná práva**
+- **Věcná práva** = jsou práva, která vyjadřují určité panství nad věcí, působí *erga omnes* X *závazky* = jedná se o právní vztahy *inter partes*
   - Vlastnictví
   - Držba
   - Věcná práva k věci cizí
 
 - **Věcná práva k věci cizí**
-  - právo stavby
-  - věcné břemeno
-  - zástavní právo
-  - zadržovací právo
+  - Věcná práva k věci cizí věcněprávní povahy
+    - právo stavby
+    - věcné břemeno
+      - služebnosti - povinnost nekonat
+        - pozemkové - například právo pastvy
+        - osobní - například požívací a užívací právo
+      - reálná břemena - povinnost konat
+  - Věcná práva k věci cizí obligačně právní povahy
+    - zástavní právo
+    - zadržovací právo - pokud dlužník nesplácí svojí pohledávku
   - předkupní právo, je-li jako věcné právo sjednáno
+    - mezi vlastníkem pozemku a stavebníkem při právu stavby
+    - je-li různý vlastník stavby a pozemku
+    - mezi spoluvlastníky nemovité věci (nevím jestli již není zrušeno)
+    - další smluvní předkupní práva, pokud jsou sjednaná jako věcná práva
 
-  •	Pojem věcných práv k věci cizí; charakteristiky
-  o	jedno z věcných práv  absolutní povaha
-  o	iura in re alinea
-  o	poskytují oprávněné osobě, která není vlastníkem, vykonávat přímé právní panství nad individuálně určenou věcí
-  	jen v určitém vymezeném rozsahu
-  o	poskytují oprávněnému určité, přesně zákonem vymezené dílčí věcné právo
-  o	dílčí panství nad věcí
-  o	může být konkretizováno zejména smlouvou
+-	**Pojem věcných práv k věci cizí; charakteristiky**
+  -	jedno z věcných práv -> absolutní povaha
+    -	*iura in re alinea*
+  -	poskytují oprávněné osobě, která není vlastníkem, vykonávat přímé právní panství nad individuálně určenou věcí
+    -	jen v určitém vymezeném rozsahu
+  -	poskytují oprávněnému určité, přesně zákonem vymezené dílčí věcné právo
+  -	dílčí panství nad věcí
+  -	může být konkretizováno zejména smlouvou
 
-  •	Základní předpoklad: věc ve vlastnictví jiné osoby (nikoli věc nikoho, ničí)
-  o	věc musí být ve vlastnictví cizí osoby
-  	ne res nullius
-
-  •	Druhy věcných práv k věci cizí:
-  o	Věcná práva k věci cizí věcněprávní povahy
-  	právo stavby
-  	věcná břemena
-  •	služebnosti – povinnost nekonat
-  o	pozemkové
-  o	osobní
-  •	reálná břemena – povinnost konat
-  	3 zákonná předkupní práva
-  •	mezi vlastníkem pozemku a stavebníkem při právu stavby
-  •	je-li různý vlastník stavby a pozemku
-  •	mezi spoluvlastníky nemovité věci
-  	smluvní předkupní právo zřízené jako věcné právo (§ 2144)
-
-  o	Věcná práva k věci cizí obligačněprávní povahy
-  	zástavní právo
-  	zadržovací právo
-
+-	**Základní předpoklad: věc ve vlastnictví jiné osoby (nikoli věc nikoho, ničí)**
+  -	věc musí být ve vlastnictví cizí osoby
+    -	ne *res nullius*
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -2739,7 +2733,7 @@ Vedlejší
         - Právo **nezaniká smrtí** dlužníka, ledaže bylo vázáno výlučně na jeho osobu, pokud zemře věřitel, zaniká závazek, pokud bylo plnění omezeno výhradně a pouze na jeho osobu.
 
 
-Podstatná změna okolností.
+Podstatná změna okolností - změna okolností, kdy je plnění nemožné.
 
 Neúměrné zkrácení.
 
