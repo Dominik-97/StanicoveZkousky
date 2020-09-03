@@ -3116,23 +3116,17 @@ VEDLEJŠÍ
   - soud může ve výjímečných případech náhradu snížit
   - nesníží jí podud byla škoda například způsobená úmyslně etc.
 
-Bezdůvodné obohacení
-• musí mít majetkovou hodnotu a bylo ho možné vyjádřit v penězích
-• může se jednat o plnění peněžité nebo nepeněžité povahy nebo třeba určitý prospěch z užívaní cizí věci
-• bezdůvodné obohacení znamená, že dosavadní majetek toho, kdo se obohatil, se protiprávně rozmnoží nebo se dosavadní majetek obohaceného zmenšil, ačkoliv by k tomu došlo, kdyby řádně plnil svoji povinnost
+- **Bezdůvodné obohacení**
+  - musí mít majetkovou hodnotu a bylo ho možné vyjádřit v penězích
+  - může se jednat o plnění peněžité nebo nepeněžité povahy nebo třeba určitý prospěch z užívaní cizí věci
+  - bezdůvodné obohacení znamená, že dosavadní majetek toho, kdo se obohatil, se protiprávně rozmnoží nebo se dosavadní majetek obohaceného zmenšil, ačkoliv by k tomu došlo, kdyby řádně plnil svoji povinnost
+  - Příklady:
+    - Plnění bez spravedlivého důvodu
+    - Plnění z právního důvodu, který odpadl
+    - Protiprávním užitím cizí hodnoty
 
-Podle OZ:
-1. Plnění bez spravedlivého důvodu - právní důvod, aby někdo někomu něco plnil, nevznikl
-   (Byla uhrazena záloha, přestože k uzavření smlouvy nakonec nedošlo)
-2. Plnění z právního důvodů, který odpadl.
-   (Smlouva byla platně uzavřena, ale později došlo k odstoupení od smlouvy, pokud ze smlouvy již bylo plněno, jedná se o bezdůvodné obohacení)
-3. Protiprávním užitím cizí hodnoty
-( Majetek získaný trestnou činnost, prospěch získaný z nedovoleného podnikán, z obchodování s pašovaným zbožím)
-4. Plnění za jiného - to je případ, kdy má někdo něco plnit, nečiní tak a jeho povinnost za něho splní někdo jiný.
-( Dlužník, za kterého plnil ručitel, se bezdůvodně obohatil a je toto své obohacení povinen vrátit ručiteli)
-• musí být vydáno vše, co bylo bezdůvodně získáno
-
-
+- **Důsledky plynoucí z bezdůvodného obohacení**
+  - **Nepoctivý příjemce vydá, co nabyl v době, kdy obohacení získal.**
 
 POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, CO JE KRYTO ÚROKEM, TO CO NENÍ KRYTO ÚROKE, NA TO PRÁVO MÁ
 **PRÁVA Z VADNÉHO PLNĚNÍ** NEVYLUČUJÍ UPLATNĚNÍ NÁHRADY ŠKODY, ČEHO ALE ŽALUJÍCÍ DOSÁHNE PRÁVY Z VADNÉHO PLNĚNÍ, NELZE JIŽ PLNIT VE SMYSLU NÁHRADY ŠKODA
