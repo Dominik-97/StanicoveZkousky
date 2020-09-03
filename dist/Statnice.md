@@ -1655,7 +1655,8 @@ DODĚLAT
             - Zásadně ve stavu nouze nebo v naléhavém veřejném zájmu -> lze použít vlastníkovu věc, pokud účelu nelze dosáhnout jinak
         - **V soukromém zájmu**
           - V rámci subjektivních práv víme, že právo a povinnost jsou párové pojmy
-          - Moje právo vlastnit tedy zakládá i určité povinnosti, které musím při vlastnění dodržovat
+          - Vlastník má tak například povinnost starat se - věc hlídat a zabezpečit (v některých případech) - odpovědnost za škodu způsobenou vlastním zířetem, povinnost zajistit a dodržovat protipožární normy v nemovitosti etc.
+          - Další povinnosti: Moje právo vlastnit tedy zakládá i určité povinnosti, které musím při vlastnění dodržovat
             - **Generální zákaz** - § 1012 OZ
               - Vlastník má neomezené právo s věcí nakládat, **ale v rámci mezí zákona**, svým vlastnictvím tedy nesmí obtěžovat jiné a nesmí vykonávat takové činy, jejichž hlavním účelem je jiné osoby obtěžovat, nebo poškodit.
             - **Zákaz imisí** - § 1013 OZ
@@ -1676,6 +1677,7 @@ DODĚLAT
             - **nezbytná cesta** - pokud by nebylo přístupu na pozemek možné dosáhnout z veřejné komunikace - může soused žádat vlastníka o nezbytnou cestou přes jeho pozemek za úplatu, může se obrátit i na soud - ten může schválit i jako služebnost
             - **rozhrada** - hranice pozemku, například plot a zeď - vlastnící jí mají povinnost udržovat
               - jedná se o společné vlastnictví
+      - Z výše uvedeného je tedy vidět, že vlastnické právo je omezováno na základě **a) zákona, b) vlastního právního jednání, c) rozhodnutí správního orgánu - soud, nezbytná cesta, vyvlastnění**
 - **Nabytí vlastnického práva**
   - Pokud je právo převedeno - **derivativní nabytí**
   - Pokud vzniká vlastnické právo k nové věci - **originální nabytí**
