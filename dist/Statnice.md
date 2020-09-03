@@ -2708,6 +2708,13 @@ VEDLEJŠÍ
     - vymíněnými nebo
     - obvyklými tak, aby
       - bylo možné použít předmět plnění podle smlouvy, a je-li stranám znám, i podle jejího účelu je-li splněno vadně, má příjemce práva z vadného plnění
+  - **Vadou na věci tak může být například:**
+    - dodání jiné věci, než byla ujednána,
+    - dodání jiného (menšího) množství, větší plnění je **plnění bez právního důvodu** -> to nabyvatel nemusí přijmout, výjimka je u spotřebitele (ten může přijmou a užívat a ani nemusí podnikateli nic hlásit),
+    - dodání nekompletní věci,
+    - vada funkce,
+    - právní vada.
+
 
 - §1916 OZ - dlužník plní vadně, zejména  
   - poskytne-li předmět plnění, který nemá stanovené nebo sjednané vlastnosti,
@@ -2745,45 +2752,50 @@ VEDLEJŠÍ
     - předmět plnění bude po určitou dobu po splnění způsobilý pro použití ke sjednanému účelu a
     - že si podrží sjednané vlastnosti; nejsou-li vlastnosti sjednány, vztahuje se záruka na účel a vlastnosti obvyklé
   - u standardních smluv je potřeba toto sjednat, výjimku pak třeba představují ujednání u kupní smlouvy učiněné v kamenném obchodě - záruka za jakost je sjednána automaticky na základě zákona
+  - takovou vadu je po oznámení nabyvatele zcizitel povinen na své náklady odstranit spolu s náklady, které vznikly nabyvateli v souvislosti s uplatněním záruky -> například doprava, nájem náhradní věci a tak.
+  - blíže viz spotřebitelská smlouva
 
 - **právní vady**
   - vadu na předmětu plnění si nelze představovat pouze jako (rozbitou věc), vada může mít i povahu vady právní (bez hmatatelného substrátu)
     - předmět plnění má právní vadu, uplatňuje-li k němu právo třetí osoba; to neplatí, jestliže o takovém omezení nabyvatel věděl nebo musel vědět
-    - kdo na sebe převedl právo k předmětu, o kterém ví, že
-      - zciziteli nepatří nebo že
-      - zcizitel není oprávněn takové právo zřídit,
-    - nemá právo z této vady (třetí osoba, práva k třetím osobám)
+  - kdo na sebe převedl právo k předmětu, o kterém ví, že
+    - zciziteli nepatří nebo že
+    - zcizitel není oprávněn takové právo zřídit,
+  - nemá právo z této vady (třetí osoba, práva k třetím osobám)
 
-Reklamace vadného plnění
- • nabyvatel může právo z vadného plnění uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď
-        • označením vady nebo
-        • oznámením, jak se projevuje
-• vadu lze vytknout do šesti měsíců od převzetí předmětu plnění
-ALE
-Reklamace ze záruky
- • vadu krytou zárukou musí nabyvatel vytknout zciziteli bez zbytečného odkladu poté, kdy měl možnost  
-       • předmět plnění prohlédnout a
-       • vadu zjistit,
-• nejpozději však v reklamační lhůtě určené délkou záruční doby
-Důsledky opožděné reklamace
- • nevytkl-li nabyvatel vado (ať již ze záruky nebo z odpovědnosti) včas a namítne-li zcizitel opožděné vytknutí, soud nabyvateli právo nepřizná
-• to neplatí, je-li vada důsledkem skutečnosti, o které zcizitel při předání věděl nebo musel vědět
-Stavení běhu času
-• vytkl-li nabyvatel zciziteli vadu oprávněně,
-        • neběží lhůta pro uplatnění práv z vadného plnění ani
-        • záruční doba
-• po dobu, po kterou nabyvatel nemůže vadný předmět užívat
-Vypořádání vadného plnění
- • je-li vada odstranitelná, může se nabyvatel domáhat buď
-      • opravy, nebo
-      • doplnění toho, co chybí, anebo
-      • přiměřené slevy z ceny
-• je-li vada neodstranitelná a nelze-li pro ní předmět řádné užívat, může nabyvatel buď
-        • odstoupit od smlouvy, anebo
-        • se domáhat přiměřené slevy z ceny
-• je-li vada neodstranitelná ale předmět lze řádně užívat???
-   • může se nabytel zřejmě domáhat jen
-   • přiměřené slevy z ceny
+- **Reklamace vadného plnění**
+  - nabyvatel může primárně vytknout vadu zciziteli -> pokud opraví -> OK, není problém, jinak
+    - nabyvatel může právo z **vadného plnění** uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď
+      - označením vady nebo
+      - oznámením, jak se projevuje
+    - vadu lze vytknout do šesti měsíců od převzetí předmětu plnění (u prodávání zboží v obchodě - má se za to, že pokud vada vznikne do 6 měsíců od převzetí, měla jí už od převzetí)
+    - ALE
+    - **Reklamace ze záruky**
+      - vadu krytou zárukou musí nabyvatel vytknout zciziteli bez zbytečného odkladu poté, kdy měl možnost  
+        - předmět plnění prohlédnout a
+        - vadu zjistit,
+      - nejpozději však v reklamační lhůtě určené délkou záruční doby
+  - **Důsledky opožděné reklamace**
+    - nevytkl-li nabyvatel vadu (ať již ze záruky nebo z odpovědnosti) včas a namítne-li zcizitel opožděné vytknutí, soud nabyvateli právo nepřizná
+    - to neplatí, je-li vada důsledkem skutečnosti, o které zcizitel při předání věděl nebo musel vědět
+
+- **Stavení běhu času**
+  - vytkl-li nabyvatel zciziteli vadu oprávněně,
+    - neběží lhůta pro uplatnění práv z vadného plnění ani
+    - záruční doba
+  - po dobu, po kterou nabyvatel nemůže vadný předmět užívat
+
+- **Vypořádání vadného plnění**
+  - je-li vada odstranitelná, může se nabyvatel domáhat buď
+    - opravy, nebo
+    - doplnění toho, co chybí, anebo
+    - přiměřené slevy z ceny
+  - je-li vada neodstranitelná a nelze-li pro ní předmět řádné užívat, může nabyvatel buď
+    - odstoupit od smlouvy, anebo
+    - se domáhat přiměřené slevy z ceny
+  - je-li vada neodstranitelná ale předmět lze řádně užívat???
+   - může se nabytel zřejmě domáhat jen
+   - přiměřené slevy z ceny
 Vadné plnění x náhrada škody
 • §1925 OZ - právo z vadného plnění nevylučuje právo na náhradu škody
  • čeho však lze dosáhnout uplatněním práva z vadného plnění, toho se nelze domáhat z jiného právního důvodu  ( např: vadný el. Spotřebič)
@@ -2943,6 +2955,10 @@ Podle OZ:
 • musí být vydáno vše, co bylo bezdůvodně získáno
 
 
+
+POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, CO JE KRYTO ÚROKEM, TO CO NENÍ KRYTO ÚROKE, NA TO PRÁVO MÁ
+**PRÁVA Z VADNÉHO PLNĚNÍ** NEVYLUČUJÍ UPLATNĚNÍ NÁHRADY ŠKODY, ČEHO ALE ŽALUJÍCÍ DOSÁHNE PRÁVY Z VADNÉHO PLNĚNÍ, NELZE JIŽ PLNIT VE SMYSLU NÁHRADY ŠKODA
+**SMLUVNÍ POKUTA** - VZTAHUJE SE K NĚJAKÉMU PORUŠENÍ POVINNOSTI, POKUD JE UJEDNÁNA, NELZE JIŽ POŽADOVAT NÁHRADU ŠKODY Z TÉ SAMÉ SKUTEČNOSTI
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
