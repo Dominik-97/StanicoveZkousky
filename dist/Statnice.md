@@ -1618,7 +1618,7 @@ DODĚLAT
   - Právní titul k věci?
   - Nejobsáhlejší věcné právo a rovněž nejsilnější věcné právo
     - právo všeobecné, přímé, výlučné panství nad věcí
-    - **jedná se o elastické právo - pokud je jeho šíře omezena a toto omezení skončí - vlátí se vlastnické právo do své původní šíře**
+    - **jedná se o elastické právo - pokud je jeho šíře omezena a toto omezení skončí - vlátí se vlastnické právo do své původní šíře** - například pronájem (omezení užívacího práva)
     - **vlastnické právo je perzistentní (trvalé) - časově neomezené, trvá dokud vlastník má alespoň holé vlastnictví (vlastnický titul jako takový) i bez možnost nakládání s vlastnictvím**
     - Má se za to, že každý si chce podržet své vlastnictví
   - Upravené v části třetí - Absolutní majetková práva
@@ -1640,7 +1640,7 @@ DODĚLAT
       - právo s věcí nakládat
       - právo věc zničit a opustit
   - **Omezení vlastnického práva**
-    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena, pokud by dané omezení nerespektoval -> možné postižení prostředky správního nebo trestního práva
+    - Vlastnictví a jeho ochrana je zaručena Ústavním pořádkem, ale přesto může být v určitých případech omezena, pokud by dané omezení nerespektoval -> možné postižení prostředky správního nebo trestního práva/i obč?
     - Vlastnické právo vlastníka končí tam, kde začíná vlastnické právo druhého vlastníka
     - § 11 odst. 3 LZPS: Vlastnictví zavazuje. Nesmí být zneužito na újmu práv druhých anebo v rozporu se zákonem chráněnými obecnými zájmy. Jeho výkon nesmí poškozovat lidské zdraví, přírodu a životní prostřední nad míru stanovenou zákonem
     - Prvním druhem omezení je **omezení VP veřejnoprávními předpisy**
