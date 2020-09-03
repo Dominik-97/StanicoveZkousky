@@ -21,7 +21,7 @@ Hotovo 0/30
 - [x] Otázka 7
 - [x] Otázka 8
 - [x] Otázka 9
-- [ ] Otázka 10
+- [x] Otázka 10
 - [ ] Otázka 11
 - [x] Otázka 12
 - [x] Otázka 13
