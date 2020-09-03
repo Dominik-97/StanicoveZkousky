@@ -1697,7 +1697,11 @@ DODĚLAT
   - Dále je chráněno i přímo v rámci OZ:
     - § 12: Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávající veřejnou moc. Není-li v zákoně stanoveno něco jiného, je tímto OVM soud.
   - **Nejdůležitějším prostředkem ochrany jsou vlastnické žaloby:**
-    - 
+    - Jedná se o civilní žaloby:
+      - **Žaloby reivindikační** - vydání neoprávněně zadržované věci, v případě nemovitosti se jedná o **žalobu na vyklizení**
+      - **Žaloba negatorní** - zápurčí, žaloba na to, aby se škůdce zdržel svého škodlivého jednání, které narušuje vlastníkovo vlastnické právo
+- **Spoluvlastnictví**
+  - Jedná se o věc, ke které náleží vlastnické právo několika osobám (právo jednoho vlastníka k celé věci, je tak omezeno právem ostatních vlastníků k téže věci)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
