@@ -1782,8 +1782,84 @@ DODĚLAT
     - s nevlastnickou držbou souvisí **detence** = tedy stav faktického ovládání věci, ale bez vůle mít ji pro sebe, detentor, který věc fakticky ovládá (chybí vůle) se k věci chová jako k věci cizí - nájem, pacht, výprosa a výpůjčka.
   - **Předmětem držby**
     - Věcné právo - majetkové, převoditelné na jiného, připouští trvalý, nebo opakovaný výkon -> **držet lze vlastnické právo, právo stavby a právo odpovídající věcnému břemenu**
+  - **Druhy držby:**
+  •	Kvalifikovaná (tj. bezvadná) držba – řádná, poctivá (v dobré víře), pravá
+o	zákonem chráněná, může vést k vydržení
+
+o	řádná (§ 991)
+	pokud se zakládá na platném právním důvodu
+•	důvod, který by jinak vedl ke vzniku vlastnického práva
+•	nabytí
+o	přímo – bezprostředně ujmutím se věci (aniž ruším jiného)
+o	odvozeně – převodem od držitele
+
+o	poctivá (§ 992)
+	poctivost běžně znamená objektivní dobrou víru, ale v OZ se používá jako pro objektivní, tak i pro subjektivní
+	subjektivní dobrá víra (bona fides) je v OZ vždy myšlena jako subjektivní dobrá víra
+	tady se poctivostí myslí subjektivní dobrá víra
+	kdo má z přesvědčivého důvodu za to, že mu náleží právo, které vykonává, je poctivý držitel
+	nepoctivě drží ten, kdo ví nebo komu musí být z okolností zjevné, že vykonává právo, které mu nenáleží
+
+o	pravá (§ 993)
+	nepravá – držba nabytá svémocně, potajmu nebo lstí, nebo usiluje proměnit v trvalé právo to, co mu bylo povoleno jen výprosou
+
+o	§ 994: Má se za to, že držba je řádná, poctivá a pravá.
+
+•	Práva a povinnosti v případě, že držitel je povinen vydat věc vlastníkovi
+o	poctivý i nepoctivý držitel
+	mají povinnost věc vydat
+	nemají právo žádat, aby jim vlastník nahradil to, co vydali za nabytí věci
+
+o	poctivý držitel
+	náležejí mu všechny plody, jakmile je oddělí
+	hradí se mu
+•	nutné náklady, jichž bylo pro trvající zachování podstaty věci potřeba
+•	náklady vynaložené účelně
+•	náklady zvyšující užitečnost věci nebo její hodnoty
+	nehradí se obvyklé udržovací náklady
+	z nákladů učiněných na okrasu jen tolik, o kolik se zvýšila obvyklá cena věci
+
+o	nepoctivý držitel
+	vydá veškerý užitek a nahradí ten, který by získala zkrácená osoba
+	náleží mu náhrada nutných nákladů
+	jinak se na něj pohlíží jako na nepřikázaného jednatele
+
+
+•	Ochrana držby
+o	§ 1003 – žaloba na ochranu držby
+	zdržení se rušení a uvedení v předešlý stav (§ 1007 odst. 1)
+	prakticky žaloba negatorní a restituční
+	soud povinen rozhodnout do 15 dnů (viz § 176 an. OSŘ)
+o	§ 1004 – zvláštní žaloba při provádění stavby
+	žaloba na zákaz provedení stavby
+	nelze, pokud jako účastník řízení neuplatnil připomínky k žádosti o povolení stavby, ačkoliv tak učinit mohl
+	soud povinen rozhodnout do 30 dnů
+
+o	ochrana při odnětí držby (MV) a ochrana při vypuzení z držby (NV)
+	vypuzení z držby práva
+•	druhá strana odepře plnit, co dosud plnila
+•	někdo zabrání výkonu práva
+•	někdo nedbá povinnosti zdržet se nějakého konání
+
+o	svépomoc - § 1006
+	držitel se může rušení vzepřít a věci se znovu zmocnit, nepřekročí-li přitom meze nutné obrany
+
+o	prekluzivní lhůty - § 1008
+	subjektivní – 6 týdnů
+	objektivní – 1 rok
+
+•	Zánik držby - § 1009
+o	vzdáním se držby
+o	objektivní ztrátou možnosti vykonávat obsah práva
+o	držitel je vypouzen a neuchová si jí svépomocí nebo žalobou
+o	nezaniká
+	vydržením  stane se z ní vlastnická držba
+	nevykonáváním
+	smrtí držitele
+
 
 Trošku popsat vydržení
+- **Vydržení**
 
 Definice věcných práv a závazkových práv.
 
@@ -1799,12 +1875,49 @@ statiku občanskoprávních vztahů
 povinnosti: u závazkových práv povinnosti spočívají v konání i k nekonání, zatímco u věcných práv zásadně v nekonání (nerušení)
   inter partes - působí výlučně mezi stranami závazku
   erga omnes - působí vůči všem (jichž se to může týkat)
+- **Věcná práva**
+  - Vlastnictví
+  - Držba
+  - Věcná práva k věci cizí
+
 - **Věcná práva k věci cizí**
   - právo stavby
   - věcné břemeno
   - zástavní právo
   - zadržovací právo
   - předkupní právo, je-li jako věcné právo sjednáno
+
+  •	Pojem věcných práv k věci cizí; charakteristiky
+  o	jedno z věcných práv  absolutní povaha
+  o	iura in re alinea
+  o	poskytují oprávněné osobě, která není vlastníkem, vykonávat přímé právní panství nad individuálně určenou věcí
+  	jen v určitém vymezeném rozsahu
+  o	poskytují oprávněnému určité, přesně zákonem vymezené dílčí věcné právo
+  o	dílčí panství nad věcí
+  o	může být konkretizováno zejména smlouvou
+
+  •	Základní předpoklad: věc ve vlastnictví jiné osoby (nikoli věc nikoho, ničí)
+  o	věc musí být ve vlastnictví cizí osoby
+  	ne res nullius
+
+  •	Druhy věcných práv k věci cizí:
+  o	Věcná práva k věci cizí věcněprávní povahy
+  	právo stavby
+  	věcná břemena
+  •	služebnosti – povinnost nekonat
+  o	pozemkové
+  o	osobní
+  •	reálná břemena – povinnost konat
+  	3 zákonná předkupní práva
+  •	mezi vlastníkem pozemku a stavebníkem při právu stavby
+  •	je-li různý vlastník stavby a pozemku
+  •	mezi spoluvlastníky nemovité věci
+  	smluvní předkupní právo zřízené jako věcné právo (§ 2144)
+
+  o	Věcná práva k věci cizí obligačněprávní povahy
+  	zástavní právo
+  	zadržovací právo
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -5677,7 +5790,7 @@ finanční arbitráž- zákon o finančním arbitrovi
 Částečně v obchod-A_2017_18
 
 - [x] Pojmy podnikatel
-  - [ ] Podnikání
+  - [x] Podnikání
   - [x] Obchodní závod
   - [x] Pobočka
   - [x] Odštěpný závod
@@ -5715,7 +5828,7 @@ finanční arbitráž- zákon o finančním arbitrovi
     - Běžné PO jsou podnikatelé -> například Obchodní korporace
     - Jsou i PO, které ze zákona podnikat nemohou -> například spolek -> spolek tedy není podnikatelem -> nepodnikající PO
 - **Podnikání**
-  - Podníkání jest.
+  - Podníkání - dá se odvodit od podnikatele.
 - **Obchodní závod**
   - § 502 OZ - Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
   - Ve své podstatě se tak jedná o veškeré jmění, které podnikatel FO používá pro výkon své činnosti.
