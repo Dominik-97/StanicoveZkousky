@@ -1699,7 +1699,10 @@ DODĚLAT
   - **Nejdůležitějším prostředkem ochrany jsou vlastnické žaloby:**
     - Jedná se o civilní žaloby:
       - **Žaloby reivindikační** - vydání neoprávněně zadržované věci, v případě nemovitosti se jedná o **žalobu na vyklizení**
+        - aktivní legitimace: vlastník
+        - pasivní legitimace: zadržovatel
       - **Žaloba negatorní** - zápurčí, žaloba na to, aby se škůdce zdržel svého škodlivého jednání, které narušuje vlastníkovo vlastnické právo
+      - **Žaloba z domnělého vlastnického práva**
 - **Spoluvlastnictví**
   - Jedná se o věc, ke které náleží vlastnické právo několika osobám (právo jednoho vlastníka k celé věci, je tak omezeno právem ostatních vlastníků k téže věci)
 
