@@ -4654,6 +4654,8 @@ DODĚLAT
         - **vedlejší účastník** - účastník s právním zájmem na jeho výsledku (například matka dítěte v řízení o určení otcovství)
           - do řízení vstupuje z vlastního podnětu, nebo na výzvu některého z účastníku učiněnou prostřednictvím soudu (například matka dítěte při rozhodování o určování otcovství)
           - má stejná práva a povinnosti jako účastník
+          - vedlejší účastník se v řízení připojuje k té straně sporu, na jejímž vítězství má právní zájem
+          - má podobné postavení jako účastník, nemůže činit dispoziční úkony
       - U nesporného řízení
         - SZ je standardně pouze jen u NŘ, krom insolvenčního řízení - může vstupovat do řízení a řízení zahajovat
         - **navrhovatel** (například SZ, nebo zdravotní ústav) a ten, **o jehož právech či povinnostech má být v řízení jednáno** - například osoba, která má být omezene ve svéprávnosti
@@ -4683,6 +4685,31 @@ DODĚLAT
           - Dá se odvolat i vypovědět
           - Zaniká dnem právní moci rozsudku, řídí se ustanovením o příkazní smlouvě a z. o advokacii
           - advokát i notář mají právo nechat se zastoupit - substituční plná moc
+
+**Účastníci ve sporném řízení, věcná a procesní legitimace**
+  - Na straně žalobce - aktivní věcná legitimace = ten kdo je podle hmotného práva nositelem subjektivního práva nebo povinnosti, o které soud rozhoduje
+  - Na straně žalovaného - pasivní věcná legitimice = být účastníkem ve smyslu, že byl s žalovaným v takovém vztahu, že je možné ho z něčeho žalovat
+  - Rovněž existuje procesní legitimace = legitimace podle procesního práva = být účastníkem řízení bez toho, aby byl účastník nositelem hmotného práva
+
+**Změny účastníků v řízení**
+ - a- **přistoupení dalšího účastníka**
+  - Na návrh žalobce může soud připustit, aby do řízení přistoupil další účastník. Souhlasu toho, kdo má takto do řízení vstoupit, je třeba, jestliže má vystupovat na straně žalobce.
+ - b- **záměna účastníka**
+  - Na návrh žalobce může soud se souhlasem žalovaného připustit, aby žalobce nebo žalovaný z řízení vystoupil a aby na jeho místo vstoupil někdo jiný. Má-li být takto zaměněn žalobce, je třeba, aby s tím souhlasil i ten, kdo má na jeho místo vstoupit.
+ - c- **procesní nástupnictví - singulární sukcese**
+  - - nutno odlišit od univerzální sukcese => sing. sukcese není spjata se ztrátou způsobilosti být účastníkem řízení, nevede k přerušení ani zastavení řízení (zpravidla)
+  - spojeno s převodem/přechodem jednotlivého práva či povinnosti po zahájení řízení
+  - změna účastníků na straně žalobce či žalovaného
+  - podmínky: návrh žalobce, přivolení soudu, souhlas změnivšího žalobce (u žalovaného netřeba), prokázání převodu/přechodu
+  - nový účastník vstupuje do stavu řízení svého předchůdce
+ - d- **procesní nástupnictví - univerzální sukcese**
+   - Ztratí-li způsobilost být účastníkem řízení fyzická osoba/ (v podstatě i PO) a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, ti, kteří vstoupili do práva nebo povinnosti, o něž v řízení jde.
+   - nástupce musí přijmout stav řízení, který tu je v době jeho nástupu (stejně tak u singulární)
+   - neumožňuje-li povaha věci v řízení pokračovat => řízení se zastaví
+   - nelze-li v řízení pokračovat ihned (např. trvá dědické řízení) => řízení se přeruší
+
+**PROCESNÍ ÚKONY**
+  
 - ~~Aktivní a pasivní legitimace~~
 
 \|--------------------------------------\| <br>
