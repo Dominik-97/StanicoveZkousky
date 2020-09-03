@@ -1708,6 +1708,27 @@ DODĚLAT
 - **Spoluvlastnictví**
   - Jedná se o věc, ke které náleží vlastnické právo několika osobám (právo jednoho vlastníka k celé věci, je tak omezeno právem ostatních vlastníků k téže věci)
   - Plody a užitky se dělí podle podílů
+    - **Druhy spoluvlastnictví:**
+      - **podílové spoluvlastnictví**
+        - Na společné věci má podíl několik osob (spoluvlastnický podíl) - ty rozhodují podle velikosti podílů (o důležitých věcech rozhoduje 2/3, nebo všichni)
+        - Vlastnictví podílů buď reálné, nebo ideální
+      - **společenství**
+        - taky spoluvlastnictví, ale neexistují spoluvlastnické podíly, každá osoba má právo k celé věci, k výkonu vlastnických práv a převádění věci je zpravidla nutný souhlas všech účastníků
+        - za doby trvání je spoluvlastnictví latentní - vysoupí až při zániku - například manželé, nebo společenství dědiců
+      - **bytové spoluvlastnictví**
+        - jedná se o spoluvlastnictví nemovité věci, která je rozdělená na bytové jednotky (v baráku mís být minimálně dvě) - vzniká prohlášením vlastníka baráku
+        - rozděleno na bytové a nebytové prostory - vlastnické právo přímo u spoluvlastníka, který s ním může sám výlučně nakládat
+        - dále společné prostory - vymezeny podle podílu bytových jednotek na celkové ploše
+        - spadá sem například **SVJ** - založen za účelem správy baráku
+      - **přídatné společenství**
+        - o	věc náležící společně několika vlastníkům samostatných věcí určených k takovému užívání, že tyto věci vytvářejí místně i účelem vymezený celek, a které slouží společnému účelu tak, že bez ní není užívání samostatných věcí dobře možné
+          - ->	je v přídatném spoluvlastnictví těchto vlastníků
+        -	věc v případném spoluvlastnictví nesmí být proti vůli některého ze spoluvlastníků odňata společnému účelu
+        -	zatížit jí lze pouze takovým způsobem, který nebrání jejímu využití společnému účelu
+  - Nikdo nemůže být nucen setrvat ve spoluvlastnictví
+    - Řešení:
+      - Oddělení spoluvlastnictví (jen u věcí, které mohou být reálně odděleny)
+      - Zrušení a vypořádání spoluvlastnictví
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1769,6 +1790,8 @@ Definice věcných práv a závazkových práv.
 Pokojná držba.
 
 Požívací a užívací právo.
+
+Dům je buď součástí pozemku, nebo součástní práva stavby (u obou je součástí nemovité věci)
 
 závazková práva jakožto z povahy práva relativní vyjadřují dynamiku občanskoprávních vztahů (výměna různých
 statků mezi individuálně určenými subjekty) x absolutní věcná práva jsou z povahy právy absolutními a vyjadřují tedy
