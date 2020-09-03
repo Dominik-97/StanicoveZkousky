@@ -94,9 +94,11 @@ title: Státnice
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-* Pojem
+* **Pojem**
   * [Občanské právo hmotné](https://www.smarteca.cz/my-reader/15471_20160525_0?fileName=obcanske_pravo_hmotne_dil1_-_2016-epub-6.xhtml&location=pi-167), obash mám jako komentář k nadpisu
   * [Dobrá prezentace na toto téma](https://is.muni.cz/el/1441/podzim2011/OV2MP_VKPR/Obcanske_pravo_hmotne-prezentace.pdf) - zastaralé, odkazuje ještě na původní Občanský zákoník
+
+* **Základ práva**
   * Lidé se při svém chování sledující uspokojení nejrůznějších potřeb a zájmů dostávájí mezi sebou do vzájemných vztahů (společenských vztahů), ale nejenom mezi sebou, uspokojení potřeb se týká například i zvířat, věcí neživých (hmotných a nehmotných) a podobně.
   * Aby tyto vztahy fungovaly správně (aby se zajistila nějaká funkčnost) a nevznikal chaos a nepořádek usmyslela si společnost určitý řád (consensus, jedná se o lidský konstrukt).
   * Tyto pravidla jsou **vyjádřením zásad, na kterých společnost spočívá**, s vývojem společnosti se vyvíjel i tento řád, ten udržuje společnost ve stavu, kde platí jakýsi řád a umožňuje tak společnosti rozvíjet se - například správně nastavený řád je základem pro správné fungování ekonomiky a je asi nejdůležitějším faktorem v rámci okolí firem, bez kterého by firmy nemohly fungovat.
@@ -111,7 +113,9 @@ title: Státnice
   * Tyto dvě výše zmíněné body se řídí **3 zásadními zásadami** = zásady jsou základní pravidla, které ovládají soukromé právo jako systémový celek a prostupují celou právní úpravou, nutnost je respektovat
     * *lex generalis*, pokud není *lex specialis* řídí se všechny práva a povinnosti osob tímto předpisem
     * OZ upravuje obecně osoby a jejich stav - právní následky početí, narození člověka a jeho smrt, nabytí/omezení svéprávnosti, právní subjektivitu u FO a PO, vznik a zánik manželství, vznik a zánik partnerství, PO
-    * OZ shrnuje téma soukromého práva do 4 nejdůležitějších právních institutů, **osoba**, **rodina**, **vlastnictví**, **smlouvy**
+    * OZ shrnuje téma soukromého práva do 4 nejdůležitějších právních institutů, **osoba**, **rodina**, **vlastnictví**, **závazky**
+
+* **Zásady**    
   * Stanovuje mnoho zásad - vymezeno v obecné části občanského zákoníku, obecně do § 14
     * Rovnost osob, ochrana slabší strany - spotřebitel, nájemce, nezletilí
     * výklad a použití právního předpisu nesmí vést ke krutosti/bezohlednosti nebo být v rozporu s dobrými mravy
@@ -135,28 +139,33 @@ title: Státnice
     * Dobrá vůle obejtivně - osoba a všechny ostatní osoby jsou přesvědčeny, že osobě právo patří, a že osoba jedná po právu
     * Dobrá vůle subjektivně - osoba je přesvědčena, že jí právo patří a že jedná po právu
     * *bona fides*
-* Předmět
-  * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy
-mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob,
-pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze definovat předmět občanského práva hmotného jako: _Občanské právo lze vymezit jako obecné soukromé právo, jehož předmětem jsou osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva a na všechny občanskoprávní záležitosti, jež se mezi nimi navzájem příznačně realizují na zásadách jejich autonomie vůle a rovného (rozuměj hmotněprávního) postavení jako nejvýraznějších projevů jejich svobody, důstojnosti a rovnosti v soukromém právu._
+
+* **Předmět**
+  * Předmět stanovuje §1 odstavec 2 Občanského zákoníku, respektive stanovoval za účinnosti starého Občanského zákoníku _majetkové vztahy FO a PO, majetkové vztahy mezi těmito osobami a státem, jakož i vztahy vyplývající z práva na ochranu osob, pokud tyto občanskoprávní vztahy neupravují jiné zákony_ .
+  * Nově lze definovat předmět občanského práva hmotného jako: _Občanské právo lze vymezit jako obecné soukromé právo, jehož předmětem jsou osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva a na všechny občanskoprávní záležitosti, jež se mezi nimi navzájem příznačně realizují na zásadách jejich autonomie vůle a rovného (rozuměj hmotněprávního) postavení jako nejvýraznějších projevů jejich svobody, důstojnosti a rovnosti v soukromém právu._
   * **Předmět** -> obecné soukromé právo, jehož předmětem jsou -> osobní, rodinná a majetková práva a povinnosti subjektivní povahy, které se vztahují na všechny osoby občanského práva + na všechny občanskoprávní záležitosti
-* Prameny
+
+* **Prameny**
+  * Materiální prameny = nepsané skutečnosti, které stát nutí k určité právní úpravě
+  * Formální prameny = psané právo
   * Ve stejné publikaci Občanské právo hmotné od Wolters Kluwer.
   * Zásadním pramenem je Občanský zákoník, jsou ale i další prameny občanského hmotného práva, ZOK, zákon o pojistné smlouvě, zákon o právu autorském, o katastru nemovitostí etc.
   * Prameny občanského práva úplně **low level** vycházejí z Ústavního pořádku Čr, především z Ústavy Čr a Listiny základních práv a svobod.
   * OZ patří mezi nejrozsáhlejší právní kodexy českého právního řádu.
   * **Převažují v něm normy dispozitivní**
   * **OZ patří mezi obecný základ dalších právních odvětví soukromého práva a tvoří základ celého právního řádu**
-  * Dále: ustálená rozhodovací praxe soudů, zvyklosti - pokud se jich dovolává zákon, obecné právní zásady, dobré mravy a veřejný pořádek
-* Systém
+  * Dále: ustálená rozhodovací praxe soudů, zvyklosti - pokud se jich dovolává zákon, obecné právní zásady, dobré mravy a veřejný pořádek, zasahují do něj i mezinárodní smlouvy
+
+* **Systém**
   * Ibid.
   * Děleno do 5 částí:
     * Část první - **obecná část** - obecné zásady, statusové právo FO a PO, PO, ústav, nadace, podnikatel, věci a skutečnosti
-    * Část druhá - **rodiné právo **- manželství, příbuzenství, vztahy mezi rodiči a dětmi
-    * Část třetí - **absolutní majetková práva **- věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo) - princip *numerus clausus*, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
-    * Část čtvrtá - **relativní majetková práva **- závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
-    * Část pátá - **ustanovení společná, přechodná a závěrečná **- legislativně technická problematika, rušení zákonů - například Obchodní zákoník
-* Systematika občanského zákoníku
+    * Část druhá - **rodiné právo** - manželství, příbuzenství, vztahy mezi rodiči a dětmi
+    * Část třetí - **absolutní majetková práva** - věcná práva (vlastnická práva, držba, věcná práva k věci cizí - právo stavby, věcná břemena, zástavní právo, zadržovací právo, předkupní právo) - princip *numerus clausus*, dědické právo, na roveň staveno vlastnictví hmotných a nehmotných statků, zvířata jako nevěci, superficies solo cedit, věcná práva k věcem cizím, držba
+    * Část čtvrtá - **relativní majetková práva** - závazkové právo, smlouvy, závazky z deliktního jednání, odpovědnost za škodu, smlouvy původně upravené v obchodním zákoníku, nekalá soutěž
+    * Část pátá - **ustanovení společná, přechodná a závěrečná** - legislativně technická problematika, rušení zákonů - například Obchodní zákoník
+
+* **Systematika občanského zákoníku**
   * Právní síla.
     * Nad Primární a Sekundární by se dali ještě zařadit mezinárodní smlouvy a právo EU.
     * Primární - zákonné - **Právní předpis legislativy** - ústavní zákony, zákony, zákonná opatření senátu PČr
@@ -168,7 +177,8 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     * Oddíl
     * Pododdíl
   * Ibid.
-* Dispozitivní a kogentní normy v občanském zákoníku
+
+* **Dispozitivní a kogentní normy v občanském zákoníku**
   * Existují kogentní a dispozitivní ustanovení
   * V novém občanském zákoníku platí zásada autonomie vůle, jak si mezi sebou tedy strany ujednají vzájemná práva a povinnosti je čistě na nich, musí se jen řídit základními ustanoveními zákona a rovněž se nesmí odchýlit od kogentních norem daného zákona.
   * Dispozitivní[^1]
@@ -197,6 +207,7 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
     * Rovněž se není možné ochýlit od práva, pokud by takové ujednání mezi stranama porušivalo dobré mravy, nebo veřejný pořádek -> jinak stíženo absolutní neplatností
     * Kogentní části občanského zákoníku:
       * Část například statusová -> nikdo se nemůže vzdát právní subjektivity.
+
 * Obecná část
   * Paragrafy 1 až 14.
 
@@ -246,7 +257,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   - Pokud je zřízeno právo něčemu, co osoba není, přičte se takové právo osobě, které po právu náleží -> tzn. pokud by bylo zřízeno právo věci, přičetlo by se vlastníkovi dané věci.
   - Definice osoby v právním slova smyslu = soubor vlastností, jimiž jsou vybaveni potenciální účastníci právních vztahů.
   - Jinak, čistě obecně řečeno = osobou je každá biosociální bytost bez ohledu na další charakteristiku.
-- **Primárně je potřebné definovat jednotlivé způsobilost a právní osobnost**
+- **Primárně je potřebné definovat jednotlivé způsobilosti a právní osobnost**
 
 * Rozdíl mezi **právní osobností** a **svéprávností**.
   * Právní osobnost (právní subjektivita) - schopnost míz v mezích zákona práva a povinnosti.
@@ -258,6 +269,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   * § 24 - každý člověk odpovídá za své jednání, je-li s to posoudit jej a ovládnout - posouzení je tedy ve vazbě na schopnost posoudit své jednání a své jednání ovládnout.
     * kdo se vlastní vinou přivede do stavu, kdy by jinak za své jednání neodpovídal -> odpovídá za své jednání
     * § 2922 - ti, kteří svým přičiněním přivedli osobu do daného stavu s ní odpovídají společně a nerozdílně
+    * zákon upravuje i zodpovědnost za osobu s nebezpečnými vlastnostmi - zodpovědný je ten, který jí má na starosti
   * v plném rozsahu se nabije plnou svéprávností - nezletilý například nemá plnou deliktní způsobilost -> protože nemůže uzavírat všechny právní jednání
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
 * **Fyzické osoby**
@@ -6103,7 +6115,7 @@ c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
 -	může být omezeno (zvnějšku, zevnitř), ale vůči třetím osobám platí, co je ve VR
 X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím účinná, i když jsou v OR
 	- vnější omezení (ze zákona) > chybí-li zákonem vyžadovaný souhlas nejvyššího orgánu >
-   > relativní neplatnost – OK se může dovolat (SL: 6 měsíců, OL: 10 let)
+   - -> relativní neplatnost – OK se může dovolat (SL: 6 měsíců, OL: 10 let)
 •	zákonné zastoupení jinými osobami
 -	§ 166 obecná úprava pro PO – zaměstnanec, člen, člen orgánu nezapsaného ve VR – zastupují PO i bez pověření, v rozsahu obvyklém vzhledem k zařazení nebo funkci podle stavu, jak se jeví veřejnosti § 430 zvl. úprava pro PO-podnikatele – PO zastupuje kterákoli osoba pověřená činností při provozu závodu
 •	jednání za PO před jejím vznikem
