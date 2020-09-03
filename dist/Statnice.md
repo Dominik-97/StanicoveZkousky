@@ -6031,6 +6031,113 @@ finanční arbitráž- zákon o finančním arbitrovi
   - Doplnit
   - **obchod-A_2017_18, otázka 3**
 
+  1. POJEM PRÁVNÍHO JEDNÁNÍ PODNIKATELE A ZPŮSOBY, JAKÝMI MŮŽE PODNKATEL JEDNAT
+─	OZ odňal PO způsobilost k PJ a tím vyloučil, aby mohly PO jednat osobně  všechny PO musí být při uskutečňování právních jednání zastoupeny
+─	právní jednání  právně relevantní projev vůle navenek; vyvolává vznik, změnu a zánik P@P osob
+─	rozlišení mezi přímým a nepřímým zastoupením:
+a)	přímé zastoupení – zástupce jedná jménem a na účet zastoupeného
+b)	nepřímé zastoupení – zástupce jedná svým jménem na účet zastoupeného
+─	§ 436 OZ – zástupce = osoba oprávněná jednat jménem zastoupeného
+─	PO jsou nejčastěji zastoupeny svými orgány
+─	právní zastoupení lze také rozlišovat podle právního titulu, který zástupce opravňuje
+a)	smluvní – typicky smlouva příkazní (můžou však být i jiné typy smluv) zmocněnec
+– prokura – zvláštní druh smluvního zastoupení
+b)	ze zákona – založeno přímo na základě zákona (např. statutární orgán zastupuje PO)
+c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
+
+2. OBECNÁ ÚPRAVA SVÉPRÁVNOSTI A ZASTOUPENÍ V OZ
+─	svéprávnost = způsobilost k PJ = způsobilost nabývat pro sebe vlastním PJ práva a zavazovat se k povinnostem
+─	FO nabývají plné svéprávnosti zletilostí, jinak je rozsah svéprávnosti u nezletilých osob určen přiměřeností k rozumové a volní vyspělosti dané osoby
+─	pro obchod je významný institut  souhlas zákonného zástupce daný nezletilému k provozování obchodního závodu nebo jiné obdobné výdělečné činnosti (§ 33 OZ) vázán na přivolení soudu
+─	§ 20: PO = organizovaný útvar, o němž zákon stanoví, že má právní osobnost (způsobilost mít v mezích P@P), nebo jehož osobnost zákon uzná (jen P@P, která se slučují s její povahou) + § 118 právní osobnost má od svého vzniku až do svého zániku X PO ale nemá svéprávnost, musí být při PJ vždy zastoupena
+─	[obecná úprava zastoupení je za úpravou osob, ale předchází jí zvl. úprava zastoupení pro podnikatele; navíc prokura, která se týká jen podnikatelů, je zařazena jako zvl. smluvní typ pod obecnou úpravu zastoupení > učebnice: toto řešení je omyl (tj. asi měly být §§ 430-431 jako lex specialis na konci obecných ustanovení obecné úpravy)]
+─	zastoupení je zvláštní tím, že se důsledky (relativního) smluvního závazku promítají do vztahů vůči 3. osobám
+─	smluvní typy, které zakládají zastoupení  IV. část OZ – obligace
+─	↪ jedná se o „Závazky ze smluv příkazního typu“ (§ 2430 OZ an.)
+-	nejvýznamnější a nejširší je příkazní smlouva, dále jde o smlouvu zprostředkovatelskou, komisionářskou, zasílatelskou, obchodní zastoupení a zájezd
+-	přímé zastoupení však zakládá pouze příkazní smlouva a smlouva o obchodním zastoupení (příkazní smlouva však může zakládat i nepřímé zastoupení, nebo z ní nemusí plynout žádné)
+-	za zvl. druh příkazní smlouvy lze považovat smlouvu o výkonu funkce – mezi členem orgánu OK a OK (§ 59 ZOK, ustanovení OZ o příkazu se na ni mají použít přiměřeně)
+─	od smlouvy o zastoupení je nutno odlišit plnou moc jako jednostranný projev vůle
+-	deklaruje třetím osobám oprávnění zástupce jednat jménem zastoupeného
+-	povinnost vystavit příkazníkovi plnou moc (může být obsažena už ve smlouvě)
+-	vyžaduje se písemná forma, pokud se zmocnění netýká jen určitého právního jednání § 441
+─	v případech, kdy je k jednání zmocněna PO, oprávnění jednat přísluší jejímu statutárnímu orgánu nebo jiné osobě, kterou statuární orgán určí (jedna teorie: libovolně, i vně podnikatele – např. externí advokát  odchylka od § 438 OZ – jelikož se nevyžaduje předchozí dohoda se zastoupeným ani nutná potřeba)
+
+3. JEDNÁNÍ PODNIKATELE A JEHO ZASTOUPENÍ
+─	obecná pravidla § 422 OZ – podnikatel vystupuje pod svojí firmou, pokud ji nemá, tak pod vlastním jménem
+─	zvláštní pravidla: § 430-432, platí podnikatele FO i PO (tj. i zvl. úprava vůči jednání za PO)
+•	„zákonné“ zastoupení osobou pověřenou při provozu obchodního závodu určitou činností
+-	§ 430 (1) – pověří-li podnikatel někoho při provozu obchodního závodu určitou činností, zastupuje tato osoba podnikatele ve všech věcech, k nimž při této činnosti obvykle dochází
+-	formální pověření (např. zaměstnanec), nebo neformální: jakýkoli člověk (prosba podnikatele)
+-	rozsah zástupčího oprávnění je dán úměrně vzhledem ve vztahu k činnosti, jíž byl zástupce pověřen
+-	vnitřní omezení rozsahu zástupčího oprávnění nejsou vůči třetím osobám účinná
+-	tradiční název: obchodní plná moc (dle všeobecného ObchZ z r. 1863)
+-	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují
+-	odchylka u překročení rozsahu pověření  překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
+-	zástupce podnikatele má vůči podnikateli zákaz konkurence (§ 432) (týká se asi i smluvních zástupců)
+•	zákonné zastoupení zapsaným vedoucím odštěpného závodu
+-	§ 503 OZ – odštěpný závod = pobočka obchodního závodu, která je zapsána do OR
+-	jeho vedoucí je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl zapsán jako vedoucí do OR
+-	zápis do OR – konstitutivní účinky  vznik zástupčího oprávnění jednat v daných věcech
+-	v mezidobí  § 430 (1) OZ  oprávněn jednat v obvyklých věcech spojených s provozem
+•	jednání nepověřené osoby v provozovně podnikatele
+-	§ 430 (2) OZ – podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna
+-	jednající osoba – nepřikázané jednatelství
+-	při jednáních, k nimž obvykle dochází při činnosti, ohledně níž se taková osoba třetí osobě jeví, že k ní byla podnikatelem pověřena, pokud k jednání došlo v provozovně podnikatele (např.: Vrchní, prchni!)
+
+úprava překročení:
+-	obecně: překročení (příp. nepřikázané jednatelství) musí být dodatečně a bez zbytečného odkladu zastoupeným schváleno; osoba v dobré víře jinak může požadovat plnění či náhradu škody po jednajícím (§ 440)
+-	smluvní z.: je třeba oznámit nesouhlas osobě v dobré víře, jinak se má za to, že je překročení schváleno (§ 446)
+-	podnikatel: v případě dobré víry třetí osoby je podnikatel zavázán vždy a bez dalšího (§ 430)
+
+4. ZASTOUPENÍ PRÁVNICKÝCH OSOB
+─	vůle PO se tvoří hlavně prostřednictvím jejích orgánů (jednatelské orgány, § 151 – 156 OZ)
+─	orgány PO = organizační útvary v rámci PO vzniklé na základě zákona nebo zakladatelského PJ, kt. vytvářejí její vůli
+─	obecně lze říci, že zastoupení PO je možné buď prostřednictvím jejích jednatelských orgánů (statutární orgán nebo v některých případech dozorčí rada), nebo prostřednictvím jiných osob (zákonní: zaměstnanci, členové PO, prokuristé, nebo jiní smluvní zástupci)
+─	PO nemají způsobilost právně jednat (svéprávnost)  musí být při všech PJ zastoupeny; jelikož nemohou díky absenci svéprávnosti nikoho samy zmocnit k zastupování  je nutno považovat orgány PO za zákonné zástupce PO (paradoxy: 1. PO může rozhodnout, jaké orgány tvoří + 2. orgány nemají p. subjektivitu ani svéprávnost)
+─	smluvní zastoupení PO – může vzniknout pouze na základě PJ jejího zástupce, tudíž jako další zastoupení > pak je otázka, zda jde o § 438? učebnice: spíš ne, protože § 438 předpokládá substituci mandátu, tady nejde ani o substituci ani o delegaci, ale o nový, odlišný mandát – zmocnění sui generis > nejedná se o zastoupení zastupujícího (statutárního) orgánu, ale o nezávislé zastoupení PO (< logický problém s nesvéprávností PO)
+•	zákonné zastoupení statutárním orgánem (jeho členem)
+-	přichází v úvahu jen u PO; statutární orgán stanoví zákon
+-	statutární orgán = výkonný orgán, náleží mu působnost řídit fungování PO v každodenních věcech
+-	§ 164 OZ  - generální zástupčí oprávnění – neomezené a vůči třetím osobám neomezitelné
+-	může být omezeno (zvnějšku, zevnitř), ale vůči třetím osobám platí, co je ve VR
+X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím účinná, i když jsou v OR
+	- vnější omezení (ze zákona) > chybí-li zákonem vyžadovaný souhlas nejvyššího orgánu >
+   > relativní neplatnost – OK se může dovolat (SL: 6 měsíců, OL: 10 let)
+•	zákonné zastoupení jinými osobami
+-	§ 166 obecná úprava pro PO – zaměstnanec, člen, člen orgánu nezapsaného ve VR – zastupují PO i bez pověření, v rozsahu obvyklém vzhledem k zařazení nebo funkci podle stavu, jak se jeví veřejnosti § 430 zvl. úprava pro PO-podnikatele – PO zastupuje kterákoli osoba pověřená činností při provozu závodu
+•	jednání za PO před jejím vznikem
+-	podmíněné tím, že PO musí v budoucnu vzniknout a dříve učiněná jednání pro sebe schválí
+-	pokud se nenaplní alespoň jedna z podmínek – jednání zavazuje pouze jednajícího
+-	okruh osob, které mohou za PO před jejím vznikem jednat, není nijak omezen
+-	pro dodatečné schválení jednání PO je daná 3 měsíční lhůta (ale lze i později podle obecné úpravy o převzetí závazku  § 1888 OZ)
+•	opatrovnictví PO
+-	§ 457-464 se týkají FO, byť se to tak ze systematického zařazení nejeví, na PO se vztahují § 486-488
+-	soud jmenuje opatrovníka PO, která to potřebuje, aby mohly být spravovány její záležitosti nebo aby mohla být hájena její práva
+-	OSŘ – soud tak učiní, jestliže tu není osoba oprávněná za PO jednat (nemá dostatečný počet členů statutárního orgánu) nebo je sporné, kdo je osobou oprávněnou za ni jednat (v případě konfliktu zájmů mezi členem statut. orgánu)
+-	P@P opatrovníka platí obdobně ustanovení o členu statutárním orgánu,
+-	působnost opatrovníka se řídí přiměřeně ustanoveními o statutárním orgánu
+5. PROKURA
+─	široká obchodní plná moc, která může být udělena jenom FO (širší než pověření v § 430)
+─	zvláštní případ smluvního zastoupení – prokuru může udělit pouze podnikatel
+─	prokura opravňuje ke všem právním jednáním, která jsou potřebná k provozu závodu, popřípadě pobočky (§ 450 OZ) = nový institut omezené prokury – lze omezit na jednání týkající se pobočky
+─	prokura je PM, která se zapisuje do OR – může ji tedy udělit pouze podnikatel, který je v OR zapsán (zápis do OR má pouze deklaratorní význam)
+─	lze ji udělit pouze písemně a s výslovným vyjádřením, že se jedná o prokuru (či omezenou p. na pobočku)
+─	při podepisování prokurista uvede – firmu, jméno, dodatek (oznámení, že se jedná o prokuru) + pobočku nebo závod v případě omezené prokury
+─	zástupčí oprávnění prokury je skoro neomezené a vůči třetím osobám neomezitelné
+─	omezení prokury:
+─	nemůže jednat ve věcech, které náleží výlučně podnikateli/statutárnímu orgánu (udělit prokuru jinému, svolat valnou hromadu apod.)
+─	nemůže činit jednání, které se dotýkají samé podstaty obchodního závodu (nesmí jej zastavit, zcizit, ledaže to bylo výslovně uvedeno)
+─	prokurista může zmocňovat další osoby a udělovat jim plné moci (omezení z §438 se asi neuplatní, nejde o substituci mandátu, ale jen pověření v jiném rozsahu)
+─	možnost paralelních prokur (pro více lidí) každý z prokuristů je oprávněn jednat samostatně
+─	zánik prokury - je třeba zapsat do OR
+-	prokuru je možno vždy odvolat/vypovědět; dále zaniká pachtem / prodejem závodu
+-	prokura nezaniká smrtí podnikatele!
+─	ze ZOK vyplývá, že prokuristou v OK nemůže být po dobu 3 let od rozhodnutí soudu ten, jehož výkon funkce (fce člena statutárního orgánu či obdobné funkce – např. prokuristy) vedl k úpadku OK (§ 64 ZOK)
+
+•	opatrovnictví u podnikatelů-FO: podnikatel-FO, kt. není plně svéprávný, může být zastoupen při provozu obchodního závodu; nezletilý: zákonnými zástupci podle rodinného práva, zletilý: opatrovníkem
+
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
