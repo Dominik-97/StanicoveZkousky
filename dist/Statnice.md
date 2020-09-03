@@ -2612,7 +2612,7 @@ Lichva.
 - [ ] Závazky z porušení smlouvy
   - [ ] Z prodlení
   - [ ] Z vadného plnění
-  - [ ]mZ újmy způsobené porušením smluvní povinnosti
+  - [ ] Z újmy způsobené porušením smluvní povinnosti
 - [ ] Závazky z bezdůvodného obohacení
 
 \|--------------\| <br>
@@ -2622,6 +2622,321 @@ Lichva.
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
+**Porušení smlouvy**
+  - některá porušení smlouvy zákon sankcionuje tím, že jejich důsledkem je vznik další povinnosti, již dosud strana, která smlouvu porušila, neměla
+  - týká se to porušení spočívajícího v
+    - prodlení
+    - vadném plnění
+    - způsobení újmy
+
+**Prodlení**
+  - do prodlení se dostane ta strana, která nesplní svůj závazek řádně a včas
+    - (§1968 OZ - dlužník, který svůj dluh řádně a včas nesplní, je v prodlení)
+  - ALE
+    - dlužník není za prodlení odpovědný, nemůže-li plnit v důsledku prodlení věřitele
+
+**Prodlení věřitele**
+  - §1975 OZ - věřitel je v prodlení,
+    - nepřijal-li řádně nabídnuté plnění nebo
+    - neposkytl-li dlužníku součinnost potřebnou ke splnění dluhu
+    - je-li věřitel v prodlení a předmětem plnění je věc, nese věřitel po dobu svého prodlení nebezpečí škody na věci, ať již škoda vznikne z jakékoli příčiny
+      - to neplatí, způsobí-li škodu dlužník úmyslně
+  - Dlužník může dluh splnit tím, že uloží plnění do soudní úschovy
+
+**Prodlení dlužníka**
+  - je-li dlužník v prodlení s plněním jakéhokoli dluhu a je za prodlení odpovědný, věřitel může
+    - vymáhat splnění dluhu, nebo
+    - od smlouvy odstoupit za podmínek sjednaných ve smlouvě nebo stanovených zákonem
+  - po dlužníkovi, který je v prodlení se splácením peněžitého dluhu, může věřitel, který řádně splnil své smluvní a zákonné povinnosti, požadovat též zaplacení
+    - sjednaného nebo
+    - stanoveného úroku z prodlení
+      - výši úroku z prodlení stanoví vláda nařízením (nař. vlády č. 351/2013 Sb.) - domnívám se, že teď je to repo sazba + 8,5% p.a.
+    - právo na náhradu škody vzniklé nesplněním peněžitého dluhu má věřitel jen tehdy, není-li kryta úroky z prodlení
+    - §1972 OZ - odchyluje-li se ujednání o úroku z prodlení (týká se jen jeho výše?) od zákona tak, že
+      - se zřetelem ke všem okolnostem a podmínkách případu
+      - zhoršuje postavení věřitele, aniž je pro takovou odchylku spravedlivý důvod má věřitel právo dovolat se na jeho neúčinnost
+    - prohlásí-li soud ujednání o úroku z prodlení za neúčinné, použijí se namísto něho ustanovení zákona (resp. nař. vlády č. 351/2013 Sb.),
+    - LEDAŽE
+    - soud v zájmu spravedlivého řešení rozhodne jinak
+
+VEDLEJŠÍ    
+**Relativní neúčinnost**
+ - §589 OZ - zkracuje-li právní jednání dlužníka uspokojení vykonavatelní pohledávky věřitele, má věřitel právo domáhat se, aby soud určil, že právní jednání dlužníka není vůči věřiteli právně účinné
+ - neúčinnost právního jednání dlužníka se zakládá rozhodnutím soudu o žalobě věřitele, kterou bylo odporováno právnímu jednání dlužníka (odpůrčí žaloba)
+ VEDLEJŠÍ
+
+**Prodlení dlužníka co se nebezpečí škody na věci týče**
+  - dlužník nese po dobu svého prodlení nebezpečí škody na věci, ať již škoda vznikla z jakékoli příčiny, ledaže prokáže, že
+    - by škoda vznikla i při řádném plnění jeho povinnosti nebo
+    - škodu způsobil věřitel nebo vlastník
+  - to platí i tehdy, nakládá-li dlužník s věcí v rozporu s jinými svými povinnostmi ze závazku
+
+**Prodlení dlužníka i věřitele**
+  - §1977 OZ - poruší-li kterákoli strana prodlením svou smluvní povinnost podstatným způsobem
+    - může druhá strana od smlouvy odstoupit,
+    - oznámí-li to prodlévajícímu bez zbytečného odkladu, poté, co se o prodlení dozvěděla
+  - **Podstatné porušení povinnosti**
+    - §2002/1 OZ - podstatné je takové porušení povinnosti, o němž strana porušující smlouvu
+      - již při uzavření smlouvy věděla nebo musela vědět
+      - že by druhá strana smlouvu neuzavřela
+      - kdyby toto porušení předvídala
+    - v ostatních případech se má za to, že porušení podstatné není
+  - **Nepodstatné prodlení**
+    - zakládá-li prodlení jedné ze smluvních stran nepodstatné porušení její smluvní povinnosti, může druhá strana od smlouvy odstoupit poté,
+      - co prodlévající strana svoji povinnost nesplní ani
+      - v dodatečně přiměřené lhůtě, kterou jí druhá strana poskytla výslovně nebo mlčky
+        - oznámí-li věřitel dlužníkovi, že mu
+          - určuje dodatečnou lhůtu k plnění a
+          - již ji neprodlouží
+        - platí, že marným uplynutím této lhůty od smlouvy odstoupil
+      - poskytl-li věřitel dlužníku
+        - nepřiměřené krátkou dodatečnou lhůtu k plnění (nebo neposkytl jí vůbec) a
+        - odstoupí-li od smlouvy po jejím uplynutím nastávají účinky odstoupení teprve po marném uplynutí doby, která měla být dlužníku poskytnuta jako přiměřená
+  - **Fixní závazek**
+    - byla-li ve smlouvě sjednána přesná doba plnění a vyplývá-li (svatba= dort, šaty)
+      - ze smlouvy nebo
+      - z povahy závazku, že věřitel nemůže mít na opožděném plnění zájem, zaniká závazek počátkem prodlení dlužníka (má se za to)
+    - LEDAŽE
+      - věřitel dlužníku bez zbytečného odkladu oznámí, že na splnění smlouvy trvá
+
+**Vadné plnění**
+  - §1914 an. OZ - každý, kdo plní za úplatu jinému, je zavázán plnit
+    - bez vad,
+    - s vlastnostmi
+    - vymíněnými nebo
+    - obvyklými tak, aby
+      - bylo možné použít předmět plnění podle smlouvy, a je-li stranám znám, i podle jejího účelu je-li splněno vadně, má příjemce práva z vadného plnění
+
+ • §1916 OZ - dlužník plní vadně, zejména  
+• poskytne-li předmět plnění, který nemá stanovené nebo sjednané vlastnosti,
+• neupozorní-li na vady, který předmět plnění má, ač se při takovém předmětu obvykle nevyskytují
+• ujistí-li věřitele v rozporu, se skutečností, že předmět plnění nemá žádné vady, nebo
+• zcizí-li cizí věc neoprávněné jako svojí
+
+• k projevu vůle, kterým zcizitel předem omezí zákonný rozsah svých povinností z vadného plnění, se nepřihliží
+ • vzdá-li se nabyvatel předem svého práva z vadného plnění, vyžaduje projev jeho vůle písemnou formou
+• dohoda o modifikaci práv z vadného plnění je možná
+
+• je-li vada
+     • již při uzavírání smlouvy nápadná a zřejmé nebo
+     • lze-li ji zjistit z veřejného seznamu,
+ jde k tíži nabyvatele
+• to neplatí, pokud zcizitel
+     • vadu lstivě zastřel nebo
+     • nabytele výslovně ujistil, že věc takovou vadu nemá nebo že je vůbec bez vad
+
+• §1918 OZ - přenechá-li se věc jak stojí a leží (úhrnkem), jdou její vady k tíži nabyvatele
+• to neplatí
+      • nemá-li věc vlastnost, o níž zcizitel prohlásil, že jí má, nebo
+      • již si nabyvatel vymínil úhrnkem lze přenechat jen soubor věcí
+ Odpovědnost za vady x záruka za jakost
+ • odpovědnost za vady, resp. povinnost nést důsledky porušení povinnosti plnit řádně
+          • vzniká ze zákona a
+          • týká se vad existujicích v době předání
+
+• záruka za jakost
+         • lze dohodnout či poskytnout jednostranně a
+         • týká se jakékoli vady, která se vyskytne v průběhu záruční doby
+         • §1919 OZ - převezme-li zcizitel záruku za jakost, zaručuje se, že
+             • předmět plnění bude po určitou dobu po splnění způsobilý pro použití ke sjednanému účelu a
+            • že si podrží sjednané vlastnosti; nejsou-li vlastnosti sjednány, vztahuje se záruka na účel a vlastnosti obvyklé
+• právní vady
+        • předmět plnění má právní vadu, uplatňuje-li k němu právo třetí osoba; to neplatí, jestliže o takovém omezení nabyvatel věděl nebo musel vědět
+        • kdo na sebe převedl právo k předmětu, o kterém ví, že
+                      • zciziteli nepatří nebo že
+                      • zcizitel není oprávněn takové právo zřídit,
+nemá právo z této vady (třetí osoba, práva k třetím osobám)
+Reklamace vadného plnění
+ • nabyvatel může právo z vadného plnění uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď
+        • označením vady nebo
+        • oznámením, jak se projevuje
+• vadu lze vytknout do šesti měsíců od převzetí předmětu plnění
+ALE
+Reklamace ze záruky
+ • vadu krytou zárukou musí nabyvatel vytknout zciziteli bez zbytečného odkladu poté, kdy měl možnost  
+       • předmět plnění prohlédnout a
+       • vadu zjistit,
+• nejpozději však v reklamační lhůtě určené délkou záruční doby
+Důsledky opožděné reklamace
+ • nevytkl-li nabyvatel vado (ať již ze záruky nebo z odpovědnosti) včas a namítne-li zcizitel opožděné vytknutí, soud nabyvateli právo nepřizná
+• to neplatí, je-li vada důsledkem skutečnosti, o které zcizitel při předání věděl nebo musel vědět
+Stavení běhu času
+• vytkl-li nabyvatel zciziteli vadu oprávněně,
+        • neběží lhůta pro uplatnění práv z vadného plnění ani
+        • záruční doba
+• po dobu, po kterou nabyvatel nemůže vadný předmět užívat
+Vypořádání vadného plnění
+ • je-li vada odstranitelná, může se nabyvatel domáhat buď
+      • opravy, nebo
+      • doplnění toho, co chybí, anebo
+      • přiměřené slevy z ceny
+• je-li vada neodstranitelná a nelze-li pro ní předmět řádné užívat, může nabyvatel buď
+        • odstoupit od smlouvy, anebo
+        • se domáhat přiměřené slevy z ceny
+• je-li vada neodstranitelná ale předmět lze řádně užívat???
+   • může se nabytel zřejmě domáhat jen
+   • přiměřené slevy z ceny
+Vadné plnění x náhrada škody
+• §1925 OZ - právo z vadného plnění nevylučuje právo na náhradu škody
+ • čeho však lze dosáhnout uplatněním práva z vadného plnění, toho se nelze domáhat z jiného právního důvodu  ( např: vadný el. Spotřebič)
+Újma x Škoda
+ • újma může být
+      • majetková (újma na jmění, škoda) ( je povinné ji nahradit)
+      • nemajetková
+• podle OZ se
+     • škoda hradí vždy, jsou-li splněny zákonem stanovené předpoklady pro vznik povinnosti hradit újmu,
+      • nemajetková újma se hradí jen stanoví-li to OZ nebo jiný zákon výslovně anebo je-li to sjednáno (zvláštní zákon o obchodních korporacích)
+Zadostiučinění
+ • §2951/2 OZ - nemajetková újma se odčiní přiměřeným zadostiučiněním
+ • zadostiučinění musí být poskytnuto
+      • v penězích,
+      • nezajistí-li jeho jiná způsob skutečně a dostatečně účinné odčinění způsobené újmy
+Náhrada nemajetkové újmy
+ • §2956 OZ - vznikne-li škůdci povinnost odčinit člověku újmu na jeho přirozeném právu chráněném ustanovením první části OZ nahradí,
+       • škodu i
+       • nemajetkovou újmu,
+kterou tím způsobil
+ • §3/2 ZOK - ukládá-li tento zákon povinnost nahradit újmu, postihuje škůdce i povinnost nahradit nemajetkovou újmu
+ • §2971 OZ - odůvodňuje-li to zvláštní okolnosti, za nichž škůdce způsobil újmu protiprávním činem, zejména
+     • porušil-li z hrubé nedbalosti důležitou právní povinnost, anebo
+     • způsobil-li újmu úmyslně z touhy ničit, ublížit nebo z jiné pohnutky zvlášť zavrženíhodné, nahradí škůdce též nemajetkovou újmu důvodně pociťuje jako osobní neštěstí, které nelze jinak odčinit
+Vznik povinnosti nahradit škodu
+ • předpoklady povinnosti hradit škodu
+   • porušení povinností,
+   • vznik škody,
+   • příčinná souvislost (kauzální nexus), popř.
+   • zavinění
+ Náhrada škody
+ • obecně platí, že předpokladem vzniku povinnosti hradit škodu je zavinění
+• bez ohledu na své zavinění je škůdce povinen nahradit škodu jen v případech stanovených zákonem (objektivní odpovědnost)
+ Jednostranné omezení práva na náhradu újmy
+ • oznámí-li někdo (jednostranné jednání), že svoji povinnost k náhradě újmy vůči jiným osobám
+     • vylučuje nebo
+     • omezuje
+nepřihlíží se k tomu
+Náhrada majetkové a nemajetkové újmy =Prevence
+• nepřihlíží se k ujednání, které předem vylučuje nebo omezuje
+   • povinnost k náhradě újmy způsobené
+         • člověku na jeho přirozených právech, anebo
+         • způsobené úmyslně nebo z hrubé nedbalosti
+   • právo slabší strany na náhradu jakékoli újmy
+ • v těchto případech se práva na náhradu nelze ani platně vzdát
+
+• §2899 OZ - kdo pro sebe přijal nebezpečí oběti, byť tak učinil za takových okolností, že to lze považovat za neprozřetelné, nevzdal se tím práva na náhradu proti tomu, kdo újmu způsobil
+Prevence
+• §2900 OZ - vyžadují-li to
+     • okolnosti případu nebo
+     • zvyklosti soukromého práva
+je každý povinen počítat při svém konání ta, aby nedošlo k neodůvodněné újmě na
+      • svobodě,
+      • životě,
+      • vlastnictví jiného
+Zakročovací povinností
+ • §2901 OZ - vyžadují-li to
+      • okolností případu nebo
+      • zvyklosti soukromého práva
+ má povinnost zakročit na ochranu jiného každý, kdo
+     • vytvořit nebezpečnou situaci nebo
+     • nad ní má kontrolu, anebo
+     • odůvodňuje-li to povaha poměru mezi osobami
+ • povinnost zakročit na ochranu jiného má i ten, kdo může podle svých
+      • možností a
+      • schopností
+snadno odvrátit újmu
+      • o níž ví nebo musí vědět,
+      • že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit
+Preventivní oznamovací povinnost
+      • kdo
+             • porušil právní povinnost, nebo
+             • kdo může a má vědět, že jí poruší,
+• oznámí to bez zbytečného odkladu osobě, které z toho může vzniknout újma, a
+• upozorní ji na možné následky
+• splní-li ten, kdo porušil právní povinnost oznamovací povinnost, nemá poškozený právo na náhradu té újmy, které mohl po oznámení zabránit
+• nezakročí-li ten, komu újma hrozí, k jejímu odvrácení způsobem přiměřeným okolnostem, nese ze svého, čemu mohl zabránit
+Zásah soudu
+ • při vážném ohrožení může ohrožený požadovat, aby soud uložil
+        • vhodné a
+        • přiměřené opatření k odvrácení hrozící újmy
+ Náhoda
+ • újmu způsobenou náhodou nahradí ten, kdo dal ze své vlny k náhodě podnět, zejména tím, že
+       • poruší příkaz, nebo
+       • poškodí zařízení, které má nahodilé újmě zabránit
+Nutná obrana
+ • §2905 OZ - kdo odvrací
+    • od sebe nebo
+    • od jiného,
+protiprávní útok
+    • bezprostředně hrozící nebo
+    • trvající,
+a způsobí přitom útočníkovi újmu, není povinen k její náhradě
+• to neplatí, je-li zjevné, že napadenému hrozí vzhledem k jeho poměrům
+     • újma jen nepatrná nebo
+     • obrana je zcela zjevně nepřiměřená, zejména vzhledem k závažnosti újmy způsobené odvrácením útoku útočníkovi
+Krajní nouze
+ • §2906 OZ - kdo odvrací
+   • od sebe nebo
+   • od jiného,
+přímo hrozící nebezpečí újmy, není povinen k náhradě újmy tím způsobené
+     • nebylo-li za daných okolností možní odvrátit nebezpečí jinak nebo
+• nezpůsobí-li následek zjevně stejně závažný nebo ještě závažnější než újma, která hrozila
+ • to neplatí, vyvolal-li nebezpečí vlastní vinou sám jednající
+• zásadně se netýká nebezpečí způsobeného osobou, ale zejména živelnou katastrofou
+Odvrácení hrozící újmy
+ • při posouzení zda někdo jednal
+        • v nutné obraně, anebo
+        • v krajní nouzi se přihlédne i k omluvitelnému vzrušení mysli toho, kdo odvracel útok nebo jiné nebezpečí
+ • kdo odvracel hrozící újmu, má právo na
+          • náhradu účelně vynaložených nákladů a
+          • náhradu újmy, kterou přitom utrpěl, i proti tomu, v jehož zájmu jednal, nanejvýš však v rozsahu přiměřeném tomu, co odvrátil
+Povinnosti nahradit škodu (porušení dobrých mravů, nedbalost)
+ • §2909 OZ - škůdce, který poškozenému způsobí škodu úmyslným porušením dobrých mravů je povinen ji nahradit
+• vykonává-li však své právo, je škůdce povinen škodu nahradit, jen sledoval-li jako hlavní účel poškození jiného
+Domněnka nedbalosti
+• způsobí-li škůdce poškozenému škodu porušením zákonné povinnosti, má se za to, že škodu zavinil z nedbalosti (důležité pro zavinění)
+ • nejedná-li škůdce tak, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale
+• jestliže škůdce
+       • dá najevo zvláštní znalost, dovednost nebo pečlivost, nebo
+       • se zaváže k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebu,
+a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale
+
+Porušení smluvní povinnosti
+• poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou
+     • druhé straně nebo
+     • i osobě, jejímuž zájmu mělo splnění sjednané povinnosti zjevně sloužit
+
+• ke vzniku povinnosti k náhradě škody není třeba zavinění
+    • překážka vznikla
+          • ze škůdcových osobních poměrů nebo
+          • až v době, kdy byl škůdce s plněním smluvené povinnosti v prodlení, ani překážka,
+          • kterou byl škůdce podle smlouvy povinen překonat, ho však povinnosti k náhradě nezprostí
+Škoda způsobená několika osobami
+ • je-li k náhradě zavázáno několik škůdců, nahradí škodu společně a nerozdílně
+• to platí i
+       • dopustí-li se více osob samostatných protiprávních činů,
+       • z nichž mohl každý způsobit škodlivý následek s pravděpodobností blížící se k jistotě,        • nelze-li určit, která osoba způsobila
+Snížení náhrady
+• §2954 OZ - způsobil-li škůdce škodu
+       • úmyslným trestným činem,
+       • z něhož měl majetkový prospěch může soud na návrh poškozeného rozhodnout o uspokojení z věci, které škůdce z majetkového prospěchu nabyl a to i nepodléhají-li jinak výkonu rozhodnutí
+Bezdůvodné obohacení
+• musí mít majetkovou hodnotu a bylo ho možné vyjádřit v penězích
+• může se jednat o plnění peněžité nebo nepeněžité povahy nebo třeba určitý prospěch z užívaní cizí věci
+• bezdůvodné obohacení znamená, že dosavadní majetek toho, kdo se obohatil, se protiprávně rozmnoží nebo se dosavadní majetek obohaceného zmenšil, ačkoliv by k tomu došlo, kdyby řádně plnil svoji povinnost
+
+Podle OZ:
+1. Plnění bez spravedlivého důvodu - právní důvod, aby někdo někomu něco plnil, nevznikl
+   (Byla uhrazena záloha, přestože k uzavření smlouvy nakonec nedošlo)
+2. Plnění z právního důvodů, který odpadl.
+   (Smlouva byla platně uzavřena, ale později došlo k odstoupení od smlouvy, pokud ze smlouvy již bylo plněno, jedná se o bezdůvodné obohacení)
+3. Protiprávním užitím cizí hodnoty
+( Majetek získaný trestnou činnost, prospěch získaný z nedovoleného podnikán, z obchodování s pašovaným zbožím)
+4. Plnění za jiného - to je případ, kdy má někdo něco plnit, nečiní tak a jeho povinnost za něho splní někdo jiný.
+( Dlužník, za kterého plnil ručitel, se bezdůvodně obohatil a je toto své obohacení povinen vrátit ručiteli)
+• musí být vydáno vše, co bylo bezdůvodně získáno
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
