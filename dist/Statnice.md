@@ -2765,7 +2765,7 @@ VEDLEJŠÍ
 
 - **Reklamace vadného plnění**
   - nabyvatel může primárně vytknout vadu zciziteli -> pokud opraví -> OK, není problém, jinak
-    - nabyvatel může právo z **vadného plnění** uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď
+    - nabyvatel může právo z **vadného plnění** uplatnit u soudu, vytkl-li vadu zciziteli bez zbytečného odkladu poté, kdy měl možnost věc prohlédnout a vadu zjistit, a to buď (vada která se objeví až po převzetí = označuje se jako **skrytá vada**)
       - označením vady nebo
       - oznámením, jak se projevuje
     - vadu lze vytknout do šesti měsíců od převzetí předmětu plnění (u prodávání zboží v obchodě - má se za to, že pokud vada vznikne do 6 měsíců od převzetí, měla jí už od převzetí)
@@ -2796,17 +2796,20 @@ VEDLEJŠÍ
   - je-li vada neodstranitelná ale předmět lze řádně užívat???
    - může se nabytel zřejmě domáhat jen
    - přiměřené slevy z ceny
-Vadné plnění x náhrada škody
-• §1925 OZ - právo z vadného plnění nevylučuje právo na náhradu škody
- • čeho však lze dosáhnout uplatněním práva z vadného plnění, toho se nelze domáhat z jiného právního důvodu  ( např: vadný el. Spotřebič)
-Újma x Škoda
+
+- **Vadné plnění x náhrada škody**
+  - §1925 OZ - právo z vadného plnění nevylučuje právo na náhradu škody
+    - čeho však lze dosáhnout uplatněním práva z vadného plnění, toho se nelze domáhat z jiného právního důvodu  ( např: vadný el. Spotřebič)
+
+- **Újma x Škoda**
  • újma může být
       • majetková (újma na jmění, škoda) ( je povinné ji nahradit)
       • nemajetková
 • podle OZ se
      • škoda hradí vždy, jsou-li splněny zákonem stanovené předpoklady pro vznik povinnosti hradit újmu,
       • nemajetková újma se hradí jen stanoví-li to OZ nebo jiný zákon výslovně anebo je-li to sjednáno (zvláštní zákon o obchodních korporacích)
-Zadostiučinění
+
+- **Zadostiučinění**
  • §2951/2 OZ - nemajetková újma se odčiní přiměřeným zadostiučiněním
  • zadostiučinění musí být poskytnuto
       • v penězích,
@@ -3250,6 +3253,217 @@ Cenová doložka §2154
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+20.Přenechání věci k užití jinému.
+Výprosa
+• §2189 an. OZ - prenechá-li půjčitel výprosníkovi bezplatně věc k užívání, a nesjednají si
+        • dobu, po kterou se má věc užívat, ani
+        • účel, ke kterému se má věc užívat
+vzniká výprosa
+• výprosou se zásadně přenechává k užívání věc nezuživatelná, zuživatelná jen tehdy, nemá-li být spotřebována, ale použita jiným způsobem
+
+Výpůjčka
+ • §2193 an. OZ - smlouvou o výpůjčce půjčitel
+        • přenechává vypůjčiteli nezuživatelnou věc a
+        • zavazuje se mu umožnit její bezplatné dočasné užívání
+vypůjčitel není oprávněn věc přenechat jiné osobě bez svolení půjčitele
+
+ • půjčitel přenechá vypůjčiteli věc ve stavu způsobilou k užívání
+• půjčitel poučí vypůjčitele, jak věc užívat, nejde-li o pravidla obecně známá
+
+• způsobí-li
+      • vada věci, kterou půjčitel zatajil, nebo
+      • nedostatek poučení
+vypůjčiteli škodu, půjčitel ji vypůjčiteli nahradí
+
+• byla-li sjednána doba užívání, vrátí vypůjčitel věc ve sjednané době
+• byl-li sjednán jen účel (nikoli doba uživání), k němuž se má věc užívat, vypůjčitel
+      • začne věc užívat bez zbytečného odkladu a
+      • po splnění účeli ji bez zbytečného odkladu vrátí
+
+• půjčitel se nemůže domáhat předčasného vrácení věci; to neplatí, užije-li vypůjčitel věc v rozporu se smlouvou
+• potřebuje-li půjčitel věc nevyhnutelně dříve z důvodu, který nemohl při uzavření smlouvy předvídat, může se domáhat jejího předčasného vrácení, jen bylo-li sjednáno
+• obvyklé náklady spojené s užíváním věci nese vypůjčitel ze svého
+Nájem
+• §2201 an, OZ - nájemní smlouvou se
+             • pronajímatel zavazuje přenechat nájemci věc k dočasnému užívání a
+             • nájemce se zavazuje platit za to pronajímateli nájemné
+• pronajmout lze věc
+              • nemovitou i
+              • nezuživatelnou věc movitou
+• pronajmout lze i věc, která v budoucnu teprve vznikne, je-li ji možné dostatečně přesně určit při uzavření nájemní smlouvy
+• je-li pronajatá věc zapsána do veřejného seznamu, může
+          • vlastník věci nebo
+          • s jeho souhlasem nájemce
+ navrhnout zápis nájeního práva do veřejného seznamu
+ Doba trvání nájmu
+• nesjednají-li strany
+        • dobu trvání nebo
+        • den skončení nájmu, platí, že se jedná o nájem na dobu neurčitou
+ • sjednají-li strany nájem na dobu určitou delší než padesát let, má se za to, že byl nájem sjednán na dobu neurčitou s tím, že v prvních padesáti letech lze nájem vypovědět jen
+        • ze sjednaných výpovědních důvodů a
+        • ve sjednané výpovědní době
+Pronajímatel
+• nájemní smlouva pronajímatele zavazuje
+           • přenechat věc nájemci tak, aby ji mohl užívat k ujednanému nebo obvyklému účelu,
+           • udržovat věc v takovém stavu, aby mohla sloužit tomu užívání, pro které byla pronajata,
+           • zajistit nájemci nerušené užívání věci po dobu nájmu
+• po dobu nájmu provádí běžnou údržbu věci nájemce, ledaže se k ní zavázal pronajímatel
+• ostatní údržbu věci a její nezbytné opravy provádí pronajímatel, ledaže se k tomu zavázel nájemce
+• pronajímatel neodpovídá za vadu, o které v době uzavření nájemní smlouvy strany věděly a které nebrání v užívání věci
+• oznámí-li nájemce řádně a včas pronajímateli vadu věci, kterou má pronajímatel odstranit,
+        • neodstraní-li ji pronajímatel bez zbytečného odkladu, takže
+        • nájemce může věc užívat jen s obtížemi
+   má nájemce
+         • právo na přiměřenou slevu z nájemného nebo
+         • může provést opravu sám a požadovat náhradu účelně vynaložených nákladů
+
+ • ztěžuje-li však vada zásadním způsobem užívání, nebo znemožňuje-li je zcela, má nájemce právo
+         • na prominutí nájemného nebo
+         • může nájem vypovědět bez výpovědní doby
+
+• ukáže-li se během nájmu potřeba provést
+         • nezbytnou opravu věci,
+         • kterou nelze odložit,
+ musí si nájemce strpět, i když mu provedení opravy způsobí obtíže nebo omezí užívání věci
+ Nájemce
+• nájemce je i bez zvláštního ujednání povinen
+   • užívat věc jako řádný hospodář ke sjednanému nebo obvyklému účelu, a
+   • platit nájemné
+ • oznámí-li to pronajímatel předem v příměřené době, umožní mu nájemce v nezbytném rozsahu
+    • prohlídku věci,
+    • i přístup k ní nebo do ní
+za účelem provedení potřebné opravy nebo údržby věci
+ • předchozí oznámení se nevyžaduje, je-li nezbytné zabránit škodě nebo hrozí-li nebezpečí z prodlení
+Podnájem
+• souhlasí-li pronajímatel, může nájemce zřídit třetí osobě k věci užívací právo; byla-li nájemní smlouva uzavřena v písemné formě, vyžaduje i souhlas pronajímatele písemnou formou
+ • zřídí-li nájemce třetí osobě užívací právo k věci bez souhlasu pronajímatele, považuje se to za hrubé porušení nájemcových povinností způsobující pronajímateli vážnější újmu
+Nájemné
+ • nájemné se platí
+      • ve sjednané vyši, a
+      • není-li sjednána, platí se ve výši obvyklé v době uzavření nájemní smlouvy
+• nájemné lze platit i jinak než v penězích
+• nájemné se platí měsíčně pozadu
+Změna vlastnictví
+• změní-li se vlastník věci, přejdou práva a povinnosti z nájmu na nového vlastníka
+ • převedl-li pronajímatel vlastnické právo k věci, nejsou pro nového vlastníka závazné ujednání o pronajímatelových povinnostech, které zákon nestanoví
+• to neplatí, pokud nový vlastník o těchto ujednáních věděl
+Skončení nájmu
+ • nájem skončí též
+       • zánikem pronajaté věci,
+       • uplynutím doby nájmu,
+       • výpovědí
+Výpověď nájmu
+ • stane-li se věc nepoužitelnou z důvodu, které nejsou na straně nájemce, má nájemce právo nájem vypovědět bez výpovědní doby
+ • užívá-li nájemce věc takovým způsobem, že se opotřebovává nad přiměřenou míru nebo že hrozí její zníčení,
+          • vyzve ho pronajímatel, aby věc užíval řádně,
+          • dá mu přiměřenou lhůtu k nápravě a
+          • upozorní jej na následky neuposlechnutí výzvy
+ • výzva vyžaduje písemnou formu a musí být nájemci doručena
+
+• neuposlechne-li nájemce výzvy, má pronajímatel právo nájem vypovědět bez výpovědní doby
+• hrozí-li však naléhavé vážné nebezpečí z prodlení, á pronajímatel právo nájem vypovědět bez výpovědní doby, aniž nájemce vyzval k nápravě
+• pronajímatel má právo postupovat stejně, nezaplatí-li nájemce nájemné ani do splatnosti příštího nájemného
+
+• nájem sjednaný na dobu určitou může každá ze stran vypovědět jen v případě, že ve smlouvě byly zároveň sjednány
+          • důvody výpovědi a
+          • výpovědní doba
+• užívá-li nájemce věc i po uplynutí nájemní doby a pronajímatel ho do jednoho měsíce nevyzve, aby mu věc odevzdal, platí, že nájemní smlouva byla znovu uzavřena za podmínek sjednaných původně
+
+• nájem sjednaný na dobu neurčitou skončí výpovědí jednou ze stran
+• jde-li o věc movitou, je výpovědní doba jednoměsíční, jedná-li se o věc nemovitou, je tříměsíční
+ • výpověď nemusí být odůvodněna; to neplatí, má-li strana právo vypovědět nájem bez výpovědní doby
+
+• §2232 OZ - porušuje-li strana zvlášť závažným způsobem své povinnosti, a tím působí značnou újmu druhé straně, má dotčená strana právo vypovědět nájem bez výpovědní doby
+ Zvláštní ústanovení o nájmu bytu a nájmu domu
+ • zavazuje-li nájemní smlouva pronajímatele přenechat nájemci k zajištění bytových potřeb nájemce
+   • byt nebo
+   • dům, který je předmětem nájmu, nepřihlíží se k ujednáním zkracujícím nájemcova práva vyplývající ze zákona
+ • smlouva vyžaduje písemnou formu •
+ pronajímatel však nemá právo namítnout vůči nájemci neplatnost smlouvy pro nedostatek formy
+• nepříhlíží se k ujednání ukládájícímu nájemci povinnost
+            • zaplatit pronajímateli smluvní pokutu,
+            • která je vzhledem k okolnostem zjevně nepřiměřená
+Další nájmy s právní úpravou
+ • nájem prostoru sloužícího podnikání
+ • podnikatelský pronájem věcí movitých
+• nájem dopravního prostředku
+ • ubytování (přechodný nájem)
+Pacht
+• §2332 OZ - pachtovní smlouvou se
+     • propachtovatel zavazuje přenechat pachtýři věc k dočasnému užívání a používání a
+     • pachtýř se zavazuje platit propachtovateli pachtovné nebo poskytnout poměrnou část výnosu z věci
+• je-li propachtovaná věc zapsaná do veřejného seznamu, může
+    • vlastník věci nebo
+    • s jeho souhlasem pachtýř navrhnout zápis pachtovního práva do veřejného seznamu
+ • pachtýř pečuje o propachtovanou věc jako řádný hospodář
+ Zemědělský pacht
+ • je-li propachtován zemědělský nebo lesní pozemek, je sjendán zemědělský pacht
+ • je-li zemědělský pacht sjednán na dobu delší než dva roky a smlouva není uzavřená v písemné formě, má se za to, že byl pacht sjednán na dobu neurčitou
+ • pachtovné se platí ročně pozadu a je splatné k 1. říjnu
+• pacht sjednaný na dobu neurčitou lze vypovědět v dvanáctiměsíční výpovědní době
+Pacht závodu
+• §2349 OZ - je-li propachtován závod, pachtýř jej užívá i požívá způsobem a v rozsahu, v jakém je toho třeba k řádnému provozování závodu
+• předmět činnosti provozované v závodu může pachtýř změnit, jen bylo-li to výslovně sjednáno
+ • pach závodu se považuje za převod činnosti zaměstnavatele
+• je-li pachtýř zapsán v OR, nabývá právo k závodu zveřejněním údaje, že uložil doklad o pachtu závodu do sbírky listin OR
+• není-li pachtýř zapsán do OR, nabývá právo k závodu účinnosti smlouvy
+• propachtováním závodu se pachtýř stává věřitelem pohledávek a dlužníkem dluhů, které s provozem závodu souvisí; z dluhů však přejímá jen ty, o jejichž existencí vědět nebo ji alespoň musel rozumně předpokládat
+• neudělal-li věřitel souhlas k převzetí dluhu pachtýřem, ručí propachtovatel za jeho splnění
+• nabytí pohledávek pachtýřem se jinak řídí ustanovením o postoupením pohledávek
+• propachtovatel oznámí bez zbytečného odkladu svým věřitelům a dlužníkům, jejichž pohledávky a dluhy pachtýř pachtem závodu nabyl, že závod propachtoval
+• zhorší-li se pachtem dobytnost pohledávky, má věřitel propachtovatele, který s pachtem nesouhlasil, právo domáhat se, aby soud rozhodl, že pacht je vůči němu neúčinný
+• dnem zániku pachtu přechátí dluhy a pohledávky, které k závodu náleží na propachtovatele; z dluhů však nabývá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat
+• pachtýř oznámí svým věřitelům a dlužníkům, jejichž pohledávky a dluhy pachtýř pachtem závodu nabyl, bez zbytečného odkladu, že pacht zanikl
+ Licence
+ • §2358 OZ - licenční smlouvou
+         • poskytuje poskytovatel nabyvateli oprávnění výkonu práva duševního vlastnictví (licenci) ve sjednaném omezeném nebo neomezeném rozsahu a
+         • nabyvatel se zavazuje, není-li sjednáno jinak, poskytnout poskytovateli odměnu
+
+• smlouva vyžaduje písemnou formu jen,
+        • poskytuje-li se licence výhradní, nebo
+        • má-li být licence zapsána do příslušného veřejného seznamu
+• licence k předmětu průmyslového vlastnictví zapsanému do veřejného seznamu je účinná vůči třetím osobám zápisem do tohoto seznamu
+Výhradní nebo nevýhradní licence
+  • je-li sjednána výhradní licence, poskytovatel nemá právo poskytnout tutéž licenci třetí osobě po dobu, co výhradní licence trvá
+• poskytne-li poskytovatel za trvání výhradní licence nabyvatele, bez jeho souhlasu uděleného v písemné formě, licenci třetí osobě, licence nevznikne
+Odměna
+ • není-li sjednána
+      • výše odměny nebo způsob jejího určení ani
+      • bezplatné poskytnutí licence,
+je smlouva přesto platná, pokud z jednání stran o uzavření smlouvy vyplývá jejich vůle uzavřít úplatnou smlouvu i bez určení výše odměny
+Výpověď
+ • je-li smlouva uzavřena na dobu neurčitou, nabývá výpověď účinnosti uplynutím jednoho roku od konce kalendářního měsíce, v němž výpověď došla druhé straně
+Licence k předmětům chráněným autorským zákonem
+ • pro licenci k předmětům chráněným autorským zákonem obsahuje OZ zvláštní úpravu
+ • to platí i pro nakladatelskou licenční smlouvu
+Zápůjčka
+ • §2390 OZ - přenechá-li zapůjčitel vydlužiteli zastupitelnou věc tak, aby
+         • ji užil podle libosti a
+         • po čase vrátil věc stejného druhu
+ vznikne smlouva o zápůjčce
+ • smlouva o zápůjčce je tzv. reálnou smlouvou, k jejímu uzavření
+       • nepostačuje projev vůle stran, ale
+       • je nutné, také přenechání předmětu zápůjčky vydlužiteli
+• při nepeněžité zápůjčce se vrací věc stejného druhu, jaká byla zápůjčkou dána; nrzáleží na tom, zda její cena mezitím stoupla nebo klesla
+• při peněžité zápůjčce lze ujednat úroky
+• totéž platí o zápůjčce poskytnuté v cenných papírech
+• neurčí-li smlouva, kdy má být zápůjčka vrácena, je splatnost závislá na vypovězení smlouvy
+• není-li o výpovědí sjedáno nic jiného, je výpovědní doba šest týdnů
+• nejsou-li sjednány úroky, může vydlužitel zápůjčku splatit i bez výpovědi
+• bylo-li sjednáno vrácení zápůjčky ve splátkách může zapůjčitel od smlouvy odstoupit a požadovat splnění dluhu i s úroky při prodlení vydlužitele s vrácením
+            • více než dvou splátek nebo
+            • jedné splátky po dobu delší než tři měsíce
+Úvěr
+ • §2395 OZ - smlouvou o úvěru se
+           • úvěrující zavazuje, že úvěrovanému poskytne na jeho požádání a v jeho prospěch peněžní prostředky do určité částky, a
+           • úvěrovaný se zavazuje poskytnuté peněžn prostředky vrátit a zaplatit úroky
+• úvěrovaný může uplatnit právo na poskytnutí peněz ve lhůtě určené ve smlouvě, jinak dokud závazek ze smlouvy trvá
+ • váže-li smlouva použití úvěru jen na určitý účel, může úvěrující omezit poskytnutí peněz pouze na plnění povinnosti úvěrovaného vzniklých v souvislosti s tímto účelem
+ • úvěrovaný vrátí úvěrujícímu poskytnuté peněžní prostředky v dohodnuté době, jinak do měsíce ode dne, kdy byl o vrácení požádán
+• mají-li být peněžní prostředky použity podle smlouvy pouze na určitý účel a úvěrovaný je použije na jiný účel, může úvěrující
+      • od smlouvy odstoupit a
+      • požadovat, aby úvěrovaný bez zbytečného odkladu vrátil, co od něho získal, i s úroky
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
