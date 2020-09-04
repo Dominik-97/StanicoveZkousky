@@ -10356,8 +10356,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [x] Instrumenty finančního trh
   - [x] Typy cenných papírů
 - [x] Úloha finančních trhů v ekonomice
-- [ ] Investiční rozhodování
-  - [ ] Časová hodnota peněz
+- [x] Investiční rozhodování
+  - [x] Časová hodnota peněz
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10435,58 +10435,60 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - **Definice cenných papírů**
   - Cenný papír je listina, která představuje pohledávku vlastníka vůči tomu, kdo cenný papír emitoval.
 
-Klasifikace cenných papírů
-Základním členěním cenných papírů je členění podle ztělesněného práva v cenném papíru. Podle tohoto kritéria rozlišujeme zbožové papíry, papíry peněžního trhu a papíry kapitálového trhu.
-Zbožovými cennými papíry jsou skladní listy, lodní listy, konosamenty atd. V těchto papírech je vyjádřeno, komu patří určité zboží a kdo má právo s tímto zbožím disponovat. Tyto cenné papíry nepředstavují investiční instrument, nýbrž ztělesňují právo na určitou věc.
-Do cenných papírů peněžního trhů patří státní pokladniční poukázky, komerční papíry a depozitní certifikáty. Tyto papíry jsou investičními instrumenty a ztělesňují krátkodobé pohledávky.
+- **Klasifikace cenných papírů**
+  - Základním členěním cenných papírů je členění podle ztělesněného práva v cenném papíru. Podle tohoto kritéria rozlišujeme zbožové papíry, papíry peněžního trhu a papíry kapitálového trhu.
+    - Zbožovými cennými papíry jsou skladní listy, lodní listy, konosamenty atd. V těchto papírech je vyjádřeno, komu patří určité zboží a kdo má právo s tímto zbožím disponovat. Tyto cenné papíry nepředstavují investiční instrument, nýbrž ztělesňují právo na určitou věc.
+  - Do cenných papírů peněžního trhů patří státní pokladniční poukázky, komerční papíry a depozitní certifikáty. Tyto papíry jsou investičními instrumenty a ztělesňují krátkodobé pohledávky.
 
-Cenné papíry kapitálového trhu ztělesňují pohledávky nebo podíly. Tyto cenné papíry lze dělit podle různých hledisek:
-1.	Podle ztělesněného práva rozlišujeme dluhové cenné papíry a majetkové cenné papíry. Do dluhových cenných papírů patří dluhopisy, do majetkových akcie a podílové listy.
+- Cenné papíry kapitálového trhu ztělesňují pohledávky nebo podíly. Tyto cenné papíry lze dělit podle různých hledisek:
+  - 1.	Podle ztělesněného práva rozlišujeme dluhové cenné papíry a majetkové cenné papíry. Do dluhových cenných papírů patří dluhopisy, do majetkových akcie a podílové listy/kmenoví/zatimní listy.
+  - 2.	Podle charakteru důchodů klasifikujeme cenné papíry takto:
+    - a)	cenné papíry s pevným zúročením, u kterých je emitent povinen platit pravidelně peněžní částky, k nimž se zavázal;
+    - b)	cenné papíry s proměnlivým zúročením, kdy se v pravidelných časových intervalech provádí přizpůsobení nominálního zúročení aktuální úrokové úrovni;
+    - c)	cenné papíry s nulovými platbami, kde je výnos dosažen rozdílem mezi emisním a umořovacím kursem;
+      - umořování je splacení části pohledávky (což CP vlastně je), **umoření CP jako takového** je něco jiného -> jedná se o soudní nahrazení zničené, nebo ztracené akcie
+    - d)	cenné papíry s proměnlivým výnosem, kde jsou platby závislé na výsledku hospodaření emitenta (např. akcie)
+  - 3.	Podle převoditelnosti rozlišujeme:
+    - a)	cenné papíry na doručitele (na majitele), kdy se za vlastníka považuje ten, kdo cenné papíry předloží; zaručují nejvyšší stupeň převoditelnosti, protože změna vlastnictví se realizuje pouhým předáním cenného papíru;
+    - b)	cenné papíry na řad (order papíry), na kterých je vyznačeno jméno oprávněné osoby (nebo názvu firmy) s doložkou na řad; převod práva na plnění se uskutečňuje zvláštním písemným prohlášením zpravidla na rubu cenného papíru indosamentem (rubopisem);
+    - c) cenné papíry na jméno, na kterých je uvedeno jméno oprávněného a převod vlastnického práva se uskutečňuje cesí, přičemž je třeba o této skutečnosti uvědomit emitenta.
+  - 4. Podle formy - viz cenné papíry otázka Obch.Práv.
 
-2.	Podle charakteru důchodů klasifikujeme cenné papíry takto:
+- **Investiční rozhodování**
+  - Investiční rozhodování je ovlivněno tím, že různé investice mohou přinášet různě vysoký výnos po různě dlouhou dobu. Cílem investičního rozhodování je určení nejvýhodnější investice.
+- **Oblasti IR**
+  - 1- kapitálové plánování
+    - Zde se jedná především o strategický plán podniku a tedy například i kolik peněz bude vynaloženo na investice
+    - Dále se volí investiční strategie - více riziková, konzervativnější etc.
+      - Zde se volí investiční projekt - je možné jej volit podle mnoha kritérií - standardně se volí podle přínosnosti, ale může se volit i podle typu peněžních toků z investic, rizika etc.
+    - Standardně bývá vypracována nějaká analýza - například feasibility studies
+  - 2- očekáváné peněžní toky
+    - jsou zásadní pro rozhodování kolik a kam bude investováno
+  - 3- kritéria investičního rozhodování
+    - Při zvolení potenciálních investičních projektů se hodnotí podle jejich přínosnosti, většinou finanční, ale například i ve smyslu podílu na trhu
+    - Používají se k tomu jednotlivé metody:
+      - Čistá současná hodnota - vypočítáno kolik peněz projekt za dobu své investice přinese (po odečtení nákladů na investici)
+      - Vnitřní výnosové procento
+      - Doba návratnosti
+      - Obecně se pro stanovení kritérií investičního rozhodování se používá metoda současné hodnoty celého toku budoucích výnosů z daného kapitálového statku. Vypočítáme ji na základě diskontování toku budoucích výnosů úrokovou mírou.
+        - Diskontování je matematický postup, kdy jsou diskontovány (přepočítány a sečteny) budoucí výnosy (zisky/peníze/peněžní toky) v jednotlivých obdobích na současnou hodnotu investice (Present value) s použitím diskontní míry (odhadnuté výnosové míry).
+        - Pro investování daného objemu prostředků firma volí tu s nejvyšší současnou hodnotu očekávaného toku budoucích výnosů.
+  - 4- Riziko spojené s vyhodnocením investic
+    - Souvisí s **risk management** - hodnotí se jak je investice riziková, podle toho se upravují různé výpočty návratnosti investice (například změnou diskontní sazby pro diskontování investice)
 
-a)	cenné papíry s pevným zúročením, u kterých je emitent povinen platit pravidelně peněžní částky, k nimž se zavázal;
-
-b)	cenné papíry s proměnlivým zúročením, kdy se v pravidelných časových intervalech provádí přizpůsobení nominálního zúročení aktuální úrokové úrovni;
-
-
-c)	cenné papíry s nulovými platbami, kde je výnos dosažen rozdílem mezi emisním a umořovacím kursem;
-
-d)	cenné papíry s proměnlivým výnosem, kde jsou platby závislé na výsledku hospodaření emitenta (např. akcie)
-
-3.	Podle převoditelnosti rozlišujeme:
-
-a)	cenné papíry na doručitele (na majitele), kdy se za vlastníka považuje ten, kdo cenné papíry předloží; zaručují nejvyšší stupeň převoditelnosti, protože změna vlastnictví se realizuje pouhým předáním cenného papíru;
-
-b)	cenné papíry na řad (order papíry), na kterých je vyznačeno jméno oprávněné osoby (nebo názvu firmy) s doložkou na řad; převod práva na plnění se uskutečňuje zvláštním písemným prohlášením zpravidla na rubu cenného papíru indosamentem (rubopisem);
-
-
-c) cenné papíry na jméno, na kterých je uvedeno jméno oprávněného a převod vlastnického práva se uskutečňuje cesí, přičemž je třeba o této skutečnosti uvědomit emitenta.
-
-
-
-
-
-
-
-
-
-    Investiční rozhodování
-    Investiční rozhodování je ovlivněno tím, že různé investice mohou přinášet různě vysoký výnos po různě dlouhou dobu. Cílem investičního rozhodování je určení nejvýhodnější investice. Pro stanovení kritérií investičního rozhodování se používá metoda současné hodnoty celého toku budoucích výnosů z daného kapitálového statku. Vypočítáme ji na základě diskontování toku budoucích výnosů úrokovou mírou podle vzorce:
-
-    	diskont je úrok ode dne výplaty do dne splatnosti pohledávky. SH je současná hodnota celého toku očekávaných budoucích výnosů. Nn je čistý roční výnos z daného kapitálového statku v i-tém roce jeho životnosti, ta je n-let. i je roční úroková míra, bereme jí jako předpoklad čili se nemění. Za předpokladu neměnné platby po celé období :
-
-    	Pro investování daného objemu prostředků firma volí tu s nejvyšší současnou hodnotu očekávaného toku budoucích výnosů.
-
-    Časová hodnota peněz:
-
-    •	peníze získané nyní mají vyšší hodnotu než peníze získané v budoucnu
-    •	dostanu-li dnes 1000 Kč, mohu je uložit do banky s určitým úrokem (například 10 %). Za rok si z banky mohu vybrat 1100 Kč, což je více než kdybych dostal 1000 Kč v budoucnu
-    •	při výnosovém ocenění je postup opačný: potřeba vyjádřit současnou hodnotu budoucích výnosů firmy
-    •	pro investora má koruna dnes větší cenu než koruna za rok, proto budou očekávané výnosy v budoucnosti mít nižší hodnotu než v současnosti
-    •	převedení budoucí hodnoty na současnou označujeme jako diskontování
-    •	Příjmová (výnosová) metoda odvozuje hodnotu majetku od hodnoty budoucích příjmů z vlastnictví, které z něho lze získat, tj. od výnosové schopnosti majetku. Současná hodnota budoucích příjmů se zjišťuje procesem diskontování budoucích hodnot příjmů na jejich současnou hodnotu na základě tržní míry výnosnosti.
-    •	Ocenění majetku z hlediska jeho výnosové schopnosti je zpravidla prováděno na základě dvou metod: přímé kapitalizace a/nebo diskontovaného cash flow. Obě metody jsou založeny na postupu, který odvozuje hodnotu majetku od jeho schopnosti produkovat požadovanou míru výnosnosti. Metoda přímé kapitalizace je aplikovatelná v případech, kdy se jedná o zavedené majetky, které již vykazují určitou příjmovou stabilitu a k jejichž provozování nejsou nutné žádné větší investiční akce. Metoda diskontovaného cash flow se obvykle upřednostňuje před metodou přímé kapitalizace v případech, kdy se v budoucích obdobích očekávají větší investiční výdaje nebo existují podstatné výkyvy v ročních výnosech.
+- **Časová hodnota peněz:** = funkce vyjadřující budoucí hodnotu peněz
+  -	peníze získané nyní mají vyšší hodnotu než peníze získané v budoucnu
+    -	dostanu-li dnes 1000 Kč, mohu je uložit do banky s určitým úrokem (například 10 %). Za rok si z banky mohu vybrat 1100 Kč, což je více než kdybych dostal 1000 Kč v budoucnu
+    -	při výnosovém ocenění je postup opačný: potřeba vyjádřit současnou hodnotu budoucích výnosů firmy
+    -	pro investora má koruna dnes větší cenu než koruna za rok, proto budou očekávané výnosy v budoucnosti mít nižší hodnotu než v současnosti
+    -	převedení budoucí hodnoty na současnou označujeme jako diskontování
+    -	Příjmová (výnosová) metoda odvozuje hodnotu majetku od hodnoty budoucích příjmů z vlastnictví, které z něho lze získat, tj. od výnosové schopnosti majetku.
+      - Současná hodnota budoucích příjmů se zjišťuje procesem diskontování budoucích hodnot příjmů na jejich současnou hodnotu na základě tržní míry výnosnosti.
+    -	Ocenění majetku z hlediska jeho výnosové schopnosti je zpravidla prováděno na základě dvou metod:
+      - přímé kapitalizace a/nebo diskontovaného cash flow.
+      - Obě metody jsou založeny na postupu, který odvozuje hodnotu majetku od jeho schopnosti produkovat požadovanou míru výnosnosti.
+      - Metoda přímé kapitalizace je aplikovatelná v případech, kdy se jedná o zavedené majetky, které již vykazují určitou příjmovou stabilitu a k jejichž provozování nejsou nutné žádné větší investiční akce.
+      - Metoda diskontovaného cash flow se obvykle upřednostňuje před metodou přímé kapitalizace v případech, kdy se v budoucích obdobích očekávají větší investiční výdaje nebo existují podstatné výkyvy v ročních výnosech.
 
 ----
 :::
