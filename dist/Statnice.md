@@ -10510,12 +10510,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - [ ] Monetární politika
   - [x] Cíle
   - [x] Hlavní subjekt a měnové nástroje ČNB
-  - [ ] Inflace
-    - [ ] Příčiny
-    - [ ] Pojem
-    - [ ] Typy
-    - [ ] Měření
-    - [ ] Důsledky
+  - [x] Inflace
+    - [x] Příčiny
+    - [x] Pojem
+    - [x] Typy
+    - [x] Měření
+    - [x] Důsledky
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10662,8 +10662,8 @@ Kurzy
       - Kráčivá, nebo pádivá inflace: 10 - 99%
       - Hyperinflace: nad 100%
     - **Dle příčiny**:
-      - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou**
-        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny, je tedy způsobena impulzy na poptávkové straně - zvýšení důchodů, snižování daná, snadný přístup k úvěrům atd.
+      - Veškerá inflace závisí na **inflačních impulzech** a následné **akomodaci inflačního impulzu centrální bankou** = zvýšení peněžní zásoby
+        - **Inflace tažená poptávkou**: inflace je způsobena zvýšenou poptávkou po statcích, kterých na trhu není dostatek - výrobci zvyšují ceny, je tedy způsobena impulzy na poptávkové straně - zvýšení důchodů, snižování daní, snadný přístup k úvěrům atd.
         - **Inflace tažená nabídkou**: inflace je způsobena zvýšenými náklady výrobců -> například zvýšení ceny ropy -> zvýšení variabilních nákladů -> zvýšení celkových nákladů -> zvýšení mezních nákladů na jednotku produkce -> zvýšené náklady výrobce promítne do zvýšených cen -> v případě, že se jedná o statek finální spotřeby (finální produkt) -> zvýšení ceny pro spotřebitele, v případě, že se jedná o kapitálový statek (meziprodukt), využívaný dále ve výrobě -> přenos zvýšené ceny na dalšího výrobce -> přenesení na zákazníka, proti této inflaci fungují měnové nástroje hůře.
         - **Hybridní inflace** - současné působení obou faktorů, například při zvyšování vstupních nákladů i poptávky, zvyšování mezd a platů.
         - **Další faktory spolupůsobící na vznik inflace**:
@@ -10682,13 +10682,16 @@ Kurzy
   - **Důsledky**
     - **Inflační spirála** - při zvýšení cen na trhu požadují zaměstnanci vyšší zvýšení mez, což se opět promítne do vyšších cen na trhu, což se opět například při kolektivním investování promítne do požadavků na výši mezd -> rozjela se inflační spirála. Inflaci si lidi rovněž zabudovávají do svých předpokladů a vzniká tak **inflační očekávání**, jedná se o **adaptivní očekávání** založené na základu zkušeností z minulého období, ekonomické subjekty tak počítají i do budoucna s inflací -> **setrvačná inflace**, inflace se zvyšuje i bez inflačních impulzů.
     - **Negativní, krátkodobě pozitivní:**
+      - Pozitivní ve smyslu pružnosti pracovního trhu (Keynesiánství) a manévrovacího prostoru ČNB
     - **Přerozdělování**:
       - Z pohledu dlužníka - pokud je inflace vyšší než úrok, splácí dlužník fakticky peníze s menší hodnotou, než kterou si původně od věřitele vypůjčil - vydělává dlužník.
       - Z pohledu věřitele - pokud je inflace vyšší než úrok, věřitel prodělá, pokud je úrok vyšší, než inflace, věřitel vydělá.
+    - **Změna reálné úrokové míry**
     - **Pohled státu (daňové a ost. výnosy)**
-      - Daňové výnosy:
-      - Ostatní výnosy:
+      - Daňové výnosy: mohou vzrůst (nominálně)
+      - Ostatní výnosy: mohou vzrůst (nominálně)
       - Státní dluh: Domácí, Zahraniční
+        - Státní dluh může v krátkém období inflace umazat, v dlouhém ne, neboť se inflace propíše do úrokových sazeb
 
 ----
 :::
@@ -10704,14 +10707,14 @@ Kurzy
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Fiskální politika
-  - [ ] Cíle
-  - [ ] Hlavní subjekty
-  - [ ] Nástroje
-- [ ] Analýza vládních výdajů
-  - [ ] Obecné problémy
-  - [ ] Restriktivní a expanzivní přístup
-  - [ ] Vestavěné stabilizátory
+- [x] Fiskální politika
+  - [x] Cíle
+  - [x] Hlavní subjekty
+  - [x] Nástroje
+- [x] Analýza vládních výdajů
+  - [x] Obecné problémy
+  - [x] Restriktivní a expanzivní přístup
+  - [x] Vestavěné stabilizátory
   - [ ] Vliv dotací a subvencí
   - [ ] Deficity
   - [ ] A Vytěsňování soukromých investic
@@ -10757,69 +10760,74 @@ Kurzy
   - Vytěsňování soukromých investic
     - Doplnit
 
-    Fiskální (rozpočtová) politika představuje vědomé využívání státního rozpočtu (popř. ostatních veřejných rozpočtů) za účelem dosažení stanovených cílů.
+- **Cíle**
+  - Fiskální (rozpočtová) politika představuje vědomé využívání státního rozpočtu (popř. ostatních veřejných rozpočtů) za účelem dosažení stanovených cílů.
+  - Fiskální politika má v ekonomice následující funkce:
+    -	Redistribuční (zajištění přerozdělení důchodů) - daně, odvody, transferové platby
+    -	Alokační (zajištění efektivní alokace především veřejných statků)
+    -	Stabilizační (jedná se o stabilizaci hospodářského cyklu)
+  - Cíl – hlavním cílem fiskální politiky je udržení vyváženého ekonomického růstu a zajištění nízké míry nezaměstnanosti. Další cíle jsou: nízká i stabilní inflace, resp. vyrovnaná platební balance.
+    - Je součástí hospodářské politiky, dalo byse říci, že má tedy podobné cíle jako menetární politika.
 
-    Fiskální politika má v ekonomice následující funkce:
+- **Subjekt**
+  - Hlavní subjekt – nositelem fiskální politiky je vláda, v přeneseném smyslu pak ministerstva, okresní úřady, ale také samosprávné kraje či obce.
 
-    •	Redistribuční (zajištění přerozdělení důchodů)
-    •	Alokační (zajištění efektivní alokace především veřejných statků)
-    •	Stabilizační (jedná se o stabilizaci hospodářského cyklu)
+- **Nástroje fiskální politiky**
+    - 1.)	Vestavěné (automatické) stabilizátory
+    - 2.)	Diskrétní (záměrná) opatření
 
-    Cíl – hlavním cílem fiskální politiky je udržení vyváženého ekonomického růstu a zajištění nízké míry nezaměstnanosti. Další cíle jsou: nízká i stabilní inflace, resp. vyrovnaná platební balance.
+- **1.)	Vestavěné stabilizátory**
+  - Automatické (vestavěné) stabilizátory jsou takové nástroje fiskální politiky, které pokud jsou jednou zavedeny, působí automaticky a nevyžadují žádné další zásahy státu. Znamená to, že automaticky stabilizují ekonomiku. Jedná se o:
+    -	Mandatorní (každoročně povinné) výdaje
+    -	Progresivní daně z příjmu
+    -	Transferové platby (např. podpora v nezaměstnanosti)
+  - Pokud se ekonomika nachází v recesi, dochází k růstu nezaměstnanosti. Podpora v nezaměstnanosti či jiné sociální dávky eliminují pokles příjmů nezaměstnaných osob, a tak stimulují agregátní poptávku (resp. produkt) a stabilizují ekonomiku. Stejně tak např. při progresivní daňové sazbě, dojde (za předpokladu, že v recesi mzdy a jiné příjmy klesají) k posunu příjmů do nižších daňových pásem, které mají menší míru zdanění. Ekonomickým subjektům je tak částečně pokles příjmů elimininován poklesem daní.
 
+- **2.)	Diskrétní opatření** – jsou jednorázová opatření, která jsou zaměřena na realizaci akutních změn v národním hospodářství. Jedná se např. o:
+    -	Změnu daňových sazeb a zavedení nových daní
+    -	Změnu ve výši jednotlivých položek vládních výdajů
+    -	Změnu struktury vládních výdajů
+    -	Veřejné programy a projekty zaměstnanosti
+  - Diskrétní opatření mají výhodu oproti vestavěným stabilizátorům ve větší pružnosti a operativnosti, problémem však mohou být časová zpoždění v jejich uplatňování.
+    - Dalším problémem pak může například být špatné investování a tím i vytlačování soukromých investic a naopak prohlubování krize
 
-    Hlavní subjekt – nositelem fiskální politiky je vláda, v přeneseném smyslu pak ministerstva, okresní úřady, ale také samosprávné kraje či obce.
+- **Analýza vládních výdajů**
+  - Tvoří výdajovou složky veřejných rozpočtů
+    - Veřejný rozpočet = státní + ostatní veřejné rozpočty
+  - Stát má příjmy, například z: daní, dotací, prodejů majetku, půjček (dluhopisy), z odvodů etc.
+  - ALE
+  - Má i výdeje, výdeje je možné dělit na:
+    - **Mandatorní** - například velká spousta transferových plateb (důchody etc.), stojí na zákonné povinnosti je vyplácet
+    - **Kvazi-Mandatorní** - nejsou vyloženě postavené na zákonné povinnosti je vyplácet, ale stát by bez nich dobře nemohl fungovat - například platy státních zaměstnanců, příspěvky příspěvkovým organizacím atd.
+    - **Nemandatorní** - jedná se o výdaje, které stát nemá zákonnou povinnost vynakládat, ani nejsou pro jeho fungování životně důležité, jsou ale důležité pro fungování ekonomiky a společnosti, jedná se třeba například o státní výdaje na různé nákupy, subvecen firem atd.
 
-    Nástroje fiskální politiky
-    1.)	Vestavěné (automatické) stabilizátory
-    2.)	Diskrétní (záměrná) opatření
-    1.)	Vestavěné stabilizátory
+- **Problémy fiskální politiky**
+    -	zvyšování výdajů, snížování daní (v zájmu boje s recesí) - vytváří často rozpočtový deficit a zvyšuje státní dluh, který je kumulací minulých deficitů
+    -	Problém - jak kompenzovat pokles daňových příjmů
+    -	vypůjčení peněz od veřejnosti
+      -	vláda tak snižuje objem disponibilních kapitálových prostředků k financování soukromých investic (**efekt vytěsňování**) -> zvýší se úrokové sazby a odradí to firmy a domácností k investicím -> bude mít za násladek nižší tempo hospodářského růstu
+    •	monetizace rozpočtového deficitu
+    o	vládní cenné papíry – kupuje centrální banka, která nákup financuje dodatečnými penězi uvolněnými do oběhu, tyto přírůstky peněžní zásoby mají však tendenci zvyšovat cenovou hladinu a inflaci
+    •	využití zahraničních zdrojů
+    o	 zahraničního kapitálu má však tendenci zvyšovat kurz domácí měny a oslabovat cenovou konkurenceschopnost domácího exportu, tak i snižovat růstový potenciál ekonomiky HDP (v důsledku poklesu čistého exportu)
+    •	Politické problémy
+    o	často znemožňují užití fiskálních nástrojů
+    o	v období inflace: potřeba růstu daní nebo poklesu vládních výdajů
+    o	problém: jde o nepopulární opatření
+    o	zvláště před volbami se vlády nerady uchylují ke zvýšení daní
+    o	snížení vládních výdajů naráží často na odpor sociálních nebo politických skupin (mají z nich prospěch)
+    •	Správné načasování + přesnost údajů poskytovaných ekonomickými indikátory
+    •	správné načasování vyžaduje
+    o	těsnou spolupráci mezi vládou a parlamentem - často přijetí/změna zákona trvá příliš dlouho
+    o	přesné prognózy – problém např.odhad výše deficitu státního rozpočtu na začátku fiskálního období
 
-    Automatické (vestavěné) stabilizátory jsou takové nástroje fiskální politiky, které pokud jsou jednou zavedeny, působí automaticky a nevyžadují žádné další zásahy státu. Znamená to, že automaticky stabilizují ekonomiku. Jedná se o:
-    •	Mandatorní (každoročně povinné) výdaje
-    •	Progresivní daně z příjmu
-    •	Transferové platby (např. podpora v nezaměstnanosti)
-
-    Pokud se ekonomika nachází v recesi, dochází k růstu nezaměstnanosti. Podpora v nezaměstnanosti či jiné sociální dávky eliminují pokles příjmů nezaměstnaných osob, a tak stimulují agregátní poptávku (resp. produkt) a stabilizují ekonomiku. Stejně tak např. při progresivní daňové sazbě, dojde (za předpokladu, že v recesi mzdy a jiné příjmy klesají) k posunu příjmů do nižších daňových pásem, které mají menší míru zdanění. Ekonomickým subjektům je tak částečně pokles příjmů elimininován poklesem daní.
-
-
-    2.)	Diskrétní opatření – jsou jednorázová opatření, která jsou zaměřena na realizaci akutních změn v národním hospodářství. Jedná se např. o:
-    •	Změnu daňových sazeb a zavedení nových daní
-    •	Změnu ve výši jednotlivých položek vládních výdajů
-    •	Změnu struktury vládních výdajů
-    •	Veřejné programy a projekty zaměstnanosti
-
-    Diskrétní opatření mají výhodu oproti vestavěným stabilizátorům ve větší pružnosti a operativnosti, problémem však mohou být časová zpoždění v jejich uplatňování.
-
-
-    Analýza vládních výdajů
-
-    Příjmy státního rozpočtu v roce 2001: celkem 630,7 mld.
-    Příjmy z daní a poplatků (daň z příjmu FO a PO, DPH, spotřební daně, správní a soudní poplatky, clo, daň dědická, darovací a z nemovitostí) – 359,4 mld. Kč
-    Pojistné na sociální zabezpečení 234,4 mld. Kč
-    Příjmy z vlastní činnosti 23,0 mld. Kč
-    Ostatní příjmy: 13,9 mld. Kč
-
-    Výdaje státního rozpočtu v roce 2001: celkem 650,7 mld.
-    Platy a nákupy rozpočtových organizací – 178,0 mld. Kč
-    Příspěvky příspěvkovým organizacím a VŠ – 82,9 mld. Kč
-    Příspěvky územním rozpočtům – 24,6 mld. Kč
-    Transfery obyvatelstvu – 280,0 mld. Kč
-                     podnikatelským subjektům a neziskovým organizacím – 34,3 mld. Kč
-    	     ostatní – 9,7 mld. Kč
-    Příspěvky zdravotním pojišťovnám a státním fondům – 32,2 mld. Kč
-    Půjčky – 7,2 mld. Kč
-    Ostatní – 1,8 mld. Kč
-
-    Zdroj:  EKONOMIE Holman
-    Rozpočet dle kapitol viz. přílohy
-
-    Expanzivní fiskální politika
+Expanzivní fiskální politika
     Expanzivní fiskální politika podporuje agregátní poptávku. Jedná se o snížení čistých daní, zvýšení vládních nákupů apod.
     Krátkodobý efekt: stát buď sníží daně, nebo zvýší své nákupy což vede k růstu hrubého národního produktu, růstu zaměstnanosti, ale často také k růstu cenové hladiny.
     Dlouhodobý efekt: vede zpravidla ke zvyšování cen a tedy k inflaci, to znamená, že se nemění úroveň produktu a zaměstnanosti a, ale zvyšuje se úroveň cen.
     Restriktivní fiskální politika
-    Restriktivní fiskální politika omezuje nebo snižuje agregátní poptávku. Může se jednat o zvýšení čistých daní nebo snížení vládních nákupů.
+
+Restriktivní fiskální politika omezuje nebo snižuje agregátní poptávku. Může se jednat o zvýšení čistých daní nebo snížení vládních nákupů.
     Krátkodobý efekt: snižuje úroveň cenové hladiny, snižuje produkt a zaměstnanost.
     Dlouhodobý efekt: působí na zvýšení soukromých investic, snížení cenové hladiny, úrokové míry, a pokud soukromé investiční výdaje plně nehradí státní výdaje na nákup, nedochází ke změně v úrovni reálného produktu a zaměstnanosti.
     Daň z příjmů FO
@@ -10868,26 +10876,12 @@ Kurzy
     o	expanzivní monetární politika podporuje výdaje citlivé na pokles úrokové sazby (hlavně soukromé investice)
     o	expanzivní fiskální politika vedoucí k vyšším úrokovým sazbám omezuje tyto výdaje, pod jejím rostou vládní nákupy a spotřebitelské výdaje (důsledek zvýšených transferů domácnostem)
 
-    Problémy fiskální politiky
-    •	zvyšování výdajů, snížování daní (v zájmu boje s recesí) - vytváří často rozpočtový deficit a zvyšuje státní dluh, který je kumulací minulých deficitů
-    •	Problém - jak kompenzovat pokles daňových příjmů
-    •	vypůjčení peněz od veřejnosti
-    o	vláda tak snižuje objem disponibilních kapitálových prostředků k financování soukromých investic (efekt vytěsňování) →zvýší se úrokové sazby a odradí to firmy a domácností k investicím→ bude mít za násladek nižší tempo hospodářského růstu
-    •	monetizace rozpočtového deficitu
-    o	vládní cenné papíry – kupuje centrální banka, která nákup financuje dodatečnými penězi uvolněnými do oběhu, tyto přírůstky peněžní zásoby mají však tendenci zvyšovat cenovou hladinu a inflaci
-    •	využití zahraničních zdrojů
-    o	 zahraničního kapitálu má však tendenci zvyšovat kurz domácí měny a oslabovat cenovou konkurenceschopnost domácího exportu, tak i snižovat růstový potenciál ekonomiky HDP (v důsledku poklesu čistého exportu)
-    •	Politické problémy
-    o	často znemožňují užití fiskálních nástrojů
-    o	v období inflace: potřeba růstu daní nebo poklesu vládních výdajů
-    o	problém: jde o nepopulární opatření
-    o	zvláště před volbami se vlády nerady uchylují ke zvýšení daní
-    o	snížení vládních výdajů naráží často na odpor sociálních nebo politických skupin (mají z nich prospěch)
-    •	Správné načasování + přesnost údajů poskytovaných ekonomickými indikátory
-    •	správné načasování vyžaduje
-    o	těsnou spolupráci mezi vládou a parlamentem - často přijetí/změna zákona trvá příliš dlouho
-    o	přesné prognózy – problém např.odhad výše deficitu státního rozpočtu na začátku fiskálního období
-
+- **Vytěsňování soukromých investic**
+  - Dva způsoby:
+    - **Přímá substituce:**
+      - Stát zvýší výdaje v nějakém sektoru -> to může přispět k rozhodnutí soukromého sektoru tam neinvestovat
+    - **Nepřímá substituce:**
+      - Stát zvýší výdaje bez krytí těchto výdajů po přímové stránce - následkem toho roste deficit -> vláda si musí vypůjčit na finančním trhu -> větší poptávka po penězích -> to má vliv na růst reálné úrokové míry -> menší dostupnost peněz pro soukromé investice (protože peníze budou dražší)
 
 ----
 :::
