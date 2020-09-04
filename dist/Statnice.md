@@ -10301,7 +10301,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - CB pro euro je ECB ve Frankfurtu n. M.
   ~~- Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.~~
 - **Postup**
-    - Doplnit
+    - Zásadním předpokladem je splnění M. Kritérií (Konvergenčních kritérií)
+    - Ve chvíli, kdy jsou tyto kritéria splněna, může země zahájit oficiální přípravy a postup na přijetí eura.
   - **Výhody**
     - Úspora transakčních nákladů
     -	Eliminace kursových rizik
