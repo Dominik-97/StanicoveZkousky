@@ -8661,7 +8661,7 @@ Kmenové listy
     -	(2) Akcie bez jmenovité hodnoty (§ 257 ZOK) – tzv. kusové akcie - Na každou akcii připadá rovný díl na ZK – určuje se vydělením ZK počtem akcií – poté hovoříme o účetní hodnotě (nikoliv o jmenovité hodnotě)
 
 - **Emise akcií**
-  - Emisní kurs (§ 247 ZOK ve spojení s § 520 odst. 2 ZOK) – peněžní částka, za kterou emitent (AS) akcii vydává, resp. cena, za kterou akcii může získat první vlastník od emitent  
+  - Emisní kurs (§ 247 ZOK ve spojení s § 520 odst. 2 ZOK) – peněžní částka, za kterou emitent (AS) akcii vydává, resp. cena, za kterou akcii může získat první vlastník od emitenta
   -	Tvořena (1) jmenovitou nebo účetní hodnotou a (2) někdy též emisním ážiem  	
   -	Emisní kurs nesmí být nižší než jmenovitá/účetní hodnota akcie – emise pod hodnotu je zakázána
   -	Emisní ážio (§ 248 ZOK) – hodnota emisní kursu převyšuje jmenovitou/účetní hodnotu – rozdíl mezi emisním kursem a jmenovitou/ účetní hodnotou se nazývá emisním ážiem
@@ -8674,7 +8674,7 @@ Kmenové listy
  - Rozdělení:
     - Podoba: akcie (listiná) X akcie zaknihovaná
     - forma – akcie na majitele (cenný papír na doručitele) ✘ akcie na jméno (cenný papír na řad)
-    - druh - kmenové zvláštní
+    - druh - kmenové a zvláštní
   - Převody akcií nelze zakázat, ale lze je omezit
 
 -	**(1) akcie na majitele (§ 263 odst. 2 ZOK)**
