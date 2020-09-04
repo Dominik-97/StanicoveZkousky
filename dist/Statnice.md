@@ -10234,10 +10234,10 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - [x] Vytváření peněz v ekonomice pomocí banky
   - [x] Měnové agregáty
 - [x] Zavádění společné měny Euro
-  - [ ] Postup
-  - [ ] Výhody
-  - [ ] Rizika
-  - [ ] Maastrichtská kritéria
+  - [x] Postup
+  - [x] Výhody
+  - [x] Rizika
+  - [x] Maastrichtská kritéria
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10276,8 +10276,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Formy peněz**
     -	1- mince (oběživo)
     - 1.1- papírové peníze (oběživo)
+      - Státovky – bankovky vydávané státem
+      - Dnes bankovky - papírové peníze vydávané CB
       - oběživo = to, co koluje mezi lidmi a zprostředkovává oběh zboží
       - platidlo = obecný pojem - může se tedy například jednat i o zbožové peníze, různé úvěry, umožňuje splácet různé závazky, pohledávky
+      - měna = konkrétní měnová soustava peněz určitého státu (měnové unie), upravený právem, peníze jsou obecný pojem (zahrnují všechny měny)
     -	2- depozitní peníze = účty (v bance máme fiktivní peníze)
     -	3- termínovaná depozita	– obnos na účtu máme jen do určitého data
       - banka s nimi může určitou dobu operovat (do data,  do kterého se smluvíme, pak nám dá více – úrok, obligace)
@@ -10303,6 +10306,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - **Postup**
     - Zásadním předpokladem je splnění M. Kritérií (Konvergenčních kritérií)
     - Ve chvíli, kdy jsou tyto kritéria splněna, může země zahájit oficiální přípravy a postup na přijetí eura.
+    - Každá země si zvolí vlastní způsob přijetí eura a strategický plán, evropská komise má doporučený 3 plány, česko si zvolilo takzvaný big-bang (den přijetí eura se kryje s prvním dnem oběhu eur)
+    - Postup přijetí pak spočívá v jednotlivých krocích, aby se přestup ulehčil:
+      - 1- informační kampaň
+      - 2- příprava veřejného a soukromého sektoru po právní stránce
+      - 3- dodání euro bankovek
+      - 4- stanovení dvojích cen etc.
   - **Výhody**
     - Úspora transakčních nákladů
     -	Eliminace kursových rizik
@@ -10316,94 +10325,15 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Riziko vnímané inflace**: potenciální inflační impuls
     - **Jednorázové náklady na zavedení eura:**
   - Maastrichtská kritéria
-    - Doplnit
-
-
-
-
-
-    Peníze mění podobu – oběživo hotovostní X bezhotovostní
-    Mince – nejstarší forma peněz
-
-    Bankovky - americký kontinent (protože nedostatek peněz – mincí) - pro stavby – investice při dobývání amerického západu - existující zásoba mincí nestačila pokrýt potřebu - Banky – jakýsi dlužní úpis = bankovky - z toho forma papírových peněz
-
-    Státovky – později ke stejným účelům, vydával stát
-
-    Dnes pojem bankovky = papírové peníze
-
-    Měna – pojem
-    skutečnost, že jde o peníze, jejichž podmínky existence, formu a soustavu autoritativně kvalifikovaným způsobem určuje stát (nebo jiná – nadstátní autorita -EU)
-
-    Veřejnoprávní předpisy - MĚNOVÉ PRÁVO
-
-    Měna:
-    •	konkrétní soustava peněz
-    •	zavedená v určitém státě (právními normami)
-    •	upravena právním řádem  zákony toho státu (respektive nadsttátní autorita (měnová unie))
-    •	emise peněz, měnová jednotka, autorita  centrální banka, určitění zákonných peněz, pravidla pro oběh peněz….
-
-    Centrální banka denně vydává do oběhu obrovské množství nových bankovek (aby neobíhaly opotřebované peníze).
-
-    Národní měna – konkrétní druh peněz na území určitěho státu - upraveno vnitřním právem státu - některé měny získaly funkci „Světových peněz“ - překračují význam státu, který je vydal - silná ekonomika
-    devizové předpisy (kurzy)
-    Př.: US dolar, Angl. Libra, Japon. Jen,
-
-    Mezinárodní měna – více států se dohodne na vytvoření měnové unie (EU)
-    EU - Evropská banka - emitent - měna (EURO)
-    EU - měnová unie (ne všechny členské státy)
-
-    Nadnárodní měna - několik států - smlouva – několik států se dohodne používat měnu jednoho státu
-    -	slabá ekonomika
-    -	neschopnost vytvořit vlastní měnu
-
-    Př. Afrika - středoafrický frank (Africké měnové společenství)
-    Postup, výhody a rizika zavádění společné měny
-    Podmínky pro přijetí Eura
-    •	Dlouhodobá úroková míra smí být nejvýše 2,5 % vyšší, než je tato míra ve třech zemích EU s nejnižší inflací
-    •	Míra inflace může převyšovat úroveň tří zemí EU s nejnižší inflací nejvýše o 1,5 %
-    •	Deficit státního rozpočtu smí dosáhnout nejvýše 3 % HDP
-    •	Velikost veřejného dluhu smí dosáhnout nejvýše 60 % HDP
-    •	Měnový kurs musí být poslední dva roky před vstupem součásti kursového mechanismu Evropského měnového systému
-    •	Kurzová stabilita: účast v systému ERM II minimálně dva roky
-
-    Výhody zavedení Eura
-    •	Úspora transakčních nákladů
-    •	Eliminace kursových rizik
-    •	Tlak na pokles úrokových sazeb
-    •	Snížení míry inflace
-    •	Efektivnější alokace investic
-    •	Snížení průměrné míry nezaměstnanosti
-
-    Rizika (nevýhody) zavedení Eura
-    •	Ztráta národní suverenity v měnové oblasti
-    •	Náklady na výrobu hotovostních peněz společné měny
-    •	Inflační impuls
-
-    ERM II.
-    Evropský mechanismus směnných kurzů II (anglicky European Exchange Rate Mechanism II, zkratka ERM II) vznikl 1. ledna 1999 jako nástupce Evropského mechanismu směnných kurzů. Země zapojené do ERM II musí kurzy svých měn udržovat v povoleném fluktuačním pásmu ± 15 % od stanoveného středního kurzu (centrální parity) k euru, pro Dánsko je stanoveno užší fluktuační pásmo ± 2,25 %. Zároveň nesmí dojít k devalvaci centrální parity, revalvace centrální parity je přípustná. Alespoň dvouleté setrvání v ERM II za výše uvedených podmínek je jedním z konvergenčních kritérií, jejichž splnění je nutnou podmínkou pro přijetí země do eurozóny.
-
-    Po zavedení eura v 11 členských zemích Evropské unie od 1. ledna 1999 byly jedinými členy ERM II Dánsko a Řecko. V současnosti jsou do ERM II zapojeny čtyři národní měny členských států EU. Vstup dalších měn do ERM II se očekává v následujících letech. Tímto mechanismem již prošlo pět národních měn, které byly po minimálně dvouletém setrvání v ERM II nahrazeny eurem.
-
-    Fixace kurzu
-    Stanovení parity pro ERM II
-    •	Parita stanovena po dohodě s ECB, ECOFIN (min. financí EU-25) a centrálními bankami Eurosystému
-    •	Většinou na aktuální hodnotě kurzu (předpokládá se, že není příliš daleko od rovnováhy)
-    •	Rozhoduje se několik málo dní před okamžikem vstupu
-
-    Stanovení konverzního poměru pro přechod z koruny na euro
-    •	Poměr stanoven po dohodě s ECB, ECOFIN a centrálními bankami Eurosystému
-    •	Většinou na aktuální centrální paritě ERMII (po jejích případných předchozích úpravách)
-    •	Konverzní poměr ohlášen při vyhodnocení EK a ECB
-
-    Rizika dlouhodobého pobytu koruny v systému ERM II
-    •	účast na režimu fixního kurzu s velmi volnou fixací (teoreticky až ± 15 %)
-    •	režimy rozvolněné fixace nejvíce náchylné ke spekulativním útokům
-    •	zafixování kurzu české koruny k euru a závazek udržovat kurz v rámci ± 15 % fluktuačního pásma bez silnějšího pnutí
-    •	pevný kurz klade vysoké nároky na konzistentnost hospodářských politika makroekonomickou stabilitu
-    •	pro centrální banku sledování jak stabilně nízké míry inflace, tak stabilního kurzu značně konfliktní situací (př. Maďarska z roku 2002)
-    •	členství v ERM II: stabilizující efekt na pohyb devizového kurzu prostřednictvím ukotvení kurzových očekávání
-    •	pro tranzitivní ekonomiky (kde kurz je jedním z kanálů ekonomické konvergence) výhody z členství v ERM II limitované (vliv na omezení fluktuací devizového kurzu)
-
+    - Každý rok je zpracována ECB zpráva pro EU o plnění konvergenčních kritérií
+    - Podmínky:
+      - 1- Cenová stabilita – průměrná roční inflace nesmí překročit o více než 1,5 p. b. průměrnou roční inflaci tří členských zemí s nejlepšími hodnotami inflace
+      - 2- Stabilita devizového kurzu – alespoň dva roky před vstupem do měnové unie by se kandidátská země měla zapojit do ERM II a po tuto dobu by nemělo dojít k devalvaci.
+        - ERM II = povinnost země udržovat kurz svojí měny v povinném fluktuačním pásmu okolu kurzu eura (standardně 15%)
+      - 3- Konvergence dlouhodobých úrokových sazeb – dlouhodobá nominální úroková míra nesmí přesahovat o více než 2 p. b. průměr tří zemí s nejlepšími výsledky týkajících se cenové stability.
+      - 4- Veřejné finance
+        - Výše hrubého veřejného dluhu – podíl veřejného dluhu na HDP nesmí překročit 60 %.
+        - Deficit veřejného rozpočtu – podíl deficitu státního rozpočtu na HDP musí být menší než 3 %.
 
 ----
 :::
