@@ -10228,12 +10228,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Peníze a měna
-  - [ ] Funkce peněz
-  - [ ] Formy peněz
-  - [ ] Vytváření peněz v ekonomice pomocí banky
-  - [ ] Měnové agregáty
-- [ ] Zavádění společné měny Euro
+- [x] Peníze a měna
+  - [x] Funkce peněz
+  - [x] Formy peněz
+  - [x] Vytváření peněz v ekonomice pomocí banky
+  - [x] Měnové agregáty
+- [x] Zavádění společné měny Euro
   - [ ] Postup
   - [ ] Výhody
   - [ ] Rizika
@@ -10267,6 +10267,12 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       -	peněžní sankce
       -	převod kapitálu
     - Poklad (**nositele a uchovatele hodnoty**) – emise zlatých (nebo mincí z jiných kovů) mincí, které vydává Národní banka k určitému výročí apod. Oprávnění panovníka razit mince se nazývalo REGÁL (Jus regale) - mincovní regál. Přenášely hodnotu v čase. Peníze slouží k uchování nějaké hodnoty (dají se shromažďovat, šetřit)
+      - Na peníze jsou kladeny rovněž nároky:
+        - Všeobecně přijímané
+        - Trvanlivé
+        - Dělitelné
+        - Zaměnitelné
+        - Přenositelné
   - **Formy peněz**
     -	1- mince (oběživo)
     - 1.1- papírové peníze (oběživo)
@@ -10283,17 +10289,30 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - M4 - M3 + vklady u nebankovních institucí + krátkodobé cenné papíry v domácí měně
       - M5 - M4 + ostatní cenné papíry (Standardně dlouhodobé - nad 1 rok splatnost)
     - Za **peněžní zásobu** = považuje se M1, ČNB však například cíluje M2
-- Zavádění společné měny Euro
-  - Doplnit
-  - Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.
-  - Postup
+  - **Vytváření peněz pomocí banky**
+    - Banka peníze vytváří půjčkami (bezhotovostní peníze) -> na základě peněžního multiplikátoru
+    - Jedná se o to, že když je do banky vklad 100 kč a banka má PMR na úrovni 2% -> může půjčit 98 korun
+     - -> někomu je půjčí - ten je uloží do další banky (nebo i do stejné banky) - 98 kč, PMR bude třena 1,9 kč, takže tato další banka bude moci půjčit 96 kč
+     - Ze 100 korunového vkladu se rázem stalo 194 korun na straně aktiv banky
+    - Co se hotovostních peněz týče - ty se jako takové nevytváří - jen si je banka jako likvidutu půjčuje u ČNB a do oběhu se vydávají výběry z ATM
+- **Zavádění společné měny Euro**
+  - Jedná se o nadnárodní měnu
+  - Česko se při vstupu do EU zavázalo euro přijmout, tedy vstoupit do měnové unie -> není však stanoveny do kdy
+  - CB pro euro je ECB ve Frankfurtu n. M.
+  ~~- Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.~~
+- **Postup**
     - Doplnit
-  - Výhody
-    - Doplnit
-  - Rizika
+  - **Výhody**
+    - Úspora transakčních nákladů
+    -	Eliminace kursových rizik
+    -	Tlak na pokles úrokových sazeb
+    -	Snížení míry inflace
+    -	Efektivnější alokace investic
+    -	Snížení průměrné míry nezaměstnanosti
+  - **Rizika**
     - **Ztráta samostatné měnové politiky**:
     - **Cena za zapojení se do Evropského stabilizačního mechanismu:**
-    - **Riziko vnímané inflace**:
+    - **Riziko vnímané inflace**: potenciální inflační impuls
     - **Jednorázové náklady na zavedení eura:**
   - Maastrichtská kritéria
     - Doplnit
