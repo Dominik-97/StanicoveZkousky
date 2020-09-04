@@ -8788,6 +8788,8 @@ Kmenové listy
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Družstvo
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -10043,14 +10045,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
+- [x] Výkonnost ekonomiky a popis pomocí makroekonomických agregátů
   - [x] HDP
   - [x] HNP
   - [x] Investice
-  - [ ] Spotřeba
+  - [x] Spotřeba
   - [x] Měření výkonnosti
-  - [ ] Stanovování inflace
-- [ ] Faktory ekonomického růstu
+  - [x] Stanovování inflace
+- [x] Faktory ekonomického růstu
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10075,6 +10077,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
       - **Výdajová metoda:** jedná se o součet hodnoty finálních statků a služeb spotřebovaných v jednotlivých sektorech, počítá se pomocí Y = C (consumption) + I (investment) + G (výdaje vlády) + X (čistý vývoz)
       - **Produkční metoda:** v rámci jednotlivých fází produkčního řetězce se připočítává **přidaná hodnota**, **meziprodukt** se nepočítá jedná se tedy o cenu, za kterou je statek prodán - hodnotu vstupu, dá se počítat za pomocí informací, které lze získaz z daňového systému
       - **Důchodová metoda:** jedná se o součet hodnoty příjmů realizovaných v jednotlivých sektorech ekonomiky, jako jsou **mzdy, zisky, renty, úroky** a dále se započtením **amortizace** a **nepřímých daní**, počítá se jako Yd = w (mzdy) + r (renty) + i (úroky) + z (zisky) + a (amortizace) + n (nepřímé daně), w + r + i + z se dá zapsat i jako národní důchod, celá rovnice se tedy dá zapsat jako **národní důchod + amortizace + nepřímé daně**
+        - disponibilní důchod = národní důchod - daně
     - Všemi metodami by se mělo dosáhnout stejného výsledku, **tedy výpočtu HDP**.
   - HDP/ČDP
     - Hrubý domácí produkt - celková hodnota všech finálních výrobků a služeb vyrobených v daném čase **na území daného státu**
@@ -10113,9 +10116,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Měření výkonnosti
     - Měření výkonnosti probíhá právě pomocí výše zmíněných makroekonomických agregátů vypočítaných za pomocí jednoho z modelů.
   - Stanovování inflace
-    - Spotřební koš, index spotřebitelských cen
+    - Spotřební koš, **index spotřebitelských cen**, počítá se podle změny cen produktů ve spotřebním koši X váhy, které jsou stanoveny ke každému produktu
     - Inflace tažená poptávkou
     - Inflace tažená nabídkou
+    - **Index cen výrobců** - podobní jako CPI, jen se započítávají spíše produkty určené k výrobě
+    - **Deflátor HDP** - počítá se jako rozdíl mezi reálným HDP a nominálním HDP - přesný, ale lze dopočítat až zpětně
   - Agregátní poptávka a agregátní nabídka
     - Jedná se o něco jiného než je **tržní poptávka**, vyjadřuje poptávku nebo nabídku zahrnující veškeré statky, ty se ale vzhledek k tomu, že nejsou sčitatelné musí vyjadřovat jinak - vyjadřují se proto v **penězích**.
     - Agregátní nabídka je celková nabídka všech zboží a služeb, které byli v ekonomic vyrobeny a firmy je chtějí prodávat.
@@ -10132,6 +10137,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Stabilní ekonomický růst nespočívá v samotných cyklech, ale v souvislém růstu potenciálního produktu, okolo kterého skutečný produkt osciluje.
   - Hospodářský cyklus, čtyři fáze, expanze, vrchol, krize, sedlo.
   - Při vrcholu roste HDP nad potenciální produkt a ekonomika se přehřívá, viz okunův zákon.
+  - Faktory ekonomického růstu tedy spočívají v růstu kapitálové vybavenosti a produktivity práce
 
 ----
 :::
@@ -10159,6 +10165,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Hospodářský cyklus**
   - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
+  - Celý hospodářský cyklus trvá 8 - 12 let.
   - Je potřeba rozlišovat **strukturální** a **cyklické** výkyvy, hospodářský cyklus stojí právě na **cyklických výkyvech**.
   - Strukturální výkyvy jsou v pořádku, znamenají pružnost ekonomiky, souvisí se **strukturální nezaměstnaností** a pouze ukazují, že se některá odvětví (neperspektivní ve smyslu komparativní výhody) smršťují, a jiná perspektivní naopak rostou, před strukturálními výkyvy nelze chránit například ochranářskou politikou a cly, neboť ta brání neperspektivní odvětví a brání perspektivním odvětvím v tom, aby se prosadila, tím se i snižuje zahraniční obchod - právě kvůli **komparativní výhodě, respektive nevýhodě** a žádná země nemůže v moderním světě přežít bez zahraničního obchodu.
     - **Komparativní výhoda spočívá v tom, že některá země je v produkci nějakého statku efektivnější než země jiná, proto je výhodné tyto statky dovážet do zemí, kde by jinak jejich produkce nebyla efektivní a alokovat volné zdroje na produkci statku, ve kterém má daná země komparativní výhodu.**
