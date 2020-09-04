@@ -10393,6 +10393,8 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - **Finanční trh  - členění z věcného hlediska**
     -	Peněžní trh – je to trh peněz a úvěrů, bez ohledu na dobu splatnosti, 
     -	Kapitálový trh – je to trh investičních nástrojů, zejména investičních cenných papírů, 
+      - Primární
+      - Sekundární
     -	Devizový trh – je to trh cizích měn – FOREX 
     -	Komoditní trh – původně sem patřily pouze měnové kovy, později i další komodity (například zemědělské produkty a další statky) a komoditní deriváty, opce apod., které jsou obchodované na komoditních burzách a mají finanční vypořádání, jsou to také obchody s komoditními CP (skladištní listy), které mají peněžní vypořádání. 
 
@@ -10410,7 +10412,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Podle sektoru - bankovnictví, kapitálový trh, pojišťovnictví
   - etc.
 
-- **Úloha finančního trhu**
+- **Úloha finančního trhu** synteticky
   - Depozitní funkce (umožňuje investování)
   - Kreditní funkce  (umožňuje půjčování)
   - Funkce uchování hodnoty (bohatství) 
@@ -10454,24 +10456,24 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - c) cenné papíry na jméno, na kterých je uvedeno jméno oprávněného a převod vlastnického práva se uskutečňuje cesí, přičemž je třeba o této skutečnosti uvědomit emitenta.
   - 4. Podle formy - viz cenné papíry otázka Obch.Práv.
 
-- **Investiční rozhodování**
+- **Investiční rozhodování** proces (odpovědné osoby rozhodují o investicích)
   - Investiční rozhodování je ovlivněno tím, že různé investice mohou přinášet různě vysoký výnos po různě dlouhou dobu. Cílem investičního rozhodování je určení nejvýhodnější investice.
 - **Oblasti IR**
   - 1- kapitálové plánování
     - Zde se jedná především o strategický plán podniku a tedy například i kolik peněz bude vynaloženo na investice
-    - Dále se volí investiční strategie - více riziková, konzervativnější etc.
+    - Dále se volí investiční strategie - více riziková, konzervativnější, dlouhodobou, málo rizikovou etc.
       - Zde se volí investiční projekt - je možné jej volit podle mnoha kritérií - standardně se volí podle přínosnosti, ale může se volit i podle typu peněžních toků z investic, rizika etc.
     - Standardně bývá vypracována nějaká analýza - například feasibility studies
   - 2- očekáváné peněžní toky
     - jsou zásadní pro rozhodování kolik a kam bude investováno
   - 3- kritéria investičního rozhodování
-    - Při zvolení potenciálních investičních projektů se hodnotí podle jejich přínosnosti, většinou finanční, ale například i ve smyslu podílu na trhu
+    - Při zvolení potenciálních investičních projektů se hodnotí podle jejich přínosnosti, většinou finanční, ale například i ve smyslu podílu na trhu (rozhodování, zda a do čeho investovat v rámci strategického plánu), rozhodovat se může i podle KPI nastavených firmou
     - Používají se k tomu jednotlivé metody:
       - Čistá současná hodnota - vypočítáno kolik peněz projekt za dobu své investice přinese (po odečtení nákladů na investici)
       - Vnitřní výnosové procento
       - Doba návratnosti
       - Obecně se pro stanovení kritérií investičního rozhodování se používá metoda současné hodnoty celého toku budoucích výnosů z daného kapitálového statku. Vypočítáme ji na základě diskontování toku budoucích výnosů úrokovou mírou.
-        - Diskontování je matematický postup, kdy jsou diskontovány (přepočítány a sečteny) budoucí výnosy (zisky/peníze/peněžní toky) v jednotlivých obdobích na současnou hodnotu investice (Present value) s použitím diskontní míry (odhadnuté výnosové míry).
+        - Diskontování je matematický postup, kdy jsou diskontovány (odúročování) (přepočítány a sečteny) budoucí výnosy (zisky/peníze/peněžní toky) v jednotlivých obdobích na současnou hodnotu investice (Present value) s použitím diskontní míry (odhadnuté výnosové míry).
         - Pro investování daného objemu prostředků firma volí tu s nejvyšší současnou hodnotu očekávaného toku budoucích výnosů.
   - 4- Riziko spojené s vyhodnocením investic
     - Souvisí s **risk management** - hodnotí se jak je investice riziková, podle toho se upravují různé výpočty návratnosti investice (například změnou diskontní sazby pro diskontování investice)
