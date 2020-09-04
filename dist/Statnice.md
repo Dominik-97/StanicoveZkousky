@@ -11002,13 +11002,13 @@ Kurzy
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Efektivnost podniku
-  - [ ] Její základní kategorie
-- [ ] Cíle a funkce podniku
-  - [ ] Poslání a vize podniku
-  - [ ] S.M.A.R.T. cíle
-  - [ ] Ziskové a neziskové formy podnikání
-  - [ ] Podnikatelské objevování
+- [x] Efektivnost podniku
+  - [x] Její základní kategorie
+- [x] Cíle a funkce podniku
+  - [x] Poslání a vize podniku
+  - [x] S.M.A.R.T. cíle
+  - [x] Ziskové a neziskové formy podnikání
+  - [x] Podnikatelské objevování
 - [ ] Investiční rozhodování podniku
   - [ ] Základní metody a jejich užití
 
@@ -11033,7 +11033,72 @@ MVA, EVA                    | MVA, EVA
 VEDLEJŠÍ
 
 **Efektivnost podniku**
+  - O podniku můžeme prohlásit, že vyrábí efektivně, když produkuje výrobky uspokojující potřeby trhu s maximálním využitím všech výrobních faktorů, přičemž jsou v optimálním množství a proporci.
+    - Efektivnost = užitečnost, ale taky výsledek, následek. Výsledkem podniku jsou služby a výrobky, tedy výstup podniku (output). Tyto výstupy vznikají spotřebou výrobních činitelů (vstupy neboli inputy) podniku.
+  - Existuje mnoho ukazatelů hodnot, kterými lze zobrazit efektivita podniku:
+      -	Měřítko efektivnosti = hodnota výstupu / hodnota vstupu
+      -	Koeficient haléřové nákladovosti = náklady / výnosy
+      -	hospodárnost = skutečné náklady / náklady při optimální kombinaci výrobních faktorů
+      -	ukazatel využití kapitálu (aktiv) = výnosy / kapitál
+      -	rentabilita nákladů = zisk / náklady
+      -	zisk = tržby – náklady
+      -	rentabilita obratu = zisk / obrat
+      -	rentabilita celkového kapitálu = zisk / celkový kapitál
+      -	rentabilita vlastního kapitálu = zisk / vlastní kapitál
+      - ukazatel likvidity/ukazatel zadluženosti
+    - rentabilita = **rate of return**
+  - Zvyšování efektivnosti lze dosáhnout specifických ekonomicky definovaných bodů efektivnosti
+    - Nákladová, alokační, dynamická, personální
+    - Alokační - například nabídka zboží = poptávka po zboží, společnost je ve výrobním optimu
 
+- **Cíle podniku**
+  - jedná se o to, co podniky sledují svým chováním
+  - primárním cílem podniku je samozřejmě maximalizace zisku a maximalizace hodnoty podniku - **shareholder value**
+
+- **Dlouhodobé a krátkodobé cíle**
+  - krátkodobé cíle = cíle v kratším časovém období - jak se chovat ve vztahu k cíli dlouhodobému - musí být **SMART**
+  - dlouhodobé cíle = jedná se v podstatě o strategické plánování, tedy dlouhodobé směřování firmy na trhu, jedná se o **business model** jako takový (s čím vstupujeme na trh)
+
+- **Velké podniky**
+  - u menších podniků je spektrum cílů omezené a většinou směřuje k finanční rentabilitě a k zisku, rovněž se na jejich provozu majitelé standardně angažují
+  - u společností větších jsou ale cíle složitější a je jich více
+    - je zde většinou oddělené vlastnictví od řízení (řídí manažeři, nikoli vlastníci = ti jen profitují)
+      - u velkých firem mají tito manažeři na starost zajistit naplnění mnohem více cílů:
+        - sociální odpovědnost = cíle brand name, spokojenost zaměstnanců etc.
+        - zásadním cíle je však zisk, ostatní cíle jsou spíše doprovodného charakteru
+          - Pro vlastníky jsou důležité ukazatele MVA a EVA
+          - **MVA** = market value added = u podniků obchodovatelných na burze = hodnota akcií - jejich vstupní cena pro akcionáře
+          - **EVA** = economic value added = rozdíl mezi čistým ziskem a kapitálovými náklady (akcionářům tedy musí zbýt na dividendy)
+
+**Poslání a vize**
+  - **Poslání podniku**, je samotný důvod existence organizace a její existenční záměr - proč je na trhu, pro koho je na trhu, co nabízí
+  - **Vize** pak představuje konkrétní a jasné představy o budoucím stavu, které mají na rozdíl od cílů emocionální zabarvení - popisuje čím by se organizace v delším horizontu měla stát a čeho by měla dosáhnout
+  - Vize má za cíle: **vyjasnit obecný směr, motivovat lidi a koordinovat úsilí velkého množství lidí**
+    - Vizi a poslání je potřeba rozpracovat do jednotlivých **cílů**.
+      - Cíl považujeme za racionální konkretizaci poslání, která ukazuje směr, představuje ideál a popisuje žádoucí stav.
+      - Cíle musí být vždy SMART
+        - Specific
+        - Measurable
+        - Acceptable
+        - Real
+        - Time-related
+
+- **Strategie**
+  - Cíle je potřeba přepracovat do strategií - popsaných způsobů jak cílů dosáhnout.
+  - Stejně jako cíle, tak i strategie by měla být určována na jednotlivých řídících stupních podniku.
+    - Tedy od nejobecnějších celopodnikových (strategických) k těm nejpodrobnějším, tedy operativní cíle i strategie.
+
+- **Ziskové a neziskové formy podnikání**
+  - Cílem ziskových forem podnikání je zisk, zatímco cíle neziskových forem podnikání je něco jiného než zisk = standardně třeba nějaký sociální/humanitní/enviromentální cíl
+    - Z tohoto důvodu bych rozdělil tento bod na klasické společnosti založené za **soukromým účelem** a právní formy založené za **veřejným účelem**
+    - Ziskové formy jsou tak například klasické s.r.o., a.s. etc.
+    - Neziskové formy pak mohou být fundace, ústav etc. = mohou taky podnikat, ale zisky musí použít na svůj provoz a svůj účel, dále pak také i veřejnoprávní PO jako například státní příspěvková organizace
+
+- **Podnikatelské objevování** (Hayek a Mises)
+  - Podnikatelské objevování tedy znamená proces, kdy někdo pozorný objeví něco, co bylo dosud přehlíženo. Podnikatel objevuje na trhu mezery, vyplňuje je svou kreativností a inovací a tak, svou vlastní podnikatelskou aktivitou, přetváří a mění ekonomickou realitu. Přitom je motivován možností případného zisku. Permanentní tržní proces směřuje tímto způsobem od nerovnováhy k rovnováze. Je to proces učení se a objevování.
+
+- **Investiční rozhodování podniku**
+  -
 
 ----
 :::
