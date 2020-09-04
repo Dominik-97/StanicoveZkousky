@@ -11002,29 +11002,38 @@ Kurzy
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Efektivnost podniku
+  - [ ] Její základní kategorie
+- [ ] Cíle a funkce podniku
+  - [ ] Poslání a vize podniku
+  - [ ] S.M.A.R.T. cíle
+  - [ ] Ziskové a neziskové formy podnikání
+  - [ ] Podnikatelské objevování
+- [ ] Investiční rozhodování podniku
+  - [ ] Základní metody a jejich užití
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
 **Cíle podniku**
 
-​				Cíle podniku
+VEDLEJŠÍ
+v teorii                    | v praxi
 
-​						 |
+maximalizace zisku          | maximalizace zisku
 
-​						/ \\
+maximalizace zisku na akcii | ukazatele ROE
 
-v teorii												 |  v praxi
+tržní cena akcie            |  
 
-maximalizace zisku						   |  maximalizace zisku
+shareholder value           | shareholder value
 
-maximalizace zisku na akcii            |   ukazatele ROE
+MVA, EVA                    | MVA, EVA
+VEDLEJŠÍ
 
-tržní cena akcie                                 |  
+**Efektivnost podniku**
 
-shareholder value                            |   shareholder value
-
-MVA, EVA                                           |   MVA, EVA
 
 ----
 :::
