@@ -10865,19 +10865,19 @@ Kurzy
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Podnik
-  - [ ] Vymezení
-  - [ ] Okolí
+- [x] Podnik
+  - [x] Vymezení
+  - [x] Okolí
   - [ ] Ekonomická podstata podnikání
   - [ ] Právní formy podnikání
-- [ ] Konkurenční okolí podniku
-  - [ ] Možnosti a metody srovnání s konkurencí
-    - [ ] Potenciální konkurence
-    - [ ] Koncentrace v odvětví
-    - [ ] Relevantní trh
-    - [ ] Odvětvová klasifikace ekonomických činností
-    - [ ] Benchmarking - DEA a SWOT analýza
-    - [ ] Competitive Intelligence
+- [x] Konkurenční okolí podniku
+  - [x] Možnosti a metody srovnání s konkurencí
+    - [x] Potenciální konkurence
+    - [x] Koncentrace v odvětví
+    - [x] Relevantní trh
+    - [x] Odvětvová klasifikace ekonomických činností
+    - [x] Benchmarking - DEA a SWOT analýza
+    - [x] Competitive Intelligence
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10896,7 +10896,8 @@ Kurzy
   - **Odštěpný závod** - nemá právní subjektivitu
   - **Provozovna** - nemá právní subjektivitu
 - **Okolí**
-    - Musí být příznivé pro podnikání.
+  - Okolím podniku se rozumí vše, co je vně podniku a zároveň ve vztahu s ním. Vazba okolí k podniku je oboustranná, okolí působí na podnik a podnik může působit na okolí. Dominantnější v tomto ovlivňování je spíše okolí.
+  - Musí být příznivé pro podnikání.
   - Součástí trhu, ekonomiky, hospodářství.
   - Působí na něj vnější faktory.
   - Tyto faktory ovlivňují podnikání.
@@ -10928,7 +10929,54 @@ Kurzy
 - Práce = L = Variabilní náklady
 - Kapitál = K = Fixní náklady
 - Výše napsané L = VC a K = FC však neplatí vždy, i náklady za práci mohou být například fixním nákladem.
+
 - **Konkurenční okolí podniku**
+  - představováno konkurujícími si podniky, změny v konk. okolí jsou výsledkem činnosti daného podniku
+  - je zásadní zjistit konkurenci, neboť její špatné odhadnutí může vést k tržnímu neúspěchu
+  - existují 3 zákl. přístupy k analýze konk. okolí
+    - **a) analýza trhu** – analýza zákl. faktorů, které ovlivňují pohyby trhu; úkolem je získat údaje o velikosti trhu, vývoji, segmentech, S a D, cenové úrovni, distribučních kanálech, konkurenci
+    - **b) analýza konkurence** – analýza klíčových konkurentů, konkur. výrobků, silných a slabých stránek, V a N konkur. výrobku
+      - slouží pro určení konkurenční pozice podniku
+      - 3 zákl. kroky analýzy konkurence: identifikace současné a potenciální konkurence, analýza jejich cílů a strategií, sestavení konkurenční strategie
+    - **c) Porterův model 5-ti sil** – hybné síly konkurence: rivalita mezi stávajícími konkurenty; síla vstupů, tj. dodavatelů; síla výstupu, tj. odběratelů; riziko vstupu potenc. konkurence do odvětví; riziko substitutů
+      - Souhrnné působení těchto pěti sil určuje intenzitu konkurence v odvětví a zároveň rozhoduje o úspěšnosti podniku v daném odvětví.
+      - Výnosnost odvětví je závislá na působení těchto 5 sil.
+
+- **Metody srovnání**
+  - Při vstupu na trh je vždy nutné udělat minimálně analýzu trhu a analýzu konkurence
+  - v ekonomii však existují přímo posané metody, které slouží k porovnání se s konkurencí
+  - Zde se jedná o takzvaný **benchmarking**
+    - Jedná se o nepřetržitý a systematický proces porovnávání a měření produktů, procesů a metod vlastní organizace s těmi, kdo byli uznáni jako vhodní pro toto měření, za účelem definovat cíle zlepšování vlastních aktivit -> z toho pak vychází cenová a necenová konkurence
+      - Porovnává se **postavení na trhu**, **pozice konkurence**, **zjišťují se slabiny a výhody** -> vyúsťuje ve snahu překonat konkurenci díky vyšší informovanosti
+  - Srovnání je možné dosáhnout taky za pomocí **DEA**
+    - DEA – analýza obalu dat.
+    - Vstupně výstupní analýza, kdy dokážeme zhodnotit efektivnost firmy.
+    - Analýza, sofistikovanější poměření více ukazatelů najednou za dané období – srovnání se s konkurencí, technická efektivnost, výstupní efektivnost (jak dosahují ostatní svého výstupu, neefektivita na straně vstupů), vstupní efektivnost (jak pomocí svého vstupu dosahují výstupu, neefektivita na straně výstupu)
+    - V podstatě se efektivnost zjistí **vydělením výstupů vstupy** = je zásadní pro zjištění technické efektivity, její zvýšení nám může v konkurenčním prostředí pomoci
+  - Další možností jak zjistit jak na tom firma je a porovnat se s konkurencí je takzvaná **SWOT** analýza
+    - Analyzují se:
+      - STRENGHT
+      - WEAKNESSES
+      - OPPORTUNITIES
+      - THREADS
+    - Podle výsledku se nastavuje strategie
+  - Důležitou součástí udržování pozice v konkurenčním prostředí je **Competitive Intelligence** -> poskytují konkurenční výhodu
+    - Zaměřuje se na celkový sběr dat, které mohou firmě poskytnout výhodu
+    - Je součástí Business Intelligence
+    - Mohou tak sloužit například jako systém brzkého varování
+
+- **Důležité termíny pro provádění průzkumu konkurence**
+- **Potenciální konkurence**
+  - představují nové podniky, které by v budoucnu mohly vstoupit na trh se stejným či podobným produktem nebo službou. V tomto případě půjde jen o odhady pravděpodobného vývoje daného trhu, nicméně i ty jsou pro plánování velmi cenné.
+- **Koncentrace v odvětví**
+  - Koncentrace v odvětví je odvislá od počtu aktérů na trhu a jejich tržních podílech. Obecně řečeno: vysoký počet stejně silných konkurentů na trhu znamená ostřejší konkurenci.
+  - Jedná se tedy o velikost výroby 4 hlavních producentů na daném trhu - pokud je koncetrace vysoká - dostat se na trh půjde těžko (oligopol)
+- **Relevantní trh**
+  - Relevantním trhem je trh produktů a služeb, které je z hlediska charakteristiky, ceny a zamýšleného použití shodné, porovnatelné nebo vzájemně zastupitelné, a to na území, na němž jsou soutěžní podmínky dostatečně homogenní a zřetelně odlišitelné od sousedících území.
+  - Určuje se podle: **geografického umístění, typu produktu a času**
+- **Odvětvová klasifikace ekonomických činností**
+  - OKEČ - Odvětvová klasifikace ekonomických činností - hierarchicky uspořádané třídění ekonomických činností stanovené Českým statistickým úřadem.
+  - Snaha arbitrárně definovat relevantní trh podle odvětví (OKEČ) a produktu (klasifikace CZ-CPA) v rámci geografického celku
 
 ----
 :::
