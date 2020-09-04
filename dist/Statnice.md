@@ -11098,7 +11098,14 @@ VEDLEJŠÍ
   - Podnikatelské objevování tedy znamená proces, kdy někdo pozorný objeví něco, co bylo dosud přehlíženo. Podnikatel objevuje na trhu mezery, vyplňuje je svou kreativností a inovací a tak, svou vlastní podnikatelskou aktivitou, přetváří a mění ekonomickou realitu. Přitom je motivován možností případného zisku. Permanentní tržní proces směřuje tímto způsobem od nerovnováhy k rovnováze. Je to proces učení se a objevování.
 
 - **Investiční rozhodování podniku**
-  -
+  - **Investování** – vynakládání zdrojů za účelem získání užitků v delším budoucím časovém období, odkládání spotřeby.
+  - Investice mohou být do:
+    -	**hmotné investice** – vytvářejí nebo rozšiřují výrobní kapacitu
+    -	**finanční investice** – nákup cenných papírů (akcie, obligace/dluhopisy/), půjčení peněz investičním aj. společnostem za účelem získání úroků, dividend nebo zisku
+    -	**nehmotné investice** – nákup hnow-how, výdaje na výzkum, vzdělání, sociální rozvoj aj.
+  - **Čisté investice** = rozšiřující investice
+  - **Hrubé investice** = čisté investice + udržující investice
+
 
 ----
 :::
