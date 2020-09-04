@@ -11009,8 +11009,8 @@ Kurzy
   - [x] S.M.A.R.T. cíle
   - [x] Ziskové a neziskové formy podnikání
   - [x] Podnikatelské objevování
-- [ ] Investiční rozhodování podniku
-  - [ ] Základní metody a jejich užití
+- [x] Investiční rozhodování podniku
+  - [x] Základní metody a jejich užití
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -11106,6 +11106,28 @@ VEDLEJŠÍ
   - **Čisté investice** = rozšiřující investice
   - **Hrubé investice** = čisté investice + udržující investice
 
+- **Rozhodování**
+  - má velký vliv na budoucnost podniku a patří k důležitým manažerským rozhodnutím
+  - rozhodování může být buď dlouhodobé = investiční strategie, nebo krátkodobé - dílčí součásti strategických řešení
+  - investiční činnost se plánuje - k tomu slouží **investiční plán podniku** -> ten je konkretizován v jednotlivých **investičních projektech**
+  - možnost je financovat z: vlastních zdrojů, z cizích zdrojů
+  - **Zásadní je hodnocení investic** - neboť se vynaloží peníze na budoucí projekty s příslibem zisku.
+    - hodnotí se podle:
+      - Výnosnosti
+      - Rizikovosti
+      - Likvidity
+      - Dlouhodobosti
+  - Podniková ekonomie má pak specifické funkce sloužící pro odhadování výnosnosti z investic, což je jedna složka z postupu hodnocení:
+    - Postup hodnocení:
+     - 1- Určení jednorázových nákladů
+     - 2- Určení budoucích výnosů (odpisy a zisky) z investice - k tomu slouží dané funkce
+    - Funkce:
+      - výnosnost investice, = ukazuje průměrnou roční výnosnost investice = důležité pro rozhodování
+      - náklady na kapitál, z kterého se investice uskutečňuje, = důležitý z toho hlediska, že investice nemusela být financována z vlastních zdrojů = výnosnost tak musí pokrýt i náklady na kapitál
+      - čistá současná hodnota (diskontování = WACC - vážený průměr nákladů na kapitál), = vkládá do rovnice i riziko (možnost vnesení pomocí zvýšení diskontní sazby) a časovou hodnotu peněz
+      - vnitřní výnosové procento = hledá se WACC, která bude pro výnosnost postačující, slouží k vyloučení investic, jejichž výnos například WACC nepokryje
+  - Zásadní vliv na rozhodování o investicích má i **finanční riziko** = mělo by být odhaleno a řešeno = minimalizováno
+
 
 ----
 :::
@@ -11138,6 +11160,9 @@ VEDLEJŠÍ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Finanční řízení podniku
+  - Provádí ho buď finanční ředitel (větší firmy) nebo majitelé (menší firmy)
+  - Finanční řízení velkých podniků je složité = lze proto zpravidla najít **finanční oddělení**, v jehož čele stojí **finanční ředitel**
 - Financování podniku
   - Doplnit
 
