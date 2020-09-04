@@ -10914,15 +10914,19 @@ Kurzy
     - technologické,
     - etické,
     - kulturně historické.
+  - Od okolí podniku se odvíjí faktory snadnosti podnikání a faktory ekonomické svobody -> je sestavována tabulka zemí s tím, jak jsou na tom
+
 - **Ekonomická podstata podnikání**
     - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
     - Působit jako důležitý subjekt v rámci trhu.
     - Důležité v rámci rozvoje ekonomiky, hospodářství, technologie a ekonomického růstu a uspokojování potřeb, dále specializace a dělba práce, vytváření blahobytu.
     - Zjišťování poptávky a uspokojování poptávky na tržním principu a cenovém principu a principu vzácnosti zdrojů, oproti například centrálně plánované ekonomice jsou v tomto společnosti velice dobré.
+
 - **Právní formy podnikání**
-    - 6ivnostenské podnikání
-    - NEŽIVNOSTENSKÉ PODNIKÁNÍ
+    - Živnostenské podnikání
+    - Neživnostenské podnikání
     - Právnické osoby.
+
 - Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 - Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
 - Dlouhodobé a krátkodobé období.
