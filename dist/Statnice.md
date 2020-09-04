@@ -10868,8 +10868,8 @@ Kurzy
 - [x] Podnik
   - [x] Vymezení
   - [x] Okolí
-  - [ ] Ekonomická podstata podnikání
-  - [ ] Právní formy podnikání
+  - [x] Ekonomická podstata podnikání
+  - [x] Právní formy podnikání
 - [x] Konkurenční okolí podniku
   - [x] Možnosti a metody srovnání s konkurencí
     - [x] Potenciální konkurence
@@ -10917,15 +10917,21 @@ Kurzy
   - Od okolí podniku se odvíjí faktory snadnosti podnikání a faktory ekonomické svobody -> je sestavována tabulka zemí s tím, jak jsou na tom
 
 - **Ekonomická podstata podnikání**
+  - Tržní
     - Vytvářet nabídku, vytvářet optimální alokaci zdrojů (důležitá součást trhu, která společně s poptávkou vytvářejí rovnovážnou cenu a právě tu zmíněnou optimální alokaci zdrojů).
     - Působit jako důležitý subjekt v rámci trhu.
     - Důležité v rámci rozvoje ekonomiky, hospodářství, technologie a ekonomického růstu a uspokojování potřeb, dále specializace a dělba práce, vytváření blahobytu.
     - Zjišťování poptávky a uspokojování poptávky na tržním principu a cenovém principu a principu vzácnosti zdrojů, oproti například centrálně plánované ekonomice jsou v tomto společnosti velice dobré.
+  - Subjektivní pro podnik
+    - Dosahovat zisku a uspokojit vlastníky/investory
 
 - **Právní formy podnikání**
     - Živnostenské podnikání
-    - Neživnostenské podnikání
+      - OSVČ
+    - Neživnostenské podnikání - jsou upraveny vlastním zákonem, uvádím jen pro doplnění, rovněž jsou činnosti, které vůbec podnikáním nejsou - například umělecká činnost
     - Právnické osoby.
+      - Zejména obchodní společnosti
+      - Ale i jiné právnické osoby, které mohou podnikat
 
 - Implicitní a explicitní náklady, fixní a variabilní náklady, další druhy nákladů.
 - Implicitní náklady - náklady obětované příležitosti (druhé nejlepší alternativy).
