@@ -8631,6 +8631,9 @@ Kmenové listy
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] CP vydávané a.s.
+- [x] Zvýšení a snížení ZK a.s.
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -8638,6 +8641,134 @@ Kmenové listy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+~~- o	vinkulace akcie – tzv. podmínění převodu akcie~~
+~~- Zatimní list = CP, který potvrzuje splaceni vkladu, nebo casti vkladu~~
+
+- **CP vydávané a.s.**
+- **Akcie**
+  - **Definice akcie (§ 256 odst. 1 ZOK):** „Akcie je cenný papír nebo zaknihovaný cenný papír, s nímž jsou spojena práva akcionáře jako společníka podílet se podle tohoto zákona a stanov společnosti na jejím řízení, jejím zisku a na likvidačním zůstatku při jejím zrušení s likvidací.“
+  - Akcie je věcí movitou hmotnou
+    -	Zaknihovaná akcie je věci movitou nehmotnou – akcie nahrazena zápisem v elektronické evidenci
+
+-	**Další druhy cenných papírů** – zatímní listy, vyměnitelné a prioritní dluhopisy, opční listy, dluhopisy, kupóny, směnky
+	 - **Účastnické cenné papíry** – garantují podíl na na ZK nebo hlasovacích právech (zatímní listy, akcie)
+   - **Neúčastnické cenné papíry** – garantují právo k získání účastnických papírů (vyměnitelné/prioritní papíry, opční listy) (§ 245 ZOK)
+
+- **Akcie jako část základního kapitálu**
+  -	Akcie představuje část ZK – všechny akcie tvoří dohromady ZK
+    -	(1) Akcie s jmenovitou hodnotou – povinná součástí stanov vyjádřená v Kč (v EUR) – lze vydat akcie s různou jmenovitou hodnotou
+    -	(2) Akcie bez jmenovité hodnoty (§ 257 ZOK) – tzv. kusové akcie - Na každou akcii připadá rovný díl na ZK – určuje se vydělením ZK počtem akcií – poté hovoříme o účetní hodnotě (nikoliv o jmenovité hodnotě)
+
+- **Emise akcií**
+  - Emisní kurs (§ 247 ZOK ve spojení s § 520 odst. 2 ZOK) – peněžní částka, za kterou emitent (AS) akcii vydává, resp. cena, za kterou akcii může získat první vlastník od emitent  
+  -	Tvořena (1) jmenovitou nebo účetní hodnotou a (2) někdy též emisním ážiem  	
+  -	Emisní kurs nesmí být nižší než jmenovitá/účetní hodnota akcie – emise pod hodnotu je zakázána
+  -	Emisní ážio (§ 248 ZOK) – hodnota emisní kursu převyšuje jmenovitou/účetní hodnotu – rozdíl mezi emisním kursem a jmenovitou/ účetní hodnotou se nazývá emisním ážiem
+  -	Nejedná se o vklad do ZK – patří mezi vlastní zdroje společnosti a v účetně se eviduje do vlastního kapitálu (emitace 10x akcií o jm. hod. 200k, upsány za emisní kurz 250k, emis. ážio = 50k)
+
+- **Akcie jako soubor práv a povinností akcionáře**
+  - Podíl na AS vtělen do akcie (§ 31 ve spojení s 32 odst. 2 ZOK) – představuje účast akcionáře na AS a PaP z účasti plynoucí
+
+- **Akcie jako cenný papír a její formy a druhy**
+ - Rozdělení:
+    - Podoba: akcie (listiná) X akcie zaknihovaná
+    - forma – akcie na majitele (cenný papír na doručitele) ✘ akcie na jméno (cenný papír na řad)
+    - druh - kmenové zvláštní
+  - Převody akcií nelze zakázat, ale lze je omezit
+
+-	**(1) akcie na majitele (§ 263 odst. 2 ZOK)**
+  -	jedná se o cenný papír na doručitele – jméno vlastníka se v akcii neuvádí (!)
+  -	může být vydána pouze jako zaknihovaný cenný papír nebo imobilosovaný cenný papír (§ 274 odst. 2 ZOK)
+    -	podstatou imobolisace (znehmotnění) je uložení akcií do hromadné úschovy u oprávněné osoby
+  -	Převod akcie – neomezeně převoditelné (§ 274 ZOK)
+
+-	**(2) akcie na jméno (§ 263 odst. 3 ZOK)**
+  -	jedná se o cenný papír na řad – spjata s osobou vlastníka, jehož jméno je uvedeno v akcii (!)
+  -	převod akcie – nauka o titulu a modu
+    -	titul – smlouva (v libovolné formě)
+    -	modus – rubopis (nutná jednoznačná identifikace nabyvatele) a tradice
+  -	převod je vůči společnosti účinný oznámením změny akcionáře a předložením akcie (§ 269 odst. 2 ZOK)
+
+- **Druh akcie:**
+  -	(1) kmenové akcie – nejsou spojená zvláštní práva
+  -	(2) zvláštní akcie – stanovy určují obsah a rozsah zvláštních práv – tvořit zvláštní druhy lze pouze přidáváním zvláštních práv (nikoliv přidáváním povinností nebo odebíráním práv jako v poměrech SRO)
+    -	upravují-li stanovy různé druhy akcií – nutné určit název a uvést popis práv k akcii (§ 250 odst. 2 písm. d) ZOK)
+    -	druh akcie se do OR zapisuje konstitutivně – není-li druh akcie zapsán, zvláštní práva se neprosadí (!)
+
+- **Zvláštní akcie**
+  -	(i) prioritní akcie – garance přednostního práva na podíl na zisku, jiných vlastních zdrojů či likvidačním zůstatku
+    -	posílení majetkové povahy je vyváženo absencí hlasovacího práva (§ 278 odst. 2 věta první ZOK)
+    -	vydávání akcií bez hlasovacího práva lze vydat, jen pokud jmenovitá hodnota nepřesáhne 90 % ZK (§ 279 ZOK)
+  -	(ii) akcie s rozdílnou vahou hlasů – akcie se stejnou jmenovitou (účetní) hodnotou mají různý počet hlasů
+  -	(iii) akcie s pevným podílem na zisku – právo na podíl na zisku bez nutnosti rozhodnutí VH o rozdělení (§ 348 odst. 4 ZOK)
+
+- **Princip celivosti akcie a samostatně převoditelná práva**
+  - Práva z akcie jsou většinou neoddělitelné
+  - Výjimky – tzv. samostatně převoditelná práva (§ 281 an. ZOK) - převádí se pouze konkrétní právo a nedochází k převodu akcie jako takové
+  -	Převodce nadále zůstává akcionářem a nabyvatel takového práva se zásadně nezíská postavení akcionáře  
+  - Zákon nebo stanovy mohou určit, že samostatně převoditelné právo, jinak spojené s akcií, se od akcie odděluje a je spojeno s cenným papírem vydaný k této akcii:
+    - Opční list – cenný papír k uplatnění přednostního práva na získání akcií nebo vyměnitelných/prioritních dluhopisů
+    - Kupóny – cenný papír k uplatnění práva na podíl na zisku
+
+- **Jednotlivá samostatně převoditelná práva (§ 281 odst. 2 ZOK)**
+  - Například:
+    - 1.	Právo na vyplacení podílu na zisku (§ 352 ZOK)
+    - 2.	Právo na podíl na likvidačním zůstatku (§ 549 ZOK)
+    - etc. a další práva majetkového charakteru
+
+- **Akcie, vznik společnosti a nabývání vlastních akcií**
+  -	právo na vydání – splacením emisního kursu vzniká povinnost AS vydat akcionáři akcie
+    -	nesplacená akcie (§ 256 odst. 2 ZOK) – není-li emisní kurs splacen, PaP jsou představována nesplacenou akcií
+  -	jednou z povinností je povinnost splatit emisní kurs (vkladová povinnost)
+  -	převod nesplacené akcie – převod dle pravidel o postoupení smlouvy (§ 1895 an. NOZ)
+  -	stejné závěry pro nevydané akcie – již splacené akcie, ale AS je v prodlení a akcie nevydala
+- **zatímní listy** (§ 285 ZOK) =	jediný cenný papír na řad vydaný jako předběžná inkorporace účasti v AS (obsahuje všechny nesplacené akcie = jeho hodnota) – pro případ, že není možno vydat akcie, neboť akcionář nesplatil emisní kurs
+- **Další cenné papíry**
+  - zatímní list, prioritní/vyměnitelné dluhopisy, opční listy, kupóny, další cenné papíry (směnky), nepojmenované cenné papíry
+
+- **Změny ZK**
+  - O změně ZK rozhoduje VH za splnění podmínky, že se změnou souhlasí kvalifikovaná většina akcionářů
+    - Rozhodnutí o změně ZK je rozhodnutím měnící stanovy, které vyžaduje souhlas 2/3 většiny hlasů přítomných akcionářů (§ 416 odst. 1 ZOK) – o rozhodnutí se pořizuje notářský zápis (§ 432 ZOK)
+    -	jsou-li i jiné druhy akcií, tak se rovněž vyžaduje souhlas 2/3 většiny přítomných akcionářů každého dotčeného druhu akcií (§ 417 odst. 1 ZOK)
+  -	**účinky změny ZK** – účinky zvýšení/snížení ZK nastávají zápisem nové výše do OR – konstitutivní zápis (§ 464 odst. 1 ZOK)
+  -	**druhy změn ZK**
+    -	(1) nominální zvýšení/snížení – pouhá účetní operace bez vlivu na jmění společnosti
+    -	(2) efektivní zvýšení/snížení
+  - Zvýšení ZK – VH může pověřit SO (představenstvo/statutární ředitel) ke zvýšení ZK
+    - **Efektivní zvyšování ZK:**
+      - **(1) upsání nových akcií (§ 474 an. ZOK):**
+        -	Efektivní zvyšování ZK prostřednictvím nových vkladů
+        -	**Podmínka:** splacení **všech** vkladových povinností (výjimka: vnesení nepeněžitého vkladu – nepeněžitý vklad musí být splacen ještě před podáním zápisu na zvýšení ZK či zanedbatelnost nesplacené části emisního kursu)
+        -	**Kdo může upisovat:** akcionáři, předem určené třetí osoby nebo veřejnost na základě veřejné výzvy
+          -	Akcionáři mají zásadně přednostní právo – vyjma při zvýšení nepeněžitými vklady, vyloučení práva VH nebo vzdání se práva
+        -	**Kapitalizace pohledávky:** věřitel místo plnění obdrží účast na společnosti (nicméně smlouvu o započtení pohledávky musí odsouhlasit VH)
+        -	proces zvyšování ZK:
+          -	(1) usnesení VH – musí být podán návrh na zápis usnesení do OR (§ 477 ZOK)
+          -	(2) návrh na zápis zvýšení ZK do OR – musí být po vnesení všech nepeněžitých a splacení alespoň 30 % jmenovité hodnoty peněžitých vkladů (§ 492 ZOK)
+          -	(3) výměna akcií
+          -	**Akcionářská práva vznikají ještě před zápisem zvýšení do OR**
+      -	**(2) podmíněné zvýšení ZK (§ 505 an. ZOK):** efektivní zvyšování ZK zakládající oprávnění akcionáře/třetí osoby získat akcie společnosti v budoucnu prostřednictvím vyměnitelných/prioritních dluhopisů
+        -	Ke zvýšení ZK dochází v závislosti na tom, zda a v jakém rozsahu svá práva nabýt účast uplatní vlastníci dluhopisů (§ 506 ZOK)
+    -	**Nominální zvyšování ZK:**
+      -	(3) zvýšení z vlastních zdrojů (§ 496 an. ZOK): nominální zvýšení ZK – pouhá účetní operace, na níž se podílí poměrně všichni akcionáři (např. nerozdělený zisk, různé fondy)
+
+- **Snížení ZK**
+  -	rozlišujeme povinné (př. nabytí vlastních akcií v rozporu se zákonem) a nepovinné snížení ZK
+  -	podmínky:
+    - snížení nesmí být pod hranici 2.000.000 Kč/ 80.000 EUR či zhoršit dobytnost pohledávek (§ 517 ZOK)
+    -	povinnost informování a výzvy věřitelů k přihlášení pohledávek (§ 518 odst. 1 ZOK)
+    -	povinnost zveřejnění usnesení VH o snížení v Obchodním věstníku (§ 518 odst. 2 ZOK)
+  -	ustanovení o ochraně věřitelů se nepoužijí při zjednodušenému snížení ZK (za účelem úhrady ztráty) - tedy informace a zveřejnění
+  -	snížení ZK je účinné až zápisem nové výše ZK do OR – konstitutivní povaha zápisu
+  -	5 způsobů snížení ZK:
+    - (1) použití vlastních akcií,
+    - (2) snížení jmenovité hodnoty akcií,
+    - (3) vzetí akcií z oběhu na základě losování,
+    - (4) vzetí akcií z oběhu na základě veřejného návrhu smlouvy,
+    - (5) upuštění od vydání akcií
+  -	důsledek změny ZK (§ 537 an. ZOK) – odevzdání/výměna stávající akcie, popř. vyznačení nové jmenovité hodnoty
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
