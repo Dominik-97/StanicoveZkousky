@@ -10153,11 +10153,11 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Hospodářský cyklus
-  - [ ] Pojem
-  - [ ] Vnější a vnitřní příčiny vzniku
-  - [ ] Příklady
-  - [ ] Časové rozlišení
+- [x] Hospodářský cyklus
+  - [x] Pojem
+  - [x] Vnější a vnitřní příčiny vzniku
+  - [x] Příklady
+  - [x] Časové rozlišení
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10166,6 +10166,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 - **Hospodářský cyklus**
   - Jedná se o výkyvy skutečného hospodářského produktu okolo potenciálního produktu = **hospodářský cyklus**.
   - Celý hospodářský cyklus trvá 8 - 12 let.
+  - Vývoj HC provází - změna cen a změna nezaměstnanosti.
   - Je potřeba rozlišovat **strukturální** a **cyklické** výkyvy, hospodářský cyklus stojí právě na **cyklických výkyvech**.
   - Strukturální výkyvy jsou v pořádku, znamenají pružnost ekonomiky, souvisí se **strukturální nezaměstnaností** a pouze ukazují, že se některá odvětví (neperspektivní ve smyslu komparativní výhody) smršťují, a jiná perspektivní naopak rostou, před strukturálními výkyvy nelze chránit například ochranářskou politikou a cly, neboť ta brání neperspektivní odvětví a brání perspektivním odvětvím v tom, aby se prosadila, tím se i snižuje zahraniční obchod - právě kvůli **komparativní výhodě, respektive nevýhodě** a žádná země nemůže v moderním světě přežít bez zahraničního obchodu.
     - **Komparativní výhoda spočívá v tom, že některá země je v produkci nějakého statku efektivnější než země jiná, proto je výhodné tyto statky dovážet do zemí, kde by jinak jejich produkce nebyla efektivní a alokovat volné zdroje na produkci statku, ve kterém má daná země komparativní výhodu.**
@@ -10173,12 +10174,35 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - **Má čtyři fáze:**
     - **Recese:** jedná se o výrazný pokles agregátní poptávky po dobu alespoň dvou čtvrtletí, vzniká neprodejná nadprodukce, jedná se o **deflační mezeru**, klesají investice a kvůli snížené poptávce se omezuje výroba, **reálný produkt se snižuje, roste nezaměstnanost, domnívám se, že s ohledem na Phillipsovu křivku a menší zájem o peníze (investoři se například přesouvají na komoditní trh) se bude i snižovat inflace**.
     - **Dno:** představuje bod obratu, kdy recese přechází do oživení.
-    - **Vrchol:** představuje bod zlomu po oživení, kdy kvůli určitému důvodu ekonomika přechází do recese, ekonomika je v tomto bodě na vrcholu a je také značně přehřátá, reálný produkt je nad potenciálním produktem, to je způsobeno především zahraničním kapitálem, respektive ten způsobuje to, že je reálný produkt nad potenciálním.
     - **Oživení:** roste agregátní poptávka, zaměstnanost, ceny i zisky, růst investic je založen na očekávání vysokých zisků, kvůli investicím roste produktivita práce a roste ekonomika - zvyšuje se potenciální produkt, skutečný produkt se dostává nad potenciální produkt v důsledku zahraničních investic a ekonomika se přehřívá, hodně se projevují inflační tlaky.
+    - **Vrchol:** představuje bod zlomu po oživení, kdy kvůli určitému důvodu ekonomika přechází do recese, ekonomika je v tomto bodě na vrcholu a je také značně přehřátá, reálný produkt je nad potenciálním produktem, to je způsobeno především zahraničním kapitálem, respektive ten způsobuje to, že je reálný produkt nad potenciálním.
   - **Časové rozlišení**
     - **Krátkodobý:**
+      - 18-40 měsíců - krátkodobé kolísání reálného HDP okolo potenciálního HDP, může být způsobeno například výkyvy v zásobách
     - **Střednědobý:**
+      - 8-10 let - domnívám se, že to jsou ty běžné cykly - standardně se jedná o střídání období zvýšeného opotřebení kapitálu - investice, a novosti kapitálu - neinvestice, důvodů pro tento cyklus může být více - střídání generací komodit, zemědělské výkyvy etc.
     - **Dlouhodobý:**
+      - 20-50 let - jedná se o cykly, které jsou započaty nějakou zásadní změnou - války, převratné objevy etc.
+  - **Příčiny vzniku**
+    - Každá ekonomická teorie má jiný názor na to, co způsobuje ekonomické cykly:
+    - Teorie spíše liberální spatřují důvody v takzvané **monterání teorii** vzniku cyklů, které staví svojí argumentaci například na množství peněz v oběhu a inflaci - cyklus tak může započít například zvýšením peněžní zásoby - nové investiční příležitosti, ALE, je to jen finanční iluze - kvůli inflaci si firmy uvědomí, že pro ně nové investice nejsou ziskové a začnou omezovat svoje náklady
+    - Zatímco teorie spíše Keynesiánské se zaměřují na důvody spojené se změnany **poptávky** - ta může klesnout (například z důvodu nějakého očekávání), ale **mzdy** a **ceny** výrobců se přizpůsobují pomalu, přesto, že příjmy klesají - firmy nejsou tak ziskové a omezují svoje náklady
+    - Taková třetí teorie je pak teorie **reálná** - ta tvrdí, že ekonomické cykly vznikají například v důsledku vnějších šoků, jako například růst cen ropy (inflace tažená nabídkou)
+
+
+- **Vnitřní a vnější příčiny**
+  - Domnívám se, že výše uvedené přičiny lze podřadit pod nejobecnější pojetí důvodů cyklů:
+  - **Vnější příčiny** = například reálná teorie
+    - jsou vnější události ovlivňující ekonomiku např. vynálezy a inovace, války, mezinárodní hospodářské smlouvy, významné politické nebo sociální události, apod.
+    - Populační změny ovlivňují poptávku po statcích a službách. Populační růst vede ke zvýšení produkce a zaměstnanosti, která odstartuje konjunkturu a vrchol. Snížení populace bude mít opačný účinek.
+    - Vynálezy a inovace. Významné změny v technice, např. vývoj automobilu, letadla, počítače, vedly k rozvoji podnikatelské aktivity a investování. To bylo zase následováno zvýšením pracovních příležitostí a obdobím konjunktury a vrcholu.
+    - Války a politické události, embarga, ropné krize, členství v různých mezinárodních hospodářských institucích ovlivňují směr HC.
+  - **Vnitřní příčiny**
+    - jsou události uvnitř ekonomiky, které pravděpodobně nastartují konjukturu nebo recesi HC
+    - Spotřeba. Jakmile se produkce, zaměstnanost a prodej zvyšuje, vstupuje HC do období konjunktury a vrcholu. Zvyšují se spotřebitelské výdaje. V opačném případě výrobe je omezována, pracovníci jsou propouštěni a ekonomika vstupuje do fáze  recese. Spotřebitelské výdaje se snižují.
+    - Podnikové investice do kapitálových statků, strojů a zařízení vytvářejí dodatečné pracovní příležitosti, čímž zvyšují kupní sílu spotřebitelů. Zvýšení výdajů vytvořené počátečním zvýšením investic vede opět k dalšímu investování, spotřebě a celkové produkci.
+    - Činnost státu. Stát může některými postupy postrčit HC dolů nebo nahoru. Dělá to 2 způsoby. První spočívá v pravomoci státu zdaňovat a vydávat peníze. Druhá využívá regulace nabídky peněz a úvěrů v oběhu.
+
   - **Hospodářský proces**
     - Výroba - první fáze je vyrobení statku
     - Rozdělení - ti kdo se na výrobě statku podíleli získávají odměnu
