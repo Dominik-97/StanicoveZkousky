@@ -10752,6 +10752,138 @@ Kurzy
   - Vytěsňování soukromých investic
     - Doplnit
 
+    Fiskální (rozpočtová) politika představuje vědomé využívání státního rozpočtu (popř. ostatních veřejných rozpočtů) za účelem dosažení stanovených cílů.
+
+    Fiskální politika má v ekonomice následující funkce:
+
+    •	Redistribuční (zajištění přerozdělení důchodů)
+    •	Alokační (zajištění efektivní alokace především veřejných statků)
+    •	Stabilizační (jedná se o stabilizaci hospodářského cyklu)
+
+    Cíl – hlavním cílem fiskální politiky je udržení vyváženého ekonomického růstu a zajištění nízké míry nezaměstnanosti. Další cíle jsou: nízká i stabilní inflace, resp. vyrovnaná platební balance.
+
+
+    Hlavní subjekt – nositelem fiskální politiky je vláda, v přeneseném smyslu pak ministerstva, okresní úřady, ale také samosprávné kraje či obce.
+
+    Nástroje fiskální politiky
+    1.)	Vestavěné (automatické) stabilizátory
+    2.)	Diskrétní (záměrná) opatření
+    1.)	Vestavěné stabilizátory
+
+    Automatické (vestavěné) stabilizátory jsou takové nástroje fiskální politiky, které pokud jsou jednou zavedeny, působí automaticky a nevyžadují žádné další zásahy státu. Znamená to, že automaticky stabilizují ekonomiku. Jedná se o:
+    •	Mandatorní (každoročně povinné) výdaje
+    •	Progresivní daně z příjmu
+    •	Transferové platby (např. podpora v nezaměstnanosti)
+
+    Pokud se ekonomika nachází v recesi, dochází k růstu nezaměstnanosti. Podpora v nezaměstnanosti či jiné sociální dávky eliminují pokles příjmů nezaměstnaných osob, a tak stimulují agregátní poptávku (resp. produkt) a stabilizují ekonomiku. Stejně tak např. při progresivní daňové sazbě, dojde (za předpokladu, že v recesi mzdy a jiné příjmy klesají) k posunu příjmů do nižších daňových pásem, které mají menší míru zdanění. Ekonomickým subjektům je tak částečně pokles příjmů elimininován poklesem daní.
+
+
+    2.)	Diskrétní opatření – jsou jednorázová opatření, která jsou zaměřena na realizaci akutních změn v národním hospodářství. Jedná se např. o:
+    •	Změnu daňových sazeb a zavedení nových daní
+    •	Změnu ve výši jednotlivých položek vládních výdajů
+    •	Změnu struktury vládních výdajů
+    •	Veřejné programy a projekty zaměstnanosti
+
+    Diskrétní opatření mají výhodu oproti vestavěným stabilizátorům ve větší pružnosti a operativnosti, problémem však mohou být časová zpoždění v jejich uplatňování.
+
+
+    Analýza vládních výdajů
+
+    Příjmy státního rozpočtu v roce 2001: celkem 630,7 mld.
+    Příjmy z daní a poplatků (daň z příjmu FO a PO, DPH, spotřební daně, správní a soudní poplatky, clo, daň dědická, darovací a z nemovitostí) – 359,4 mld. Kč
+    Pojistné na sociální zabezpečení 234,4 mld. Kč
+    Příjmy z vlastní činnosti 23,0 mld. Kč
+    Ostatní příjmy: 13,9 mld. Kč
+
+    Výdaje státního rozpočtu v roce 2001: celkem 650,7 mld.
+    Platy a nákupy rozpočtových organizací – 178,0 mld. Kč
+    Příspěvky příspěvkovým organizacím a VŠ – 82,9 mld. Kč
+    Příspěvky územním rozpočtům – 24,6 mld. Kč
+    Transfery obyvatelstvu – 280,0 mld. Kč
+                     podnikatelským subjektům a neziskovým organizacím – 34,3 mld. Kč
+    	     ostatní – 9,7 mld. Kč
+    Příspěvky zdravotním pojišťovnám a státním fondům – 32,2 mld. Kč
+    Půjčky – 7,2 mld. Kč
+    Ostatní – 1,8 mld. Kč
+
+    Zdroj:  EKONOMIE Holman
+    Rozpočet dle kapitol viz. přílohy
+
+    Expanzivní fiskální politika
+    Expanzivní fiskální politika podporuje agregátní poptávku. Jedná se o snížení čistých daní, zvýšení vládních nákupů apod.
+    Krátkodobý efekt: stát buď sníží daně, nebo zvýší své nákupy což vede k růstu hrubého národního produktu, růstu zaměstnanosti, ale často také k růstu cenové hladiny.
+    Dlouhodobý efekt: vede zpravidla ke zvyšování cen a tedy k inflaci, to znamená, že se nemění úroveň produktu a zaměstnanosti a, ale zvyšuje se úroveň cen.
+    Restriktivní fiskální politika
+    Restriktivní fiskální politika omezuje nebo snižuje agregátní poptávku. Může se jednat o zvýšení čistých daní nebo snížení vládních nákupů.
+    Krátkodobý efekt: snižuje úroveň cenové hladiny, snižuje produkt a zaměstnanost.
+    Dlouhodobý efekt: působí na zvýšení soukromých investic, snížení cenové hladiny, úrokové míry, a pokud soukromé investiční výdaje plně nehradí státní výdaje na nákup, nedochází ke změně v úrovni reálného produktu a zaměstnanosti.
+    Daň z příjmů FO
+    Naše daňová soustava je progresivní. Lidé s vyšším příjmem odevzdávají  vyšší daně.  Daňová sazba je sice stanovena na 19% pro všechny příjmové kategorie a  je prezentována jako rovná daň 19%, ovšem za rovnou daň ji nelze označit vzhledem k progresivnímu růstu reálných odvodů s výší dosažené mzdy.
+
+    Ovlivňování agregátní poptávky
+    k tomuto ovlivňování, a tím i ovlivňování úrovně ekonomické aktivity slouží 2 hlavní nástroje
+
+    1) Stabilizace souhrnné poptávky pomocí fiskální politiky
+    fiskální politika = rozhodnutí vlády vztahující se k celkové úrovni státních rozpočtových příjmů a výdajů (především daní)
+    Změny
+    •	vyšší výdaje vlády za zboží a služby zvyšují agregátní poptávku (posun doprava), stejně jako nižší daňové příjmy státu = expanzivní fiskální politika
+    •	snížené rozpočtové výdaje a vyšší daňové příjmy naopak omezují = restriktivní fiskální politika (posun doleva)
+    Příklad
+    -	ekonomika prošla obdobím kontrakce, vypadá, že směřuje k recesi (HDP klesá, nezaměstnanost roste)
+    -	rozhodne-li se vláda to zvrátit, má možnosti:
+    o	snížit daně a rozpočtové výdaje nechat bez změny
+    o	nechat beze změny daně a zvýšit rozpočtové výdaje
+    o	kombinace obojího
+    -	sníží-li daně/zvýší-li výdaje→ domácnosti i firmy získají vice disponibilních finančních prostředků, které mohou věnovat na své spotřební nebo investiční výdaje
+    -	začnou- li spotřebiteksé výdaje/ investice růst → pokles ekonomiky se zastaví
+    -	v případě konjuktury - rychlého růstu cen → vláda může zvýšit daně/snížit státní výdaje / oboje
+    -	spotřebitelé/ firmy budou mít méně prostředků → povede k omezení celkové poptávky po zboží/ službách - mohou omezit inflaci
+
+
+    Stabilizace souhrnné poptávky pomocí monetární politiky
+    •	AP též ovlivňována změnami v nabídce peněz = monetární politikou CB
+    •	zvýšení nabídky peněz (posun křivky peněžní nabídky – doprava) zvyšuje agregátní poptávku
+    •	zvýšení peněžní nabídky snižuje rovnovážnou úrokovou míru → snížení úrokové míry vede k poklesu nákladů spojených s půjčováním i nákladů ušlých příležitostí při držení peněz (= výnosů z úspor) → tím vzrůstá motivace k výdajům, především investiční aktivitě firem a nákupům nemovitostí
+    •	→výsledkem vyšší nabídky peněz je i vyšší agregátní poptávka
+    •	růst peněžní nabídky v období kontrakce a recese může přispět k podpoře ekonomické aktivity
+    •	Monetární politika, která má za cíl AP omezit → postupuje naopak
+    •	snižuje nabídku peněz a zvyšuje úrokové sazby
+    •	redukce peněžní nabídky vedoucí k omezení AP umožňuje v situaci, kdy rychle rostoucí ekonomika tlačí ceny v inflační spirále vzhůru, dynamiku tohoto cenového růstu snížit
+
+    Koordinace monetární a fiskální politiky
+    •	většinou prováděny vzájemně nezávislými orgány: vláda + centrální banka
+    •	při provádění dochází k určité koordinaci - může zvýšit účinnost obou politik
+    •	účinnost expanzivní politiky může být posílena expanzivní monetární politikou, která zvýšením penežní nabídky snižuje dopad efektu vytěsňování
+    •	v případě, že monetární politika expanzivní fiskální politiku nepodporuje, hovoříme o tzv. čisté fiskální expanzi
+    o	→ růst nominálního produktu je v tomto případě provázen růstem úrokové míry, na který reagují investiční výdaje firem a částečně i spotřební výdaje domácností
+    o	→ poklesem může reagovat i čistý export, a to, zvýší-li se pod vlivem vyšších úrokových měr kurz domácí měny
+    •	v případě fiskální restrikce může být naopak pokles úrokových sazeb restriktivní monetární politikou omezen
+    •	přizpůsobení fiskální politiky je důležité v otevřené ekonomice s fixními měnovými kurzy (účinnost monetární politiky je zde omezená)
+    •	koordinace může ovlivňovat i strukturu HDP – vzhledem k dopadu jednotlivých politik na jednotlivé kategorie výdajů v národním hospodářství (bod 3 a 4)
+    o	expanzivní monetární politika podporuje výdaje citlivé na pokles úrokové sazby (hlavně soukromé investice)
+    o	expanzivní fiskální politika vedoucí k vyšším úrokovým sazbám omezuje tyto výdaje, pod jejím rostou vládní nákupy a spotřebitelské výdaje (důsledek zvýšených transferů domácnostem)
+
+    Problémy fiskální politiky
+    •	zvyšování výdajů, snížování daní (v zájmu boje s recesí) - vytváří často rozpočtový deficit a zvyšuje státní dluh, který je kumulací minulých deficitů
+    •	Problém - jak kompenzovat pokles daňových příjmů
+    •	vypůjčení peněz od veřejnosti
+    o	vláda tak snižuje objem disponibilních kapitálových prostředků k financování soukromých investic (efekt vytěsňování) →zvýší se úrokové sazby a odradí to firmy a domácností k investicím→ bude mít za násladek nižší tempo hospodářského růstu
+    •	monetizace rozpočtového deficitu
+    o	vládní cenné papíry – kupuje centrální banka, která nákup financuje dodatečnými penězi uvolněnými do oběhu, tyto přírůstky peněžní zásoby mají však tendenci zvyšovat cenovou hladinu a inflaci
+    •	využití zahraničních zdrojů
+    o	 zahraničního kapitálu má však tendenci zvyšovat kurz domácí měny a oslabovat cenovou konkurenceschopnost domácího exportu, tak i snižovat růstový potenciál ekonomiky HDP (v důsledku poklesu čistého exportu)
+    •	Politické problémy
+    o	často znemožňují užití fiskálních nástrojů
+    o	v období inflace: potřeba růstu daní nebo poklesu vládních výdajů
+    o	problém: jde o nepopulární opatření
+    o	zvláště před volbami se vlády nerady uchylují ke zvýšení daní
+    o	snížení vládních výdajů naráží často na odpor sociálních nebo politických skupin (mají z nich prospěch)
+    •	Správné načasování + přesnost údajů poskytovaných ekonomickými indikátory
+    •	správné načasování vyžaduje
+    o	těsnou spolupráci mezi vládou a parlamentem - často přijetí/změna zákona trvá příliš dlouho
+    o	přesné prognózy – problém např.odhad výše deficitu státního rozpočtu na začátku fiskálního období
+
+
 ----
 :::
 #### Otázka 12 - Podnik a jeho okolí, ekonomická podstata podnikání, právní formy podnikání, konkurenční okolí podniku, možnosti a metody srovnání s konkurencí (potenciální konkurence, koncentrace v odvětví, relevantní trh, odvětvová klasifikace ekonomických činností, benchmarking - DEA a SWOT analýza, Competitive Intelligence). \
