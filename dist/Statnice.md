@@ -8686,8 +8686,8 @@ Kmenové listy
 -	**(2) akcie na jméno (§ 263 odst. 3 ZOK)**
   -	jedná se o cenný papír na řad – spjata s osobou vlastníka, jehož jméno je uvedeno v akcii (!)
   -	převod akcie – nauka o titulu a modu
-    -	titul – smlouva (v libovolné formě)
-    -	modus – rubopis (nutná jednoznačná identifikace nabyvatele) a tradice
+    -	titul (smluvní odůvodnění) – smlouva (v libovolné formě)
+    -	modus (způsob předání) – rubopis (nutná jednoznačná identifikace nabyvatele) a tradice
   -	převod je vůči společnosti účinný oznámením změny akcionáře a předložením akcie (§ 269 odst. 2 ZOK)
 
 - **Druh akcie:**
@@ -8795,6 +8795,8 @@ Kmenové listy
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
