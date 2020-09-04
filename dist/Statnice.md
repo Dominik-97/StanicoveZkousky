@@ -11144,12 +11144,12 @@ VEDLEJŠÍ
 \|---------\| <br>
 
 - [x] Finanční řízení podniku
-  - [ ] Finanční management - organizace
-  - [ ] Finanční management - hlavní úkoly
+  - [x] Finanční management - organizace
+  - [x] Finanční management - hlavní úkoly
 - [ ] Finanční analýza
   - [ ] Nástroje pro rozhodování finančního managementu
-- [ ] Financování podniku
-  - [ ] Vnější a vnitřní zdroje
+- [x] Financování podniku
+  - [x] Vnější a vnitřní zdroje
   - [ ] Finanční uzávěrka - rozvaha
 - [ ] Hospodářský výsledek podniku
   - [ ] Rentabilita
@@ -11165,6 +11165,10 @@ VEDLEJŠÍ
   - Finanční řízení velkých podniků je složité = lze proto zpravidla najít **finanční oddělení**, v jehož čele stojí **finanční ředitel**
     - Finanční oddělení je důležité ze strategického hlediska, neboť **rozhoduje o rozdělení financí organizace**
 
+- **Finanční management - organizace**
+  - Malá firma - většinou vytvářejí pouze vlastníci
+  - Velká firma - standardně finanční oddělení a finanční ředitel
+
 - **Finanční management - hlavní úkoly**
   - Musí odpovídat na určité otázky vymezené v rámci jejich kompetence:
     - 1) Jaký kapitál pro běžné a jaký pro mimořádné potřeby podniku, včetně určení jeho struktury
@@ -11172,8 +11176,43 @@ VEDLEJŠÍ
     - 3) Jak bude rozdělen zisk (reinvestice, dividendy), - u dividendů se však jedná jen o doporučení, rozhoduje o něm jinak VH
     - 4) Jaké jsou prognózy, analýzy, plány, kontrolní závěry
   - Odpovědi na tyto otázky jsou ovlivněny především:
-    - Faktorem času
-    - Faktorem rizika
+    - Faktorem času - rozdílná hodnota peněz v čase
+    - Faktorem rizika - riziko vs. výnos (a likvidita)
+
+- **Druhy rozhodování finančního managementu**
+  - 1- Taktické (operativní) rozhodování - jedná se o operativní rozhodování o běžných obchodních věcech
+  - 2- Strategické rozhodování - jedná se o finanční rozhodování opírající se zejména o dlouhodobější strategii směřování podniku
+    - strategické investiční rozhodování - o investicích
+    - strategické finanční rozhodování - o rozdělování financí uvnitř firmy
+
+- **Finanční analýza**
+  - Doplnit
+
+- **Financování podniku**
+  - jedná se o způsob získávání kapitálu (kapitál slouží pro udržování a získávání majetku) - pokud chce tedy firma investovat například do hmotných investic - musí na to mít kapitál
+    - **kapitál** - Kapitál v ekonomii obecně označuje zásobu různých zdrojů, které vynakládáme na to, aby vznikly další hodnoty. Podnik tak zajišťuje svojí činnost.
+  - k tomu si musí podnik zajistit financování, jeho druhy jsou následující:
+    - podle doby, na kterou je k dispozici:
+      - **dlouhodobý**
+      - **krátkodobý**
+    - podle původu kapitálu
+      - **vnější**
+      - **vnitřní**
+    - podle pravidelnosti
+      - **běžné**
+      - **mimořádné**
+
+- **Blíže k druhům**
+  - základem je zda je financování **vnější - z cizích zdrojů**, nebo **vnitřní - z vlastních zdrojů**
+    - Vlastní: především zisk, rezervy, odpisy etc.
+    - Vnější: kapitál od cizích subjektů, ALE
+      - vnější kapitál se člení znovu na
+        - vlastní: akcie a podíly
+        - z cizích zdrojů: úvěry, dluhopisy atd. - zde je rovněž rozdělení na dlouhodobé, a krátkodobé
+
+- **Financování podniku slouží k:**
+  - Běžnému financování - například koupě materiálu, vyplácení mezd
+  - Mimořádnému financování - například investice
 
 
 - Financování podniku
