@@ -11143,7 +11143,7 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Finanční řízení podniku
+- [x] Finanční řízení podniku
   - [ ] Finanční management - organizace
   - [ ] Finanční management - hlavní úkoly
 - [ ] Finanční analýza
@@ -11160,9 +11160,22 @@ VEDLEJŠÍ
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-- Finanční řízení podniku
+- **Finanční řízení podniku**
   - Provádí ho buď finanční ředitel (větší firmy) nebo majitelé (menší firmy)
   - Finanční řízení velkých podniků je složité = lze proto zpravidla najít **finanční oddělení**, v jehož čele stojí **finanční ředitel**
+    - Finanční oddělení je důležité ze strategického hlediska, neboť **rozhoduje o rozdělení financí organizace**
+
+- **Finanční management - hlavní úkoly**
+  - Musí odpovídat na určité otázky vymezené v rámci jejich kompetence:
+    - 1) Jaký kapitál pro běžné a jaký pro mimořádné potřeby podniku, včetně určení jeho struktury
+    - 2) Jak bude alokován (běžná činnost, investice, vývoj ?)
+    - 3) Jak bude rozdělen zisk (reinvestice, dividendy), - u dividendů se však jedná jen o doporučení, rozhoduje o něm jinak VH
+    - 4) Jaké jsou prognózy, analýzy, plány, kontrolní závěry
+  - Odpovědi na tyto otázky jsou ovlivněny především:
+    - Faktorem času
+    - Faktorem rizika
+
+
 - Financování podniku
   - Doplnit
 
