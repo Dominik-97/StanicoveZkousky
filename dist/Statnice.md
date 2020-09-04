@@ -10715,9 +10715,9 @@ Kurzy
   - [x] Obecné problémy
   - [x] Restriktivní a expanzivní přístup
   - [x] Vestavěné stabilizátory
-  - [ ] Vliv dotací a subvencí
-  - [ ] Deficity
-  - [ ] A Vytěsňování soukromých investic
+  - [x] Vliv dotací a subvencí
+  - [x] Deficity
+  - [x] A Vytěsňování soukromých investic
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -10806,75 +10806,43 @@ Kurzy
     -	Problém - jak kompenzovat pokles daňových příjmů
     -	vypůjčení peněz od veřejnosti
       -	vláda tak snižuje objem disponibilních kapitálových prostředků k financování soukromých investic (**efekt vytěsňování**) -> zvýší se úrokové sazby a odradí to firmy a domácností k investicím -> bude mít za násladek nižší tempo hospodářského růstu
-    •	monetizace rozpočtového deficitu
-    o	vládní cenné papíry – kupuje centrální banka, která nákup financuje dodatečnými penězi uvolněnými do oběhu, tyto přírůstky peněžní zásoby mají však tendenci zvyšovat cenovou hladinu a inflaci
-    •	využití zahraničních zdrojů
-    o	 zahraničního kapitálu má však tendenci zvyšovat kurz domácí měny a oslabovat cenovou konkurenceschopnost domácího exportu, tak i snižovat růstový potenciál ekonomiky HDP (v důsledku poklesu čistého exportu)
-    •	Politické problémy
-    o	často znemožňují užití fiskálních nástrojů
-    o	v období inflace: potřeba růstu daní nebo poklesu vládních výdajů
-    o	problém: jde o nepopulární opatření
-    o	zvláště před volbami se vlády nerady uchylují ke zvýšení daní
-    o	snížení vládních výdajů naráží často na odpor sociálních nebo politických skupin (mají z nich prospěch)
-    •	Správné načasování + přesnost údajů poskytovaných ekonomickými indikátory
-    •	správné načasování vyžaduje
-    o	těsnou spolupráci mezi vládou a parlamentem - často přijetí/změna zákona trvá příliš dlouho
-    o	přesné prognózy – problém např.odhad výše deficitu státního rozpočtu na začátku fiskálního období
+    -	monetizace rozpočtového deficitu
+      -	vládní cenné papíry – kupuje centrální banka, která nákup financuje dodatečnými penězi uvolněnými do oběhu, tyto přírůstky peněžní zásoby mají však tendenci zvyšovat cenovou hladinu a inflaci
+    -	využití zahraničních zdrojů
+      -	 zahraničního kapitálu má však tendenci zvyšovat kurz domácí měny a oslabovat cenovou konkurenceschopnost domácího exportu, tak i snižovat růstový potenciál ekonomiky HDP (v důsledku poklesu čistého exportu)
+    -	Politické problémy
+      -	často znemožňují užití fiskálních nástrojů
+      -	v období inflace: potřeba růstu daní nebo poklesu vládních výdajů
+        -	problém: jde o nepopulární opatření
+      -	zvláště před volbami se vlády nerady uchylují ke zvýšení daní
+      -	snížení vládních výdajů naráží často na odpor sociálních nebo politických skupin (mají z nich prospěch)
+    -	Správné načasování + přesnost údajů poskytovaných ekonomickými indikátory
+    -	správné načasování vyžaduje
+      -	těsnou spolupráci mezi vládou a parlamentem - často přijetí/změna zákona trvá příliš dlouho
+      -	přesné prognózy – problém např.odhad výše deficitu státního rozpočtu na začátku fiskálního období
 
-Expanzivní fiskální politika
-    Expanzivní fiskální politika podporuje agregátní poptávku. Jedná se o snížení čistých daní, zvýšení vládních nákupů apod.
-    Krátkodobý efekt: stát buď sníží daně, nebo zvýší své nákupy což vede k růstu hrubého národního produktu, růstu zaměstnanosti, ale často také k růstu cenové hladiny.
-    Dlouhodobý efekt: vede zpravidla ke zvyšování cen a tedy k inflaci, to znamená, že se nemění úroveň produktu a zaměstnanosti a, ale zvyšuje se úroveň cen.
-    Restriktivní fiskální politika
+- **Expanzivní fiskální politika**
+    - Expanzivní fiskální politika podporuje agregátní poptávku. Jedná se o snížení čistých daní, zvýšení vládních nákupů apod.
+    - Krátkodobý efekt: stát buď sníží daně, nebo zvýší své nákupy což vede k růstu hrubého národního produktu, růstu zaměstnanosti, ale často také k růstu cenové hladiny.
+    - Dlouhodobý efekt: vede zpravidla ke zvyšování cen a tedy k inflaci, to znamená, že se nemění úroveň produktu a zaměstnanosti a, ale zvyšuje se úroveň cen.
 
-Restriktivní fiskální politika omezuje nebo snižuje agregátní poptávku. Může se jednat o zvýšení čistých daní nebo snížení vládních nákupů.
-    Krátkodobý efekt: snižuje úroveň cenové hladiny, snižuje produkt a zaměstnanost.
-    Dlouhodobý efekt: působí na zvýšení soukromých investic, snížení cenové hladiny, úrokové míry, a pokud soukromé investiční výdaje plně nehradí státní výdaje na nákup, nedochází ke změně v úrovni reálného produktu a zaměstnanosti.
-    Daň z příjmů FO
-    Naše daňová soustava je progresivní. Lidé s vyšším příjmem odevzdávají  vyšší daně.  Daňová sazba je sice stanovena na 19% pro všechny příjmové kategorie a  je prezentována jako rovná daň 19%, ovšem za rovnou daň ji nelze označit vzhledem k progresivnímu růstu reálných odvodů s výší dosažené mzdy.
+- **Restriktivní fiskální politika**
+    - Restriktivní fiskální politika omezuje nebo snižuje agregátní poptávku. Může se jednat o zvýšení čistých daní nebo snížení vládních nákupů.
+    - Krátkodobý efekt: snižuje úroveň cenové hladiny, snižuje produkt a zaměstnanost.
+    - Dlouhodobý efekt: působí na zvýšení soukromých investic, snížení cenové hladiny, úrokové míry, a pokud soukromé investiční výdaje plně nehradí státní výdaje na nákup, nedochází ke změně v úrovni reálného produktu a zaměstnanosti.
 
-    Ovlivňování agregátní poptávky
-    k tomuto ovlivňování, a tím i ovlivňování úrovně ekonomické aktivity slouží 2 hlavní nástroje
+- **Deficit**
+  - Rozdíl výdajů státního rozpočtu oproti příjmům státního rozpočtu = rozpočtové manko
+  - Rozpočet může být: přebytkový, vyrovnaný, deficitní
+  - Rozpočet Čr je běžně deficitní
+  - Vyšší výdaje se financují půjčováním
 
-    1) Stabilizace souhrnné poptávky pomocí fiskální politiky
-    fiskální politika = rozhodnutí vlády vztahující se k celkové úrovni státních rozpočtových příjmů a výdajů (především daní)
-    Změny
-    •	vyšší výdaje vlády za zboží a služby zvyšují agregátní poptávku (posun doprava), stejně jako nižší daňové příjmy státu = expanzivní fiskální politika
-    •	snížené rozpočtové výdaje a vyšší daňové příjmy naopak omezují = restriktivní fiskální politika (posun doleva)
-    Příklad
-    -	ekonomika prošla obdobím kontrakce, vypadá, že směřuje k recesi (HDP klesá, nezaměstnanost roste)
-    -	rozhodne-li se vláda to zvrátit, má možnosti:
-    o	snížit daně a rozpočtové výdaje nechat bez změny
-    o	nechat beze změny daně a zvýšit rozpočtové výdaje
-    o	kombinace obojího
-    -	sníží-li daně/zvýší-li výdaje→ domácnosti i firmy získají vice disponibilních finančních prostředků, které mohou věnovat na své spotřební nebo investiční výdaje
-    -	začnou- li spotřebiteksé výdaje/ investice růst → pokles ekonomiky se zastaví
-    -	v případě konjuktury - rychlého růstu cen → vláda může zvýšit daně/snížit státní výdaje / oboje
-    -	spotřebitelé/ firmy budou mít méně prostředků → povede k omezení celkové poptávky po zboží/ službách - mohou omezit inflaci
-
-
-    Stabilizace souhrnné poptávky pomocí monetární politiky
-    •	AP též ovlivňována změnami v nabídce peněz = monetární politikou CB
-    •	zvýšení nabídky peněz (posun křivky peněžní nabídky – doprava) zvyšuje agregátní poptávku
-    •	zvýšení peněžní nabídky snižuje rovnovážnou úrokovou míru → snížení úrokové míry vede k poklesu nákladů spojených s půjčováním i nákladů ušlých příležitostí při držení peněz (= výnosů z úspor) → tím vzrůstá motivace k výdajům, především investiční aktivitě firem a nákupům nemovitostí
-    •	→výsledkem vyšší nabídky peněz je i vyšší agregátní poptávka
-    •	růst peněžní nabídky v období kontrakce a recese může přispět k podpoře ekonomické aktivity
-    •	Monetární politika, která má za cíl AP omezit → postupuje naopak
-    •	snižuje nabídku peněz a zvyšuje úrokové sazby
-    •	redukce peněžní nabídky vedoucí k omezení AP umožňuje v situaci, kdy rychle rostoucí ekonomika tlačí ceny v inflační spirále vzhůru, dynamiku tohoto cenového růstu snížit
-
-    Koordinace monetární a fiskální politiky
-    •	většinou prováděny vzájemně nezávislými orgány: vláda + centrální banka
-    •	při provádění dochází k určité koordinaci - může zvýšit účinnost obou politik
-    •	účinnost expanzivní politiky může být posílena expanzivní monetární politikou, která zvýšením penežní nabídky snižuje dopad efektu vytěsňování
-    •	v případě, že monetární politika expanzivní fiskální politiku nepodporuje, hovoříme o tzv. čisté fiskální expanzi
-    o	→ růst nominálního produktu je v tomto případě provázen růstem úrokové míry, na který reagují investiční výdaje firem a částečně i spotřební výdaje domácností
-    o	→ poklesem může reagovat i čistý export, a to, zvýší-li se pod vlivem vyšších úrokových měr kurz domácí měny
-    •	v případě fiskální restrikce může být naopak pokles úrokových sazeb restriktivní monetární politikou omezen
-    •	přizpůsobení fiskální politiky je důležité v otevřené ekonomice s fixními měnovými kurzy (účinnost monetární politiky je zde omezená)
-    •	koordinace může ovlivňovat i strukturu HDP – vzhledem k dopadu jednotlivých politik na jednotlivé kategorie výdajů v národním hospodářství (bod 3 a 4)
-    o	expanzivní monetární politika podporuje výdaje citlivé na pokles úrokové sazby (hlavně soukromé investice)
-    o	expanzivní fiskální politika vedoucí k vyšším úrokovým sazbám omezuje tyto výdaje, pod jejím rostou vládní nákupy a spotřebitelské výdaje (důsledek zvýšených transferů domácnostem)
+- **Subvence a dotace**
+  - Subvece = obecný termín, zahrnuje podporu státu nějakému subjektu/nějakým subjektům = dotace, zaručení za úvěr, zvýhodněné úvěry atd.
+  - Subvence hospodářství mohou mít vliv pozitivní = podpora při nějakém problému (například Covid), v běžném režimu se ale mohou projevovat spíše negativně:
+    - Například v zemědělství = nespravedlivá výhoda = narušení konkurence
+    - Subvence mohou mít za následek plýtvání (vyrábí se, co by se nemuselo, nižší ceny)
+    - Subvence tedy mohou deformovat ceny a narušovat volnou konkurenci = proto jsou různé subvence zakázány ze strany EU
 
 - **Vytěsňování soukromých investic**
   - Dva způsoby:
