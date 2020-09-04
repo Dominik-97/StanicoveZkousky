@@ -10478,6 +10478,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 - **Časová hodnota peněz:** = funkce vyjadřující budoucí hodnotu peněz
   -	peníze získané nyní mají vyšší hodnotu než peníze získané v budoucnu
+    - Proto je důležitá **úroková sazba** = tedy **výnos/kapitál**, toto ale samozřejmě souvisí s inflací
     -	dostanu-li dnes 1000 Kč, mohu je uložit do banky s určitým úrokem (například 10 %). Za rok si z banky mohu vybrat 1100 Kč, což je více než kdybych dostal 1000 Kč v budoucnu
     -	při výnosovém ocenění je postup opačný: potřeba vyjádřit současnou hodnotu budoucích výnosů firmy
     -	pro investora má koruna dnes větší cenu než koruna za rok, proto budou očekávané výnosy v budoucnosti mít nižší hodnotu než v současnosti
