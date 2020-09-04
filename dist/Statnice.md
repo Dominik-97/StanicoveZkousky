@@ -11146,13 +11146,13 @@ VEDLEJŠÍ
 - [x] Finanční řízení podniku
   - [x] Finanční management - organizace
   - [x] Finanční management - hlavní úkoly
-- [ ] Finanční analýza
-  - [ ] Nástroje pro rozhodování finančního managementu
+- [x] Finanční analýza
+  - [x] Nástroje pro rozhodování finančního managementu
 - [x] Financování podniku
   - [x] Vnější a vnitřní zdroje
-  - [ ] Finanční uzávěrka - rozvaha
-- [ ] Hospodářský výsledek podniku
-  - [ ] Rentabilita
+  - [x] Finanční uzávěrka - rozvaha
+- [x] Hospodářský výsledek podniku
+  - [x] Rentabilita
   - [ ] Výsledovka
 - [ ] Majetková a kapitálová struktura podniku
 
@@ -11186,7 +11186,13 @@ VEDLEJŠÍ
     - strategické finanční rozhodování - o rozdělování financí uvnitř firmy
 
 - **Finanční analýza**
-  - Doplnit
+  - Pro rozhodování je potřeba znát situaci společnosti - mít podklady
+  - K tomu slouží interní a externí f.a. - reporting finanční situace
+  - Slouží k ní **finanční výkazy** (rozvaha, výsledovka, cash-flow, výroční zpráva) a další **interní dokumenty**
+  - Pro rozhodování jsou pak důležité i jednotlivé finanční ukazatele, které se z takových dat dají postavit, př.:
+    - rentabilita tržeb - poměr zisku na tržbách
+    - obrat celkových aktiv - schopnost využití aktiv ke generování tržeb
+    - poměr finanční páky - poměr aktiv k celkovému kapitálu - ukazuje rentabilitu vloženého kapitálu
 
 - **Financování podniku**
   - jedná se o způsob získávání kapitálu (kapitál slouží pro udržování a získávání majetku) - pokud chce tedy firma investovat například do hmotných investic - musí na to mít kapitál
@@ -11214,9 +11220,43 @@ VEDLEJŠÍ
   - Běžnému financování - například koupě materiálu, vyplácení mezd
   - Mimořádnému financování - například investice
 
+- **Rozvaha** (bilance)
+  - ve formě T
+  - na levé straně aktiva, na pravé pasiva
+  - vždy musí platit, že aktiva = pasiva, jinými slovy = podnik může mít jenom tolik obchodního majetku, na který má zdroje krytí
+  - aktiva = říkají jaký majetek podnik vlastní
+    - Dlouhodobý majetek (hmotný, nehmotný, finanční) - například stroje etc.
+    - Oběžná aktiva (zásoby, pohledávky, finanční majetek)
+  - pasiva = čím je tento majetek financován, kdo ho platí
+    - Vlastní kapitál - základní kapitál, fondy, výsledek hospodaření...
+    - Cizí zdroje - rezervy, závazky...
+  - povinná součást roční účetní uzávěrky
 
-- Financování podniku
-  - Doplnit
+- **Hospodářský výsledek firmy**
+  - Hospodářský výsledek představuje přírůstek či úbytek bohatství firmy za určité období. Jak ke změně bohatství došlo, lze vyčíst z dalšího účetního výkazu - z výkazu zisku a ztráty, neboli výsledovky - **Výnosy - Náklady**
+  - Lze zjistit jak z rozvahy, tak i z výsledovky
+    - Rozvaha: AKTIVA = PASIVA bez zisku + ZISK (tj. ZISK = aktiva - pasiva bez zisku)
+    - Výsledovka ho přímo ukazuje
+
+- **Rentabilita**
+  - Důležitá pro majitele
+  - Rentabilita nebo také výnosnost znamená schopnost dosahovat výnosu (zisku a pod.) na základě vložených prostředků.
+  - Co se investice vlastníka do podniku týče - ukazuje se za pomocí **MVA** a **EVA**
+  - V rámci rentability lze použít i její další ukazatele:
+    - Rentabilita podniku = vynosy podniku děleno vynaložené náklady
+    - Return on Assets = vysledek hospodaření děleno aktivy
+    - Return on Investments = vh děleno investicemi
+    - Rentabilita vlastníko kapitálu = vh děleno vlastní kapitál
+    - a další (rentabilita tržeb, nákladová rentabilita)
+
+- **Výsledovka**
+  - Výkaz zisku a ztrát, neukazuje aktiva a pasiva, ale zaměřuje se na čistě finanční stránku
+  - ukazuje, jakého výsledku hospodaření účetní jednotka dosáhla za sledované období, včetně porovnání s obdobím minulým.
+  - ukazuje hrubý zisk nebo ztrátu
+  - jeho výsledkem je výsledek za účetní období po zdanění
+
+
+~~na peněžní bázi, akruální, OPEX, CAPEX~~
 
 ----
 :::
