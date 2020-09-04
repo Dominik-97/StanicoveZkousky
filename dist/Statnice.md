@@ -10349,14 +10349,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Finanční trhy
-  - [ ] Pojem
-  - [ ] Členění
-  - [ ] Subjekty
-  - [ ] Instrumenty finančního trh
-    - [ ] Typy cenných papírů
-  - [ ] Úloha finančních trhů v ekonomice
-  - [ ] Investiční rozhodování
+- [x] Finanční trhy
+  - [x] Pojem
+  - [x] Členění
+  - [x] Subjekty
+- [x] Instrumenty finančního trh
+  - [x] Typy cenných papírů
+- [x] Úloha finančních trhů v ekonomice
+- [ ] Investiční rozhodování
   - [ ] Časová hodnota peněz
 
 \|------------------------------\| <br>
@@ -10378,6 +10378,115 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - Trh drahých kovů (komoditní trh)
       - Doplnit
     - Trh s cizími měnami (devizový trh)
+  - Úloha finančních trhů v ekonomice = úlohou je spojovat přebytkové a nedostatkové subjekty
+
+- **Pojem**
+  - Finanční trh je systém institucí a instrumentů zajišťující pohyb peněz a kapitálu ve všech formách mezi různými ekonomickými subjekty na základě nabídky a poptávky.
+    - Úloha finančních trhů v ekonomice = úlohou je spojovat přebytkové a nedostatkové subjekty
+  - Existují neregulované finanční trhy, ale i regulované.
+
+- **Členění podle doby splatnosti**
+  - Finanční trh - členění podle doby splatnosti
+    - **Peněžní trh** – charakteristickým rysem je doba splatnosti finančních aktiv do jednoho roku, klíčovým znakem je značná likvidita, tento trh se dělí na trh krátkodobých úvěrů a krátkodobých cenných papírů
+    - **Kapitálový trh** – vyznačuje se dobou splatnosti delší než jeden rok, lze jej rozdělit na trh střednědobých a dlouhodobých úvěrů a trh investičních cenných papírů
+
+- **Finanční trh  - členění z věcného hlediska**
+    -	Peněžní trh – je to trh peněz a úvěrů, bez ohledu na dobu splatnosti, 
+    -	Kapitálový trh – je to trh investičních nástrojů, zejména investičních cenných papírů, 
+    -	Devizový trh – je to trh cizích měn – FOREX 
+    -	Komoditní trh – původně sem patřily pouze měnové kovy, později i další komodity (například zemědělské produkty a další statky) a komoditní deriváty, opce apod., které jsou obchodované na komoditních burzách a mají finanční vypořádání, jsou to také obchody s komoditními CP (skladištní listy), které mají peněžní vypořádání. 
+
+- **Finanční trh - prostorové členění**
+  - Regionální a místní
+  - Národní 
+  - Mezinárodní, nadnárodní (př. eurotrhy) •
+  - Globální
+
+- **Další členění FT**
+  - Podle účastníků (bankovní, mimobankovní, burzovní, mimoburzovní)
+  - Podle finančních nástrojů (uvěry, CP, devizový trh)
+  - Z hlediska emise CP - primární, sekundární
+  - Přímý, zprostředkovaný
+  - Podle sektoru - bankovnictví, kapitálový trh, pojišťovnictví
+  - etc.
+
+- **Úloha finančního trhu**
+  - Depozitní funkce (umožňuje investování)
+  - Kreditní funkce  (umožňuje půjčování)
+  - Funkce uchování hodnoty (bohatství) 
+  - Funkce likvidity
+  - Platební funkce 
+  - Funkce ochrany proti riziku
+  - Funkce regulace finančního trhu (volné operace na finančním trhu CB)
+  - Funkce politická
+
+- **Subjekty FT**
+  - **Poskytovatelé finančních služeb (finanční instituce)**
+  - **Zprostředkovatelé finančních služeb (finanční zprostředkovatelé)**
+  - Všechny subjekty se dají podřadit pod tyto kategorie
+  - Příklady budiž:
+    - banky, družstevní záložny, úvěrové instituce, nebankovní poskytovatelé úvěrů, investiční společnosti a investiční fondy, penzijní společnosti, obchodníci s cennými papíry, investiční zprostředkovatelé etc.
+    - rovněž dohledové instituce ČNB, Min. Fin.
+
+- **Instrumenty**
+  - K nástrojům kapitálového trhu patří např. akcie, obligace, hypoteční zástavní listy, střednědobé a dlouhodobé úvěry, střednědobé a dlouhodobé termínované vklady.
+  - Obecně tedy cenné papíry.
+
+- **Definice cenných papírů**
+  - Cenný papír je listina, která představuje pohledávku vlastníka vůči tomu, kdo cenný papír emitoval.
+
+Klasifikace cenných papírů
+Základním členěním cenných papírů je členění podle ztělesněného práva v cenném papíru. Podle tohoto kritéria rozlišujeme zbožové papíry, papíry peněžního trhu a papíry kapitálového trhu.
+Zbožovými cennými papíry jsou skladní listy, lodní listy, konosamenty atd. V těchto papírech je vyjádřeno, komu patří určité zboží a kdo má právo s tímto zbožím disponovat. Tyto cenné papíry nepředstavují investiční instrument, nýbrž ztělesňují právo na určitou věc.
+Do cenných papírů peněžního trhů patří státní pokladniční poukázky, komerční papíry a depozitní certifikáty. Tyto papíry jsou investičními instrumenty a ztělesňují krátkodobé pohledávky.
+
+Cenné papíry kapitálového trhu ztělesňují pohledávky nebo podíly. Tyto cenné papíry lze dělit podle různých hledisek:
+1.	Podle ztělesněného práva rozlišujeme dluhové cenné papíry a majetkové cenné papíry. Do dluhových cenných papírů patří dluhopisy, do majetkových akcie a podílové listy.
+
+2.	Podle charakteru důchodů klasifikujeme cenné papíry takto:
+
+a)	cenné papíry s pevným zúročením, u kterých je emitent povinen platit pravidelně peněžní částky, k nimž se zavázal;
+
+b)	cenné papíry s proměnlivým zúročením, kdy se v pravidelných časových intervalech provádí přizpůsobení nominálního zúročení aktuální úrokové úrovni;
+
+
+c)	cenné papíry s nulovými platbami, kde je výnos dosažen rozdílem mezi emisním a umořovacím kursem;
+
+d)	cenné papíry s proměnlivým výnosem, kde jsou platby závislé na výsledku hospodaření emitenta (např. akcie)
+
+3.	Podle převoditelnosti rozlišujeme:
+
+a)	cenné papíry na doručitele (na majitele), kdy se za vlastníka považuje ten, kdo cenné papíry předloží; zaručují nejvyšší stupeň převoditelnosti, protože změna vlastnictví se realizuje pouhým předáním cenného papíru;
+
+b)	cenné papíry na řad (order papíry), na kterých je vyznačeno jméno oprávněné osoby (nebo názvu firmy) s doložkou na řad; převod práva na plnění se uskutečňuje zvláštním písemným prohlášením zpravidla na rubu cenného papíru indosamentem (rubopisem);
+
+
+c) cenné papíry na jméno, na kterých je uvedeno jméno oprávněného a převod vlastnického práva se uskutečňuje cesí, přičemž je třeba o této skutečnosti uvědomit emitenta.
+
+
+
+
+
+
+
+
+
+    Investiční rozhodování
+    Investiční rozhodování je ovlivněno tím, že různé investice mohou přinášet různě vysoký výnos po různě dlouhou dobu. Cílem investičního rozhodování je určení nejvýhodnější investice. Pro stanovení kritérií investičního rozhodování se používá metoda současné hodnoty celého toku budoucích výnosů z daného kapitálového statku. Vypočítáme ji na základě diskontování toku budoucích výnosů úrokovou mírou podle vzorce:
+
+    	diskont je úrok ode dne výplaty do dne splatnosti pohledávky. SH je současná hodnota celého toku očekávaných budoucích výnosů. Nn je čistý roční výnos z daného kapitálového statku v i-tém roce jeho životnosti, ta je n-let. i je roční úroková míra, bereme jí jako předpoklad čili se nemění. Za předpokladu neměnné platby po celé období :
+
+    	Pro investování daného objemu prostředků firma volí tu s nejvyšší současnou hodnotu očekávaného toku budoucích výnosů.
+
+    Časová hodnota peněz:
+
+    •	peníze získané nyní mají vyšší hodnotu než peníze získané v budoucnu
+    •	dostanu-li dnes 1000 Kč, mohu je uložit do banky s určitým úrokem (například 10 %). Za rok si z banky mohu vybrat 1100 Kč, což je více než kdybych dostal 1000 Kč v budoucnu
+    •	při výnosovém ocenění je postup opačný: potřeba vyjádřit současnou hodnotu budoucích výnosů firmy
+    •	pro investora má koruna dnes větší cenu než koruna za rok, proto budou očekávané výnosy v budoucnosti mít nižší hodnotu než v současnosti
+    •	převedení budoucí hodnoty na současnou označujeme jako diskontování
+    •	Příjmová (výnosová) metoda odvozuje hodnotu majetku od hodnoty budoucích příjmů z vlastnictví, které z něho lze získat, tj. od výnosové schopnosti majetku. Současná hodnota budoucích příjmů se zjišťuje procesem diskontování budoucích hodnot příjmů na jejich současnou hodnotu na základě tržní míry výnosnosti.
+    •	Ocenění majetku z hlediska jeho výnosové schopnosti je zpravidla prováděno na základě dvou metod: přímé kapitalizace a/nebo diskontovaného cash flow. Obě metody jsou založeny na postupu, který odvozuje hodnotu majetku od jeho schopnosti produkovat požadovanou míru výnosnosti. Metoda přímé kapitalizace je aplikovatelná v případech, kdy se jedná o zavedené majetky, které již vykazují určitou příjmovou stabilitu a k jejichž provozování nejsou nutné žádné větší investiční akce. Metoda diskontovaného cash flow se obvykle upřednostňuje před metodou přímé kapitalizace v případech, kdy se v budoucích obdobích očekávají větší investiční výdaje nebo existují podstatné výkyvy v ročních výnosech.
 
 ----
 :::
