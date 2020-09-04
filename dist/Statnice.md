@@ -10245,12 +10245,44 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 
 
 
-- Peníze a měna
-  - Doplnit
-  - Funkce peněz
-    - Doplnit
-  - Formy peněz
-    - Doplnit
+- **Peníze a měna**
+  - **Vznik peněz**
+    -	nejdříve se obchodovalo tzv. barterovým obchodem = výměnný obchod
+      -	nevýhody: pomalý, nepružný, nepraktický obchod
+    -	pak se určilo nějaké zboží, které bylo platidlem (např. dobytek, drahé kovy v surovém stavu, plátno → platit) = komoditní peníze – šlo za ně směnit všechno, měly danou svou hodnotu
+      -	nakonec komoditními penězi jsou jen drahé kovy
+      -	výhody: jsou trvanlivé, snadno dělitelné, snadno přenosné, uskladnitelné, bylo jich málo (už malé množství mělo velkou hodnotu)
+      -	nejdříve slitky zlata (ve 3. tisíciletí PNL)
+      -	od 7. stol. ražené mince v Evropě
+    -	18.stol. peníze papírové (ve Francii) – nejdříve každá bankovka byla kryta zlatem
+      -	v bance = zlatý standard, ve 30. letech 20. stol. zlatý standard zaniká
+  - **Funkce peněz**
+    - Denominátor hodnoty (**obecného měřítka hodnoty**) - zúčtovací jednotka = peníze → umožňují ocenění zboží
+    - Oběživo (**všeobecného prostředku směny**) - peníze jsou prostředkem směny
+      - úhrada za služby
+      -	prostřednictvím peněz umožněn oběh zboží mezi účastníky trhu a nákup a prodej služeb
+    -	Platidlo (**všeobecného prostředku plateb a převodu kapitálu**) – neplatí zde funkce poměřování hodnoty, jde o fuknci, která umožňuje pohyb a převody kapitálu, uskutečňování plateb, u kterých nejde o měřítko hodnot (sankce, pokuty, daně). Obráceně – v případě pojistné události a pojistného plnění od pojišťovny, náhrady za škodu…)
+      -	daně, cla, poplatky
+      -	pojistné
+      -	peněžní sankce
+      -	převod kapitálu
+    - Poklad (**nositele a uchovatele hodnoty**) – emise zlatých (nebo mincí z jiných kovů) mincí, které vydává Národní banka k určitému výročí apod. Oprávnění panovníka razit mince se nazývalo REGÁL (Jus regale) - mincovní regál. Přenášely hodnotu v čase. Peníze slouží k uchování nějaké hodnoty (dají se shromažďovat, šetřit)
+  - **Formy peněz**
+    -	1- mince (oběživo)
+    - 1.1- papírové peníze (oběživo)
+      - oběživo = to, co koluje mezi lidmi a zprostředkovává oběh zboží
+      - platidlo = obecný pojem - může se tedy například jednat i o zbožové peníze, různé úvěry, umožňuje splácet různé závazky, pohledávky
+    -	2- depozitní peníze = účty (v bance máme fiktivní peníze)
+    -	3- termínovaná depozita	– obnos na účtu máme jen do určitého data
+      - banka s nimi může určitou dobu operovat (do data,  do kterého se smluvíme, pak nám dá více – úrok, obligace)
+    - Formy peněz souvisí s **měnovými agregáty** - jde z nich odvodit formy peněz
+      - (M0) - jedná se zvláštní měnový agregát = **měnová báze** = hotovostní oběživo + celkové rezervy komerčních bank
+      - M1 - hotovostní oběživo + vklady na běžných účtech
+      - M2 - M1 + spořící účty + termínované vklady = méně likvidní peníze
+      - M3 - M2 + vklady u bank v cizí měně
+      - M4 - M3 + vklady u nebankovních institucí + krátkodobé cenné papíry v domácí měně
+      - M5 - M4 + ostatní cenné papíry (Standardně dlouhodobé - nad 1 rok splatnost)
+    - Za **peněžní zásobu** = považuje se M1, ČNB však například cíluje M2
 - Zavádění společné měny Euro
   - Doplnit
   - Jak je to s kurzem, Česká republika dřív používala pevný, teď je plovoucí, v případě navázaní na euro by byl pevně vázaný.
@@ -10265,6 +10297,93 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
     - **Jednorázové náklady na zavedení eura:**
   - Maastrichtská kritéria
     - Doplnit
+
+
+
+
+
+    Peníze mění podobu – oběživo hotovostní X bezhotovostní
+    Mince – nejstarší forma peněz
+
+    Bankovky - americký kontinent (protože nedostatek peněz – mincí) - pro stavby – investice při dobývání amerického západu - existující zásoba mincí nestačila pokrýt potřebu - Banky – jakýsi dlužní úpis = bankovky - z toho forma papírových peněz
+
+    Státovky – později ke stejným účelům, vydával stát
+
+    Dnes pojem bankovky = papírové peníze
+
+    Měna – pojem
+    skutečnost, že jde o peníze, jejichž podmínky existence, formu a soustavu autoritativně kvalifikovaným způsobem určuje stát (nebo jiná – nadstátní autorita -EU)
+
+    Veřejnoprávní předpisy - MĚNOVÉ PRÁVO
+
+    Měna:
+    •	konkrétní soustava peněz
+    •	zavedená v určitém státě (právními normami)
+    •	upravena právním řádem  zákony toho státu (respektive nadsttátní autorita (měnová unie))
+    •	emise peněz, měnová jednotka, autorita  centrální banka, určitění zákonných peněz, pravidla pro oběh peněz….
+
+    Centrální banka denně vydává do oběhu obrovské množství nových bankovek (aby neobíhaly opotřebované peníze).
+
+    Národní měna – konkrétní druh peněz na území určitěho státu - upraveno vnitřním právem státu - některé měny získaly funkci „Světových peněz“ - překračují význam státu, který je vydal - silná ekonomika
+    devizové předpisy (kurzy)
+    Př.: US dolar, Angl. Libra, Japon. Jen,
+
+    Mezinárodní měna – více států se dohodne na vytvoření měnové unie (EU)
+    EU - Evropská banka - emitent - měna (EURO)
+    EU - měnová unie (ne všechny členské státy)
+
+    Nadnárodní měna - několik států - smlouva – několik států se dohodne používat měnu jednoho státu
+    -	slabá ekonomika
+    -	neschopnost vytvořit vlastní měnu
+
+    Př. Afrika - středoafrický frank (Africké měnové společenství)
+    Postup, výhody a rizika zavádění společné měny
+    Podmínky pro přijetí Eura
+    •	Dlouhodobá úroková míra smí být nejvýše 2,5 % vyšší, než je tato míra ve třech zemích EU s nejnižší inflací
+    •	Míra inflace může převyšovat úroveň tří zemí EU s nejnižší inflací nejvýše o 1,5 %
+    •	Deficit státního rozpočtu smí dosáhnout nejvýše 3 % HDP
+    •	Velikost veřejného dluhu smí dosáhnout nejvýše 60 % HDP
+    •	Měnový kurs musí být poslední dva roky před vstupem součásti kursového mechanismu Evropského měnového systému
+    •	Kurzová stabilita: účast v systému ERM II minimálně dva roky
+
+    Výhody zavedení Eura
+    •	Úspora transakčních nákladů
+    •	Eliminace kursových rizik
+    •	Tlak na pokles úrokových sazeb
+    •	Snížení míry inflace
+    •	Efektivnější alokace investic
+    •	Snížení průměrné míry nezaměstnanosti
+
+    Rizika (nevýhody) zavedení Eura
+    •	Ztráta národní suverenity v měnové oblasti
+    •	Náklady na výrobu hotovostních peněz společné měny
+    •	Inflační impuls
+
+    ERM II.
+    Evropský mechanismus směnných kurzů II (anglicky European Exchange Rate Mechanism II, zkratka ERM II) vznikl 1. ledna 1999 jako nástupce Evropského mechanismu směnných kurzů. Země zapojené do ERM II musí kurzy svých měn udržovat v povoleném fluktuačním pásmu ± 15 % od stanoveného středního kurzu (centrální parity) k euru, pro Dánsko je stanoveno užší fluktuační pásmo ± 2,25 %. Zároveň nesmí dojít k devalvaci centrální parity, revalvace centrální parity je přípustná. Alespoň dvouleté setrvání v ERM II za výše uvedených podmínek je jedním z konvergenčních kritérií, jejichž splnění je nutnou podmínkou pro přijetí země do eurozóny.
+
+    Po zavedení eura v 11 členských zemích Evropské unie od 1. ledna 1999 byly jedinými členy ERM II Dánsko a Řecko. V současnosti jsou do ERM II zapojeny čtyři národní měny členských států EU. Vstup dalších měn do ERM II se očekává v následujících letech. Tímto mechanismem již prošlo pět národních měn, které byly po minimálně dvouletém setrvání v ERM II nahrazeny eurem.
+
+    Fixace kurzu
+    Stanovení parity pro ERM II
+    •	Parita stanovena po dohodě s ECB, ECOFIN (min. financí EU-25) a centrálními bankami Eurosystému
+    •	Většinou na aktuální hodnotě kurzu (předpokládá se, že není příliš daleko od rovnováhy)
+    •	Rozhoduje se několik málo dní před okamžikem vstupu
+
+    Stanovení konverzního poměru pro přechod z koruny na euro
+    •	Poměr stanoven po dohodě s ECB, ECOFIN a centrálními bankami Eurosystému
+    •	Většinou na aktuální centrální paritě ERMII (po jejích případných předchozích úpravách)
+    •	Konverzní poměr ohlášen při vyhodnocení EK a ECB
+
+    Rizika dlouhodobého pobytu koruny v systému ERM II
+    •	účast na režimu fixního kurzu s velmi volnou fixací (teoreticky až ± 15 %)
+    •	režimy rozvolněné fixace nejvíce náchylné ke spekulativním útokům
+    •	zafixování kurzu české koruny k euru a závazek udržovat kurz v rámci ± 15 % fluktuačního pásma bez silnějšího pnutí
+    •	pevný kurz klade vysoké nároky na konzistentnost hospodářských politika makroekonomickou stabilitu
+    •	pro centrální banku sledování jak stabilně nízké míry inflace, tak stabilního kurzu značně konfliktní situací (př. Maďarska z roku 2002)
+    •	členství v ERM II: stabilizující efekt na pohyb devizového kurzu prostřednictvím ukotvení kurzových očekávání
+    •	pro tranzitivní ekonomiky (kde kurz je jedním z kanálů ekonomické konvergence) výhody z členství v ERM II limitované (vliv na omezení fluktuací devizového kurzu)
+
 
 ----
 :::
