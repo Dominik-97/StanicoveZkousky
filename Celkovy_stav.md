@@ -32,8 +32,8 @@ Hotovo 0/30
 - [x] Otázka 18
 - [x] Otázka 19
 - [x] Otázka 20
-- [ ] Otázka 21
-- [ ] Otázka 22
+- [x] Otázka 21
+- [x] Otázka 22
 - [ ] Otázka 23
 - [ ] Otázka 24
 - [x] Otázka 25
