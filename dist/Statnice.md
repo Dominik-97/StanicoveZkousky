@@ -8524,7 +8524,12 @@ b) závazek podnikatele platit mu podíl na zisku
   - U FO - musí splňovat požadavky pro výkon - například bezúhonost podl ŽZ
 
 - **Jednání členů orgánů**
-
+  - Je potřeba primárně jednat pečlivě a s potřebnými znalosti
+    - Vyvratitelná právní domněnka, že tak jedná ten, kdo při rozhodování mohl v dobré víře rozumně předpokládat, že jedná informovaně a v obhajitelném zájmu OK
+      - Neplatí pokud rozhodnutí nebylo učiněno s řádnou loajalitou
+  - Člen tedy musí jednat jako řádný hospodář - loajalita a potřebné znalosti
+  - Člen SO může požádat NO o udělení pokdynu týkajícího se obchodního vedení (musí ale furt dodržovat péči řádného hospodáře)
+    - Při rozhodování, zda bylo rozhodováno s péčí řádného hospodáře - se přihlédne k péči, kterou by v obdobné situaci vynaložila jiná rozumná osoba, byla-li by ve stejném postavení
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
