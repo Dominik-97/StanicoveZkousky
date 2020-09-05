@@ -107,7 +107,7 @@ Hotovo 5/30
 - [ ] Otázka 23 - Teď
 - [ ] Otázka 24 - Teď
 - [ ] Otázka 25 - Teď
-- [ ] Otázka 26 - Teď
+- [x] Otázka 26
 - [x] Otázka 27
 - [x] Otázka 28
 - [x] Otázka 29

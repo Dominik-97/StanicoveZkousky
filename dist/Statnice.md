@@ -12353,6 +12353,17 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Charakteristika pracovní pozice
+- [ ] Výběr podřízených
+  - [ ] Požadavky na profil kandidáta
+  - [ ] Způsobilosti odborné a osobnostní
+  - [ ] Jak zajistit výběr správného kandidáta
+- [ ] Styly vedení podřízených
+  - [ ] Základní manažerské typy
+  - [ ] Situační vedení a jeho uplatňování
+  - [ ] Delegování
+  - [ ] Koučování a jejich správné upatňování
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
