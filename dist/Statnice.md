@@ -5664,7 +5664,7 @@ o	rozhodnutí o odvolání:
 \|------------------------------\| <br>
 
 - **VÝKON ROZHODNUTÍ**
- - Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit.
+ - Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit (zajišťuje se právo).
  - Toto vynucení se nazývá výkon rozhodnutí.
  - Ve znění rozsudku je uvedená lhůta, ve které je nutné povinnost dobrovolně splnit, např. 10 dnů po nabytí právní moci rozhodnutí.
   - Uplyne-li marně tato lhůta, nastupuje výkon rozhodnutí (vykonávací řízení).
@@ -5781,15 +5781,19 @@ o	rozhodnutí o odvolání:
   - již nelze pohledávky uplatnit žalobou., nelze provést SVR/E;
   - pokud podává sám věřitel, musí prokázat existenci i dalších věřitelů (pojmový znak úpadku – existence více věřitelů);
 
+- **insolvenční návrh:**
+  - obecné náležitosti + zvláštní náležitosti,
+    - podává-li dlužník(seznam majetku, závazků, ZCů, listiny dokládající úpadek);
+  - **povinnost podat ins. návrh** pro dlužníka, který je PO nebo podnikatelem (jinak odp. za škodu);
+    - důvod: předejít poškození věřitelů s pozdější lhůtou splatnosti svých pohledávek, kteří by při opožděném návrhu nemuseli být vůbec uspokojeni;
+  - někdy navrhovatel musí zaplatit zálohu 50.000 Kč- záloha se v závěru řízení zásadně vrací – složil-li ji věřitel (50000 u PO, u FO je záloha na zahájení ins. řízení 10000)
+  - soud doručí účastníkům + vyrozumí instituce uvedené v zákoně + spolu s tím jsou většinou vyzváni věřitelé k přihlášení svých pohledávek (až do rozhodnutí o úpadku) - vyzvání jsou prostřednictvím uveřejnění v **insolvenčním rejstříku**
 
+- **moratorium** – může požádat dlužník podnikatel do 7(podal dlužník)/ 15 dnů (podal věřitel) od ins. návrhu – jeho poslední šance vyrovnat se s věřiteli/ odvrátit nepříznivé důsledky úpadku; po dobu trvání moratoria nelze vydat rozhodnutí o úpadku, max. 3 měsíce, dlužník podnikatel musí v návrhu předložit požadované písemnosti a prokázat souhlas většiny věřitelů
 
-  neplatí litispendence – další věřitelé mohou přistupovat;
-
-  insolvenční návrh: obecné náležitosti + zvláštní náležitosti, podává-li dlužník(seznam majetku, závazků, ZCů, listiny dokládající úpadek); povinnost podat ins. návrh pro dlužníka, který je PO nebo podnikatelem (jinak odp. za škodu); důvod: předejít poškození věřitelů s pozdější lhůtou splatnosti svých pohledávek, kteří by při opožděném návrhu nemuseli být vůbec uspokojeni; někdy navrhovatel musí zaplatit zálohu 50.000 Kč- záloha se v závěru řízení zásadně vrací – složil-li ji věřitel
-
--soud doručí účastníkům + vyrozumí instituce uvedené v zákoně + spolu s tím jsou většinou vyzváni věřitelé k přihlášení svých pohledávek (až do rozhodnutí o úpadku)
--moratorium – může požádat dlužník podnikatel do 7(podal dlužník)/ 15 dnů (podal věřitel) od ins. návrhu – jeho poslední šance vyrovnat se s věřiteli/ odvrátit nepříznivé důsledky úpadku; po dobu trvání moratoria nelze vydat rozhodnutí o úpadku, max. 3 měsíce, dlužník podnikatel musí v návrhu předložit požadované písemnosti a prokázat souhlas většiny věřitelů
--soud rozhodne USNESENÍM meritorně  -o úpadku/ o zamítnutí (dlužník není v úpadku); nemeritorně o odmítnutí návrhu (vady) nebo zastavení řízení (zpětvzetí IN)
+- **Rozhodnutí o úpadku**
+  - soud rozhodne USNESENÍM meritorně  -o úpadku/ o zamítnutí (dlužník není v úpadku);
+  - nemeritorně o odmítnutí návrhu (vady) nebo zastavení řízení (zpětvzetí IN)
 -ochrana dlužníka proti šikanózním návrhům (zjevně neodůvodněné návrhy – zahájení IŘ způsobí dlužníkovi problémy, které lze zneužít v rámci hospodářské soutěže) – sankce odpovědnosti za škodu  – uplatní dlužník proti navrhovateli
 Způsoby řešení úpadku
 - „2. fáze“ IŘ: po zjištění, zda tu úpadek – plat. neschopnost/ předlužení je či není)
