@@ -8412,11 +8412,11 @@ b) závazek podnikatele platit mu podíl na zisku
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Právní úprava
-- [ ] Druhy
-- [ ] Vznik
-- [ ] Zánik
-- [ ] Neplatnost
+- [x] Právní úprava
+- [x] Druhy
+- [x] Vznik
+- [x] Zánik
+- [x] Neplatnost
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -8438,24 +8438,82 @@ b) závazek podnikatele platit mu podíl na zisku
       - Obchodní společnosti = osobní (v.o.s., k.s.) a kapitálové (s.r.o. a a.s.) = ty přímo upravuje ZOK
         - Pod obchodní společnosti lze podřadit i nadnárodní formy společností upravených předpisy EU:
           - **Evropská společnost**
-          - **Evropské hospodářské zájmové sdružení**
+          - **Evropské hospodářské zájmové sdružení** - všechny nadnárodní formy se řídí ZOK jen do té míry, do které to připouštějí přímo použitelné předpisy EU - většina je tedy upravena ve specifických sekundárních pramenech práva EU
+  - OK je tedy PO **soukromého práva** založený převážně v soukromém zájmu
+    - OK akožto PO je více reglementována zákonnými předpisy, než klasické obligační smlouvy
+    - OK je však možné založit i za veřejným účelem, například s.r.o. = musí pak naplňovat znaky veřejné prospěšnosti (výhody například daňové = veřejně prospěšný poplatník) - 1) bezúhonné osoby řídí, 2) majetek z podstivých zdrojů, 3) za účelem veřejně prospěšným - za nepodnikatelský účelem lze založit jen kapitálovou OK
+      - Osobní OK - jen za účelem podnikání
+  - Je podstatné neplést si obchodní společnosti se **společností podle občanského práva**
 
 - **Vznik**
   - Je potřeba spojit úpravu NOZ a ZOK
   - Podstatnou náležitostí je rozlišování mezi **založením** a **vznikem**
+  - Zakladatelé jsou běžně osoby soukromého práva, NOZ ale stanovuje možnosti založení PO i například rozhodnutím orgánu VM
     - **Založení ve vztahu k OK** = jedná se o zakladatelské právní jednání, v rámci ZOK:
-      - Obchodní korporace se zakládají **společenskou smlouvou**
+      - Obchodní korporace se zakládají **společenskou smlouvou**, u a.s. se spol. smlo. nazýva stanovy
         - Pokud se zakládají kapitálové společnosti = **společenská smlouva** musí mít formu **veřejné listiny**
-        - Pokud se zakládá družstvo - uzavírá se spol. smlo. přijetím **ustavující schůze**
+        - Pokud se zakládá družstvo - uzavírá se spol. smlo. (stanovy) přijetím **ustavující schůze**
+        - Pokud ZOK připouští, aby OK založila jedna osoba, nejedná se o **společenskou smlouvu** ale o **zakladatelskou listunu** = taky požadavek na její pořízení ve formě veřejné listiny
     - **Vznik OK** = upravuje obecně NOZ
-      - Zapsáním založené PO do veřejného rejstříku
+      - Zapsáním založené PO do veřejného rejstříku (řízení o zápisu), buď přímo u soudu, nebo může i notář - podkladové řízení
       - Pro OK je tímto seznamem = **obchodní rejstřík**
+      - Vrámci ZOK - zápis do OR musí být do 6 měsíců po založení, jinak platí, že u OK nastávají tytéž účinky jako při odstoupení od smlouvy (tato doba je ale v zakladatelském právním jednání možné změnit)
+        - U družstva pak proběhne fikce zpětvzetí přihlášek
+
+- **Jednočlenné PO**
+  - Dle NOZ se na jednočlennou PO hledí jako na korporaci
+  - Taková PO postrádá povahu sdružení
+  - V rámci ZOK je tento způsob založení umožněn jen u kapitálových společností
+  - Jedinný společník pak vykonává působnost NO a SO
+  - Společnost pak může uzavírat smlouvu přímo s jediným společníkem (veřejná listina, pokud se netýká běžných obchodních záležitostí)
+  - Ustanovení zakazující nebo omezující převoditelnost nejsou v tomto případě uplatnitelné
+
+- **Zánik**
+  - Důvody ke zrušení upravuje jak NOZ, tak ZOK
+  - Obecně jsou tu **dobrovolné** důvody zrušení a **nucené** důvody zrušení
+  - Další důležitým bodem je, zda probíhá zrušení **s likvidací**, nebo **bez likvidace**
+  - **Bez likvidace** obecně probíhá, pokud má právního nástupce - zde se tedy jedná o **přeměny**, nebo pokud se likviduje v **konkursu** (zde však do likvidace vstoupí, pokud se objeví dodatečně nějaký majetek)
+  - **S likvidací zaniká v oastatních případech**
+  - **Rozhodnutí o zrušení PO lze změnit, dokud ještě nedošlo k naplnění účelu likvidace - tedy dokud nebyl začat rozdělování likvidačního zůstatku**
+    - Právním jednáním (rozhodnutí NO)
+    - Uplynutím doby
+    - Rozhodnutím OVM
+    - Dosažením účelu
+    - Nebo z dalších zákonem stanovených důvodů, ty stanovuje ZOK:
+      - na návrh osoby, SZ (pokud je naléhavý veřejný zájem), s likvidací:
+        - a) pozbyla všechna podnikatelská oprávnění; to neplatí, byla-li založena i za účelem správy vlastního majetku nebo za jiným účelem než podnikání,
+        - b) není schopna po dobu delší než 1 rok vykonávat svou činnost a plnit tak svůj účel,
+        - c) nemůže vykonávat svou činnost pro nepřekonatelné rozpory mezi společníky, nebo
+        - d) provozuje činnost, kterou podle jiného právního předpisu mohou vykonávat jen fyzické osoby, bez pomoci těchto osob.
+  - **PO se může zrušit i rozhodnutím soudu, NOZ stanovuje následující důvody:** (z návrhu osoby, která má právní zájem, nebo i bez návrhu), s likvidací
+    - a) vyvíjí nezákonnou činnost v takové míře, že to závažným způsobem narušuje veřejný pořádek,
+    - b) již nadále nesplňuje předpoklady vyžadované pro vznik právnické osoby zákonem,
+    - c) nemá déle než dva roky statutární orgán schopný usnášet se, nebo
+    - d) tak stanoví zákon.
+  - Pokud však lze důvod odstranit = musí soud před vydáním rozhodnutí poskytnout přiměřenou lhůtu k odstranění problémů.
+- **Finální zánik nastává:**
+  - Po skončení likvidace
+    - U zapsaných PO - výmezem z rejstříku
+    - U nezapsaných PO - skončením likvidace
 
 - **Neplatnost**
-  - I po vzniku OK jí soud prohlásí za neplatnou, a to i bez návrhu, pokud:
-    - 1- Společenská smlouva nebyla pořízena v předepsané formě
-    - 2- nebyla dodržena ustanovení o výši nejnižšího splacení základního kapitálu, nebo
-    - 3- zjistí nezpůsobilost k právním jednáním všech zakládajících společníků.
+  - Obecně: Po vzniku právnické osoby se nelze domáhat určení, že nevznikla, a nelze z toho důvodu zrušit její zápis do veřejného rejstříku - kvůli právní jistotě a ochraně třetích osob
+  - ALE
+  - NOZ a ZOK vymezují důvody, pro které je možné PO prohlásit za neplatnou i po jejím vzniku:
+    - NOZ:
+      - Absence ZPJ
+      - Absence náležitostí ZPJ - konkretizováno v ZOK: pokud je absence firmy, výše vkladů, celkové výše upsaného ZK a předmět podnikání/činnosti
+      - Účel PO naplňuje znaky v §145 - porušuje právo, nebo dosahuje účelu nezákonným způsobem
+      - Nedostatečný počet zakladatelů
+    - ZOK:
+      - I po vzniku OK jí soud prohlásí za neplatnou, a to i bez návrhu, pokud:
+        - 1- Společenská smlouva nebyla pořízena v předepsané formě
+        - 2- nebyla dodržena ustanovení o výši nejnižšího splacení základního kapitálu, nebo
+        - 3- zjistí nezpůsobilost k právním jednáním všech zakládajících společníků.
+    - Obecně však platí, že pokud lze porblémy napravit = musí soud poskytnout přiměřenou lhůtu k jejich nápravě, až pak může v případě nutnosti zrušit
+    - Rozhodnutí o neplatnosti se týká OK, nikoli Zakl. práv. jedn.
+    - Rozhodnutím o neplatnosti vstupuje do likvidace
+    - Prohlášení PO za neplatnou - samo o sobě nemá vliv na práva a povinnosti, kterých PO nabyla
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
