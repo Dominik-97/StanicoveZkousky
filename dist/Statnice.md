@@ -8432,15 +8432,15 @@ b) závazek podnikatele platit mu podíl na zisku
 
 - **Pojem právnické osoby a obchodních korporací**
   - PO = organizovaný fiktivní právní útvar, kterému zákonodárce přiznal právní subjektivitu, nebo jehož právní subjektivitu uznal
-  - OK = nemá legálně vydefinovanou definici, ZOK toto ale obchází tím, že taxativně vymezuje jednotlivé obchodní společnosti
+  - OK = nemá legálně vydefinovanou definici, ZOK toto ale obchází tím, že taxativně vymezuje jednotlivé obchodní korporace
     - Obchodní korporace = obchodní společnosti + družstvo
       - Pod družstva lze rovněž podřadit **Evropskou družstevní společnost**
       - Obchodní společnosti = osobní (v.o.s., k.s.) a kapitálové (s.r.o. a a.s.) = ty přímo upravuje ZOK
         - Pod obchodní společnosti lze podřadit i nadnárodní formy společností upravených předpisy EU:
           - **Evropská společnost**
           - **Evropské hospodářské zájmové sdružení** - všechny nadnárodní formy se řídí ZOK jen do té míry, do které to připouštějí přímo použitelné předpisy EU - většina je tedy upravena ve specifických sekundárních pramenech práva EU
-  - OK je tedy PO **soukromého práva** založený převážně v soukromém zájmu
-    - OK akožto PO je více reglementována zákonnými předpisy, než klasické obligační smlouvy
+  - OK je tedy PO **soukromého práva** založený převážně v soukromém zájmu (podnikání)
+    - OK jakožto PO je více reglementována zákonnými předpisy, než klasické obligační smlouvy
     - OK je však možné založit i za veřejným účelem, například s.r.o. = musí pak naplňovat znaky veřejné prospěšnosti (výhody například daňové = veřejně prospěšný poplatník) - 1) bezúhonné osoby řídí, 2) majetek z podstivých zdrojů, 3) za účelem veřejně prospěšným - za nepodnikatelský účelem lze založit jen kapitálovou OK
       - Osobní OK - jen za účelem podnikání
   - Je podstatné neplést si obchodní společnosti se **společností podle občanského práva**
