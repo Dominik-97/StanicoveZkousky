@@ -12372,10 +12372,10 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|---------\| <br>
 
 - [x] Hodnocení
-  - [ ] Měření a hodnocení výkonnosti
-- [ ] Motivace
-  - [ ] Motivační faktory
-  - [ ] Motivační nástroje
+  - [x] Měření a hodnocení výkonnosti
+- [x] Motivace
+  - [x] Motivační faktory
+  - [x] Motivační nástroje
 - [ ] Rozvoj podřízených
   - [ ] Nástroje rozvoje podřízených
 - [ ] Typologie osobnosti
@@ -12409,16 +12409,43 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - Chyby v rozvržení práce,
     - Stejné pracovní příležitosti/Vnější vlivy atd.
 - **Měření a hodnocení výkonnosti**
-  - **Hodnocení průběžné (každodenní)** - je prováděno neoficiálně, přímým nadřízeným, je zaměřeno na průběžný pracovní výkon, slouží jako jeden z řídících prvků při vedení lidí, mělo by mít motivační podtext (ne demotivační), má výchovný charakter; formou denního hodnocení je i kontrola práce nebo pracovního výkonu. Mělo by sloužit i jako oboustranná zpětná vazba. Je většinou ústní.
-  - **Hodnocení příležitostné** - je většinou vyvoláno okamžitou potřebou, a to buď pracovní, nebo pracovněprávní. Tedy např. jako závěr určité pracovní etapy (ukončení montáže, ukončení činnosti pracovního týmu, před očekávanými organizačními změnami...). Může být ústní i písemné.
-  - **Hodnocení účelové** - většinou se provádí na vyžádání personálního útvaru, vedení podniku nebo kompetentních mimopodnikových orgánů. Provádí se při. ukončení pracovního poměru, před převedením na jinou práci, před povýšením atp. písemnou formou.
-  - **Hodnocení systematické (periodické)** - provádí se pravidelně s periodou v podniku obvyklou, většinou na základě standardizovaných postupů a podle přesně stanovených kritérií.
-- Pro správně hodnocení je potřeba zvolit správná **kritéria**, například:
-  - Osobnostní vlastnosti a schopnosti, nezbytné pro vykonávání dané funkce
-  - Kvalifikační parametry a chování v průběhu pracovní činnosti
-  - Pracovní výkonnost a výsledky pracovní činnosti
-  - Interpersonální orientace a celkový styl
-
+    - **Hodnocení průběžné (každodenní)** - je prováděno neoficiálně, přímým nadřízeným, je zaměřeno na průběžný pracovní výkon, slouží jako jeden z řídících prvků při vedení lidí, mělo by mít motivační podtext (ne demotivační), má výchovný charakter; formou denního hodnocení je i kontrola práce nebo pracovního výkonu. Mělo by sloužit i jako oboustranná zpětná vazba. Je většinou ústní.
+    - **Hodnocení příležitostné** - je většinou vyvoláno okamžitou potřebou, a to buď pracovní, nebo pracovněprávní. Tedy např. jako závěr určité pracovní etapy (ukončení montáže, ukončení činnosti pracovního týmu, před očekávanými organizačními změnami...). Může být ústní i písemné.
+    - **Hodnocení účelové** - většinou se provádí na vyžádání personálního útvaru, vedení podniku nebo kompetentních mimopodnikových orgánů. Provádí se při. ukončení pracovního poměru, před převedením na jinou práci, před povýšením atp. písemnou formou.
+    - **Hodnocení systematické (periodické)** - provádí se pravidelně s periodou v podniku obvyklou, většinou na základě standardizovaných postupů a podle přesně stanovených kritérií.
+  - Pro správně hodnocení je potřeba zvolit správná **kritéria**, například:
+    - Osobnostní vlastnosti a schopnosti, nezbytné pro vykonávání dané funkce
+    - Kvalifikační parametry a chování v průběhu pracovní činnosti
+    - Pracovní výkonnost a výsledky pracovní činnosti
+    - Interpersonální orientace a celkový styl
+- **Motivace**
+  - Motivace – motivovat lidi/zaměstnance lze pomocí nástrojů jako jsou různé stimuly, odměny, vedení lidí – a co je nejdůležitější – práce, kterou vykonávají.
+    - Cílem je vytvářet a rozvíjet motivační procesy a pracovní prostředí, které napomáhá tomu, aby jednotliví pracovníci dosahovali výsledků odpovídajících očekávání managementu.
+  - Proces motivace je směr – co se nějaká osoba pokouší udělat
+    -	úsilí – s jakou pílí se o to pokouší
+    -	vytrvalost – jak dlouho se o to pokouší
+  - Proces v krocích: STANOVENÍ CÍLE – PODNIKNUTÍ KROKŮ – DOSAŽENÍ CÍLE – POTŘEBA.
+  - **Typy motivace, motivační faktory**
+    - **Vnitřní motivace** – faktory, které si lidi sami vytvářejí a které je ovlivňují, aby se určitým způsobem chovali nebo aby se vydali určitým směrem. Tyto faktory tvoří odpovědnost (pocit, že práce je důležitá a že máme kontrolu nad svými vlastními možnostmi), autonomie (volnost konat), příležitost využívat a rozvíjet dovednosti a schopnosti, zajímavá a podnětná práce k postupu v hierarchii pracovních funkcí.
+      - Vnitřní motivátory, které se týkají „kvality pracovního života“, budou mít asi hlubší a dlouhodobější účinek, protože jsou součástí jedince, a nikoliv mu vnucené zvnějšku.
+    - **Vnější motivace** - to, co se dělá pro lidi, abychom je motivovali. Tvoří ji odměny, jako např. zvýšení platu, pochvala, povýšení, ale také tresty jako např. disciplinární řízení, odepření platu nebo kritika. Tyto motivátory mohou mít bezprostřední a výrazný účinek, ale nemusejí nutně působit dlouhodobě.
+  - **Motivační nástoroje**
+    - **Finanční**
+    - **Nefinanční**
+- **Rozvoj podřízených**
+  - Nástroje rozvoje podřízených – proces rozvíjení lidí v organizaci v sobě integruje procesy, aktivity a vztahy učení/ vzdělávání a rozvoje.
+  - Složkami tohoto procesu jsou:
+    - **Učení se** – definováno jako relativní permanentní změna v chování, ke které dochází v důsledku praxe nebo zkušenosti
+    - **Vzdělávání** – rozvoj znalostí, hodnot a vědomostí považovaných spíše obecně ve všech oblastech života, než aby šlo o znalosti a dovednosti vztahující se k nějakým konkrétním oblastem pracovní činnosti
+    - **Rozvoj** – růst nebo realizace osobních schopností a potenciálu prostřednictvím nabízejících se vzdělávacích akcí a praxe
+    - **Odborné vzdělávání** (výcvik) – plánované a systematické formování chování pomocí příležitostí k učení, vzdělávacích akcí, programů a instrukcí, které jedincům umožňují dosáhnout takové úrovně znalostí, dovedností a schopností, aby mohli svou práci vykonávat efektivně.
+  - Kroky potřebnými pro rozvoj a vzdělávání a pro strategii rozvoje jsou:
+    - 1.	Dohodnout se na týmu vytvářejícím strategii
+    - 2.	Vyjasnit poslání organizace
+    - 3.	Prozkoumat základní hodnoty
+    - 4.	Identifikovat strategické záležitosti či problémy, jimž organizace bude čelit
+    - 5.	Dohodnout se na strategii a strategickém plánu
+  - Rozvoj lidských zdrojů představuje hlavní příspěvek k úspěšnému plnění cílů organizace a investice do něj prospívají všem stranám zainteresovaným na organizaci.
 
 
 ----
