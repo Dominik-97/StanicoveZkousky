@@ -12376,9 +12376,9 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 - [x] Motivace
   - [x] Motivační faktory
   - [x] Motivační nástroje
-- [ ] Rozvoj podřízených
-  - [ ] Nástroje rozvoje podřízených
-- [ ] Typologie osobnosti
+- [x] Rozvoj podřízených
+  - [x] Nástroje rozvoje podřízených
+- [x] Typologie osobnosti
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -12446,7 +12446,20 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - 4.	Identifikovat strategické záležitosti či problémy, jimž organizace bude čelit
     - 5.	Dohodnout se na strategii a strategickém plánu
   - Rozvoj lidských zdrojů představuje hlavní příspěvek k úspěšnému plnění cílů organizace a investice do něj prospívají všem stranám zainteresovaným na organizaci.
-
+- **Typologie osobnosti**
+  - Hippokrates:
+    - Sangvinik - emočně stabilní extrovert, reaguje i na slabší podněty, optimista
+    - Flegmatik - emočně stabilní introvert, reaguje pouze na silné podněty, lhostejný, apatický, pasivnější
+    - Melancholik - emočně labilní introvert, smutný, reaguje silně na negativní věci, pesimista, má strach z budoucnosti
+    - Cholerik - emočně labilní extrovert, silně vzrušivý, často reaguje bez rozmyslu
+  - C. G. Jung
+    - introvert
+    - extrovert
+  - MBTI
+    - Hráči hledající rozruch (méně než 40 % v populaci)
+    - Strážci hledající bezpečí (méně než 40 % v populaci)
+    - Racionálové hledající znalosti (více než 10 % v populaci)
+    - Idealisté hledající identitu (více než 10 % v populaci)
 
 ----
 :::
