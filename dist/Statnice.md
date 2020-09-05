@@ -8441,8 +8441,8 @@ b) závazek podnikatele platit mu podíl na zisku
 - [x] Základní kapitál
 - [x] Vklad
 - [x] Podíl
-- [ ] Orgány
-- [ ] Jednání
+- [x] Orgány
+- [x] Jednání
 - [ ] Koncern
 
 \|--------------\| <br>
@@ -8504,18 +8504,26 @@ b) závazek podnikatele platit mu podíl na zisku
       - Nelze rozdělit podíl ve V.O.S. a podíl komplementáře
       - Ostatní podíly lze rozdělit v souvislosti s jejich převodem nebo přechodem - tedy například prodej části podílu, ledaže spol. smlo. určí jinak
       - K rozdělení podílu je nutný souhlas NO
+
 - **Orgány OK**
   - **NO**:
-    - V v.o.s. a k.s. = všichni společníci
+    - V v.o.s. a k.s. = u v.o.s. všichni společníci, u k.o. (komplementáři + komanditisté)
     - V kapitálové společnosti (s.r.o. a a.s.) = valná hromada
     - V družstvu = členská schůze
   - **KO**:
-    - dozorčí rada/kontrolní komise/jiný obdobný orgán
+    - dozorčí rada (a.s. v dualistickém systému, s.r.o.)/kontrolní komise (družstvo)/jiný obdobný orgán - (správní rada v a.s. pokud je zvolen monistický systém)
   - **Pokud je výše zmíněný orgán kolektivní (nikoli individuální)** = povinnost určit předsedu, který rozhoduje při rovnosti hlasů, ledaže spol. smlou. upraví tuto situaci jinak
     - Toto však neplatí pro osobní společnosti
   - **SO**:
-    - V v.o.s. a k.s. = každý společník
+    - V v.o.s. a k.s. = u v.o.s. každý společník, u k.o. = specificky komplementář
     - U s.r.o. = každý její jednatel, ledaže spol. smlou. určí, že více jednatelů tvoří kolektiví orgán
+    - U a.s. = představenost v dualistickém systému a statutární ředitel v monistickém systému
+    - U družstva = představenstvo
+- Členy mohou být většinou jako PO, tak samozřejmě vždy FO
+  - U PO - vykonává práva spojená s podílem člen jejího orgánu, nebo jiná pověřená osoba
+  - U FO - musí splňovat požadavky pro výkon - například bezúhonost podl ŽZ
+
+- **Jednání členů orgánů**
 
 
 \|--------------------------------------\| <br>
