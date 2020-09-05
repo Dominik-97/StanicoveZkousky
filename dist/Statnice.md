@@ -1606,7 +1606,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-DODĚLAT
+
 - [x] Vlastnické právo
 - [x] Ochrana vlastnického práva
 - [x] Spoluvlastnictví
@@ -1762,10 +1762,10 @@ DODĚLAT
 \|---------\| <br>
 \| Úkoly \| <br>
 \|---------\| <br>
-DODĚLAT
-- [ ] Držba
-- [ ] Detence
-- [ ] Věcná práva k věci cizí
+
+- [x] Držba
+- [x] Detence
+- [x] Věcná práva k věci cizí
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -10894,7 +10894,7 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Monetární politika
+- [x] Monetární politika
   - [x] Cíle
   - [x] Hlavní subjekt a měnové nástroje ČNB
   - [x] Inflace
