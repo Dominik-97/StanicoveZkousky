@@ -7927,8 +7927,12 @@ VEDLEJŠÍ
       - z. o dluhopisech
 
 - **2- POJEM CENNÉHO PAPÍRU**
-  - definice CP – listina, se kterou je spojeno právo takovým způsobem, že je po vydání CP nelze bez této listiny uplatnit ani převést (§ 514 OZ) [sepětí subjektivního práva a listiny coby hmotného nosiče]
+  - definice CP – listina, či listinu nahrazující zázna (=evidence), se kterou je spojeno právo takovým způsobem, že je po vydání CP nelze bez této listiny uplatnit ani převést (§ 514 OZ) [sepětí subjektivního práva soukromého práva a listiny coby hmotného nosiče]
     - zákon sice zmiňuje listinu (tj. papír), ale stejnou funkci může plnit libovolný jiný hmotný substrát schopný zachytit písemný projev vůle (-> § 3026 OZ)
+  - Podstatné je rozlišovat CP na:
+    - **druhy** - jednotlivé pojmenované a nepojmenované CP - akcie, dluhopis atd.
+    - **podoby** - listiná a zaknihovaná
+    - **formu** - na doručitele, na řad, na jméno
 
 - 1. způsobilým předmětem inkorporace do CP je vždy subjektivní právo, a to z oblasti SP majetkového
   - „cennost“ papíru se opírá o konstrukci právní fikce -> dané subjektivní právo je inkorporací zhmotněno v CP, stává se z něj tak také věc hmotná, bez listiny nemá právní význam („stojí s ní a padá“)
@@ -7973,6 +7977,7 @@ VEDLEJŠÍ
       - relativní námitky (ze vzájemných vztahů s konkrétním oprávněným)
 
 - **5- FORMA A PŘEVOD CENNÝCH PAPÍRŮ**
+  - **Určení formy nám udává, kdo je vlastníkem a jakým způsobem může tento cenný papír převést.**
   - dělení CP dle formy => způsob, jímž se CP převádí a jak se oprávněný může legitimovat k výkonu práv z CP
     - **1. forma na doručitele**
       - v CP na doručitele se neuvádí jméno oprávněné osoby, převádí se pouhým předáním
@@ -7981,13 +7986,13 @@ VEDLEJŠÍ
       - CP na řad od počátku uvádí jméno (název) konkrétního oprávněného (remitenta)
       - jedině remitent se může předložením CP legitimovat k výkonu práv do něj vtělených
       - převádí se jednostranným PJ převodce, tzv. rubopis (indosament) – vyznačený na rubu či přívěsku CP
-      - tzv. indosačním prohlášením („za mne na řad“ s připojeným jménem nabyvatele) projevuje vůli, aby na její místo (řad) nastoupil jiný oprávněný (rubopisník, indosatář) + předáním (tradicí)
+      - tzv. indosačním prohlášením („za mne na řad“ s připojeným jménem nabyvatele) projevuje vůli, aby na její místo (řad) nastoupil jiný oprávněný (rubopisník, indosatář) + předáním (tradicí) + smlouva (**ta ale nemusí být písemná, stačí tedy ústní**)
       - nevyplněný rubopis (blankoindosament) – neuvádí osobu rubopisníka, podobný režim jako u CP na doručitele; nepoužitelné u kmenového listu, akcie i zatímního listu
       - nabyvateli při legitimaci musí svědčit nepřetržitá řada rubopisů, musí se zohlednit jiné právní skutečnosti, které nemusí být zaznamenány (přeměny, smrt zůstavitele) – řada se může jevit přetržená
       - originární nabytí – právo se odvozuje ze směnky samotné, nezávisle na postavení předchůdce
     - **3. forma na jméno**
       - k výkonu práv se může legitimovat jedině předložitel, který je v cenném papíru označen
-      - vlastnické právo se převádí smlouvou k okamžiku její účinnosti, není možný převod rubopisem
+      - vlastnické právo se převádí smlouvou (**cesí**) k okamžiku její účinnosti, není možný převod rubopisem + předáním (**tradicí**)
       - musí prokázat, že osoba uvedená na CP mu CP převedla (cese)
       - derivativní nabytí – nabyvatel vstupuje do p. postavení předchůdce (> dlužníkovi zůstávají všechny námitky a obrany, jaké měl proti původnímu vlastníku CP na jméno) – jako u klasické cese pohledávky
 
@@ -8010,20 +8015,20 @@ VEDLEJŠÍ
   - u směnek, aby byly CP na jméno, je třeba výslovně projev vůle výstavce > rektadoložku - jinak jsou na řad, rektadoložka přímo vylučuje možnost převedení indosamentem
 
 - **6- TŘÍDENÍ A DRUHY CENNÝCH PAPÍRŮ**
-  - CP individuálně X hromadně vydávané, individuálně X veřejně nabízené, přijaté X nepřijaté k obchodování na evropském regulovaném trhu, způsobilé X nezpůsobilé veřejné nabídky atd.
+  - CP individuálně X hromadně vydávané, individuálně X veřejně nabízené, přijaté X nepřijaté k obchodování na evropském regulovaném trhu (kótované), způsobilé X nezpůsobilé veřejné nabídky, hlavní X vedlejší (vedlejší obsahuje nějaké právo, které ale existuje pouze, pokud exituje hlavní CP - například **kupóny** k výnosu z dluhopisů)
   - CP státní, komunální, vydávané ČNB, korporátní či jiné
   - **třídění dle zastupitelnosti**
     - **vzájemně zastupitelné** – CP téhož druhu vydávané týmž emitentem v téže formě, z nichž vznikají stejná práva; ve smlouvě mohou být vymezeny druhově (ochranné prvky + otisk místo podpisu)
     - **nezastupitelné**
   - **třídění dle účinků vzniku**
-    - **deklaratorní** – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP)
-    - **konstitutivní** – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy)
+    - **deklaratorní** – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP), CP ho pouze osvědčuje - například akcie
+    - **konstitutivní** – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy) - emise je zde nutným předpokladem pro vznik práva
   - **třídění dle vyjádření hospodářské kauzy**
     - kauzální – je patrné, co bylo důvodem jejich vzniku (téměř všechny pojmenované CP)
     - abstraktní – svůj hospodářský důvod vyjadřovat nemusejí nebo nesmějí (směnka)
   - **třídění dle druhu**
     - **účastnické** (podílnické) – ztělesňují podíl ve společnosti či na účelovém sdružení jmění; akcie či zatímní listy (a.s. či e.s.), kmenové listy (s.r.o.), investiční listy (k.s. na investiční listy); podílové listy
-    - **dlužnické** (neúčastnické) – inkorporují právo na plnění, tj. pohledávku; peněžitý předmět plnění (dluhopis, směnka, šek, kupon), nepeněžitý (náložný list, skladištní list, opční list – právo na přednostní úpis akcií)
+    - **dlužnické** (neúčastnické/obligační - závazkové) – inkorporují právo na plnění, tj. pohledávku; peněžitý předmět plnění (dluhopis, směnka, šek, kupon), nepeněžitý (náložný list, skladištní list, opční list – právo na přednostní úpis akcií)
     - **věcněprávní** – vtělují právo věcné; zemědělský skladní list (vtělení VP či ZP k zeměd. komoditám) - představují vlastnické a zástavní právo
     - **zbožové** – různé druhy CP, jejichž předmětem je v konečném důsledku zboží
   - **nepojmenované druhy CP**
@@ -8032,6 +8037,7 @@ VEDLEJŠÍ
     - absolutní právo lze inkorporovat jen, když tak stanoví zákon (tj. jen u pojmenovaných CP)
 
 - **7- ZAKNIHOVANÉ A IMOBILIZOVANÉ CENNÉ PAPÍRY (ZCP a ICP)**
+  - **zaknihovat lze pouze zastupitelné cenné papíry – tj. cenné papíry téhož druhu vydané týmž emitentem v téže formě**
   - tradiční označení, ale ZCP vlastně není CP, nemá hmotný substrát – jde o věc movitou, avšak nehmotnou;
     - ZCP = zápis v evidenci, který nahrazuje hmotný CP; lze ho převést jen změnou zápisu v evidenci
   - proces zaknihování = dematerializace CP (odhmotnění), právo s ním ale zachází jako s věcí hmotnou
