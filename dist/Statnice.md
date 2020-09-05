@@ -8426,6 +8426,37 @@ b) závazek podnikatele platit mu podíl na zisku
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Právní úprava obchodních korporací**
+  - ZOK je speciální pro všechny OK
+  - Subsidiárně se použije NOZ
+
+- **Pojem právnické osoby a obchodních korporací**
+  - PO = organizovaný fiktivní právní útvar, kterému zákonodárce přiznal právní subjektivitu, nebo jehož právní subjektivitu uznal
+  - OK = nemá legálně vydefinovanou definici, ZOK toto ale obchází tím, že taxativně vymezuje jednotlivé obchodní společnosti
+    - Obchodní korporace = obchodní společnosti + družstvo
+      - Pod družstva lze rovněž podřadit **Evropskou družstevní společnost**
+      - Obchodní společnosti = osobní (v.o.s., k.s.) a kapitálové (s.r.o. a a.s.) = ty přímo upravuje ZOK
+        - Pod obchodní společnosti lze podřadit i nadnárodní formy společností upravených předpisy EU:
+          - **Evropská společnost**
+          - **Evropské hospodářské zájmové sdružení**
+
+- **Vznik**
+  - Je potřeba spojit úpravu NOZ a ZOK
+  - Podstatnou náležitostí je rozlišování mezi **založením** a **vznikem**
+    - **Založení ve vztahu k OK** = jedná se o zakladatelské právní jednání, v rámci ZOK:
+      - Obchodní korporace se zakládají **společenskou smlouvou**
+        - Pokud se zakládají kapitálové společnosti = **společenská smlouva** musí mít formu **veřejné listiny**
+        - Pokud se zakládá družstvo - uzavírá se spol. smlo. přijetím **ustavující schůze**
+    - **Vznik OK** = upravuje obecně NOZ
+      - Zapsáním založené PO do veřejného rejstříku
+      - Pro OK je tímto seznamem = **obchodní rejstřík**
+
+- **Neplatnost**
+  - I po vzniku OK jí soud prohlásí za neplatnou, a to i bez návrhu, pokud:
+    - 1- Společenská smlouva nebyla pořízena v předepsané formě
+    - 2- nebyla dodržena ustanovení o výši nejnižšího splacení základního kapitálu, nebo
+    - 3- zjistí nezpůsobilost k právním jednáním všech zakládajících společníků.
+
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
 \|--------------------------------------\| <br>
