@@ -8460,6 +8460,15 @@ b) závazek podnikatele platit mu podíl na zisku
       - Vrámci ZOK - zápis do OR musí být do 6 měsíců po založení, jinak platí, že u OK nastávají tytéž účinky jako při odstoupení od smlouvy (tato doba je ale v zakladatelském právním jednání možné změnit)
         - U družstva pak proběhne fikce zpětvzetí přihlášek
 
+- **Zakladatelské právní jednání, náležitosti**
+  - Společenská smlouva je zakladatelské právní jednání, proto se na ní užije ustanovení OZ
+  - Minimálně obsahuje:
+    - název,
+    - sídlo právnické osoby,
+    - předmět činnosti,
+    - jaký má právnická osoba statutární orgán a jak se vytváří, nestanoví-li to zákon přímo.
+    - Určí též, kdo jsou první členové statutárního orgánu.
+
 - **Jednočlenné PO**
   - Dle NOZ se na jednočlennou PO hledí jako na korporaci
   - Taková PO postrádá povahu sdružení
