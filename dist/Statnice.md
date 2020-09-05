@@ -3407,6 +3407,10 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
 
 **Směna**
   - Každá strana se zavazuje převést svoje právo druhé straně výměnou za závazek druhé strany převést vlastnické právo k její věci.
+  - Pokud dojde k nahodilé zkáze celé věci - má se za to, že je smlouva nullitní
+  - Pokud dojde k nahodilému zhoršení pod polovinu původní ceny - může druhá strana od smlouvy odstoupit
+  - Směnu lze udělat i **úhrnkem**
+  - Nebezpečí na škodu a právo na plody a užitky běžně přechází na druhou stranu odevzdáním věci
 
 
 \|--------------------------------------\| <br>
