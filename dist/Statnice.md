@@ -12454,11 +12454,11 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Řízení rizik
+- [x] Řízení rizik
   - [x] Definice rizika a nejistoty
-  - [ ] Kategorizace rizik
-  - [ ] Metody měření a ošetření rizik
-  - [ ] Risk Apettite
+  - [x] Kategorizace rizik
+  - [x] Metody měření a ošetření rizik
+  - [x] Risk Apettite
   - [ ] Organizace řízení rizik ve společnosti
 
 \|------------------------------\| <br>
@@ -12479,17 +12479,72 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - Uchopitelné pro rozhodování o jeho ošetření
   - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
 - **Termíny v rámci řízení rizika**
-  - 
-
+  - **Řízení rizika** proces identifikace, analyzování, zvládání a finančního pokrývání rizik.
+  - **Rizikový faktor** činitel, který má přímý vliv na pravděpodobnostní chování určitého jevu nebo jeho hodnoty.
+  - **Dopad rizika** kvalitativní specifikace důsledků vzniklých působením rizika. Dopad rizika může mít finanční charakter (ocenitelný finanční hodnotou ) nebo nefinanční, obtížně ocenitelný charakter.
+  - **Ocenění dopadu rizika** určitým, přesně definovaným způsobem ohodnocená potenciální finanční ztráta/zisk vyplývající z působení daného konkrétního rizika.
+  - **Ošetření rizika** opatření zaměřené na eliminaci nebo snížení dopadu rizika.
+  - **Dopad zbytkového rizika** dopad rizika po jeho ošetření.
+  - **(Celková) riziková expozice** celková potenciální ztráta společnosti spojená s působením konkrétního rizika nebo skupiny rizik v určitém časovém období
+  - **Ochota akceptovat riziko (risk appetite)** riziková expozice, kterou je společnost v podmínkách existence daného rizika ochotna akceptovat, odvozuje se např.od variability ROE a výše vlastního jmění
+  - **Schopnost pokrytí rizika (risk capacity)** celková riziková expozice, kterou je daný subjekt ve sledovaném období v podmínkách existence příslušných rizik schopna zvládnout bez ohrožení finančního zdraví stanovuje se obvykle ve výši korespondující s vlastním jměním
+  - **Kategorizace rizik** z pohledu řízení rizik účelné seskupení popřípadě hierarchizace rizik podle určitého přístupu, například:
+    - podle firemních procesů členění rizik podle oblasti/procesu ve skupině, kterých se týká.
+    - podle podnikatelských aktivit členění rizik typických pro podnikání v dané podnikatelské oblasti (tj. působením politických sil, sociálních změn, technologických změn, legislativního rámce, konkurence, substituce, nových hráčů, zákazníků, dodavatelů)
+    - podle obecně závazných pravidel legislativa předepisuje způsob kategorizace rizik (bankovnictví Basel doporučení)
+  - **Katalog rizik** strukturovaný přehled rizik kategorizovaný zvoleným způsobem používaný jako základ pro řízení rizik, každé riziko se kvantifikuje z hlediska dopadu a pravděpodobnosti výskytu
+    - **Katalog rizik zahrnuje aktuální soupis rizik, která jsou popsána pomocí atributů:**
+    - Kódové označení podle zvoleného číselníku
+    - Kategorie, případně podkategorie podle systému kategorizace
+    - Popis rizika slovní stručné vysvětlení, co riziko znamená a jak se projevuje
+    - Oblast výskytu rizika procesy nebo organizační útvary, kde se riziko vyskytuje
+    - Vlastník rizika manažer, který je odpovědný za řízení rizika
+    - Kvantifikace rizika před ošetřením:
+      - Finanční dopad ve zvolené stupnici
+      - Pravděpodobnost výskytu ve zvolené stupnici
+    - Způsob ošetření rizika zvolený způsob nebo způsoby
+    - Kvantifikace rizika po ošetření:
+      - Finanční dopad ve zvolené stupnici
+      - Pravděpodobnost výskytu ve zvolené stupnici
+    - Termín revize datum nebo časový interval, ve kterém proběhne revize atributů rizika
 - **Kategorizace rizik**
   - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
-    - Podle firemní procesů -
-    - Podle podnikatelských aktivit -
-    - Podle obecně závazných pravidel -
+    - Podle firemní procesů
+    - Podle podnikatelských aktivit
+    - Podle obecně závazných pravidel
+  - Viz výše
 - **Metody měření a ošetření rizika**
-  - No
+  - Riziko se většinou měří podle velikosti jeho dopadu a pravděpodobnosti že nastance
+  - Jako určitý výpočet by se tedy dalo uvést: riziko = závažnost x pravděpodobnost
 - **Risk Appetite**
   - Jedná se o ochotu akceptovat riziko - riziková expozice, kterou je daný subjekt ve sledovaném období ochoten akceptovat v podmínkách existence daného rizika, odvozuje se například od variability ROE (return on equity) a výše vlastního jmění (vlastního kapitálu).
+- **Přístupy k ošetření rizik**
+  - Využití expertů
+  - Vyhnutí se riziku
+  - Akceptace rizika
+  - Omezení rizika
+  - Přenesení rizika - pojištění etc.
+- **Organizace řízení rizik ve společnosti:**
+  - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Organizace_rizeni_rizika.png)
+- **Shrnutí**
+- **Finanční řízení**
+Procesy strategického a finančního řízení na sebe navazují, aby bylo možno strategii vycházející z možností daných podnikatelským prostředím převést až do rozpočtu
+Na finanční řízení lze pohlížet jako na proces dále členěný na jednotlivé subprocesy, které je možné charakterizovat pomocí jejich cílů a hlavních činností
+Plánování je nezbytné z řady důvodů, které mají například v oblasti veřejné správy i oporu v legislativě
+V řízení společnosti pro stanovení cílů a jejich kvantifikaci používáme jednak plán, jednak rozpočet, které jsou vzájemně provázány
+V praxi se používá několik přístupů pro sestavení rozpočtu, které mají určité výhody a nevýhody
+
+- **Řízení rizik**
+Řízení rizik je každodenní součástí řízení, rizika je nutné měřit a ošetřovat
+Výchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
+Velikost dopadu a pravděpodobnost výskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
+Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost výskytu a velikosti dopadu rizika na zvolené stupnici
+Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost výskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
+Řízení rizik je každodenní součástí řízení, rizika je nutné měřit a ošetřovat
+Výchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
+Velikost dopadu a pravděpodobnost výskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
+Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost výskytu a velikosti dopadu rizika na zvolené stupnici
+Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost výskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
 
 ----
 :::
@@ -12517,10 +12572,16 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|------------------------------\| <br>
 
 - **Projektové řízení**
- -  Projektové řízení je řízení časově ohraničené a ucelené sady činností a procesů, jejímž cílem je zavedení, vytvoření nebo změna něčeho konkrétního.
- -  Řízení projektů je způsob rozplánování a realizaci složitých, zpravidla jednorázových akcí, které je potřeba uskutečnit v požadovaném termínu s plánovanými náklady tak, aby se dosáhlo stanovených cílů. Řízení projektů lze také charakterizovat jako účinné a efektivní dosahování významných změn.
- - Cílem řízení projektů je zajistit naplánování a realizaci úspěšného projektu, kterým se rozumí případ, kdy v plánovaném čase a s plánovanými náklady bylo dosaženo cílů projektu a realizace projektu nevyvolává negativní reakce.
- - Řízení projektů vychází z poznání, že jakmile rozsah, neobvyklost, složitost, obtížnost a rizikovost projektu přesáhnou určitou míru, je nutno použít adekvátních metod pro řízení celé akce.
+Projektové řízení má mezi dalšími přístupy k řízení za úkol realizovat změny …
+Řízení projektu musí zabezpečit nejen přípravu změny, ale i přechod na nový stav a stabilizaci jeho provozu
+Pro posouzení toho, zda byl dosažen cíl projektu, je nutné definovat indikátory prokazující naplnění cílů projektu; indikátory musí splňovat určité požadavky
+Při stanovení cílů se management často dopouští typických chyb, které jsou následně příčinou pro selhání
+Dilema projektového řízení spočívá v tom, že klíčové parametry projektu, a sice záměr, čas a zdroje projektu, jsou závisle proměnné
+Řízení projektu musí respektovat skutečnost, že každý projekt má svoji věcnou a procesní stránku,
+Pro řízení projektu je třeba vytvořit projektovou řídící strukturu, která pokrývá všechny potřebné řídící, kontrolní a výkonné role v projektu
+Při řízení projektu je využívána řada nástrojů usnadňující kontrolu průběhu projektu; jedním z nich je tzv. Ganttův diagram pro plánování průběhu projektu
+Kritickým faktorem úspěchu projektu je sestavení a řízení projektového týmu; přesto v této oblasti dochází často k chybám
+Řada projektů selhává, protože při jejich plánování a řízení dochází k typickým chybám
 - **Dilema projektového řízení**
   - Záměr projektu je třeba realizovat v daném čase s danými zdroji
   - Jedná se tedy o trojúhelník
