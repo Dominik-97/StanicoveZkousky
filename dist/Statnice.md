@@ -7902,8 +7902,8 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Cenné papíry
-- [ ] Zaknihovanné cenné papíry
+- [x] Cenné papíry
+- [x] Zaknihovanné cenné papíry
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -8017,51 +8017,39 @@ VEDLEJŠÍ
     - **nezastupitelné**
   - **třídění dle účinků vzniku**
     - **deklaratorní** – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP)
--     konstitutivní – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy)
-─     třídění dle vyjádření hospodářské kauzy
--     kauzální – je patrné, co bylo důvodem jejich vzniku (téměř všechny pojmenované CP)
--     abstraktní – svůj hospodářský důvod vyjadřovat nemusejí nebo nesmějí (směnka)
-─     třídění dle druhu
--     účastnické (podílnické) – ztělesňují podíl ve společnosti či na účelovém sdružení jmění; akcie či zatímní listy (a.s. či e.s.), kmenové listy (s.r.o.), investiční listy (k.s. na investiční listy); podílové listy
--     dlužnické – inkorporují právo na plnění, tj. pohledávku; peněžitý předmět plnění (dluhopis, směnka, šek, kupon), nepeněžitý (náložný list, skladištní list, opční list – právo na přednostní úpis akcií)
--     věcněprávní – vtělují právo věcné; zemědělský skladní list (vtělení VP či ZP k zeměd. komoditám)
--        zbožové – různé druhy CP, jejichž předmětem je v konečném důsledku zboží
-─     nepojmenované druhy CP
--     listina musí určit právo, které je s ní spojeno, údaj o výstavci a to, že zmíněné právo vtěluje
--     ZOK: zákaz inkorporovat do CP podíl společníka v OK, ledaže jde o kapitál. společnost (X družstvo)
--     absolutní právo lze inkorporovat jen, když tak stanoví zákon (tj. jen u pojmenovaných CP)
+    - **konstitutivní** – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy)
+  - **třídění dle vyjádření hospodářské kauzy**
+    - kauzální – je patrné, co bylo důvodem jejich vzniku (téměř všechny pojmenované CP)
+    - abstraktní – svůj hospodářský důvod vyjadřovat nemusejí nebo nesmějí (směnka)
+  - **třídění dle druhu**
+    - **účastnické** (podílnické) – ztělesňují podíl ve společnosti či na účelovém sdružení jmění; akcie či zatímní listy (a.s. či e.s.), kmenové listy (s.r.o.), investiční listy (k.s. na investiční listy); podílové listy
+    - **dlužnické** (neúčastnické) – inkorporují právo na plnění, tj. pohledávku; peněžitý předmět plnění (dluhopis, směnka, šek, kupon), nepeněžitý (náložný list, skladištní list, opční list – právo na přednostní úpis akcií)
+    - **věcněprávní** – vtělují právo věcné; zemědělský skladní list (vtělení VP či ZP k zeměd. komoditám) - představují vlastnické a zástavní právo
+    - **zbožové** – různé druhy CP, jejichž předmětem je v konečném důsledku zboží
+  - **nepojmenované druhy CP**
+    - listina musí určit právo, které je s ní spojeno, údaj o výstavci a to, že zmíněné právo vtěluje
+    - ZOK: zákaz inkorporovat do CP podíl společníka v OK, ledaže jde o kapitál. společnost (X družstvo)
+    - absolutní právo lze inkorporovat jen, když tak stanoví zákon (tj. jen u pojmenovaných CP)
 
-1. ZAKNIHOVANÉ A IMOBILIZOVANÉ CENNÉ PAPÍRY (ZCP a ICP)
-─     tradiční označení, ale ZCP vlastně není CP, nemá hmotný substrát – jde o věc movitou, avšak nehmotnou;
-─     ZCP = zápis v evidenci, který nahrazuje hmotný CP; lze ho převést jen změnou zápisu v evidenci
-─     proces zaknihování = dematerializace CP (odhmotnění), právo s ním ale zachází jako s věcí hmotnou
-─     na ZCP se použije úprava CP, nevylučuje-li to jejich povaha či zákon
-─      u ZCP se nerozlišují formy, jsou vždy vedeny na jméno konkrétní osoby a zákon stanoví specifický způsob převodu a legitimace (výjimka pro akcie – počítá se s formou)
-─      použije se většina zbylých kritérií třídění CP a ustanovení o jejich vydání
-─     přeměna CP na ZCP a naopak (§ 529-544 OZ)
-─      přeměna by neměla bránit vzájemné zastupitelnosti CP a ZCP, vydal-li je týž emitent a vznikají-li z nich tatáž práva
-2. VEDENÍ EVIDENCE ZCP a ICP
-•       centrální evidence („centrální evidence ZCP“, § 92 ZPKT)
-─      soustředění evidence co největšího počtu ZCP do jediného místa (evidovat v ní lze ale i ICP)
-─      1. tuzemský centrální depozitář, od 2016: 2. zahraniční centrální depozitář, 3. ČNB
-─      ZCP lze evidovat zásadně jen v centrální evidenci a evidenci na ni navazující (výjimky pro CP kolektivního investování a státní dluhopisy)
-•       samostatná evidence („samostatná evidence investičních nástrojů“)
-─      každý obchodník s CP, který má v povolení ke své činnosti uvedenu investiční službu úschovy a správy investičních nástrojů, osoby oprávněné k vedení evidence ZCP kolektivního investování a další
-─      především evidence o CP převzatých do úschovy, obzvláště tedy o ICP a sběrném dluhopisu; dále evidence ZCP kolektivního investování, zaknihované státní dluhopisy
- druhy majetkových účtů:
-─      účet vlastníka – evidence ZCP a ICP toho, pro něhož byl účet zřízen, vyvratitelná domněnka, že ZCP a ICO patří osobě, na jejímž vlastnickém účtu jsou zapsány
-─      účet zákazníků – majitel účtu zde eviduje ZCP a ICP svých zákazníků (majitel účtu ≠ vlastník CP)
-─      osoba vedoucí centrální evidenci nepozná z účtu zákazníků údaje o jednotlivých vlastnících
-•       navazující evidence (dvoustupňová evidence)
-─      vede ji majitel účtu zákazníků v centrální či samostatné evidenci – vést zde lze jen účty vlastníků
-(X výjimka: lze zde vést i účty zákazníků, pouze pro zahraniční subjekt > třístupňová evidence)
-─     evidence emisí
-─      přehled o vlastnících ZCP či ICP z celé emise (ať jsou na jakémkoli stupni)
-─      vede ji osoba vedoucí evidenci 1. stupně (centrální nebo samostatnou evidenci), má smlouvu s emitentem, který ZCP či ICP z dané emise vydal > předává mu výpis z evidence emisí
-─      na její výzvu přispívají údaji ze svých navazujících evidencí osoby, které je vedou
-─      výpisy z evidence emisí slouží jako primární nástroj k určení (legitimaci) osob oprávněných k výkonu práv ze ZCP či ICP v takové evidenci
-─      pokud se údaje na výpisu z evidence emise liší od údajů na výpisu z majetkového účtu, za rozhodující se považují údaje na výpisu z evidence emise
+- **7- ZAKNIHOVANÉ A IMOBILIZOVANÉ CENNÉ PAPÍRY (ZCP a ICP)**
+  - tradiční označení, ale ZCP vlastně není CP, nemá hmotný substrát – jde o věc movitou, avšak nehmotnou;
+    - ZCP = zápis v evidenci, který nahrazuje hmotný CP; lze ho převést jen změnou zápisu v evidenci
+  - proces zaknihování = dematerializace CP (odhmotnění), právo s ním ale zachází jako s věcí hmotnou
+  - na ZCP se použije úprava CP, nevylučuje-li to jejich povaha či zákon
+  - u ZCP se nerozlišují formy, jsou vždy vedeny na jméno konkrétní osoby a zákon stanoví specifický způsob převodu a legitimace (výjimka pro akcie – počítá se s formou)
+  - použije se většina zbylých kritérií třídění CP a ustanovení o jejich vydání
+  - přeměna CP na ZCP a naopak (§ 529-544 OZ)
+  - přeměna by neměla bránit vzájemné zastupitelnosti CP a ZCP, vydal-li je týž emitent a vznikají-li z nich tatáž práva
 
+- **7- VEDENÍ EVIDENCE ZCP a ICP**
+  - centrální evidence („centrální evidence ZCP“, § 92 ZPKT)
+    - soustředění evidence co největšího počtu ZCP do jediného místa (evidovat v ní lze ale i ICP)
+    - 1. tuzemský centrální depozitář, od 2016: 2. zahraniční centrální depozitář, 3. ČNB
+    - ZCP lze evidovat zásadně jen v centrální evidenci a evidenci na ni navazující (výjimky pro CP kolektivního investování a státní dluhopisy)
+  - samostatná evidence („samostatná evidence investičních nástrojů“)
+    - každý obchodník s CP, který má v povolení ke své činnosti uvedenu investiční službu úschovy a správy investičních nástrojů, osoby oprávněné k vedení evidence ZCP kolektivního investování a další
+    - především evidence o CP převzatých do úschovy, obzvláště tedy o ICP a sběrném dluhopisu; dále evidence ZCP kolektivního investování, zaknihované státní dluhopisy
+  - výpisy z evidence emisí slouží jako primární nástroj k určení (legitimaci) osob oprávněných k výkonu práv ze ZCP či ICP v takové evidenci
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -9046,7 +9034,7 @@ Kmenové listy
 
 -	**Další druhy cenných papírů** – zatímní listy, vyměnitelné a prioritní dluhopisy, opční listy, dluhopisy, kupóny, směnky
 	 - **Účastnické cenné papíry** – garantují podíl na na ZK nebo hlasovacích právech (zatímní listy, akcie)
-   - **Neúčastnické cenné papíry** – garantují právo k získání účastnických papírů (vyměnitelné/prioritní papíry, opční listy) (§ 245 ZOK)
+   - **Neúčastnické cenné papíry** – garantují právo k získání účastnických papírů (vyměnitelné/prioritní papíry, opční listy, dluhopisy) (§ 245 ZOK)
 
 - **Akcie jako část základního kapitálu**
   -	Akcie představuje část ZK – všechny akcie tvoří dohromady ZK
