@@ -7954,6 +7954,7 @@ VEDLEJŠÍ
     - listina musí splňovat formální náležitosti stanovené zákonem + musí se stát majetkem prvního nabyvatele stanoveným způsobem (navazuje na vlastnickou teorii)
     - zákon chrání dobrou víru třetích osob pro případ, že způsob nebyl dodržen – byl-li nabyvatel v dobré víře, dojde k vydání CP, i když nebyly dodrženy náležitosti postupu při vydání
   - imobilizace jako způsob vydání CP – výstavce cenný papír nepředává jeho prvnímu majiteli, nýbrž svěřuje do hromadné úschovy; CP je vydán dnem, kdy jej výstavce předal schovateli
+    - CP je svěřen do úschovy osoby oprávněné vést evidenci CP - například **centrální depozitář CP**
 
 - **4- FUNKCE CENNÝCH PAPÍRŮ**
   - převodní funkce
@@ -7972,47 +7973,50 @@ VEDLEJŠÍ
       - relativní námitky (ze vzájemných vztahů s konkrétním oprávněným)
 
 - **5- FORMA A PŘEVOD CENNÝCH PAPÍRŮ**
-─     dělení CP dle formy => způsob, jímž se CP převádí a jak se oprávněný může legitimovat k výkonu práv z CP
-1.   forma na doručitele
-─      v CP na doručitele se neuvádí jméno oprávněné osoby, převádí se pouhým předáním
-─      pro legitimaci k výkonu práv, která jsou s ním spojena, postačuje pouhé předložení
-2.   forma na řad
-─      CP na řad od počátku uvádí jméno (název) konkrétního oprávněného (remitenta)
-─      jedině remitent se může předložením CP legitimovat k výkonu práv do něj vtělených
-─      převádí se jednostranným PJ převodce, tzv. rubopis (indosament) – vyznačený na rubu či přívěsku CP
-─      tzv. indosačním prohlášením („za mne na řad“ s připojeným jménem nabyvatele) projevuje vůli, aby na její místo (řad) nastoupil jiný oprávněný (rubopisník, indosatář) + předáním
-─      nevyplněný rubopis (blankoindosament) – neuvádí osobu rubopisníka, podobný režim jako u CP na doručitele; nepoužitelné u kmenového listu, akcie i zatímního listu
-─      nabyvateli při legitimaci musí svědčit nepřetržitá řada rubopisů, musí se zohlednit jiné právní skutečnosti, které nemusí být zaznamenány (přeměny, smrt zůstavitele) – řada se může jevit přetržená
-─      originární nabytí – právo se odvozuje ze směnky samotné, nezávisle na postavení předchůdce
-3.   forma na jméno
-─      k výkonu práv se může legitimovat jedině předložitel, který je v cenném papíru označen
-─      vlastnické právo se převádí smlouvou k okamžiku její účinnosti, není možný převod rubopisem
-─      musí prokázat, že osoba uvedená na CP mu CP převedla (cese)
-─      derivativní nabytí – nabyvatel vstupuje do p. postavení předchůdce (> dlužníkovi zůstávají všechny námitky a obrany, jaké měl proti původnímu vlastníku CP na jméno) – jako u klasické cese pohledávky
+  - dělení CP dle formy => způsob, jímž se CP převádí a jak se oprávněný může legitimovat k výkonu práv z CP
+    - **1. forma na doručitele**
+      - v CP na doručitele se neuvádí jméno oprávněné osoby, převádí se pouhým předáním
+      - pro legitimaci k výkonu práv, která jsou s ním spojena, postačuje pouhé předložení
+    - **2. forma na řad**
+      - CP na řad od počátku uvádí jméno (název) konkrétního oprávněného (remitenta)
+      - jedině remitent se může předložením CP legitimovat k výkonu práv do něj vtělených
+      - převádí se jednostranným PJ převodce, tzv. rubopis (indosament) – vyznačený na rubu či přívěsku CP
+      - tzv. indosačním prohlášením („za mne na řad“ s připojeným jménem nabyvatele) projevuje vůli, aby na její místo (řad) nastoupil jiný oprávněný (rubopisník, indosatář) + předáním (tradicí)
+      - nevyplněný rubopis (blankoindosament) – neuvádí osobu rubopisníka, podobný režim jako u CP na doručitele; nepoužitelné u kmenového listu, akcie i zatímního listu
+      - nabyvateli při legitimaci musí svědčit nepřetržitá řada rubopisů, musí se zohlednit jiné právní skutečnosti, které nemusí být zaznamenány (přeměny, smrt zůstavitele) – řada se může jevit přetržená
+      - originární nabytí – právo se odvozuje ze směnky samotné, nezávisle na postavení předchůdce
+    - **3. forma na jméno**
+      - k výkonu práv se může legitimovat jedině předložitel, který je v cenném papíru označen
+      - vlastnické právo se převádí smlouvou k okamžiku její účinnosti, není možný převod rubopisem
+      - musí prokázat, že osoba uvedená na CP mu CP převedla (cese)
+      - derivativní nabytí – nabyvatel vstupuje do p. postavení předchůdce (> dlužníkovi zůstávají všechny námitky a obrany, jaké měl proti původnímu vlastníku CP na jméno) – jako u klasické cese pohledávky
 
-právní titul převodu
-─      k přechodu vlastnického práva je bez ohledu na formu CP vždy nezbytná existence právního titulu – smlouva kupní, darovací, směnná, smlouva o zajišťovacím převodu práva, smlouva o zápůjčce
-─      nevlastníkovi stejně bude plněno po legitimaci, titul se nezkoumá, ledaže by se vlastníku CP podařilo prokázat, že titul neexistoval/odpadl
-omezená nabídka forem
-─      skladištní, náložní list: všechny 3 formy možné
-─      akcie: akcie na majitele (=CP na doručitele), akcie na jméno (=CP na řad), matoucí terminologie ZOK
-(akcie jako CP na jméno vyloučena, protože by tam byla omezená převoditelnost)
-─      směnka: CP na řad, CP na jméno (nelze na doručitele, náležitostí je jméno remitenta)
-─      kmenový či zatímní list: jen jako CP na řad
-─      kupon či opční list: jen jako CP na doručitele
-nejasná forma – domněnky
-─      chybí-li na CP údaj o oprávněné osobě, jde o CP na doručitele
-─      obsahuje-li CP jméno oprávněného, má se za to, že jde o CP na řad
-─      u směnek, aby byly CP na jméno, je třeba výslovně projev vůle výstavce > rektadoložku
+- **právní titul převodu**
+  - k přechodu vlastnického práva je bez ohledu na formu CP vždy nezbytná existence právního titulu – smlouva kupní, darovací, směnná, smlouva o zajišťovacím převodu práva, smlouva o zápůjčce
+  - nevlastníkovi stejně bude plněno po legitimaci, titul se nezkoumá, ledaže by se vlastníku CP podařilo prokázat, že titul neexistoval/odpadl
 
-- 6- TŘÍDENÍ A DRUHY CENNÝCH PAPÍRŮ
-─     CP individuálně X hromadně vydávané, individuálně X veřejně nabízené, přijaté X nepřijaté k obchodování na evropském regulovaném trhu, způsobilé X nezpůsobilé veřejné nabídky atd.
-─     CP státní, komunální, vydávané ČNB, korporátní či jiné
-─     třídění dle zastupitelnosti
--     vzájemně zastupitelné – CP téhož druhu vydávané týmž emitentem v téže formě, z nichž vznikají stejná práva; ve smlouvě mohou být vymezeny druhově (ochranné prvky + otisk místo podpisu)
--     nezastupitelné
-─     třídění dle účinků vzniku
--     deklaratorní – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP)
+- **omezená nabídka forem**
+  - Jednotlivé pojmenované formy CP mohou mít omezenou možnost formy, ve které mohou být emitovány
+    - skladištní, náložní list: všechny 3 formy možné
+    - akcie: akcie na majitele (=CP na doručitele), akcie na jméno (=CP na řad), matoucí terminologie ZOK
+      - (akcie jako CP na jméno vyloučena, protože by tam byla omezená převoditelnost)
+    - směnka: CP na řad, CP na jméno (nelze na doručitele, náležitostí je jméno remitenta)
+    - kmenový či zatímní list: jen jako CP na řad
+    - kupon či opční list: jen jako CP na doručitele
+
+- **nejasná forma – domněnky**
+  - chybí-li na CP údaj o oprávněné osobě, jde o CP na doručitele
+  - obsahuje-li CP jméno oprávněného, má se za to, že jde o CP na řad
+  - u směnek, aby byly CP na jméno, je třeba výslovně projev vůle výstavce > rektadoložku - jinak jsou na řad, rektadoložka přímo vylučuje možnost převedení indosamentem
+
+- **6- TŘÍDENÍ A DRUHY CENNÝCH PAPÍRŮ**
+  - CP individuálně X hromadně vydávané, individuálně X veřejně nabízené, přijaté X nepřijaté k obchodování na evropském regulovaném trhu, způsobilé X nezpůsobilé veřejné nabídky atd.
+  - CP státní, komunální, vydávané ČNB, korporátní či jiné
+  - **třídění dle zastupitelnosti**
+    - **vzájemně zastupitelné** – CP téhož druhu vydávané týmž emitentem v téže formě, z nichž vznikají stejná práva; ve smlouvě mohou být vymezeny druhově (ochranné prvky + otisk místo podpisu)
+    - **nezastupitelné**
+  - **třídění dle účinků vzniku**
+    - **deklaratorní** – právo zprvu existuje mimo CP nezávisle na něm (účastnické CP)
 -     konstitutivní – s CP vzniká i právo, které je s ním spjato (směnky, dluhopisy)
 ─     třídění dle vyjádření hospodářské kauzy
 -     kauzální – je patrné, co bylo důvodem jejich vzniku (téměř všechny pojmenované CP)
