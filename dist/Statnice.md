@@ -5726,9 +5726,13 @@ o	rozhodnutí o odvolání:
     - Soud povolí oprávněnému, aby si práce, které měl pro něho vykonat povinný, udělal buď sám, nebo si je dal provést někým jiným, např. firmou, ale na náklady povinného.
     - Pokud jde ale o nezastupitelné jednání, kdy je např. povinný zdržet se obtěžování souseda (pronikání zápachu z kouře), lze splnění této povinnosti vynutit jen ukládáním pokut až do celkové výše 100 000 Kč.
 
-Zvlášť upraven je výkon rozhodnutí o výchově nezletilých dětí. Pokud se někdo odmítá podrobit soudnímu rozhodnutí o výchově nezletilých dětí, např. odmítne dát dítě do ústavu, předat je druhému z rodičů, předat do výchovy, umožnit styk s dítětem ve stanovených termínech, soud jej nejdříve písemně vyzve, aby rozhodnutí respektoval a povinnosti v něm uložené splnil. Pokud výzva zůstane bezvýsledná, ukládá soud pokuty, a to i opakovaně. Soud může nařídit odnětí dítěte tomu, u něhož být podle rozsudku nemá a předat je tomu, komu bylo svěřeno do výchovy. Pokud není umožňován styk s dítětem, dává novela zákona o rodině nově rozhodnout o prostředí dítěte.
+- **3. Jiné druhy exekuce**
+  - Pozastavení ř. oprávnění
+  - Exekuce zřízením soudního/exekutorského zástavního práva
+  - Exekuce správou nemovité věci
+  - Etc.
 
-Řízení insolvenční
+- **Řízení insolvenční**
 - Rozhodováno o úpadku a způsobu jeho řešení
 - Zahrnuje v sobě prvky jak řízení nalézacího, tak řízení vykonávacího
  - Podmínky pro proběhnutí řízení se zjišťují v jeho rámci, poté se pokračuje realizací potřebných opatření
