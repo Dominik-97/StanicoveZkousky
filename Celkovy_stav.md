@@ -74,7 +74,7 @@ Hotovo 2/30
 - [x] Otázka 25
 - [x] Otázka 26
 - [x] Otázka 27
-- [ ] Otázka 28 - Teď
+- [x] Otázka 28
 - [ ] Otázka 29
 - [x] Otázka 30
 

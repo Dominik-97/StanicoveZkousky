@@ -9006,6 +9006,7 @@ Statutární orgán (§ 125 odst. 1 ZOK)
     - Zákon stanoví jaké jsou podmínky co do obsahu kmenového listu - například jasná identifikace, druh podílu etc.
     - Lze je vydat i jako hromadné cenné papíry
   - Společenská smlouva může omezit nebo podmínit převody a zastavení podílů
+  - Pokud zanikne jeden ze společníků -> uvolněný podíl - ten musí společnost vyřešit - například ho může prodat zbylým společníkům, nebo třetí osobě
 
 - **Orgány společnosti**
   - **NO - Valná hromada** - členové jsou všichni společníci (majitelé)
@@ -9332,7 +9333,7 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Družstvo
+- [x] Družstvo
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -9342,7 +9343,105 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Družstvo**
+  - Společenství neuzavřeného počtu osob
+  - Založeno za účelem vzájemné podpory svých členů, třetích osob, nebo za účelem podnikání
+  - Přesto, že tam není přímo řazena, jedná se o **kapitálovou OK** - vytváří se ZK a členové neručí za dluhy družstva
+  - Členstvo má otevřený počet členů - při jeho změně není třeba změnit zakladatelské právní jednání
+  - Kapitál je proměnlivý při přistupování nových členů, **členové jsou si rovni** a každý člen má **jeden hlas**
+  - Družstvo má nejméně 3 členy - pokud méně -> důvod pro zrušení a nařízení likvidace (Soud poskytuje lhůtu pro nápravu)
+  - **Obchodní firma** musí obsahovat slovo **družstvo**
 
+- **Typy družstev**
+  - Existuje několik typů družstev podle toho, za jakým účelem jsou založeny
+  - Typy:
+    - Družstvo za účelem podnikání - zemědělské a výrobní
+    - Bytová družstva - za účelem zajišťování bytových potřeb
+    - Sociální družstva - založené za jiným než podnikatelským účelem
+    - Spořitelní družstva
+
+- **Malé družstvo**
+  -  Jakýkoliv typ družstav pokud má méně než 50 členů - jsou pak jiné požadavky na jeho organizaci (pokud nestanoví ZPJ jinak)
+    - Nemusí jmenovat představensto - statutárním orgánem předseda družstva
+    - Rovněž nemusí zakládat kontrolní komisy - působnost kontrolní komise pak spadá pod členskou schůzi
+  - Pokud počet členů naroste nad 50 -> povinnost změnit stanovy a mít organizaci jako klasické družstvo
+
+- **Bytové družstvo**
+  - Založené za poskytováním bytových potřeb
+  - Může zpravovat bytové a nebytové prostory jak ve svém vlastnictví, tak i ve vlastnictví jiných osob
+  - Může i podnikat, ale musí to být jako vedlejší činnost a nesmí tím ohrozit svůj hlavní účel
+  - Může se transformovat na jiný typ družstva, pokud ani jeden z jejich členů není nájemce jím vlastněných prostor
+  - Obchodní firma: "bytové družstvo"
+  - Má stanovené omezující podmínky hospodaření se svým majetkem ve smyslu rozdělování zisku mezi své členy, zcizování či zatěžování majetku etc.
+  - Nejzásadnějším termínem **družstevní byt a nebytový prostor** - pronajímán jeho členům
+    - Tento družstevní nájem má jinou úpravu - nepoužije se ustanovení o výpovědi nájmu
+    - Pokud se pronajímá byt nečlenovi - klasický nájem
+  - Různé Práva a Povinnosti spojené s družstevním nájmem upravují stanovy
+  - Podmínky členství v bytovém družstvu upravují stanovy - mohou určit, že pro vstup je potřeba převzí nějaký podíl na družstvu
+    - Tatko běžně fungují BD
+  - Převod podílu - není možné vyloučit
+
+- **Sociální družstvo**
+  - Družstvo založené za **veřejně prospěšným účelem**
+    - Směřující na **podporu sociální soudržnosti** za účelem **pracovní a sociální integrace znevýhodněných osob** do společnosti
+    - Přednostě by se měli uspokojovat a měli by být využívány místní zdroje
+  - V podstatě má zákaz přeměny na jiný typ družstva
+  - Obchodní firma: "sociální družstvo"
+  - Členem je možné býti pouze: pokud člen pro družstvo vykonává práci, dobrovolničí, nebo mu jsou poskytovány činnosti v rámci sociální činnosti družstva
+  - Převod podílu se zakazuje
+
+- **Spořitelní družstva**
+  - Zakládány za účelem přijímání vkladů, poskytování úvěrů a jiných finančních služeb.
+  - Zřizovány podle vlastního zákona - zákon o spořitelních a úvěrních družstvech
+
+- **Založení a vznik**
+  - Založení - ZPJ - stanovy - uzavírají se přijetím na ustanovující schůzi
+    - Po obsahové stránce - základ dle NOZ a další náležitosti dle ZOK, například výši členského vkladu, podmínky vzniku členství v družstvu atd.
+  - Vznik - zápis do OR
+
+- **Organisační struktura**
+  - Obecně - obligatorní orgány - ČS, představenstvo, kontrolní komise
+    - Členy orgánů mohou být pouze členové družstva
+  - Při rozhodování a hlasování má každý 1 hlas
+  - Funkční období členů volených orgánů nesmí být delší než 5 let
+
+- **NO: členská schůze**
+  - Zákonem stanoveno rozhodování o nejdůležitějších otázkách družstva
+  - Stanovy mohou vyhradit ČS širší rozhodovací pravomoci
+  - V zákonem stanovených případech svolává představenstvo - posílá se pozvánka na ČS
+  - ČS rozhoduje většinou hlasů, usnášeníschopná je při účasti většiny členů
+  - Specifické rozhodování vyžaduje hlas 2/3 všech přítomných členů
+
+- **SO: představenstvo**
+  -	Kolektivní SO s nejméně 3 členy a působností v obchodním vedení – pouze člen družstva může být členem představenstva
+    -	Na rozdíl od kapitálových společností – není zakázán zásah do obchodního vedení, tj. lze udělovat pokyny
+    -	Nicméně ČS si nesmí přisvojit působnost ve věcech obchodního vedení (§ 657 část za středníkem ZOK)
+  -	Zákaz konkurence – podnikání v předmětu činnosti družstva, členství v OS jiné PO se stejným předmětem činnosti, současné členství v kontrolní komisi
+
+- **KO: Kontrolní komise (§ 715 an. ZOK)**
+  -	Kolektivní KO s nejméně 3 členy s působností spočívající v kontrolní činnosti a projednávání stížnosti členů
+    -	pouze člen družstva může být členem kontrolní komise
+  -	Uděluje písemná stanoviska k účetní závěrce/ návrh rozdělení zisku nebo úhradě ztráty/ návrh na uhrazovací povinnost
+  -	Právo požadovat jakékoliv informace a doklady o hospodaření
+  -	Výkon činnost je zcela nezávislý na ostatních orgánech
+
+- **Družstevní podíl**
+  - Představuje PaP z účastni na OK
+  - Každý člen může mít pouze jeden podíl
+  - Pokud nabude člen dalšího podílu - splývá s předchozím podílem
+  - **Vklad** - součet členského a všech dalších vkladů - může být i provedením práce či činností
+    - Ty tak vpodstatě tvoří základní kapitál družstva
+  - Vznik členství - nybytí členství - například převodem, přijetí za člena, vydržení
+  - Zánik členství - dohoda, vystoupení, vyloučení etc.
+  - **Práva a povinnosti spojené s družstevním podílem**
+    - Právo podílet se na řízení družstva
+    - Právo na podíl ze zisku (většinou max 33% hospodářského výsledku může družstvo rozdělit mezi své členy - sociální a bytové družstvo)
+    - Vypořádací podíl člena družstva
+    - Právo na podíl na likvidačním zůstatku
+  - **Povinnosti**
+    - Povinnost loajality
+    - Vkladová povinnost
+    - Uhrazovací povinnost - příspěvek na úhrady ztráty družstva
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
