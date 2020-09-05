@@ -11074,7 +11074,7 @@ VEDLEJŠÍ
   - **Poslání podniku**, je samotný důvod existence organizace a její existenční záměr - proč je na trhu, pro koho je na trhu, co nabízí
   - **Vize** pak představuje konkrétní a jasné představy o budoucím stavu, které mají na rozdíl od cílů emocionální zabarvení - popisuje čím by se organizace v delším horizontu měla stát a čeho by měla dosáhnout
   - Vize má za cíle: **vyjasnit obecný směr, motivovat lidi a koordinovat úsilí velkého množství lidí**
-    - Vizi a poslání je potřeba rozpracovat do jednotlivých **cílů**.
+    - Vizi a poslání je potřeba rozpracovat do jednotlivých - nejdříve strategických a pak specifických **cílů** -> cíl lze nakonec předtavit na určité **akční plány** - čili nejnižší strategii v podniku - jedná se pak například o to, jak má fungovat určité oddělení
       - Cíl považujeme za racionální konkretizaci poslání, která ukazuje směr, představuje ideál a popisuje žádoucí stav.
       - Cíle musí být vždy SMART
         - Specific
@@ -11153,8 +11153,8 @@ VEDLEJŠÍ
   - [x] Finanční uzávěrka - rozvaha
 - [x] Hospodářský výsledek podniku
   - [x] Rentabilita
-  - [ ] Výsledovka
-- [ ] Majetková a kapitálová struktura podniku
+  - [x] Výsledovka
+- [x] Majetková a kapitálová struktura podniku
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -11255,6 +11255,14 @@ VEDLEJŠÍ
   - ukazuje hrubý zisk nebo ztrátu
   - jeho výsledkem je výsledek za účetní období po zdanění
 
+- **Majetková a kapitálová struktura podniku**
+  - V podstatě zastřešující pojem pro řešení poměru mezi majetkem a zdrojem krytí
+  - Řeší tedy například do jaké míry má být kryt majetek cizím kapitálem
+  - Po teoretické stránky tak pojem zastřešuje činnosti:
+    - 1- optimalizace majetkové struktury
+    - 2- optimalizace finanční (kapitálové) strukury
+    - 3- relace doby vázanosti kapitálu v majetku
+  - Je potřeba tyto 3 body vybalancovat tak, aby nedocházelo k problémům - například majetek je krytý cizími zdroji a podnik má malý poměr likvidity k cizímu kapitálu
 
 ~~na peněžní bázi, akruální, OPEX, CAPEX~~
 
@@ -11272,13 +11280,13 @@ VEDLEJŠÍ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Podnikové řízení
-  - [ ] Strategické řízení
-  - [ ] Taktické řízení
-  - [ ] Operativní řízení
-  - [ ] Oddělení vlastnictví a řízení podniku
-  - [ ] Správa a řízení velké společnosti
-    - [ ] Korporátní strategie
+- [x] Podnikové řízení
+  - [x] Strategické řízení
+  - [x] Taktické řízení
+  - [x] Operativní řízení
+  - [x] Oddělení vlastnictví a řízení podniku
+  - [x] Správa a řízení velké společnosti
+    - [x] Korporátní strategie
     - [ ] Nadnárodní společnosti
 - [ ] Organizační výstavba podniku
   - [ ] Typická oddělení v podniku
@@ -11287,6 +11295,54 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Podnikové řézení**
+  - Podnik není živý, je organizovaným útvarem, který musí být řízen
+  - Ve větších podnicích toto řízení spadá do působnosti **managementu** - systematický proces provádění všech manažerských (řídících) funkcí
+  - Manažer má mnoho funkcí - plán, organizace, řízení HR, vedení lidí, kontrolování, rozhodování etc.
+  - Manažeři pak v dnešních velkých společnostech řídí celkové řízení podniku, to se dá v rámci managementu členit na dílčí části:
+
+- **Strategické řízení**
+  - dlouhodobé plánování a směřování organizace
+  - slouží k přenášení poslání a vizí vlastníků na manažery (corporate governance)
+  - manažerům pak slouží řízení a všech lidí ve společnosti - podle nějakého plánu
+  - Probíhá v takzvaných strategických cyklech:
+    - Formulace strategie
+    - Plánování strategie
+    - Realizace strategie
+    - Kontrola strategie
+  - **Pro strategické řízení je zásadní, aby všichni znali cíle a těmi se řídili.**
+  - Výstupem strategického řízení by mělo být množství procesů, které směřuje ke splnění cílů.
+
+- **Taktické řízení**
+  - Jedná se o střední úroveň řízení
+  - Dochází v něm ke konkretizaci strategických cílů v krátkodobějším horizontu
+  - Může se tak jednat například o manažera kontroly kvality, finančního manažera atd.
+
+- **Operativní řízení**
+  - úkolem je plánování, rozhodování a řízení v krátkodobém horizontu, zhruba na úrovni týdnů až jednoho roku.
+  - jedná se například o projektové manažery
+  - řídí se v něm operativní day-to-day záležitosti
+
+- **Oddělení vlastnictví a řízení**
+  - U velkých podniků není dosti možné, aby je řídily valstnící (může jich být mnoho, nebo naopak málo)
+  - Najímají se proto manažeři (zaměstnanci), kteří o řízení rozhodují
+    - Vrchilový management
+    - Top management
+    - Nižší management
+
+- **Správa a řízení velké společnosti**
+  - malá společnost je flexibilnější.
+  - Pokud máme velkou firmu, musíme tolerovat kulturní odlišnosti, společnost reaguje obtížnější na výkyvy hospodářského cyklu.
+  - Pokud máme více poboček i ve více státech, je to náročnější i vzhledem k zákonům daného státu.
+  - Může nám tam skončit podpora apod.
+  - I proto je potřeba oddělit vlastnictví od řízení
+
+- **Korporátní strategie**
+  - korporace má strategii být např. největším prodejcem obuvi, mít nejlepší židle.
+  - Je víc činností, na které se soustředí.
+  - Velké společnosti mají vždy jako strategii inovace.
+  - Podobou se jedná o strategické řízení
 
 - Mezinárodní obchod
   - V souvislost s nadnárodní společností
