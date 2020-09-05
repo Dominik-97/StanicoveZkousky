@@ -8443,7 +8443,7 @@ b) závazek podnikatele platit mu podíl na zisku
 - [x] Podíl
 - [x] Orgány
 - [x] Jednání
-- [ ] Koncern
+- [x] Koncern
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -8454,7 +8454,7 @@ b) závazek podnikatele platit mu podíl na zisku
 \|------------------------------\| <br>
 
 - **Vklad**
-  - Jedná se o peněžní vyjádření hodnoty předmětu vkladu do ZK obchodní korporace (u as vklad = jmenovitá/účetní hodnota akcie)
+  - Jedná se o peněžní vyjádření hodnoty předmětu vkladu do ZK obchodní korporace (již existující, nebo vznikající) (u as vklad = jmenovitá/účetní hodnota akcie)
   - Předmětem vkladu je věc, kterou se vkladatel (společník, nebo budoucí společník) zavazuje (vkladová povinnost) vložit do OK za účelem:
     - Získání, nebo zvýšení účasti v ní
     - Po dobu trvání OK nemá vkladatel právo na její vrácení
@@ -8474,6 +8474,11 @@ b) závazek podnikatele platit mu podíl na zisku
 
 - **Základní kapitál**
   - ZK korporace je souhrn všech jejích vkladů
+  - U s.r.o. min 1 koruna
+  - U a.s. 2mil, nebo 80tis euro, v případě veřejného upisování 20mil kč.
+  - U družstva - stanovena povinnost, ale nikoli minimální výše = jedná se tedy o součet všech vkladů, ty jsou pro všechny členy stejné (ale mohou disponovat více podíly), družstevní záložná má stanoven minimální kapitál
+  - U k.s. = komplementáři nemají vkladovou povinnost (ručí celým svým majetkem), komanditisté ručí pouze do výše nesplacené vkladové povinnosti - výši vkladu určí spol. smlou. - minimální výše vkladu však není stanovena
+  - v.o.s. nemá základní kapitál, všichni ručí celým svým majetkem
 
 - **Podíl**
   - Vkladem získává vkladatel účast na OK = podíl
@@ -8530,6 +8535,23 @@ b) závazek podnikatele platit mu podíl na zisku
   - Člen tedy musí jednat jako řádný hospodář - loajalita a potřebné znalosti
   - Člen SO může požádat NO o udělení pokdynu týkajícího se obchodního vedení (musí ale furt dodržovat péči řádného hospodáře)
     - Při rozhodování, zda bylo rozhodováno s péčí řádného hospodáře - se přihlédne k péči, kterou by v obdobné situaci vynaložila jiná rozumná osoba, byla-li by ve stejném postavení
+  - Pokud člen orgánu porušil povinnost péče řádného hospodáře:
+    - Vydá prospěch, který z toho získal, nebo ho nahradí v penězích
+  - K právním jednáním, která by omezelova odpovědnost člena orgánu se nepřihlíží
+    - Je však možné uzavřít smlouvu, která upravuje specifika vypořádání člena s OK když poruší svoje povinnosti - musí být odsouhlasena NO
+  - Funkce člena orgánu - řídí se ustanovením o příkazu, může ale být uzavřena **smlouva o výkonu funkce**
+
+- **Koncernové právo**
+  - Pokud je jedna nebo více osob (řízené osoby) podrobeno společnému řízení (řídícím osobám) = **koncern**
+  - Jedná se o účast na řízení řízené osoby osobou řídící za účelem dlouhodobého prosazování společných koncernových zájmů
+  - Závody v koncernu = koncernové závody
+  - Orgán řídící osoby může udělovat pokyny řízením osobám v rámci obchodního řízení - jsou-li v zájmu koncernu nebo jiné osoby v koncernu
+  - Člen orgánu řízené osoby, nebo prokurista je povinnen se řídit příkazy řídíci osoby, ale nezbavuje jej to povinnosti jednat s péčí řádného hospodáře
+  - **Dceřiná a mateřská společnost**
+  - Koncern není právnickou osobou
+  - **SO ovládané osoby** má povinnost do 3 měsíců od skončení účetního období vypracovat **zprávu o vztazích**
+  - **Společníkům ovládané osoby vznikají zvláštní práva**
+    - Například **ovládající osoba** má povinnost odkoupit jejich podíly, pokud **ovládanou osobu** svojí činností dostali do značně zhoršené situace (například do úpadku)
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
