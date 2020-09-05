@@ -87,15 +87,15 @@ Hotovo 5/30
 - [x] Otázka 3 - dist/Statnice.md
 - [x] Otázka 4 - dist/Statnice.md
 - [x] Otázka 5 - dist/Statnice.md
-- [ ] Otázka 6
-- [ ] Otázka 7
-- [ ] Otázka 8
-- [ ] Otázka 9
-- [ ] Otázka 10
-- [ ] Otázka 11
-- [ ] Otázka 12
-- [ ] Otázka 13
-- [ ] Otázka 14
+- [x] Otázka 6
+- [x] Otázka 7
+- [x] Otázka 8
+- [x] Otázka 9
+- [x] Otázka 10
+- [x] Otázka 11
+- [x] Otázka 12
+- [x] Otázka 13
+- [x] Otázka 14
 - [ ] Otázka 15
 - [ ] Otázka 16
 - [x] Otázka 17
