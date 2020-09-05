@@ -3431,7 +3431,7 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Přenechání věci k užití jinému
+- [x] Přenechání věci k užití jinému
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -3441,56 +3441,61 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-20.Přenechání věci k užití jinému.
-Výprosa
-• §2189 an. OZ - prenechá-li půjčitel výprosníkovi bezplatně věc k užívání, a nesjednají si
-        • dobu, po kterou se má věc užívat, ani
-        • účel, ke kterému se má věc užívat
-vzniká výprosa
-• výprosou se zásadně přenechává k užívání věc nezuživatelná, zuživatelná jen tehdy, nemá-li být spotřebována, ale použita jiným způsobem
+- **Přenechání věci k užití jinému.**
 
-Výpůjčka
- • §2193 an. OZ - smlouvou o výpůjčce půjčitel
-        • přenechává vypůjčiteli nezuživatelnou věc a
-        • zavazuje se mu umožnit její bezplatné dočasné užívání
-vypůjčitel není oprávněn věc přenechat jiné osobě bez svolení půjčitele
+- **Výprosa**
+- §2189 an. OZ - prenechá-li půjčitel **výprosníkovi** bezplatně věc k užívání, a nesjednají si
+        - dobu, po kterou se má věc užívat, ani
+        - účel, ke kterému se má věc užívat
+- vzniká výprosa
+- výprosou se zásadně přenechává k užívání věc nezuživatelná, zuživatelná jen tehdy, nemá-li být spotřebována, ale použita jiným způsobem
+- **půjčitel** může po výprosníkovi kdykoliv požadovat vrácení věci
 
- • půjčitel přenechá vypůjčiteli věc ve stavu způsobilou k užívání
-• půjčitel poučí vypůjčitele, jak věc užívat, nejde-li o pravidla obecně známá
+- **Výpůjčka**
+- §2193 an. OZ - smlouvou o výpůjčce půjčitel
+        - přenechává vypůjčiteli nezuživatelnou věc a
+        - zavazuje se mu umožnit její bezplatné dočasné užívání
+- **vypůjčitel** není oprávněn věc přenechat jiné osobě bez svolení půjčitele
 
-• způsobí-li
-      • vada věci, kterou půjčitel zatajil, nebo
-      • nedostatek poučení
-vypůjčiteli škodu, půjčitel ji vypůjčiteli nahradí
+- půjčitel přenechá vypůjčiteli věc ve stavu způsobilou k užívání
+- půjčitel poučí vypůjčitele, jak věc užívat, nejde-li o pravidla obecně známá
 
-• byla-li sjednána doba užívání, vrátí vypůjčitel věc ve sjednané době
-• byl-li sjednán jen účel (nikoli doba uživání), k němuž se má věc užívat, vypůjčitel
-      • začne věc užívat bez zbytečného odkladu a
-      • po splnění účeli ji bez zbytečného odkladu vrátí
+- způsobí-li
+      - vada věci, kterou půjčitel zatajil, nebo
+      - nedostatek poučení
+- vypůjčiteli škodu, půjčitel ji vypůjčiteli nahradí
 
-• půjčitel se nemůže domáhat předčasného vrácení věci; to neplatí, užije-li vypůjčitel věc v rozporu se smlouvou
-• potřebuje-li půjčitel věc nevyhnutelně dříve z důvodu, který nemohl při uzavření smlouvy předvídat, může se domáhat jejího předčasného vrácení, jen bylo-li sjednáno
-• obvyklé náklady spojené s užíváním věci nese vypůjčitel ze svého
-Nájem
-• §2201 an, OZ - nájemní smlouvou se
-             • pronajímatel zavazuje přenechat nájemci věc k dočasnému užívání a
-             • nájemce se zavazuje platit za to pronajímateli nájemné
-• pronajmout lze věc
-              • nemovitou i
-              • nezuživatelnou věc movitou
-• pronajmout lze i věc, která v budoucnu teprve vznikne, je-li ji možné dostatečně přesně určit při uzavření nájemní smlouvy
-• je-li pronajatá věc zapsána do veřejného seznamu, může
-          • vlastník věci nebo
-          • s jeho souhlasem nájemce
- navrhnout zápis nájeního práva do veřejného seznamu
- Doba trvání nájmu
-• nesjednají-li strany
-        • dobu trvání nebo
-        • den skončení nájmu, platí, že se jedná o nájem na dobu neurčitou
- • sjednají-li strany nájem na dobu určitou delší než padesát let, má se za to, že byl nájem sjednán na dobu neurčitou s tím, že v prvních padesáti letech lze nájem vypovědět jen
-        • ze sjednaných výpovědních důvodů a
-        • ve sjednané výpovědní době
-Pronajímatel
+- byla-li sjednána doba užívání, vrátí vypůjčitel věc ve sjednané době
+- byl-li sjednán jen účel (nikoli doba uživání), k němuž se má věc užívat, vypůjčitel
+      - začne věc užívat bez zbytečného odkladu a
+      - po splnění účelu ji bez zbytečného odkladu vrátí
+
+- půjčitel se nemůže domáhat předčasného vrácení věci; to neplatí, užije-li vypůjčitel věc v rozporu se smlouvou
+- potřebuje-li půjčitel věc nevyhnutelně dříve z důvodu, který nemohl při uzavření smlouvy předvídat, může se domáhat jejího předčasného vrácení, jen bylo-li sjednáno
+- obvyklé náklady spojené s užíváním věci nese vypůjčitel ze svého
+
+- **Nájem**
+- §2201 an, OZ - nájemní smlouvou se
+             - pronajímatel zavazuje přenechat nájemci věc k dočasnému užívání a
+             - nájemce se zavazuje platit za to pronajímateli nájemné
+- pronajmout lze věc
+              - nemovitou i
+              - nezuživatelnou věc movitou
+- pronajmout lze i věc, která v budoucnu teprve vznikne, je-li ji možné dostatečně přesně určit při uzavření nájemní smlouvy
+- je-li pronajatá věc zapsána do veřejného seznamu, může
+          - vlastník věci nebo
+          - s jeho souhlasem nájemce
+ - navrhnout zápis nájeního práva do veřejného seznamu
+
+- **Doba trvání nájmu**
+- nesjednají-li strany
+        - dobu trvání nebo
+        - den skončení nájmu, platí, že se jedná o nájem na dobu neurčitou
+- sjednají-li strany nájem na dobu určitou delší než padesát let, má se za to, že byl nájem sjednán na dobu neurčitou s tím, že v prvních padesáti letech lze nájem vypovědět jen
+        - ze sjednaných výpovědních důvodů a
+        - ve sjednané výpovědní době
+
+- **Pronajímatel**
 • nájemní smlouva pronajímatele zavazuje
            • přenechat věc nájemci tak, aby ji mohl užívat k ujednanému nebo obvyklému účelu,
            • udržovat věc v takovém stavu, aby mohla sloužit tomu užívání, pro které byla pronajata,
@@ -3522,25 +3527,30 @@ Pronajímatel
     • i přístup k ní nebo do ní
 za účelem provedení potřebné opravy nebo údržby věci
  • předchozí oznámení se nevyžaduje, je-li nezbytné zabránit škodě nebo hrozí-li nebezpečí z prodlení
-Podnájem
+
+- **Podnájem**
 • souhlasí-li pronajímatel, může nájemce zřídit třetí osobě k věci užívací právo; byla-li nájemní smlouva uzavřena v písemné formě, vyžaduje i souhlas pronajímatele písemnou formou
  • zřídí-li nájemce třetí osobě užívací právo k věci bez souhlasu pronajímatele, považuje se to za hrubé porušení nájemcových povinností způsobující pronajímateli vážnější újmu
-Nájemné
+
+- **Nájemné**
  • nájemné se platí
       • ve sjednané vyši, a
       • není-li sjednána, platí se ve výši obvyklé v době uzavření nájemní smlouvy
 • nájemné lze platit i jinak než v penězích
 • nájemné se platí měsíčně pozadu
-Změna vlastnictví
+
+- **Změna vlastnictví**
 • změní-li se vlastník věci, přejdou práva a povinnosti z nájmu na nového vlastníka
  • převedl-li pronajímatel vlastnické právo k věci, nejsou pro nového vlastníka závazné ujednání o pronajímatelových povinnostech, které zákon nestanoví
 • to neplatí, pokud nový vlastník o těchto ujednáních věděl
-Skončení nájmu
+
+- **Skončení nájmu**
  • nájem skončí též
        • zánikem pronajaté věci,
        • uplynutím doby nájmu,
        • výpovědí
-Výpověď nájmu
+
+- **Výpověď nájmu**
  • stane-li se věc nepoužitelnou z důvodu, které nejsou na straně nájemce, má nájemce právo nájem vypovědět bez výpovědní doby
  • užívá-li nájemce věc takovým způsobem, že se opotřebovává nad přiměřenou míru nebo že hrozí její zníčení,
           • vyzve ho pronajímatel, aby věc užíval řádně,
@@ -3562,7 +3572,8 @@ Výpověď nájmu
  • výpověď nemusí být odůvodněna; to neplatí, má-li strana právo vypovědět nájem bez výpovědní doby
 
 • §2232 OZ - porušuje-li strana zvlášť závažným způsobem své povinnosti, a tím působí značnou újmu druhé straně, má dotčená strana právo vypovědět nájem bez výpovědní doby
- Zvláštní ústanovení o nájmu bytu a nájmu domu
+
+- **Zvláštní ústanovení o nájmu bytu a nájmu domu**
  • zavazuje-li nájemní smlouva pronajímatele přenechat nájemci k zajištění bytových potřeb nájemce
    • byt nebo
    • dům, který je předmětem nájmu, nepřihlíží se k ujednáním zkracujícím nájemcova práva vyplývající ze zákona
@@ -3571,12 +3582,14 @@ Výpověď nájmu
 • nepříhlíží se k ujednání ukládájícímu nájemci povinnost
             • zaplatit pronajímateli smluvní pokutu,
             • která je vzhledem k okolnostem zjevně nepřiměřená
-Další nájmy s právní úpravou
+
+- **Další nájmy s právní úpravou**
  • nájem prostoru sloužícího podnikání
  • podnikatelský pronájem věcí movitých
 • nájem dopravního prostředku
  • ubytování (přechodný nájem)
-Pacht
+
+- **Pacht**
 • §2332 OZ - pachtovní smlouvou se
      • propachtovatel zavazuje přenechat pachtýři věc k dočasnému užívání a používání a
      • pachtýř se zavazuje platit propachtovateli pachtovné nebo poskytnout poměrnou část výnosu z věci
@@ -3584,12 +3597,14 @@ Pacht
     • vlastník věci nebo
     • s jeho souhlasem pachtýř navrhnout zápis pachtovního práva do veřejného seznamu
  • pachtýř pečuje o propachtovanou věc jako řádný hospodář
- Zemědělský pacht
+
+- **Zemědělský pacht**
  • je-li propachtován zemědělský nebo lesní pozemek, je sjendán zemědělský pacht
  • je-li zemědělský pacht sjednán na dobu delší než dva roky a smlouva není uzavřená v písemné formě, má se za to, že byl pacht sjednán na dobu neurčitou
  • pachtovné se platí ročně pozadu a je splatné k 1. říjnu
 • pacht sjednaný na dobu neurčitou lze vypovědět v dvanáctiměsíční výpovědní době
-Pacht závodu
+
+- **Pacht závodu**
 • §2349 OZ - je-li propachtován závod, pachtýř jej užívá i požívá způsobem a v rozsahu, v jakém je toho třeba k řádnému provozování závodu
 • předmět činnosti provozované v závodu může pachtýř změnit, jen bylo-li to výslovně sjednáno
  • pach závodu se považuje za převod činnosti zaměstnavatele
@@ -3602,7 +3617,8 @@ Pacht závodu
 • zhorší-li se pachtem dobytnost pohledávky, má věřitel propachtovatele, který s pachtem nesouhlasil, právo domáhat se, aby soud rozhodl, že pacht je vůči němu neúčinný
 • dnem zániku pachtu přechátí dluhy a pohledávky, které k závodu náleží na propachtovatele; z dluhů však nabývá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat
 • pachtýř oznámí svým věřitelům a dlužníkům, jejichž pohledávky a dluhy pachtýř pachtem závodu nabyl, bez zbytečného odkladu, že pacht zanikl
- Licence
+
+- **Licence**
  • §2358 OZ - licenční smlouvou
          • poskytuje poskytovatel nabyvateli oprávnění výkonu práva duševního vlastnictví (licenci) ve sjednaném omezeném nebo neomezeném rozsahu a
          • nabyvatel se zavazuje, není-li sjednáno jinak, poskytnout poskytovateli odměnu
@@ -3614,17 +3630,20 @@ Pacht závodu
 Výhradní nebo nevýhradní licence
   • je-li sjednána výhradní licence, poskytovatel nemá právo poskytnout tutéž licenci třetí osobě po dobu, co výhradní licence trvá
 • poskytne-li poskytovatel za trvání výhradní licence nabyvatele, bez jeho souhlasu uděleného v písemné formě, licenci třetí osobě, licence nevznikne
-Odměna
+
+- **Odměna**
  • není-li sjednána
       • výše odměny nebo způsob jejího určení ani
       • bezplatné poskytnutí licence,
 je smlouva přesto platná, pokud z jednání stran o uzavření smlouvy vyplývá jejich vůle uzavřít úplatnou smlouvu i bez určení výše odměny
-Výpověď
+
+- **Výpověď**
  • je-li smlouva uzavřena na dobu neurčitou, nabývá výpověď účinnosti uplynutím jednoho roku od konce kalendářního měsíce, v němž výpověď došla druhé straně
 Licence k předmětům chráněným autorským zákonem
  • pro licenci k předmětům chráněným autorským zákonem obsahuje OZ zvláštní úpravu
  • to platí i pro nakladatelskou licenční smlouvu
-Zápůjčka
+
+- **Zápůjčka**
  • §2390 OZ - přenechá-li zapůjčitel vydlužiteli zastupitelnou věc tak, aby
          • ji užil podle libosti a
          • po čase vrátil věc stejného druhu
@@ -3641,7 +3660,8 @@ Zápůjčka
 • bylo-li sjednáno vrácení zápůjčky ve splátkách může zapůjčitel od smlouvy odstoupit a požadovat splnění dluhu i s úroky při prodlení vydlužitele s vrácením
             • více než dvou splátek nebo
             • jedné splátky po dobu delší než tři měsíce
-Úvěr
+
+- **Úvěr**
  • §2395 OZ - smlouvou o úvěru se
            • úvěrující zavazuje, že úvěrovanému poskytne na jeho požádání a v jeho prospěch peněžní prostředky do určité částky, a
            • úvěrovaný se zavazuje poskytnuté peněžn prostředky vrátit a zaplatit úroky
@@ -5631,6 +5651,10 @@ o	rozhodnutí o odvolání:
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Výkon rozhodnutí
+- [ ] Exekuce
+- [ ] Insolvenční řízení
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -5639,37 +5663,68 @@ o	rozhodnutí o odvolání:
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-VÝKON ROZHODNUTÍ
- Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit. Toto vynucení se nazývá výkon rozhodnutí. Ve znění rozsudku je uvedená lhůta, ve které je nutné povinnost dobrovolně splnit, např. 10 dnů po nabytí právní moci rozhodnutí. Uplyne-li marně tato lhůta, nastupuje výkon rozhodnutí.
+- **VÝKON ROZHODNUTÍ**
+ - Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit.
+ - Toto vynucení se nazývá výkon rozhodnutí.
+ - Ve znění rozsudku je uvedená lhůta, ve které je nutné povinnost dobrovolně splnit, např. 10 dnů po nabytí právní moci rozhodnutí.
+  - Uplyne-li marně tato lhůta, nastupuje výkon rozhodnutí (vykonávací řízení).
 
-Účastníci výkonu rozhodnutí
-- oprávněný – ten, v jehož prospěch se má podle rozsudku něco plnit nebo v jeho prospěch něco jednat
-- povinný – ten, který je podle rozsudku povinen něco vykonat, strpět, zaplatit, zdržet se něčeho
-Exekuce může být nařízena jen na základě návrhu, který podává oprávněný u soudu. Soud nemůže jednat z vlastního podnětu. Druhy výkonu rozhodnutí stanovuje zákon.
+- **Exekuční titul**
+  - Aby mohlo být zahájena exekuce/výkon rozhodnutí, musí mít oprávněný **exekuční titul**
+  - Podstatná je doložka vykonavatelnosti, e.t. tak musí být vždy vykonavatelný, tzn. musí uplynout lhůta pro podání odvolání a musí marně uplynout stanovená lhůta, kterou měl povinný ke splnění své povinnosti
+  - Tím je například:
+    - Rozhodnutí soudu
+    - Schválený smír,
+    - Rozhodčí nález
+    - Notářský zápis se svolením k vykonavatelnost,
+    - Exekutorský zápis se svolením k vykonavatelnosti
+    - El. plat. rozkaz pokud není podán odpor
+    - etc.
 
-DRUHY EXEKUCE
-1. Vymáhání peněžitých částek
-   a) Srážky ze mzdy nebo z jiných příjmů Na základě rozhodnutí soudu plátce mzdy srazí z čisté mzdy povinného vymáhanou částku a zašle ji oprávněnému. Předpisem je stanoveno, že povinnému musí být ponechána základní částka ŽM a dále postup, jak a kolik se sráží ze zbytku mzdy, v jakém pořadí se uspokojují jednotliví věřitelé apod.
-   b) Přikázání pohledávky Spočívá v odepsání příslušné částky z účtu povinného u tuzemského peněžního ústavu a jejím připsáním na účet oprávněného. Používá se tam, kde má povinný postižitelný účet, tj. jsou-li na něm dostatečné prostředky a je třeba vydobýt jednorázově větší částku.
-  c) Prodej movitých věcí Soudní vykonavatel sepíše movité věci povinného, soud zakáže povinnému s nimi disponovat. Provede se odhad ceny věci a ty se pak prodají v dražbě. Výtěžek se rozdělí mezi věřitele. Zákon stanoví, které věci jsou vyloučeny z exekuce a prodat se nesmějí.
+- **Účastníci výkonu rozhodnutí**
+  - **oprávněný** – ten, v jehož prospěch se má podle rozsudku něco plnit nebo v jeho prospěch něco jednat
+  - **povinný** – ten, který je podle rozsudku povinen něco vykonat, strpět, zaplatit, zdržet se něčeho
+- Exekuce může být nařízena jen na základě návrhu, který podává oprávněný u soudu.
+  - Soud nemůže jednat z vlastního podnětu. Druhy výkonu rozhodnutí stanovuje zákon.
 
-Povinný si musí ponechat:
- - věci nezbytně potřebné k běžnému životu
-- věci k výkonu zaměstnání
-- věci k podnikání
-- zdravotní potřeby
-Exekuce může také postihnout jen určitou hodnotnější věc (auto). Tento druh se užije jen v případě, že povinný nemá postižitelnou mzdu nebo jiný příjem a nemá ani prostředky uložené na účtu v bance.
-   d) Prodej nemovitostí Využívá se k vymáhání značně vysokých částek. Soud pak zakáže povinnému, aby tuto nemovitost předvedl někomu jinému. Provede se odhad a soud nařídí dražbu. Lze postihnout i spoluvlastnický podíl na nemovitosti.
+- **Dvojkolejnost**
+  - Výkon rozhodnutí je v Čr dvojkolejný:
+    - Mohou ho provádět buď soudní vykonavatelé, nebo
+    - pověřený soudní exekutor.
+  - U soudního výkonu rozhodnutí se podává návrh na zahájení výkonu rozhodnutí místě příslušnému okresnímu soudu dlužníka
+    - Problém u tohoto typu řízení je, že oprávněný musí označit majetek povinného a je omezen pouze na jeden druh výkonu rozohodnutí
+  - Zatímco u návrhu na zahájení exekuce se podává návrh přímo exekutorovi - ten ho následně předloží soudu a soud zahájí exekuční řízení vydáním rozhodnutí o zahájení exekučního řízení
+    - Výhodou tohoto typu je pak to, že oprávněný nemusí označovat majetek povinného (exekutor ho sám dohledává) a rovněž exekutor není omezen jen na jeden druh exekuce
 
-2. Vymáhání nepeněžitého plnění
-  a) Vyklizení
- Provede se přestěhováním povinného a všech, kdo s ním bydlí do náhradního bytu nebo ubytování. Pokud rozsudek ukládá povinnost vyklidit byt bez náhradního bytu nebo ubytování, tak učiní soud opatření, aby z vyklizeného objektu byli vykázáni povinný a všichni kdo s ním bydlí. Jejich věci se odstraní a předají povinnému a nebo nezletilému členu jeho rodiny. Pokud je odmítne převzít, uloží se věci do úschovy na Obecním úřadě.
-b) Odebrání věci
-Soud se postará o odebrání věci se vším, co k ní patří, povinnému a odevzdá ji oprávněnému, včetně listin, které k věci patří (např. technický průkaz k vozidlu). Soudní vykonavatel může při exekuci provést osobní i domovní prohlídku povinného.  
-c) Rozdělení společných věcí
- Movitá nebo nemovitá věc se prodá a výtěžek se rozdělí mezi spoluvlastníky. Pokud má být věc rozdělena jinak než prodejem, rozhodne o způsobu rozdělení věci soudce.
-d) Provedení prací a výkonu
- Soud povolí oprávněnému, aby si práce, které měl pro něho vykonat povinný, udělal buď sám, nebo si je dal provést někým jiným, např. firmou, ale na náklady povinného. Pokud jde ale o nezastupitelné jednání, kdy je např. povinný zdržet se obtěžování souseda (pronikání zápachu z kouře), lze splnění této povinnosti vynutit jen ukládáním pokut až do celkové výše 100 000 Kč.
+- **DRUHY EXEKUCE**
+  - **1. Vymáhání peněžitých částek**
+    - a) **Srážky ze mzdy** nebo z jiných příjmů Na základě rozhodnutí soudu plátce mzdy srazí z čisté mzdy povinného vymáhanou částku a zašle ji oprávněnému. Předpisem je stanoveno, že povinnému musí být ponechána základní částka ŽM a dále postup, jak a kolik se sráží ze zbytku mzdy, v jakém pořadí se uspokojují jednotliví věřitelé apod.
+    - b) **Přikázání pohledávky** Spočívá v odepsání příslušné částky z účtu povinného u tuzemského peněžního ústavu a jejím připsáním na účet oprávněného. Používá se tam, kde má povinný postižitelný účet, tj. jsou-li na něm dostatečné prostředky a je třeba vydobýt jednorázově větší částku.
+    - c) **Prodej movitých věcí** Soudní vykonavatel sepíše movité věci povinného, soud zakáže povinnému s nimi disponovat. Provede se odhad ceny věci a ty se pak prodají v dražbě. Výtěžek se rozdělí mezi věřitele. Zákon stanoví, které věci jsou vyloučeny z exekuce a prodat se nesmějí.
+      - Soudní exekutor nemůže zabavit určité zákonem stanovené věci:
+        - věci nezbytně potřebné k běžnému životu
+        - věci k výkonu zaměstnání
+        - věci k podnikání
+        - zdravotní potřeby
+        - hotovost ve výši dvojnásobku ŽM
+        - věci velké citové hodnoty etc.
+      - Exekuce může také postihnout jen určitou hodnotnější věc (auto).
+      - Tento druh se užije jen v případě, že povinný nemá postižitelnou mzdu nebo jiný příjem a nemá ani prostředky uložené na účtu v bance.
+    - d) **Prodej nemovitostí** Využívá se k vymáhání značně vysokých částek. Soud pak zakáže povinnému, aby tuto nemovitost předvedl někomu jinému. Provede se odhad a soud nařídí dražbu. Lze postihnout i spoluvlastnický podíl na nemovitosti.
+
+- **2. Vymáhání nepeněžitého plnění**
+  - **a) Vyklizení**
+    - Provede se přestěhováním povinného a všech, kdo s ním bydlí do náhradního bytu nebo ubytování.
+    - Pokud rozsudek ukládá povinnost vyklidit byt bez náhradního bytu nebo ubytování, tak učiní soud opatření, aby z vyklizeného objektu byli vykázáni povinný a všichni kdo s ním bydlí.
+    - Jejich věci se odstraní a předají povinnému a nebo zletilému členu jeho rodiny. Pokud je odmítne převzít, uloží se věci do úschovy na Obecním úřadě.
+  - **b) Odebrání věci**
+    - Soud se postará o odebrání věci se vším, co k ní patří, povinnému a odevzdá ji oprávněnému, včetně listin, které k věci patří (např. technický průkaz k vozidlu). Soudní vykonavatel může při exekuci provést osobní i domovní prohlídku povinného.  
+  - **c) Rozdělení společných věcí**
+    - Movitá nebo nemovitá věc se prodá a výtěžek se rozdělí mezi spoluvlastníky.
+    - Pokud má být věc rozdělena jinak než prodejem, rozhodne o způsobu rozdělení věci soudce.
+  - **d) Provedení prací a výkonu**
+    - Soud povolí oprávněnému, aby si práce, které měl pro něho vykonat povinný, udělal buď sám, nebo si je dal provést někým jiným, např. firmou, ale na náklady povinného.
+    - Pokud jde ale o nezastupitelné jednání, kdy je např. povinný zdržet se obtěžování souseda (pronikání zápachu z kouře), lze splnění této povinnosti vynutit jen ukládáním pokut až do celkové výše 100 000 Kč.
 
 Zvlášť upraven je výkon rozhodnutí o výchově nezletilých dětí. Pokud se někdo odmítá podrobit soudnímu rozhodnutí o výchově nezletilých dětí, např. odmítne dát dítě do ústavu, předat je druhému z rodičů, předat do výchovy, umožnit styk s dítětem ve stanovených termínech, soud jej nejdříve písemně vyzve, aby rozhodnutí respektoval a povinnosti v něm uložené splnil. Pokud výzva zůstane bezvýsledná, ukládá soud pokuty, a to i opakovaně. Soud může nařídit odnětí dítěte tomu, u něhož být podle rozsudku nemá a předat je tomu, komu bylo svěřeno do výchovy. Pokud není umožňován styk s dítětem, dává novela zákona o rodině nově rozhodnout o prostředí dítěte.
 
