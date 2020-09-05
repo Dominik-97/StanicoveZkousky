@@ -12390,12 +12390,12 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|---------\| <br>
 
 - [x] Nákup
-- [ ] Logistika
-- [ ] Zásobování
-- [ ] Hlavní úkoly logistického oddělení
-- [ ] Logistické metody
-- [ ] Řízení zásoby
-- [ ] Marketingový nákupní mix
+- [x] Logistika
+- [x] Zásobování
+- [x] Hlavní úkoly logistického oddělení
+- [x] Logistické metody
+- [x] Řízení zásoby
+- [x] Marketingový nákupní mix
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -12413,13 +12413,46 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
   - Plán nákupu začíná **včasným a reálným vyjasněním potřeb (nákupní marketing) a pokračuje nákupním výzkumem a volbou dodavatele jako východiskem pro všasné zahájení nákupní komunikace (to vše také marketing).**
   - **Proč marketingové pojetí?** Těžiště aktivitu nákupů je nutné přesunout z **operativních plánů** do **strategických plánů**, jinak bude podnik bez vlastní nákupní strategie zaostávat za konkurencí a dostane se pouze do vleku vnějších tržních partnerů.
 - **Logistika**
-  - Doplnit (je v knize)
+  - Fyzické toky zboží od dodavatele k odběrateli, tak toky informační. Souhrnně se těmito toky zabývá vědní obor zvaný logistika. Řeší jak toky mezi firmami, tak toky vnitrofiremní s cílem tyto toky racionalizovat, aby byly co nejefektivnější a firmu zatížily co nejmenšími náklady. Náklady spojené s logistikou jsou pro většinu firem velmi významné, což dokazují mimo jiné četné odborné publikace této tematice věnované.
+  - **Logistika a doprava** se zabývá metodami řízení a analytickými technikami v oblasti dopravy, logistiky a zásob a úzce souvisí s plánováním.  Jde o řízení dopravních a skladovacích činností organizace, které zahrnuje řízení materiálových, informačních a finančních toků tak, aby byly uspokojeny požadavky zákazníka.
+  - Cílem logistiky je zajistit, aby správný zákazník obdržel ve správnou dobu a na správném místě správné zboží nebo službu ve správné kvalitě a správném množství. To vše při vynaložení přiměřených nákladů.
 - **Zásobování**
-  - Doplnit (je v knize)
+  - Průběh zásobování
+    - 1. Vybrali jsme dodavatele, dohodli podmínky a uzavřeli smlouvu.
+      - smlouvu uzavřeme ústně
+      - smlouvu uzavřeme písemně- formou objednávky, formou písemné smlouvy, kontraktu apod.
+    - 2. Dodavatel zasílá zboží, popř. si pro zboží dojede odběratel. Odběratel je při přejímání povinen zkontrolovat, zda přebírané zboží odpovídá smlouvě.
+      - Fyzická přejímka: kvantitativní, Kvalitativní
+    - 3. Kromě fyzického toku, nás bude zajímat i informační tok spojený se zásobováním.
+- **Evidence a doklady**
+  - Dodací list- vystavuje ho dodavatel
+    - fyzicky musí jít s dodávkou, aby odběratel mohl provést přejímku zboží
+  - Faktura- daňový doklad, je dokladem sloužícím pro
+    - zanesení do účetnictví
+    - pro účely zúčtování DPH
+    - vznik a uhrazení závazku
+  - Příjemka- doklad vystavený ve skladu odběratele a spolu se skladní kartou a výdejkou se
+    - vztahuje ke skladovému hospodářství
+    - přejímka-je proces kontroly a přijímání zboží na sklad
+    - příjemka-je doklad evidující přijaté zboží
+  - Skladní karta- je doklad vystavený ve skladu, který slouží pro evidenci pohybu zásoby určitého
+    - druhu v čase. Slouží k trvale aktuálnímu přehledu o stavu zásoby určitého druhu na skladě.
+  - Výdejka - slouží k výdeji ze skladu do výroby.
+  - Kniha došlých faktur- evidence sloužící v účtárně k přehledu o vzniklých závazcích firmy a o datu a způsobu uhrazování těchto faktur
+    - Skladování-činnost, při nichž se hmotné statky soustřeďují na určitém místě a ve stanoveném množství a připravují se pro další činnosti
+  - Nákupní sklady- v nich podnik skladuje materiálové zásoby
+  - Mezisklady- zřizují se ve výrobních podnicích pro skladování nedokončené výroby a polotovarů během výr. procesu
+  - Odbytové sklady- zde se skladují hotové výrobky
 - **Hlavní úkoly logistického oddělení**
-  - Doplnit (je v knize)
+  - Zajistit logistický řetězec, tedy dozásobovat vždy tam kde je to potřeba a vždy ve správný čas
+  - Aby byl výrobek k dispozici ve správný čas, na správném místě, v požadovaném množství i kvalitě a s přiměřenými náklady, řešení spočívá v prozkoumání logistického řetězce.
+    - Při odhalování problémů a optimalizaci činností je však třeba myslet a postupovat logisticky.
 - **Logistické metody**
-  - Doplnit (neni v knize)
+  - Různé - metoda normování, ABC
+  - FIFO,
+  - FEFO - first expired, first out = řízeno podle expiračního data
+  - HIFO - nejdražší dovnitř, první ven
+  - LIFO
   - Logistické řetězce
 - **Řízení zásob**
   - Doplnit (je v knize)
@@ -12439,6 +12472,10 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - **Výrobkový mix a mix služeb**
     - **Cenový a kontrakční mix**
     - **Logistický a dodávkový mix**
+  - **Řízení zásob:**
+    - Řízení zásob je tedy činnost, jejímž cílem je udržovat zásoby na úrovni potřebné k vyrovnávání časového a množstevního nesouladu mezi procesem výroby u dodavatele a procesem spotřeby u odběratele.
+    - Dlouhodobé - strategické
+    - Krátkodobé - operativní
 
 ----
 :::
