@@ -8438,6 +8438,13 @@ b) závazek podnikatele platit mu podíl na zisku
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Základní kapitál
+- [x] Vklad
+- [x] Podíl
+- [ ] Orgány
+- [ ] Jednání
+- [ ] Koncern
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -8445,6 +8452,71 @@ b) závazek podnikatele platit mu podíl na zisku
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Vklad**
+  - Jedná se o peněžní vyjádření hodnoty předmětu vkladu do ZK obchodní korporace (u as vklad = jmenovitá/účetní hodnota akcie)
+  - Předmětem vkladu je věc, kterou se vkladatel (společník, nebo budoucí společník) zavazuje (vkladová povinnost) vložit do OK za účelem:
+    - Získání, nebo zvýšení účasti v ní
+    - Po dobu trvání OK nemá vkladatel právo na její vrácení
+  - Buď peněžitý, nebo nepeněžitý (nelze však vložit práce, nebo služby), je potřeba ho ocenit
+  - Vkladová povinnost - splnění ve lhůtě a způsobem určeným ZOK, nebo podle společenské smlouvy
+  - Před vznikem OK - stanoven **správce vkladu** (kdokoliv u zakladatel) - ten přijímá a spravuje předměty vnesených vkladů
+    - Správce přijímá nepeněžité vklady - standardně jejím předáním + prohlášením/smlouvou (výše jejich ocenění musí být uvedena ve společenské smlouvě)
+    - a peněžité vklady - ty se splácí na zvláštní účet zřízený u banky (s prostředky na něm není možné krom zákonných výjimek manipulovat - například úhrady zřizovacích výdajů)
+    - Důležitým úkolem správce vkladů před vznikem OK - **vydání potrvzení o splnění vkladové povinnosti a v jaké výši je splněna**
+      - Součástní návrhu na zápis do OR
+  - **Nabytí vlastnického práva ke vkladu OK**
+    - U věcí nezapisovaných do seznamu nabývá OK vlastnického práva k předmětu vkladu svým vznikem
+    - U věci zapisovaných do OR - zápisem této skutečnosti do seznamu
+    - Po vzniku OK - správce jí vydá předměty vkladů
+      - Nevznikne-li - správce vklady vrátí vkladatelům
+  - Ustanovení části o vkladech se s výjimkou ustanovení týkající se vzniku OK použije i na zvyšování ZK
+
+- **Základní kapitál**
+  - ZK korporace je souhrn všech jejích vkladů
+
+- **Podíl**
+  - Vkladem získává vkladatel účast na OK = podíl
+  - Podíl tedy představuje práva a povinnosti z účasti na OK
+  - Podíl standardně nabývá FO (pokud je ve spoluvlastnictí, vykonává P. a P. správce společné věci - jeden ze spoluvlastníků), ale může jí nabýt i PO, pokud tak stanoví zákon
+  - **Práva plynoucí z podílu na OK**
+    - **Podíl na zisku**
+      - Stanovuje se podle účetní závěrky schválené NO
+        - Rozděluje se pouze mezi společníky, ledaže spol. smlo. stanovila něco jiného
+      - O jeho vyplacení rozhoduje SO
+        - V určitých, ve kterých to zákon vylučuje (například úpadková situace) - nesmí PO vyplatit podíl na zisku, jinak nejedná s péčí řádného hospodáře (náležitá loajalita a znalost)
+        - Pokud však byla vyplacena nevrací se, i kdyby neměla být vyplacena - ochrana dobré víry, pokud není dobrá víra - vrací se
+      - **Vypořádání** - v případě že podíl nezcizil, ale zanikl jinak (například se tak společníci domluvili) = **právo na vypořadávací podíl**
+        - Podíl se zjistí účetní závěrkou z vlastního kapitálu, pokud se reálná hodnota OK podstatně neliší od účetní hodnoty -> pak se vypočte z reálné hodnoty
+    - **Podíl na likvidačním zůstatku**
+      - Při zrušení OK s likvidací - právo na podíl na likvidačním zůstatku
+      - Primárně se rozdělí podle splacené výše vkladové povinnosti
+      - Pokud nebyla vkladová povinnost - podle podílu na OK
+      - Zbytek se vyplatí rovným dílem
+    - **Omezení výplaty zisku, nebo jiných vlastních zdrojů**
+      - Podíl na zisku se nesmí vyplatit pokud by si tím přivodila úpadek
+      - To samé platí o jiných převodech - půjčka etc.
+    - **Omezení přechodu podílu**
+      - Pokud se nejedná o a.s., nebo družstvo - může OK spol. smlou. přechod podílu na dědice nebo právního nástupce omezit.
+      - Pokud se při dědictví dědicové nedohodnout na způsobu výkonu práv spojených s OK -> soud může na návrh jmenovat opatrovníka
+      - Pokud je jměnován správce pozůstalosti -> vykonává správu v době pozůstalostního řízení on
+    - **Rozdělení podílu**
+      - Nelze rozdělit podíl ve V.O.S. a podíl komplementáře
+      - Ostatní podíly lze rozdělit v souvislosti s jejich převodem nebo přechodem - tedy například prodej části podílu, ledaže spol. smlo. určí jinak
+      - K rozdělení podílu je nutný souhlas NO
+- **Orgány OK**
+  - **NO**:
+    - V v.o.s. a k.s. = všichni společníci
+    - V kapitálové společnosti (s.r.o. a a.s.) = valná hromada
+    - V družstvu = členská schůze
+  - **KO**:
+    - dozorčí rada/kontrolní komise/jiný obdobný orgán
+  - **Pokud je výše zmíněný orgán kolektivní (nikoli individuální)** = povinnost určit předsedu, který rozhoduje při rovnosti hlasů, ledaže spol. smlou. upraví tuto situaci jinak
+    - Toto však neplatí pro osobní společnosti
+  - **SO**:
+    - V v.o.s. a k.s. = každý společník
+    - U s.r.o. = každý její jednatel, ledaže spol. smlou. určí, že více jednatelů tvoří kolektiví orgán
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
