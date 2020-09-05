@@ -5663,6 +5663,8 @@ o	rozhodnutí o odvolání:
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+Za **incidenční spor** považuje právní teorie soudní spor, který je potřeba rozhodnout pro potřebu jiného řízení, které samo pro řešení sporů není způsobilé.
+
 - **VÝKON ROZHODNUTÍ**
  - Nastupuje tehdy, když ten, komu je v rozsudku stanovená povinnost, ji nehodlá dobrovolně splnit a je třeba její splnění vynutit (zajišťuje se právo).
  - Toto vynucení se nazývá výkon rozhodnutí.
@@ -5794,43 +5796,96 @@ o	rozhodnutí o odvolání:
 - **Rozhodnutí o úpadku**
   - soud rozhodne USNESENÍM meritorně  -o úpadku/ o zamítnutí (dlužník není v úpadku);
   - nemeritorně o odmítnutí návrhu (vady) nebo zastavení řízení (zpětvzetí IN)
--ochrana dlužníka proti šikanózním návrhům (zjevně neodůvodněné návrhy – zahájení IŘ způsobí dlužníkovi problémy, které lze zneužít v rámci hospodářské soutěže) – sankce odpovědnosti za škodu  – uplatní dlužník proti navrhovateli
-Způsoby řešení úpadku
-- „2. fáze“ IŘ: po zjištění, zda tu úpadek – plat. neschopnost/ předlužení je či není)
-- cílem je: uspořádání majet. vztahů k osobám, které jsou dotčeny dlužníkovým úpadkem a jejich poměrné uspokojení úpadcových věřitelů
-- 2 způsoby řešení: LIKVIDAČNÍ (úpadce vyřazen z ekonom. aktivit; neznamená ztrátu právní subjektivity úpadce, ale u PO zásadně vede k tomu, že následně zaniknou jako právní subjekty-výmazem z OR, a) KONKURZ + b) ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU) a SANAČNÍ (umožněny další sociální a ekn. aktivity – může vést k překonání krize; časové rozložení či jiné usnadnění dlužníkových plateb-věřitelům se často dostane víc než při řešení likvidačním, a) REORGANIZACE (pro velké podnikatele, dluhodobé splácení a b) ODDLUŽENÍ (pro nepodnikatele – splátkový kalendář anebo prodej majetkové podstaty)
-IZ – upustil od vyrovnání a nuceného vyrovnání – byly sanačními řešeními
--KONKURZ: obecný způsob (kterýkoli subjekt); nastupuje v případě neúspěchu oddlužení a reorganizace anebo rovnou; cílem je poměrné uspokojení zjištěných pohledávek z výnosu zpeněžení majetkové podstaty; IŘ přechází v konkurzní prohlášením konkurzu (usnesením ins. soudu); pokud úpadek nelze řešit jinak, je toto prohlášení vydáno zároveň s rozhodnutím o úpadku
--účinky: nastávají okamžikem zveřejnění v IR; 1)dlužník ztrácí právo disponovat majetkem v majetkové podstatě (to přechází na insol. správce), 2) věřitelé ztrácí možnost individuálního postupu, 3) všechna řízení týkající se majetkové podstaty se přerušují (vyjma trestního, dědického, vypořádání SJM aj.), zásah do hmotněprávních vztahů 4) ke dni prohlášení konkursu jsou předčasně splatné dlužníkovi pohledávky a závazky – konkursu se tak mohou účastnit i věřitelé dosud nesplatných pohledávek a do majetkové podstaty bude zahrnut veškerý majetek, 5) zásah do hmotněprávních vztahů – zanikají některé jednostranné PÚ (plné moci, prokura, úkony směřující k uzavření smlouvy):  prohlášením konkursu zaniká SJM, důvodem pro podání výpovědi z nájemní smlouvy (ať dlužník nájemcem či pronajímatelem)
-X naopak nemá vliv na PP poměry( úpadcových Zců), běh promlčecí a prekluzivních lhůt, nezaniká provoz dlužníkova závodu – k ukončení provozu je třeba až následného rozhodnutí soudu
--průběh: konkurzní správce sestaví seznam přihlášených pohledávek, sepíše majetkovou podstatu, zpracuje zprávu o hosp. situaci dlužníka; zpeněžení majetkové podstaty (1) veř. dražba, 2) prodej mov. a nemov. věcí dle osř, 3) prodej mimo dražbu); z výtěžku se uspokojí pohledávky za podstatou + pohledávky jim postavené na roveň; správce vypracuje konečnou zprávu – ta se projedná a podle toho se provádí rozvrh; konkurz končí usnesením o jeho zrušení-účinky nastávají až PM
-pohledávky v konkurzu neuspokojené nezanikají, věřitelé je mohou opět samostatně vymáhat, seznam pohledávek v protokolu o přezkumném řízení je na 10 let exekučním titulem
--ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU: nepatrný konkurz  (FO nepodnikající a podnikatelé s obratem do 2 mil. a 50 ZCů; některé jednodušší postupy) a úpadek finančních institucí (zvl. úprava pro ochranu klientů- řada finančních institucí miliony klientů – úpadek = závažné makroekonomické důsledky), ztratí-li finanční instituce licenci, lze řešit jejich úpadek likvidačně – řada specifik ve formě zvláštností a odchylek od standardního průběhu konkursu – Hlava IV. IZ
--REORGANIZACE: týká se dlužníkova závodu (popř. i jeho dalšího majetku); jen na návrh dlužníka a přihlášeného věřitele;  není-li povolena (ve lhůtě 3 měsíců) následuje konkurz; pouze pro podnikající FO/ PO – pro střední a větší podnikatele (obrat za rok nad 50 mil a nad 50 Zců); provoz závodu zachován, ale podroben urč. opatřením; 2 podoby: dlouhodobá/ krátkodobá (fúze, vydání CP); věřitelé jsou rozděleni do skupin a hlasují o reorganizačním plánu (projednává se na schůzi věřitelů, ale musí být schválen soudem); reorganizační plán – zákl. dokument pro provádění- obsah: způsob reorganizace, rozdělení věřitelů do skupin, rozsah uspokojení věřitelů, sanační opatření..projednává se na schůzi věřitelů , přijat, pokud pro něj hlasovaly všechny skupiny, musí být schválen rozhodnutím soudu
--zanikají práva všech věřitelů vůči dlužníku jakož i práva 3 osob k majetku v majetkové podstatě – platí pouze režim reorganizačního plánu;
--reorganizace končí splněním reorganizačního plánu – soud o tom vydá zvl. rozhodnutí; soud může rozhodnout i o přeměně reorganizace v konkurs
--ODDLUŽENÍ: pouze na návrh společně s ins. návrhem; jen FO/PO nepodnikatel; novinka 2014: o oddlužení mohou žádat i podnikatelé (typicky živnostníci, nově se totiž nehodnotí povaha dlužníka, ale povaha jeho dluhů; cílem je zmírnit negativní působení úpadku na budoucí život dlužníka a využít majetkové zdroje, kt. má k dispozici; 2 způsoby:
-1) zpeněžení majtkové podstaty (jako konkurz)
-2) 5 let plnit nezajištěným věřitelům zabavitelné části příjmu v poměru určeném soudem. Zajištění věřitelé se uspokojují z výtěžku svých zajištění; O způsobu hlasují věřitelé kvalifikovanou většinou. Na základě výsledku hlasování, soud schválí způsob oddlužení
--účinky: dlužník nabývá zpět s některými omezeními dispoziční oprávnění, nedisponuje s majetkem, který má být zpeněžen, ani s majetkem, který slouží k zajištění, jestliže dlužník řádně a včas splnil povinnosti vyplývající z oddlužení, soud jej svým rozhodnutím osvobodí od placení neuspokojených částí pohledávek zahrnutých do oddlužení.
--NovinkY 2014: o oddlužení mohou žádat manželé společně pomocí jednoho návrhu, postavení nerozlučných společníků (dříve musel mít každý samostatný návrh a zažádali soud o spojení ke společnému projednávání) A - podpis dlužníkova manžela na návrh se již nevyžaduje
-Druhy věřitelů a uplatňování jejich pohledávek
--ač je hlavním smyslem IŘ umožnit všem věřitelům uplatnit své pohledávky a rovnoměrně je uspokojit (par condicio creditorum), věřitelé se dělí na urč. skupiny (některé mají výhodnější postavení – pro různost povahy/ vzniku)
--dělení: uplatnění pohledávky přihláškou (pevně stanovená lhůta 2 měsíce od rozhodnutí o úpadku, u oddlužení 30 dní)X jiným způsobem; uspokojení pohledávky již během řízení X až na konci řízení
--nejvýhodnější: věřitelé za podstatou a pohledávky jim postavené na roveň a zajištění věřitelé
-nároky na vyloučení z konkursní podstaty – věřitel uplatňuje právo (zejm. vlastnické, restituční nárok aj.), které nepřipouští zpeněžení - uplatnění zvl. žalobou (excindační/vylučovací) proti správci podstaty
--věřitelé podávají přihlášky od zahájení řízení (vyhláška soudu) až do rozhodnutí o úpadku; ins. správce pořídí seznam přihlášek, přezkoumají se přihlášené pohledávky (přezkumné jednání); spory o výši, pravost nebo pořadí pohledávek = incidenční spory: (součást IŘ) spory o pravost, výši nebo pořadí pohledávky, spory o vyloučení věci, práva, pohledávky nebo jiné majetkové hodnoty z majetkové podstaty, spory o vypořádání společného jmění dlužníka a jeho manžela, spory o platnost smluv, kterými došlo ke zpeněžení majetkové podstaty prodejem mimo dražbu,…
-druhy pohledávek:
--pohledávky zajištěných věřitelů: zást. právem/ zadržovacím/ omezením převodu nem.v./ převodem práva/ apod.; musí podat přihlášku a prokázat zajištění;- uspokojují se z věci přednostně
--pohledávky za majetkovou podstatou: vznik až po zahájení řízení (v jeho důsledku); odměna správce, členů věřitelského výboru, daně, poplatky, apod.; nemusí být přihlašovány a lze je uspokojit kdykoli během řízení; uplatňují se vůči správci, nikoli vůči úpadci
--pohledávky postavené na roveň pohledávkám za MP: výživné, náhrada škody na zdraví, PP pohledávky za poslední 3 roky; -uspokojí se v plné výši kdykoli po rozhodnutí o úpadku
--pohledávky vyloučené z uspokojení v IŘ – v rozvrhu se k nim nepřihlíží, ale dají se uspokojit po skončení IŘ běžnými pr. prostředky; především pohledávky akcesorické povahy (sml. pokuty, úroky) i pohledávky, které nebyly přihlášeny ve stanovených lhůtách
--pohledávky podřízené: uspokojují se až po všech ostatních – např. podřízené dluhopisy
--pohledávky společníků/ členů dlužníka, který je obch. spol/ družstvem – neuplatňují se, jen oznamují správci, kt. je uspokojí, jen jsou-li uspokojeny všechny ostatní přihláš. pohledávky
--přihlásit potřeba všechny pohledávky kromě pohledávek za podstatou a na vyloučení z podstaty; přihlašují se tak i pohledávky, které již byly přiznány PM soudním rozhodnutím, anebo pohledávky, ohledně nichž již probíhá soudní řízení; přihlašují se i pohledávky nesplatné/podmíněné
--3. osoby mohou zajištění přihlásit jako podmíněnou pohledávku, nepřihlásí-li ji věřitel (vstupují pak na jeho místo, pokud mu plnily)                                                          
--pohledávku nutné vždy vyčíslit v penězích – přepočítána na českou měnu.
- Insolvenční správce
+
+- **ochrana dlužníka proti šikanózním návrhům** (zjevně neodůvodněné návrhy – zahájení IŘ způsobí dlužníkovi problémy, které lze zneužít v rámci hospodářské soutěže) – sankce odpovědnosti za škodu (navrhovatel musí složit zálohu do úschovy v předpokládané výši škody)  – uplatní dlužník proti navrhovateli
+  - pokud má insolvenční soud důvodné pochybnosti o návrhu, nemusí ani nic zveřejňovat v insolvenčním rejstříku (jen během předběžného posouzení)
+    - Pokud shledá, že je vše v pořádku - zveřejní opět vše v insolvenčním rejstříku
+
+- **Způsoby řešení úpadku**
+  - „2. fáze“ IŘ: po zjištění, zda tu úpadek – plat. neschopnost/ předlužení je či není)
+    - cílem je: uspořádání majet. vztahů k osobám, které jsou dotčeny dlužníkovým úpadkem a jejich poměrné uspokojení úpadcových věřitelů
+
+- **2 způsoby řešení:**
+  - **LIKVIDAČNÍ** (úpadce vyřazen z ekonom. aktivit; neznamená ztrátu právní subjektivity úpadce, ale u PO zásadně vede k tomu, že následně zaniknou jako právní subjekty-výmazem z OR,
+    - a) KONKURZ + b) ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU)
+  - **SANAČNÍ** (umožněny další sociální a ekn. aktivity – může vést k překonání krize; časové rozložení či jiné usnadnění dlužníkových plateb-věřitelům se často dostane víc než při řešení likvidačním,
+    - a) REORGANIZACE (pro velké podnikatele, dluhodobé splácení a
+    - b) ODDLUŽENÍ (pro nepodnikatele – splátkový kalendář anebo prodej majetkové podstaty)
+
+**KONKURZ:**
+  - obecný způsob (kterýkoli subjekt);
+  - nastupuje v případě neúspěchu oddlužení a reorganizace anebo rovnou;
+  - cílem je poměrné uspokojení zjištěných pohledávek z výnosu zpeněžení majetkové podstaty;
+  - IŘ přechází v konkurzní prohlášením konkurzu (usnesením ins. soudu);
+    - pokud úpadek nelze řešit jinak, je toto prohlášení vydáno zároveň s rozhodnutím o úpadku
+  - **účinky:** nastávají okamžikem zveřejnění v IR;
+    - 1) dlužník ztrácí právo disponovat majetkem v majetkové podstatě (to přechází na insol. správce),
+    - 2) věřitelé ztrácí možnost individuálního postupu,
+    - 3) všechna řízení týkající se majetkové podstaty se přerušují (vyjma trestního, dědického, vypořádání SJM aj.), zásah do hmotněprávních vztahů
+    - 4) ke dni prohlášení konkursu jsou předčasně splatné dlužníkovi pohledávky a závazky – konkursu se tak mohou účastnit i věřitelé dosud nesplatných pohledávek a do majetkové podstaty bude zahrnut veškerý majetek,
+    - 5) zásah do hmotněprávních vztahů – zanikají některé jednostranné PÚ (plné moci, prokura, úkony směřující k uzavření smlouvy):  prohlášením konkursu zaniká SJM, důvodem pro podání výpovědi z nájemní smlouvy (ať dlužník nájemcem či pronajímatelem)
+      - X naopak nemá vliv na PP poměry( úpadcových Zců), běh promlčecí a prekluzivních lhůt, nezaniká provoz dlužníkova závodu – k ukončení provozu je třeba až následného rozhodnutí soudu
+  - **průběh:**
+    - konkurzní správce sestaví seznam přihlášených pohledávek, sepíše majetkovou podstatu, zpracuje zprávu o hosp. situaci dlužníka;
+    - zpeněžení majetkové podstaty
+      - 1) veř. dražba,
+      - 2) prodej mov. a nemov. věcí dle osř,
+      - 3) prodej mimo dražbu);
+    - z výtěžku se uspokojí pohledávky za podstatou + pohledávky jim postavené na roveň; správce vypracuje konečnou zprávu – ta se projedná a podle toho se provádí rozvrh = jak má být dlužníkům plněno;
+    - konkurz končí usnesením o jeho zrušení-účinky nastávají až PM
+    - pohledávky v konkurzu neuspokojené nezanikají, věřitelé je mohou opět samostatně vymáhat, seznam pohledávek v protokolu o přezkumném řízení je na 10 let exekučním titulem
+
+**ZVL. ZPŮSOBY ŘEŠENÍ ÚPADKU:**
+  - **nepatrný konkurz** (FO nepodnikající a podnikatelé s obratem do 2 mil. a 50 ZCů; některé jednodušší postupy) a
+  - **úpadek finančních institucí** (zvl. úprava pro ochranu klientů- řada finančních institucí miliony klientů – úpadek = závažné makroekonomické důsledky), ztratí-li finanční instituce licenci, lze řešit jejich úpadek likvidačně – řada specifik ve formě zvláštností a odchylek od standardního průběhu konkursu – Hlava IV. IZ
+
+**REORGANIZACE:**
+  - týká se dlužníkova závodu (popř. i jeho dalšího majetku);
+  - jen na návrh dlužníka a přihlášeného věřitele;  
+  - není-li povolena (ve lhůtě 3 měsíců) následuje konkurz; pouze pro podnikající FO/ PO – pro střední a větší podnikatele (obrat za rok nad 50 mil a nad 50 Zců);
+  - provoz závodu zachován, ale podroben urč. opatřením;
+  - 2 podoby: dlouhodobá/ krátkodobá (fúze, vydání CP);
+  - věřitelé jsou rozděleni do skupin a hlasují o reorganizačním plánu (projednává se na schůzi věřitelů, ale musí být schválen soudem);
+  - reorganizační plán – zákl. dokument pro provádění-
+    - obsah: způsob reorganizace, rozdělení věřitelů do skupin, rozsah uspokojení věřitelů, sanační opatření..projednává se na schůzi věřitelů , přijat, pokud pro něj hlasovaly všechny skupiny, musí být schválen rozhodnutím soudu
+  - zanikají práva všech věřitelů vůči dlužníku jakož i práva 3 osob k majetku v majetkové podstatě – platí pouze režim reorganizačního plánu;
+  - reorganizace končí splněním reorganizačního plánu – soud o tom vydá zvl. rozhodnutí; soud může rozhodnout i o přeměně reorganizace v konkurs
+
+**ODDLUŽENÍ:**
+  - pouze na návrh společně s ins. návrhem; jen FO/PO nepodnikatel; - podat může pouze zákonem oprávněná osoba (například advokát, akreditovaná osoba, nebo i sám dlužník pokud má VŠ vzdělání)
+  - novinka 2014: o oddlužení mohou žádat i podnikatelé (typicky živnostníci, nově se totiž nehodnotí povaha dlužníka, ale povaha jeho dluhů; cílem je zmírnit negativní působení úpadku na budoucí život dlužníka a využít majetkové zdroje, kt. má k dispozici; 2 způsoby:, je ale možné žádat o oddlužení i s dluhy z podnikání -> pokud věřitel souhlasí
+    - 1) zpeněžení majtkové podstaty (jako konkurz), ale závazky pak zanikají, nezanikají jen závazky zajištěných věřitelů
+    - 2) plnění splátkového kalendáře se zpeněžení majetkové podstaty - 3/5 let plnit nezajištěným věřitelům zabavitelné části příjmu v poměru určeném soudem, nebo plnil to, co na něm mohlo být spravedlivě požadováno (minimální částka + DPH + odměta insolvenčního správce)
+  - Zajištění věřitelé se uspokojují z výtěžku svých zajištění;
+  - Existuje však **ochrana přiměřeného obydlí dlužníka** - to se v 2) nesmí prodat, pokud není zajištěno
+  - O způsobu hlasují věřitelé kvalifikovanou většinou. Na základě výsledku hlasování, soud schválí způsob oddlužení
+  - **účinky:**
+    - dlužník nabývá zpět s některými omezeními dispoziční oprávnění, nedisponuje s majetkem, který má být zpeněžen, ani s majetkem, který slouží k zajištění, jestliže dlužník řádně a včas splnil povinnosti vyplývající z oddlužení, soud jej svým rozhodnutím osvobodí od placení neuspokojených částí pohledávek zahrnutých do oddlužení.
+
+- **Druhy věřitelů a uplatňování jejich pohledávek**
+  - ač je hlavním smyslem IŘ umožnit všem věřitelům uplatnit své pohledávky a rovnoměrně je uspokojit (par condicio creditorum), věřitelé se dělí na urč. skupiny (některé mají výhodnější postavení – pro různost povahy/ vzniku)
+  - nejvýhodnější: věřitelé za podstatou a pohledávky jim postavené na roveň a zajištění věřitelé
+  - věřitelé podávají přihlášky od zahájení řízení (vyhláška soudu) až do rozhodnutí o úpadku;
+  - ins. správce pořídí seznam přihlášek, přezkoumají se přihlášené pohledávky (přezkumné jednání);
+    - spory o výši, pravost nebo pořadí pohledávek = incidenční spory: (součást IŘ) spory o pravost, výši nebo pořadí pohledávky, spory o vyloučení věci, práva, pohledávky nebo jiné majetkové hodnoty z majetkové podstaty, spory o vypořádání společného jmění dlužníka a jeho manžela, spory o platnost smluv, kterými došlo ke zpeněžení majetkové podstaty prodejem mimo dražbu,…
+
+- **Druhy pohledávek:**
+  - **pohledávky zajištěných věřitelů:** zást. právem/ zadržovacím/ omezením převodu nem.v./ převodem práva/ apod.;
+    - musí podat přihlášku a prokázat zajištění;- uspokojují se z věci přednostně
+  - **pohledávky za majetkovou podstatou:** vznik až po zahájení řízení (v jeho důsledku);
+    - odměna správce, členů věřitelského výboru, daně, poplatky, apod.;
+    - nemusí být přihlašovány a lze je uspokojit kdykoli během řízení;
+    - uplatňují se vůči správci, nikoli vůči úpadci
+  - **pohledávky postavené na roveň pohledávkám za MP:** výživné, náhrada škody na zdraví, PP pohledávky za poslední 3 roky;
+    - uspokojí se v plné výši kdykoli po rozhodnutí o úpadku
+  - **pohledávky vyloučené z uspokojení v IŘ** – v rozvrhu se k nim nepřihlíží, ale dají se uspokojit po skončení IŘ běžnými pr. prostředky; především pohledávky akcesorické povahy (sml. pokuty, úroky) i pohledávky, které nebyly přihlášeny ve stanovených lhůtách
+  - **pohledávky podřízené:** uspokojují se až po všech ostatních – např. podřízené dluhopisy
+  - **pohledávky společníků/ členů dlužníka, který je obch. spol/ družstvem** – neuplatňují se, jen oznamují správci, kt. je uspokojí, jen jsou-li uspokojeny všechny ostatní přihláš. pohledávky
+  - přihlásit potřeba všechny pohledávky kromě pohledávek za podstatou a na vyloučení z podstaty;
+    - přihlašují se tak i pohledávky, které již byly přiznány PM soudním rozhodnutím, anebo pohledávky, ohledně nichž již probíhá soudní řízení;
+    - přihlašují se i pohledávky nesplatné/podmíněné
+
+- **Insolvenční správce**
 -zvláštní procesní subjekt IŘ– vedle insolvenčního soudu, účastníků, věřejných orgánů a dalších procesních subjektů
 -úkol = nakládání s majetkovou podstatou dlužníka a v případě konkursu odpovědnost za zpeněžení majetku, řešení insolvenčních a dalších sporů
 -klíčová role – od rozhodnutí o úpadku nemůže řízení probíhat bez ins. Správce
@@ -5845,7 +5900,8 @@ odvolání z funkce – provádí insolvenční soud na žádost správce, popř
 -zvláštní správce: ustanoven soudem, vyžaduje-li to rozsah správcovy činnosti (specializace), zvláštní povolení, dlužník – např. obchodník s CP, roční obrat nad 100 mil, nad 100 ZCů
 -zástupce správce: když správce nemůže přechodně vykonávat svou fci
 -oddělený správce: je-li správce vyloučen z některých nepodstatných úkonů pro svůj poměr jen k některému z účastníků
-Incidenční spory v insolvenčním řízení
+
+- **Incidenční spory v insolvenčním řízení**
 -spory, které je nutné rozhodnout před vyřízením hlavní záležitosti ; spory vyvolané insolvenčním sporem; řeší je ins. soud jako součást IŘ (hospodárnost) X samostatně (jiný soudce ins. soudu, rychlost)
 -zahajují se na návrh, který má povahu žaloby -> žalobce a žalovaný -> postup podle OSŘ (sporné řízení, rozhoduje se rozsudkem, o smíru však usnesením (musí s nim soihlasit věřitelských výbor!); v rozsudku se zároveň rozhodne o nákladech podle OSŘ)
 -jiný okruh subjektů než v IŘ, často se týká i třetích osob
@@ -5853,7 +5909,8 @@ Incidenční spory v insolvenčním řízení
 aj.,kt.tak označí zákon    (§159 IZ)                                                                                              -pro jiné spory, jejichž účastníkem je insolvenční správce, nelze ustanovení o incidenčních sporech použít, i když probíhají za trvání insolvenčního řízení.
 -PM rozsudek vydaný v incidenčním sporu je závazný pro všechny procesní subjekty.
 -specifika: přípustní vedlejší účastníci (na rozdíl od IŘ);
-Průběh insolvenčního řízení
+
+- **Průběh insolvenčního řízení**
 Insolvenční řízení se dělí na 3 fáze: řízení o úpadku (rozhoduje se,zda je dlužník v úpadku nebo ne) , řízení o způsobu řešení úpadku, (soud musí rozhodnout do3M od vyhlášení úpadku) a fáze zvoleného způsobu úpadku(kt. může být: konkurs, reorganizace, oddlužení, jiný způsob – např. řešení úpadku finančních institucí); IŘ pak orientačně v těchto fázích:
 1) Zahajovací fáze: insolvenční řízení lze zahájit jen na návrh, zahajuje se dnem, kdy insolvenční návrh dojde věcně příslušnému soudu. Návrh může podat dlužník, věřitel.                   
 -Ins. návrh musí být opatřen úředně ověřeným podpisem osoby, kt. jej podala, nebo jejím zaručeným elektr. podpisem; jinak se k němu nepřihlíží § 97/2
@@ -5862,7 +5919,7 @@ Insolvenční řízení se dělí na 3 fáze: řízení o úpadku (rozhoduje se,
 -zahájení IŘ se oznámí vyhláškou, kterou insolvenční soud zveřejní, v I rejstříku nejpozději 2h poté, kdy mu došel insolvenční návrh (nadto i doručí účastníkům)
 2) Zjišťovací fáze: soud nařídí jednání o insolvenčním návrhu – závisí-li rozhodnutí na zjištění sporných skutečností o tom, zda dlužník je v úpadku.
 Pokud je dlužník v úpadku, může se pokusit o zmírnění dopadů insolvenčního řízení. Dlužník – podnikatel může soudu navrhnout vyhlášení moratoria
-3) Rozhodovací fáze:                                                                                                                                                                            
+3) Rozhodovací fáze:                                                                                                                                   
 A) odmítnutí IN - NEMERITORNÍ – nesplňuje-li předepsané náležitosti, soud k opravě návrhu nevyzývá;
 B) zastavení řízení – NEMERITORNÍ – např. zpětvzetí IN
 C) zamítnutí návrhu – MERITORNÍ – rozhodující skutečnosti nutno dosvědčit/dokázat; nejsou splněny předpoklady pro vydání rozhodnutí o úpadku, není pluralita věřitelů, dlužník je v druhotné platební neschopnosti a je pravděpodobné, že bude moci plnit později, zamítnutí pro nedostatek majetku dlužníka;
@@ -5878,7 +5935,8 @@ Věřitelské orgány v insolvenčním řízení
 -schůze věřitelů: volba a odvolání věřitelského výboru; dále si může vyhradit cokoli, co patří do působnosti věřitelských orgánů; svolává ji a řídí ins. soud na návrh i bez návrhu; právo zúčastnit se schůze má dlužník, věřitelé, ins. správce, st. zastupitelství, příp. odbor. organizace; usnesení přijímají prostou většinou přítomných/ řádně zastoupených věřitelů; 1Kč = 1 hlas; soud může usnesení schůze věřitelů zrušit, s výjimkou usnesení o způsobu řešení úpadku, o reorganizačním plánu a o oddlužení
 -věřitelský výbor (popř. zástupce věřitelů): ustavení věř. výboru je obligatorní, je-li přihlášeno více jak 50 věřitelů; vykonává působnost věřitelských orgánů vyjma toho, co má schůze věřitelů
 X Účastníci řízení dlužník, věřitelé, kteří uplatňují své nároky vůči dlužníku, insolvenční správce, státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, likvidátor dlužníka
- SUBJEKTY INSOLVENČNÍHO ŘÍZENÍ
+
+- **SUBJEKTY INSOLVENČNÍHO ŘÍZENÍ**
 1)INSOLVENČNÍ SOUD
 věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
 rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
