@@ -8500,7 +8500,7 @@ b) závazek podnikatele platit mu podíl na zisku
   - Obecně: Po vzniku právnické osoby se nelze domáhat určení, že nevznikla, a nelze z toho důvodu zrušit její zápis do veřejného rejstříku - kvůli právní jistotě a ochraně třetích osob
   - ALE
   - NOZ a ZOK vymezují důvody, pro které je možné PO prohlásit za neplatnou i po jejím vzniku:
-    - NOZ:
+    - NOZ, soud prohlásí založenou PO za neplatnou a to i bez návrhu v případech:
       - Absence ZPJ
       - Absence náležitostí ZPJ - konkretizováno v ZOK: pokud je absence firmy, výše vkladů, celkové výše upsaného ZK a předmět podnikání/činnosti
       - Účel PO naplňuje znaky v §145 - porušuje právo, nebo dosahuje účelu nezákonným způsobem
