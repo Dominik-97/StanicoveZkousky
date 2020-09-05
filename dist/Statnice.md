@@ -5726,28 +5726,67 @@ o	rozhodnutí o odvolání:
     - Soud povolí oprávněnému, aby si práce, které měl pro něho vykonat povinný, udělal buď sám, nebo si je dal provést někým jiným, např. firmou, ale na náklady povinného.
     - Pokud jde ale o nezastupitelné jednání, kdy je např. povinný zdržet se obtěžování souseda (pronikání zápachu z kouře), lze splnění této povinnosti vynutit jen ukládáním pokut až do celkové výše 100 000 Kč.
 
+- **Jak se bránit proti neoprávněnému zařazení věci do exekuce**
+  - Návrh na vyškrtnutí věci ze soupisu, pokud neuspěje, tak
+  - vylučovací žaloba
+
 - **3. Jiné druhy exekuce**
   - Pozastavení ř. oprávnění
   - Exekuce zřízením soudního/exekutorského zástavního práva
   - Exekuce správou nemovité věci
   - Etc.
 
-- **Řízení insolvenční**
-- Rozhodováno o úpadku a způsobu jeho řešení
-- Zahrnuje v sobě prvky jak řízení nalézacího, tak řízení vykonávacího
- - Podmínky pro proběhnutí řízení se zjišťují v jeho rámci, poté se pokračuje realizací potřebných opatření
-- Cílem je dosáhnout majetkového uspořádání mezi větším počtem subjektů, které by krizovou situaci překonalo (sanační opatření) anebo z ní vyvodit nezbytné důsledky (likvidační opatření)
+- **Konec výkonu rozhodnutí/exekuce**
+  - Standardně úspěšným vymožením pohledávky
+  - Zákon stanovuje i další případy:
+    - Například absolutně nepostačující majetek
+    - Zánik práva na plnění etc.
 
- Úpadek a zahájení insolvenčního řízení
--IZ č. 182/2006 Sb. o úpadku a způsobech jeho řešení; Z o insolvenčních správcích
--úpadek (bankrot, insolvence) = kvalifikovaný krizový stav; stav, při němž má dlužník vůči řadě věřitelů závazky a není v jeho reálných možnostech je všechny splnit
--negativní vymezení úpadku § 6 IZ – IZ nelze užít:  stát / územní samosprávné celky / veřejné vysoké školy / ČNB / PO – převzal-li stát její dluhy nebo se za ně zaručil /  zdravotní pojišťovny, dokud jsou nositeli zvláštního povolení / politické strany a hnutí – v době vyhlášených voleb
--modifikace práva na spravedlivý proces (vedlo by k upřednostnění některých věřitelů, ale zde je snaha, aby všichni věřitelé byli uspokojeni relativně rovnoměrně a spravedlivě)
--2 formy úpadku: 1)plat. neschopnost: všechny kategorie dlužníků (§ 3/2 IZ)– dlužník má nejméně dva věřitele, má peněžité závazky déle jak 30 dnů po lhůtě splatnosti a není schopen tyto zvazky splnit, objektivní neschopnost, 2) předlužení (§ 3/3 IZ)–dlužníkovy splatné závazky vůči více věřitelům jsou vyšší než dlužníkův majetek; u PO a podnikajících FO,do ocenění dlužníkova majetku se zahrne i očekávaný výnos-toto ustanovení brání, aby za předlužení byl považován pomíjivý, přechodný stav zjištěný např. při pravidelné rozvaze
--má-li dlužník pouze jednoho věřitele, nikdy nemůže jít o úpadek, ať je situace jakkoli kritická → takový věřitel musí jít klasicky cestou ex. titulu
--hrozící úpadek § 3 (4) – lze předpokládat, že dlužník nebude schopen plnit řádně a včas podstatnou část svých peněžitých závazků (návrh na zaájení IŘ oprávněn podat jen dlužník)
--IŘ = zjištění, zda tu úpadek je či není a následně se jedná o způsobu řešení;
--zahájení výlučně na návrh: může podat dlužník i věřitel; u hrozícího úpadku jen dlužník; zahájení – jakmile věcně příslušnému soudu dojde insol. návrh, soud oznámí do 2 hod zahájení vyhláškou, účinky- již nelze pohledávky uplatnit žalobou., nelze provést SVR/E; pokud podává sám věřitel, musí prokázat existenci i dalších věřitelů (pojmový znak úpadku – existence více věřitelů); neplatí litispendence – další věřitelé mohou přistupovat; insolvenční návrh: obecné náležitosti + zvláštní náležitosti, podává-li dlužník(seznam majetku, závazků, ZCů, listiny dokládající úpadek); povinnost podat ins. návrh pro dlužníka, který je PO nebo podnikatelem (jinak odp. za škodu); důvod: předejít poškození věřitelů s pozdější lhůtou splatnosti svých pohledávek, kteří by při opožděném návrhu nemuseli být vůbec uspokojeni; někdy navrhovatel musí zaplatit zálohu 50.000 Kč- záloha se v závěru řízení zásadně vrací – složil-li ji věřitel
+- **Řízení insolvenční**
+  - Rozhodováno o úpadku a způsobu jeho řešení
+  - Zahrnuje v sobě prvky jak řízení nalézacího, tak řízení vykonávacího
+    - Podmínky pro proběhnutí řízení se zjišťují v jeho rámci, poté se pokračuje realizací potřebných opatření
+  - Cílem je dosáhnout majetkového uspořádání mezi větším počtem subjektů, které by krizovou situaci překonalo (sanační opatření) anebo z ní vyvodit nezbytné důsledky (likvidační opatření)
+
+- **Úpadek a zahájení insolvenčního řízení**
+- **Prameny**
+  - IZ č. 182/2006 Sb. o úpadku a způsobech jeho řešení; Z o insolvenčních správcích
+
+- **úpadek** (bankrot, insolvence) = kvalifikovaný krizový stav; stav, při němž má dlužník vůči řadě věřitelů závazky a není v jeho reálných možnostech je všechny splnit
+  - **negativní vymezení úpadku** § 6 IZ – IZ nelze užít:  stát / územní samosprávné celky / veřejné vysoké školy / ČNB / PO – převzal-li stát její dluhy nebo se za ně zaručil /  zdravotní pojišťovny, dokud jsou nositeli zvláštního povolení / politické strany a hnutí – v době vyhlášených voleb
+
+- **Formy úpadku**
+  - Insolvenční soud nejdříve rozhoduje o tom, zda tu úpadek vůbec je
+  - Poté rozhoduje o tom, jakou formou ho vyřešit
+  - Existují **2 formy úpadku:**
+  - 1) **plat. neschopnost:** všechny kategorie dlužníků (§ 3/2 IZ)–
+    - dlužník má nejméně dva věřitele,
+    - má peněžité závazky déle jak 30 dnů po lhůtě splatnosti a
+    - není schopen tyto zvazky splnit, objektivní neschopnost,
+      - Zákon stanovuje vyvratitelnou právní domněnku co znamená neschopnost plnit: například **zastavil platby podstatné části svých závazků**, **nebo je neplení po dobu delší než 3 měsíce**
+  - 2) **předlužení (§ 3/3 IZ)**
+    - dlužníkovy splatné závazky vůči více věřitelům jsou vyšší než dlužníkův majetek;
+    - u PO a podnikajících FO,do ocenění dlužníkova majetku se zahrne i očekávaný výnos-toto ustanovení brání, aby za předlužení byl považován pomíjivý, přechodný stav zjištěný např. při pravidelné rozvaze
+  - má-li dlužník pouze jednoho věřitele, nikdy nemůže jít o úpadek, ať je situace jakkoli kritická → takový věřitel musí jít klasicky cestou ex. titulu
+  - **hrozící úpadek** § 3 (4) – lze předpokládat, že dlužník nebude schopen plnit řádně a včas podstatnou část svých peněžitých závazků (návrh na zahájení IŘ oprávněn podat jen dlužník)
+
+- **Insolvenční řízení**
+  - IŘ = zjištění, zda tu úpadek je či není a následně se jedná o způsobu řešení;
+  - zahájení výlučně na návrh:
+    - může podat dlužník i věřitel;
+    - u hrozícího úpadku jen dlužník;
+  - zahájení – jakmile věcně příslušnému soudu dojde insol. návrh, soud oznámí do 2 hod zahájení vyhláškou v insolvenčním rejstříku
+
+- **Účinky**
+  - již nelze pohledávky uplatnit žalobou., nelze provést SVR/E;
+  - pokud podává sám věřitel, musí prokázat existenci i dalších věřitelů (pojmový znak úpadku – existence více věřitelů);
+
+
+
+  neplatí litispendence – další věřitelé mohou přistupovat;
+
+  insolvenční návrh: obecné náležitosti + zvláštní náležitosti, podává-li dlužník(seznam majetku, závazků, ZCů, listiny dokládající úpadek); povinnost podat ins. návrh pro dlužníka, který je PO nebo podnikatelem (jinak odp. za škodu); důvod: předejít poškození věřitelů s pozdější lhůtou splatnosti svých pohledávek, kteří by při opožděném návrhu nemuseli být vůbec uspokojeni; někdy navrhovatel musí zaplatit zálohu 50.000 Kč- záloha se v závěru řízení zásadně vrací – složil-li ji věřitel
+
 -soud doručí účastníkům + vyrozumí instituce uvedené v zákoně + spolu s tím jsou většinou vyzváni věřitelé k přihlášení svých pohledávek (až do rozhodnutí o úpadku)
 -moratorium – může požádat dlužník podnikatel do 7(podal dlužník)/ 15 dnů (podal věřitel) od ins. návrhu – jeho poslední šance vyrovnat se s věřiteli/ odvrátit nepříznivé důsledky úpadku; po dobu trvání moratoria nelze vydat rozhodnutí o úpadku, max. 3 měsíce, dlužník podnikatel musí v návrhu předložit požadované písemnosti a prokázat souhlas většiny věřitelů
 -soud rozhodne USNESENÍM meritorně  -o úpadku/ o zamítnutí (dlužník není v úpadku); nemeritorně o odmítnutí návrhu (vady) nebo zastavení řízení (zpětvzetí IN)
