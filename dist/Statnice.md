@@ -12371,9 +12371,55 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Hodnocení
+  - [ ] Měření a hodnocení výkonnosti
+- [ ] Motivace
+  - [ ] Motivační faktory
+  - [ ] Motivační nástroje
+- [ ] Rozvoj podřízených
+  - [ ] Nástroje rozvoje podřízených
+- [ ] Typologie osobnosti
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Hodnocení**
+  - Pracovní hodnocení je proces, jímž organizace hodnotí vykonanou práci.
+  - Pokud je správně provedeno, přináší užitek jak zaměstnancům, tak i jejich nadřízeným, personálnímu oddělení a konečně i celé organizaci.
+  - Zaměstnanci hledají zpětnou vazbu ke svému výkonu, která by je vedla v jejich dalším počínání.
+    - Tato potřeba vedení se nejvíce projevuje u nováčků, kteří se teprve seznamují se svou prací i pracovním prostředím.
+    - Služebně starší pracovníci pak touží po kladné odezvě na věci, které vykonali skutečně dobře, ale mohou odmítnout zpětnou vazbu korigující, kterou často pociťují jako kritiku a požadavek, aby změnili své chování.
+  - Vedoucí a manažeři musejí provádět pracovní hodnocení, aby věděli, jaké opatření je třeba přijmout.
+  - Pracovníkův výkon se srovnává implicitně nebo explicitně vyjádřenými normami.
+  - Hodnocení pomáhá nadřízenému pracovníkovi podporovat uspokojivé výsledky a přijímat nápravná opatření u slabého výkonu.
+  - Jak jsme již rozebrali, i rozhodování o umístění pracovníka - od povýšení až po propuštění - rovněž závisí na pracovním hodnocení.
+- **Cíle hodnocení**
+  - Je jich mnoho
+  - Pro zaměstnance např.:
+    - Odborná příprava a potřeby rozvoje.
+    - Plánování pracovního postupu a rozvoje.
+    - **Pomoc s ohhalením chyb a zjednání jejich nápravy.**
+  - Pro zaměstnavatele např.:
+    - **Zlepšení výkonu,**
+    - Určování odměn,
+    - Rozhodování o změnách pracovního zařazení,
+    - Nedostatky ve výběru pracovníků,
+    - Informační nepřenosti - chyby v přenosu informací,
+    - Chyby v rozvržení práce,
+    - Stejné pracovní příležitosti/Vnější vlivy atd.
+- **Měření a hodnocení výkonnosti**
+  - **Hodnocení průběžné (každodenní)** - je prováděno neoficiálně, přímým nadřízeným, je zaměřeno na průběžný pracovní výkon, slouží jako jeden z řídících prvků při vedení lidí, mělo by mít motivační podtext (ne demotivační), má výchovný charakter; formou denního hodnocení je i kontrola práce nebo pracovního výkonu. Mělo by sloužit i jako oboustranná zpětná vazba. Je většinou ústní.
+  - **Hodnocení příležitostné** - je většinou vyvoláno okamžitou potřebou, a to buď pracovní, nebo pracovněprávní. Tedy např. jako závěr určité pracovní etapy (ukončení montáže, ukončení činnosti pracovního týmu, před očekávanými organizačními změnami...). Může být ústní i písemné.
+  - **Hodnocení účelové** - většinou se provádí na vyžádání personálního útvaru, vedení podniku nebo kompetentních mimopodnikových orgánů. Provádí se při. ukončení pracovního poměru, před převedením na jinou práci, před povýšením atp. písemnou formou.
+  - **Hodnocení systematické (periodické)** - provádí se pravidelně s periodou v podniku obvyklou, většinou na základě standardizovaných postupů a podle přesně stanovených kritérií.
+- Pro správně hodnocení je potřeba zvolit správná **kritéria**, například:
+  - Osobnostní vlastnosti a schopnosti, nezbytné pro vykonávání dané funkce
+  - Kvalifikační parametry a chování v průběhu pracovní činnosti
+  - Pracovní výkonnost a výsledky pracovní činnosti
+  - Interpersonální orientace a celkový styl
+
+
 
 ----
 :::
