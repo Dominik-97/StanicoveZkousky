@@ -52,11 +52,11 @@ Hotovo 2/30
 - [x] Otázka 3 - dist/Statnice.md
 - [ ] Otázka 4 - Podklady
 - [x] Otázka 5 - Podklady
-- [ ] Otázka 6 - Podklady
+- [ ] Otázka 6 - Podklady - Teď
 - [ ] Otázka 7 - Podklady
-- [ ] Otázka 8 - Podklady
-- [ ] Otázka 9 - Podklady
-- [ ] Otázka 10 - Podklady
+- [ ] Otázka 8 - Podklady - Teď
+- [ ] Otázka 9 - Podklady - Teď
+- [ ] Otázka 10 - Podklady - Teď
 - [x] Otázka 11 - Podklady
 - [x] Otázka 12 - Podklady
 - [x] Otázka 13
@@ -71,10 +71,10 @@ Hotovo 2/30
 - [x] Otázka 22
 - [x] Otázka 23
 - [ ] Otázka 24
-- [ ] Otázka 25
+- [x] Otázka 25
 - [x] Otázka 26
 - [x] Otázka 27
-- [ ] Otázka 28
+- [ ] Otázka 28 - Teď
 - [ ] Otázka 29
 - [x] Otázka 30
 
@@ -96,19 +96,19 @@ Hotovo 5/30
 - [x] Otázka 12
 - [x] Otázka 13
 - [x] Otázka 14
-- [ ] Otázka 15
-- [ ] Otázka 16
+- [ ] Otázka 15 - Teď
+- [ ] Otázka 16 - Teď
 - [x] Otázka 17
-- [ ] Otázka 18
-- [ ] Otázka 19
-- [ ] Otázka 20
-- [ ] Otázka 21
-- [ ] Otázka 22
-- [ ] Otázka 23
-- [ ] Otázka 24
-- [ ] Otázka 25
-- [ ] Otázka 26
-- [ ] Otázka 27
-- [ ] Otázka 28
-- [ ] Otázka 29
-- [ ] Otázka 30
+- [ ] Otázka 18 - Teď
+- [ ] Otázka 19 - Teď
+- [ ] Otázka 20 - Teď
+- [ ] Otázka 21 - Teď
+- [ ] Otázka 22 - Teď
+- [ ] Otázka 23 - Teď
+- [ ] Otázka 24 - Teď
+- [ ] Otázka 25 - Teď
+- [ ] Otázka 26 - Teď
+- [ ] Otázka 27 - Teď
+- [ ] Otázka 28 - Teď
+- [ ] Otázka 29 - Teď
+- [ ] Otázka 30 - Teď

@@ -8940,6 +8940,8 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Společnost s ručením omezeným
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
@@ -8986,7 +8988,7 @@ Statutární orgán (§ 125 odst. 1 ZOK)
     - Celkovou vkladovou povinnost stanoví spol. smlo. - nejpozději se musí splatit celý vklad do 5 let od vzniku
 
 - **Práva a povinnosti společníků**
-  - Mají základní práva vymezená u vkladu - viz otázka 23
+  - Mají základní práva vymezená u vkladu - viz otázka 23, jsou to práva **majetková** a **nemajetková**
   - Další práva zahrnují:
     - Právo podílet se na řízení společnosti
     - Právo na informace
@@ -8994,11 +8996,16 @@ Statutární orgán (§ 125 odst. 1 ZOK)
     - Minoritní práva
   - Povinnosti pak zahrnují například:
     - Vkladovou povinnost
-    - Příplatkovou povinnost
+    - Příplatkovou povinnost - povinnost společníka do společnosti přispět k vytvoření vlastního kapitálu na jeho vkladovou povinnost, musí být zakotveno ve společenské smlouvě
     - Zákaz konkurence
     - Povinnost loajality
 - **Míra účasti společníka na právech a povinnostech** = podíl
-  - určena podle velikosti jeho vkladu, Práva a povinnost však může modifikovat spol. smlo. bez ohledu na výši na ně vázaných vkladů
+  - určena podle velikosti jeho vkladu, Práva a povinnost však může modifikovat spol. smlo. bez ohledu na výši na ně vázaných vkladů - je tedy možné vytvořit **různé druhy podílů**
+  - Pokud je více druhů podílů, může společník nabýt více těchto podílů - ty spolu nesrůstají, vznikají z nich jiná práva a povinnosti
+  - Podíl lze sjednat ve formě **kmenového listu** - jedná se o klasický druh jednoho z vymezených druhů podílů, jen je představován cenným papírem na řad, nelze jej vydat jako zaknihovaný cenný papír, nesmí se obchodovat na trhu, ale dispozice s ním jsou umožněny - **je možné ho vydat jen k podílu, jehož převoditelnost není omezena, nebo podmíněna**
+    - Zákon stanoví jaké jsou podmínky co do obsahu kmenového listu - například jasná identifikace, druh podílu etc.
+    - Lze je vydat i jako hromadné cenné papíry
+  - Společenská smlouva může omezit nebo podmínit převody a zastavení podílů
 
 - **Orgány společnosti**
   - **NO - Valná hromada** - členové jsou všichni společníci (majitelé)
