@@ -8948,9 +8948,84 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-Zakládání právnických osob právnickými osobami.
+- **Rozdíl mezi osobní a kapitálovou OK**
+  - všichni nebo alespoň někteří společníci osobních společností ručí za závazky společnosti neomezeně, celým svým majetkem a solidárně,
+  - společníci kapitálových společností neručí za závazky společnosti za trvání společnosti vůbec nebo je jejich ručení omezeno.
+  - Osobní společnost dále charakterizuje osobní účast společníků na řízení společnosti.
 
-Kmenové listy
+- **Společnost s ručeným omezením obecně**
+  - Jedna z forem OK, kterou lze založit za účelem podnikání/veřejně prospěšným účelem
+  - Nejrozšířenější společnost v Čr
+  - Jedná se o kapitálovou OK
+    - Vykazuje však některé rysy osobní společnosti (především většinovou přímou účast společníků na řízení společnosti) -> právní teorií je tak často považována za společnost **smíšenou**
+  - Je upravena v ZOK
+
+- **Založení společnosti**
+  - Jeden nebo více společníků, FO i PO, tuzemští i zahraniční - zakladatelská listina/společenská smlouva
+  - Firma společnosti musí obsahovat právní dodatek s.r.o. či spol. s. r. o.
+  - Minimální vklad **každého společníka** je 1kč
+    - Při podání návrhu na vklad musí být ZK splacen minimálně ze 30%
+    - Nepeněžité vklady musí rovněž ocenit soudní znalec
+  - Společnost je založena okamžikem, kdy se všichni společnící dohodnou na obsahu společenské smlouvy a podepíší jí u notáře = forma písemné veřejné listiny.
+    - V tuto chvíli vznikají určité práva a povinnosti zatím pouze mezi společníky
+    - Společně s klasickým náležitostem společenské smlouvy stanovuje ZOK pro s.r.o. i další:
+      - například výše ZK a vkladová povinnost a lhůta pro její splnění
+      - správce vkladu etc.
+      - Pokud nejsou všechny potřevné náležitosti -> **neplatnost založení**
+  - Společnost samozřejmě musí před svým vznikem splnit i další povinnosti:
+    - povinnost splatit minimální část ZK (banka pak vydá potvrzení o tom, že na účtě peníze jsou), potvrzení o splacení rovněž vydá správce vkladu, mít právní titul k sídlu, mít živnostenské oprávnění (odpovědnou osobu), vytvoření podpisových vzorů etc.
+    - Osvědčení o splěnní těchto povinností se pak přikládají k návrhu na zápis do OR
+  - Společnost vzniká zápisem do OR
+    - Nemá právní osobnost, ale některé činnosti již může činit před zápisem - například založení účtu, či nájemní smlouva
+
+- **Ručení společníků**
+  - s.r.o. odpovídá za porušení svých závazků celým svým majetkem
+  - společníci odpovídají společně a nerozdílně do výše svých nesplacených vkladů dle OR v době, kdy k tomu byli vyzváni
+    - Ručí tedy i společník, který již splatil, pokud ostatní společníci nesplatili
+    - Splacením všech vkladů v plné výši ručení zaniká
+    - Celkovou vkladovou povinnost stanoví spol. smlo. - nejpozději se musí splatit celý vklad do 5 let od vzniku
+
+- **Práva a povinnosti společníků**
+  - Mají základní práva vymezená u vkladu - viz otázka 23
+  - Další práva zahrnují:
+    - Právo podílet se na řízení společnosti
+    - Právo na informace
+    - Právo na společnickou žalobu
+    - Minoritní práva
+  - Povinnosti pak zahrnují například:
+    - Vkladovou povinnost
+    - Příplatkovou povinnost
+    - Zákaz konkurence
+    - Povinnost loajality
+- **Míra účasti společníka na právech a povinnostech** = podíl
+  - určena podle velikosti jeho vkladu, Práva a povinnost však může modifikovat spol. smlo. bez ohledu na výši na ně vázaných vkladů
+
+- **Orgány společnosti**
+  - **NO - Valná hromada** - členové jsou všichni společníci (majitelé)
+    - Jednatel společnosti ji svolává minimálně 1x ročně
+    - Do její působnosti spadají zásadní rozhodnutí o fungování společnosti - změna společenské smlouvy, změna ZK, o připuštění nepeněžitého vkladu
+      - Tedy jak zákonné práva
+      - tak i rozšířené práva - ty si mohou vyhradit ve spol. smlou. - **maximálně do hranice obchodního řízení** - tu již nesmí překročit, neboť obchodní řízení náleží **SO** a **NO** do něj nesmí zasahovat
+      - Způsob jednání NO je možné modifikovat ve spol. smlo. - například co do rozhodování ve smyslu počtu členů NO
+        - Způsob rozhodování
+          - Prezenčně (zasedání)
+          - Korespondenčně- odevzdání hlasů před zasedáním
+          - *Per rollam* - korespondenčně ale bez konání zasedání
+    - Dále například volba a odvolání jednatele a dozorčí rady etc.
+    - Dále NO schvaluje účetní závěru, schvaluje rozdělení zisku etc.
+    - V jednočlené společnosti vykonává tuto funkci jediný společník, valná hromada tedy není
+  - **SO - jednatelé** - přísluší jim obchodní vedení společnosti, jsou zapsáni v OR
+    - Má neomezené jednatelské oprávnění
+    - V spol. smlou. je možné určit způsob zastupování, pokud není určet - zastupuje každý společní společnost sám za sebe
+    - Mohou být buď orgánem kolektivní - hlasují, nebo individuální - přímo jednají za společnost
+      - V případě obchodního vedení se ale vyžaduje souhlas většiny z jednatelů i když netvoří kolektivní orgán
+    - Jsou voleni NO/KO - může s nimi být sjednána **smlouva o výkonu funkce**, jinak jsou použita ustanovení o **příkazu**
+  - **Kontrolní orgán** - **Dozorčí rada** - kontroluje činnost jednatelů, předkládá zprávy, možnosti ukládat souhlas s nějakými činnostmi, svolávat valnou hromadu etc.
+
+
+
+~~Zakládání právnických osob právnickými osobami.~~
+~~Kmenové listy~~
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
