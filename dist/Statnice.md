@@ -8412,6 +8412,12 @@ b) závazek podnikatele platit mu podíl na zisku
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Právní úprava
+- [ ] Druhy
+- [ ] Vznik
+- [ ] Zánik
+- [ ] Neplatnost
+
 \|--------------\| <br>
 \| Paragrafy \| <br>
 \|--------------\| <br>
