@@ -12478,6 +12478,9 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - Hodnotitelné
     - Uchopitelné pro rozhodování o jeho ošetření
   - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
+- **Termíny v rámci řízení rizika**
+  - 
+
 - **Kategorizace rizik**
   - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
     - Podle firemní procesů -
@@ -12502,17 +12505,22 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Projektové řézení
-  - [ ] Dilema projektového řízení
+- [x] Projektové řézení
+  - [x] Dilema projektového řízení
   - [x] Věcná a proesní stránka projektu
-  - [ ] Faktory úspěchu projektu
+  - [x] Faktory úspěchu projektu
   - [x] Projektová řídící struktura
-  - [ ] Nástroje pro řízení projetku
+  - [x] Nástroje pro řízení projetku
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- **Projektové řízení**
+ -  Projektové řízení je řízení časově ohraničené a ucelené sady činností a procesů, jejímž cílem je zavedení, vytvoření nebo změna něčeho konkrétního.
+ -  Řízení projektů je způsob rozplánování a realizaci složitých, zpravidla jednorázových akcí, které je potřeba uskutečnit v požadovaném termínu s plánovanými náklady tak, aby se dosáhlo stanovených cílů. Řízení projektů lze také charakterizovat jako účinné a efektivní dosahování významných změn.
+ - Cílem řízení projektů je zajistit naplánování a realizaci úspěšného projektu, kterým se rozumí případ, kdy v plánovaném čase a s plánovanými náklady bylo dosaženo cílů projektu a realizace projektu nevyvolává negativní reakce.
+ - Řízení projektů vychází z poznání, že jakmile rozsah, neobvyklost, složitost, obtížnost a rizikovost projektu přesáhnou určitou míru, je nutno použít adekvátních metod pro řízení celé akce.
 - **Dilema projektového řízení**
   - Záměr projektu je třeba realizovat v daném čase s danými zdroji
   - Jedná se tedy o trojúhelník
@@ -12539,7 +12547,8 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
     - **Kontrolor projetku** - jak na straně zákazníka, tak dodavatele (může být, měl by být), záleží jestli je projekt outsorcován nějakému dodavateli, nebo zda se uvolní interní pracovní síla k realizaci projektu.
     - **Řídící výbor** - většinou se sestává ze sponzora projektu, a dalších vrcholných řídících článků projektu (tedy většinou manažerů projektu)
   - **Nástroje pro řízení projektu**
-    - Doplnit
+    - Nástroje pro řízení projektů jsou od těch nejjednodušších, které umožňují evidenci projektů, tvorbu Ganttova diagramu, výpočet kritické cesty, až po složité systémy určené pro velké organizace a podniky EPM (Enterprise Project management), které jsou součástí systémů plánování a řízení zdrojů (ERP) a obsahují funkce koordinace soustavy projektů, řízení rizik, finančního plánování, plánování a optimalizace kapacit a další.
+    - Dále to mohou být jednotlivé issue trackery etc.
 
 ----
 :::
@@ -12555,9 +12564,106 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Marketing a odbyt
+- [x] Hlavní úkoly Marketingového oddělení
+- [x] Marketingové techniky
+- [x] Vztahy podnikové a marketingové strategie
+- [x] Trh a jeho segmentace
+  - [x] Definování cílových skupin a zaměření - targeting a positioning
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Marketing**
+  - Jedná se o široké spektrum činností, jehož cílem je ovlivňovat sociální proces, při kterém jednotlivci nebo skupiny získávají to, co si přejí a co potřebují, prostřednictvím tvorby nabídky a směny hodnotových produktů a služeb s ostatními.
+  - Marketing má v podstatě tři cíle:
+    - Poznat zákazníka
+    - Připravit zákazníka
+    - Dodat zákazníkovi produkt nebo službu
+  - Marketing je pro fungování firmy zásadní - trhy jsou hodně konkurenční a bez marketingu, který se na něj soustředí, dělá marketingové a tržní průzkumy, objevuje příležitosti na trhu by dnešní moderní podnikatel neuspěl.
+  - Marketingová koncepce řízení podniku se hodně liší od klasické tržní koncepce, která byla zaměřována spíše na produkt než na zákazníka.
+
+|             | Tržní koncepce    | Marketingová koncepce                                                |
+| ----------- | ----------------- | -------------------------------------------------------------------- |
+| výchozí bod | firma, továrna    | trh                                                                  |
+| důraz       | produkt           | potřeby zákazníka                                                    |
+| prostředek  | propagace, prodej | koordinace činností pomocí marketingu na úrovni strategického řízení |
+| cíl         | zisk z prodeje    | zisk ze spokojeného zákazníka                                        |
+
+- Marketing v podstatě spočívá v tom, že pouze nereaguje na trh, popřípadě nepropaguje jen produkt, ale situace na trhu i vytváří - tvarují zákazníka
+- Marketing dnes prostupuje celou společností a podílí se na strategickém řízení firmy, jeho úkoly (funkce) jsou například:
+  - Analýza zákazníka
+  - Nákup subdodávek (Nákupní marketing)
+  - Prodej produktu
+  - Plánování produktu
+  - Cenová strategie
+  - Distribuce
+  - Marketingový průzkum
+  - Analýza možností
+  - Sociální odpovědnost
+- Pomocí provádění výše uvedených funkcí marketing ovlivňuje dlouhodobé plánování v podniku
+- Tyto úkoly musí reagovat rovněž na proměnlivé **okolí** podniku
+- Více v otázce 17
+
+- **Organizace marketingových útvarů**
+  - nutnost vymezení pravomocí a odpovědnosti útvarů a pracovníků, kteří vykonovávají jednotlivé marketingové aktivity
+  - Fáze:
+    - 1. Z počátku jsou marketingovými aktivitami (reklama, výzkum trhu) pověřováni pracovníci obchodního útvaru
+    - 2. Po určité době se vytváří zvláštní marketingový útvar (odbor, oddělení) řízený ředitelem či náměstkem pro marketing, který v je v podnikové hierarchii zařazen do vrcholového vedení podniku
+    - 3. později může dojít ke sloučení prodeje (odbytu) s marketingem (řízeno pouze jedním ředitelem)
+    - 4. nejvyšší stadium marketingově orientovaného podniku = pravomoc a odpovědnost ředitele pro marketing je vyšší než u ostatních ředitelů (konflikty s ředitelem výroby, jestli měnit výrobu či ne zaniknou, finanční - výhrady k nákladům)
+
+- **Marketingové strategie/techniky**
+  - Jedná se o určité dílčí způsoby, které marketéři používají pro objevování a vytváření ziskových příležitostí
+  - Marketingových technik je opravdu mnoho
+  - Příklady:
+    - Propagace na sociálních médiích
+    - Vytváření videí
+    - Bloggování
+    - SEO
+    - Influenceři
+    - Vytvoření dobrého lead magnetu - a jejich akvizice
+    - Reklamy, retargeting
+    - Linkedin
+    - Affiliate program
+    - Email Marketing Sequences
+
+- **Vztahy podnikové a marketingové strategie**
+  - Marketingová strategie je tvořena jednotlivými marketingovými plány
+  - Marketingová strategie je nezbytnou součástí celopodnikové strategie.
+  - Podniková strategie je v podstatě strategické vyjádření jak dosáhnout cílů a vízí společnosti.
+  - Marketing je důležitý pro pochopení trhu, objevování ziskových příležitostí a spojení těchto příležitostí s cíly společnosti.
+
+- **Trh a jeho segmentace**
+  - Segmentace trhu je jedna z metod marketingového řízení, konkrétně analýzy trhu.
+    - Cílem je poznat strukturu daného trhu na který chce organizace umístit svůj výrobek nebo službu.
+    - Trh se dělí do podle nějakého hlediska homogenních skupin zákazníků.
+- **Segmentace trhu a zákazníků zahrnuje následující kroky:**
+    -	Průzkum trhu – vytváří se segmentační kritéria
+    -	Profilování segmentů – zákazníci jsou rozdělování podle segmentačních kritérií do relativně homogenních skupin. Určení velikosti segmentů a vytvoření jejich profilů
+    -	Výběr cílového segmentu (targeting) – organizace si zvolí ten segment nebo segmenty trhu, na kterých pro ni má smysl operovat
+
+- **Kritéria pro profilování segmentů**
+  -	Geografická – zákazníci jsou rozděleni podle svého prostorového (geografického) rozmístění například podle kontinentů, zemí nebo regionů apod.
+  -	Demografická – zákazníci se dělí podle věku, pohlaví, etnika, náboženství, rodinného stavu apod.
+  -	Socioekonomická – socioekonomický status, vzdělání, povolání, příjem, postavení apod.
+  -	Psychologická – zákazníci se dělí podle psychologického profilu (životní zájmy, postoje, hodnoty apod.)
+  -	Nákupní chování – frekvence a rozsah nákupů, loajalita k dodavateli, postoj k riziku apod.
+
+Definice celého procesu:
+1.	Segmentace trhu - segmentation
+  -	Volba parametrů pro segmentaci a její provedení
+  -	Popis jednotlivých segmentů
+
+2.	Výběr cílových segmentů – targeting
+  - Vyhodnocení atraktivnosti každého segmentu
+  -	Výběr cílových segmentů
+
+3.	Umístění na trhu - positioning
+  -	Analýza koncepcí umístění na každý segment
+  -	Výběr, realizace a komunikace vybrané koncepce umístění
+  - Vytvoření marketingového mixu, který je vhodný pro daný segment zákazníků
 
 Jedná se o celé pojetí výrobního procesu - viz fáze v odmaturuj (dopsat)
 

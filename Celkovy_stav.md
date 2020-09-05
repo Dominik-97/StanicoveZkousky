@@ -110,5 +110,5 @@ Hotovo 5/30
 - [ ] Otázka 26 - Teď
 - [ ] Otázka 27 - Teď
 - [ ] Otázka 28 - Teď
-- [ ] Otázka 29 - Teď
-- [ ] Otázka 30 - Teď
+- [x] Otázka 29
+- [x] Otázka 30
