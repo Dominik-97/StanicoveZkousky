@@ -2383,7 +2383,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
         - 2- v případech v souladu se zákonem
         - **Změna okolností**
           - Změna okolností na smlouvě nic nemění, pokud se nejedná o **podstatnou změnu okolností** (podstatné je, aby vznikl hrubý nepoměr mezi plněními) -> pokud na sebe strana nevzala riziko změny okolností
-            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud (subjektivní lhůta k podání 2 měsíce)
+            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud - změnit, nebo zrušit (subjektivní lhůta k podání 2 měsíce)
       - Je možné ujednat si zákaz zatížení, nebo zcizení -> působí **inter partes**, pokud není ujednáno jako **věcné právo**
       - **Smlouva ve prospěch třetí osoby**
         - Je možné ujednat plnění ve prospěch třetí osoby -> ta musí právo přijmout, pokud nepřijme, může věřitel požadovat plnění pro sebe pokud to neodporuje obashu a účelu smlouvy

@@ -14,7 +14,7 @@
 - [x] Otázka 10
 - [x] Otázka 11
 - [x] Otázka 12
-- [ ] Otázka 13
+- [x] Otázka 13
 - [ ] Otázka 14
 - [ ] Otázka 15
 - [ ] Otázka 16
