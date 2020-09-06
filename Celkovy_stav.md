@@ -50,7 +50,7 @@ Hotovo 2/30
 - [x] Otázka 1 - dist/Statnice.md
 - [x] Otázka 2 - dist/Statnice.md
 - [x] Otázka 3 - dist/Statnice.md
-- [ ] Otázka 4 - Podklady
+- [x] Otázka 4 - Podklady
 - [x] Otázka 5 - Podklady
 - [x] Otázka 6 - Podklady
 - [ ] Otázka 7 - Podklady

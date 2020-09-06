@@ -6519,7 +6519,8 @@ finanční arbitráž- zákon o finančním arbitrovi
     -	formální pověření (např. zaměstnanec), nebo neformální: jakýkoli člověk (prosba podnikatele)
     -	rozsah zástupčího oprávnění je dán úměrně vzhledem ve vztahu k činnosti, jíž byl zástupce pověřen
     -	vnitřní omezení rozsahu zástupčího oprávnění nejsou vůči třetím osobám účinná
-    -	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují      -	odchylka u překročení rozsahu pověření -> překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
+    -	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují      
+    -	odchylka u překročení rozsahu pověření -> překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
     -	zástupce podnikatele má vůči podnikateli zákaz konkurence (§ 432) (týká se asi i smluvních zástupců)
 
 - **zákonné zastoupení zapsaným vedoucím odštěpného závodu**
@@ -6530,7 +6531,7 @@ finanční arbitráž- zákon o finančním arbitrovi
 
 - **jednání nepověřené osoby v provozovně podnikatele**
   -	§ 430 (2) OZ – podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna
-  -	jednající osoba – nepřikázané jednatelství
+  -	jednající osoba – nepřikázané jednatelství - může být náhrada škody
   -	při jednáních, k nimž obvykle dochází při činnosti, ohledně níž se taková osoba třetí osobě jeví, že k ní byla podnikatelem pověřena, pokud k jednání došlo v provozovně podnikatele (např.: Vrchní, prchni!)
 
 - **Podnikatel může rovněž udělit klasické zástupčí oprávnění**

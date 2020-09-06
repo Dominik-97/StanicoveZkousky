@@ -11,9 +11,9 @@
 - [x] Otázka 7
 - [x] Otázka 8
 - [x] Otázka 9
-- [ ] Otázka 10
-- [ ] Otázka 11
-- [ ] Otázka 12
+- [x] Otázka 10
+- [x] Otázka 11
+- [x] Otázka 12
 - [ ] Otázka 13
 - [ ] Otázka 14
 - [ ] Otázka 15
@@ -38,7 +38,7 @@
 - [ ] Otázka 1 - dist/Statnice.md
 - [ ] Otázka 2 - dist/Statnice.md
 - [ ] Otázka 3 - dist/Statnice.md
-- [ ] Otázka 4 - Podklady
+- [x] Otázka 4 - Podklady
 - [ ] Otázka 5 - Podklady
 - [ ] Otázka 6 - Podklady
 - [ ] Otázka 7 - Podklady
