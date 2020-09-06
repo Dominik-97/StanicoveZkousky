@@ -972,7 +972,9 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   - Nejdůležitější forma realizace právních norem.
   - Je nutná součinnost druhého subjektu.
   - **Jedná se o společenský vztah nejméně dvou konkrétně určených právních subjektů, upravený právními normami, v němž jsou jeho účastníci nositeli vzájemně spjatých subjektivních práv a povinností.**
-  - Vznikají bezprostředně (*ex lege*) - zřídka kdy, nebo na základě **právní skutečnosti** - častější případ.
+  - Vznikají bezprostředně (*ex lege*) - zřídka kdy (například zákonné zastoupení), nebo na základě **právní skutečnosti** - častější případ.
+    - Mohou samozřejmě vznikat i z rozhodnutí soudu - například určení otcovství - je tu právní vztah mezi otcem a dítětem
+    - Dalo by se říci, že ještě z jiných důvodů -> například nalezení a vznik povinnosti vyplatit nálezné (já bych to ale řadil pod zákonné)
   - Mají tři znaky:
     - **nejméně dva subjekty**, často pluralita subjektů
     - obsahem jsou práva & povinnosti
