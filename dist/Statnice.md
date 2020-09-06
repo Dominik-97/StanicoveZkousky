@@ -12353,20 +12353,159 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Charakteristika pracovní pozice
-- [ ] Výběr podřízených
-  - [ ] Požadavky na profil kandidáta
-  - [ ] Způsobilosti odborné a osobnostní
-  - [ ] Jak zajistit výběr správného kandidáta
-- [ ] Styly vedení podřízených
-  - [ ] Základní manažerské typy
-  - [ ] Situační vedení a jeho uplatňování
-  - [ ] Delegování
-  - [ ] Koučování a jejich správné upatňování
+- [x] Charakteristika pracovní pozice
+- [x] Výběr podřízených
+  - [x] Požadavky na profil kandidáta
+  - [x] Způsobilosti odborné a osobnostní
+  - [x] Jak zajistit výběr správného kandidáta
+- [x] Styly vedení podřízených
+  - [x] Základní manažerské typy
+  - [x] Situační vedení a jeho uplatňování
+  - [x] Delegování
+  - [x] Koučování a jejich správné upatňování
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Výběr podřízených**
+
+- **Proces získávání pracovníků**
+  - Hlavním předpokladem pro to, aby proces získávání pracovníků byl efektivním, je dobrá znalost pracovních míst a jejich povahy (analýza pracovních míst) a také předvídání vytváření či uvolňování nových pracovních míst.
+  - Tento proces je součástí personálního plánování.
+  - Vlastní proces získávání pracovníků je složen z několika kroků, které na sebe navazují
+  - Do procesu získávání pracovníků je vhodné zapojit **assessment centra** - jedná se o oddělení, která poskytují specifické formy výběrového řízení, zaměřeného šířeji, tedy například na základě řešení modelových situací etc.
+
+- **Samotný průběh procesu**
+1. Identifikace potřeby získávání pracovníků
+  - Základem tohoto jsou plány činností – zde personalisté spolupracují s liniovými manažery při odhadech počtu a kvalifikace pracovníků.
+
+2. Popis a specifikace obsazovaného pracovního místa
+  - Specifikace obsazovaného místa je potřeba znát, abychom věděli, koho oslovit a jakou kvalifikaci požadovat a jaké metody při výběru použít. Samozřejmě se podle nich řídí i potenciální uchazeči o toto pracovní místo – pomohou mu se rozhodnout, zda na tuto nabídku reagovat či nikoliv.
+
+3. Zvážení alternativ
+  - Máme několik možností, co udělat s volným pracovním místem (např. jej zrušit, anebo tuto práci rozdělit mezi několik dalších zaměstnanců, přesčasy, částečný úvazek, dočasný pracovní poměr, dohoda o provedení práce). A když zjistíme, že práce vyžaduje plný úvazek, pokračujeme v procesu získávání pracovníků.
+
+4. Výběr charakteristik popisu a specifikace pracovního místa, na kterých založíme získávání a pozdější výběr pracovníků
+  - Musíme vybrat takový popis a požadavky na pracovní místo, aby tento byl pro uchazeče reálným. Měl by obsahovat následující body popisu pracovního místa:
+    -	název pracovního místa, funkce v zaměstnání a místo výkonu práce;
+    -	typy pracovních úkolů a rozsah odpovědnosti;
+    -	možnosti vzdělávání, pracovní podmínky (pracovní prostředí a plat).
+  - Dále by měl obsahovat požadavky na pracovníka – potřebné vzdělání a kvalifikaci, dovednosti a pracovní zkušenosti, dále pak i charakteristiku osobnosti. Tyto požadavky by měly být roztřízeny na:
+    -	nezbytné (nemůžeme z nich slevit);
+    -	žádoucí (přispívají k lepšímu pracovnímu výkonu);
+    -	vítané (zvyšují využitelnost pracovníka v organizaci);
+    -	okrajové (nejsou nutné pro výkon práce).
+
+5. Identifikace potenciálních zdrojů uchazečů
+  - V této fázi se rozhodne o tom, zda se při získávání pracovníků zaměříme na zdroje vnitřní či vnější.
+
+6. Volba metod získávání pracovníků
+  - Tato volba metod závisí především na tom, jestli se rozhodneme získat pracovníky ze zdrojů vnitřních či vnějších. Musíme ale hlavně vycházet z toho, že je třeba dát na vědomí existenci volných pracovních míst v organizaci vhodným lidem a přesvědčit je, aby se o ně ucházeli.
+  - Nejčastěji používané metody získávaní pracovníků:
+    -	uchazeči se nabízejí sami;
+    -	doporučení současného pracovníka organizace;
+    -	přímé oslovení vyhlédnutého jedince;
+    -	vývěsky (v organizaci nebo mimo ni);
+    -	letáky vkládané do poštovních schránek;
+    -	inzerce ve sdělovacích prostředcích;
+    -	spolupráce organizace se vzdělávacími institucemi;
+    -	spolupráce s odbory a využívání  jejich informačního systému;
+    -	spolupráce se sdruženími odborníků, stavovskými organizacemi, vědeckými společnostmi apod. a využívání jejich informačních systémů;
+    -	spolupráce s úřady práce;
+    -	využívání služeb komerčních zprostředkovatelen;
+    -	využívání počítačových sítí (internetu).
+
+7. Volba dokumentů a informací požadovaných od uchazečů
+  - Dokumenty, které nejčastěji organizace požadují, jsou doklady o vzdělání a praxi, vyplněný speciální dotazník organizace a životopis, hodnocení a reference z předchozích zaměstnání, výpis z rejstříku trestů, vysvědčení o lékařské prohlídce a průvodní dopis, ve kterém uchazeč sdělí důvody svého zájmu o zaměstnání a to, co od zaměstnání a organizace očekává.
+
+8. Formulace nabídky zaměstnání
+  - Při jejím zpracování přihlížíme k tomu, zda pracovníky získáváme ze zdrojů vnitřních nebo vnějších, k obtížnosti získání daného typu pracovníků, k volbě informací a dokumentů od uchazečů požadovaných. Ale měla by zde najít i své místo nabídka organizace potenciálnímu uchazeči.
+  - Při zvažování obsahu nabídky musíme zvážit i formu, jakou bude podána, a její umístění (př. inzerát).
+
+9. Uveřejnění nabídky zaměstnání
+  - Musíme se rozhodnout kam (tisk, internet…) a na jak dlouho nabídku zaměstnání uveřejníme a období, po které necháme potenciální zájemce se rozhodnout o akceptování této nabídky.
+
+10. Shromažďování dokumentů a informací od uchazečů a jednání s nimi
+  - Také by v této fázi neměla chybět kontrola úplnosti požadovaných dokumentů a informací, a v případě nesrovnalostí, kontakt s uchazečem a jejich doplnění.
+
+11. Předvýběr na základě předložených dokumentů a informací
+  - Na základě uchazeči předložených dokumentů se vybírají ti, kteří splňují dané podmínky.
+  - Výsledkem předvýběru je zařazení uchazečů do tří skupin:  
+    -	velmi vhodní (musí být pozváni k pohovoru)
+    -	vhodní (není-li dostatek „velmi vhodných“, jsou k pohovoru pozváni)
+    -	nevhodní (zdvořilý odmítavý dopis za jejich zájem o práci v organizaci)
+  - V této fázi se uchazeči neporovnávají mezi sebou.
+
+12. Sestavení seznamu uchazečů, kteří by měli být pozváni k výběrovým procedurám
+  - Tento seznam by měl být zpracován abecedně, protože úkolem tohoto kroku také není hodnotit – pouze setřídit do skupin dle jednotlivých míst, o které mají uchazeči zájem.
+
+13. Časový plán výběru
+  - Je nutno stanovit, kolik kol bude mít výběrové řízení. Při větším počtu uchazečů se vyplatí požadovat dodání fotografií. Je to přehlednější.
+
+14. Rozvrh výběru
+  -	První kolo – seznámit se se všemi žádostmi o přijetí.
+  -	Druhé kolo – pozvěte všechny uchazeče, kteří splňují vaše kritéria. Všem uchazečům sdělte termín, do kterého budou vyrozuměni o výsledku řízení. Je možné vyhlásit, že budete ke konkrétnímu datu toho roku informovat jen vybrané uchazeče. Ten, kdo do tohoto termínu nebude vyrozuměn, v řízení neuspěl. Termín je nutno dodržet!
+  -	Třetí kolo – v případě potřeby omezte výběr na dva až tři nejlepší uchazeče (násobeno počtem míst, která potřebujete obsadit). Opět oznamte termín svého rozhodnutí.
+
+15. Vlastní pohovor
+- Mějte na mysli, že nic není dokonalé, tedy ani váš věhlasný „čich na lidi“. Proto se chovejte pokud možno pragmaticky. Zaveďte jasné kategorie: otázky – odpovědi – bodový systém – výsledek.
+- Napomáhejte svým přístupem k tomu, aby se atmosféra uvolnila. Lidé, kteří se přišli ucházet o místo, mohou být kvalitní, ale jejich výkon ovlivňuje přirozený strach či tréma. Každý je v podobné situaci více nebo méně nervózní.
+
+16. Výběr pracovníka a následná retence a rozvoj
+  - Výběr se provedlo podle stanovených kritérií a zhodnocení, jak je uchazeč splňuje:
+    - **KRITERIA VÝBĚRU LIDÍ - způsobilosti**
+      -	Odborné předpoklady
+        - Zde se jedná například i znalosti
+      -	Osobnostní předpoklady
+        - Literatura zde hodně používá například pojem soft skills
+        - Jedná se tedy o typologii člověka a na to navázané komunikační schopnosti, schopnosti vystupovat etc.
+      -	Charakterové a morální předpoklady
+      -	Dosavadní pracovní výsledky
+      -	Doporučení a reference
+
+- **Styly vedení podřízených**
+  - Jedná se o způsoby, jakým manažeři přistupují k vykonávání svých činností ve vztahu k podřízeným
+  - Nejklasičtějším modelem je model 4S:
+    - Exploativně autoritativní styl – komunikace shora dolů, žádná zpětná vazba, využívání strachu z trestu, důraz na metodu „biče“, rozhoduje manažer
+    -	Benevolentní autoritativní styl – komunikace shora dolů, malá zpětná vazba, využívání odměn, převaha metody „cukru“, rozhoduje manažer
+    -	Konzultativní styl – obousměrná komunikace, intenzivní zpětná vazba, rozhodnutí dělá manažer po konzultaci
+    -	Participativní styl – volná obousměrná komunikace, otevřenost ve zpětné vazbě, rozhodnutí jsou dělána skupinově
+  - Nadřazeným pojem je pak **manažerský typ**
+    - Manažer si zvolí nějaký typ a podle toho i způsob vedení podřízených - například zvolení autokratického typu a autoritativního stylu
+
+- **Základní manažerské typy**
+  - DEMOKRATICKÝ TYP - Umí přesně delegovat úkoly, umí motivovat, využívá mínění pracovního týmu, ovlivňuje zájem, iniciativu a spokojenost s prací. Vede spíše logickým přesvědčováním než přikazováním. Podrobně a stále informuje o perspektivách a variantách možných postupů.
+  - AUTOKRATICKÝ TYP - Soustřeďuje všechny pravomoci a dispozice ve svých rukou. Neposkytuje rady, neradí se – udělují příkazy Fluktuace podřízených, agresivita, apatičnost Žádná inovace
+  - LIBERÁLNÍ TYP - Neovlivňuje chod skupiny, pokud ano tak minimálně. Neprojevuje řídící autoritu, nekontroluje, nehodnotí. Pracovníci jsou nedisciplinovaní, mají časté konflikty s vedením. Pokud nemá tento vedoucí zástupce, dochází k rozpadu skupiny – malý pracovní efekt, oslabení
+
+- **Situační vedení**
+  - Situační vedení znamená ovlivňování druhých a jakýmkoliv směrem ve smyslu plnění úkolů - kolegů, nadřízených nebo podřízených, prostřednictvím tzv. stylů vedení.
+  - Pro volbu vhodného stylu vedení je bezpodmínečně třeba dodržet posloupnost uvažování ve třech krocích:
+    - 1.	definování konkrétního úkolu,
+    - 2.	stanovení úrovně připravenosti k plnění tohoto konkrétního úkolu,
+    - 3.	volba odpovídajícího stylu vedení.
+  - Rozlišujeme mezi popisem práce a konkrétním úkolem. Úkol je třeba si pro volbu správného stylu definovat opravdu co nejpřesněji. Pozicí je například účetní, konkrétním úkolem je vyřizování faktur od určitého zákazníka (u jiného může být jiný proces, tak i konkrétní úkole je jiný). Jiný příklad: Pozice je „svářeč“, konkrétním úkolem je sváření určité konkrétní sestavy dílů z určitého materiálu za určitých podmínek.
+  - Úroveň připravenosti k plnění konkrétního úkolu je dána naplněním šesti komponent úrovně připravenosti na straně ovlivňovaného: Znalostí, zkušeností a dovedností na straně tzv. schopnosti k plnění úkolu a dále přijetím úkolu, sebedůvěrou v plnění daného úkolu a motivací k plnění daného úkolu na straně tzv. ochoty k plnění úkolu.
+
+- **Uplatňování situačního vedení**
+  - Strany schopnosti a ochoty si můžeme představit jako zlomek, kde v čitateli jsou komponenty schopnosti a ve jmenovateli ochoty.  Pokud je naplnění některé komponenty na straně schopnosti či ochoty nižší nežli úplné, bere se tato komponenta jako nekompletní. Nekompletní komponenta na straně schopnosti nebo ochoty pak znamená, že ani celá strana schopnosti nebo ochoty není kompletní.  Navíc schopnost ovlivňuje ochotu a naopak (pokud mi něco dobře jde, věřím si v tom a budu to více chtít dělat, pokud mne něco bude motivovat, bavit, budu se to ochotněji učit atd.). Nastávají pak čtyři případy a jim odpovídají čtyři styly vedení: Neschopen a neochoten (styl I), neschopen a ochoten (styl II), schopen a neochoten (styl III) a schopen a ochoten (styl IV).
+  - Tyto čtyři styly vedení se nazývají
+    - I. direktiva,
+    - II. přesvědčování,
+    - III. participace (emoční podpora) a
+    - IV. delegování.
+  - Nezapomínejme, že styl vedení je vždy vztažen ke konkrétnímu úkolu, který má daný člověk plnit podle úrovně připravenosti jedince k plnění konkrétního daného úkolu. To znamená, že jednoho člověka můžeme ovlivňovat postupně podle různých úkolů různými styly, pokud se mění jeho připravenost k plnění těchto jednotlivých konkrétních úkolů.
+
+- **Delegování**
+  -  Delegování představuje sdílení či přenos povinností, a s tím souvisejících pravomocí a odpovědností, od nadřízeného, který má právo delegovat, na podřízeného zaměstnance. Delegování podporuje samostatnost pracovníků, rozvíjí jejich zodpovědnost a v neposlední řadě může mít pro pracovníka významnou motivační hodnotu.
+
+- **Koučování**
+  - **Definice 1)** Česká definice koučování charakterizuje koučink jako metodu užívanou „k taktnímu a ohleduplnému ovlivňování“.
+  - **Definice 2)** „koučování je kombinace individuálního poradenství, osobní zpětné vazby a prakticky orientovaného tréninku; účelem je dosahování profesního a osobnostního rozvoje.“
+  - **Definice 3)** Koučink je účinná moderní metoda rozvoje lidí a dosahování cílů. Je to interdisciplinární obor, který vychází z různých odborných směrů. Dotýká se psychologie, manažerského řízení, má systémové zdroje. Je syntézou prvků tréninku, osobního rozvoje, komunikace, poznávání a všechno dohromady pak tvoří koučování. Je to partnerství s klientem v originálním tvůrčím procesu. Cílem koučinku je usnadnit klientovi práci, pomoci mu s řešením složitých situací a podpořit jeho úspěch. Kouč pomáhá nastavit cíl, objevit skutečnou motivaci a stanovit efektivní cestu k dosažení cíle. Koučink učí člověka najít svou vlastní cestu podle toho, co sám chce, a objevovat zdroje v sobě. Koučink vychází z vědeckého poznání o vývoji a fungování lidského mozku, pracuje s potenciálem klienta a jeho skrytými schopnostmi. Pomáhá překonávat osobní bariéry a různé formy strachu, které nám brání dosáhnout toho, o čem sníme.
+  - **Definice 4)** Koučink je partnerství, jehož posláním je definování konkrétního cíle a vytvoření struktury, podpory a optimálního motivačního prostředí za účelem dosažení tohoto vytčeného cíle.
+  - **Definice 5)** Koučování (též koučing nebo koučink) je metoda poradenství a školení, pro niž je charakteristické, že trenér (kouč) nedává pevné rady a doporučení, ale hledá řešení společně s klientem. Termín pochází z anglického slovesa coach (trénovat, vést).
 
 ----
 :::
