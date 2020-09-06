@@ -12335,9 +12335,58 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Role manažera v organizaci
+- [x] Organizační vztahy a vazby
+- [x] Klíčové odpovědnosti při vedení lidí a řízení podřízených a jejich uplatňování
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- **Role manažera v organizaci**
+  -	definují cíle organizace i jejích částí
+  -	řídí činnosti nutné k dosažení cílů organizace
+  -	pracují s rizikem
+  -	odpovídají za výsledky řízené části organizace
+  -	vytvářejí organizační strukturu organizace
+  -	pracují s lidmi a prostřednictvím lidí
+
+- Obecně mají tedy role:
+  -	Interpersonální
+    -	představitel organizace
+    -	vůdce
+    -	spojovací článek
+  -	Informační
+    -	příjemce informací
+    -	šiřitel
+    -	mluvčí organizace
+  -	Rozhodovací
+    -	podnikatelská
+    -	řešení problémů
+    -	alokace zdrojů
+    -	vyjednavač
+  -	Administrativní role
+    -	administrátor
+    -	správce rozpočtu
+    -	kontrolor
+
+- **Organizační vztahy a vazby**
+  - Jedná se o organizační strukturu společnosti a vztahy v rámci této organizační struktury
+  - Organizační struktura (anglicky Organizational Structure) je hierarchické uspořádání vztahů mezi jednotlivými pracovními místy v rámci organizačních útvarů a vztahů mezi útvary v rámci organizace. Zahrnuje vztahy nadřízenosti a podřízenosti a řeší vzájemné pravomoci (kompetence), vazby a odpovědnost. Je nezbytná pro řízení většího počtu lidí a proto se bez organizační struktury neobejde žádná organizace, protože nastavuje komunikační pravidla a tím sjednocuje jednotlivé podnikové činnosti, procesy a lidi a formalizuje jejich vztahy za účelem dosažení společných cílů organizace.
+  - Neexistuje nic jako optimální organizační struktura. Existují jen organizační struktury, které fungují v konkrétních podmínkách konkrétních organizací - tedy optimálně využívají schopností a styl řízení konkrétních manažerů a ostatních pracovníků k dosažení cílů organizace.
+
+- **Organizační struktura v praxi**
+  - Organizační struktura bývá zachycena (oficiálně kodifikována) ve směrnicích a pracovních náplních, ze kterých plynou vazby nadřízenosti, podřízenosti, pravomoc a odpovědnosti jednotlivých lidí nebo pracovních pozic, na kterých lidé pracují. To je důležité pro řízení lidí, rozhodování a schvalování. Schvalovací workflow musí vyplývat z pravomocí a tedy i z organizační struktury. Stejně tak z ní vyplývá i oprávnění jednotlivých lidí v konkrétních procesech.
+  - Kromě těchto oficiálních vazeb existují přirozeně v každé organizaci také neformální vazby a vliv jednotlivých lidí, který jde nad rámec té formální organizační struktury. Čím více jsou organizace orientovány autokraticky, tím je více rozhodující ta formální organizační struktura a naopak ve více demokratických a pružných firmách převládá neformální vliv. I u nich musí být ale jasně nastavené organizační principy, protože z nich plynou právní či finanční odpovědnosti a to se pouze neformálně řešit nedá.
+
+- **Existuje spoustu druhů organizační struktury**
+  - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Organizacni_struktura.png)
+
+- **Klíčové odpovědnosti při vedení lidí a řízení podřízených a jejich uplatňování**
+  - Manažer je jako řídící osoba odpovědná za naplňování cílů
+  - Jeho klíčové odpovědnosti tedy spočívají ve správném řízení, které vede k naplňování jednotlivých cílů organizace
+  - Odpovědnosti tedy má například, za svojí správně odvedenou práci, za správné řízení lidí, za správné předávání informací atd.
+  - Správné plnění povinností manažera, z kterých vyplývá i jeho odpovědnost -> cesta k úspěchu dáné části podniku, pro kterou je manažer přiřazen
 
 ----
 :::
