@@ -914,10 +914,12 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
       - Závazky z deliktů
         - **náhrada majetkové a nemajetkové újmy**
         - **zenužití a omezení soutěže**
-      - Závazky z jiných právních důvodů
+      - Závazky z jiných právních důvodů - zde lze o to, že delikt je vždy deliktem - tedy porušením nějaké povinnosti, jiné právní důvody nemusí být přímo porušením povinnosti jako takové, ale jednáním osoby v rámci nich stejně může vznikat škoda - škoda tedy může vzniknout i bez nutné existence deliktu
         - **bezdůvodné obohacení**
         - **nepřikázané jednatelství**
+          - vmísí-li se někdo do záležitostí jiného bez jeho souhlasu -> pokud z jednání nemá zastupovaná osoba užitek -> může po nepřikázaném jednateli požadovat, aby vše uvedl do předešlého stavu, a není-li to dobře možné, aby nahradil škodu.
         - **upotřebení cizí věci ku prospěchu jiného**
+          - Upotřebí-li někdo cizí věc k prospěchu jiného, aniž má úmysl obstarat cizí záležitost, a není-li dobře možné domoci se vydání této věci, může vlastník věci po něm požadovat náhradu hodnoty, kterou věc měla v době upotřebení, a to i tehdy, nebylo-li prospěchu dosaženo.
     - **Dle toho, co je obsahem vztahu, na základě kterého byla založena odpovědnost lze rozlišovat odpovědnosti na:**
       - **odpovědnost za škodu** - vznik nové povinnosti, kterou povinný před jejím vznikem neměl
       - **odpovědnost za prodlení** - přistoupení nově vzniklé povinnosti k předchozí povinnosti, kterou povinný měl
@@ -970,7 +972,9 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
   - Nejdůležitější forma realizace právních norem.
   - Je nutná součinnost druhého subjektu.
   - **Jedná se o společenský vztah nejméně dvou konkrétně určených právních subjektů, upravený právními normami, v němž jsou jeho účastníci nositeli vzájemně spjatých subjektivních práv a povinností.**
-  - Vznikají bezprostředně (*ex lege*) - zřídka kdy, nebo na základě **právní skutečnosti** - častější případ.
+  - Vznikají bezprostředně (*ex lege*) - zřídka kdy (například zákonné zastoupení), nebo na základě **právní skutečnosti** - častější případ.
+    - Mohou samozřejmě vznikat i z rozhodnutí soudu - například určení otcovství - je tu právní vztah mezi otcem a dítětem
+    - Dalo by se říci, že ještě z jiných důvodů -> například nalezení a vznik povinnosti vyplatit nálezné (já bych to ale řadil pod zákonné)
   - Mají tři znaky:
     - **nejméně dva subjekty**, často pluralita subjektů
     - obsahem jsou práva & povinnosti
@@ -1143,6 +1147,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 
 - **Promlčení**
   - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+    - Respektive jedná se o právní skutečnost, která je složena z několika dílčích právních skutečností - u promlčení - marné uplynutí lhůty + právní jednání vznesení námitky
   - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
   - **Počátek běhu lhůty** = den dospělosti práva = například dlužník měl dnes splnit, nesplnit -> zítra můžu žalovat, pokud nebudu žalovat -> promlčení
     - lhůta se samozřejmě může stavět a přetrhnout
@@ -1568,26 +1573,26 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
         - podávaá soudu zprávy o vyúčtování ze zprávy jmění
         - má právo na přiměřenou odměnu z výnosu jmění dítěte (výši určí soud)
 - **Výživné**
-      - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
-      - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
-      - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
-      - na frekvenci je možné se dohodnout
-      - **Přiznání výživného soudem**
-        - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
-        - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
-        - výživné lze přizna až 3 roky zpětně
-        - při podstatné změně okolností může povinný žádat novou úpravu výživného
-      - **Vyživovací povinnost**
-        - mají mezi sebou předci a potomci
-        - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
-        - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
-      - **soud zkoumá okolnosti**
-        - jak na straně oprávněného, tak povinného
-        - za jistých okolností nemá například nárok - odmítl zaměstnání
-      - životní úroveň rodičů a dítěte má být zásadně shodná
-      - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
-      - dítě je povino rodičům zajistit slušnou výživu
-      - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
+  - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
+  - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
+  - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
+  - na frekvenci je možné se dohodnout
+  - **Přiznání výživného soudem**
+    - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
+    - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
+    - výživné lze přizna až 3 roky zpětně
+    - při podstatné změně okolností může povinný žádat novou úpravu výživného
+  - **Vyživovací povinnost**
+    - mají mezi sebou předci a potomci
+    - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
+    - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
+  - **soud zkoumá okolnosti**
+    - jak na straně oprávněného, tak povinného
+    - za jistých okolností nemá například nárok - odmítl zaměstnání
+  - životní úroveň rodičů a dítěte má být zásadně shodná
+  - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
+  - dítě je povino rodičům zajistit slušnou výživu
+  - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -1619,7 +1624,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají**
+- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají** (držba, vlastnictví, věcná práva k věci cizí)
   - Věcná práva umožňují úplné nebo částečné právní panství nad určitou hmotnou i nehmotnou věcí.
   - Postavení oprávněné osoby vylučuje kohokoliv jiného z právního působení na věc jím ovládanou, v případě porušení tohoto práva má právní nárok na ochranu před takovým jednáním.
   - Působí *erga omnes*, jedná se o práva jednoho individuálně určeného subjektu vůči mnoha neurčeným subjektům.
@@ -1905,7 +1910,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
       - služebnosti - povinnost nekonat
         - pozemkové - například právo pastvy
         - osobní - například požívací a užívací právo
-      - reálná břemena - povinnost konat
+      - reálná břemena - povinnost konat - například **výměnek**
   - Věcná práva k věci cizí obligačně právní povahy
     - zástavní právo
     - zadržovací právo - pokud dlužník nesplácí svojí pohledávku
@@ -2378,7 +2383,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
         - 2- v případech v souladu se zákonem
         - **Změna okolností**
           - Změna okolností na smlouvě nic nemění, pokud se nejedná o **podstatnou změnu okolností** (podstatné je, aby vznikl hrubý nepoměr mezi plněními) -> pokud na sebe strana nevzala riziko změny okolností
-            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud (subjektivní lhůta k podání 2 měsíce)
+            - V takovém případě je možné domáhat se **renegociace**, pokud se strany nedohodnout -> ná návrh může rozhodnout soud - změnit, nebo zrušit (subjektivní lhůta k podání 2 měsíce)
       - Je možné ujednat si zákaz zatížení, nebo zcizení -> působí **inter partes**, pokud není ujednáno jako **věcné právo**
       - **Smlouva ve prospěch třetí osoby**
         - Je možné ujednat plnění ve prospěch třetí osoby -> ta musí právo přijmout, pokud nepřijme, může věřitel požadovat plnění pro sebe pokud to neodporuje obashu a účelu smlouvy
@@ -4396,55 +4401,58 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
     - (2) Nepodá-li dopravce zprávu o škodě bez zbytečného odkladu, nahradí odesílateli, nebo příjemci škodu tím způsobenou.
   - § 2569
     -	Není-li právo na náhradu škody u dopravce uplatněno do šesti měsíců ode dne převzetí zásilky, anebo nebyla-li zásilka převzata, do šesti měsíců ode dne, kdy měla být doručena, soud je nepřizná, namítne-li dopravce, že právo bylo uplatněno opožděně.
-- 	§ 2570Svépomocný prodej
-- 	Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
-- 	§ 2571
-- 	(1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
-- 	(2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
-Náložný list
-- 	§ 2572
-- 	(1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
-- 	(2) Náložný list obsahuje alespoň
-- 	a) jméno dopravce a jeho bydliště nebo sídlo,
-- 	b) jméno odesílatele a jeho bydliště nebo sídlo,
-- 	c) označení, množství, váhu nebo objem přepravovaných věcí,
-- 	d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
-- 	e) údaj o místě určení a
-- 	f) místo a den vydání náložného listu a dopravcův podpis.
-- 	(3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
-- 	§ 2573
-- 	Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
-- 	§ 2574
-- 	Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
-- 	§ 2575
-- 	Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
-- 	§ 2576
-- 	Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
-- 	§ 2577
-- 	(1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
-- 	(2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
-Společná ustanovení o přepravě osob a věcí
-- 	§ 2578
-- 	Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
-- 	§ 2579
-- 	Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
-- 	§ 2580
-- 	(1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
-- 	(2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
-- 	(3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
-- 	§ 2581
-- 	(1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
-- 	(2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
-Provoz dopravního prostředku
-- 	§ 2582
-- 	Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
-- 	§ 2583
-- 	(1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
-- 	(2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
-- 	§ 2584
-- 	Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
-- 	§ 2585
-Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředk
+  -	§ 2570 Svépomocný prodej
+    -	Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
+  -	§ 2571
+    - (1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
+    - (2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
+
+- **Náložný list**
+  -	§ 2572
+    -	(1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
+    -	(2) Náložný list obsahuje alespoň
+      -	a) jméno dopravce a jeho bydliště nebo sídlo,
+      - b) jméno odesílatele a jeho bydliště nebo sídlo,
+      - c) označení, množství, váhu nebo objem přepravovaných věcí,
+      - d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
+      - e) údaj o místě určení a
+      - f) místo a den vydání náložného listu a dopravcův podpis.
+    - (3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
+  - § 2573
+    -	Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
+  -	§ 2574
+    -	Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
+  - § 2575
+    -	Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
+  - § 2576
+    -	Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
+  - § 2577
+    -	(1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
+    - (2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
+
+- **Společná ustanovení o přepravě osob a věcí**
+  -	§ 2578
+    -	Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
+  - § 2579
+    -	Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
+  - § 2580
+    -	(1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
+    - (2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
+    - (3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
+  - § 2581
+    -	(1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
+    - (2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
+
+- **Provoz dopravního prostředku**
+  -	§ 2582
+    -	Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
+  - § 2583
+    -	(1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
+    - (2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
+  - § 2584
+    -	Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
+  - § 2585
+    - Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředk
 
 
 \|--------------------------------------\| <br>
@@ -4472,7 +4480,8 @@ Přejímá-li provozce k přepravě náklad, použije se pro určení práv a po
 \| Paragrafy \| <br>
 \|--------------\| <br>
 
-24.Závazky ze zaopatřovacích a odvážných smluv.
+
+- **Závazky ze zaopatřovacích a odvážných smluv.**
 
  Důchod
  -  §2701 an. OZ - smlouvou o důchodu se plátce zavazuje platit příjemci pravidelné peněžní dávky (důchod)
@@ -4981,7 +4990,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
    doplněna předložením originálu do 3 dnů)
 - hmotněprávní jednání účastníka (výpověď plné moci, uznání nároku) vůči ostatním účinné od okamžiku, kdy se o něm dozvěděli, §41(3)
 
-1. procesní úkony soudu - úkony soudu v průběhu řízení
+1. **procesní úkony soudu - úkony soudu v průběhu řízení**
 - forma: soudní rozhodnutí (rozsudek, usnesení, platební rozkaz)
               opatření soudu (zajištění průběhu jednání, např. pořádková opatření při jednání)
 -  např. provádění důkazů (prov. d. nelze měnit nebo prohlásit za neplatný, pokud z. nestanoví jinak)
@@ -5004,7 +5013,8 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
  - když se předvolaná osoba bez omluvy nedostaví => může být předvedena policií, dostat pořádkovou
   pokutu až 50 000 Kč (je přípustné odvolání – může mu vyhovět soud I. stupně = autoremedura)
  - dalším pořádkovým opatřením je vykázání z místa, kde se jedná, pro rušení jednání
-2. procesní úkony účastníků - směřují vždy vůči soudu, jinak neúčinné
+
+2. **procesní úkony účastníků - směřují vždy vůči soudu, jinak neúčinné**
 - forma: písemná (listinná či elektronická podoba) X ústní do protokolu X telegraficky/faxem
  - nutno dodat urč. počet stejnopisů (soudu + všem účastníkům), u el. podoby se to nevyžaduje
  - telefax a el. podání => nutné doplnění originálu (s vlastnoručním podpisem) do 3. dnů, v případě tzv.
@@ -5012,7 +5022,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
 - musí být přípustný, bez podmínek, výslovný, možné jej odvolat
 - obsah: obecné náležitosti - označení soudu, kterému je určen; kdo je činí; které věci se týká; co sleduje (návrh, petit), podpis a datace + zvláštní náležitosti (IČO)
 
-*	časová určení procesních úkonů:
+*	**časová určení procesních úkonů:**
 - procesní roky = určení času a místa, kdy a kde se koná jednání, stanoví soud, prakticky nepoužíváno
 - procesní lhůty = časové úseky určené pro procesní úkony účastníků, soud výjimečně (7 dní na rozhodnutí o předběžném opatření, 30 dní pro odeslání pís. Vyhotovení rozsudku,…)
     a) zákonné – určené zákonem; př. lhůta pro odvolání/ podání odporu
@@ -5100,25 +5110,21 @@ DODĚLAT
   - Dokazování probíhá při ústním jednání, ve sporném řízení je možné navrhovat nové důkazy pouze do jeho skončení.
   - U SŘ platí neúplná apelace při odvolání - není možné přinášet nové důkazy po skončení dokazování, jsou však zákonné výjimky.
 
-Řízení sporné a nesporné
+VEDLEJŠÍ
+- DRUHY: Řízení sporné a nesporné
+- TYPY: Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+  - Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
 
-Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+- **Jiné vedlejší termíny**
+  - Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
+  - Usnesení a rozhodnutí ve věci samé.
+  - Odvolání do 15 dnů.
+  - Odročení.
+  - Instance
+  - Úplná a neúplná apelace
+VEDLEJŠÍ
 
-Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
-
-Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
-
-Usnesení a rozhodnutí ve věci samé.
-
-Odvolání do 15 dnů.
-
-Odročení.
-
-Instance
-
-Úplná a neúplná apelace
-
-A38. Průběh řízení obecně
+- **Průběh řízení obecně**
 - zahájení řízení (+ účinky) - sporné řízení se zahajuje na návrh (žalobou) dnem, kdy soudu žaloba došla/ dnem sepsání protokolu o ústním jednání, nesmí mít vady (odmítnutí)
 *	procesněprávní účinky:
 - vznik procesněprávního vztahu mezi žalobcem a soudem
@@ -5133,7 +5139,7 @@ A38. Průběh řízení obecně
 - po zahájení řízení -> přidělení věci soudci (senátu) -> postupuje ex offo bez dalších návrhů, aby věc byla co nejrychleji projednána a rozhodnuta a spor pokud možno vyřešit smírem
 - než se soud pustí do věci samé: zkoumá procesní podmínky; chybí- li náležitost, neurčitá, nesrozumitelná - vyzve účastníky k opravení/doplnění žaloby => příprava jednání => jednání => rozhodnutí, pr. moc, vykonatelnost
 
- A39. Příprava jednání
+- **Příprava jednání**
 - po zahájení řízení (okamžikem, kdy návrh dojde na podatelnu)
 *	soud postupuje tak, aby věc byla co nejrychleji projednána a rozhodnuta
 *	dohlíží na splnění procesních podmínek a odstranění vad v žalobě
@@ -5145,9 +5151,6 @@ A38. Průběh řízení obecně
 -	nedodržení – pořádková pokuta, moc se nevyužívá
 -	na vyjádření žalovaného může znovu reagovat žalobce = replika, případná další odpověď
     žalovaného = duplika
-
-
-
 2. tzv. kvalifikovaná výzva dle §114 b
 -	namísto klasické výzvy (vyžaduje-li to povaha věci) nebo nereagoval-li na ni
 -	žalovanému je uloženo, aby se vyjádřil, vylíčil rozhodné skutečnosti a připojil listinné důkazy
@@ -5176,7 +5179,8 @@ o	lze nařídit 1. setkání s mediátorem
 i.	žalovaný – vydání rozsudku pro uznání (meritorní rozhodnutí => překážka rei iudicata)
 ii.	žalobce – zastavení řízení (není to rozhodnutí ve věci => nevzniká překážka věci
                rozhodnuté
-A40. Jednání
+
+- **Jednání**
 - jednání = jádro civil. procesu; zasedání soudu v jeho zákonném složení k projednání věci samé
 - usnesením jej nařizuje předseda senátu a předvolávají se k němu všichni účastníci najednou
    => předvolání min. 10 dnů před konáním (§115)
@@ -5184,7 +5188,7 @@ A40. Jednání
    => ale veřejnost může být vyloučena (na celé jednání/ jeho část)
 - 	o neveřejnosti rozhoduje soudce => např. utajované skutečnosti, obchodní tajemství, mladiství,
                                                           mravnost, vážný zájem
-- 	veřejnost je také vyloučena při poradě senátu
+- veřejnost je také vyloučena při poradě senátu
 + jednotlivce lze vykázat, aniž by byl porušen princip veřejnosti (nevhodné chování, nezletilé osoby)
 - úkony, při nichž soud jedná s účastníky se zaznamenávají (zvuk/obraz. záznam, spis v listinné/ el. podobě)
 - předseda senátu – nařizuje, zahajuje, řídí, končí, jednání; vyzývá k vyjádření, provádí dokazování
@@ -5196,9 +5200,10 @@ A40. Jednání
        => provedení důkazů za přítomnosti úč. => shrnutí návrhů a vyjádření účastníků
        => senátní porada/přestávka samosoudce, odročení jen ze závažných důvodů
 - rozsudek se zpravidla vyhlašuje hned po skončení jednání (možno odročit max. na 10 dnů)
-- v průběhu jednání se účastníkům poskytuje procesní poučení                                                                   - účastníci mají právo během jednání konzultovat s podpůrcem, poradcem
+- v průběhu jednání se účastníkům poskytuje procesní poučení                                                                   
+- účastníci mají právo během jednání konzultovat s podpůrcem, poradcem
 
-A33. Dokazování obecně
+- **Dokazování obecně**
 - činnost účastníků i soudu, účelem je zjištění skut. stavu, rozhodování soudu opřeno o zjištěné poznatky
  a) právní poznatky = znalost objekt. práva, kt. se právní poměry spravují, platí iura novit curia; právní kvalifikace (zda skutečnosti odpovídají hypotéze); studiem a odbornou přípravou
 b) skutkové poznatky = poznatky o konkrétních individuálních skutečnostech, na nichž se zakládají a z nichž plynou uplatňované nároky; získávají se procesním dokazováním a studiem a od. přípravou (obecné vědomosti – mimoprocesně)
@@ -5253,7 +5258,7 @@ c) předpisy uveřejněné nebo oznámené ve Sb.z. ČR, (NE cizí právo, obecn
 	- non liquet (není jasno) – situace, kde není prokázána rozhodná skutečnost
 - 	osvědčení (zdůvodnění) – skutečnost nemusí být dokázána, aby soud o ní byl bezpečně přesvědčen, stačí, jeví-li se vzhledem k okolnostem pravděpodobná; např. u předběžného opatření
 
-A34. Důkazní prostředky
+- **Důkazní prostředky**
 - důkaz = ve dvou smyslech: a) důkazní prostředek b) výsledek dokazování
 - důkazní prostředky = všechny prostředky, jimiž lze zjistit stav věci
 - nejčastější d. prostředky: výslech svědků, účastníků, znalecký posudek, zprávy a vyjádření orgánů, FO a PO, notářské a exekutorské zápisy a jiné listiny, pásky, audio(vizuální) záznam, fotografie, aj. (výčet není taxativní, dle judikatury lze užít i to, co naše právo nezná)
@@ -5339,7 +5344,7 @@ A34. Důkazní prostředky
     - **řádné** (s odkladným účinkem) - odvolání, odpor
     - **mimořádné** (bez odkladného účinku) - **dovolání** - může podat pouze advokát, odvolací soud přezkoumá rozhodnutí, **žaloba na obnovu řízení** - například v případech, že se objeví nové skutečnosti, či důkazy, **žaloba pro zmatečnost** - v případě, že soudní řízení neproběhlo v souladu se zákonem.
 
-    A42. Soudní rozhodnutí obecně, formy rozhodnutí
+- **Soudní rozhodnutí obecně, formy rozhodnutí**
 = výrok soudu, který má závazné právní důsledky stanovené objektivním právem
 *	rysy:
 - 	autoritativnost - donucovací funkce
@@ -5377,7 +5382,8 @@ b)	procesní
      - odstranění jeho účinků => včas podaný odpor (směnečný a šekový – námitky)
   4. opatření soudu
   - nejde o zvl. formu rozhodnutí, spíše označení aktivity soudu směřující k zajištění řádného průběhu říz.
-*	fáze rozhodování:
+
+*	**fáze rozhodování:**
    I. vynesení rozhodnutí - stanovení obsahu výroku
    II. vyhlášení rozhodnutí - sdělení rozsudku, usnesení při jednání účastníkům                                                           
                                           - vždy veřejně a jménem republiky
@@ -5390,16 +5396,18 @@ b)	procesní
          - stejnopis, všechny rozsudky do vlastních rukou, odeslání do 30 dnů od vyhlášení (lze až 60)
          - platební rozkaz bez možnosti náhradního dor. (nemožnost doručení => zrušení rozkazu soudem)
 - doručení + vyhlášení = sdělení rozhodnutí
-*	vázanost soudu:
+
+*	**vázanost soudu:**
    - u rozsudku - od vyhlášení
    - u usnesení - od vyhlášení, pokud se nevyhlašuje tak od doručení, pokud se nedoručuje, od vyhotovení
-*	doplnění rozhodnutí:
+
+*	**doplnění rozhodnutí:**
    - aniž by byl měněn obsah rozhodnutí – písemné nesprávnosti, oprava odůvodnění
                                                                  - jen na návrh účastníků
    - doplňující rozhodnutí - jestliže původní rozhodnutí neobsahuje některý z výroků, kt. obsahovat mělo
                                          - na návrh i z úřední povinnosti
 
-A43. Rozsudek, druhy rozsudků
+- **Rozsudek, druhy rozsudků**
 - rozsudkem musí být rozhodnuto o celé projednávané věci (vyhověno, zamítnuto, částečně vyhověno a částečně nevyhověno)
 - výjimky:
 a) rozsudek částečný - výrok pouze o části předmětu nebo ohledně některých ze společníků
@@ -5441,7 +5449,7 @@ c) mezitímní
    a) r. pro uznání - opírá se o uznání nároku žalovaným
    b) r. pro zmeškání - opírá se o zmeškání jednání žalovaným (bez omluvy)
 
-A44. Zkrácené (rozkazní) řízení
+- **Zkrácené (rozkazní) řízení**
 - zjednodušené řízení soudu, bez nařízení jednání/ dokazování/ slyšení žalovaného
 *	opírá se jen o tvrzení a skutečnosti, které tvrdí žalobce v žalobě
 - ochrana žalovaného = po rozhodnutí
@@ -5480,7 +5488,7 @@ D. směnečný a šekový plat.r.
 ­	na NÁVRH žalobce, který předloží směnku nebo šek, vydá soud směnečný (šek.) plat. rozkaz
 => aby žalovaný do 15 dnů zaplatil pohledávku + náklady říz./v téže lhůtě podal odůvodněné námitky (rozkaz se neruší, nařídí se jednání, námitky se projednají, výsledkem je rozsudek o platnosti/zrušení plat. rozkazu)
 
-A45. Právní moc rozhodnutí
+- **Právní moc rozhodnutí**
 - jeden z účinků soudního rozhodnutí (spolu s vykonatelností)
      = dodatečně nabytá vlastnost rozhodnutí při splnění určitých podmínek
 -	2 aspekty:
@@ -5513,7 +5521,7 @@ II.	nezměnitelnost (negativní stránka) §159a (4)
 - relativní právní moc – rozhodnutí je pravomocné pouze vůči účastníku, kterému lhůta pro podání odvolání uplynula
 - objektivní právní moc – lhůta pro podání odvolání uplynula všem účastníkům
 
-A46. Vykonatelnost rozhodnutí
+- **Vykonatelnost rozhodnutí**
 = vynutitelnost rozhodnutí prostř. státní moci (soudní výkon rozh.) nebo pod její kontrolou (exekuce)
 - jeden z účinků soudního rozhodnutí (spolu s právní mocí)
      = dodatečně nabytá vlastnost rozhodnutí při splnění určitých podmínek
@@ -5544,7 +5552,7 @@ b) fakultativní – stanoví soud, hrozí-li účastníku nebezpečí těžko n
 - u předběžně vykonatelných rozsudků, kt. byly změněny nebo zrušeny odvolacím soudem se plnění vrací jako bezdůvodné obohacení
 - odklad vykonatelnosti: jen na návrh u mimořádných opr. prostředků, odkládá se vykonatelnost, kt. již nastala/bylo pravomocně rozhodnuto; smyslem je, aby se zbytečně nezvyšovala plněná částka, kterou bude třeba vracet, pokud bude opravný prostředek důvodný
 
-A53. Opravné systémy a soustava opravných prostředků
+- **Opravné systémy a soustava opravných prostředků**
 - nelze vyloučit pochybení při rozhodování (procesní vada/ vada ve skutkovém zjištění/ jiné vady např.
   zkomolení jména,…)
 - přezkoumání je v zájmu jednotlivců i v zájmu veřejném, protože cílem soud. řízení je rozhodnutí věcně
@@ -5592,7 +5600,7 @@ c) způsobu rozhodování opravného soudu
 - rozhodnutí => potvrdí nebo zruší nebo změní
 - dovolání
 
-A54. Odvolání obecně: přípustnost, účinky, odvolací důvody
+- **Odvolání obecně: přípustnost, účinky, odvolací důvody**
 - jediný řádný opravný prostředek => lze použít, pokud to zákon nevylučuje (§ 201 a násl.)
 - lze jím napadnout rozhodnutí 1. stupně (rozsudek i usnesení; platební rozkaz NE)
 - má suspenzivní (odkladný) i devolutivní účinek (KS, VS)
@@ -5655,7 +5663,7 @@ o	zpětvzetí odvolání
    - má-li jimi být zpochybněna věrohodnost důkazních prostředků, na kterých spočívá rozhodnutí soudu
 - 	tzv. štěpení práva – výrok rozhodnutí, který obsahuje dělitelné plnění, vycházející z jednoho skutkového základu; podle jednoho názoru podáním odvolání, které nenapadá výrok v celém rozsahu, nemůže dojít ke štěpení práva na část napadenou a část nenapadenou; podle soudní praxe odpovídá dispoziční zásadě přiznat podanému odvolání účinek rozštěpení práva
 
-A55. Odvolací řízení a rozhodnutí o odvolání
+- **Odvolací řízení a rozhodnutí o odvolání**
 - platí OSŘ o řízení v 1. stupni
    => jedná se o pokračování řízení nalézacího, ale má svá zvláštní pravidla, proto platí pouze přiměřeně
      (např. vyloučeno přistoupení a záměna účastníků, vzájemný návrh a námitka započtení, klid řízení,…)
@@ -6012,23 +6020,23 @@ Věřitelské orgány v insolvenčním řízení
 X Účastníci řízení dlužník, věřitelé, kteří uplatňují své nároky vůči dlužníku, insolvenční správce, státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, likvidátor dlužníka
 
 - **SUBJEKTY INSOLVENČNÍHO ŘÍZENÍ**
-1)INSOLVENČNÍ SOUD
-věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
-rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
-dvojí funkci:
-vydává rozhodnutí (např. prohlášení konkurzu, schválení konečné zprávy) a provádí předepsaná jednání (např. přezkumné jednání)   
-různé činnosti mezi uvedenými dvěma – tzv. činnost dohlédací (zajištění průběhu řízení, dozor nad činností jiných subjektů
-účastníci řízení
-2) Dlužník – ten, proti němuž směřuje insolvenční návrh; FO či PO, podnikatel či nepodnikatel
-Věřitelé, kteří uplatňují své nároky vůči dlužníku a jejich orgány
-vedlejší účastenství není v insolvenčním řízení přípustné viz §14 IZ
-v incidenčních sporech ale přípustné je § 16 IZ                        
-Nejde-li o přihlášené věřitele § 15, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje
-3) Insolvenční správce (popřípadě další správce) – nejde o zástupce kohokoliv z účastníků
-ustanovuje se ze seznamu insolvenčních správců, který vede MS
-Podrobnější úprava v zákoně o insolvenčních správcích; postupuje s odbornou péčí, za škodu odpovídá podle obecných ustanovení o odp. za škodu, má nárok na odměnu a náhradu výdajů
-4) Státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu – může podat opravný prostředek proti rozhodnutí insolvenčního soudu, jen mají-li toto právo všichni účastníci řízení.
-5) Likvidátor dlužníka – vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi
+  - 1)INSOLVENČNÍ SOUD
+    - věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
+    - rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
+    - dvojí funkci:
+      - vydává rozhodnutí (např. prohlášení konkurzu, schválení konečné zprávy) a provádí předepsaná jednání (např. přezkumné jednání)   
+      - různé činnosti mezi uvedenými dvěma – tzv. činnost dohlédací (zajištění průběhu řízení, dozor nad činností jiných subjektů
+- **účastníci řízení**
+  - 2) Dlužník – ten, proti němuž směřuje insolvenční návrh; FO či PO, podnikatel či nepodnikatel
+    - Věřitelé, kteří uplatňují své nároky vůči dlužníku a jejich orgány
+    - vedlejší účastenství není v insolvenčním řízení přípustné viz §14 IZ
+    - v incidenčních sporech ale přípustné je § 16 IZ                        
+    - Nejde-li o přihlášené věřitele § 15, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje
+  - 3) Insolvenční správce (popřípadě další správce) – nejde o zástupce kohokoliv z účastníků
+    - ustanovuje se ze seznamu insolvenčních správců, který vede MS
+    - Podrobnější úprava v zákoně o insolvenčních správcích; postupuje s odbornou péčí, za škodu odpovídá podle obecných ustanovení o odp. za škodu, má nárok na odměnu a náhradu výdajů
+  - 4) Státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu – může podat opravný prostředek proti rozhodnutí insolvenčního soudu, jen mají-li toto právo všichni účastníci řízení.
+  - 5) Likvidátor dlužníka – vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi
 
 
 \|--------------------------------------\| <br>
@@ -6433,12 +6441,12 @@ finanční arbitráž- zákon o finančním arbitrovi
 
 Částečně v obchod-A_2017_18
 
-- [ ] Právní jednání podnikatele FO
-- [ ] Právní jednání podnikatele PO
-- [ ] Prokura
-- [ ] Opatrovník
-- [ ] Vedoucí odštěpného závodu
-- [ ] Osoba pověřená určitou činností při provozu závodu
+- [x] Právní jednání podnikatele FO
+- [x] Právní jednání podnikatele PO
+- [x] Prokura
+- [x] Opatrovník
+- [x] Vedoucí odštěpného závodu
+- [x] Osoba pověřená určitou činností při provozu závodu
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -6467,111 +6475,128 @@ finanční arbitráž- zákon o finančním arbitrovi
   - Doplnit
   - **obchod-A_2017_18, otázka 3**
 
-  1. POJEM PRÁVNÍHO JEDNÁNÍ PODNIKATELE A ZPŮSOBY, JAKÝMI MŮŽE PODNKATEL JEDNAT
--	OZ odňal PO způsobilost k PJ a tím vyloučil, aby mohly PO jednat osobně -> všechny PO musí být při uskutečňování právních jednání zastoupeny
--	právní jednání -> právně relevantní projev vůle navenek; vyvolává vznik, změnu a zánik P@P osob
--	rozlišení mezi přímým a nepřímým zastoupením:
-a)	přímé zastoupení – zástupce jedná jménem a na účet zastoupeného
-b)	nepřímé zastoupení – zástupce jedná svým jménem na účet zastoupeného
--	§ 436 OZ – zástupce = osoba oprávněná jednat jménem zastoupeného
--	PO jsou nejčastěji zastoupeny svými orgány
--	právní zastoupení lze také rozlišovat podle právního titulu, který zástupce opravňuje
-a)	smluvní – typicky smlouva příkazní (můžou však být i jiné typy smluv) ->zmocněnec
-– prokura – zvláštní druh smluvního zastoupení
-b)	ze zákona – založeno přímo na základě zákona (např. statutární orgán zastupuje PO)
-c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
+- **POJEM PRÁVNÍHO JEDNÁNÍ PODNIKATELE A ZPŮSOBY, JAKÝMI MŮŽE PODNKATEL JEDNAT**
+  -	OZ odňal PO způsobilost k PJ a tím vyloučil, aby mohly PO jednat osobně -> všechny PO musí být při uskutečňování právních jednání zastoupeny
+  -	právní jednání -> právně relevantní projev vůle navenek; vyvolává vznik, změnu a zánik P@P osob
+  -	rozlišení mezi přímým a nepřímým zastoupením:
+    - a)	přímé zastoupení – zástupce jedná jménem a na účet zastoupeného
+    - b)	nepřímé zastoupení – zástupce jedná svým jménem na účet zastoupeného
+  -	§ 436 OZ – zástupce = osoba oprávněná jednat jménem zastoupeného
+  -	PO jsou nejčastěji zastoupeny svými orgány
+  -	právní zastoupení lze také rozlišovat podle právního titulu, který zástupce opravňuje
+    - a)	smluvní – typicky smlouva příkazní (můžou však být i jiné typy smluv) ->zmocněnec
+      - prokura – zvláštní druh smluvního zastoupení
+    - b)	ze zákona – založeno přímo na základě zákona (např. statutární orgán zastupuje PO)
+    - c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
 
-2. OBECNÁ ÚPRAVA SVÉPRÁVNOSTI A ZASTOUPENÍ V OZ
--	svéprávnost = způsobilost k PJ = způsobilost nabývat pro sebe vlastním PJ práva a zavazovat se k povinnostem
--	FO nabývají plné svéprávnosti zletilostí, jinak je rozsah svéprávnosti u nezletilých osob určen přiměřeností k rozumové a volní vyspělosti dané osoby
--	pro obchod je významný institut -> souhlas zákonného zástupce daný nezletilému k provozování obchodního závodu nebo jiné obdobné výdělečné činnosti (§ 33 OZ)-> vázán na přivolení soudu
+2. **OBECNÁ ÚPRAVA SVÉPRÁVNOSTI A ZASTOUPENÍ V OZ**
+  -	svéprávnost = způsobilost k PJ = způsobilost nabývat pro sebe vlastním PJ práva a zavazovat se k povinnostem
+  -	FO nabývají plné svéprávnosti zletilostí, jinak je rozsah svéprávnosti u nezletilých osob určen přiměřeností k rozumové a volní vyspělosti dané osoby
+  -	pro obchod je významný institut -> souhlas zákonného zástupce daný nezletilému k provozování obchodního závodu nebo jiné obdobné výdělečné činnosti (§ 33 OZ)-> vázán na přivolení soudu
+
 -	§ 20: PO = organizovaný útvar, o němž zákon stanoví, že má právní osobnost (způsobilost mít v mezích P@P), nebo jehož osobnost zákon uzná (jen P@P, která se slučují s její povahou) + § 118 právní osobnost má od svého vzniku až do svého zániku X PO ale nemá svéprávnost, musí být při PJ vždy zastoupena
--	[obecná úprava zastoupení je za úpravou osob, ale předchází jí zvl. úprava zastoupení pro podnikatele; navíc prokura, která se týká jen podnikatelů, je zařazena jako zvl. smluvní typ pod obecnou úpravu zastoupení > učebnice: toto řešení je omyl (tj. asi měly být §§ 430-431 jako lex specialis na konci obecných ustanovení obecné úpravy)]
+  -	[obecná úprava zastoupení je za úpravou osob, ale předchází jí zvl. úprava zastoupení pro podnikatele; navíc prokura, která se týká jen podnikatelů, je zařazena jako zvl. smluvní typ pod obecnou úpravu zastoupení > učebnice: toto řešení je omyl (tj. asi měly být §§ 430-431 jako lex specialis na konci obecných ustanovení obecné úpravy)]
+
 -	zastoupení je zvláštní tím, že se důsledky (relativního) smluvního závazku promítají do vztahů vůči 3. osobám
--	smluvní typy, které zakládají zastoupení -> IV. část OZ – obligace
--	-> jedná se o „Závazky ze smluv příkazního typu“ (§ 2430 OZ an.)
--	nejvýznamnější a nejširší je příkazní smlouva, dále jde o smlouvu zprostředkovatelskou, komisionářskou, zasílatelskou, obchodní zastoupení a zájezd
--	přímé zastoupení však zakládá pouze příkazní smlouva a smlouva o obchodním zastoupení (příkazní smlouva však může zakládat i nepřímé zastoupení, nebo z ní nemusí plynout žádné)
+  -	smluvní typy, které zakládají zastoupení -> IV. část OZ – obligace
+    -	-> jedná se o „Závazky ze smluv příkazního typu“ (§ 2430 OZ an.)
+  -	nejvýznamnější a nejširší je příkazní smlouva, dále jde o smlouvu zprostředkovatelskou, komisionářskou, zasílatelskou, obchodní zastoupení a zájezd
+    -	přímé zastoupení však zakládá pouze příkazní smlouva a smlouva o obchodním zastoupení (příkazní smlouva však může zakládat i nepřímé zastoupení, nebo z ní nemusí plynout žádné)
+
 -	za zvl. druh příkazní smlouvy lze považovat smlouvu o výkonu funkce – mezi členem orgánu OK a OK (§ 59 ZOK, ustanovení OZ o příkazu se na ni mají použít přiměřeně)
--	od smlouvy o zastoupení je nutno odlišit plnou moc jako jednostranný projev vůle
--	deklaruje třetím osobám oprávnění zástupce jednat jménem zastoupeného
--	povinnost vystavit příkazníkovi plnou moc (může být obsažena už ve smlouvě)
--	vyžaduje se písemná forma, pokud se zmocnění netýká jen určitého právního jednání § 441
--	v případech, kdy je k jednání zmocněna PO, oprávnění jednat přísluší jejímu statutárnímu orgánu nebo jiné osobě, kterou statuární orgán určí (jedna teorie: libovolně, i vně podnikatele – např. externí advokát -> odchylka od § 438 OZ – jelikož se nevyžaduje předchozí dohoda se zastoupeným ani nutná potřeba)
+  -	od smlouvy o zastoupení je nutno odlišit plnou moc jako jednostranný projev vůle
+  -	deklaruje třetím osobám oprávnění zástupce jednat jménem zastoupeného
+  -	povinnost vystavit příkazníkovi plnou moc (může být obsažena už ve smlouvě)
+  -	vyžaduje se písemná forma, pokud se zmocnění netýká jen určitého právního jednání § 441
+  -	v případech, kdy je k jednání zmocněna PO, oprávnění jednat přísluší jejímu statutárnímu orgánu nebo jiné osobě, kterou statuární orgán určí (jedna teorie: libovolně, i vně podnikatele – např. externí advokát -> odchylka od § 438 OZ – jelikož se nevyžaduje předchozí dohoda se zastoupeným ani nutná potřeba)
 
-3. JEDNÁNÍ PODNIKATELE A JEHO ZASTOUPENÍ
--	obecná pravidla ->§ 422 OZ – podnikatel vystupuje pod svojí firmou, pokud ji nemá, tak pod vlastním jménem
--	zvláštní pravidla: § 430-432, platí podnikatele FO i PO (tj. i zvl. úprava vůči jednání za PO)
-- 	„zákonné“ zastoupení osobou pověřenou při provozu obchodního závodu určitou činností
--	§ 430 (1) – pověří-li podnikatel někoho při provozu obchodního závodu určitou činností, zastupuje tato osoba podnikatele ve všech věcech, k nimž při této činnosti obvykle dochází
--	formální pověření (např. zaměstnanec), nebo neformální: jakýkoli člověk (prosba podnikatele)
--	rozsah zástupčího oprávnění je dán úměrně vzhledem ve vztahu k činnosti, jíž byl zástupce pověřen
--	vnitřní omezení rozsahu zástupčího oprávnění nejsou vůči třetím osobám účinná
--	tradiční název: obchodní plná moc (dle všeobecného ObchZ z r. 1863)
--	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují
--	odchylka u překročení rozsahu pověření -> překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
--	zástupce podnikatele má vůči podnikateli zákaz konkurence (§ 432) (týká se asi i smluvních zástupců)
-- 	zákonné zastoupení zapsaným vedoucím odštěpného závodu
--	§ 503 OZ – odštěpný závod = pobočka obchodního závodu, která je zapsána do OR
--	jeho vedoucí je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl zapsán jako vedoucí do OR
--	zápis do OR – konstitutivní účinky -> vznik zástupčího oprávnění jednat v daných věcech
--	v mezidobí -> § 430 (1) OZ -> oprávněn jednat v obvyklých věcech spojených s provozem
-- 	jednání nepověřené osoby v provozovně podnikatele
--	§ 430 (2) OZ – podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna
--	jednající osoba – nepřikázané jednatelství
--	při jednáních, k nimž obvykle dochází při činnosti, ohledně níž se taková osoba třetí osobě jeví, že k ní byla podnikatelem pověřena, pokud k jednání došlo v provozovně podnikatele (např.: Vrchní, prchni!)
+3. **JEDNÁNÍ PODNIKATELE A JEHO ZASTOUPENÍ**
+  -	obecná pravidla ->§ 422 OZ – podnikatel vystupuje pod svojí firmou, pokud ji nemá, tak pod vlastním jménem
+  -	zvláštní pravidla: § 430-432, platí podnikatele FO i PO (tj. i zvl. úprava vůči jednání za PO)
 
-úprava překročení:
--	obecně: překročení (příp. nepřikázané jednatelství) musí být dodatečně a bez zbytečného odkladu zastoupeným schváleno; osoba v dobré víře jinak může požadovat plnění či náhradu škody po jednajícím (§ 440)
--	smluvní z.: je třeba oznámit nesouhlas osobě v dobré víře, jinak se má za to, že je překročení schváleno (§ 446)
--	podnikatel: v případě dobré víry třetí osoby je podnikatel zavázán vždy a bez dalšího (§ 430)
+-	**„zákonné“ zastoupení osobou pověřenou při provozu obchodního závodu určitou činností**
+  -	§ 430 (1) – pověří-li podnikatel někoho při provozu obchodního závodu určitou činností, zastupuje tato osoba podnikatele ve všech věcech, k nimž při této činnosti obvykle dochází
+    -	formální pověření (např. zaměstnanec), nebo neformální: jakýkoli člověk (prosba podnikatele)
+    -	rozsah zástupčího oprávnění je dán úměrně vzhledem ve vztahu k činnosti, jíž byl zástupce pověřen
+    -	vnitřní omezení rozsahu zástupčího oprávnění nejsou vůči třetím osobám účinná
+    -	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují      
+    -	odchylka u překročení rozsahu pověření -> překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
+    -	zástupce podnikatele má vůči podnikateli zákaz konkurence (§ 432) (týká se asi i smluvních zástupců)
 
-4. ZASTOUPENÍ PRÁVNICKÝCH OSOB
--	vůle PO se tvoří hlavně prostřednictvím jejích orgánů (jednatelské orgány, § 151 – 156 OZ)
--	orgány PO = organizační útvary v rámci PO vzniklé na základě zákona nebo zakladatelského PJ, kt. vytvářejí její vůli
--	obecně lze říci, že zastoupení PO je možné buď prostřednictvím jejích jednatelských orgánů (statutární orgán nebo v některých případech dozorčí rada), nebo prostřednictvím jiných osob (zákonní: zaměstnanci, členové PO, prokuristé, nebo jiní smluvní zástupci)
+- **zákonné zastoupení zapsaným vedoucím odštěpného závodu**
+  -	§ 503 OZ – odštěpný závod = pobočka obchodního závodu, která je zapsána do OR
+  -	jeho vedoucí je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl zapsán jako vedoucí do OR
+  -	zápis do OR – konstitutivní účinky -> vznik zástupčího oprávnění jednat v daných věcech
+    -	v mezidobí -> § 430 (1) OZ -> oprávněn jednat v obvyklých věcech spojených s provozem
+
+- **jednání nepověřené osoby v provozovně podnikatele**
+  -	§ 430 (2) OZ – podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna
+  -	jednající osoba – nepřikázané jednatelství - může být náhrada škody
+  -	při jednáních, k nimž obvykle dochází při činnosti, ohledně níž se taková osoba třetí osobě jeví, že k ní byla podnikatelem pověřena, pokud k jednání došlo v provozovně podnikatele (např.: Vrchní, prchni!)
+
+- **Podnikatel může rovněž udělit klasické zástupčí oprávnění**
+
+- **úprava překročení:**
+  -	obecně: překročení (příp. nepřikázané jednatelství) musí být dodatečně a bez zbytečného odkladu zastoupeným schváleno; osoba v dobré víře jinak může požadovat plnění či náhradu škody po jednajícím (§ 440)
+  -	smluvní z.: je třeba oznámit nesouhlas osobě v dobré víře, jinak se má za to, že je překročení schváleno (§ 446)
+  -	podnikatel: v případě dobré víry třetí osoby je podnikatel zavázán vždy a bez dalšího (§ 430)
+
+4. **ZASTOUPENÍ PRÁVNICKÝCH OSOB**
+  -	vůle PO se tvoří hlavně prostřednictvím jejích orgánů (jednatelské orgány, § 151 – 156 OZ)
+  -	orgány PO = organizační útvary v rámci PO vzniklé na základě zákona nebo zakladatelského PJ, kt. vytvářejí její vůli
+  -	obecně lze říci, že
+    - zastoupení PO je možné buď prostřednictvím jejích jednatelských orgánů (statutární orgán nebo v některých případech dozorčí rada),
+    - nebo prostřednictvím jiných osob (zákonní: zaměstnanci, členové PO, prokuristé, nebo jiní smluvní zástupci)
+
 -	PO nemají způsobilost právně jednat (svéprávnost) -> musí být při všech PJ zastoupeny; jelikož nemohou díky absenci svéprávnosti nikoho samy zmocnit k zastupování -> je nutno považovat orgány PO za zákonné zástupce PO (paradoxy: 1. PO může rozhodnout, jaké orgány tvoří + 2. orgány nemají p. subjektivitu ani svéprávnost)
--	smluvní zastoupení PO – může vzniknout pouze na základě PJ jejího zástupce, tudíž jako další zastoupení > pak je otázka, zda jde o § 438? učebnice: spíš ne, protože § 438 předpokládá substituci mandátu, tady nejde ani o substituci ani o delegaci, ale o nový, odlišný mandát – zmocnění sui generis > nejedná se o zastoupení zastupujícího (statutárního) orgánu, ale o nezávislé zastoupení PO (< logický problém s nesvéprávností PO)
-- 	zákonné zastoupení statutárním orgánem (jeho členem)
--	přichází v úvahu jen u PO; statutární orgán stanoví zákon
--	statutární orgán = výkonný orgán, náleží mu působnost řídit fungování PO v každodenních věcech
--	§ 164 OZ  - generální zástupčí oprávnění – neomezené a vůči třetím osobám neomezitelné
--	může být omezeno (zvnějšku, zevnitř), ale vůči třetím osobám platí, co je ve VR
-X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím účinná, i když jsou v OR
+
+-	**smluvní zastoupení PO** – může vzniknout pouze na základě PJ jejího zástupce, tudíž jako další zastoupení > pak je otázka, zda jde o § 438? učebnice: spíš ne, protože § 438 předpokládá substituci mandátu, tady nejde ani o substituci ani o delegaci, ale o nový, odlišný mandát – zmocnění sui generis > nejedná se o zastoupení zastupujícího (statutárního) orgánu, ale o nezávislé zastoupení PO (< logický problém s nesvéprávností PO)
+
+-	**zákonné zastoupení statutárním orgánem (jeho členem)**
+  -	přichází v úvahu jen u PO; statutární orgán stanoví zákon
+  -	statutární orgán = výkonný orgán, náleží mu působnost řídit fungování PO v každodenních věcech
+  -	§ 164 OZ  - generální zástupčí oprávnění – neomezené a vůči třetím osobám neomezitelné
+    -	může být omezeno (zvnějšku, zevnitř), ale vůči třetím osobám platí, co je ve VR
+  - X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím účinná, i když jsou v OR
 	- vnější omezení (ze zákona) > chybí-li zákonem vyžadovaný souhlas nejvyššího orgánu >
    - -> relativní neplatnost – OK se může dovolat (SL: 6 měsíců, OL: 10 let)
-- 	zákonné zastoupení jinými osobami
--	§ 166 obecná úprava pro PO – zaměstnanec, člen, člen orgánu nezapsaného ve VR – zastupují PO i bez pověření, v rozsahu obvyklém vzhledem k zařazení nebo funkci podle stavu, jak se jeví veřejnosti § 430 zvl. úprava pro PO-podnikatele – PO zastupuje kterákoli osoba pověřená činností při provozu závodu
-- 	jednání za PO před jejím vznikem
--	podmíněné tím, že PO musí v budoucnu vzniknout a dříve učiněná jednání pro sebe schválí
--	pokud se nenaplní alespoň jedna z podmínek – jednání zavazuje pouze jednajícího
--	okruh osob, které mohou za PO před jejím vznikem jednat, není nijak omezen
--	pro dodatečné schválení jednání PO je daná 3 měsíční lhůta (ale lze i později podle obecné úpravy o převzetí závazku -> § 1888 OZ)
-- 	opatrovnictví PO
--	§ 457-464 se týkají FO, byť se to tak ze systematického zařazení nejeví, na PO se vztahují § 486-488
--	soud jmenuje opatrovníka PO, která to potřebuje, aby mohly být spravovány její záležitosti nebo aby mohla být hájena její práva
--	OSŘ – soud tak učiní, jestliže tu není osoba oprávněná za PO jednat (nemá dostatečný počet členů statutárního orgánu) nebo je sporné, kdo je osobou oprávněnou za ni jednat (v případě konfliktu zájmů mezi členem statut. orgánu)
--	P@P opatrovníka platí obdobně ustanovení o členu statutárním orgánu,
--	působnost opatrovníka se řídí přiměřeně ustanoveními o statutárním orgánu
-5. PROKURA
--	široká obchodní plná moc, která může být udělena jenom FO (širší než pověření v § 430)
--	zvláštní případ smluvního zastoupení – prokuru může udělit pouze podnikatel
--	prokura opravňuje ke všem právním jednáním, která jsou potřebná k provozu závodu, popřípadě pobočky (§ 450 OZ) = nový institut omezené prokury – lze omezit na jednání týkající se pobočky
--	prokura je PM, která se zapisuje do OR – může ji tedy udělit pouze podnikatel, který je v OR zapsán (zápis do OR má pouze deklaratorní význam)
--	lze ji udělit pouze písemně a s výslovným vyjádřením, že se jedná o prokuru (či omezenou p. na pobočku)
--	při podepisování prokurista uvede – firmu, jméno, dodatek (oznámení, že se jedná o prokuru) + pobočku nebo závod v případě omezené prokury
--	zástupčí oprávnění prokury je skoro neomezené a vůči třetím osobám neomezitelné
--	omezení prokury:
--	nemůže jednat ve věcech, které náleží výlučně podnikateli/statutárnímu orgánu (udělit prokuru jinému, svolat valnou hromadu apod.)
--	nemůže činit jednání, které se dotýkají samé podstaty obchodního závodu (nesmí jej zastavit, zcizit, ledaže to bylo výslovně uvedeno)
--	prokurista může zmocňovat další osoby a udělovat jim plné moci (omezení z §438 se asi neuplatní, nejde o substituci mandátu, ale jen pověření v jiném rozsahu)
--	možnost paralelních prokur (pro více lidí) ->každý z prokuristů je oprávněn jednat samostatně
--	zánik prokury - je třeba zapsat do OR
--	prokuru je možno vždy odvolat/vypovědět; dále zaniká pachtem / prodejem závodu
--	prokura nezaniká smrtí podnikatele!
--	ze ZOK vyplývá, že prokuristou v OK nemůže být po dobu 3 let od rozhodnutí soudu ten, jehož výkon funkce (fce člena statutárního orgánu či obdobné funkce – např. prokuristy) vedl k úpadku OK (§ 64 ZOK)
 
-- 	opatrovnictví u podnikatelů-FO: podnikatel-FO, kt. není plně svéprávný, může být zastoupen při provozu obchodního závodu; nezletilý: zákonnými zástupci podle rodinného práva, zletilý: opatrovníkem
+-	**zákonné zastoupení jinými osobami**
+  -	§ 166 obecná úprava pro PO – zaměstnanec, člen, člen orgánu nezapsaného ve VR –
+    - zastupují PO i bez pověření, v rozsahu obvyklém vzhledem k zařazení nebo funkci podle stavu, jak se jeví veřejnosti
+  - § 430 zvl. úprava pro PO-podnikatele – PO zastupuje kterákoli osoba pověřená činností při provozu závodu
+    - V podstatě tedy i na základě neformální žádosti
+
+- **opatrovnictví PO**
+  -	§ 457-464 se týkají FO, byť se to tak ze systematického zařazení nejeví, na PO se vztahují § 486-488
+  -	soud jmenuje opatrovníka PO, která to potřebuje, aby mohly být spravovány její záležitosti nebo aby mohla být hájena její práva
+  -	OSŘ – soud tak učiní, jestliže tu není osoba oprávněná za PO jednat (nemá dostatečný počet členů statutárního orgánu) nebo je sporné, kdo je osobou oprávněnou za ni jednat (v případě konfliktu zájmů mezi členem statut. orgánu)
+  -	P@P opatrovníka platí obdobně ustanovení o členu statutárním orgánu,
+  -	působnost opatrovníka se řídí přiměřeně ustanoveními o statutárním orgánu
+
+- opatrovnictví u podnikatelů-FO: podnikatel-FO, kt. není plně svéprávný, může být zastoupen při provozu obchodního závodu; nezletilý: zákonnými zástupci podle rodinného práva, zletilý: opatrovníkem
+
+5. **PROKURA**
+  -	široká obchodní plná moc, která může být udělena jenom FO (širší než pověření v § 430)
+  -	zvláštní případ smluvního zastoupení – prokuru může udělit pouze podnikatel zapsaný v OR
+  -	prokura opravňuje ke všem právním jednáním, která jsou potřebná k provozu závodu, popřípadě pobočky (§ 450 OZ) = nový institut omezené prokury – lze omezit na jednání týkající se pobočky
+  -	prokura je PM, která se zapisuje do OR – může ji tedy udělit pouze podnikatel, který je v OR zapsán (zápis do OR má pouze deklaratorní význam)
+  -	lze ji udělit pouze písemně a s výslovným vyjádřením, že se jedná o prokuru (či omezenou p. na pobočku)
+  -	při podepisování prokurista uvede – firmu, jméno, dodatek (oznámení, že se jedná o prokuru) + pobočku nebo závod v případě omezené prokury
+  -	zástupčí oprávnění prokury je skoro neomezené a vůči třetím osobám neomezitelné
+
+-	**omezení prokury:**
+  -	nemůže jednat ve věcech, které náleží výlučně podnikateli/statutárnímu orgánu (udělit prokuru jinému, svolat valnou hromadu apod.)
+  -	nemůže činit jednání, které se dotýkají samé podstaty obchodního závodu (nesmí jej zastavit, zcizit, ledaže to bylo výslovně uvedeno)
+
+-	prokurista může zmocňovat další osoby a udělovat jim plné moci (omezení z §438 se asi neuplatní, nejde o substituci mandátu, ale jen pověření v jiném rozsahu)
+
+-	možnost paralelních prokur (pro více lidí) ->každý z prokuristů je oprávněn jednat samostatně
+
+-	**zánik prokury** - je třeba zapsat do OR
+  -	prokuru je možno vždy odvolat/vypovědět; dále zaniká pachtem / prodejem závodu
+  -	prokura nezaniká smrtí podnikatele!
+  -	ze ZOK vyplývá, že prokuristou v OK nemůže být po dobu 3 let od rozhodnutí soudu ten, jehož výkon funkce (fce člena statutárního orgánu či obdobné funkce – např. prokuristy) vedl k úpadku OK (§ 64 ZOK)
 
 
 \|--------------------------------------\| <br>
@@ -6702,9 +6727,9 @@ X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím úč
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Právní úprava neživnostenského podnikání
+- [x] Právní úprava neživnostenského podnikání
 
-- [ ] Podnikání zahraničních osob v České republice
+- [x] Podnikání zahraničních osob v České republice
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -6896,7 +6921,6 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
  - jde o odpovědnostní právo -> popis skutkové podstaty (dispozice) nedovoleného jednání a následek (sankce)
  - současně spjato i s právem průmysl. vlastnictví, protože může být chápáno jako ochrana klientely podniku
 
-
 **PLATNÁ PRÁVNÍ ÚPRAVA NEKALÉ SOUTĚŽE**
  - Najdeme jí v několika právních předpisech
  - dnes v OZ -> IV. část – závazky, III. hlava – závazky z deliktů, díl 2 – zneužití a omezení soutěže > nekalá soutěž
@@ -6929,8 +6953,15 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
  1. **klamavá reklama**
   - schopnost vyvolat v adresátovi reklamy nesprávnou představu, která neodpovídá realitě -> a tím ovlivnit jeho hospodářské chování
   - lhaná nebo zamlčování v reklamě
+    - zejména ohledně
+     - ceny
+     - dostupnosti
+     - podmínek dodání/poskytování
+     - povahy a vlastností
  2. **klamavé označení zboží, nebo služeb**
   - schopnost vyvolat mylnou domněnku, že označené zboží/služba pochází z určité oblasti či od určitého výrobce, má určitý účel nebo určitou vlastnost
+  - není důležité, zda k tomu došlo na obalu, nebo například v nějaké listině
+  - klamavost může způsobovat i použití určitých slov, jako "pravý", "skutečný", "původní"
  3. **srovnávací reklama**
   - „označuje přímo/nepřímo jiného soutěžitele či jeho zboží/službu“; podkategorie klamavé r.
   - je-li natolik objektivní, že nemůže působit klamavě, pak je přípustná
@@ -6940,51 +6971,20 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
   2. užití označení závodu, produktů nebo jejich úpravy, které jsou pro jiného příznačné;
   3. otrocké napodobení výrobků, služeb nebo obalů
  5. **parazitování na pověsti závodu, výrobku či služeb jiného soutěžitele**
-  - Doplnit
+  - Parazitováním je zneužití pověsti závodu, výrobku nebo služby jiného soutěžitele umožňující získat pro výsledky vlastního nebo cizího podnikání prospěch, jehož by soutěžitel jinak nedosáhl.
  6. **Podplácení (z-ců nebo členů orgánů soutěžitele)**
-  - Doplnit
- 7. **zlehčování**
-  - Doplnit
- 8. **Porušení obchodního tajemství**
-  - Doplnit
- 9. **dotěrné obtěžování**
-  - Doplnit
- 10. **ohrožení zdraví nebo životního prostředí**
-  - Doplnit
+  - Soutěžitel přímo nebo nepřímo nabídne, slíbí či poskytne jakýkoliv prospěch za tím účelem, aby jejím nekalým postupem docílil na úkor jiných soutěžitelů pro sebe nebo jiného soutěžitele přednost nebo jinou neoprávněnou výhodu v soutěži.
 
-Zvláštní skutkové podstaty nekalé soutěže
-Nekalá soutěž je pojem, který náleží do hospodářské soutěže. V současné právní úpravě je nekalá soutěž obsažena v občanském zákoníku a to v §2976 a následujících. Hlavní těžiště úpravy nekalé soutěže spočívá v generální klauzuli - §2976 odst. 1., která vymezuje nekalosoutěžní jednání.
-O nekalé soutěži hovoříme jako o deliktu objektivní povahy, kde není zákonem vyžadováno zavinění. Jestliže tedy jednání splňuje podmínky generální klauzule, pak toto jednání lze označit za nekalosoutěžní. Proti nekalé soutěži je možné se bránit podáním soukromoprávní žaloby k soudu, kde dojde k posouzení situace a popřípadě na základě žaloby přiznání konkrétního nároku, které slouží k ochraně pře nekalosoutěžním jednáním.
-Občanský zákoník demonstrativně uvádí skutkové podstaty nekalé soutěže v ustanovení § 2976, v §2977 – 2989 jsou pak skutkové podstaty dále specifikovány. Vedle těchto skutkových podstat však rozlišujeme ještě nepojmenované skutkové podstaty, které vznikly na základě judikatury soudů.[1] Aby mohly být uplatněny konkrétní skutkové podstaty nekalé soutěže, je třeba aby nejprve byly splněny pomínky generální klauzule
-Klamavá reklama
-§ 2977 OZ(1) Klamavá reklama je taková reklama, která souvisí s podnikáním nebo povoláním, sleduje podpořit odbyt movitých nebo nemovitých věcí nebo poskytování služeb, včetně práv a povinností, klame nebo je způsobilá klamat podáním nebo jakýmkoli jiným způsobem osoby, jimž je určena nebo k nimž dospěje, a tím i zřejmě způsobilá ovlivnit hospodářské chování takových osob.(2) Při posuzování, zda je reklama klamavá, se přihlédne ke všem jejím výrazným znakům. Zvláště se přihlédne k údajům, které reklama obsahuje ohledněa) dostupnosti, povahy, provedení, složení, výrobního postupu, data výroby nebo poskytnutí, způsobilosti k určenému účelu, použitelnosti, množství, zeměpisného či obchodního původu, jakož i podrobnějšího vytčení a dalších znaků zboží nebo služeb včetně předpokládaných výsledků použití nebo výsledků a podstatných znaků provedených zkoušek či prověrek,b) ceny nebo způsobu jejího určení,c) podmínek, za nichž se zboží dodává nebo služba poskytuje, ad) povahy, vlastností a práv zadavatele reklamy, jako jsou zejména jeho totožnost, majetek, odborná způsobilost, jeho práva duševního vlastnictví nebo jeho vyznamenání a pocty.
-Klamavou reklamou je způsobilá být reklama komerční šířená jakýmkoli komunikačním zdrojem, směřující k lidem (adresátům i ostatním lidem – například náhodnému čtenáři odborného časopisu – laik si přečte právnický časopis). Posuzování, zda je reklama nekalá, či zda je možné ji označit jako dovolenou je na posouzení soudce, který postupuje dle podmínek klamavé reklamy zakotvených v odstavci 2 pod písmeny a)-d).
-Pro klamavou reklamu je také podstatné ustanovení v § 2979 OZ, které stanovuje další požadavky na klamavost – tedy aby akt bylo možné označit jako klamavý. Příkladem klamavých reklam může být například: nabídka cestovní kanceláře na parkování zdarma u hotelu – kde parkování zdarma sice je, ale není zde dostatek parkovacích míst, nebo lákání na krásnou pláž u hotelu – kde pláž sice je, ale natolik kamenitá, že neumožňuje přístup do moře, atd. Dle 2. odstavce §2979 OZ se při posuzování klamavosti bere na vědomí i celková vnější úprava (velikost a typ písma), druh, typ (např. typ šunky), způsob (home-made) a také úmyslným výpustkám částí textu.[2]
-Klamavou reklamu není možné posuzovat podle morálních norem společnosti, jelikož kdyby měly být reklamy naprosto korektní, nevnucovaly se, mírně nezaváděly, pak by takové reklamy téměř nebylo možné vytvořit. Podstatou reklamy je totiž zaujmout co největší a nejširší množství adresátů. Není proto možné reklamu zaměňovat se seriózní obchodní nabídkou.
-Klamavé označování zboží nebo služby
-§ 2978 OZ(1) Klamavé označení zboží nebo služby je takové označení, které je způsobilé vyvolat v hospodářském styku mylnou domněnku, že jím označené zboží nebo služba pocházejí z určité oblasti či místa nebo od určitého výrobce, anebo že vykazují zvláštní charakteristický znak nebo zvláštní jakost. Nerozhodné je, zda označení bylo uvedeno bezprostředně na zboží, na obalu, obchodní písemnosti nebo jinde. Rovněž je nerozhodné, zda ke klamavému označení došlo přímo nebo nepřímo a jakým prostředkem se tak stalo.(2) Klamavost působí i údaj všeobecně vžitý v hospodářském styku k označení druhu nebo jakosti, je-li k němu připojen dodatek způsobilý klamat, zejména s použitím výrazu „pravý“, „skutečný“ nebo „původní“.(3) Ustanoveními předchozích odstavců nejsou dotčeny jiné právní předpisy o ochraně průmyslového nebo jiného duševního vlastnictví.
-Další skutková podstat, která se řadí mezi klamavé skutkové podstaty nekalé soutěže. Podobně jako klamavá reklama je i klamavé označení ohrožovacím deliktem, při kterém stačí vznik nebezpečí oklamání, není třeba aby k oklamání skutečně došlo. Při posuzování, zda se jedná či nejedná o klamavé označení je podstatné na problematiku nahlížet očima běžného spotřebitele a posoudit, jak určité označení chápe jeho adresát. Jestli tedy je možné, že dojde k záměně či nikoli. Podobně jako u klamavé reklamy i zde je při posuzování klamavosti třeba postupovat v souladu s § 2979 odstavce 1 a 2.
-Účelem klamavého označení je tedy naprosto logicky ovlivnit spotřebitele a jiné zákazníky pomocí užívání zavádějících pojmenování, značek či symbolů. Nutno podotknout, že výčet, který je uveden v odstavci 1 je taxativní (je úplný bez možnosti dodatku) nikoli demonstrativní. Podobně jako u klamavé reklamy i zde je možno užívat ne-pravdy, ale pouze ty, které nejsou způsobilé klamat.
-Srovnávací reklama
-§ 2980 OZ(1) Srovnávací reklama přímo nebo nepřímo označuje jiného soutěžitele nebo jeho zboží či službu.(2) Srovnávací reklama je přípustná, pokud se srovnání týče,a) není-li klamavá,b) srovnává-li jen zboží a službu uspokojující stejnou potřebu nebo určené ke stejnému účelu,c) srovnává-li objektivně jednu nebo více podstatných, důležitých, ověřitelných a příznačných vlastností zboží nebo služeb včetně ceny,d) srovnává-li zboží s označením původu pouze se zbožím stejného označení,e) nezlehčuje-li soutěžitele, jeho postavení, jeho činnost nebo její výsledky nebo jejich označení ani z nich nekalým způsobem netěží, af) nenabízí-li zboží nebo službu jako napodobení či reprodukci zboží nebo služby označovaných ochrannou známkou soutěžitele nebo jeho názvem.
-Jak je uvedeno v 1. odstavci týká se srovnávací reklama situací, kdy je jiný soutěžitel, jeho zboží či služba přímo značen, i na případy, kdy je označení pouze nepřímé, ale přesto zjevné. Hned na začátku je nutno podotknout, že ne všechny srovnávací reklamy jsou posuzovány jako nekalosoutěžní.
-Vždy, když není možné přesně posoudit, zda daný případ splňuje prvky generální klauzule nekalé soutěže a zároveň naplňuje skutkovou podstatu srovnávací reklamy je věc posuzována ve prospěch dovolenosti srovnávací reklamy (tak je postupováno v souladu s judikaturou soudního dvora EU) – v rámci posuzováni je tak preferováno liberálnější stanovisko nahlížení na srovnávací reklamu. Tedy v případě, že se v dané situaci dojde k závěru, že se jedná o srovnávací reklamu se rozhoduje, zda je tato reklama přípustná, či nikoli. Přípustnost srovnávací reklamy, respektive situace, kdy je srovnávací reklama přípustná jsou uvedeny v odst. 2.
-Vyvolání nebezpečí záměny
-§ 2981 OZ(1) Kdo užije jména osoby nebo zvláštního označení závodu užívaného již po právu jiným soutěžitelem, vyvolá tím nebezpečí záměny.(2) Nebezpečí záměny vyvolá i ten, kdo užije zvláštního označení závodu nebo zvláštního označení či úpravy výrobku, výkonu nebo obchodního materiálu závodu, které v zákaznických kruzích platí pro určitý závod za příznačné.(3) Stejně tak vyvolá nebezpečí záměny, kdo napodobí cizí výrobek, jeho obal nebo výkon, ledaže se jedná o napodobení v prvcích, které jsou již z povahy výrobku funkčně, technicky nebo esteticky předurčeny, a napodobitel učinil veškerá opatření, která lze na něm požadovat, aby nebezpečí záměny vyloučil nebo alespoň podstatně omezil, pokud jsou tato jednání způsobilá vyvolat nebezpečí záměny nebo klamnou představu o spojení se soutěžitelem, jeho závodem, pojmenováním, zvláštním označením nebo s výrobkem či výkonem jiného soutěžitele.
-Vyvolání nebezpečí záměny se řadí mezi klamavé soutěžní praktiky s parazitními prvky. V praxi tedy soutěžitel pomocí klamání parazituje na jiných subjektech, výrobcích či výkonech. Není podstatný přímý cíl soutěžitele, důležité je nebezpečí, že může dojít k záměně nebo možnost vyvolání klamavé představy. Podobně jako u jiných skutkových podstat, ani zde nemusí k záměně či klamání dojít, stačí pouze, že existuje ta možnost či nebezpečí. Při posuzování soudu se celá situace vždy posuzuje individuálně a očima průměrného spotřebitele.
-Zákonná úprava vyvolání nebezpečí záměny má 3 odstavce, přičemž každý z těchto odstavců lze chápat jako speciální dílčí skutkovou podstatu.
-Ochrana proti nebezpečí zaměnitelnosti má křížový efekt, to znamená, že obchodní firma může být chráněna z titulu nekalé soutěže i proti ochranné známce stejného či změnitelného znění.
-Parazitování na pověsti
-§ 2982 OZParazitováním je zneužití pověsti závodu, výrobku nebo služby jiného soutěžitele umožňující získat pro výsledky vlastního nebo cizího podnikání prospěch, jehož by soutěžitel jinak nedosáhl.
-V první řadě, aby tato skutková podstata mohla být vůbec uplatněna, je třeba aby zde existovala určitá pověst (resp. dobrá pověst soutěžitele) – závodu, výrobku, služby, na níž by bylo možné parazitovat. Při výkladu slova pověst není třeba jít na národní či mezinárodní úroveň, postačuje, když má pověst existuje v rámci úzké lokality. Není vyžadováno, aby soutěžitelé (ten který parazituje, a ten na němž je parazitováno) pocházeli ze stejného či zaměnitelného oboru. Taktéž pojmy závod, výrobek a službu je v rámci výkladu třeba chápat spíše extenzivněji (šířeji). Pro tuto skutkovou podstatu je podstatný úmysl – záměrné jednání účelového charakteru jednoho ze soutěžitelů.
-V případě, kdy dochází k výslovnému snižování poškozeného soutěžitele a bude zde výraznější agresivní prvek, pak se nebude jednat o parazitování na pověsti ale o skutkovou podstatu zlehčování, která je posuzována podle § 2984.[8] Při posuzování soudcem je také třeba, aby byly odlišeny situace, kdy se jedná o vztah symbiózy, tedy i využívaný subjekt má z daného vztahu prospěch.
-Podplácení
-§2983 OZPodplácením ve smyslu tohoto zákona je jednání, jímža) soutěžitel osobě, která je členem statutárního nebo jiného orgánu jiného soutěžitele nebo je v pracovním poměru k jinému soutěžiteli, přímo nebo nepřímo nabídne, slíbí či poskytne jakýkoliv prospěch za tím účelem, aby jejím nekalým postupem docílil na úkor jiných soutěžitelů pro sebe nebo jiného soutěžitele přednost nebo jinou neoprávněnou výhodu v soutěži, anebob) osoba uvedená v písmenu a) přímo či nepřímo žádá, dá si slíbit nebo přijme za stejným účelem jakýkoliv prospěch.
-Existuje mnoho způsobů, jak dosáhnout kýžené věci či stavu, k nim bezpochyby patří i korupční jednání. Právo rozlišuje jeho dvě podoby: v trestním právu je zakotvené úplatkářství ve věcech obecného zájmu a v rámci skutkových podstat nekalé soutěže je pak upraveno podplácení. V oblasti nekalé soutěže se jedná o druh parazitního jednání, kdy se soutěžitel snaží získat výhodu s vynaložením co nejmenšího (nejlépe žádného) úsilí.
-Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každému tomuto druhu podplácení je věnováno jedno písmeno v § 2983 OZ.
-- 	Aktivní podplácení (podplácející) je zakotveno pod písmenem a), v tomto případě soutěžitel aktivně nabídne, slíbí či poskytne prospěch jiné osobě. Z formulace zákona vyplývá, že subjektem aktivního podplácení jakožto podplácející může být pouze soutěžitel. Soutěžitel jakožto účastník hospodářské soutěže může být jednotlivec, fyzická osoba nebo osoba právnická, ta však bývá v jednání zastupována prostřednictvím fyzických osob a jejich prostřednictvím se také dopouští podplácení] Osoba, která podplácí nemusí být ani nikterak významná, může se jednat o řadového pracovníka. Při formulaci jakýkoli prospěch je třeba mít na paměti, že se může jednat o prospěch peněžní, ale i nepeněžní (hmotný i nehmotný). Avšak ne všechny předměty předané jinému subjektu lze chápat jako podplácení, pojem se nevztahuje na obvyklé obchodní pozornosti – propagační předměty – jako jsou například propisky, diáře, bloky, …
-- 	Pasivní podplácení (podplácený) je pak popsáno v písmenu b) téhož ustanovení – je jím chápána situace, kdy subjekt žádá nebo si dá slíbit či přijme prospěch od soutěžitele. Zde je okruh subjektů, kteří mohou být rušiteli v rámci pasivního podplácení mnohem užší a jedná se pouze o ty subjekty, které jsou pod písmenem b) vyjmenovány – člen statutárního či jiného orgánu jiného soutěžitele, osoba v pracovním poměru k jinému soutěžiteli.
-
+-**Shrnutí**
+  - Nekalá soutěž je pojem, který náleží do hospodářské soutěže.
+  - V současné právní úpravě je nekalá soutěž obsažena v občanském zákoníku a to v §2976 a následujících.
+    - Hlavní těžiště úpravy nekalé soutěže spočívá v generální klauzuli - §2976 odst. 1., která vymezuje nekalosoutěžní jednání.
+  - O nekalé soutěži hovoříme jako o deliktu objektivní povahy, kde není zákonem vyžadováno zavinění.
+    - Jestliže tedy jednání splňuje podmínky generální klauzule, pak toto jednání lze označit za nekalosoutěžní.
+  - Proti nekalé soutěži je možné se bránit podáním soukromoprávní žaloby k soudu, kde dojde k posouzení situace a popřípadě na základě žaloby přiznání konkrétního nároku, které slouží k ochraně pře nekalosoutěžním jednáním.
+  - Občanský zákoník demonstrativně uvádí skutkové podstaty nekalé soutěže v ustanovení § 2976, v §2977 – 2989 jsou pak skutkové podstaty dále specifikovány.
+  - Vedle těchto skutkových podstat však rozlišujeme ještě nepojmenované skutkové podstaty, které vznikly na základě judikatury soudů.[1]
+  - Aby mohly být uplatněny konkrétní skutkové podstaty nekalé soutěže, je třeba aby nejprve byly splněny pomínky generální klauzule
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -7004,12 +7004,12 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Zlehčování
-- [ ] Nepřípustná srovnávací reklama
-- [ ] Porušení obchodního tajemství
-- [ ] Dotěrné obtěžování
-- [ ] Ohrožení zdraví a živtního prostředí
-- [ ] Ochrana proti nekalé soutěži
+- [x] Zlehčování
+- [x] Nepřípustná srovnávací reklama
+- [x] Porušení obchodního tajemství
+- [x] Dotěrné obtěžování
+- [x] Ohrožení zdraví a živtního prostředí
+- [x] Ochrana proti nekalé soutěži
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -7018,6 +7018,25 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+1. **zlehčování**
+ - (1) Zlehčováním je jednání, jímž soutěžitel uvede nebo rozšiřuje o poměrech, výkonech nebo výrobku jiného soutěžitele nepravdivý údaj způsobilý tomuto soutěžiteli přivodit újmu.
+ - (2) Zlehčováním je i uvedení a rozšiřování pravdivého údaje o poměrech, výkonech nebo výrobku jiného soutěžitele, pokud jsou způsobilé tomuto soutěžiteli přivodit újmu. Nekalou soutěží však není, byl-li soutěžitel k takovému jednání okolnostmi donucen (oprávněná obrana).
+2. **Porušení obchodního tajemství**
+ - Porušením obchodního tajemství je jednání, jímž jednající jiné osobě neoprávněně sdělí, zpřístupní, pro sebe nebo pro jiného využije obchodní tajemství, které může být využito v soutěži a o němž se dověděl
+  - a) tím, že mu tajemství bylo svěřeno nebo jinak se stalo přístupným na základě jeho pracovního poměru k soutěžiteli nebo na základě jiného vztahu k němu, popřípadě v rámci výkonu funkce, k níž byl soudem nebo jiným orgánem povolán, nebo
+  - b) vlastním nebo cizím jednáním příčícím se zákonu.
+3. **dotěrné obtěžování**
+ - (1) Dotěrné obtěžování je sdělování údajů o soutěžiteli, zboží nebo službách, jakož i nabídka zboží nebo služeb s využitím telefonu, faxového přístroje, elektronické pošty nebo podobných prostředků, ačkoli si takovou činnost příjemce zjevně nepřeje, nebo sdělování reklamy, při kterém její původce utají nebo zastře údaje, podle nichž ho lze zjistit, a neuvede, kde příjemce může bez zvláštních nákladů přikázat ukončení reklamy.
+ - (2) Rozesílá-li se reklama na elektronickou adresu, kterou podnikatel získal v souvislosti s prodejem zboží nebo poskytnutím služby, nejde o dotěrné obtěžování, pokud podnikatel tuto adresu používá k přímé reklamě pro vlastní zboží nebo služby a druhá strana reklamu nezakázala, ačkoli ji podnikatel při získání adresy i při každém jejím použití k reklamě zřetelně upozornil na právo přikázat bez zvláštních nákladů ukončení reklamy.
+4. **ohrožení zdraví nebo životního prostředí**
+ - Ohrožení zdraví nebo životního prostředí je jednání, jímž soutěžitel zkresluje podmínky hospodářské soutěže tím, že provozuje výrobu, uvádí na trh výrobek nebo provádí výkon ohrožující zájem na ochraně zdraví nebo životního prostředí chráněný zákonem, aby tak získal pro sebe nebo pro jiného prospěch na úkor jiného soutěžitele nebo zákazníků.
+5. **Ochrana proti nekalé soutěži**
+  - § 2988
+    - Osoba, jejíž právo bylo nekalou soutěží ohroženo nebo porušeno, může proti rušiteli požadovat, aby se nekalé soutěže zdržel nebo aby odstranil závadný stav. Dále může požadovat přiměřené zadostiučinění, náhradu škody a vydání bezdůvodného obohacení.
+  - § 2989
+    - (1) Právo, aby se rušitel nekalé soutěže zdržel nebo aby odstranil závadný stav, může mimo případy uvedené v § 2982 až 2985 uplatnit též právnická osoba oprávněná hájit zájmy soutěžitelů nebo zákazníků.
+    - (2) Uplatní-li spotřebitel právo, aby se rušitel zdržel nekalé soutěže nebo aby odstranil závadný stav a jde-li o některý případ stanovený v § 2976 až 2981 nebo v § 2987, musí rušitel prokázat, že se nekalé soutěže nedopustil. Uplatní-li spotřebitel právo na náhradu škody, musí rušitel prokázat, že škoda nebyla způsobena nekalou soutěží.
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -7037,7 +7056,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Ochrana hospodářské soutěže
+- [x] Ochrana hospodářské soutěže
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -7052,6 +7071,41 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
 - Ochrana hospodářské soutěže má tedy 2 složky:
   - Ochrana proti nekalé soutěži: viz dvě předchozí otázky - jedná se o ochranu v rámci probíhající hospodářské soutěže
   - ochrana proti omezování hospodářské soutěže: viz tato otázka - jedná se o ochranu samotné hospodářské soutěže jako takové - tedy nastavení a ochrana takových podmínek, které umožňují podstivou hospodářskou soutěž
+-	součást práva veřejného + vliv práva EU je zde mnohem silnější než v případě práva nekalé soutěže
+-	hospodářská soutěž = soutěžení o získání zákazníků; existence soutěžního vztahu = poměr konkrétních soutěžitelů, vždy posouzení v relaci – zda se mezi nimi uskutečňuje soupeření, či nikoli
+-	formy protisoutěž. jednání: **kartelové dohody**, **zneužití dominantního postavení** a **nedovolené koncentrace**
+
+- **Ochrana proti omezování soutěže**
+  - Osoba, jejíž právo bylo ohroženo nebo porušeno nedovoleným omezením soutěže, má práva stanovená v § 2988.
+
+- **Škoda způsobená omezováním hospodářské soutěže**
+  -	PPJ je naplnění některé ze zvl. skutk. podstat v generální klauzuli nekalé soutěže (§ 2976)
+  -	§ 2988 OZ: Poškozená osoba může požadovat náhradu škody + přiměřené zadostiučinění (tj. i nemajetková újma) - jinak se uplatní obecná ustanovení o odpovědnosti
+  -	+ (není součástí práva náhradu Š:) aby se rušitel zdržel, aby odstranil závadný stav, vydal bezdův. obohacení
+  -	§ 2990 poškozená osoba z nedovoleného omezení soutěže má práva jako v § 2988
+
+- **Typy omezování HS**
+  - Jsou upraveny v zákoně o ochraně hospodářské soutěže
+  - **Dohody narušující soutěž**
+    - Jedná se o dohody, jejich účelem je narušit soutěž, zejména:
+      - a) přímém nebo nepřímém určení cen, popřípadě o jiných obchodních podmínkách,
+      - b) omezení nebo kontrole výroby, odbytu, výzkumu a vývoje nebo investic,
+      - c) rozdělení trhu nebo nákupních zdrojů,
+      - d) tom, že uzavření smlouvy bude vázáno na přijetí dalšího plnění, které věcně ani podle obchodních zvyklostí a zásad poctivého obchodního styku s předmětem smlouvy nesouvisí,
+      - e) uplatnění rozdílných podmínek vůči jednotlivým soutěžitelům při shodném nebo srovnatelném plnění, jimiž jsou někteří soutěžitelé v hospodářské soutěži znevýhodněni,
+      - f) tom, že účastníci dohody nebudou obchodovat či jinak hospodářsky spolupracovat se soutěžiteli, kteří nejsou účastníky dohody, anebo jim budou jinak působit újmu (skupinový bojkot).
+  - **Zneužití dominantního postavení**
+    - Dominantní postavení nesmí být užito na újmu jiných soutěžitelů, zejména:
+      - a) přímé nebo nepřímé vynucování nepřiměřených podmínek ve smlouvách s jinými účastníky trhu, zvláště vynucování plnění, jež je v době uzavření smlouvy v nápadném nepoměru k poskytovanému protiplnění,
+      - b) vázání souhlasu s uzavřením smlouvy na podmínku, že druhá smluvní strana odebere i další plnění, které s požadovaným předmětem smlouvy věcně ani podle obchodních zvyklostí nesouvisí,
+      - c) uplatňování rozdílných podmínek při shodném nebo srovnatelném plnění vůči jednotlivým účastníkům trhu, jimiž jsou tito účastníci v hospodářské soutěži znevýhodňováni,
+      - d) zastavení nebo omezení výroby, odbytu nebo výzkumu a vývoje na úkor spotřebitelů,
+      - e) dlouhodobé nabízení a prodej zboží za nepřiměřeně nízké ceny, které má nebo může mít za následek narušení hospodářské soutěže,
+  - **Nedovolené koncentrace**
+    - Aby nedocházelo k monopolizaci na trhu -> Úřad pro ochranu hospodářské soutěže musí schvalovat určité druhy spojení podnikatelů, a to pokud:
+      - Celkový čistý obrat všech spojujících se soutěžitelů dosažený za poslední účetní období na trhu České republiky je vyšší než 1,5 miliardy Kč a alespoň dva ze spojujících se soutěžitelů dosáhli každý za poslední účetní období na trhu České republiky čistého obratu vyššího než 250 milionů Kč,
+      - etc.
+
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
@@ -12338,9 +12392,9 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Tržní hodnota podniku
-  - [ ] Faktory tvorby hodnoty
-  - [ ] Měření hodnoty podniku
+- [x] Tržní hodnota podniku
+  - [x] Faktory tvorby hodnoty
+  - [x] Měření hodnoty podniku
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -12360,107 +12414,108 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
     - Na tržním principu - tržní multiplikátor, srovnatelných trancakcí
     - Reálných opcí
 
-    18. Tržní hodnota podniku, faktory tvorby hodnoty, měření hodnoty podniku.
-    Ocenit podnik je velice problematické, jak ocenit podnik je těžké s ohledem na strukturu podniku např. u a.s. je to lehčí  tj. tam, kde lze zjistit a ocenit majetek např. dle rozvahy a podíváme se na likvidační hodnotu podniku. Dále zde zjištovat hodnotu např. i z cen akcií (tržní hodnota akcií na trhu, obchodovatelnost akcií na kapitálovém trhu aj.
-    Hodnota na trhu může být často ovlivněna ocenitelností akcií na trhu (např. nadhodnocení akcií v určitém období, je ovlivněna výkyvy na akciových trzích ….
-    Fundamentální hodnota podniku souvisí s taktickými plány, projkety podniku, které definují jeho cenu.
+- **Tržní hodnota podniku**
+  - Ocenit podnik je velice problematické, jak ocenit podnik je těžké s ohledem na strukturu podniku např. u a.s. je to lehčí  
+    - tj. tam, kde lze zjistit a ocenit majetek např. dle rozvahy a podíváme se na likvidační hodnotu podniku.
+    - Dále zde zjištovat hodnotu např. i z cen akcií (tržní hodnota akcií na trhu, obchodovatelnost akcií na kapitálovém trhu aj.
+      - Hodnota na trhu může být často ovlivněna ocenitelností akcií na trhu (např. nadhodnocení akcií v určitém období, je ovlivněna výkyvy na akciových trzích ….
+  - Fundamentální hodnota podniku souvisí s taktickými plány, projkety podniku, které definují jeho cenu.
 
-    Tržní hodnota podniku je daná např. rozvahou, nebo oceňovacími metodami podniku.
+- Tržní hodnota podniku je daná např. rozvahou, nebo oceňovacími metodami podniku.
+  - EVA, tržní přidaná hodnota podniku.
 
-    EVA, tržní přidaná hodnota podniku.
+- **Pojmy goodwill a know-how.**
+  - Goodwill = dobré jméno firmy. Goodwill je pojem používaný pro trhem oceňovanou hodnotu podniku (výrobku nebo služby), která zvyšuje jeho celkovou hodnotu nad rámec sumy jeho fyzických aktiv.
+    - Zjednodušeně se vykládá jako dobrá pověst, dobré jméno podniku, prestiž, image podniku.
+    - V praxi se nepřekládá a běžně používá anglický pojem Goodwill.
+  - Know-how = dovednost dané firmy.
 
-    Pojmy goodwill a know-how.
+- **Důvody zjišťování tržní hodnoty podniku**
+  - získávání dalšího vlastního nebo cizího kapitálu pro rozvoj podniku
+  - koupě nebo prodej podniku
+  - růst pomocí akvizic
+  - uvedení podniku na burzu
+  - rozhodování o konkursu aj.
 
-    Goodwill = dobré jméno firmy. Goodwill je pojem používaný pro trhem oceňovanou hodnotu podniku (výrobku nebo služby), která zvyšuje jeho celkovou hodnotu nad rámec sumy jeho fyzických aktiv. Zjednodušeně se vykládá jako dobrá pověst, dobré jméno podniku, prestiž, image podniku. V praxi se nepřekládá a běžně používá anglický pojem Goodwill.
+- **Postup při oceňování**
+  1. Hodnocení podniku ze strategického hlediska
+  2. Ocenění podniku z finančního hlediska; ocenění obsahuje dva kroky:
+    - a) ocenění podniku „samého o sobě“
+    -	b) ocenění podniku z hlediska záměrů, které by měly být uskutečněny v budoucnu
+    - Metody oceňování podniku založeny na:
+      -  analýze výnosů
+      -  analýze tržní hodnoty
+      -  analýze majetku
 
-    Know-how = dovednost dané firmy.
+- **Výnosové metody oceňování**
+  -	založené na očekávaných hotovostních tocích (teoreticky nejsprávnější metoda)
+  -	problémem je definovat:
+    - co se pod pojmem peněžní tok skrývá
+    - jak velké toky předvídat v budoucnu
+    - stanovení diskontní sazby
 
+- **a)	metoda diskontovaného peněžního toku**
+  -	stanovení tzv. volného cash flow
+  -	volné cash flow = celkový peněžní příjem podniku po zdanění, který je k dispozici všem, kdo poskytují podniku kapitál, tj. věřitelům i vlastníkům (lze jej považovat za peněžní příjem po zdanění, který by byl k dispozici akcionářům podniku, kdyby podnik neměl žádný dluh)
 
-    Důvody zjišťování tržní hodnoty podniku
-    získávání dalšího vlastního nebo cizího kapitálu pro rozvoj podniku
-    -   koupě nebo prodej podniku
-    -   růst pomocí akvizic
-    -   uvedení podniku na burzu
-    -   rozhodování o konkursu aj.
-    Postup při oceňování
-    1. Hodnocení podniku ze strategického hlediska
-    2. Ocenění podniku z finančního hlediska; ocenění obsahuje dva kroky:
-    	a) ocenění podniku „samého o sobě“
-    	b) ocenění podniku z hlediska záměrů, které by měly být uskutečněny v budoucnu
-    Metody oceňování podniku založeny na:
-    -  analýze výnosů
-    -  analýze tržní hodnoty
-    -  analýze majetku
-    Výnosové metody oceňování
-    •	založené na očekávaných hotovostních tocích (teoreticky nejsprávnější metoda)
-    •	problémem je definovat:
-    		-      co se pod pojmem peněžní tok skrývá
-    		-       jak velké toky předvídat v budoucnu
-    		-       stanovení diskontní sazby
-    a)	metoda diskontovaného peněžního toku
-    -	stanovení tzv. volného cash flow
-    -	volné cash flow = celkový peněžní příjem podniku po zdanění, který je k dispozici všem, kdo poskytují podniku kapitál, tj. věřitelům i vlastníkům (lze jej považovat za peněžní příjem po zdanění, který by byl k dispozici akcionářům podniku, kdyby podnik neměl žádný dluh)
-    b)	 metoda založená na koncepci EVA
-    -	Hpodniku = investovaný kapitál + hodnota přidaná trhem
+- **b)	 metoda založená na koncepci EVA**
+  -	Hpodniku = investovaný kapitál + hodnota přidaná trhem
+  -	Hpodniku = investovaný kapitál + současná hodnota budoucích EVA
 
-    -	Hpodniku = investovaný kapitál + současná hodnota budoucích EVA
+- **c)	 metoda kapitalizovaných zisků**
+  - Časová řada minulých zisků (období 3-5 let) se upravuje na srovnatelnou reálnou úroveň a stává se základem pro výpočet tzv. trvalého zisku
+    - (= velikost prostředků, které je možno rozdělit vlastníkům; tyto prostředky mohou být rozděleny, aniž by byla dotčena podstata podniku)
+  -	Pro odhad trvalého zisku se používají dvě metody:
+    - paušální metoda
+    - analytická metoda (na základě rozborů faktorů působících na zisk se pokusíme odhadnout vývoj trvale odnímatelného zisku do budoucnosti)
 
-    c)	 metoda kapitalizovaných zisků
-    Časová řada minulých zisků (období 3-5 let) se upravuje na srovnatelnou reálnou úroveň a stává se základem pro výpočet tzv. trvalého zisku
-    (= velikost prostředků, které je možno rozdělit vlastníkům; tyto prostředky mohou být rozděleny, aniž by byla dotčena podstata podniku)
-    •	Pro odhad trvalého zisku se používají dvě metody:
-    -        paušální metoda
-    -        analytická metoda (na základě rozborů faktorů působících na zisk se pokusíme odhadnout vývoj trvale odnímatelného zisku do budoucnosti)
-    d)	 kombinované metody
-    e)	kombinace majetkového a výnosového ocenění
-    Metody:
-    Metoda střední hodnoty
-    Metoda kapitalizovaných nadzisků
-    Metody tržního srovnávání
-    •	Srovnání s podobnými podniky, jejichž hodnota je známá
-    •	Srovnání s jinými podniky, které byly předmětem transakcí a známe tedy jejich realizační cenu
-    •	Srovnání s podobnými podniky, jejichž podíly byly oceňovány pro vstup na  burzu
-    •	vyžaduje vyspělý trh s cennými papíry s dobře se orientujícími investory, kteří svými nákupy a prodeji nepřipustí existenci výrazně podhodnocených nebo nadhodnocených akcií
-    •	je omezené z důvodu problematické srovnatelnosti podniků
+- **d)	 kombinované metody**
 
-    Majetkové ocenění
-    •	určení hodnoty vlastního kapitálu, kterou získáme odečtením všech dluhů podniku od součtu všech položek aktiv.
-    Substanční hodnota podniku = souhrn relativně samostatného ocenění jeho jednotlivých majetkových složek za předpokladu, že podnik bude pokračovat ve své činnosti (nejedná se proto o likvidační hodnotu)
-    Pracujeme s informacemi z účetních výkazů:
-    •	orientace na historické účetnictví (oceňování v pořizovacích cenách) způsobuje, že ceny konkrétních položek aktiv neodrážejí změny tržních cen
-    •	 v inflačním prostředí se mění kupní síla peněžní jednotky používané v účetnictví
-    •	 může dojít k různým postupům při vyjadřovaní časového posunu mezi výdaji a náklady, resp. příjmy a výnosy
-    Ø   důsledkem může být fakt,  že účetně je vykázána nižší hodnota vlastního kapitálu než je hodnota reálná o tzv. tiché rezervy
+- **e)	kombinace majetkového a výnosového ocenění**
+- **Metody:**
+  - Metoda střední hodnoty - subtanční (majetková hodnota) + hodnota výdělku / 2
+  - Metoda kapitalizovaných nadzisků - ukazuje jak podnik vydělává nad alternativní bezrizikové příležitosti
+  - Metody tržního srovnávání
+    -	Srovnání s podobnými podniky, jejichž hodnota je známá
+    -	Srovnání s jinými podniky, které byly předmětem transakcí a známe tedy jejich realizační cenu
+    -	Srovnání s podobnými podniky, jejichž podíly byly oceňovány pro vstup na  burzu
+      -	vyžaduje vyspělý trh s cennými papíry s dobře se orientujícími investory, kteří svými nákupy a prodeji nepřipustí existenci výrazně podhodnocených nebo nadhodnocených akcií
+      -	je omezené z důvodu problematické srovnatelnosti podniků
 
-    Substituční hodnota provozně nutného majetku brutto
-    - Reálná hodnota závazků
-    + Tržní (prodejná) hodnota majetku nepotřebného pro provoz
-    = Substanční hodnota netto
-    nebo:
-    Vlastní kapitál podle účetnictví
-    + Zvýšení (snížení) účetní hodnoty aktiv
-    - Zvýšení (snížení) účetní hodnoty pasiv
-    =  Substanční hodnota netto
-    Kupní cena podniku může být vyšší než jeho substanční hodnota - tento rozdíl potom představuje goodwill.
+- **Majetkové ocenění**
+  -	určení hodnoty vlastního kapitálu, kterou získáme odečtením všech dluhů podniku od součtu všech položek aktiv.
+    - Substanční hodnota podniku = souhrn relativně samostatného ocenění jeho jednotlivých majetkových složek za předpokladu, že podnik bude pokračovat ve své činnosti (nejedná se proto o likvidační hodnotu)
+  - Pracujeme s informacemi z účetních výkazů:
+    -	orientace na historické účetnictví (oceňování v pořizovacích cenách) způsobuje, že ceny konkrétních položek aktiv neodrážejí změny tržních cen
+      - v inflačním prostředí se mění kupní síla peněžní jednotky používané v účetnictví
+      -	 může dojít k různým postupům při vyjadřovaní časového posunu mezi výdaji a náklady, resp. příjmy a výnosy
+        - důsledkem může být fakt,  že účetně je vykázána nižší hodnota vlastního kapitálu než je hodnota reálná o tzv. tiché rezervy
 
-    Likvidační hodnota
-    = množství peněz, které můžeme získat prodejem jednotlivých částí podniku
-    (celková hodnota podniku však není rovna součtu hodnot jednotlivých podnikových majetkových součástí – tyto statky musí být spojeny do jednoho celku, aby bylo možné dosáhnout produkce a zhodnocení vložených prostředků)
+- **Substituční hodnota provozně nutného majetku brutto**
+  - - Reálná hodnota závazků
+  - + Tržní (prodejná) hodnota majetku nepotřebného pro provoz
+  - = Substanční hodnota netto
+- nebo:
+- **Vlastní kapitál podle účetnictví**
+  - + Zvýšení (snížení) účetní hodnoty aktiv
+  - - Zvýšení (snížení) účetní hodnoty pasiv
+  - =  Substanční hodnota netto
+- Kupní cena podniku může být vyšší než jeho substanční hodnota - tento rozdíl potom představuje goodwill.
 
-
-     FAKTORY TVORBY HODNOTY
-    -	 Tržby, náklady na mzdy,
-    -	výnosy z rozsahu  (čím víc strojů mám tím víc dokážu vyrobit s nižšími náklady na výrobu a tím vytvářím vyšší hodnotu na trhu
-    -	a z šíře sortimentu  - oproti konkurenci dokážu vytvářet levnější zboží na trhu
-    -	inovace – každoročně li zvyšujeme výkon, měníme design a zvyšujeme funkčnost -…. Tzv. Inkrementální inovace
-    -	další příklad jediný poskytovatel na trhu služeb apod.
-    -	TQM  praktiky kvality – princip  SIG SIGMA  -  kdy se snažíme poskytovat kvalitu za
-    -	každou cenu. Sigma --- odchylka …
+- **Likvidační hodnota**
+  - = množství peněz, které můžeme získat prodejem jednotlivých částí podniku
+  - (celková hodnota podniku však není rovna součtu hodnot jednotlivých podnikových majetkových součástí – tyto statky musí být spojeny do jednoho celku, aby bylo možné dosáhnout produkce a zhodnocení vložených prostředků)
 
 
-    MĚŘENÍ HODNOTY PODNIKU   viz začátek prezentace
-    -	inovace (marketingové, procesní, inovační, produktové)
-
+- **FAKTORY TVORBY HODNOTY**
+  -	Tržby, náklady na mzdy,
+  -	výnosy z rozsahu  (čím víc strojů mám tím víc dokážu vyrobit s nižšími náklady na výrobu a tím vytvářím vyšší hodnotu na trhu
+  -	a z šíře sortimentu  - oproti konkurenci dokážu vytvářet levnější zboží na trhu
+  -	inovace – každoročně li zvyšujeme výkon, měníme design a zvyšujeme funkčnost -…. Tzv. Inkrementální inovace
+  -	další příklad jediný poskytovatel na trhu služeb apod.
+  -	TQM  praktiky kvality – princip  SIG SIGMA  -  kdy se snažíme poskytovat kvalitu za
+  -	každou cenu. Sigma --- odchylka …
+  -	inovace (marketingové, procesní, inovační, produktové)
 
 ----
 
@@ -12476,105 +12531,130 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Výroba a její zabezpečení
+  - [x] Výrobní plán
+- [x] Druhy podniků
+- [x] Typy výrobních činností
+- [x] Výnosy z rozsahu
+- [x] Lokalizace podniku
+- [x] Globální hodnotové řetězce
+- [x] Produktová inovace
+- [x] Procesní inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-19. Výroba a její zabezpečení (výrobní plan, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace.
-Lze uvést např. Automobilku a povědět o ni vše o výrobě atd.
-Výroba je každá činnost, která tvoří hodnotu. Výroba zahrnuje všechny hospodářské činnosti spojené se zajištěním výrobků a služeb. Podstatou výroby je postupný proces přeměny vstupů (zdrojů) ve výstupy (produkty, tj. hmotné výrobky nebo nehmotné služby) – produkční proces. Výroba úzce souvisí s plánováním, logistikou a oblastí řízení kvality.
+- **Výroba**
+  - Lze uvést např. Automobilku a povědět o ni vše o výrobě atd.
+  - Výroba je každá činnost, která tvoří hodnotu.
+  - Výroba zahrnuje všechny hospodářské činnosti spojené se zajištěním výrobků a služeb.
+  - Podstatou výroby je postupný proces přeměny vstupů (zdrojů) ve výstupy (produkty, tj. hmotné výrobky nebo nehmotné služby) – produkční proces.
+  - Výroba úzce souvisí s plánováním, logistikou a oblastí řízení kvality.
 
-Výrobní plán
-Základním prvkem plánování je stanovení cíle. Cílů plánování výroby může být několik. Převážně se jedná o stanovení možného termínu dodání výrobku, optimální využití zdrojů a zajištění podkladů pro plánování materiálu. V průběhu sestavení plánu mohou být aplikovány další podmínky pro optimalizaci pořadí výrobních zakázek.
-V rámci vlastního procesu plánování se obvykle setkáváme s několika typickými problémy, které se objevují v různých variantách. K nejčastějším patří neúplnost, nebo dokonce absence technologických postupů, případně chybějící normy pro jednotlivé výrobní operace. To může být způsobeno neudržováním takovýchto dat nebo neexistencí přesného postupu a rozsahu výroby v okamžiku zahájení (zakázková výroba). Pokud výrobní postupy existují, stále ještě není vyhráno. Na řadu mohou přijít potíže s neustále se měnícími požadavky na termín dokončení zakázky, což obvykle vede k nesystematickým zásahům do výrobního plánu.
-Finálním požadavkem výroby je dosažení optimálních nákladů při dodržení požadovaného termínu dodání. Toho se dá dosáhnout pouze dodržováním stanovených postupů ve všech fázích plánování. Pro úspěšné dokončení výroby a splnění takového požadavku je důležitá znalost vlastní technologie a nutnost konzultace termínů dokončení s výrobním oddělením. To k jejich určení použije vhodný kalkulační program nebo data z ERP systému a stanoví základní požadavky na materiál a výrobní kapacity. Výrobní program se musí plnit postupně a dle možností ihned aktualizovat tak, aby případné další požadavky měly od počátku co nejreálnější termíny. Z tohoto pohledu se ukazuje jako vhodnější plánovat spíše větší objem zakázek na delší období, než operativně plánovat malé zakázky. Ve velkém množství zakázek se dají obvykle nalézt společné parametry, které ovlivňují ideální sestavení plánu. Proto také plánování většího objemu dává možnost lepší optimalizace. Poskytuje tak možnost účelnějšího vytížení kapacit a lepšího rozvržení nákladů výroby.
-Změny v plánování
-Je velmi důležité, aby do plánu zasahoval pouze plánovač na základě jemu dostupných informací, protože při narušení některých podmínek může dojít k zásadní změně výstupu. Dodržování pravidla minimálního zásahu je podstatné především u detailních plánů. Týká se to zejména výroby, která bezprostředně souvisí s dalšími navazujícími činnostmi, jako je kooperace, expedice, přísun materiálu do výroby nebo plánování vlastního nákupu. Tato pravidla samozřejmě omezují obchodníky, kteří vyžadují flexibilní změny výroby. Pro zachování možnosti operativního zásahu do plánu jsou nutné předem dohodnuté podmínky změn. Na důležitosti tak nabývá nutnost komunikace mezi jednotlivými odděleními v prodejním a výrobním procesu. Jako nezbytnost se v tomto případě jeví sdílení informací v ERP systému.
-Jednofázová výroba
-Pokud máme výrobu dostatečně dobře popsanou pomocí technologického postupu, je možné použít k sestavení plánu výpočetní techniku. Velmi dobře lze v informačních systémech zpracovávat výrobu na výrobních linkách, kde zakázky běží bezprostředně za sebou (sériová výroba) a linkový čas je zde zásadní.
-Výhodou pro plánování je, když čas hlavní operace převládá nad operačním časem ostatních (potisky, výstupní kontrola, příprava expedice atd.). Okamžiky, které ovlivňují vlastní plánování, souvisí se složitostí používané výrobní technologie. V takovém procesu bývá zpravidla zásadní proces nastavení, přeprogramování či kalibrace výrobní linky.
-Tyto prostoje významně ovlivňují celkové výrobní náklady, protože v době změny výroby linka nevyrábí a vytěžuje obslužnou kapacitu. Proto v rámci optimalizačního procesu definujeme podmínky, které je nutné nebo přínosné zachovávat. Příkladem může být vyrábění zakázek ze stejného materiálu, nebo výrobků shodných parametrů v jedné nepřerušené dávce, bez nutnosti změny nastavení linky.
-I u tohoto typu výroby je nutné stanovit pravidla. Jejich porušení má za následek ovlivnění plánu a následné ohrožení termínu dodání nebo zvýšení nákladů výroby. Takovým pravidlem je obvykle stanovení minimální výrobní dávky (nebo několika dávek) bez nutnosti změnit zásadní parametry výrobního zařízení. Zásahy do takového plánu jsou pak relativně jednoduché. Jedná se například o vyřazení nebo vložení zakázky podobných vlastností (menší než původní plánované), úpravy množství, změnu pořadí dílčích výrobních příkazů apod.
-Výroba ve více fázích
-Daleko složitější je situace v případě, kdy je výrobek vyráběn v několika fázích. Operace se střídají a pracoviště jsou sdílena různými zakázkami. V tomto případě je poměrně složité stanovit univerzální klíč pro naplánování výroby. Z existujícího technologického postupu sice víme, jak se bude vyrábět, ale podobných zakázek může být v plánu mnoho. A kapacity jsou omezené. Výhodu získáme identifikací úzkého místa, přes které zakázky prochází. Pak je možné toto pracoviště dokonale vytížit stanovením pořadí průchodu zakázek. Ostatní operace se doplánují okolo klíčového výrobního procesu. Typickým příkladem může být příprava materiálu, jeho primární dělení a následný přesun ke složitějšímu strojnímu zařízení, které je vytíženo v maximálním rozsahu (např. obráběcí stroje, energetická zařízení apod.). Zde je materiál postupně, dle stanoveného pořadí, zpracován a pokračuje na další, méně významné pracoviště. Pokud takovým pracovištěm prochází zakázka vícekrát, je optimalizace a numerické zpracování podstatně složitější. Je nutné do plánu doplňovat priority, podle kterých se zakázky na pracovišti řadí. Ve většině případů se jedná o zakázky, které mají dlouhé technologické časy a operace na sebe nemusí bezprostředně navazovat (jsou například vykonávány v jiném místě).
-Plánování materiálu
-Dosud jsme pominuli důležitou součást plánovacích procesů – plánování materiálu. Je naprosto pochopitelné, že bez materiálu nelze vyrábět a jeho nedostatek je kritický pro dokončení výroby v termínu. Abychom zajistili včasnou a plynulou dodávku materiálu, je třeba věnovat dostatečnou pozornost jeho objednání.
-Pro vytvoření požadavku na materiál musí být stanoven seznam potřebného a způsob jeho pořízení (nákup, jiná výroba). Výrobní plán stanoví datum potřeby materiálu a ve většině případů jsme schopni stanovit, ke které operaci má být připraven. Pokud máme definovány doby dodání, informační systém by měl vytvořit požadavky na nákup a zajistit jeho objednání.
-Velmi zajímavá je úloha stanovení plánu výroby na paralelních zařízeních s požadavkem na stejný materiál. Kapacitní plánování definuje zatížení jednotlivých strojů v čase. Při započtení plánované spotřeby materiálu zjistíme, kdy bude třeba materiál znovu doplnit tak, aby mohla výroba nepřetržitě pokračovat, případně aby mohlo dojít k přeplánování výrobních zařízení.
-Druhy podniků
-1.  Podle zaměření a způsobu hospodaření - Toto třídění se řídí hlavním cílem podniku. Je-li jím dosažení zisku, jsou tyto podniky nazývány ziskové. Jsou-li cíle jiné, hovoříme o neziskových organizacích.
-2.  Podle vlastnictví majetku - Podle vlastnictví majetku můžeme rozlišit podniky:
-- soukromé
-- družstevní
-- státní
-- církevní, politické strany, zájmová sdružení
-- nadace
-3.  Podle výkonů - 1. podniky produkující statky:                                                                         
-- těžební = zabývají se těžbou surovin (uhlí, železná ruda, kámen... ). Získávají statky z nalezišť v přírodě.
-- zemědělské = zabezpečují výrobu zemědělských produktů. Získávají statky z přírody, hlavní výrobní  činitel je půda.
-- energetické = zabezpečují výrobu a produkce energií. Získávají statky z nalezišť v přírodě.
-- zpracovatelské = vyrábějí výrobní činitele pro další výrobu (stroje ...) a spotřební statky pro obyvatelstvo (oděvy, nábytek ... ).
-2. podniky poskytující služby:
-poskytují služby pro jiné podniky nebo pro obyvatelstvo, pro majetek osob i podniků. Služby uspokojují lidské potřeby průběhem své činnosti, nedají se skladovat.
-Služby se poskytují při: rozdělování a směně hmotných statků, zajišťování peněžních prostředků a hospodaření s nimi, údržbě a opravách výrobků, ochraně majetku a osob, péči o zdraví, výchově a vzdělávání.
-4.  Podle velikosti - nejmenší podniky (do 10 zaměstnanců)
-- malé podniky (desítky zaměstnanců)
-- střední podniky (stovky zaměstnanců)
-- velké podniky (více než 500 zaměstnanců).
-5.  Podle příslušnosti k určitému odvětví - Odvětví jsou vymezena klasifikací ekonomických činností stanovenou Českým statistickým úřadem.
-Například:
-      1) zemědělství, myslivost, lesní hospodářství
-      2) dobývání nerostných surovin
-      3) výroba a rozvod elektřiny, plynu, vody
-      4) zdravotnictví, veterinární služby, sociální služby
-      5) pohostinství a ubytování ....
-6.  Podle dalších hledisek (zvláštní druhy podniků) - Jsou to podniky založené spojením našeho a zahraničního kapitálu. Mohou je zakládat jak tuzemské, tak zahraniční právnické a fyzické osoby. Podniky mohou mít různé právní formy. Například Toyota Peugeot Citroën Automotive (T. P. C. A. Kolín) vznikla jako joint-venture firem Toyota Motor Corporation a PSA Peugeot Citroën.
+- **Výrobní plán**
+  - Základním prvkem plánování je stanovení cíle.
+  - Cílů plánování výroby může být několik.
+  - Převážně se jedná o stanovení možného termínu dodání výrobku, optimální využití zdrojů a zajištění podkladů pro plánování materiálu.
+  - V průběhu sestavení plánu mohou být aplikovány další podmínky pro optimalizaci pořadí výrobních zakázek.
 
-Typy výrobní činnosti
+- **Druhy podniků**
+  1. Podle zaměření a způsobu hospodaření
+    - Toto třídění se řídí hlavním cílem podniku.
+    - Je-li jím dosažení zisku, jsou tyto podniky nazývány ziskové.
+    - Jsou-li cíle jiné, hovoříme o neziskových organizacích.
+  2. Podle vlastnictví majetku - Podle vlastnictví majetku můžeme rozlišit podniky:
+    - soukromé
+    - družstevní
+    - státní
+    - církevní, politické strany, zájmová sdružení
+    - nadace
+  3. Podle výkonů -
+    1. podniky produkující statky:                                                                         
+      - těžební = zabývají se těžbou surovin (uhlí, železná ruda, kámen... ). Získávají statky z nalezišť v přírodě.
+      - zemědělské = zabezpečují výrobu zemědělských produktů. Získávají statky z přírody, hlavní výrobní  činitel je půda.
+      - energetické = zabezpečují výrobu a produkce energií. Získávají statky z nalezišť v přírodě.
+      - zpracovatelské = vyrábějí výrobní činitele pro další výrobu (stroje ...) a spotřební statky pro obyvatelstvo (oděvy, nábytek ... ).
+    2. podniky poskytující služby:
+      - poskytují služby pro jiné podniky nebo pro obyvatelstvo, pro majetek osob i podniků. Služby uspokojují lidské potřeby průběhem své činnosti, nedají se skladovat.
+      - Služby se poskytují při: rozdělování a směně hmotných statků, zajišťování peněžních prostředků a hospodaření s nimi, údržbě a opravách výrobků, ochraně majetku a osob, péči o zdraví, výchově a vzdělávání.
+    4. Podle velikosti
+      - nejmenší podniky (do 10 zaměstnanců)
+      - malé podniky (desítky zaměstnanců)
+      - střední podniky (stovky zaměstnanců)
+      - velké podniky (více než 500 zaměstnanců).
+    5. Podle příslušnosti k určitému odvětví - Odvětví jsou vymezena klasifikací ekonomických činností stanovenou Českým statistickým úřadem.
+      - Například:
+        - 1) zemědělství, myslivost, lesní hospodářství
+        - 2) dobývání nerostných surovin
+        - 3) výroba a rozvod elektřiny, plynu, vody
+        - 4) zdravotnictví, veterinární služby, sociální služby
+        - 5) pohostinství a ubytování ....
+    6. Podle dalších hledisek (zvláštní druhy podniků) - Jsou to podniky založené spojením našeho a zahraničního kapitálu. Mohou je zakládat jak tuzemské, tak zahraniční právnické a fyzické osoby. Podniky mohou mít různé právní formy. Například Toyota Peugeot Citroën Automotive (T. P. C. A. Kolín) vznikla jako joint-venture firem Toyota Motor Corporation a PSA Peugeot Citroën.
 
-Výrobní činnost podniku (výroba podniku) spočívá v přeměně (transformaci) výrobních faktorů (výrobních činitelů, vstupů) ve výrobky (výstupy). Tato přeměna probíhá jako výrobní proces, který se skládá z celé řady procesů, a sice:  procesů pracovních, tj. procesů s přímou účastí člověka,  procesů automatických, tj. procesů bez přímé účasti člověka, a  procesů přírodních, tj. procesů, kdy působí přírodní síly, pro které člověk připravil podmínky – např. kvašení apod. Výrobní proces obvykle probíhá v etapách; pokud jde o výrobní podnik, zpravidla se rozlišuje:  předvýrobní etapa, tj. vývoj, konstrukční a technologická příprava výrobku a výroby, zajištění materiálů apod.;  výrobní etapa a  odbytová etapa. Každý výrobek, popř. jeho součást, vzniká určitým výrobním postupem, který se skládá ze sledu operací odpovídajících dané technologii. Ve výrobním podniku lze výrobu rozčlenit do následujících skupin:  hlavní výroba – výrobky této výroby tvoří hlavní náplň výroby podniku;  vedlejší výroba – tj. výroba polotovarů, náhradních dílů;  doplňková výroba – tj. výroba, která představuje využití a zpracování odpadu z hlavní a vedlejší výroby, nebo představuje využití volné kapacity;  přidružená výroba – tj. výroba, která se od předcházejících výrob obvykle liší charakterem výroby. Ve výrobním podniku kromě těchto základních výrobních procesů probíhá řada - pomocných procesů – údržba strojů a budov, výroba energie apod. a - obslužných procesů – skladování, doprava, balení, kontrola apod.
+- **Typy výrobní činnosti**
+  - Výrobní činnost podniku (výroba podniku) spočívá v přeměně (transformaci) výrobních faktorů (výrobních činitelů, vstupů) ve výrobky (výstupy).
+  - Tato přeměna probíhá jako výrobní proces, který se skládá z celé řady procesů, a sice:  
+    - procesů pracovních, tj. procesů s přímou účastí člověka,  
+    - procesů automatických, tj. procesů bez přímé účasti člověka,
+    - a  procesů přírodních, tj. procesů, kdy působí přírodní síly, pro které člověk připravil podmínky – např. kvašení apod.
+  - Výrobní proces obvykle probíhá v etapách; pokud jde o výrobní podnik, zpravidla se rozlišuje:  
+    - předvýrobní etapa, tj. vývoj, konstrukční a technologická příprava výrobku a výroby, zajištění materiálů apod.;  
+    - výrobní etapa
+    - a  odbytová etapa.
 
-Výnosy z rozsahu - odrážejí proporciální reakci celkového produktu na zvýšení všech vstupů.
-ČÍM VÍC LIDÍ  (  např. matriky, řidičáky)    TÍM VÍC …..
-ČÍM VÍC INVESTUJI DO KAPITÁLU A ZAMĚSTNANCŮ, TÍM VÍCE MI ROSTE VÝSTUP
+- Každý výrobek, popř. jeho součást, vzniká určitým výrobním postupem, který se skládá ze sledu operací odpovídajících dané technologii.
+  - Ve výrobním podniku lze výrobu rozčlenit do následujících skupin:  
+    - hlavní výroba – výrobky této výroby tvoří hlavní náplň výroby podniku;  
+    - vedlejší výroba – tj. výroba polotovarů, náhradních dílů;  
+    - doplňková výroba – tj. výroba, která představuje využití a zpracování odpadu z hlavní a vedlejší výroby, nebo představuje využití volné kapacity;  
+    - přidružená výroba – tj. výroba, která se od předcházejících výrob obvykle liší charakterem výroby. Ve výrobním podniku kromě těchto základních výrobních procesů probíhá řada - pomocných procesů – údržba strojů a budov, výroba energie apod.
+    - a - obslužných procesů – skladování, doprava, balení, kontrola apod.
 
-Rozlišujeme tři případy
-1) Konstantní výnosy z rozsahu
-změna všech vstupů vede ke stejně velkému zvýšení výstupu.
-2) Klesající výnosy z rozsahu
-když proporcionální zvýšení všech vstupů vede k nižšímu než proporcionálnímu zvýšení celkového výstupu.
-3) Rostoucí výnosy z rozsahu
-zvýšení všech vstupů vede k více než proporcionálnímu zvýšení úrovně výstupů.
+- **Výnosy z rozsahu - odrážejí proporciální reakci celkového produktu na zvýšení všech vstupů.**
+  - ČÍM VÍC LIDÍ  (  např. matriky, řidičáky)    TÍM VÍC …..
+  - ČÍM VÍC INVESTUJI DO KAPITÁLU A ZAMĚSTNANCŮ, TÍM VÍCE MI ROSTE VÝSTUP
+  - Čím jsme větší, tím větší mám úspory a tedy i výnosy z rozsahu
+- Rozlišujeme tři případy
+  - 1) Konstantní výnosy z rozsahu
+    - změna všech vstupů vede ke stejně velkému zvýšení výstupu.
+  - 2) Klesající výnosy z rozsahu
+    - když proporcionální zvýšení všech vstupů vede k nižšímu než proporcionálnímu zvýšení celkového výstupu.
+  - 3) Rostoucí výnosy z rozsahu
+    - zvýšení všech vstupů vede k více než proporcionálnímu zvýšení úrovně výstupů.
 
-Výnosy z rozsahu se týkají dodatečně přijatého zaměstnance.
-V jakým podniku bude problém, když přijmu zaměstnance a pak dalšího dalšího – problém u úklidové firmy může být, že nemám dost zakázek.
-Lokalizace podniku – kam umístíme místo své firmy, dostupnost, co je v okolí.  
-Jaké lokality zvolit pro výrobu?
+- **Lokalizace podniku** – kam umístíme místo své firmy, dostupnost, co je v okolí.  
+  - Jaké lokality zvolit pro výrobu?
+  - Například:
+    - Nízkonákladové lokality z pohledu ceny výr.faktorů (práce, půda, kapitál, technologie)
+    - Nízkonákladové lokality z pohledu daňového zatížení
+    - Lokality právně umožňující podnikání
+    - Přístup k novým technologiím - výr.náklady
+    - Logisticky výhodné místo - dopravní náklady
 
-Nízkonákladové lokality z pohledu ceny výr.faktorů (práce, půda, kapitál, technologie)
+- **Globální hodnotový řetězec**
+  - Hodnotový řetězec rozčleňuje podnik do jeho strategicky významných činností, aby bylo možné porozumět chování nákladů a poznat existující potenciální zdroje diferenciace.
+  - Konkurenční výhodu získá podnik tím, že bude tyto strategicky důležité činnosti dělat levněji a lépe než jeho konkurenti.
+  - Hodnotové řetězce předstvují vizualizaci průchodu inputu firmou a její přeměnu na output.
+  - Hodnotový řetězec si lze představit jako cestu výrobku od vstupního materiálu přes produkci a prodej až po následnou podporu zákazníkům, vše za doprovodu podpůrných aktivit.
+  - Zobrazuje tedy všechny činnost, kterými produkt projde - ukazuje efektivnost podniku etc.
+  - Globální hodnotový řetězec je pouze přenesení tohoto řetězce na mezinárodní rovinu - tzn. na základě lokalizace je někde lepší dělat 1 část procesu, jinde zase 2 -> jedná se o globalizaci
+  - Nadnárodní společnosti dnes produkují nejenom v jedné zemi, ale fungují například na základě subdodávek z různých koutů světa - to může pro ně zvyšovat efektivitu
 
-Nízkonákladové lokality z pohledu daňového zatížení
+- **Produktová inovace**
+  - Jedná se o inovaci produktů, které firma nabízí
+  - Inkrementální inovace – nové verze – iPhone 6, iPhone 6s.  
 
-Lokality právně umožňující podnikání
+- **Procesní inovace – zavedeme novou metodu.**
+  - Zavádění novým procesních metod
 
-Přístup k novým technologiím - výr.náklady
+- **PLÁN PODNIKU**
+  - Strategický
+  - Taktický
+  - Operativní
 
-Logisticky výhodné místo - dopravní náklady
-
-Sídlo firmy zde, v ČR, a danit budeme v zahraničí – př. jsou sportovci.
-Globální hodnotový řetězec – Adidas, Aliexpres,  Ikea - společnosti, které vlastní celý výrobní proces a ovládají všechny subdodavatele. Všem svým členům ručí za to, že jejich zboží se bude prodávat v lokální síti. Jsou to nadnárodní korporace. Participují na určité přidané hodnotě…   
-Produktová inovace – telefon.
-Procesní inovace – zavedeme novou metodu.
-Inkrementální inovace – nové verze – iPhone 6, iPhone 6s.  
-PLÁN PODNIKU
- Strategický
-Taktický
-Operativní
-
-
-
-- Výrobní faktory
-  - Doplnit
+~~- Výrobní faktory~~
+  ~~- Doplnit~~
 
 ----
 
