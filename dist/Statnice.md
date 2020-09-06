@@ -4396,55 +4396,58 @@ POKUD JE SJEDNÁN **ÚROK Z PRODLENÍ**, NENÍ PRÁVO NA NÁHRADU ŠKODY TOHO, C
     - (2) Nepodá-li dopravce zprávu o škodě bez zbytečného odkladu, nahradí odesílateli, nebo příjemci škodu tím způsobenou.
   - § 2569
     -	Není-li právo na náhradu škody u dopravce uplatněno do šesti měsíců ode dne převzetí zásilky, anebo nebyla-li zásilka převzata, do šesti měsíců ode dne, kdy měla být doručena, soud je nepřizná, namítne-li dopravce, že právo bylo uplatněno opožděně.
-- 	§ 2570Svépomocný prodej
-- 	Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
-- 	§ 2571
-- 	(1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
-- 	(2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
-Náložný list
-- 	§ 2572
-- 	(1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
-- 	(2) Náložný list obsahuje alespoň
-- 	a) jméno dopravce a jeho bydliště nebo sídlo,
-- 	b) jméno odesílatele a jeho bydliště nebo sídlo,
-- 	c) označení, množství, váhu nebo objem přepravovaných věcí,
-- 	d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
-- 	e) údaj o místě určení a
-- 	f) místo a den vydání náložného listu a dopravcův podpis.
-- 	(3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
-- 	§ 2573
-- 	Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
-- 	§ 2574
-- 	Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
-- 	§ 2575
-- 	Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
-- 	§ 2576
-- 	Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
-- 	§ 2577
-- 	(1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
-- 	(2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
-Společná ustanovení o přepravě osob a věcí
-- 	§ 2578
-- 	Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
-- 	§ 2579
-- 	Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
-- 	§ 2580
-- 	(1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
-- 	(2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
-- 	(3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
-- 	§ 2581
-- 	(1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
-- 	(2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
-Provoz dopravního prostředku
-- 	§ 2582
-- 	Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
-- 	§ 2583
-- 	(1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
-- 	(2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
-- 	§ 2584
-- 	Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
-- 	§ 2585
-Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředk
+  -	§ 2570 Svépomocný prodej
+    -	Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
+  -	§ 2571
+    - (1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
+    - (2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
+
+- **Náložný list**
+  -	§ 2572
+    -	(1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
+    -	(2) Náložný list obsahuje alespoň
+      -	a) jméno dopravce a jeho bydliště nebo sídlo,
+      - b) jméno odesílatele a jeho bydliště nebo sídlo,
+      - c) označení, množství, váhu nebo objem přepravovaných věcí,
+      - d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
+      - e) údaj o místě určení a
+      - f) místo a den vydání náložného listu a dopravcův podpis.
+    - (3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
+  - § 2573
+    -	Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
+  -	§ 2574
+    -	Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
+  - § 2575
+    -	Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
+  - § 2576
+    -	Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
+  - § 2577
+    -	(1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
+    - (2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
+
+- **Společná ustanovení o přepravě osob a věcí**
+  -	§ 2578
+    -	Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
+  - § 2579
+    -	Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
+  - § 2580
+    -	(1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
+    - (2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
+    - (3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
+  - § 2581
+    -	(1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
+    - (2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
+
+- **Provoz dopravního prostředku**
+  -	§ 2582
+    -	Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
+  - § 2583
+    -	(1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
+    - (2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
+  - § 2584
+    -	Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
+  - § 2585
+    - Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředk
 
 
 \|--------------------------------------\| <br>
@@ -4472,7 +4475,8 @@ Přejímá-li provozce k přepravě náklad, použije se pro určení práv a po
 \| Paragrafy \| <br>
 \|--------------\| <br>
 
-24.Závazky ze zaopatřovacích a odvážných smluv.
+
+- **Závazky ze zaopatřovacích a odvážných smluv.**
 
  Důchod
  -  §2701 an. OZ - smlouvou o důchodu se plátce zavazuje platit příjemci pravidelné peněžní dávky (důchod)
