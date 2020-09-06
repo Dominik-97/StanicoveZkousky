@@ -2,12 +2,12 @@
 
 ## ObčP
 
-- [ ] Otázka 1
-- [ ] Otázka 2
-- [ ] Otázka 3
-- [ ] Otázka 4
-- [ ] Otázka 5
-- [ ] Otázka 6
+- [x] Otázka 1
+- [x] Otázka 2
+- [x] Otázka 3
+- [x] Otázka 4
+- [x] Otázka 5
+- [x] Otázka 6
 - [ ] Otázka 7
 - [ ] Otázka 8
 - [ ] Otázka 9

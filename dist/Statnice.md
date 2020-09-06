@@ -914,10 +914,12 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
       - Závazky z deliktů
         - **náhrada majetkové a nemajetkové újmy**
         - **zenužití a omezení soutěže**
-      - Závazky z jiných právních důvodů
+      - Závazky z jiných právních důvodů - zde lze o to, že delikt je vždy deliktem - tedy porušením nějaké povinnosti, jiné právní důvody nemusí být přímo porušením povinnosti jako takové, ale jednáním osoby v rámci nich stejně může vznikat škoda - škoda tedy může vzniknout i bez nutné existence deliktu
         - **bezdůvodné obohacení**
         - **nepřikázané jednatelství**
+          - vmísí-li se někdo do záležitostí jiného bez jeho souhlasu -> pokud z jednání nemá zastupovaná osoba užitek -> může po nepřikázaném jednateli požadovat, aby vše uvedl do předešlého stavu, a není-li to dobře možné, aby nahradil škodu.
         - **upotřebení cizí věci ku prospěchu jiného**
+          - Upotřebí-li někdo cizí věc k prospěchu jiného, aniž má úmysl obstarat cizí záležitost, a není-li dobře možné domoci se vydání této věci, může vlastník věci po něm požadovat náhradu hodnoty, kterou věc měla v době upotřebení, a to i tehdy, nebylo-li prospěchu dosaženo.
     - **Dle toho, co je obsahem vztahu, na základě kterého byla založena odpovědnost lze rozlišovat odpovědnosti na:**
       - **odpovědnost za škodu** - vznik nové povinnosti, kterou povinný před jejím vznikem neměl
       - **odpovědnost za prodlení** - přistoupení nově vzniklé povinnosti k předchozí povinnosti, kterou povinný měl
