@@ -1573,26 +1573,26 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
         - podávaá soudu zprávy o vyúčtování ze zprávy jmění
         - má právo na přiměřenou odměnu z výnosu jmění dítěte (výši určí soud)
 - **Výživné**
-      - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
-      - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
-      - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
-      - na frekvenci je možné se dohodnout
-      - **Přiznání výživného soudem**
-        - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
-        - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
-        - výživné lze přizna až 3 roky zpětně
-        - při podstatné změně okolností může povinný žádat novou úpravu výživného
-      - **Vyživovací povinnost**
-        - mají mezi sebou předci a potomci
-        - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
-        - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
-      - **soud zkoumá okolnosti**
-        - jak na straně oprávněného, tak povinného
-        - za jistých okolností nemá například nárok - odmítl zaměstnání
-      - životní úroveň rodičů a dítěte má být zásadně shodná
-      - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
-      - dítě je povino rodičům zajistit slušnou výživu
-      - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
+  - =to co jedna osoba poskytuje druhé (i naturální plnění) za účelem zajištění jejich životních a sociálních potřeb
+  - ve funkční rodině plněna mezi členy rodiny sama, bez ingerence státu
+  - pokud o výživném rozhoduje soud - vždy jej vyměřuje v penězích
+  - na frekvenci je možné se dohodnout
+  - **Přiznání výživného soudem**
+    - **Obecné pravidlo** - výživné lze přiznat, jestliže oprávněný není schopen se sám živit
+    - trvá dokud se není oprávněný schopen sám živit (není vázána na svéprávnost/zletilost)
+    - výživné lze přizna až 3 roky zpětně
+    - při podstatné změně okolností může povinný žádat novou úpravu výživného
+  - **Vyživovací povinnost**
+    - mají mezi sebou předci a potomci
+    - vyživovací povinnost rodičů vůči dětem je prioritní - předchází všechny ostatní
+    - mezi bližšími příbuznými předchází povinnosti mezi vzdálenějšími příbuznými
+  - **soud zkoumá okolnosti**
+    - jak na straně oprávněného, tak povinného
+    - za jistých okolností nemá například nárok - odmítl zaměstnání
+  - životní úroveň rodičů a dítěte má být zásadně shodná
+  - při rozhodování - povinnost prokázat příjmy, jinak fikce, že příjmy jsou 25 násobku životního minima
+  - dítě je povino rodičům zajistit slušnou výživu
+  - výživné má rovněž otec vůči matce svého dítěte pokud nejsou provdáni
 
 \|--------------------------------------\| <br>
 \| Zdroje a poznámky pod čarou \| <br>
