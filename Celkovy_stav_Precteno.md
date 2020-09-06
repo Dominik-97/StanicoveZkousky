@@ -15,11 +15,11 @@
 - [x] Otázka 11
 - [x] Otázka 12
 - [x] Otázka 13
-- [ ] Otázka 14
-- [ ] Otázka 15
-- [ ] Otázka 16
-- [ ] Otázka 17
-- [ ] Otázka 18
+- [x] Otázka 14
+- [x] Otázka 15
+- [x] Otázka 16
+- [x] Otázka 17
+- [x] Otázka 18
 - [ ] Otázka 19
 - [ ] Otázka 20
 - [ ] Otázka 21
