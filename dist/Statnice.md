@@ -11024,27 +11024,27 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Úloha finančních trhů v ekonomice = úlohou je spojovat přebytkové a nedostatkové subjekty
 
 - **Pojem**
-  - Finanční trh je systém institucí a instrumentů zajišťující pohyb peněz a kapitálu ve všech formách mezi různými ekonomickými subjekty na základě nabídky a poptávky.
+  - Financění trh je systém institucí a instrumentuu zajištěující pohyb peneěz a kapitálu ve všech formách mezi ruuznými ekonomickými subjekty na základeě nabídky a poptávky.
     - Úloha finančních trhů v ekonomice = úlohou je spojovat přebytkové a nedostatkové subjekty
   - Existují neregulované finanční trhy, ale i regulované.
 
 - **Členění podle doby splatnosti**
-  - Finanční trh - členění podle doby splatnosti
-    - **Peněžní trh** – charakteristickým rysem je doba splatnosti finančních aktiv do jednoho roku, klíčovým znakem je značná likvidita, tento trh se dělí na trh krátkodobých úvěrů a krátkodobých cenných papírů
-    - **Kapitálový trh** – vyznačuje se dobou splatnosti delší než jeden rok, lze jej rozdělit na trh střednědobých a dlouhodobých úvěrů a trh investičních cenných papírů
+  - Financění trh- cěleneění podle doby splatnosti
+    - **Peneěžní trh** – charakteristickým rysem je doba splatnosti financěních aktiv do jednoho roku, klícěovým znakem je znacěná likvidita, tento trh se deělí na trh krátkodobých úveěruu a krátkodobých cenných papíruu
+    - **Kapitálový trh** – vyznacěuje se dobou splatnosti delší než jeden rok, lze jej rozdeělit na trh strěedneědobých a dlouhodobých úveěruu a trh investicěních cenných papíruu
 
-- **Finanční trh  - členění z věcného hlediska**
-    -	Peněžní trh – je to trh peněz a úvěrů, bez ohledu na dobu splatnosti, 
-    -	Kapitálový trh – je to trh investičních nástrojů, zejména investičních cenných papírů, 
+- **Financění trh - cěleneění z veěcného hlediska**
+    -	Peneěžní trh – je to trh peneěz a úveěruu, bez ohledu na dobu splatnosti,
+    -	Kapitálový trh – je to trh investicěních nástrojuu, zejména investicěních cenných papíruu,
       - Primární
       - Sekundární
-    -	Devizový trh – je to trh cizích měn – FOREX 
-    -	Komoditní trh – původně sem patřily pouze měnové kovy, později i další komodity (například zemědělské produkty a další statky) a komoditní deriváty, opce apod., které jsou obchodované na komoditních burzách a mají finanční vypořádání, jsou to také obchody s komoditními CP (skladištní listy), které mají peněžní vypořádání. 
+    -	Devizový trh – je to trh cizích meěn – FOREX
+    -	Komoditní trh – puuvodneě sem patrěily pouze meěnové kovy, pozdeěji i další komodity (například zemědělské produkty a další statky) a komoditní deriváty, opce apod., které jsou obchodované na komoditních burzách a mají financění vyporěádání, jsou to také obchody s komoditními CP (skladištní listy), které mají peneěžní vyporěádání.
 
-- **Finanční trh - prostorové členění**
+- **Financění trh- prostorové cěleneění**
   - Regionální a místní
-  - Národní 
-  - Mezinárodní, nadnárodní (př. eurotrhy) -
+  - Národní
+  - Mezinárodní, nadnárodní (prě. eurotrhy) -
   - Globální
 
 - **Další členění FT**
@@ -11055,14 +11055,14 @@ Když jsou veškeré ekonomické zdroje plně využity, nelze již vyrobit nic d
   - Podle sektoru - bankovnictví, kapitálový trh, pojišťovnictví
   - etc.
 
-- **Úloha finančního trhu** synteticky
-  - Depozitní funkce (umožňuje investování)
-  - Kreditní funkce  (umožňuje půjčování)
-  - Funkce uchování hodnoty (bohatství) 
+- **Úloha financěního trhu** synteticky
+  - Depozitní funkce (umožněuje investování)
+  - Kreditní funkce (umožňuje půjčování)
+  - Funkce uchování hodnoty (bohatství)
   - Funkce likvidity
-  - Platební funkce 
+  - Platební funkce
   - Funkce ochrany proti riziku
-  - Funkce regulace finančního trhu (volné operace na finančním trhu CB)
+  - Funkce regulace financěního trhu (volné operace na finančním trhu CB)
   - Funkce politická
 
 - **Subjekty FT**
@@ -11604,7 +11604,7 @@ Kurzy
   - Srovnání je možné dosáhnout taky za pomocí **DEA**
     - DEA – analýza obalu dat.
     - Vstupně výstupní analýza, kdy dokážeme zhodnotit efektivnost firmy.
-    - Analýza, sofistikovanější poměření více ukazatelů najednou za dané období – srovnání se s konkurencí, technická efektivnost, výstupní efektivnost (jak dosahují ostatní svého výstupu, neefektivita na straně vstupů), vstupní efektivnost (jak pomocí svého vstupu dosahují výstupu, neefektivita na straně výstupu)
+    - Analýza, sofistikovaneější pomeěrěení více ukazateluu najednou za dané období – srovnání se s konkurencí, technická efektivnost, výstupní efektivnost (jak dosahují ostatní svého výstupu, neefektivita na straneě vstupuu), vstupní efektivnost (jak pomocí svého vstupu dosahují výstupu, neefektivita na straneě výstupu)
     - V podstatě se efektivnost zjistí **vydělením výstupů vstupy** = je zásadní pro zjištění technické efektivity, její zvýšení nám může v konkurenčním prostředí pomoci
   - Další možností jak zjistit jak na tom firma je a porovnat se s konkurencí je takzvaná **SWOT** analýza
     - Analyzují se:
@@ -11628,8 +11628,8 @@ Kurzy
   - Relevantním trhem je trh produktů a služeb, které je z hlediska charakteristiky, ceny a zamýšleného použití shodné, porovnatelné nebo vzájemně zastupitelné, a to na území, na němž jsou soutěžní podmínky dostatečně homogenní a zřetelně odlišitelné od sousedících území.
   - Určuje se podle: **geografického umístění, typu produktu a času**
 - **Odvětvová klasifikace ekonomických činností**
-  - OKEČ - Odvětvová klasifikace ekonomických činností - hierarchicky uspořádané třídění ekonomických činností stanovené Českým statistickým úřadem.
-  - Snaha arbitrárně definovat relevantní trh podle odvětví (OKEČ) a produktu (klasifikace CZ-CPA) v rámci geografického celku
+  - OKEČ - Odveětvová klasifikace ekonomických cěinností - hierarchicky usporěádané trěídeění ekonomických cěinností stanovené Cěeským statistickým úrěadem.
+  - Snaha arbitrárneě definovat relevantní trh podle odveětví (OKECě) a produktu (klasifikace CZ-CPA) v rámci geografického celku
 
 ----
 :::
@@ -12771,7 +12771,7 @@ Není daňově uznáváno (pojištění).
   a) interní (vlastní)
   - finanční zdroje zevnitř firmy – z prodeje jejich výrobků a služeb
   - financování firemního rozvoje:
-  􀂃 nerozdělený zisk (reinvestice)
+    - nerozdělený zisk (reinvestice)
   b) externí
   - zdroje přicházející zvenčí
   - úvěry (úročené, mezi podnik. subjekty = důchod za užití zapůjčených peněz, vyjádřený procentem zapůjčené částky)
@@ -12789,11 +12789,11 @@ Není daňově uznáváno (pojištění).
   obligace (dluhopisy)
   - dluhové financování (vlastník je v pozici věřitele firmy × ale má jistotu úroků)
   - = certifikát potvrzující závazek vydavatele k vlastníkovi obligace
-  􀂃 termín splatnosti obligace (= jistiny)
+    - termín splatnosti obligace (= jistiny)
   - = doba, po níž obligace nese úrok
   - měsíc až několik let
   - perpetuity = nekonečná doba splatnosti
-  􀂃 výše úroků
+    - výše úroků
   - vypláceny majiteli pravidelně až do doby splatnosti obligace
   - velikost obvykle závisí na době splatnosti (dlouhodobé obligace jsou rizikovější → mají vyšší úrok)
   - míru rizika pro investory → ukazuje rating = hodnocení důvěryhodnosti – publikují nezávislé specializované agentury
@@ -12901,7 +12901,7 @@ Není daňově uznáváno (pojištění).
   rozhodování o zastavení výroby na základě analýzy nákladů:
   a) rozhodnutí o krátkodobém pozastavení činnosti
   - založeno na porovnávání průměrných variabilních nákladů s cenou, kterou firma získává za prodej jednotky své produkce na trhu
-  - 􀃆 jsou-li ceny nižší než prům. variabilní náklady – je výhodnější výrobu krátkodobě uzavřít (šetří se na variabilních nákladech × fixní náklady mají povahu utopených nákladů – neberou se proto v úvahu)
+  - -> jsou-li ceny nižší než prům. variabilní náklady – je výhodnější výrobu krátkodobě uzavřít (šetří se na variabilních nákladech × fixní náklady mají povahu utopených nákladů – neberou se proto v úvahu)
   - bod uzavření firmy = ceny produktu jsou rovny průměrným variabilním nákladům
   b) rozhodnutí o odchodu z trhu – ukončení činnosti
   - pokud jsou příjmy po delší dobu nižší než její celkové náklady (průměrné celkové náklady převyšují cenu produktu)
@@ -12910,7 +12910,7 @@ Není daňově uznáváno (pojištění).
 
 
 
-  produkční funkce = udává vztah mezi množstvím vstupů použitých k výrobě statků a rozsahem vyrobené produkce 􀃆 analyzuje, jak se objem produkce změní při změnách úrovně vstupu
+  produkční funkce = udává vztah mezi množstvím vstupů použitých k výrobě statků a rozsahem vyrobené produkce -> analyzuje, jak se objem produkce změní při změnách úrovně vstupu
   - rostoucí křivka, jejíž růst se postupně zpomaluje
   mezní produkt = zvýšení firemního výstupu plynoucího z jednotkového zvýšení jejích vstupů
   princip klesajícího mezního produktu = mezní produkt s růstem rozsahu vstupu zpravidla klesá
@@ -13785,34 +13785,34 @@ Bude usilováno o větší zapojení občanů a firem do podpory veřejně prosp
     - Uchopitelné pro rozhodování o jeho ošetření
   - **Nejistota souvisí s rizikem, znamená možnost různých výsledků, jejichž pravděpodobnost není kvantifikována.**
 - **Termíny v rámci řízení rizika**
-  - **Řízení rizika** proces identifikace, analyzování, zvládání a finančního pokrývání rizik.
-  - **Rizikový faktor** činitel, který má přímý vliv na pravděpodobnostní chování určitého jevu nebo jeho hodnoty.
-  - **Dopad rizika** kvalitativní specifikace důsledků vzniklých působením rizika. Dopad rizika může mít finanční charakter (ocenitelný finanční hodnotou ) nebo nefinanční, obtížně ocenitelný charakter.
-  - **Ocenění dopadu rizika** určitým, přesně definovaným způsobem ohodnocená potenciální finanční ztráta/zisk vyplývající z působení daného konkrétního rizika.
+  - **Řízení rizika** proces identifikace, analyzování, zvládání a finančního pokryývání rizik.
+  - **Rizikovyý faktor** činitel, kteryý má přímyý vliv na pravděpodobnostní chování určitého jevu nebo jeho hodnoty.
+  - **Dopad rizika** kvalitativní specifikace důsledků vzniklyých působením rizika. Dopad rizika může mít finanční charakter (ocenitelnyý finanční hodnotou ) nebo nefinanční, obtížně ocenitelnyý charakter.
+  - **Ocenění dopadu rizika** určityým, přesně definovanyým způsobem ohodnocená potenciální finanční ztráta/zisk vyplyývající z působení daného konkrétního rizika.
   - **Ošetření rizika** opatření zaměřené na eliminaci nebo snížení dopadu rizika.
   - **Dopad zbytkového rizika** dopad rizika po jeho ošetření.
   - **(Celková) riziková expozice** celková potenciální ztráta společnosti spojená s působením konkrétního rizika nebo skupiny rizik v určitém časovém období
-  - **Ochota akceptovat riziko (risk appetite)** riziková expozice, kterou je společnost v podmínkách existence daného rizika ochotna akceptovat, odvozuje se např.od variability ROE a výše vlastního jmění
-  - **Schopnost pokrytí rizika (risk capacity)** celková riziková expozice, kterou je daný subjekt ve sledovaném období v podmínkách existence příslušných rizik schopna zvládnout bez ohrožení finančního zdraví stanovuje se obvykle ve výši korespondující s vlastním jměním
+  - **Ochota akceptovat riziko (risk appetite)** riziková expozice, kterou je společnost v podmínkách existence daného rizika ochotna akceptovat, odvozuje se např.od variability ROE a vyýše vlastního jmění
+  - **Schopnost pokrytí rizika (risk capacity)** celková riziková expozice, kterou je danyý subjekt ve sledovaném období v podmínkách existence příslušnyých rizik schopna zvládnout bez ohrožení finančního zdraví stanovuje se obvykle ve vyýši korespondující s vlastním jměním
   - **Kategorizace rizik** z pohledu řízení rizik účelné seskupení popřípadě hierarchizace rizik podle určitého přístupu, například:
-    - podle firemních procesů členění rizik podle oblasti/procesu ve skupině, kterých se týká.
-    - podle podnikatelských aktivit členění rizik typických pro podnikání v dané podnikatelské oblasti (tj. působením politických sil, sociálních změn, technologických změn, legislativního rámce, konkurence, substituce, nových hráčů, zákazníků, dodavatelů)
-    - podle obecně závazných pravidel legislativa předepisuje způsob kategorizace rizik (bankovnictví Basel doporučení)
-  - **Katalog rizik** strukturovaný přehled rizik kategorizovaný zvoleným způsobem používaný jako základ pro řízení rizik, každé riziko se kvantifikuje z hlediska dopadu a pravděpodobnosti výskytu
+    - podle firemních procesů členění rizik podle oblasti/procesu ve skupině, kteryých se tyýká.
+    - podle podnikatelskyých aktivit členění rizik typickyých pro podnikání v dané podnikatelské oblasti (tj. působením politickyých sil, sociálních změn, technologickyých změn, legislativního rámce, konkurence, substituce, novyých hráčů, zákazníků, dodavatelů)
+    - podle obecně závaznyých pravidel legislativa předepisuje způsob kategorizace rizik (bankovnictví Basel doporučení)
+  - **Katalog rizik** strukturovanyý přehled rizik kategorizovanyý zvolenyým způsobem používanyý jako základ pro řízení rizik, každé riziko se kvantifikuje z hlediska dopadu a pravděpodobnosti vyýskytu
     - **Katalog rizik zahrnuje aktuální soupis rizik, která jsou popsána pomocí atributů:**
     - Kódové označení podle zvoleného číselníku
     - Kategorie, případně podkategorie podle systému kategorizace
     - Popis rizika slovní stručné vysvětlení, co riziko znamená a jak se projevuje
-    - Oblast výskytu rizika procesy nebo organizační útvary, kde se riziko vyskytuje
-    - Vlastník rizika manažer, který je odpovědný za řízení rizika
+    - Oblast vyýskytu rizika procesy nebo organizační útvary, kde se riziko vyskytuje
+    - Vlastník rizika manažer, kteryý je odpovědnyý za řízení rizika
     - Kvantifikace rizika před ošetřením:
       - Finanční dopad ve zvolené stupnici
-      - Pravděpodobnost výskytu ve zvolené stupnici
-    - Způsob ošetření rizika zvolený způsob nebo způsoby
+      - Pravděpodobnost vyýskytu ve zvolené stupnici
+    - Způsob ošetření rizika zvolenyý způsob nebo způsoby
     - Kvantifikace rizika po ošetření:
       - Finanční dopad ve zvolené stupnici
-      - Pravděpodobnost výskytu ve zvolené stupnici
-    - Termín revize datum nebo časový interval, ve kterém proběhne revize atributů rizika
+      - Pravděpodobnost vyýskytu ve zvolené stupnici
+    - Termín revize datum nebo časovyý interval, ve kterém proběhne revize atributů rizika
 - **Kategorizace rizik**
   - Z pohledu řízení rizik se jedná o ucelené seskupení popřípadě hierarchizaci rizik podle určitého přístupu, například:
     - Podle firemní procesů
@@ -13834,23 +13834,23 @@ Bude usilováno o větší zapojení občanů a firem do podpory veřejně prosp
   - ![Dilema](Podklady/Ekonomie_a_Podnikove_finance/Organizace_rizeni_rizika.png)
 - **Shrnutí**
 - **Finanční řízení**
-Procesy strategického a finančního řízení na sebe navazují, aby bylo možno strategii vycházející z možností daných podnikatelským prostředím převést až do rozpočtu
-Na finanční řízení lze pohlížet jako na proces dále členěný na jednotlivé subprocesy, které je možné charakterizovat pomocí jejich cílů a hlavních činností
+Procesy strategického a finančního řízení na sebe navazují, aby bylo možno strategii vycházející z možností danyých podnikatelskyým prostředím převést až do rozpočtu
+Na finanční řízení lze pohlížet jako na proces dále členěnyý na jednotlivé subprocesy, které je možné charakterizovat pomocí jejich cílů a hlavních činností
 Plánování je nezbytné z řady důvodů, které mají například v oblasti veřejné správy i oporu v legislativě
 V řízení společnosti pro stanovení cílů a jejich kvantifikaci používáme jednak plán, jednak rozpočet, které jsou vzájemně provázány
-V praxi se používá několik přístupů pro sestavení rozpočtu, které mají určité výhody a nevýhody
+V praxi se používá několik přístupů pro sestavení rozpočtu, které mají určité vyýhody a nevyýhody
 
 - **Řízení rizik**
 Řízení rizik je každodenní součástí řízení, rizika je nutné měřit a ošetřovat
-Výchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
-Velikost dopadu a pravděpodobnost výskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
-Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost výskytu a velikosti dopadu rizika na zvolené stupnici
-Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost výskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
+Vyýchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
+Velikost dopadu a pravděpodobnost vyýskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
+Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost vyýskytu a velikosti dopadu rizika na zvolené stupnici
+Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost vyýskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
 Řízení rizik je každodenní součástí řízení, rizika je nutné měřit a ošetřovat
-Výchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
-Velikost dopadu a pravděpodobnost výskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
-Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost výskytu a velikosti dopadu rizika na zvolené stupnici
-Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost výskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
+Vyýchozím krokem pro zavedení systému řízení rizik je identifikace a kvantifikace všech rizik,
+Velikost dopadu a pravděpodobnost vyýskytu rizika se obvykle vyjadřují na stupnici, jejíž jednotlivé stupně jsou popsány pomocí kvalitativního nebo kvantitativního vyjádření
+Velikost hrozby rizik se klasifikuje jako nízká, střední nebo vysoká na základě matice zobrazující pravděpodobnost vyýskytu a velikosti dopadu rizika na zvolené stupnici
+Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpodobnost vyýskytu rizika, se provádí pomocí několika přístupů nebo jejich kombinací
 
 ----
 :::
@@ -13879,15 +13879,15 @@ Ošetření rizik, jehož cílem je snížit velikost dopadu a / nebo pravděpod
 
 - **Projektové řízení**
 Projektové řízení má mezi dalšími přístupy k řízení za úkol realizovat změny …
-Řízení projektu musí zabezpečit nejen přípravu změny, ale i přechod na nový stav a stabilizaci jeho provozu
+Řízení projektu musí zabezpečit nejen přípravu změny, ale i přechod na novyý stav a stabilizaci jeho provozu
 Pro posouzení toho, zda byl dosažen cíl projektu, je nutné definovat indikátory prokazující naplnění cílů projektu; indikátory musí splňovat určité požadavky
-Při stanovení cílů se management často dopouští typických chyb, které jsou následně příčinou pro selhání
+Při stanovení cílů se management často dopouští typickyých chyb, které jsou následně příčinou pro selhání
 Dilema projektového řízení spočívá v tom, že klíčové parametry projektu, a sice záměr, čas a zdroje projektu, jsou závisle proměnné
-Řízení projektu musí respektovat skutečnost, že každý projekt má svoji věcnou a procesní stránku,
-Pro řízení projektu je třeba vytvořit projektovou řídící strukturu, která pokrývá všechny potřebné řídící, kontrolní a výkonné role v projektu
+Řízení projektu musí respektovat skutečnost, že každyý projekt má svoji věcnou a procesní stránku,
+Pro řízení projektu je třeba vytvořit projektovou řídící strukturu, která pokryývá všechny potřebné řídící, kontrolní a vyýkonné role v projektu
 Při řízení projektu je využívána řada nástrojů usnadňující kontrolu průběhu projektu; jedním z nich je tzv. Ganttův diagram pro plánování průběhu projektu
-Kritickým faktorem úspěchu projektu je sestavení a řízení projektového týmu; přesto v této oblasti dochází často k chybám
-Řada projektů selhává, protože při jejich plánování a řízení dochází k typickým chybám
+Kritickyým faktorem úspěchu projektu je sestavení a řízení projektového tyýmu; přesto v této oblasti dochází často k chybám
+Řada projektů selhává, protože při jejich plánování a řízení dochází k typickyým chybám
 - **Dilema projektového řízení**
   - Záměr projektu je třeba realizovat v daném čase s danými zdroji
   - Jedná se tedy o trojúhelník
