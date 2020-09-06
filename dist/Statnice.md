@@ -12500,7 +12500,6 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
   -	každou cenu. Sigma --- odchylka …
   -	inovace (marketingové, procesní, inovační, produktové)
 
-
 ----
 :::
 #### Otázka 19 - Výroba a její zabezpečení (výrobní plán, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace. \
