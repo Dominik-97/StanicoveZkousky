@@ -4981,7 +4981,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
    doplněna předložením originálu do 3 dnů)
 - hmotněprávní jednání účastníka (výpověď plné moci, uznání nároku) vůči ostatním účinné od okamžiku, kdy se o něm dozvěděli, §41(3)
 
-1. procesní úkony soudu - úkony soudu v průběhu řízení
+1. **procesní úkony soudu - úkony soudu v průběhu řízení**
 - forma: soudní rozhodnutí (rozsudek, usnesení, platební rozkaz)
               opatření soudu (zajištění průběhu jednání, např. pořádková opatření při jednání)
 -  např. provádění důkazů (prov. d. nelze měnit nebo prohlásit za neplatný, pokud z. nestanoví jinak)
@@ -5004,7 +5004,8 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
  - když se předvolaná osoba bez omluvy nedostaví => může být předvedena policií, dostat pořádkovou
   pokutu až 50 000 Kč (je přípustné odvolání – může mu vyhovět soud I. stupně = autoremedura)
  - dalším pořádkovým opatřením je vykázání z místa, kde se jedná, pro rušení jednání
-2. procesní úkony účastníků - směřují vždy vůči soudu, jinak neúčinné
+
+2. **procesní úkony účastníků - směřují vždy vůči soudu, jinak neúčinné**
 - forma: písemná (listinná či elektronická podoba) X ústní do protokolu X telegraficky/faxem
  - nutno dodat urč. počet stejnopisů (soudu + všem účastníkům), u el. podoby se to nevyžaduje
  - telefax a el. podání => nutné doplnění originálu (s vlastnoručním podpisem) do 3. dnů, v případě tzv.
@@ -5012,7 +5013,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
 - musí být přípustný, bez podmínek, výslovný, možné jej odvolat
 - obsah: obecné náležitosti - označení soudu, kterému je určen; kdo je činí; které věci se týká; co sleduje (návrh, petit), podpis a datace + zvláštní náležitosti (IČO)
 
-*	časová určení procesních úkonů:
+*	**časová určení procesních úkonů:**
 - procesní roky = určení času a místa, kdy a kde se koná jednání, stanoví soud, prakticky nepoužíváno
 - procesní lhůty = časové úseky určené pro procesní úkony účastníků, soud výjimečně (7 dní na rozhodnutí o předběžném opatření, 30 dní pro odeslání pís. Vyhotovení rozsudku,…)
     a) zákonné – určené zákonem; př. lhůta pro odvolání/ podání odporu
@@ -5100,25 +5101,21 @@ DODĚLAT
   - Dokazování probíhá při ústním jednání, ve sporném řízení je možné navrhovat nové důkazy pouze do jeho skončení.
   - U SŘ platí neúplná apelace při odvolání - není možné přinášet nové důkazy po skončení dokazování, jsou však zákonné výjimky.
 
-Řízení sporné a nesporné
+VEDLEJŠÍ
+- DRUHY: Řízení sporné a nesporné
+- TYPY: Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+  - Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
 
-Řízení nalézací, vykonávací, insolvenční, rozhodčí a zajišťovací.
+- **Jiné vedlejší termíny**
+  - Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
+  - Usnesení a rozhodnutí ve věci samé.
+  - Odvolání do 15 dnů.
+  - Odročení.
+  - Instance
+  - Úplná a neúplná apelace
+VEDLEJŠÍ
 
-Všechny jednotlivé druhy žalob (na vydání, na určení, na zaplacení kupní ceny, na zdržení se protiprávního jednání, na náhradu škody etc. spadají pod jednu a zároveň druhou kategorii.)
-
-Žalobní petit - v jeho rozsahu je soud oprávněn rozhodovat.
-
-Usnesení a rozhodnutí ve věci samé.
-
-Odvolání do 15 dnů.
-
-Odročení.
-
-Instance
-
-Úplná a neúplná apelace
-
-A38. Průběh řízení obecně
+- **Průběh řízení obecně**
 - zahájení řízení (+ účinky) - sporné řízení se zahajuje na návrh (žalobou) dnem, kdy soudu žaloba došla/ dnem sepsání protokolu o ústním jednání, nesmí mít vady (odmítnutí)
 *	procesněprávní účinky:
 - vznik procesněprávního vztahu mezi žalobcem a soudem
@@ -5133,7 +5130,7 @@ A38. Průběh řízení obecně
 - po zahájení řízení -> přidělení věci soudci (senátu) -> postupuje ex offo bez dalších návrhů, aby věc byla co nejrychleji projednána a rozhodnuta a spor pokud možno vyřešit smírem
 - než se soud pustí do věci samé: zkoumá procesní podmínky; chybí- li náležitost, neurčitá, nesrozumitelná - vyzve účastníky k opravení/doplnění žaloby => příprava jednání => jednání => rozhodnutí, pr. moc, vykonatelnost
 
- A39. Příprava jednání
+- **Příprava jednání**
 - po zahájení řízení (okamžikem, kdy návrh dojde na podatelnu)
 *	soud postupuje tak, aby věc byla co nejrychleji projednána a rozhodnuta
 *	dohlíží na splnění procesních podmínek a odstranění vad v žalobě
@@ -5145,9 +5142,6 @@ A38. Průběh řízení obecně
 -	nedodržení – pořádková pokuta, moc se nevyužívá
 -	na vyjádření žalovaného může znovu reagovat žalobce = replika, případná další odpověď
     žalovaného = duplika
-
-
-
 2. tzv. kvalifikovaná výzva dle §114 b
 -	namísto klasické výzvy (vyžaduje-li to povaha věci) nebo nereagoval-li na ni
 -	žalovanému je uloženo, aby se vyjádřil, vylíčil rozhodné skutečnosti a připojil listinné důkazy
@@ -5176,7 +5170,8 @@ o	lze nařídit 1. setkání s mediátorem
 i.	žalovaný – vydání rozsudku pro uznání (meritorní rozhodnutí => překážka rei iudicata)
 ii.	žalobce – zastavení řízení (není to rozhodnutí ve věci => nevzniká překážka věci
                rozhodnuté
-A40. Jednání
+
+- **Jednání**
 - jednání = jádro civil. procesu; zasedání soudu v jeho zákonném složení k projednání věci samé
 - usnesením jej nařizuje předseda senátu a předvolávají se k němu všichni účastníci najednou
    => předvolání min. 10 dnů před konáním (§115)
@@ -5184,7 +5179,7 @@ A40. Jednání
    => ale veřejnost může být vyloučena (na celé jednání/ jeho část)
 - 	o neveřejnosti rozhoduje soudce => např. utajované skutečnosti, obchodní tajemství, mladiství,
                                                           mravnost, vážný zájem
-- 	veřejnost je také vyloučena při poradě senátu
+- veřejnost je také vyloučena při poradě senátu
 + jednotlivce lze vykázat, aniž by byl porušen princip veřejnosti (nevhodné chování, nezletilé osoby)
 - úkony, při nichž soud jedná s účastníky se zaznamenávají (zvuk/obraz. záznam, spis v listinné/ el. podobě)
 - předseda senátu – nařizuje, zahajuje, řídí, končí, jednání; vyzývá k vyjádření, provádí dokazování
@@ -5196,9 +5191,10 @@ A40. Jednání
        => provedení důkazů za přítomnosti úč. => shrnutí návrhů a vyjádření účastníků
        => senátní porada/přestávka samosoudce, odročení jen ze závažných důvodů
 - rozsudek se zpravidla vyhlašuje hned po skončení jednání (možno odročit max. na 10 dnů)
-- v průběhu jednání se účastníkům poskytuje procesní poučení                                                                   - účastníci mají právo během jednání konzultovat s podpůrcem, poradcem
+- v průběhu jednání se účastníkům poskytuje procesní poučení                                                                   
+- účastníci mají právo během jednání konzultovat s podpůrcem, poradcem
 
-A33. Dokazování obecně
+- **Dokazování obecně**
 - činnost účastníků i soudu, účelem je zjištění skut. stavu, rozhodování soudu opřeno o zjištěné poznatky
  a) právní poznatky = znalost objekt. práva, kt. se právní poměry spravují, platí iura novit curia; právní kvalifikace (zda skutečnosti odpovídají hypotéze); studiem a odbornou přípravou
 b) skutkové poznatky = poznatky o konkrétních individuálních skutečnostech, na nichž se zakládají a z nichž plynou uplatňované nároky; získávají se procesním dokazováním a studiem a od. přípravou (obecné vědomosti – mimoprocesně)
@@ -5253,7 +5249,7 @@ c) předpisy uveřejněné nebo oznámené ve Sb.z. ČR, (NE cizí právo, obecn
 	- non liquet (není jasno) – situace, kde není prokázána rozhodná skutečnost
 - 	osvědčení (zdůvodnění) – skutečnost nemusí být dokázána, aby soud o ní byl bezpečně přesvědčen, stačí, jeví-li se vzhledem k okolnostem pravděpodobná; např. u předběžného opatření
 
-A34. Důkazní prostředky
+- **Důkazní prostředky**
 - důkaz = ve dvou smyslech: a) důkazní prostředek b) výsledek dokazování
 - důkazní prostředky = všechny prostředky, jimiž lze zjistit stav věci
 - nejčastější d. prostředky: výslech svědků, účastníků, znalecký posudek, zprávy a vyjádření orgánů, FO a PO, notářské a exekutorské zápisy a jiné listiny, pásky, audio(vizuální) záznam, fotografie, aj. (výčet není taxativní, dle judikatury lze užít i to, co naše právo nezná)
@@ -5339,7 +5335,7 @@ A34. Důkazní prostředky
     - **řádné** (s odkladným účinkem) - odvolání, odpor
     - **mimořádné** (bez odkladného účinku) - **dovolání** - může podat pouze advokát, odvolací soud přezkoumá rozhodnutí, **žaloba na obnovu řízení** - například v případech, že se objeví nové skutečnosti, či důkazy, **žaloba pro zmatečnost** - v případě, že soudní řízení neproběhlo v souladu se zákonem.
 
-    A42. Soudní rozhodnutí obecně, formy rozhodnutí
+- **Soudní rozhodnutí obecně, formy rozhodnutí**
 = výrok soudu, který má závazné právní důsledky stanovené objektivním právem
 *	rysy:
 - 	autoritativnost - donucovací funkce
@@ -5377,7 +5373,8 @@ b)	procesní
      - odstranění jeho účinků => včas podaný odpor (směnečný a šekový – námitky)
   4. opatření soudu
   - nejde o zvl. formu rozhodnutí, spíše označení aktivity soudu směřující k zajištění řádného průběhu říz.
-*	fáze rozhodování:
+
+*	**fáze rozhodování:**
    I. vynesení rozhodnutí - stanovení obsahu výroku
    II. vyhlášení rozhodnutí - sdělení rozsudku, usnesení při jednání účastníkům                                                           
                                           - vždy veřejně a jménem republiky
@@ -5390,16 +5387,18 @@ b)	procesní
          - stejnopis, všechny rozsudky do vlastních rukou, odeslání do 30 dnů od vyhlášení (lze až 60)
          - platební rozkaz bez možnosti náhradního dor. (nemožnost doručení => zrušení rozkazu soudem)
 - doručení + vyhlášení = sdělení rozhodnutí
-*	vázanost soudu:
+
+*	**vázanost soudu:**
    - u rozsudku - od vyhlášení
    - u usnesení - od vyhlášení, pokud se nevyhlašuje tak od doručení, pokud se nedoručuje, od vyhotovení
-*	doplnění rozhodnutí:
+
+*	**doplnění rozhodnutí:**
    - aniž by byl měněn obsah rozhodnutí – písemné nesprávnosti, oprava odůvodnění
                                                                  - jen na návrh účastníků
    - doplňující rozhodnutí - jestliže původní rozhodnutí neobsahuje některý z výroků, kt. obsahovat mělo
                                          - na návrh i z úřední povinnosti
 
-A43. Rozsudek, druhy rozsudků
+- **Rozsudek, druhy rozsudků**
 - rozsudkem musí být rozhodnuto o celé projednávané věci (vyhověno, zamítnuto, částečně vyhověno a částečně nevyhověno)
 - výjimky:
 a) rozsudek částečný - výrok pouze o části předmětu nebo ohledně některých ze společníků
@@ -5441,7 +5440,7 @@ c) mezitímní
    a) r. pro uznání - opírá se o uznání nároku žalovaným
    b) r. pro zmeškání - opírá se o zmeškání jednání žalovaným (bez omluvy)
 
-A44. Zkrácené (rozkazní) řízení
+- **Zkrácené (rozkazní) řízení**
 - zjednodušené řízení soudu, bez nařízení jednání/ dokazování/ slyšení žalovaného
 *	opírá se jen o tvrzení a skutečnosti, které tvrdí žalobce v žalobě
 - ochrana žalovaného = po rozhodnutí
@@ -5480,7 +5479,7 @@ D. směnečný a šekový plat.r.
 ­	na NÁVRH žalobce, který předloží směnku nebo šek, vydá soud směnečný (šek.) plat. rozkaz
 => aby žalovaný do 15 dnů zaplatil pohledávku + náklady říz./v téže lhůtě podal odůvodněné námitky (rozkaz se neruší, nařídí se jednání, námitky se projednají, výsledkem je rozsudek o platnosti/zrušení plat. rozkazu)
 
-A45. Právní moc rozhodnutí
+- **Právní moc rozhodnutí**
 - jeden z účinků soudního rozhodnutí (spolu s vykonatelností)
      = dodatečně nabytá vlastnost rozhodnutí při splnění určitých podmínek
 -	2 aspekty:
@@ -5513,7 +5512,7 @@ II.	nezměnitelnost (negativní stránka) §159a (4)
 - relativní právní moc – rozhodnutí je pravomocné pouze vůči účastníku, kterému lhůta pro podání odvolání uplynula
 - objektivní právní moc – lhůta pro podání odvolání uplynula všem účastníkům
 
-A46. Vykonatelnost rozhodnutí
+- **Vykonatelnost rozhodnutí**
 = vynutitelnost rozhodnutí prostř. státní moci (soudní výkon rozh.) nebo pod její kontrolou (exekuce)
 - jeden z účinků soudního rozhodnutí (spolu s právní mocí)
      = dodatečně nabytá vlastnost rozhodnutí při splnění určitých podmínek
@@ -5544,7 +5543,7 @@ b) fakultativní – stanoví soud, hrozí-li účastníku nebezpečí těžko n
 - u předběžně vykonatelných rozsudků, kt. byly změněny nebo zrušeny odvolacím soudem se plnění vrací jako bezdůvodné obohacení
 - odklad vykonatelnosti: jen na návrh u mimořádných opr. prostředků, odkládá se vykonatelnost, kt. již nastala/bylo pravomocně rozhodnuto; smyslem je, aby se zbytečně nezvyšovala plněná částka, kterou bude třeba vracet, pokud bude opravný prostředek důvodný
 
-A53. Opravné systémy a soustava opravných prostředků
+- **Opravné systémy a soustava opravných prostředků**
 - nelze vyloučit pochybení při rozhodování (procesní vada/ vada ve skutkovém zjištění/ jiné vady např.
   zkomolení jména,…)
 - přezkoumání je v zájmu jednotlivců i v zájmu veřejném, protože cílem soud. řízení je rozhodnutí věcně
@@ -5592,7 +5591,7 @@ c) způsobu rozhodování opravného soudu
 - rozhodnutí => potvrdí nebo zruší nebo změní
 - dovolání
 
-A54. Odvolání obecně: přípustnost, účinky, odvolací důvody
+- **Odvolání obecně: přípustnost, účinky, odvolací důvody**
 - jediný řádný opravný prostředek => lze použít, pokud to zákon nevylučuje (§ 201 a násl.)
 - lze jím napadnout rozhodnutí 1. stupně (rozsudek i usnesení; platební rozkaz NE)
 - má suspenzivní (odkladný) i devolutivní účinek (KS, VS)
@@ -5655,7 +5654,7 @@ o	zpětvzetí odvolání
    - má-li jimi být zpochybněna věrohodnost důkazních prostředků, na kterých spočívá rozhodnutí soudu
 - 	tzv. štěpení práva – výrok rozhodnutí, který obsahuje dělitelné plnění, vycházející z jednoho skutkového základu; podle jednoho názoru podáním odvolání, které nenapadá výrok v celém rozsahu, nemůže dojít ke štěpení práva na část napadenou a část nenapadenou; podle soudní praxe odpovídá dispoziční zásadě přiznat podanému odvolání účinek rozštěpení práva
 
-A55. Odvolací řízení a rozhodnutí o odvolání
+- **Odvolací řízení a rozhodnutí o odvolání**
 - platí OSŘ o řízení v 1. stupni
    => jedná se o pokračování řízení nalézacího, ale má svá zvláštní pravidla, proto platí pouze přiměřeně
      (např. vyloučeno přistoupení a záměna účastníků, vzájemný návrh a námitka započtení, klid řízení,…)

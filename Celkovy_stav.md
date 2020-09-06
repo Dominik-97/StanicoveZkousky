@@ -37,9 +37,9 @@ Hotovo 0/30
 - [ ] Otázka 23
 - [ ] Otázka 24
 - [x] Otázka 25
-- [ ] Otázka 26
-- [ ] Otázka 27
-- [ ] Otázka 28
+- [x] Otázka 26
+- [x] Otázka 27
+- [x] Otázka 28
 - [ ] Otázka 29
 - [ ] Otázka 30
 
