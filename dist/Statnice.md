@@ -7031,7 +7031,7 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Ochrana hospodářské soutěže
+- [x] Ochrana hospodářské soutěže
 
 \|--------------\| <br>
 \| Paragrafy \| <br>
@@ -7058,6 +7058,28 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
   -	§ 2988 OZ: Poškozená osoba může požadovat náhradu škody + přiměřené zadostiučinění (tj. i nemajetková újma) ↪ jinak se uplatní obecná ustanovení o odpovědnosti
   -	+ (není součástí práva náhradu Š:) aby se rušitel zdržel, aby odstranil závadný stav, vydal bezdův. obohacení
   -	§ 2990 poškozená osoba z nedovoleného omezení soutěže má práva jako v § 2988
+
+- **Typy omezování HS**
+  - Jsou upraveny v zákoně o ochraně hospodářské soutěže
+  - **Dohody narušující soutěž**
+    - Jedná se o dohody, jejich účelem je narušit soutěž, zejména:
+      - a) přímém nebo nepřímém určení cen, popřípadě o jiných obchodních podmínkách,
+      - b) omezení nebo kontrole výroby, odbytu, výzkumu a vývoje nebo investic,
+      - c) rozdělení trhu nebo nákupních zdrojů,
+      - d) tom, že uzavření smlouvy bude vázáno na přijetí dalšího plnění, které věcně ani podle obchodních zvyklostí a zásad poctivého obchodního styku s předmětem smlouvy nesouvisí,
+      - e) uplatnění rozdílných podmínek vůči jednotlivým soutěžitelům při shodném nebo srovnatelném plnění, jimiž jsou někteří soutěžitelé v hospodářské soutěži znevýhodněni,
+      - f) tom, že účastníci dohody nebudou obchodovat či jinak hospodářsky spolupracovat se soutěžiteli, kteří nejsou účastníky dohody, anebo jim budou jinak působit újmu (skupinový bojkot).
+  - **Zneužití dominantního postavení**
+    - Dominantní postavení nesmí být užito na újmu jiných soutěžitelů, zejména:
+      - a) přímé nebo nepřímé vynucování nepřiměřených podmínek ve smlouvách s jinými účastníky trhu, zvláště vynucování plnění, jež je v době uzavření smlouvy v nápadném nepoměru k poskytovanému protiplnění,
+      - b) vázání souhlasu s uzavřením smlouvy na podmínku, že druhá smluvní strana odebere i další plnění, které s požadovaným předmětem smlouvy věcně ani podle obchodních zvyklostí nesouvisí,
+      - c) uplatňování rozdílných podmínek při shodném nebo srovnatelném plnění vůči jednotlivým účastníkům trhu, jimiž jsou tito účastníci v hospodářské soutěži znevýhodňováni,
+      - d) zastavení nebo omezení výroby, odbytu nebo výzkumu a vývoje na úkor spotřebitelů,
+      - e) dlouhodobé nabízení a prodej zboží za nepřiměřeně nízké ceny, které má nebo může mít za následek narušení hospodářské soutěže,
+  - **Nedovolené koncentrace**
+    - Aby nedocházelo k monopolizaci na trhu -> Úřad pro ochranu hospodářské soutěže musí schvalovat určité druhy spojení podnikatelů, a to pokud:
+      - Celkový čistý obrat všech spojujících se soutěžitelů dosažený za poslední účetní období na trhu České republiky je vyšší než 1,5 miliardy Kč a alespoň dva ze spojujících se soutěžitelů dosáhli každý za poslední účetní období na trhu České republiky čistého obratu vyššího než 250 milionů Kč,
+      - etc.
 
 
 \|--------------------------------------\| <br>

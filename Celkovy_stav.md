@@ -56,7 +56,7 @@ Hotovo 2/30
 - [ ] Otázka 7 - Podklady
 - [x] Otázka 8 - Podklady
 - [x] Otázka 9 - Podklady
-- [ ] Otázka 10 - Podklady - Teď
+- [x] Otázka 10 - Podklady
 - [x] Otázka 11 - Podklady
 - [x] Otázka 12 - Podklady
 - [x] Otázka 13
