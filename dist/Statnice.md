@@ -11930,10 +11930,10 @@ VEDLEJŠÍ
   - [x] Oddělení vlastnictví a řízení podniku
   - [x] Správa a řízení velké společnosti
     - [x] Korporátní strategie
-    - [ ] Nadnárodní společnosti
-- [ ] Organizační výstavba podniku
-  - [ ] Typická oddělení v podniku
-  - [ ] Organizační inovace
+    - [x] Nadnárodní společnosti
+- [x] Organizační výstavba podniku
+  - [x] Typická oddělení v podniku
+  - [x] Organizační inovace
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -11987,18 +11987,38 @@ VEDLEJŠÍ
   - Velké společnosti mají vždy jako strategii inovace.
   - Podobou se jedná o strategické řízení
 
+- **Nadnárodní společnosti**
+  - jsou charakterizovány jako firmy rozvíjející ekonomické aktivity ve více než jedné zemi, tedy nejen v zemi, kde mají své sídlo a původ. Definice NNS předpokládá vlastnictví pobočky v zahraničí, avšak nedefinuje, zda má jít o vlastnictví plné či částečné. Vlastnický podíl by však měl zajistit rozhodující vliv na řízení pobočky. Literaturou jsou zmiňovány tři významné charakteristiky nadnárodních společností (Dicken 2011):
+  K expanzi na nové trhy se firmy uchylují v případě, že je dosavadní trh nasycen a nenabízí již mnoho možností pro další růst. Blomström a Kokko (1998) vymezují tyto motivace pro realizaci zahraničních investic nadnárodních společností:
+•	Vlastnictví.
+•	Lokalizace.
+•	Překonávání obchodních bariér (celních a necelních).
+•	Využití lokálních výhod.
+
+
 - Mezinárodní obchod
   - V souvislost s nadnárodní společností
 - Existují tři druhy plánů:
   - Komplexní strategické plány
   - Taktické plány
   - Operativní plány
-- Organizační výstavba podniku
-  - Doplnit
-  - OSCAR
-  - **Typická oddělení v podniku**
+
+
+- **Organizační výstavba podniku**
+  - Jedná se o způsob, jakým si podnikatel organizuje podnik - co se jeho samostatného fungování ve smyslu zaměstnanců a řídících zaměstnanců týče, je ponechán prostor jeho imaginaci
+  - Pro výstavu organizace je možné použít třeba metodu OSCAR
+    - Objectives - spojení cílů a jednotky společnosti
+    - Specialization - sjednocení pozic podle jejich účelu
+    - Coordination - sjednocené pozice musí být koordinované
+    - Authority - každé skupině pozic (tedy nějakému oddělení) - musí někdo šéfovat a musí mít jasnou pozici ve firmě
+    - Responsibility - nastavení zodpovědností a koneckonců i kontrollingu
+
+- **Typická oddělení v podniku**
     1. Ředitel
     2. Výzkum a vývoj, Technika, Výroba, Obchod, Personalistika, Marketing, Právní oddělení, Metodika, Controlling, Účetní etc.
+
+- **Organizační inovace**
+  - Jsou to inovace, které jsou mířeny na změny organizační struktury společnosti - ve smyslu jejich zaměření, responsibilities, spolupráce, komunikace atd.
 
 ----
 :::
@@ -12017,6 +12037,142 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+16. Podnikové účetnictví (právní úprava, zásady a jejich odraz ve vedení účetnictví), účetní výkazy, manažerské účetnictví a podniková statistika (role podnikových informačních systémů, vztah k finančnímu účetnictví).
+Pojem "podnikové účetnictví" zahrnuje všechny procesy, jejichž úkolem je:
+-	zaznamenávání,
+-	organizování,
+-	hodnocení a
+-	dokumentování
+v kvantitativních termínech všech dat vztahujících se k vytváření a spotřebě zboží a služeb v podniku a tedy poskytování spolehlivé informace, která může být využita pro plánování, kontrolu a monitorování uvnitř podniku i pro informování mimopodnikových subjektů.
+Aby byl podnik řízen ekonomickým způsobem a směřoval k dosažení zisku, musí mít k dispozici manažerský a monitorovací nástroj: systém podnikového účetnictví, jehož subjektem jsou podnikové procesy.
+Právní úprava
+- Účetnictví každého podniku se řídí:
+a) externími předpisy, vydávané státem:
+- Zákon o účetnictví
+- Vyhlášky, tj. prováděcí předpisy k ustanovením Zákona o účetnictví
+- České účetní standardy
+b) vnitřními předpisy, vydávanými vedením podniku
+- příkazy
+- sdělení
+- směrnice- další předpisy.
+Tyto vnitřní předpisy aplikují pravidla obsažená v externích předpisech na vnitřní podmínky
+konkrétního podniku, a to zvláště v případech, kdy externí předpisy přímo podniku nařizují vnitřní
+předpis vytvořit. V oblasti účetnictví se jedná o vnitřní účetní předpisy.
+-přímo formulované v Zákonu o účetnictví
+-ze zákona nevyplívají
+-ostatní
+
+Zásady účetnictví
+1) zásada pravdivého a věrného zobrazení
+-účetnictví musí být vedeno tak,aby co nejlépe odpovídalo skutečnosti           
+-účetnictví je vedeno věrně,jestliže je vedeno:             
+a)úplně -účtuje se vše                                     
+b)správně -podle předpisů                                                                 
+c)průkazně -každý zápis musí mít doklad                                                                   
+povinnost provádět inventarizaci
+
+2) zásada účetní jednotky
+-vždy musí být vymezen celek za který se účetnictví vede   
+-většinou se právní jednotka (vymezení podniku podle obchodního zákoníku) shoduje s účetní jednotkou. Mohou nastat případy, kdy se stanovují výkazy na několik právnických osob (společností),které jsou vzájemně propojeny majetkovou účastí vyšší než 20% =>klamatel sestavuje konzolidované účetní výkazy
+PŘ. s.r.o. má 30% základního kapitálu a.s. => s.r.o. sestaví     konzolidované účetní výkazy na sebe, ale promítne do nich i svůj majetkový vztah k a.s.
+3) zásada nepřetržitého trvání účetní jednotky
+-při zachycování hospodářských informací se    předpokládá, že účetní jednotka bude stále provozovat svou činnost (př. koupené budovy     à musí se odpisovat à nedojde k deformaci odpisů i když podnik skončí za 5 let (odepisuje se normálně)
+4) zásada historických nákladů (účetnictví) -při oceňování hospodářských prostředků se přednostně používá pořizovací cena
+-reprodukční pořizovací cena je jediná cena, která není historická
+5) zásada opatrnosti - v účetních výkazech se zachycují zisky jen tehdy, pokud skutečně nastaly
+-v účetních výkazech se promítají ztráty a rizika, i když ještě nenastaly
+-zisk se vykazuje opatrně v účetnictví (počítá se s horší variantou)
+- vytváří se rezervy
+- pokud víme, že nám někdo nezaplatí , tak už to tam můžeme dát
+
+OPRAVNÉ POLOŽKY -pokud se při inventarizaci zjistí, že tržní cena zásob (lze vztáhnout na všechna aktiva kromě cenin a peněz) snížená o náklady spojené s prodejem je dočasně nižší cenou a tím se vytvoří tzv. opravné položky
+-vznik opravných položek = náklad à daňově neuznatelné      zánik opravných položek = výnos-přispívají k věrnějšímu zobrazení účetnictví
+
+6) zásada věcné a časové souvislosti -uspořádání jednotlivých položek účetních výkazů            (rozvaha, výsledovka), jejich obsah ani způsoby oceňování použité v jednom účetním období nesmí účetní jednotka měnit v následujícím účetním období. Změny je možno uskutečnit pouze v případě změny předmětu podnikání nebo pro dosažení věrného obrazu skutečnosti v účetnictví. Takto provedené změny je nutno zdůvodnit v rámci účetní závěrky
+7) zásada průkaznosti -účetní zápisy se provádí pouze na základě řádných účetních dokladů
+-musí se provádět inventarizace hospodářských prostředků a závazků
+8) zásada oceňování peněžní jednotkou -účetnictví se vede v peněžním vyjádření
+-všechny hospodářské prostředky se převádějí na peníze
+-můžeme sčítat různá aktiva a můžeme tak zjišťovat finanční situaci podniku
+9) zásada akruální princip =>ekonomické jevy se v účetnictví zaznamenávají do účetnictví období, ve kterém nastaly a nikoliv do období, kdy byly vydány nebo přijaty peněžní prostředky
+př. nájemné 50 000,-Kč …..1.11.2001 na listopad-březen =>náklady na nájemné 2001 … 20 000,-Kč (2 měsíce) na nájemné 2001 … 30 000,-Kč (3 měsíce)
+-týká se to i jednoduchého účetnictví
+např. mzdy (dávají se zpětně), odpisy (za rok 2001 počítám na začátku roku 2002)
+10) zásada pravidelného zjišťování hospodářského výsledku -doba trvání účetní jednotky   (neomezená) je rozdělena na pravidelné intervaly do účetních období=>za toto období se zjišťuje hospodářský výsledek
+11) zásada zachování kapitálu -účetnictví by mělo napomáhat ke zvyšování bohatství podniku (zisku),účetnictví má odhalovat přípustnou erozi bohatství podniku (tunelování)     
+Účetní výkazy
+Knihy jednoduchého účetnictví:
+1) Peněžní deník
+2) Kniha pohledávek a závazků
+3) Pomocné účetní knihy: (materiálu a zásob, mzdové listy, DM, nepřímých daní DPH, jízd, pokladní,)
+
+Peněžní deník
+Záznamy jsou uspořádány z časového hlediska - časový zápis. Je určen pro záznamy peněžního charakteru: a) příjmy a výdaje v pokladně b) příjmy a výdaje na bankovním účtu
+
+Pokud nedojde k pohybu peněžních prostředků do PD nezapisujeme. Vede se v Kč, vede se pro neplátce i plátce DPH. Peněžní deník má tabulkovou formu - tabelární deník
+
+Evidence pohledávek a závazků
+vedení přesné a podrobné evidence je důležité nejen pro zjištění jmění podnikatele, ale aby věděl, za kterým dlužníkem má pohledávku, v jaké výši, kdy je splatná a kdy byla uhrazena. Evidence může mít různou formu. Kniha pohledávek (OFA), kniha závazků (DFA)
+
+Pomocné knihy - předepsané ze zákona – kniha nepř daní DPH, kniha DM,
+Účetní období končí – uzavřením účetních knih a sestaví se 2 výkazy:
+1. O MAJETKU A ZÁVAZCÍCH
+2. VÝKAZ PŘÍJMU A VÝDAJŮ
+Zjistí se daňová povinnost – vypočtenou daň zapíšeme do knihy závazků na další období
+Pokud vyjde ztráta – vyplní se opět DAŇOVÉ PŘIZNÁNÍ
+– mohu ji odečítat po dalších 7 let,
+ale jen pokud v příštím roce vykazuji příjmy
+Knihy podvojného účetnictví:
+Zákon o účetnictví předepisuje účetním jednotkám účtujícím v soustavě podvojného účetnictví vést následující účetní knihy:
+1) Deník
+2) Hlavní kniha
+3) Knihy analytické evidence
+
+Deník - respektuje časový sled uskutečněných operací, proto účetní zápisy prováděné v deníku se nazývají zápisy časové. poskytuje přesný časový přehled o skutečných operacích
+zabraňuje dodatečným neoprávněným úpravám účetních zápisů
+Účetní případy se účtují vzestupnou řadou
+
+Hlavní kniha - je soubor syntetických účtů, na nichž se provádějí věcné účetní zápisy nazývá se tak proto, že poskytuje hlavní (základní) informace pro potřebu řízení a kontroly. Zůstatky účtů hlavní knihy jsou pak podkladem pro sestavení účetních výkazů.
+vztah mezi N a V je zachycen ve finančním výkazu (výsledovka, výkaz zisků a ztrát), který je podnik povinen sestavovat na konci účetního období.
+
+
+
+Účetní výkazy : četní výkazy
+Účetní závěrka v plném rozsahu
+  Šablony účetní závěrky v plném rozsahu pro podnikatele vedoucího účetnictví. Rozvaha, výsledovka, cash flow, přílohy.
+Účetní závěrka ve zjednodušeném rozsahu
+  Šablony účetní závěrky ve zjednodušeném rozsahu pro podnikatele vedoucího účetnictví. Rozvaha, výsledovka, příloha.
+Účetní závěrka pro daňovou evidenci
+  Šablony účetní závěrky pro podnikatele vedoucího daňovou evidenci. Výkaz příjmů a výdajů, výkaz o majetku a závazcích.
+Účetní závěrka pro rozpočtové organizace
+  Účetní závěrka organizačních složek státu, územních samosprávných celků a příspěvkových organizací.
+Účetní závěrka pro neziskové organizace
+  Účetní závěrka pro účetní jednotky, u kterých hlavní předmětem činnosti není podnikání.
+
+Účetní výkazy
+Podle zákona o účetnictví jsou povinnými výkazy účetní závěrky Rozvaha a Výsledovka (Výkaz zisků a ztrát). Mezi doplňující výkazy patří Cash flow výkaz a Přehled o změnách vlastního kapitálu.
+Součástí účetní závěrky je také příloha, ale ta se neřadí mezi výkazy.
+
+Manažerské účetnictví - slouží bezprostředně pro efektivní řízení podniku a jeho vnitropodnikových útvarů (středisek). Není regulováno žádnými předpisy a je zcela dobrovolné. Spolu s rozpočetnictvím tvoří interní účetnictví. Využívá údajů finančního účetnictví, kalkulací, operativní evidence, statistiky, používá statistických, matematických aj. metod a postupů.
+Využití manažerského účetnictví v praxi: Manažerské účetnictví je účetnictví nákladů a výnosů orientované na rozhodování. Jeho předmětem jsou nejen náklady, ale i výnosy, popř. cash flow. Umožňuje řízení a kontrolu (výstupy z manažerkého účetnictví se používají při controllingu - poskytuje podklady manažerům pro jejich rozhodování. Je součástí manažerského informačního systému, který je sám součástí celkového informačního systému podniku.
+Související pojmy a metody:
+•	Controlling
+•	Finanční účetnictví
+•	Náklady
+•	Účetnictví
+•	Výdaje a náklady
+•	Výdaj
+
+Podniková statistika a rozbor využívají hospodářských čísel z finančního účetnictví, výkazů, vnitropodnikového účetnictví a kalkulace k tomu, aby specifickými postupy tato čísla transformovaly podle potřeb uživatelů do podkladů pro rozhodování a řízení. Nejčastějším postupem podnikové statistiky je vytváření a následně v rozboru analýza ukazatelů, indexů charakterizujících dynamiku určité složky podnikové aktivity v čase anebo charakterizujících míru shody (rozdílu) vývoje skutečnosti a předpokladů (rozpočtu, plánu). Specifickou složkou rozboru je finanční analýza vycházející především z účetních výkazů, rozvahy a výsledovky.
+Role podnikových informačních systémů – SAP, Pohoda, Helius, Navision. Všechno jsou to účetní/informační systémy, které slouží k pohodlnějšímu a snadnějšímu (rychlejšímu) chodu firmy. Vkládají se do nich data a může se z nich účtovat, platit – připravovat platby, stahovat výpisy ….
+
+Vztah k finančnímu účetnictví
+Charakteristickou vlastností informací finančního účetnictví je preference stability vývoje podniku v čase; dodržování pravidel (úplnost, srozumitelnost, spolehlivost, srovnatelnost v čase a mezi podniky); struktura informací – syntetická (důvodem je skrytí hlavních faktorů podnikatelského úspěchu před konkurenty); informace o výsledcích dosažených v minulosti.
+
+
+
+
 
 ----
 :::
@@ -12204,6 +12360,108 @@ VEDLEJŠÍ
     - Na tržním principu - tržní multiplikátor, srovnatelných trancakcí
     - Reálných opcí
 
+    18. Tržní hodnota podniku, faktory tvorby hodnoty, měření hodnoty podniku.
+    Ocenit podnik je velice problematické, jak ocenit podnik je těžké s ohledem na strukturu podniku např. u a.s. je to lehčí  tj. tam, kde lze zjistit a ocenit majetek např. dle rozvahy a podíváme se na likvidační hodnotu podniku. Dále zde zjištovat hodnotu např. i z cen akcií (tržní hodnota akcií na trhu, obchodovatelnost akcií na kapitálovém trhu aj.
+    Hodnota na trhu může být často ovlivněna ocenitelností akcií na trhu (např. nadhodnocení akcií v určitém období, je ovlivněna výkyvy na akciových trzích ….
+    Fundamentální hodnota podniku souvisí s taktickými plány, projkety podniku, které definují jeho cenu.
+
+    Tržní hodnota podniku je daná např. rozvahou, nebo oceňovacími metodami podniku.
+
+    EVA, tržní přidaná hodnota podniku.
+
+    Pojmy goodwill a know-how.
+
+    Goodwill = dobré jméno firmy. Goodwill je pojem používaný pro trhem oceňovanou hodnotu podniku (výrobku nebo služby), která zvyšuje jeho celkovou hodnotu nad rámec sumy jeho fyzických aktiv. Zjednodušeně se vykládá jako dobrá pověst, dobré jméno podniku, prestiž, image podniku. V praxi se nepřekládá a běžně používá anglický pojem Goodwill.
+
+    Know-how = dovednost dané firmy.
+
+
+    Důvody zjišťování tržní hodnoty podniku
+    získávání dalšího vlastního nebo cizího kapitálu pro rozvoj podniku
+    -   koupě nebo prodej podniku
+    -   růst pomocí akvizic
+    -   uvedení podniku na burzu
+    -   rozhodování o konkursu aj.
+    Postup při oceňování
+    1. Hodnocení podniku ze strategického hlediska
+    2. Ocenění podniku z finančního hlediska; ocenění obsahuje dva kroky:
+    	a) ocenění podniku „samého o sobě“
+    	b) ocenění podniku z hlediska záměrů, které by měly být uskutečněny v budoucnu
+    Metody oceňování podniku založeny na:
+    -  analýze výnosů
+    -  analýze tržní hodnoty
+    -  analýze majetku
+    Výnosové metody oceňování
+    •	založené na očekávaných hotovostních tocích (teoreticky nejsprávnější metoda)
+    •	problémem je definovat:
+    		-      co se pod pojmem peněžní tok skrývá
+    		-       jak velké toky předvídat v budoucnu
+    		-       stanovení diskontní sazby
+    a)	metoda diskontovaného peněžního toku
+    -	stanovení tzv. volného cash flow
+    -	volné cash flow = celkový peněžní příjem podniku po zdanění, který je k dispozici všem, kdo poskytují podniku kapitál, tj. věřitelům i vlastníkům (lze jej považovat za peněžní příjem po zdanění, který by byl k dispozici akcionářům podniku, kdyby podnik neměl žádný dluh)
+    b)	 metoda založená na koncepci EVA
+    -	Hpodniku = investovaný kapitál + hodnota přidaná trhem
+
+    -	Hpodniku = investovaný kapitál + současná hodnota budoucích EVA
+
+    c)	 metoda kapitalizovaných zisků
+    Časová řada minulých zisků (období 3-5 let) se upravuje na srovnatelnou reálnou úroveň a stává se základem pro výpočet tzv. trvalého zisku
+    (= velikost prostředků, které je možno rozdělit vlastníkům; tyto prostředky mohou být rozděleny, aniž by byla dotčena podstata podniku)
+    •	Pro odhad trvalého zisku se používají dvě metody:
+    -        paušální metoda
+    -        analytická metoda (na základě rozborů faktorů působících na zisk se pokusíme odhadnout vývoj trvale odnímatelného zisku do budoucnosti)
+    d)	 kombinované metody
+    e)	kombinace majetkového a výnosového ocenění
+    Metody:
+    Metoda střední hodnoty
+    Metoda kapitalizovaných nadzisků
+    Metody tržního srovnávání
+    •	Srovnání s podobnými podniky, jejichž hodnota je známá
+    •	Srovnání s jinými podniky, které byly předmětem transakcí a známe tedy jejich realizační cenu
+    •	Srovnání s podobnými podniky, jejichž podíly byly oceňovány pro vstup na  burzu
+    •	vyžaduje vyspělý trh s cennými papíry s dobře se orientujícími investory, kteří svými nákupy a prodeji nepřipustí existenci výrazně podhodnocených nebo nadhodnocených akcií
+    •	je omezené z důvodu problematické srovnatelnosti podniků
+
+    Majetkové ocenění
+    •	určení hodnoty vlastního kapitálu, kterou získáme odečtením všech dluhů podniku od součtu všech položek aktiv.
+    Substanční hodnota podniku = souhrn relativně samostatného ocenění jeho jednotlivých majetkových složek za předpokladu, že podnik bude pokračovat ve své činnosti (nejedná se proto o likvidační hodnotu)
+    Pracujeme s informacemi z účetních výkazů:
+    •	orientace na historické účetnictví (oceňování v pořizovacích cenách) způsobuje, že ceny konkrétních položek aktiv neodrážejí změny tržních cen
+    •	 v inflačním prostředí se mění kupní síla peněžní jednotky používané v účetnictví
+    •	 může dojít k různým postupům při vyjadřovaní časového posunu mezi výdaji a náklady, resp. příjmy a výnosy
+    Ø   důsledkem může být fakt,  že účetně je vykázána nižší hodnota vlastního kapitálu než je hodnota reálná o tzv. tiché rezervy
+
+    Substituční hodnota provozně nutného majetku brutto
+    - Reálná hodnota závazků
+    + Tržní (prodejná) hodnota majetku nepotřebného pro provoz
+    = Substanční hodnota netto
+    nebo:
+    Vlastní kapitál podle účetnictví
+    + Zvýšení (snížení) účetní hodnoty aktiv
+    - Zvýšení (snížení) účetní hodnoty pasiv
+    =  Substanční hodnota netto
+    Kupní cena podniku může být vyšší než jeho substanční hodnota - tento rozdíl potom představuje goodwill.
+
+    Likvidační hodnota
+    = množství peněz, které můžeme získat prodejem jednotlivých částí podniku
+    (celková hodnota podniku však není rovna součtu hodnot jednotlivých podnikových majetkových součástí – tyto statky musí být spojeny do jednoho celku, aby bylo možné dosáhnout produkce a zhodnocení vložených prostředků)
+
+
+     FAKTORY TVORBY HODNOTY
+    -	 Tržby, náklady na mzdy,
+    -	výnosy z rozsahu  (čím víc strojů mám tím víc dokážu vyrobit s nižšími náklady na výrobu a tím vytvářím vyšší hodnotu na trhu
+    -	a z šíře sortimentu  - oproti konkurenci dokážu vytvářet levnější zboží na trhu
+    -	inovace – každoročně li zvyšujeme výkon, měníme design a zvyšujeme funkčnost -…. Tzv. Inkrementální inovace
+    -	další příklad jediný poskytovatel na trhu služeb apod.
+    -	TQM  praktiky kvality – princip  SIG SIGMA  -  kdy se snažíme poskytovat kvalitu za
+    -	každou cenu. Sigma --- odchylka …
+
+
+    MĚŘENÍ HODNOTY PODNIKU   viz začátek prezentace
+    -	inovace (marketingové, procesní, inovační, produktové)
+
+
 ----
 :::
 #### Otázka 19 - Výroba a její zabezpečení (výrobní plán, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace. \
@@ -12221,6 +12479,99 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+19. Výroba a její zabezpečení (výrobní plan, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace.
+Lze uvést např. Automobilku a povědět o ni vše o výrobě atd.
+Výroba je každá činnost, která tvoří hodnotu. Výroba zahrnuje všechny hospodářské činnosti spojené se zajištěním výrobků a služeb. Podstatou výroby je postupný proces přeměny vstupů (zdrojů) ve výstupy (produkty, tj. hmotné výrobky nebo nehmotné služby) – produkční proces. Výroba úzce souvisí s plánováním, logistikou a oblastí řízení kvality.
+
+Výrobní plán
+Základním prvkem plánování je stanovení cíle. Cílů plánování výroby může být několik. Převážně se jedná o stanovení možného termínu dodání výrobku, optimální využití zdrojů a zajištění podkladů pro plánování materiálu. V průběhu sestavení plánu mohou být aplikovány další podmínky pro optimalizaci pořadí výrobních zakázek.
+V rámci vlastního procesu plánování se obvykle setkáváme s několika typickými problémy, které se objevují v různých variantách. K nejčastějším patří neúplnost, nebo dokonce absence technologických postupů, případně chybějící normy pro jednotlivé výrobní operace. To může být způsobeno neudržováním takovýchto dat nebo neexistencí přesného postupu a rozsahu výroby v okamžiku zahájení (zakázková výroba). Pokud výrobní postupy existují, stále ještě není vyhráno. Na řadu mohou přijít potíže s neustále se měnícími požadavky na termín dokončení zakázky, což obvykle vede k nesystematickým zásahům do výrobního plánu.
+Finálním požadavkem výroby je dosažení optimálních nákladů při dodržení požadovaného termínu dodání. Toho se dá dosáhnout pouze dodržováním stanovených postupů ve všech fázích plánování. Pro úspěšné dokončení výroby a splnění takového požadavku je důležitá znalost vlastní technologie a nutnost konzultace termínů dokončení s výrobním oddělením. To k jejich určení použije vhodný kalkulační program nebo data z ERP systému a stanoví základní požadavky na materiál a výrobní kapacity. Výrobní program se musí plnit postupně a dle možností ihned aktualizovat tak, aby případné další požadavky měly od počátku co nejreálnější termíny. Z tohoto pohledu se ukazuje jako vhodnější plánovat spíše větší objem zakázek na delší období, než operativně plánovat malé zakázky. Ve velkém množství zakázek se dají obvykle nalézt společné parametry, které ovlivňují ideální sestavení plánu. Proto také plánování většího objemu dává možnost lepší optimalizace. Poskytuje tak možnost účelnějšího vytížení kapacit a lepšího rozvržení nákladů výroby.
+Změny v plánování
+Je velmi důležité, aby do plánu zasahoval pouze plánovač na základě jemu dostupných informací, protože při narušení některých podmínek může dojít k zásadní změně výstupu. Dodržování pravidla minimálního zásahu je podstatné především u detailních plánů. Týká se to zejména výroby, která bezprostředně souvisí s dalšími navazujícími činnostmi, jako je kooperace, expedice, přísun materiálu do výroby nebo plánování vlastního nákupu. Tato pravidla samozřejmě omezují obchodníky, kteří vyžadují flexibilní změny výroby. Pro zachování možnosti operativního zásahu do plánu jsou nutné předem dohodnuté podmínky změn. Na důležitosti tak nabývá nutnost komunikace mezi jednotlivými odděleními v prodejním a výrobním procesu. Jako nezbytnost se v tomto případě jeví sdílení informací v ERP systému.
+Jednofázová výroba
+Pokud máme výrobu dostatečně dobře popsanou pomocí technologického postupu, je možné použít k sestavení plánu výpočetní techniku. Velmi dobře lze v informačních systémech zpracovávat výrobu na výrobních linkách, kde zakázky běží bezprostředně za sebou (sériová výroba) a linkový čas je zde zásadní.
+Výhodou pro plánování je, když čas hlavní operace převládá nad operačním časem ostatních (potisky, výstupní kontrola, příprava expedice atd.). Okamžiky, které ovlivňují vlastní plánování, souvisí se složitostí používané výrobní technologie. V takovém procesu bývá zpravidla zásadní proces nastavení, přeprogramování či kalibrace výrobní linky.
+Tyto prostoje významně ovlivňují celkové výrobní náklady, protože v době změny výroby linka nevyrábí a vytěžuje obslužnou kapacitu. Proto v rámci optimalizačního procesu definujeme podmínky, které je nutné nebo přínosné zachovávat. Příkladem může být vyrábění zakázek ze stejného materiálu, nebo výrobků shodných parametrů v jedné nepřerušené dávce, bez nutnosti změny nastavení linky.
+I u tohoto typu výroby je nutné stanovit pravidla. Jejich porušení má za následek ovlivnění plánu a následné ohrožení termínu dodání nebo zvýšení nákladů výroby. Takovým pravidlem je obvykle stanovení minimální výrobní dávky (nebo několika dávek) bez nutnosti změnit zásadní parametry výrobního zařízení. Zásahy do takového plánu jsou pak relativně jednoduché. Jedná se například o vyřazení nebo vložení zakázky podobných vlastností (menší než původní plánované), úpravy množství, změnu pořadí dílčích výrobních příkazů apod.
+Výroba ve více fázích
+Daleko složitější je situace v případě, kdy je výrobek vyráběn v několika fázích. Operace se střídají a pracoviště jsou sdílena různými zakázkami. V tomto případě je poměrně složité stanovit univerzální klíč pro naplánování výroby. Z existujícího technologického postupu sice víme, jak se bude vyrábět, ale podobných zakázek může být v plánu mnoho. A kapacity jsou omezené. Výhodu získáme identifikací úzkého místa, přes které zakázky prochází. Pak je možné toto pracoviště dokonale vytížit stanovením pořadí průchodu zakázek. Ostatní operace se doplánují okolo klíčového výrobního procesu. Typickým příkladem může být příprava materiálu, jeho primární dělení a následný přesun ke složitějšímu strojnímu zařízení, které je vytíženo v maximálním rozsahu (např. obráběcí stroje, energetická zařízení apod.). Zde je materiál postupně, dle stanoveného pořadí, zpracován a pokračuje na další, méně významné pracoviště. Pokud takovým pracovištěm prochází zakázka vícekrát, je optimalizace a numerické zpracování podstatně složitější. Je nutné do plánu doplňovat priority, podle kterých se zakázky na pracovišti řadí. Ve většině případů se jedná o zakázky, které mají dlouhé technologické časy a operace na sebe nemusí bezprostředně navazovat (jsou například vykonávány v jiném místě).
+Plánování materiálu
+Dosud jsme pominuli důležitou součást plánovacích procesů – plánování materiálu. Je naprosto pochopitelné, že bez materiálu nelze vyrábět a jeho nedostatek je kritický pro dokončení výroby v termínu. Abychom zajistili včasnou a plynulou dodávku materiálu, je třeba věnovat dostatečnou pozornost jeho objednání.
+Pro vytvoření požadavku na materiál musí být stanoven seznam potřebného a způsob jeho pořízení (nákup, jiná výroba). Výrobní plán stanoví datum potřeby materiálu a ve většině případů jsme schopni stanovit, ke které operaci má být připraven. Pokud máme definovány doby dodání, informační systém by měl vytvořit požadavky na nákup a zajistit jeho objednání.
+Velmi zajímavá je úloha stanovení plánu výroby na paralelních zařízeních s požadavkem na stejný materiál. Kapacitní plánování definuje zatížení jednotlivých strojů v čase. Při započtení plánované spotřeby materiálu zjistíme, kdy bude třeba materiál znovu doplnit tak, aby mohla výroba nepřetržitě pokračovat, případně aby mohlo dojít k přeplánování výrobních zařízení.
+Druhy podniků
+1.  Podle zaměření a způsobu hospodaření - Toto třídění se řídí hlavním cílem podniku. Je-li jím dosažení zisku, jsou tyto podniky nazývány ziskové. Jsou-li cíle jiné, hovoříme o neziskových organizacích.
+2.  Podle vlastnictví majetku - Podle vlastnictví majetku můžeme rozlišit podniky:
+- soukromé
+- družstevní
+- státní
+- církevní, politické strany, zájmová sdružení
+- nadace
+3.  Podle výkonů - 1. podniky produkující statky:                                                                         
+- těžební = zabývají se těžbou surovin (uhlí, železná ruda, kámen... ). Získávají statky z nalezišť v přírodě.
+- zemědělské = zabezpečují výrobu zemědělských produktů. Získávají statky z přírody, hlavní výrobní  činitel je půda.
+- energetické = zabezpečují výrobu a produkce energií. Získávají statky z nalezišť v přírodě.
+- zpracovatelské = vyrábějí výrobní činitele pro další výrobu (stroje ...) a spotřební statky pro obyvatelstvo (oděvy, nábytek ... ).
+2. podniky poskytující služby:
+poskytují služby pro jiné podniky nebo pro obyvatelstvo, pro majetek osob i podniků. Služby uspokojují lidské potřeby průběhem své činnosti, nedají se skladovat.
+Služby se poskytují při: rozdělování a směně hmotných statků, zajišťování peněžních prostředků a hospodaření s nimi, údržbě a opravách výrobků, ochraně majetku a osob, péči o zdraví, výchově a vzdělávání.
+4.  Podle velikosti - nejmenší podniky (do 10 zaměstnanců)
+- malé podniky (desítky zaměstnanců)
+- střední podniky (stovky zaměstnanců)
+- velké podniky (více než 500 zaměstnanců).
+5.  Podle příslušnosti k určitému odvětví - Odvětví jsou vymezena klasifikací ekonomických činností stanovenou Českým statistickým úřadem.
+Například:
+      1) zemědělství, myslivost, lesní hospodářství
+      2) dobývání nerostných surovin
+      3) výroba a rozvod elektřiny, plynu, vody
+      4) zdravotnictví, veterinární služby, sociální služby
+      5) pohostinství a ubytování ....
+6.  Podle dalších hledisek (zvláštní druhy podniků) - Jsou to podniky založené spojením našeho a zahraničního kapitálu. Mohou je zakládat jak tuzemské, tak zahraniční právnické a fyzické osoby. Podniky mohou mít různé právní formy. Například Toyota Peugeot Citroën Automotive (T. P. C. A. Kolín) vznikla jako joint-venture firem Toyota Motor Corporation a PSA Peugeot Citroën.
+
+Typy výrobní činnosti
+
+Výrobní činnost podniku (výroba podniku) spočívá v přeměně (transformaci) výrobních faktorů (výrobních činitelů, vstupů) ve výrobky (výstupy). Tato přeměna probíhá jako výrobní proces, který se skládá z celé řady procesů, a sice:  procesů pracovních, tj. procesů s přímou účastí člověka,  procesů automatických, tj. procesů bez přímé účasti člověka, a  procesů přírodních, tj. procesů, kdy působí přírodní síly, pro které člověk připravil podmínky – např. kvašení apod. Výrobní proces obvykle probíhá v etapách; pokud jde o výrobní podnik, zpravidla se rozlišuje:  předvýrobní etapa, tj. vývoj, konstrukční a technologická příprava výrobku a výroby, zajištění materiálů apod.;  výrobní etapa a  odbytová etapa. Každý výrobek, popř. jeho součást, vzniká určitým výrobním postupem, který se skládá ze sledu operací odpovídajících dané technologii. Ve výrobním podniku lze výrobu rozčlenit do následujících skupin:  hlavní výroba – výrobky této výroby tvoří hlavní náplň výroby podniku;  vedlejší výroba – tj. výroba polotovarů, náhradních dílů;  doplňková výroba – tj. výroba, která představuje využití a zpracování odpadu z hlavní a vedlejší výroby, nebo představuje využití volné kapacity;  přidružená výroba – tj. výroba, která se od předcházejících výrob obvykle liší charakterem výroby. Ve výrobním podniku kromě těchto základních výrobních procesů probíhá řada - pomocných procesů – údržba strojů a budov, výroba energie apod. a - obslužných procesů – skladování, doprava, balení, kontrola apod.
+
+Výnosy z rozsahu - odrážejí proporciální reakci celkového produktu na zvýšení všech vstupů.
+ČÍM VÍC LIDÍ  (  např. matriky, řidičáky)    TÍM VÍC …..
+ČÍM VÍC INVESTUJI DO KAPITÁLU A ZAMĚSTNANCŮ, TÍM VÍCE MI ROSTE VÝSTUP
+
+Rozlišujeme tři případy
+1) Konstantní výnosy z rozsahu
+změna všech vstupů vede ke stejně velkému zvýšení výstupu.
+2) Klesající výnosy z rozsahu
+když proporcionální zvýšení všech vstupů vede k nižšímu než proporcionálnímu zvýšení celkového výstupu.
+3) Rostoucí výnosy z rozsahu
+zvýšení všech vstupů vede k více než proporcionálnímu zvýšení úrovně výstupů.
+
+Výnosy z rozsahu se týkají dodatečně přijatého zaměstnance.
+V jakým podniku bude problém, když přijmu zaměstnance a pak dalšího dalšího – problém u úklidové firmy může být, že nemám dost zakázek.
+Lokalizace podniku – kam umístíme místo své firmy, dostupnost, co je v okolí.  
+Jaké lokality zvolit pro výrobu?
+
+Nízkonákladové lokality z pohledu ceny výr.faktorů (práce, půda, kapitál, technologie)
+
+Nízkonákladové lokality z pohledu daňového zatížení
+
+Lokality právně umožňující podnikání
+
+Přístup k novým technologiím - výr.náklady
+
+Logisticky výhodné místo - dopravní náklady
+
+Sídlo firmy zde, v ČR, a danit budeme v zahraničí – př. jsou sportovci.
+Globální hodnotový řetězec – Adidas, Aliexpres,  Ikea - společnosti, které vlastní celý výrobní proces a ovládají všechny subdodavatele. Všem svým členům ručí za to, že jejich zboží se bude prodávat v lokální síti. Jsou to nadnárodní korporace. Participují na určité přidané hodnotě…   
+Produktová inovace – telefon.
+Procesní inovace – zavedeme novou metodu.
+Inkrementální inovace – nové verze – iPhone 6, iPhone 6s.  
+PLÁN PODNIKU
+ Strategický
+Taktický
+Operativní
+
+
 
 - Výrobní faktory
   - Doplnit
@@ -12242,6 +12593,124 @@ VEDLEJŠÍ
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+20. Majetek podniku – charakteristika, členění, rozdíl mezi dlouhodobým a krátkodobým majetkem, oceňování, pořízení, odepisování, vyřazení.
+Majetek (nemovitosti, stroje, materiál, auta atd.) a jeho jednotlivé položky jsou označována jako aktiva.
+
+Dlouhodobý majetek
+Tzv. „stálá aktiva“ - majetek, který slouží podniku déle než jeden rok. Také označení „investiční majetek“
+Člení se do tří základních skupin:
+a) nehmotný,
+b) hmotný,
+c) finanční.
+
+Dlouhodobý nehmotný majetek
+Zřizovací výdaje, nehmotné výsledky výzkumu a vývoje, software, ocenitelná práva, goodwill, povolenky na emise skleníkových plynů a preferenční limity (kvóty), pokud ocenění přesahuje
+určitou výši stanovenou účetní jednotkou (z daňového hlediska 60 000 Kč) a doba použitelnosti je delší než jeden rok.
+
+Dlouhodobý hmotný majetek
+a) pozemky, budovy, stavby, umělecká díla, sbírky, bez ohleduna jejich vstupní cenu,
+b) movité věci (stroje, zařízení, dopravní prostředky, inventář),
+jejichž ocenění je vyšší než stanovená hodnota (daňově nad
+40 000 Kč) a doba použitelnosti delší než jeden rok.
+
+Nespotřebovává se najednou
+Opotřebovává se a znehodnocuje se (s výjimkou pozemků, uměleckých děl a sbírek) - odpisy do
+nákladů podniku.
+
+Dlouhodobý finanční majetek
+a) finanční účasti a podíly podniku v jiných podnicích, které budou v držení podniku déle než jeden rok,
+b) investiční cenné papíry a vklady, (akcie, obligace a jiné dluhopisy, pokladniční poukázky, vkladové listy a termínové vklady, se splatností delší než jeden rok),
+c) poskytnuté půjčky s dobou splatnosti delší než jeden rok.
+
+Ocenění dlouhodobého majetku
+Vstupní cena:
+a) pořizovací cena = cena pořízení + náklady související s pořízením,
+b) vlastní náklady – u majetku pořízeného ve vlastní režii,
+c) cena pořízení – cena, za kterou byl majetek nakoupen, pro ocenění dlouhodobého finančního majetku,
+d) reprodukční pořizovací cena – cena zjištěná podle zvláštního předpisu, pro ocenění např. darovaného nebo nově zjištěného majetku.
+
+Odpisy
+1) Účetní odpisy– určuje si je podnik z hlediska času nebo výkonů podle konkrétního majetku a své strategie
+2) Daňové odpisy– zákonem dané rovnoměrné nebo zrychlené odpisová
+
+Technické zhodnocení
+Jsou výdaje na dokončené nástavby, přístavby a stavební úpravy, rekonstrukce a modernizace majetku, pokud převýší částku 40 000 Kč za rok x Opravy
+
+Rekonstrukce – mají za následek změnu účelu nebo technických parametrů.
+Modernizace – rozšíření vybavenosti nebo použitelnosti majetku.
+
+Oběžný (krátkodobý) majetek
+Majetek, jehož forma se mění:
+PENÍZE → MATERIÁL → NEDOKONČENÁ VÝROBA → HOTOVÉ VÝROBKY → POHLEDÁVKY → PENÍZE
+
+Oběžný majetek má v podniku 2 základní podoby:
+a) ve věcné formě (zásoby),
+b) v peněžní formě (pohledávky, peníze, krátkodobé cenné papíry).
+
+Zásoby
+1) Nakupované zásoby
+Skladovaný materiál
+a) suroviny (základní materiál),
+b) pomocné látky,
+c) provozovací látky,
+d) náhradní díly,
+e) obaly,
+f) drobný hmotný majetek a movité věci použ. do 1 roku.
+Skladované zboží
+2) Zásoby vlastní výroby
+a) nedokončená výroba,
+b) polotovary vlastní výroby,
+c) hotové výrobky,
+d) zvířata.
+
+
+Krátkodobý finanční majetek
+Majetkové cenné papíry (akcie, podílové listy), které jsou určené k prodeji do jednoho roku od jejich pořízení
+Nebo dlužné cenné papíry (dluhopisy, obligace, pokladniční
+poukázky, směnky) se splatností do jednoho roku.
+
+Peníze v pokladně a na bankovních účtech, ceniny
+
+Oceňování oběžného majetku
+1) Zásoby: nakoupené – pořizovací cenou, vlastní výroby – vlastními náklady,
+2) Peníze nominální hodnotou,
+3) Pohledávky – nominální hodnotou
+4) Krátkodobé cenné papíry – cenou pořízení.
+
+Oceňování pohybu zásob na skladě
+1) Metoda FIFO – materiál, který přišel do skladu jako první, z něj také jako první odchází a je tudíž oceněn cenou nejstarší dodávky.
+2) Metoda LIFO – materiál, který přišel do skladu jako poslední, z něj odchází jako první a je tudíž oceněn cenou nejmladší dodávky. Tato metoda není v ČR dovolena.
+3) Průměrnou pořizovací cenou – cenou zjištěnou váženým aritmetickým průměrem z individuálních pořizovacích cen a množství zásob na skladě. Vážený aritmetický průměr je nutné počítat nejméně
+jednou za měsíc
+
+
+Dlouhodobý majetek můžeme pořídit:
+•	nákupem
+-          z tuzemska (již probráno v podmodulu Základní účtování u neplátce DPH), ze zemí EU,  z třetích zemí (ostatní země, které nejsou součástí EU)
+•	darem (přijatý dar)
+•	vkladem do podnikání (převodem majetku z osobního užívání do podnikání u OSVČ)
+•	vlastní výrobou (vlastní činnosti)
+•	finančním leasingem (bude předmětem výkladu v tématu Leasing)
+
+
+Vyřazení dlouhodobého majetku
+Vyřazení majetku se provádí zejména prodejem, likvidací, bezúplatným převodem, z důvodu manka a škody, převodem do osobního užívání apod.
+
+Přitom cena majetku zůstatková a pořizovací se bude účtovat na vrub účtu:
+
+1. Vyřazení likvidací
+Vyřazení dlouhodobého majetku likvidací vyřazujeme na základě likvidačního protokolu.
+2. Vyřazení dlouhodobého majetku prodejem
+3. Vyřazení dlouhodobého majetku darováním
+Majetek vyřadíme v pořizovací ceně.
+4. Vyřazení dlouhodobého majetku v důsledku škody
+Není daňově uznáváno (pojištění).
+ 5. Zcizení (např. software)
+
+
+
+
 
 ----
 :::
@@ -12281,6 +12750,281 @@ VEDLEJŠÍ
   - Účetní zisk - celkový příjem - explicitní náklady, zisk je tedy TR - TC
   - Ekonomický zisk - Účetní zisk - implicitní náklady
 
+  21. Pohledávky a závazky podniku – vznik a členění, zásada opatrnosti, cizí a vlastní zdroje. Náklad a výnos - druhy, pravidla účtování, odraz v účetních výkazech. Řízení a účtování zásob – charakteristika, členění, způsoby účtování, oceňování spotřeby.
+  aktiva
+  - všechen movitý a nemovitý majetek
+  - krátkodobé firemní pohledávky – faktury k zaplacení
+  pasiva
+  - dluhy a pohledávky – závazky firmy vůči jiným subjektům
+  - vlastní kapitál (získáno natrvalo, zvnějšku = vklady)
+  -cizí zdroje (úvěry apod., musí se vrátit)
+  účet zisku a ztrát (výsledovka)
+  - zachycuje stav firemních příjmů a výdajů za určité časové období (obvykle 1 rok)
+  - nezachycuje majetek firmy
+  - rozdíl příjmů a výdajů → hospodářský výsledek firmy (hrubý zisk před zdaněním)
+  cash flow = tok hotovosti firmy
+  - „plovoucí hotovost“
+  - časový průběh firemních finančních příjmů a výdajů
+  charakter spíše interního materiálu, slouží především managementu firmy
+
+  ZDROJE FINANCOVÁNÍ FIRMY:
+  a) interní (vlastní)
+  - finanční zdroje zevnitř firmy – z prodeje jejich výrobků a služeb
+  - financování firemního rozvoje:
+  􀂃 nerozdělený zisk (reinvestice)
+  b) externí
+  - zdroje přicházející zvenčí
+  - úvěry (úročené, mezi podnik. subjekty = důchod za užití zapůjčených peněz, vyjádřený procentem zapůjčené částky)
+  a) krátkodobé
+  - obvykle pro běžné potřeby firmy
+  - splatné obvykle do 1 roku
+  - obchodní úvěr:
+  - u obchodních partnerů
+  - nesoulad mezi dodáním a zaplacením dodávky – vynucené nebo dohodnuté (možné jištění směnkou)
+  b) dlouhodobé
+  - pro firemní rozvoj
+  - v nefinanční podobě – leasing
+
+  Financování pomocí cenných papírů:
+  obligace (dluhopisy)
+  - dluhové financování (vlastník je v pozici věřitele firmy × ale má jistotu úroků)
+  - = certifikát potvrzující závazek vydavatele k vlastníkovi obligace
+  􀂃 termín splatnosti obligace (= jistiny)
+  - = doba, po níž obligace nese úrok
+  - měsíc až několik let
+  - perpetuity = nekonečná doba splatnosti
+  􀂃 výše úroků
+  - vypláceny majiteli pravidelně až do doby splatnosti obligace
+  - velikost obvykle závisí na době splatnosti (dlouhodobé obligace jsou rizikovější → mají vyšší úrok)
+  - míru rizika pro investory → ukazuje rating = hodnocení důvěryhodnosti – publikují nezávislé specializované agentury
+  akcie
+  - nedluhové financování (vlastník je v pozici spoluvlastníka firmy × ale nejistota dividend)
+  - = cenný papír, který představuje vlastnictví odpovídající části hodnoty firemního majetku
+  - výnosnější, ale i rizikovější než obligace
+  a) kmenové akcie
+  - majitel může spolurozhodovat o firmě hlasováním na valné hromadě (počet hlasů odvozen od počtu akcií)
+  b) preferenční akcie
+  - majitelé nemají hlasovací práva
+  - ale získávají dividendy před výplatou dividend kmenových akcií
+  - pokud je společnost likvidována → mají podíl na aktivech před kmenovými akcionáři
+  primární emise
+  - specializovaná firma (upisovatel) upisuje cenné papíry → poskytuje firmě za její cenné papíry předem stanovenou cenu a dále je prodává veřejnosti (cena je obvykle nižší než později na trhu)
+  - syndikát k prodeji cenných papírů = upisovatelé se často spojují s dalšími podobnými firmami, aby rozložili své riziko
+  sekundární obchodování – na organizovaném trhu (burze, RM-S)
+  - další prodej a nákup cenných papírů
+  - cenné papíry zde mění své majitele, ale firma z toho nic nemá
+  - cena (kurz) akcie – určena nabídkou a poptávkou
+
+  Zásada opatrnosti
+  Na základě zásady (principu) opatrnosti se do účetnictví a do výše zisku promítají všechny předpokládané ztráty, rizika a znehodnocení majetku, i když ještě nenastaly a jejich výše není spolehlivě zjistitelná. Jde o to nenadhodnocovat aktiva a nepodceňovat závazková pasiva.
+
+  NÁKLADY
+  -	jsou peněžní částky, které podnik účelně vynaložil na získání výnosů
+  -	v penězích vyjádřené vstupy do výroby
+  -	rozdíl od výdajů (př. nákup surovin v hotovosti je výdaj, až při výdeji surovin do spotřeby, jde o náklad)
+
+  Základní pravidla pro účtování o nákladech
+  •	Podle směrné účtové osnovy účtujme náklady do účtové třídy 5xx – Náklady;
+  •	vzniklé náklady přirůstají na straně MD příslušných účtů;
+  •	o nákladech účtujeme od začátku účetního období;
+  •	náklady účtujeme k příslušnému období, ke kterému se vztahují (používáme časové rozlišení nákladů).
+
+  Členění nákladů
+  dle 3 hlavních kriterií:
+  1)	DLE DRUHU
+  a)	Provozní
+  -	jsou přímo spojeny s výrobním procesem
+  i)	materiální náklady
+  -	zahrnují veškeré vstupy materiálové povahy do výrobních procesů podniku
+  -	vnikají spotřebou (např. spotřeba materiálu a energie)
+  ii)	náklady za služby
+  -	např. za opravy a údržby strojů a zařízení, náklady za služby pošty a spojů, cestovní náklady, nájemné, apod.
+  iii)	osobní náklady
+  -	mzdové náklady, atd.
+  iv)	daně a poplatky
+  -	zahrnuje daň z nemovitostí, silniční daň, daň dědickou, darovací a z převodu nemovitostí (tzn.daně, které mají povahu provozních nákladů)
+  -	dále zahrnuje např. pojištění podnikatele, úrazové pojištění zaměstnanců,.
+
+  b)	Finanční
+  -	zahrnují náklady související s finančními operacemi např. úhrada úroku, náklady peněžního styku, kurzové ztráty,.
+  c)	Mimořádné
+  -	patří sem náklady vznikající v souvislosti s operacemi neobvyklé povahy vzhledem k běžné činnosti podniku a náklady vzniklé z mimořádných událostí nahodile se vyskytujících (manka a škody při inventuře, tvorba rezerv)
+
+
+
+  2.	DLE VZTAHU KE KALKULAČNÍ JEDNICI
+  a)	Přímé
+  -	jsou přímo přiřaditelné k jednotlivým výkonům (výrobkům, službám), jedná se obvykle o náklady na suroviny, polotovary, obaly i mzdy
+  b)	Nepřímé
+  -	nelze přímo přiřadit k určitému výkonu (výrobku, službě) nýbrž je nutné je určitým způsobem rozpočítávat; Obvykle jsou nepřímými náklady např. mzdy režijních pracovníků, nájemné, energie atd.
+
+
+
+  3.	DLE VZTAHU OBJEMU VÝROBY
+  a)	Fixní
+  -	jsou náklady, jejichž objem není přímo závislý na objemu výroby
+  -	náklady, které nezávisejí na rozsahu činnosti a vznikají, i když se nevyrábí
+  Příkladem fixních nákladů mohou být pronájmy výrobních prostor, investice do strojů, zřízení telefonní linky, poskytování nějaké disponibilní služby (např. konzultace, poradenství), úroky z půjček, mzdy manažerů, nebo uklízeček v kanceláři
+  b)	Variabilní
+  -	proměnlivé v závislosti na objemu výroby. Vznikají, až když se vyrábí. A lze je ušetřit zastavením činnost.
+  Příkladem variabilních nákladů může být nákup obalové techniky, odpisy strojů. Výrobci se přirozeně snaží variabilní náklady stlačit na minimum.
+  V ekonomii rozlišujeme ještě:
+  Explicitní nákladyplatí výrobce za používání cizích výrobních faktorů – platí vlastníkům těchto faktorů jejich obětované příležitosti.
+  Implicitní náklady odrážejí obětované příležitosti výrobcových vlastník výrobních faktorů – to, co by za ně dostal v druhé nejlepší příležitosti.
+  Náklady jsou informace pro výrobce, zda má setrvat v dané příležitosti nebo zda má odejít do jiné příležitosti. Abychom zdůraznili tento význam nákladů, používáme pro ně termín ekonomické náklady. Ekonomické náklady zahrnují jak náklady explicitní, tak náklady implicitní. (Součet explicitních a implicitních nákladů)
+  Nákladová funkce
+  -	ukazuje, jak se zvyšují náklady v závislosti na růstu produkce
+
+  N = F + b x q
+  Chování variabilních nákladů; celkové variabilní náklady se zvyšují s růstem produkce.
+  Náklady fixní;zůstávají do určitého objemu výroby stejné, ale mohou se změnit například s rozšíření výrobní kapacity. (např. s přikoupením stroje)
+  Náklady průměrné, jednotkové :
+  -	Náklady na jednotku produkce
+  -	Vypočítáme je tak, že celkové náklady vydělíme objemem produkce.
+  Tyto náklady s růstem produkce klesají (degrese), protože se fixní náklady „rozpouštějí „ ve stále větším objemu produkce.
+  Klesají jenom do určitého objemu výroby, pak zase stoupají.  
+
+  Utopené náklady
+  -	náklad, který nebereme v úvahu
+  -	při rozhodování mezi různými možnostmi porovnáváme jejich náklady
+  -	pro rozhodování, ale nejsou všechny náklady směrodatné
+  -	některé by v úvahu brát měl
+  -	utopená náklady jsou ty náklady, které člověk nese ať se rozhodne pro kteroukoliv z volených možností
+
+
+  Náklady příležitosti
+
+  -	podstatou nákladů je obětovaná příležitost
+  -	náklad je obětovaný výnos, nebo obětovaný užitek, který bychom získali v jiné příležitosti
+  -	člověk má obvykle více jiných příležitostí
+  -	za náklady příležitosti jsou považovány vždy náklady druhé nejlepší příležitosti
+  rozhodování o zastavení výroby na základě analýzy nákladů:
+  a) rozhodnutí o krátkodobém pozastavení činnosti
+  - založeno na porovnávání průměrných variabilních nákladů s cenou, kterou firma získává za prodej jednotky své produkce na trhu
+  - 􀃆 jsou-li ceny nižší než prům. variabilní náklady – je výhodnější výrobu krátkodobě uzavřít (šetří se na variabilních nákladech × fixní náklady mají povahu utopených nákladů – neberou se proto v úvahu)
+  - bod uzavření firmy = ceny produktu jsou rovny průměrným variabilním nákladům
+  b) rozhodnutí o odchodu z trhu – ukončení činnosti
+  - pokud jsou příjmy po delší dobu nižší než její celkové náklady (průměrné celkové náklady převyšují cenu produktu)
+  - ušetří se variabilní i fixní náklady
+  - bod zvratu (bod vyrovnání nákladů a výnosů) = cena produktu se rovná prům.celkovým nákladům
+
+
+
+  produkční funkce = udává vztah mezi množstvím vstupů použitých k výrobě statků a rozsahem vyrobené produkce 􀃆 analyzuje, jak se objem produkce změní při změnách úrovně vstupu
+  - rostoucí křivka, jejíž růst se postupně zpomaluje
+  mezní produkt = zvýšení firemního výstupu plynoucího z jednotkového zvýšení jejích vstupů
+  princip klesajícího mezního produktu = mezní produkt s růstem rozsahu vstupu zpravidla klesá
+  např. klesající mezní produkt práce = s růstem počtu pracovníků se produkt, který vytvoří každý dodatečně najatý pracovník, postupně snižuje
+  křivka celkových nákladů = udává závislost mezi množstvím vyrobené produkce a celkovými náklady
+  rostoucí křivka, jejíž růst se v důsledku klesajícího mezního produktu stává strmější
+
+  rozhodování o optimálním objemu výroby
+  metoda mezní (marginální) analýzy
+  - zkoumá, co se stane, jestliže se firma rozhodne vyrobit o jednu jednotku produkce více
+  - zvyšování výroby se vyplatí, dokud vyrobením dodatečné jednotky dojede ke zvýšení zisku
+
+
+  VÝNOSY
+  -	výnos v ekonomicepodniku představuje peněžní částky, které podnik získal z veškerých svých činností za určité období (měsíc, rok) bez ohledu na to, zda v tomto období došlo k jejich úhradě
+  -	nutno odlišovat výnosy a příjmy
+  •	výnosy - prodej výrobků a služeb za hotové nebo na obchodní úvěr (pohledávka) - přírůstek aktiv
+  •	příjmy - peněžní přírůstek aktiv, prodej služby za hotové
+
+  Výnosy podniku tvoří
+  •	provozní výnosy získané v provozně-hospodářské činnosti podniku (tržby za prodej)
+  •	finanční výnosy získané z finančních investic, cenných papírů, vkladů a účastí
+  •	mimořádné výnosy získané mimořádně, například prodejem odepsaných strojů, náhrada od pojišťovny, atd.
+
+  Řízení a účtování zásob
+  Zásoby celkem
+  1. Materiál na skladě
+  2. Materiál na cestě
+  3. Nedokončená výroba
+  4. Polotovary vlastní výroby
+  5. Výrobky
+  6. Zvířata
+  7. Zboží na skladě a v prodejnách
+  8. Zboží na cestě
+  9. Poskytnuté zálohy na zásoby
+  Dle Českých účetních standardů si může účetní jednotka vybrat mezi dvěma způsoby účtování. Tyto způsoby se označují jako způsob A a B.
+
+  Pro výnosy je ve směrné účtové osnově vyhrazena účtová třída 6. Výnosové přírůstky se účtují na stranu Dal.
+   3 skupiny členění výnosů:
+  •	provozní – účetní případy spojené s činnostmi, pro které byla účetní jednotka zřízena;
+  •	finanční – do této skupiny se účtují účetní operace, které účetní jednotka provádí ve vztahu k finančním institucím, např. účtování úroků;
+  •	Výnosy v účetnictví uplatňujeme podle období, s nímž časově a věcně souvisejí, tedy je časově rozlišujeme.
+  •	 Při účetní závěrce převádíme zůstatky účtů 6. třídy na stranu Dal účtu 710.
+
+  Zásoby
+  Zásoby patří mezi oběžný neboli krátkodobý majetek podniku. Jejich charakteristickou vlastností je, že se při činnosti podniku spotřebovávají nebo při ní naopak vznikají. Výjimku z této charakteristiky tvoří zboží.
+  Mezi zásoby patří:
+  1.	materiál
+  2.	zásoby vlastní výroby
+  3.	zboží
+  Materiálem rozumíme především takové položky, které podnik nakupuje od externího dodavatele, popř. je vytváří ve vlastní režii a do materiálu je aktivuje.
+  Mezi materiál patří například:
+  •	suroviny a základní materiál
+  •	pomocné a provozovací látky
+  •	pohonné hmoty
+  •	náhradní díly
+  •	palivo
+  •	obaly
+  •	„drobný majetek“
+  Pro materiál je charakteristické, že se z účetního pohledu spotřebovává jednorázově. Proto je pro zařazení příslušné položky mezi materiál podstatná ne jeho cena, ale právě předpoklad jednorázové spotřeby – narozdíl od hmotného majetku, který se opotřebovává postupně. Materiál tedy vstupuje do nákladů jednorázově v celé částce.
+  Tzv. drobný majetek, který se též někdy řadí mezi materiál, je takový majetek, který sice má charakter dlouhodobosti (tj. používá se např. déle než 1 rok), ale jeho cena je nižší než zákonem stanovených Kč 40.000,00. V takovém případě podnik může rozhodnout, že takový „levnější“ majete nepovede jako hmotný majetek, ale bude o něm právě účtovat jako o materiálu, tj. včetně jednorázové spotřeby.
+  O materiálu se účtuje v účtové skupině 11, jeho spotřeba pak na účet 501.
+
+  Mezi zásoby vlastní výroby patří především
+  •	výrobky
+  •	polotovary
+  •	nedokončená výroba
+  •	zvířata, a to jak zvířata nakoupená, tak i vlastní příchovky zvířat
+  Výrobky jsou zcela dokončené a připravené k prodeji.
+  Polotovary prošly jednou nebo více výrobními fázemi a ve fázi, ve které se aktuálně nachází, jsou zcela dokončeny. Jako příklad polotovarů se uvádí například dokončený blok motoru, který se zabuduje do automobilu.
+  Nedokončená výroba prošla také jednou nebo více výrobními fázemi, ale narozdíl od polotovarů ve fázi, v níž se aktuálně nachází, není zcela dokončena. Typickým příkladedem může být rozestavěný dům.
+
+  Způsoby účtování
+  O zásobách vlastní výroby se účtuje v účtové skupině 12 a jejich pohyb – tj. přírůstky a úbytky – se zaznamenává prostřednictvím výnosových účtů skupiny 62 – Změna stavu zásob vlastní výroby.
+  Pokud jde o zboží, je mu v tomto slovníčku věnovaná samostatná kapitolka. Proto jen připomeňme, že zboží podnik nakupuje za účelem jeho dalšího prodeje v nezměněném stavu.
+  O zboží se účtuje v účtové skupině 13, úbytky zboží se potom zachycují na účet 504.
+
+  Oceňování spotřeby
+  Oceňování materiálových zásob při jejich výdeji do spotřeby
+  Přírůstky a úbytky se oceňují převážně v pořizovacích cenách. Byl-li určitý druh materiálu pořízen za různé ceny, lze výdej tohoto materiálu ocenit jedním z těchto způsobů:
+
+  1)	úbytek oceníme v pořizovací ceně nakoupeného materiálu, z něhož byl výdej skutečně proveden
+  2)	metodou FIFO
+  3)	v průměrné pořizovací ceně
+  a)	zjištěné váženým aritmetickým průměrem proměnlivým
+  b)	zjištěné váženým aritmetickým průměrem periodickým
+  4)	ocenění v předem stanové ceně pořízení podle podnikového ceníku
+
+  ÚBYTEK MATERIÁLU OCENĚNÝ METODOU FIFO – first in first out
+  Odpovídá zásadě první do skladu, první ze skladu. Výdeje ze skladu se oceňují postupně cenami od nejstarší zásoby k zásobě nejnovější.
+
+  ÚBYTEK MATERIÁLU OCENĚNÝ PRŮMĚRNOU PC
+  a)	zjištěnou váženým aritmetickým průměrem proměnlivým
+
+  Průměr zjišťujeme při každém novém výdeji materiálu z údajů po posledním přírůstku určitého druhu materiálu.
+
+  PPC = zásoba v Kč po posledním příjmu (přírůstku)
+              zásoba ve hmotných jednotkách po p. příjmu
+
+  b)	zjištěnou váženým aritmetickým průměrem periodickým
+
+  Průměr se počítá jako jediný průměr za období, které nesmí být delší než 1 měsíc.
+  Takto zjištěná PPC se použije pro ocenění výdeje materiálu v dalším období.
+
+  PPC = počáteční zásoba v Kč + přírůstky za období v Kč                                                        .
+             počáteční zásoba v hmotných jednotkách + přírůstky za období v hmotných jednotkách
+
+  ÚBYTEK MATERIÁLU OCENĚNÍ V PŘEDEM STANOVENÉ (SKLADOVÉ) CENĚ
+  Při výdeji materiálu oceněného v předem stanovené ceně se současně zjišťují a účtují odchylky této ceny od skutečné ceny pořízení v podobě oceňovacích odchylek – cenových rozdílů.
+  Způsob ocenění vydaného materiálu ze skladu musí být uveden ve vnitřní směrnici účetní jednotky a nesmí se během účetního období měnit.
+
+
+
+
 ----
 :::
 #### Otázka 22 - Výsledek hospodaření podniku, účetní závěrka – pravidla, postup, úloha auditu. \
@@ -12303,6 +13047,77 @@ VEDLEJŠÍ
 
 Krom toho firma ještě podává přiznání k dani z příjmu právníckých osob a přiznání k dani z přidané hodnoty společně s kontrolním a souhrnným hlášením.
 
+22. Výsledek hospodaření podniku, účetní závěrka – pravidla, postup, úloha auditu.
+HOSPODÁŘSKÝ VÝSLEDEK
+-	výkaz zisků a ztrát (výsledovka)
+-	poskytuje informace o tvorbě hospodářského výsledku (z tohoto výkazu zjišťujeme hospodářský výsledek)
+Rozdíl mezi výnosy a náklady tvoří hospodářský výsledek podniku; převyšují-li výnosy, jde o zisk, převyšují-li náklady, jde o ztrátu.
+V > N = ZISK
+V < N = ZTRÁTA
+
+Funkce zisku
+a)	KRITÉRIÁLNÍ - rozhodování o důležitých otázkách ekonomiky podniku (investování, nové technologie, objem výroby atd.)
+b)	ROZVOJOVÁ - tvorba finančních zdrojů pro další rozvoj
+c)	ROZDĚLOVÁCÍ - rozdělování důchodu mezi stát a podnik
+d)	MOTIVAČNÍ - motivem veškerého podnikání, zainteresovanost pracovníků
+
+Způsoby zvyšování zisku
+-	zvyšování výnosů nebo úspora nákladů nebo nějaký dobrý nápad
+
+Rozdíl mezi ziskem účetním a daňovým
+Účetní zisk je nutné odlišovat od daňového zisku, který je určován daňovými zákony. Od účetního a daňového zisku musíme odlišovat ekonomický zisk – ten zjistíme odečtením implicitních náklady.
+Daňový zisk se zjišťuje pro účely výpočtu daně z příjmů podnikajících jednotek. Základem daňového zisku je účetní zisk. Ten se upraví o náklady, které daňoví zákonodárství nedovoluje zahrnout do nákladů.
+
+
+Audit podniku a kontroling
+AUDIT
+Audit analyzuje a diagnostikuje problémy spojené s činnostmi složitých systémů řízení za účelem podání informací o jejich funkčnosti.
+Audit je zaměřený do budoucnosti.
+Kontrola postihuje viníky. X Audit je zaměřen na zkoumání systémových nedostatků v rámci auditované činnosti. Audit prověřuje, jestli správně probíhá určitá činnost.
+Audit dělíme podle toho, kdo ho dělá na
+•	interní
+Zaměstnanci podniku, (ne ti, co tu činnost dělají) pracovníci prověřují průběh procesů. Cílem je pomáhat vrcholovým vedoucím v plnění jejich úkolů, poskytováním rozborů, hodnocení, doporučení, poradenství. Předmětem jsou všechny činnosti podniku.
+•	externí
+Provádí profesionální instituce. Cílem je poskytnout informace vlastníkům, věřitelům a investorům, zda roční uzávěrka podniku objektivně odráží skutečně finanční situaci podniku a zda je vše v souladu s obecnými účetními zásadami. Je zaměřen na hospodářsko-finanční činnost.
+CONTROLLING
+Vymýšlí různá řešení, co by se dalo udělat, aby se předešlo špatným výsledkům, dává rady manažerů, ale nemá rozhodovací pravomoc – štábní útvar.
+Objevil se na konci 19 století v USA. Má vazbu na řízení všech činností v podniku, které jsou zaměřeny na dosažení podnikových záměrů. Pracovníci kontrolingu jsou odbornými poradci manažerů odpovědných za plánované výsledky. Měli by svými zprávami a analýzami pomáhat vedení při rozhodování a formulaci cílů na příští období. Hlavním východiskem je vyhodnocování stavu plnění podnikových plánů. Porovnávají plán a skutečnost, zjišťují nedostatky, analyzují jejich příčiny a navrhují nápravná opatření, zabezpečují servis pro vedoucí manažery.
+
+Rozdíl mezi kontrolou, auditem a controllingem
+Při kontrolingu se srovnává a vyhodnocuje stav plnění plánu.
+Audit prověřuje dodržování příslušných předpisů a směrnic, řeší případné prohřešky a systémové nedostatky.
+Kontrola se snaží najít nedostatek, najít viníka. Porovnávání skutečnosti plánu, normy – hledání odchylek.
+
+ÚČETNÍ ZÁVĚRKA
+Termínem účetní závěrka je označován předepsaný soubor účetních výkazů a to zvlášť
+pro podvojné a zvlášť pro jednoduché účetnictví.
+Pozor ! Účetní uzávěrka a účetní závěrka. Účetní uzávěrka znamená uzavření všech účtů a sestavení souhrnných závěrkových účtů. Takovéto uzavírání probíhá v praxi v softwarových programech, neužívá se obyčejně v papírové formě, musí však být při vyžádání prokázáno .
+
+Účetní závěrku v soustavě podvojného účetnictví tvoří :
+• rozvaha (bilance)
+• výkaz zisku a ztrát , u rozpočtových organizací výkaz o plnění rozpočtu,
+• příloha
+Příloha obsahuje údaje týkající se :
+• způsobu oceňování
+• postupu odepisování
+• postupů účtování použitých v účetním období, za něž se účetní uzávěrka sestavuje
+• informace , které jsou důležité pro posouzení :
+a) stavu majetku a závazků
+b) finanční situace
+c) hospodářského výsledku účetní jednotky
+
+Formuláře účetní závěrky musí být podepsány statutárním orgánem, jde-li o právnickou osobu, nebo fyzickou osobou, která je účetní jednotkou .
+Účetní jednotky sestavují závěrku :
+1) k poslednímu dni účetního období = řádná účetní závěrka
+2) v ostatních případech stanovených Zákonem o účetnictví ( § 17, odst.2 ) mimořádná účetní závěrka
+
+Účetní jednotky, které jsou právnickými osobami, sestavují rozvahu také ke dni svého vzniku, ke dni vstupu do likvidace, nebo ke dni účinnosti prohlášení konkursu nebo vyrovnání.
+
+Účetní jednotky, které jsou fyzickými osobami, sestavují rozvahu také ke dni zápisu do Obchodního rejstříku a ke dni účinnosti prohlášení konkursu nebo vyrovnání
+(zahajovací rozvaha ).
+
+
+
 ----
 :::
 #### Otázka 23 - Daně z hlediska hospodaření podniku, druhy a diskuse v rámci daňové reformy. \
@@ -12320,6 +13135,175 @@ Krom toho firma ještě podává přiznání k dani z příjmu právníckých os
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+23. Daně z hlediska hospodaření podniku, druhy a diskuze v rámci daňové reformy.
+Podnikové daně a jejich vliv na rozhodování.
+Na podnikový management výrazně působí daňová soustava. Převážná část finančního rozhodování je ovlivňována daňovým prostředím, ve kterém se podnik vyskytuje. Velikost daní a jejich celková koncepce působí na právní formu podnikání, na výši disponibilního zisku, výběru optimální finanční a majetkové struktury atd. podnikový manažer by měl znát systém daní dobře. Daňová soustava musí být po relativně delší dobu stabilní, aby bylo možné spolehlivě provádět dlouhodobé finanční rozhodování. Podnikové a ostatní daně, které tvoří daňovou soustavu, musejí být upraveny příslušnými zákony. Zákon upravuje všechny podstatné daňové náležitosti, hlavně např. daňový základ, sazbu daně, nezdanitelné částky, daňové úlevy atd.
+Uplatňují se tří základní obecné typy daní:
+A)	daň důchodová (přímá)- základem pro její stanoven je různě upravený zisk. Je placena podnikem z dosaženého zisku. Zisk se upravuje o částky, které daňový zákon neuznává za náklady, o rozdíly mezi odpisy podle odpisového plánu. Pak se získá daňový základ (můžeme ho snížit o sponzorské dary – na vědecké, kulturní účely). Daně z příjmů velmi výrazně působí na podnikovou fikční situaci a na finanční management. Je ovlivňován: při úvahách o typu právní formy podnikání – existují daně z příjmů pro podniky jednotlivce a zvlášť pro různé formy podnikatelských společností.
+Při zjišťování vlivu odpisů, výběru metody odpisování (odpisy snižují daňový základ) při získávání úvěrových zdrojů a rozhodování o kapitálové struktuře – úroky z úvěrů a výnosy z obligací jsou odpočitatelnou položkou. Daň je také nutné brát v úvahu při zvažování možnosti financování leasingovou formou ve srovnání s pořízením majetku z vlastních prostředků. Také při vytváření dividendové politiky akciové společnosti (dividendy jsou zdaňovány okamžitě při jejich výplatě, nejsou odpočitatelnou položkou)
+Při uvažování o podnikatelském riziku (zákony o daních z příjmů umožňují podniku ve ztrátě, aby ztrátu mohl daňově umořovat – odečítat od základu daně. Tím je podporováno nesení většího rizika podnikání) naše zákony umožňují odečítat hodnotu darů věnovaných na financování rozvoje vědy, školství, kultury, charitativní účely atd. Podmínkou je, že součet hodnoty darů přesáhne ve zdaňovacím období 2 - 10% ze základu daně u FO, činí tedy alespoň 1000 korun. U PO se jedná o 2%. při zvažování zahraniční kapitálové účasti na podnikání (způsoby zdaňování příjmů jsou různé v jednotlivých zemích. Nižší zdanění poskytuje příznivější podmínky a posiluje platební bilanci.)
+B)	daň obratová ( nepřímá) – základem je dosažená výše celkového obratu. Platí se z celkového prodeje zboží, poskytovaných služeb. Tak, že o její velikost je zvýšena cena realizované produkce. Tím je tato daň přenášena na konečného spotřebitele a nezatěžuje náklady výrobce. Pak vystupuje podnikatel jako plátce daně, v zastoupení státu provádí pouze zúčtování daně a odvod finančnímu úřadu.). Z pohledu konkurence schopnosti podniku jde o neutrální daň, protože nesnižuje ani nezvyšuje náklady podnikatele.
+C)	daň majetková – základem je majetek (jeho část). Je různým způsobem odvozována od podnikového majetku. Základem je upravená hodnota majetku, jeho plošná výměra,počet náprav atd. Daňové sazby jsou stanoveny v % a v peněžních jednotkách. Většinou je zahrnována mezi nákladové položky, které snižují základ pro určení důchodové daně. Při placení daně majetkové a důchodové je podnikatelský subjekt v pozici poplatníka (ten, kdo je zákonem nucen svůj příjem použít na úhradu daňové povinnosti).
+Podnikatelské subjekty mohou odvádět i jiné daně (daň na ochranu životního prostředí) a provádějí jiné povinné platby (sociální a zdravotní pojištění). Tyto platby jsou stanoveny jednotným procentem z příjmů. Výrazně ovlivňují finanční rozhodování podniku a úvahy o počtu pracovníků. Daně jsou jednou z hlavních podnikových výdajových položek. Výrazně ovlivňují ceny produkce. Představují pravidelné příjmy státního rozpočtu. Zájmem podniků jsou nízké daně, ale stát chce získat co nejvyšší příjmy.
+
+Daně přímé
+Daň z příjmu
+Daň z příjmu právnických osob
+Jedná se o přímou daň, kterou odvádí každá právnická osoba, které ma sídlo v České republice a nebo zde podnikají. Předmětem daně u právnických osob podnikatelů jsou veškeré příjmy. U nepodnikatelů příjmy z činnosti provozované za účelem dosažení zisku a z pronájmu majetku.
+
+Daně majetkové
+Daň z nemovitosti
+Daň z nemovitosti se vyměřuje každým rokem k 1. lednu zdaňovacího období. Předmětem daně jsou všechny pozemky nacházející se na území ČR, které jsou evidované v katastru nemovitostí a stavby na území České republiky, které jsou spojené se zemí pevným základem a podléhají kolaudačnímu řízení.
+Daň dědická
+Povinnosti uhradit daň dědickou dochází, jestliže je získán majetek v souvislosti s úmrtím. Od roku 2008 jsou od daně dědické osvobozeny osoby zařazené do I. a II. skupiny.
+Daň z převodu nemovitosti
+Předmětem daně z převodu nemovitostí je úplatný převod nebo přechod vlastnictví k nemovitostem. Bezúplatné zřízení věcného břemene nebo jiného plnění obdobného věcnému břemeni.
+Silniční daň
+K silniční dani se přiznávají silniční motorová vozidla a jejich přípojná vozidla, která jsou registrovaná a provozovaná v České republice, jestliže se používají k podnikání nebo k jiné samostatné výdělečné činnosti. Vozidla, jejichž hmotnost je 12 a více tun jsou automaticky předmětem daně silniční.
+
+Daně nepřímé
+Daň z přidané hodnoty
+Jedná se o daň nepřímou univerzální, která se týká se veškerého zboží vyprodukované v tuzemsku a v tuzemsku spotřebovaného. Poplatníkem daně je konečný spotřebitel, plátcem je výrobce nebo dovozce.
+Spotřební daň
+Jedná se o daň nepřímou selektivní, protože se týká pouze zákonem stanovených druhů zboží: uhlovodíková paliva a maziva, líh a lihoviny, pivo, víno, tabákové výrobky. Poplatníkem daně je konečný spotřebitel, plátcem je výrobce nebo dovozce.
+Poplatníci daně z příjmů
+Poplatníky daně z příjmů právnických osob jsou osoby, které nejsou fyzickými osobami. Pokud mají sídlo nebo místo vedení společnosti v České republice, musí zdanit i příjmy plynoucí ze zahraničí.
+Poplatníci, kteří:
+•	mají na území České republiky své sídlo nebo místo svého vedení, kterým se rozumí adresa místa, ze kterého je poplatník řízen (dále jen „sídlo“), mají daňovou povinnost, která se vztahuje jak na příjmy plynoucí ze zdroje na území České republiky, tak i na příjmy plynoucí ze zdrojů v zahraničí.
+•	nemají na území České republiky své sídlo, mají daňovou povinnost, která se vztahuje pouze na příjmy ze zdrojů na území České republiky.
+Od daně se osvobozuje ústřední banka České republiky. Od daně z příjmů jsou též osvobozena veřejná nezisková ústavní zdravotnická zařízení zřízená podle zvláštního právního předpisu.
+(Pokud je sídlo společnosti v cizině, zdaní se pouze příjmy ze zdrojů na území České republiky. Jedná se o příjmy z činností vykonávaných stálou provozovnou, příjmy ze služeb s výjimkou provádění stavebně montážních projektů, příjmy z obchodního, technického nebo jiného poradenství, příjmy z řídicí a zprostředkovatelské činnosti a obdobných činností poskytovaných na území České republiky, příjmy z prodeje nemovitostí umístěných na území České republiky a z práv s nimi spojených, příjmy z užívání nemovitostí (jejich částí) včetně bytů (jejich částí) umístěných na území České republiky, příjmy z nezávislé činnosti, např. architekta, lékaře, inženýra, právníka, vědce, učitele, umělce, daňového či účetního poradce a podobných profesí, vykonávané na území České republiky, příjmy z převodu podílů v obchodních společnostech nebo družstvech, které mají sídlo na území České republiky apod.)
+Zdaňovacím obdobím je
+•	kalendářní rok,
+•	hospodářský rok,
+•	období od rozhodného dne fúze nebo převodu jmění na společníka anebo rozdělení obchodní společnosti nebo družstva do konce kalendářního nebo hospodářského roku, ve kterém byly fúze nebo převod jmění na společníka anebo rozdělení zapsány v obchodním rejstříku,
+•	účetní období, pokud je toto účetní období delší než nepřetržitě po sobě jdoucích dvanáct měsíců.
+•
+Předmět daně
+Všeobecně jsou předmětem daně příjmy (výnosy) z veškeré činnosti a z nakládání s veškerým majetkem. Existuje však spousta výjimek a zvláštností, na které upozorňuje § 18 zákona o daních z příjmů.
+Předmětem daně nejsou například příjmy získané zděděním nebo darováním nemovitosti nebo movité věci anebo majetkového práva s výjimkou z nich plynoucích příjmů, příjmy z dotací, příspěvků na provoz a jiných podpor ze státního rozpočtu, rozpočtu kraje a rozpočtu obce, z úroků z vkladů na běžném účtu. U veřejné obchodní společnosti jsou předmětem daně pouze příjmy, z nichž je daň vybírána zvláštní sazbou.
+
+Osvobození od daně
+Od daně jsou osvobozeny:
+•	členské příspěvky podle stanov, statutu, zřizovacích nebo zakladatelských listin, přijaté zájmovými sdruženími právnických osob, profesními komorami s nepovinným členstvím,
+•	příjmy z cenově regulovaného nájemného z bytů, z nájemného z garáží a z úhrad za plnění poskytovaná s užíváním těchto bytů a garáží v domech ve vlastnictví a spoluvlastnictví bytových družstev, zřízených po roce 1958,
+•	příjmy z nájemného z bytů a garáží v domech ve vlastnictví a spoluvlastnictví bytových družstev, označovaných podle dřívějších předpisů jako lidová bytová družstva,
+•	příjmy plynoucí z odpisu závazků při oddlužení nebo reorganizaci provedené podle insolvenčního zákona, ), pokud jsou zaúčtovány ve prospěch výnosů,
+•	podíly na zisku tichého společníka z účasti na podnikání, pokud jsou použity k doplnění vkladu sníženého o podíly na ztrátách do původní výše,
+•	příjmy z dividend a jiných podílů na zisku, vyplácené dceřinou společností, která má své sídlo nebo místo vedení na území České republiky, mateřské společnosti,
+•	příjmy z převodu podílu mateřské společnosti v dceřiné společnosti plynoucí poplatníkovi, který má sídlo nebo místo vedení na území České republiky, nebo společnosti, která je daňovým rezidentem jiného členského státu Evropské unie,
+•	příjmy z dividend a jiných podílů na zisku, plynoucí od dceřiné společnosti, která je daňovým rezidentem jiného členského státu Evropské unie, mateřské společnosti, která má své sídlo nebo místo vedení na území České republiky,
+•	příjmy plynoucí dlužníkovi ve zdaňovacím období, ve kterém bylo rozhodnuto o povolení reorganizace, a ve zdaňovacím období následujícím bezprostředně po zdaňovacím období, ve kterém bylo rozhodnuto o povolení reorganizace, pokud v něm nedošlo ke skončení reorganizace.
+
+Sazba daně (§ 21)
+1.	Sazba daně s účinností od 1. 1. 2011 činí 19 % (s účinností do 31. 12. 2009 byla 20 %) pokud v bodech 2 a 3 není stanoveno jinak. Tato sazba daně se vztahuje na základ daně snížený o položky podle § 34 a § 20 odst. 7 a 8, který se zaokrouhluje na celé tisícikoruny dolů.
+2.	Sazba daně činí 5 %
+1.	u investičního fondu.16) Tato sazba daně se vztahuje na základ daně snížený o položky podle § 34, který se zaokrouhluje na celé tisícikoruny dolů, a
+2.	u podílového fondu.16) Tato sazba daně se vztahuje na základ daně snížený o položky podle § 34, který se zaokrouhluje na celé tisícikoruny dolů.
+3.	Sazba daně činí 5 % u penzijního fondu nebo u instituce penzijního pojištění. Tato sazba daně se vztahuje na základ daně snížený o položky podle § 34, který se zaokrouhluje na celé tisícikoruny dolů.
+4.	Sazba daně 15 % se vztahuje na samostatný základ daně podle § 20b zaokrouhlený na celé tisícikoruny dolů.
+U investičního fondu, který v průběhu zdaňovacího období změnil předmět podnikání a ukončil činnost jako investiční fond,16) se použije sazba daně podle odstavce 2 jen na část základu daně stanoveného podle § 20a.
+Pro stanovení daně se použije sazba daně podle předchozích odstavců účinná k prvnímu dni zdaňovacího období nebo období, za něž je podáváno daňové přiznání.
+
+Zdravotní pojištění zaměstnanců
+Základní informace
+Zdravotní pojištění je zajímavé tím, že za každého se musí platit pojistné, za někoho tak činí stát.
+Z čeho se počítá pojistné na zdravotní pojištění
+Vyměřovacím základem je úhrn příjmů ze závislé činnosti a funkčních požitků, které jsou předmětem daně z příjmů fyzických osob a nejsou od této daně osvobozeny, a které mu zaměstnavatel zúčtoval v souvislosti se zaměstnáním (plnění v peněžní i nepeněžní formě a jiné výhody poskytnuté zaměstnavatelem).
+Do základu se naopak nezahrnují:
+•	náhrada škody podle zákoníku práce,
+•	odstupné, odchodné a odbytné poskytované na základě zvláštních právních předpisů,
+•	věrnostní přídavek horníků,
+•	odměny vyplácené podle zákona o vynálezech a zlepšovacích návrzích, pokud vytvoření a uplatnění vynálezu nebo zlepšovacího návrhu nemělo souvislost s výkonem zaměstnání,
+•	jednorázová sociální výpomoc poskytnutá zaměstnanci k překlenutí jeho mimořádně obtížných poměrů vzniklých v důsledku živelní pohromy, požáru, ekologické nebo průmyslové havárie nebo jiné mimořádně závažné události,
+•	plnění poskytnutá poživateli starobního nebo invalidního důchodu pro invaliditu třetího stupně po uplynutí jednoho roku ode dne skončení zaměstnání.
+
+Sazba pojistného na zdravotní pojištění
+Z vyměřovacího základu se odvádí 13,5 %. Jednu třetinu (tedy 4,5 %) hradí zaměstnanec, zbývající dvě třetiny (tedy 9 %) hradí zaměstnavatel ze svých prostředků.
+Platba pojistného na zdravotní pojištění
+Pojistné se platí za jednotlivé kalendářní měsíce a je splatné v den, který je zaměstnavatelem určen pro výplatu mezd a platů za příslušný měsíc. U zaměstnavatele, kde je výplata rozložena na různé dny, je dnem splatnosti pojistného poslední den výplaty za uplynulý kalendářní měsíc.
+Platbu musíte provést nejpozději do 20. dne kalendářního měsíce, ve kterém vám vznikla povinnost srazit zálohy.
+
+
+
+
+Sociální pojištění zaměstnanců
+Základní informace
+Sociální pojištění zahrnuje:
+•	pojistné na nemocenské pojištění
+•	pojistné na důchodové pojištění
+•	příspěvek na státní politiku zaměstnanosti
+
+Z čeho se počítá pojistné na sociální pojištění
+Vyměřovacím základem je  úhrn příjmů, které jsou předmětem daně z příjmů fyzických osob a nejsou od této daně osvobozeny a které mu zaměstnavatel zúčtoval v souvislosti se zaměstnáním, které zakládá účast na nemocenském nebo jen na důchodovém pojištění (plnění v peněžní i nepeněžní formě a výhody poskytnuté zaměstnavatelem).
+Do základu se naopak nezahrnují:
+•	náhrada škody podle zákoníku práce,
+•	odstupné, odchodné a odbytné poskytovaná na základě zvláštních právních předpisů,
+•	věrnostní přídavek horníků,
+•	odměny vyplácené podle zákona o vynálezech a zlepšovacích návrzích, pokud vytvoření a uplatnění vynálezu nebo zlepšovacího návrhu nemělo souvislost s výkonem zaměstnání,
+•	jednorázová sociální výpomoc poskytnutá zaměstnanci k překlenutí jeho mimořádně obtížných poměrů vzniklých v důsledku živelní pohromy, požáru, ekologické nebo průmyslové havárie nebo jiné mimořádně závažné události,
+•	plnění poskytnutá poživateli starobního nebo invalidního důchodu pro invaliditu třetího stupně po uplynutí jednoho roku ode dne skončení zaměstnání.
+
+Sazby pojistného na sociální pojištění
+Sazby pojistného činí:
+	2011, 2012
+Zaměstnanec 	6,5 %
+Nemocenské pojištění	0 %
+Důchodové pojištění	6,5 %
+Příspěvek na státní politiku zaměstnanosti	0 %
+Zaměstnavatel	25 %
+Nemocenské pojištění	2,3 %
+Důchodové pojištění	21,5 %
+Příspěvek na státní politiku zaměstnanosti	1,2 %
+
+Aby si mohl zaměstnavatel od sociálního pojištění odečíst polovinu náhrady mzdy vyplacenou zaměstnancům, tak musí odvádět na sociálním pojištění v roce 2012 26 % z vyměřovacího základu, z toho 3,3 % na nemocenské pojištění, 21,5 % na důchodové pojištění a 1,2 % na státní politiku zaměstnanosti. Tuto možnost však mají pouze zaměstnavatelé s počtem zaměstnanců 25 a méně, kteří si tuto možnost pro rok 2012 zvolí.
+Platba pojistného na sociální pojištění
+Pojistné se platí za jednotlivé celé kalendářní měsíce a je splatné v den, který je zaměstnavatelem určen pro výplatu mezd a platů za příslušný měsíc. U zaměstnavatele, kde je výplata mezd a platů rozložena na různé dny, je dnem splatnosti pojistného poslední den této výplaty za uplynulý kalendářní měsíc. Pokud se mzda vyplácí za kratší než měsíční období, je pojistné za kalendářní měsíc splatné v bezprostředně následujícím kalendářním měsíci, a to v prvním dni výplaty mzdy.
+Platbu musíte provést nejpozději do 20. dne kalendářního měsíce, ve kterém vám vznikla povinnost srazit zálohy.
+
+Minimalizování daní
+Daně významně snižují podnikové rozpočty, proto se samozřejmě podniky snaží svou daňovou
+povinnost minimalizovat.
+Poplatník může daň minimalizovat třemi způsoby - daňovou úsporou, vyhnutím se dani či daňovým
+únikem. Daňová úspora vzniká tak, že podnik využívá motivace státem, a využívá možností snížení
+daně (např. zaměstnává postižené osoby). Vyhnutí se dani znamená vyhledávání nedostatků
+v zákonech. Takové jednání je sice nemorální, není však v rozporu se zákonem, nedá se tedy nijak
+právně postihnout. Daňový únik je protiprávním jednáním, jedná se o neoprávněné zkrácení své
+daňové povinnosti a může se jednat i o trestný čin zkrácení daně.
+
+Univerzální zdanění
+Znamená, že daň je stanovena pro všechny formy podnikání stejně – jsou jednotná pravidla pro
+všechny osobní společnosti a pro společnosti kapitálové. Existují rovněž stejné podmínky pro všechny
+podniky bez ohledu na jejich velikost, existuje stejná daňová sazba (lineární sazba, viz níže), lhůta
+splatnosti, odčitatelné a připočitatelné položky a další podmínky, bez ohledu na výši zisku.
+Základ daně zjišťujeme ze zisku
+Při výpočtu daně z příjmu právnických osob vycházíme z účetního zisku, který dále upravujeme podle
+zákona o dani z příjmů na základ daně.
+Lineární sazba daně
+Sazba daně se nemění s výší zisku, je stále stejná.
+
+Možnost volby způsobu odepisování hmotného a nehmotného majetku
+Dobu odepisování stanoví zákon o dani z příjmů. Při pořízení majetku si podnik může vybrat, bude-li
+odepisovat rovnoměrně nebo zrychleně. V průběhu odepisování však metodu nelze měnit.
+
+
+Sleva na dani pro podniky zaměstnávající osoby se změněnou pracovní schopností
+Zákon o dani z příjmů zvýhodní poplatníky, které zaměstnávají zaměstnance se změněnou pracovní
+schopností. Tato sleva se odečítá až od vypočtené daně, jsou stanoveny na každého pracovníka.
+Systém investičních pobídek
+V zájmu státu je zjednodušit podmínky investorům, kteří uskutečňují některé investice, a tak je jim na
+10 let daň prominuta.
+Tato koncepce byla položena v roce 1991, její pomocí se daň z příjmu právnických osob přibližuje
+zdanění podniků ve státech Evropské unie.
+
+Daňová reforma
+Sazba daně z příjmů právnických osob zůstane zachována na úrovni 19 %.
+Bude zavedena sleva na dani ve výši sražené daně z dividend, její uplatnění bude možné v následujících zdaňovacích obdobích bez omezení.
+Dojde k odstranění dvojího zdanění, to je myšleno jako podpora investic v ČR.
+Zjednoduší se tvorba rezerv a opravných položek k pohledávkám.
+Zruší se osvobození příjmů u provozovatelů loterií a dalších her (účinnost již od 1. 1. 2012). Bude zaveden jednotný odvod části výtěžku u loterií, který bude daňově uznatelný. Výnos bude podléhat režimu rozpočtového určení daní.
+Bude usilováno o větší zapojení občanů a firem do podpory veřejně prospěšných aktivit – dojde ke zvýšení maximálního limitu pro odpočet daru o 5 %, u FO na 15 %, u PO na 10 % ze základu daně.
 
 ----
 :::

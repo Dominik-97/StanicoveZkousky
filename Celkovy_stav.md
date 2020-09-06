@@ -96,16 +96,16 @@ Hotovo 5/30
 - [x] Otázka 12
 - [x] Otázka 13
 - [x] Otázka 14
-- [ ] Otázka 15 - Teď
-- [ ] Otázka 16 - Teď
+- [x] Otázka 15
+- [ ] Otázka 16
 - [x] Otázka 17
-- [ ] Otázka 18 - Teď
-- [ ] Otázka 19 - Teď
-- [ ] Otázka 20 - Teď
-- [ ] Otázka 21 - Teď
-- [ ] Otázka 22 - Teď
-- [ ] Otázka 23 - Teď
-- [ ] Otázka 24 - Teď
+- [ ] Otázka 18
+- [ ] Otázka 19
+- [ ] Otázka 20
+- [ ] Otázka 21
+- [ ] Otázka 22
+- [ ] Otázka 23
+- [x] Otázka 24
 - [x] Otázka 25
 - [x] Otázka 26
 - [x] Otázka 27
