@@ -12375,9 +12375,9 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Tržní hodnota podniku
-  - [ ] Faktory tvorby hodnoty
-  - [ ] Měření hodnoty podniku
+- [x] Tržní hodnota podniku
+  - [x] Faktory tvorby hodnoty
+  - [x] Měření hodnoty podniku
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -12397,106 +12397,108 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
     - Na tržním principu - tržní multiplikátor, srovnatelných trancakcí
     - Reálných opcí
 
-    18. Tržní hodnota podniku, faktory tvorby hodnoty, měření hodnoty podniku.
-    Ocenit podnik je velice problematické, jak ocenit podnik je těžké s ohledem na strukturu podniku např. u a.s. je to lehčí  tj. tam, kde lze zjistit a ocenit majetek např. dle rozvahy a podíváme se na likvidační hodnotu podniku. Dále zde zjištovat hodnotu např. i z cen akcií (tržní hodnota akcií na trhu, obchodovatelnost akcií na kapitálovém trhu aj.
-    Hodnota na trhu může být často ovlivněna ocenitelností akcií na trhu (např. nadhodnocení akcií v určitém období, je ovlivněna výkyvy na akciových trzích ….
-    Fundamentální hodnota podniku souvisí s taktickými plány, projkety podniku, které definují jeho cenu.
+- **Tržní hodnota podniku**
+  - Ocenit podnik je velice problematické, jak ocenit podnik je těžké s ohledem na strukturu podniku např. u a.s. je to lehčí  
+    - tj. tam, kde lze zjistit a ocenit majetek např. dle rozvahy a podíváme se na likvidační hodnotu podniku.
+    - Dále zde zjištovat hodnotu např. i z cen akcií (tržní hodnota akcií na trhu, obchodovatelnost akcií na kapitálovém trhu aj.
+      - Hodnota na trhu může být často ovlivněna ocenitelností akcií na trhu (např. nadhodnocení akcií v určitém období, je ovlivněna výkyvy na akciových trzích ….
+  - Fundamentální hodnota podniku souvisí s taktickými plány, projkety podniku, které definují jeho cenu.
 
-    Tržní hodnota podniku je daná např. rozvahou, nebo oceňovacími metodami podniku.
+- Tržní hodnota podniku je daná např. rozvahou, nebo oceňovacími metodami podniku.
+  - EVA, tržní přidaná hodnota podniku.
 
-    EVA, tržní přidaná hodnota podniku.
+- **Pojmy goodwill a know-how.**
+  - Goodwill = dobré jméno firmy. Goodwill je pojem používaný pro trhem oceňovanou hodnotu podniku (výrobku nebo služby), která zvyšuje jeho celkovou hodnotu nad rámec sumy jeho fyzických aktiv.
+    - Zjednodušeně se vykládá jako dobrá pověst, dobré jméno podniku, prestiž, image podniku.
+    - V praxi se nepřekládá a běžně používá anglický pojem Goodwill.
+  - Know-how = dovednost dané firmy.
 
-    Pojmy goodwill a know-how.
+- **Důvody zjišťování tržní hodnoty podniku**
+  - získávání dalšího vlastního nebo cizího kapitálu pro rozvoj podniku
+  - koupě nebo prodej podniku
+  - růst pomocí akvizic
+  - uvedení podniku na burzu
+  - rozhodování o konkursu aj.
 
-    Goodwill = dobré jméno firmy. Goodwill je pojem používaný pro trhem oceňovanou hodnotu podniku (výrobku nebo služby), která zvyšuje jeho celkovou hodnotu nad rámec sumy jeho fyzických aktiv. Zjednodušeně se vykládá jako dobrá pověst, dobré jméno podniku, prestiž, image podniku. V praxi se nepřekládá a běžně používá anglický pojem Goodwill.
+- **Postup při oceňování**
+  1. Hodnocení podniku ze strategického hlediska
+  2. Ocenění podniku z finančního hlediska; ocenění obsahuje dva kroky:
+    - a) ocenění podniku „samého o sobě“
+    -	b) ocenění podniku z hlediska záměrů, které by měly být uskutečněny v budoucnu
+    - Metody oceňování podniku založeny na:
+      -  analýze výnosů
+      -  analýze tržní hodnoty
+      -  analýze majetku
 
-    Know-how = dovednost dané firmy.
+- **Výnosové metody oceňování**
+  -	založené na očekávaných hotovostních tocích (teoreticky nejsprávnější metoda)
+  -	problémem je definovat:
+    - co se pod pojmem peněžní tok skrývá
+    - jak velké toky předvídat v budoucnu
+    - stanovení diskontní sazby
 
+- **a)	metoda diskontovaného peněžního toku**
+  -	stanovení tzv. volného cash flow
+  -	volné cash flow = celkový peněžní příjem podniku po zdanění, který je k dispozici všem, kdo poskytují podniku kapitál, tj. věřitelům i vlastníkům (lze jej považovat za peněžní příjem po zdanění, který by byl k dispozici akcionářům podniku, kdyby podnik neměl žádný dluh)
 
-    Důvody zjišťování tržní hodnoty podniku
-    získávání dalšího vlastního nebo cizího kapitálu pro rozvoj podniku
-    -   koupě nebo prodej podniku
-    -   růst pomocí akvizic
-    -   uvedení podniku na burzu
-    -   rozhodování o konkursu aj.
-    Postup při oceňování
-    1. Hodnocení podniku ze strategického hlediska
-    2. Ocenění podniku z finančního hlediska; ocenění obsahuje dva kroky:
-    	a) ocenění podniku „samého o sobě“
-    	b) ocenění podniku z hlediska záměrů, které by měly být uskutečněny v budoucnu
-    Metody oceňování podniku založeny na:
-    -  analýze výnosů
-    -  analýze tržní hodnoty
-    -  analýze majetku
-    Výnosové metody oceňování
-    •	založené na očekávaných hotovostních tocích (teoreticky nejsprávnější metoda)
-    •	problémem je definovat:
-    		-      co se pod pojmem peněžní tok skrývá
-    		-       jak velké toky předvídat v budoucnu
-    		-       stanovení diskontní sazby
-    a)	metoda diskontovaného peněžního toku
-    -	stanovení tzv. volného cash flow
-    -	volné cash flow = celkový peněžní příjem podniku po zdanění, který je k dispozici všem, kdo poskytují podniku kapitál, tj. věřitelům i vlastníkům (lze jej považovat za peněžní příjem po zdanění, který by byl k dispozici akcionářům podniku, kdyby podnik neměl žádný dluh)
-    b)	 metoda založená na koncepci EVA
-    -	Hpodniku = investovaný kapitál + hodnota přidaná trhem
+- **b)	 metoda založená na koncepci EVA**
+  -	Hpodniku = investovaný kapitál + hodnota přidaná trhem
+  -	Hpodniku = investovaný kapitál + současná hodnota budoucích EVA
 
-    -	Hpodniku = investovaný kapitál + současná hodnota budoucích EVA
+- **c)	 metoda kapitalizovaných zisků**
+  - Časová řada minulých zisků (období 3-5 let) se upravuje na srovnatelnou reálnou úroveň a stává se základem pro výpočet tzv. trvalého zisku
+    - (= velikost prostředků, které je možno rozdělit vlastníkům; tyto prostředky mohou být rozděleny, aniž by byla dotčena podstata podniku)
+  -	Pro odhad trvalého zisku se používají dvě metody:
+    - paušální metoda
+    - analytická metoda (na základě rozborů faktorů působících na zisk se pokusíme odhadnout vývoj trvale odnímatelného zisku do budoucnosti)
 
-    c)	 metoda kapitalizovaných zisků
-    Časová řada minulých zisků (období 3-5 let) se upravuje na srovnatelnou reálnou úroveň a stává se základem pro výpočet tzv. trvalého zisku
-    (= velikost prostředků, které je možno rozdělit vlastníkům; tyto prostředky mohou být rozděleny, aniž by byla dotčena podstata podniku)
-    •	Pro odhad trvalého zisku se používají dvě metody:
-    -        paušální metoda
-    -        analytická metoda (na základě rozborů faktorů působících na zisk se pokusíme odhadnout vývoj trvale odnímatelného zisku do budoucnosti)
-    d)	 kombinované metody
-    e)	kombinace majetkového a výnosového ocenění
-    Metody:
-    Metoda střední hodnoty
-    Metoda kapitalizovaných nadzisků
-    Metody tržního srovnávání
-    •	Srovnání s podobnými podniky, jejichž hodnota je známá
-    •	Srovnání s jinými podniky, které byly předmětem transakcí a známe tedy jejich realizační cenu
-    •	Srovnání s podobnými podniky, jejichž podíly byly oceňovány pro vstup na  burzu
-    •	vyžaduje vyspělý trh s cennými papíry s dobře se orientujícími investory, kteří svými nákupy a prodeji nepřipustí existenci výrazně podhodnocených nebo nadhodnocených akcií
-    •	je omezené z důvodu problematické srovnatelnosti podniků
+- **d)	 kombinované metody**
 
-    Majetkové ocenění
-    •	určení hodnoty vlastního kapitálu, kterou získáme odečtením všech dluhů podniku od součtu všech položek aktiv.
-    Substanční hodnota podniku = souhrn relativně samostatného ocenění jeho jednotlivých majetkových složek za předpokladu, že podnik bude pokračovat ve své činnosti (nejedná se proto o likvidační hodnotu)
-    Pracujeme s informacemi z účetních výkazů:
-    •	orientace na historické účetnictví (oceňování v pořizovacích cenách) způsobuje, že ceny konkrétních položek aktiv neodrážejí změny tržních cen
-    •	 v inflačním prostředí se mění kupní síla peněžní jednotky používané v účetnictví
-    •	 může dojít k různým postupům při vyjadřovaní časového posunu mezi výdaji a náklady, resp. příjmy a výnosy
-    Ø   důsledkem může být fakt,  že účetně je vykázána nižší hodnota vlastního kapitálu než je hodnota reálná o tzv. tiché rezervy
+- **e)	kombinace majetkového a výnosového ocenění**
+- **Metody:**
+  - Metoda střední hodnoty - subtanční (majetková hodnota) + hodnota výdělku / 2
+  - Metoda kapitalizovaných nadzisků - ukazuje jak podnik vydělává nad alternativní bezrizikové příležitosti
+  - Metody tržního srovnávání
+    -	Srovnání s podobnými podniky, jejichž hodnota je známá
+    -	Srovnání s jinými podniky, které byly předmětem transakcí a známe tedy jejich realizační cenu
+    -	Srovnání s podobnými podniky, jejichž podíly byly oceňovány pro vstup na  burzu
+      -	vyžaduje vyspělý trh s cennými papíry s dobře se orientujícími investory, kteří svými nákupy a prodeji nepřipustí existenci výrazně podhodnocených nebo nadhodnocených akcií
+      -	je omezené z důvodu problematické srovnatelnosti podniků
 
-    Substituční hodnota provozně nutného majetku brutto
-    - Reálná hodnota závazků
-    + Tržní (prodejná) hodnota majetku nepotřebného pro provoz
-    = Substanční hodnota netto
-    nebo:
-    Vlastní kapitál podle účetnictví
-    + Zvýšení (snížení) účetní hodnoty aktiv
-    - Zvýšení (snížení) účetní hodnoty pasiv
-    =  Substanční hodnota netto
-    Kupní cena podniku může být vyšší než jeho substanční hodnota - tento rozdíl potom představuje goodwill.
+- **Majetkové ocenění**
+  -	určení hodnoty vlastního kapitálu, kterou získáme odečtením všech dluhů podniku od součtu všech položek aktiv.
+    - Substanční hodnota podniku = souhrn relativně samostatného ocenění jeho jednotlivých majetkových složek za předpokladu, že podnik bude pokračovat ve své činnosti (nejedná se proto o likvidační hodnotu)
+  - Pracujeme s informacemi z účetních výkazů:
+    -	orientace na historické účetnictví (oceňování v pořizovacích cenách) způsobuje, že ceny konkrétních položek aktiv neodrážejí změny tržních cen
+      - v inflačním prostředí se mění kupní síla peněžní jednotky používané v účetnictví
+      -	 může dojít k různým postupům při vyjadřovaní časového posunu mezi výdaji a náklady, resp. příjmy a výnosy
+        - důsledkem může být fakt,  že účetně je vykázána nižší hodnota vlastního kapitálu než je hodnota reálná o tzv. tiché rezervy
 
-    Likvidační hodnota
-    = množství peněz, které můžeme získat prodejem jednotlivých částí podniku
-    (celková hodnota podniku však není rovna součtu hodnot jednotlivých podnikových majetkových součástí – tyto statky musí být spojeny do jednoho celku, aby bylo možné dosáhnout produkce a zhodnocení vložených prostředků)
+- **Substituční hodnota provozně nutného majetku brutto**
+  - - Reálná hodnota závazků
+  - + Tržní (prodejná) hodnota majetku nepotřebného pro provoz
+  - = Substanční hodnota netto
+- nebo:
+- **Vlastní kapitál podle účetnictví**
+  - + Zvýšení (snížení) účetní hodnoty aktiv
+  - - Zvýšení (snížení) účetní hodnoty pasiv
+  - =  Substanční hodnota netto
+- Kupní cena podniku může být vyšší než jeho substanční hodnota - tento rozdíl potom představuje goodwill.
 
-
-     FAKTORY TVORBY HODNOTY
-    -	 Tržby, náklady na mzdy,
-    -	výnosy z rozsahu  (čím víc strojů mám tím víc dokážu vyrobit s nižšími náklady na výrobu a tím vytvářím vyšší hodnotu na trhu
-    -	a z šíře sortimentu  - oproti konkurenci dokážu vytvářet levnější zboží na trhu
-    -	inovace – každoročně li zvyšujeme výkon, měníme design a zvyšujeme funkčnost -…. Tzv. Inkrementální inovace
-    -	další příklad jediný poskytovatel na trhu služeb apod.
-    -	TQM  praktiky kvality – princip  SIG SIGMA  -  kdy se snažíme poskytovat kvalitu za
-    -	každou cenu. Sigma --- odchylka …
+- **Likvidační hodnota**
+  - = množství peněz, které můžeme získat prodejem jednotlivých částí podniku
+  - (celková hodnota podniku však není rovna součtu hodnot jednotlivých podnikových majetkových součástí – tyto statky musí být spojeny do jednoho celku, aby bylo možné dosáhnout produkce a zhodnocení vložených prostředků)
 
 
-    MĚŘENÍ HODNOTY PODNIKU   viz začátek prezentace
-    -	inovace (marketingové, procesní, inovační, produktové)
+- **FAKTORY TVORBY HODNOTY**
+  -	Tržby, náklady na mzdy,
+  -	výnosy z rozsahu  (čím víc strojů mám tím víc dokážu vyrobit s nižšími náklady na výrobu a tím vytvářím vyšší hodnotu na trhu
+  -	a z šíře sortimentu  - oproti konkurenci dokážu vytvářet levnější zboží na trhu
+  -	inovace – každoročně li zvyšujeme výkon, měníme design a zvyšujeme funkčnost -…. Tzv. Inkrementální inovace
+  -	další příklad jediný poskytovatel na trhu služeb apod.
+  -	TQM  praktiky kvality – princip  SIG SIGMA  -  kdy se snažíme poskytovat kvalitu za
+  -	každou cenu. Sigma --- odchylka …
+  -	inovace (marketingové, procesní, inovační, produktové)
 
 
 ----
