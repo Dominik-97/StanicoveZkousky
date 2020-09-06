@@ -6015,23 +6015,23 @@ Věřitelské orgány v insolvenčním řízení
 X Účastníci řízení dlužník, věřitelé, kteří uplatňují své nároky vůči dlužníku, insolvenční správce, státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, likvidátor dlužníka
 
 - **SUBJEKTY INSOLVENČNÍHO ŘÍZENÍ**
-1)INSOLVENČNÍ SOUD
-věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
-rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
-dvojí funkci:
-vydává rozhodnutí (např. prohlášení konkurzu, schválení konečné zprávy) a provádí předepsaná jednání (např. přezkumné jednání)   
-různé činnosti mezi uvedenými dvěma – tzv. činnost dohlédací (zajištění průběhu řízení, dozor nad činností jiných subjektů
-účastníci řízení
-2) Dlužník – ten, proti němuž směřuje insolvenční návrh; FO či PO, podnikatel či nepodnikatel
-Věřitelé, kteří uplatňují své nároky vůči dlužníku a jejich orgány
-vedlejší účastenství není v insolvenčním řízení přípustné viz §14 IZ
-v incidenčních sporech ale přípustné je § 16 IZ                        
-Nejde-li o přihlášené věřitele § 15, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje
-3) Insolvenční správce (popřípadě další správce) – nejde o zástupce kohokoliv z účastníků
-ustanovuje se ze seznamu insolvenčních správců, který vede MS
-Podrobnější úprava v zákoně o insolvenčních správcích; postupuje s odbornou péčí, za škodu odpovídá podle obecných ustanovení o odp. za škodu, má nárok na odměnu a náhradu výdajů
-4) Státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu – může podat opravný prostředek proti rozhodnutí insolvenčního soudu, jen mají-li toto právo všichni účastníci řízení.
-5) Likvidátor dlužníka – vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi
+  - 1)INSOLVENČNÍ SOUD
+    - věcná příslušnost – krajský soud; místní příslušnost – krajský soud, v jehož obvodu je obecný soud dlužníka
+    - rozhoduje zpravidla samosoudce (jednoduché soudní úkony mohou vykonávat i vyšší soudní úředníci)
+    - dvojí funkci:
+      - vydává rozhodnutí (např. prohlášení konkurzu, schválení konečné zprávy) a provádí předepsaná jednání (např. přezkumné jednání)   
+      - různé činnosti mezi uvedenými dvěma – tzv. činnost dohlédací (zajištění průběhu řízení, dozor nad činností jiných subjektů
+- **účastníci řízení**
+  - 2) Dlužník – ten, proti němuž směřuje insolvenční návrh; FO či PO, podnikatel či nepodnikatel
+    - Věřitelé, kteří uplatňují své nároky vůči dlužníku a jejich orgány
+    - vedlejší účastenství není v insolvenčním řízení přípustné viz §14 IZ
+    - v incidenčních sporech ale přípustné je § 16 IZ                        
+    - Nejde-li o přihlášené věřitele § 15, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje
+  - 3) Insolvenční správce (popřípadě další správce) – nejde o zástupce kohokoliv z účastníků
+    - ustanovuje se ze seznamu insolvenčních správců, který vede MS
+    - Podrobnější úprava v zákoně o insolvenčních správcích; postupuje s odbornou péčí, za škodu odpovídá podle obecných ustanovení o odp. za škodu, má nárok na odměnu a náhradu výdajů
+  - 4) Státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu – může podat opravný prostředek proti rozhodnutí insolvenčního soudu, jen mají-li toto právo všichni účastníci řízení.
+  - 5) Likvidátor dlužníka – vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi
 
 
 \|--------------------------------------\| <br>
