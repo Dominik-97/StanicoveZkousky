@@ -7080,7 +7080,7 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
 
 - **Škoda způsobená omezováním hospodářské soutěže**
   -	PPJ je naplnění některé ze zvl. skutk. podstat v generální klauzuli nekalé soutěže (§ 2976)
-  -	§ 2988 OZ: Poškozená osoba může požadovat náhradu škody + přiměřené zadostiučinění (tj. i nemajetková újma) ↪ jinak se uplatní obecná ustanovení o odpovědnosti
+  -	§ 2988 OZ: Poškozená osoba může požadovat náhradu škody + přiměřené zadostiučinění (tj. i nemajetková újma) - jinak se uplatní obecná ustanovení o odpovědnosti
   -	+ (není součástí práva náhradu Š:) aby se rušitel zdržel, aby odstranil závadný stav, vydal bezdův. obohacení
   -	§ 2990 poškozená osoba z nedovoleného omezení soutěže má práva jako v § 2988
 
