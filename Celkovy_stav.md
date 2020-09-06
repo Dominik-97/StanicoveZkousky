@@ -52,10 +52,10 @@ Hotovo 2/30
 - [x] Otázka 3 - dist/Statnice.md
 - [ ] Otázka 4 - Podklady
 - [x] Otázka 5 - Podklady
-- [ ] Otázka 6 - Podklady - Teď
+- [x] Otázka 6 - Podklady
 - [ ] Otázka 7 - Podklady
-- [ ] Otázka 8 - Podklady - Teď
-- [ ] Otázka 9 - Podklady - Teď
+- [x] Otázka 8 - Podklady
+- [x] Otázka 9 - Podklady
 - [ ] Otázka 10 - Podklady - Teď
 - [x] Otázka 11 - Podklady
 - [x] Otázka 12 - Podklady
