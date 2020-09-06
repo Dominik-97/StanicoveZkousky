@@ -12514,105 +12514,130 @@ Charakteristickou vlastností informací finančního účetnictví je preferenc
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [x] Výroba a její zabezpečení
+  - [x] Výrobní plán
+- [x] Druhy podniků
+- [x] Typy výrobních činností
+- [x] Výnosy z rozsahu
+- [x] Lokalizace podniku
+- [x] Globální hodnotové řetězce
+- [x] Produktová inovace
+- [x] Procesní inovace
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-19. Výroba a její zabezpečení (výrobní plan, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace.
-Lze uvést např. Automobilku a povědět o ni vše o výrobě atd.
-Výroba je každá činnost, která tvoří hodnotu. Výroba zahrnuje všechny hospodářské činnosti spojené se zajištěním výrobků a služeb. Podstatou výroby je postupný proces přeměny vstupů (zdrojů) ve výstupy (produkty, tj. hmotné výrobky nebo nehmotné služby) – produkční proces. Výroba úzce souvisí s plánováním, logistikou a oblastí řízení kvality.
+- **Výroba**
+  - Lze uvést např. Automobilku a povědět o ni vše o výrobě atd.
+  - Výroba je každá činnost, která tvoří hodnotu.
+  - Výroba zahrnuje všechny hospodářské činnosti spojené se zajištěním výrobků a služeb.
+  - Podstatou výroby je postupný proces přeměny vstupů (zdrojů) ve výstupy (produkty, tj. hmotné výrobky nebo nehmotné služby) – produkční proces.
+  - Výroba úzce souvisí s plánováním, logistikou a oblastí řízení kvality.
 
-Výrobní plán
-Základním prvkem plánování je stanovení cíle. Cílů plánování výroby může být několik. Převážně se jedná o stanovení možného termínu dodání výrobku, optimální využití zdrojů a zajištění podkladů pro plánování materiálu. V průběhu sestavení plánu mohou být aplikovány další podmínky pro optimalizaci pořadí výrobních zakázek.
-V rámci vlastního procesu plánování se obvykle setkáváme s několika typickými problémy, které se objevují v různých variantách. K nejčastějším patří neúplnost, nebo dokonce absence technologických postupů, případně chybějící normy pro jednotlivé výrobní operace. To může být způsobeno neudržováním takovýchto dat nebo neexistencí přesného postupu a rozsahu výroby v okamžiku zahájení (zakázková výroba). Pokud výrobní postupy existují, stále ještě není vyhráno. Na řadu mohou přijít potíže s neustále se měnícími požadavky na termín dokončení zakázky, což obvykle vede k nesystematickým zásahům do výrobního plánu.
-Finálním požadavkem výroby je dosažení optimálních nákladů při dodržení požadovaného termínu dodání. Toho se dá dosáhnout pouze dodržováním stanovených postupů ve všech fázích plánování. Pro úspěšné dokončení výroby a splnění takového požadavku je důležitá znalost vlastní technologie a nutnost konzultace termínů dokončení s výrobním oddělením. To k jejich určení použije vhodný kalkulační program nebo data z ERP systému a stanoví základní požadavky na materiál a výrobní kapacity. Výrobní program se musí plnit postupně a dle možností ihned aktualizovat tak, aby případné další požadavky měly od počátku co nejreálnější termíny. Z tohoto pohledu se ukazuje jako vhodnější plánovat spíše větší objem zakázek na delší období, než operativně plánovat malé zakázky. Ve velkém množství zakázek se dají obvykle nalézt společné parametry, které ovlivňují ideální sestavení plánu. Proto také plánování většího objemu dává možnost lepší optimalizace. Poskytuje tak možnost účelnějšího vytížení kapacit a lepšího rozvržení nákladů výroby.
-Změny v plánování
-Je velmi důležité, aby do plánu zasahoval pouze plánovač na základě jemu dostupných informací, protože při narušení některých podmínek může dojít k zásadní změně výstupu. Dodržování pravidla minimálního zásahu je podstatné především u detailních plánů. Týká se to zejména výroby, která bezprostředně souvisí s dalšími navazujícími činnostmi, jako je kooperace, expedice, přísun materiálu do výroby nebo plánování vlastního nákupu. Tato pravidla samozřejmě omezují obchodníky, kteří vyžadují flexibilní změny výroby. Pro zachování možnosti operativního zásahu do plánu jsou nutné předem dohodnuté podmínky změn. Na důležitosti tak nabývá nutnost komunikace mezi jednotlivými odděleními v prodejním a výrobním procesu. Jako nezbytnost se v tomto případě jeví sdílení informací v ERP systému.
-Jednofázová výroba
-Pokud máme výrobu dostatečně dobře popsanou pomocí technologického postupu, je možné použít k sestavení plánu výpočetní techniku. Velmi dobře lze v informačních systémech zpracovávat výrobu na výrobních linkách, kde zakázky běží bezprostředně za sebou (sériová výroba) a linkový čas je zde zásadní.
-Výhodou pro plánování je, když čas hlavní operace převládá nad operačním časem ostatních (potisky, výstupní kontrola, příprava expedice atd.). Okamžiky, které ovlivňují vlastní plánování, souvisí se složitostí používané výrobní technologie. V takovém procesu bývá zpravidla zásadní proces nastavení, přeprogramování či kalibrace výrobní linky.
-Tyto prostoje významně ovlivňují celkové výrobní náklady, protože v době změny výroby linka nevyrábí a vytěžuje obslužnou kapacitu. Proto v rámci optimalizačního procesu definujeme podmínky, které je nutné nebo přínosné zachovávat. Příkladem může být vyrábění zakázek ze stejného materiálu, nebo výrobků shodných parametrů v jedné nepřerušené dávce, bez nutnosti změny nastavení linky.
-I u tohoto typu výroby je nutné stanovit pravidla. Jejich porušení má za následek ovlivnění plánu a následné ohrožení termínu dodání nebo zvýšení nákladů výroby. Takovým pravidlem je obvykle stanovení minimální výrobní dávky (nebo několika dávek) bez nutnosti změnit zásadní parametry výrobního zařízení. Zásahy do takového plánu jsou pak relativně jednoduché. Jedná se například o vyřazení nebo vložení zakázky podobných vlastností (menší než původní plánované), úpravy množství, změnu pořadí dílčích výrobních příkazů apod.
-Výroba ve více fázích
-Daleko složitější je situace v případě, kdy je výrobek vyráběn v několika fázích. Operace se střídají a pracoviště jsou sdílena různými zakázkami. V tomto případě je poměrně složité stanovit univerzální klíč pro naplánování výroby. Z existujícího technologického postupu sice víme, jak se bude vyrábět, ale podobných zakázek může být v plánu mnoho. A kapacity jsou omezené. Výhodu získáme identifikací úzkého místa, přes které zakázky prochází. Pak je možné toto pracoviště dokonale vytížit stanovením pořadí průchodu zakázek. Ostatní operace se doplánují okolo klíčového výrobního procesu. Typickým příkladem může být příprava materiálu, jeho primární dělení a následný přesun ke složitějšímu strojnímu zařízení, které je vytíženo v maximálním rozsahu (např. obráběcí stroje, energetická zařízení apod.). Zde je materiál postupně, dle stanoveného pořadí, zpracován a pokračuje na další, méně významné pracoviště. Pokud takovým pracovištěm prochází zakázka vícekrát, je optimalizace a numerické zpracování podstatně složitější. Je nutné do plánu doplňovat priority, podle kterých se zakázky na pracovišti řadí. Ve většině případů se jedná o zakázky, které mají dlouhé technologické časy a operace na sebe nemusí bezprostředně navazovat (jsou například vykonávány v jiném místě).
-Plánování materiálu
-Dosud jsme pominuli důležitou součást plánovacích procesů – plánování materiálu. Je naprosto pochopitelné, že bez materiálu nelze vyrábět a jeho nedostatek je kritický pro dokončení výroby v termínu. Abychom zajistili včasnou a plynulou dodávku materiálu, je třeba věnovat dostatečnou pozornost jeho objednání.
-Pro vytvoření požadavku na materiál musí být stanoven seznam potřebného a způsob jeho pořízení (nákup, jiná výroba). Výrobní plán stanoví datum potřeby materiálu a ve většině případů jsme schopni stanovit, ke které operaci má být připraven. Pokud máme definovány doby dodání, informační systém by měl vytvořit požadavky na nákup a zajistit jeho objednání.
-Velmi zajímavá je úloha stanovení plánu výroby na paralelních zařízeních s požadavkem na stejný materiál. Kapacitní plánování definuje zatížení jednotlivých strojů v čase. Při započtení plánované spotřeby materiálu zjistíme, kdy bude třeba materiál znovu doplnit tak, aby mohla výroba nepřetržitě pokračovat, případně aby mohlo dojít k přeplánování výrobních zařízení.
-Druhy podniků
-1.  Podle zaměření a způsobu hospodaření - Toto třídění se řídí hlavním cílem podniku. Je-li jím dosažení zisku, jsou tyto podniky nazývány ziskové. Jsou-li cíle jiné, hovoříme o neziskových organizacích.
-2.  Podle vlastnictví majetku - Podle vlastnictví majetku můžeme rozlišit podniky:
-- soukromé
-- družstevní
-- státní
-- církevní, politické strany, zájmová sdružení
-- nadace
-3.  Podle výkonů - 1. podniky produkující statky:                                                                         
-- těžební = zabývají se těžbou surovin (uhlí, železná ruda, kámen... ). Získávají statky z nalezišť v přírodě.
-- zemědělské = zabezpečují výrobu zemědělských produktů. Získávají statky z přírody, hlavní výrobní  činitel je půda.
-- energetické = zabezpečují výrobu a produkce energií. Získávají statky z nalezišť v přírodě.
-- zpracovatelské = vyrábějí výrobní činitele pro další výrobu (stroje ...) a spotřební statky pro obyvatelstvo (oděvy, nábytek ... ).
-2. podniky poskytující služby:
-poskytují služby pro jiné podniky nebo pro obyvatelstvo, pro majetek osob i podniků. Služby uspokojují lidské potřeby průběhem své činnosti, nedají se skladovat.
-Služby se poskytují při: rozdělování a směně hmotných statků, zajišťování peněžních prostředků a hospodaření s nimi, údržbě a opravách výrobků, ochraně majetku a osob, péči o zdraví, výchově a vzdělávání.
-4.  Podle velikosti - nejmenší podniky (do 10 zaměstnanců)
-- malé podniky (desítky zaměstnanců)
-- střední podniky (stovky zaměstnanců)
-- velké podniky (více než 500 zaměstnanců).
-5.  Podle příslušnosti k určitému odvětví - Odvětví jsou vymezena klasifikací ekonomických činností stanovenou Českým statistickým úřadem.
-Například:
-      1) zemědělství, myslivost, lesní hospodářství
-      2) dobývání nerostných surovin
-      3) výroba a rozvod elektřiny, plynu, vody
-      4) zdravotnictví, veterinární služby, sociální služby
-      5) pohostinství a ubytování ....
-6.  Podle dalších hledisek (zvláštní druhy podniků) - Jsou to podniky založené spojením našeho a zahraničního kapitálu. Mohou je zakládat jak tuzemské, tak zahraniční právnické a fyzické osoby. Podniky mohou mít různé právní formy. Například Toyota Peugeot Citroën Automotive (T. P. C. A. Kolín) vznikla jako joint-venture firem Toyota Motor Corporation a PSA Peugeot Citroën.
+- **Výrobní plán**
+  - Základním prvkem plánování je stanovení cíle.
+  - Cílů plánování výroby může být několik.
+  - Převážně se jedná o stanovení možného termínu dodání výrobku, optimální využití zdrojů a zajištění podkladů pro plánování materiálu.
+  - V průběhu sestavení plánu mohou být aplikovány další podmínky pro optimalizaci pořadí výrobních zakázek.
 
-Typy výrobní činnosti
+- **Druhy podniků**
+  1. Podle zaměření a způsobu hospodaření
+    - Toto třídění se řídí hlavním cílem podniku.
+    - Je-li jím dosažení zisku, jsou tyto podniky nazývány ziskové.
+    - Jsou-li cíle jiné, hovoříme o neziskových organizacích.
+  2. Podle vlastnictví majetku - Podle vlastnictví majetku můžeme rozlišit podniky:
+    - soukromé
+    - družstevní
+    - státní
+    - církevní, politické strany, zájmová sdružení
+    - nadace
+  3. Podle výkonů -
+    1. podniky produkující statky:                                                                         
+      - těžební = zabývají se těžbou surovin (uhlí, železná ruda, kámen... ). Získávají statky z nalezišť v přírodě.
+      - zemědělské = zabezpečují výrobu zemědělských produktů. Získávají statky z přírody, hlavní výrobní  činitel je půda.
+      - energetické = zabezpečují výrobu a produkce energií. Získávají statky z nalezišť v přírodě.
+      - zpracovatelské = vyrábějí výrobní činitele pro další výrobu (stroje ...) a spotřební statky pro obyvatelstvo (oděvy, nábytek ... ).
+    2. podniky poskytující služby:
+      - poskytují služby pro jiné podniky nebo pro obyvatelstvo, pro majetek osob i podniků. Služby uspokojují lidské potřeby průběhem své činnosti, nedají se skladovat.
+      - Služby se poskytují při: rozdělování a směně hmotných statků, zajišťování peněžních prostředků a hospodaření s nimi, údržbě a opravách výrobků, ochraně majetku a osob, péči o zdraví, výchově a vzdělávání.
+    4. Podle velikosti
+      - nejmenší podniky (do 10 zaměstnanců)
+      - malé podniky (desítky zaměstnanců)
+      - střední podniky (stovky zaměstnanců)
+      - velké podniky (více než 500 zaměstnanců).
+    5. Podle příslušnosti k určitému odvětví - Odvětví jsou vymezena klasifikací ekonomických činností stanovenou Českým statistickým úřadem.
+      - Například:
+        - 1) zemědělství, myslivost, lesní hospodářství
+        - 2) dobývání nerostných surovin
+        - 3) výroba a rozvod elektřiny, plynu, vody
+        - 4) zdravotnictví, veterinární služby, sociální služby
+        - 5) pohostinství a ubytování ....
+    6. Podle dalších hledisek (zvláštní druhy podniků) - Jsou to podniky založené spojením našeho a zahraničního kapitálu. Mohou je zakládat jak tuzemské, tak zahraniční právnické a fyzické osoby. Podniky mohou mít různé právní formy. Například Toyota Peugeot Citroën Automotive (T. P. C. A. Kolín) vznikla jako joint-venture firem Toyota Motor Corporation a PSA Peugeot Citroën.
 
-Výrobní činnost podniku (výroba podniku) spočívá v přeměně (transformaci) výrobních faktorů (výrobních činitelů, vstupů) ve výrobky (výstupy). Tato přeměna probíhá jako výrobní proces, který se skládá z celé řady procesů, a sice:  procesů pracovních, tj. procesů s přímou účastí člověka,  procesů automatických, tj. procesů bez přímé účasti člověka, a  procesů přírodních, tj. procesů, kdy působí přírodní síly, pro které člověk připravil podmínky – např. kvašení apod. Výrobní proces obvykle probíhá v etapách; pokud jde o výrobní podnik, zpravidla se rozlišuje:  předvýrobní etapa, tj. vývoj, konstrukční a technologická příprava výrobku a výroby, zajištění materiálů apod.;  výrobní etapa a  odbytová etapa. Každý výrobek, popř. jeho součást, vzniká určitým výrobním postupem, který se skládá ze sledu operací odpovídajících dané technologii. Ve výrobním podniku lze výrobu rozčlenit do následujících skupin:  hlavní výroba – výrobky této výroby tvoří hlavní náplň výroby podniku;  vedlejší výroba – tj. výroba polotovarů, náhradních dílů;  doplňková výroba – tj. výroba, která představuje využití a zpracování odpadu z hlavní a vedlejší výroby, nebo představuje využití volné kapacity;  přidružená výroba – tj. výroba, která se od předcházejících výrob obvykle liší charakterem výroby. Ve výrobním podniku kromě těchto základních výrobních procesů probíhá řada - pomocných procesů – údržba strojů a budov, výroba energie apod. a - obslužných procesů – skladování, doprava, balení, kontrola apod.
+- **Typy výrobní činnosti**
+  - Výrobní činnost podniku (výroba podniku) spočívá v přeměně (transformaci) výrobních faktorů (výrobních činitelů, vstupů) ve výrobky (výstupy).
+  - Tato přeměna probíhá jako výrobní proces, který se skládá z celé řady procesů, a sice:  
+    - procesů pracovních, tj. procesů s přímou účastí člověka,  
+    - procesů automatických, tj. procesů bez přímé účasti člověka,
+    - a  procesů přírodních, tj. procesů, kdy působí přírodní síly, pro které člověk připravil podmínky – např. kvašení apod.
+  - Výrobní proces obvykle probíhá v etapách; pokud jde o výrobní podnik, zpravidla se rozlišuje:  
+    - předvýrobní etapa, tj. vývoj, konstrukční a technologická příprava výrobku a výroby, zajištění materiálů apod.;  
+    - výrobní etapa
+    - a  odbytová etapa.
 
-Výnosy z rozsahu - odrážejí proporciální reakci celkového produktu na zvýšení všech vstupů.
-ČÍM VÍC LIDÍ  (  např. matriky, řidičáky)    TÍM VÍC …..
-ČÍM VÍC INVESTUJI DO KAPITÁLU A ZAMĚSTNANCŮ, TÍM VÍCE MI ROSTE VÝSTUP
+- Každý výrobek, popř. jeho součást, vzniká určitým výrobním postupem, který se skládá ze sledu operací odpovídajících dané technologii.
+  - Ve výrobním podniku lze výrobu rozčlenit do následujících skupin:  
+    - hlavní výroba – výrobky této výroby tvoří hlavní náplň výroby podniku;  
+    - vedlejší výroba – tj. výroba polotovarů, náhradních dílů;  
+    - doplňková výroba – tj. výroba, která představuje využití a zpracování odpadu z hlavní a vedlejší výroby, nebo představuje využití volné kapacity;  
+    - přidružená výroba – tj. výroba, která se od předcházejících výrob obvykle liší charakterem výroby. Ve výrobním podniku kromě těchto základních výrobních procesů probíhá řada - pomocných procesů – údržba strojů a budov, výroba energie apod.
+    - a - obslužných procesů – skladování, doprava, balení, kontrola apod.
 
-Rozlišujeme tři případy
-1) Konstantní výnosy z rozsahu
-změna všech vstupů vede ke stejně velkému zvýšení výstupu.
-2) Klesající výnosy z rozsahu
-když proporcionální zvýšení všech vstupů vede k nižšímu než proporcionálnímu zvýšení celkového výstupu.
-3) Rostoucí výnosy z rozsahu
-zvýšení všech vstupů vede k více než proporcionálnímu zvýšení úrovně výstupů.
+- **Výnosy z rozsahu - odrážejí proporciální reakci celkového produktu na zvýšení všech vstupů.**
+  - ČÍM VÍC LIDÍ  (  např. matriky, řidičáky)    TÍM VÍC …..
+  - ČÍM VÍC INVESTUJI DO KAPITÁLU A ZAMĚSTNANCŮ, TÍM VÍCE MI ROSTE VÝSTUP
+  - Čím jsme větší, tím větší mám úspory a tedy i výnosy z rozsahu
+- Rozlišujeme tři případy
+  - 1) Konstantní výnosy z rozsahu
+    - změna všech vstupů vede ke stejně velkému zvýšení výstupu.
+  - 2) Klesající výnosy z rozsahu
+    - když proporcionální zvýšení všech vstupů vede k nižšímu než proporcionálnímu zvýšení celkového výstupu.
+  - 3) Rostoucí výnosy z rozsahu
+    - zvýšení všech vstupů vede k více než proporcionálnímu zvýšení úrovně výstupů.
 
-Výnosy z rozsahu se týkají dodatečně přijatého zaměstnance.
-V jakým podniku bude problém, když přijmu zaměstnance a pak dalšího dalšího – problém u úklidové firmy může být, že nemám dost zakázek.
-Lokalizace podniku – kam umístíme místo své firmy, dostupnost, co je v okolí.  
-Jaké lokality zvolit pro výrobu?
+- **Lokalizace podniku** – kam umístíme místo své firmy, dostupnost, co je v okolí.  
+  - Jaké lokality zvolit pro výrobu?
+  - Například:
+    - Nízkonákladové lokality z pohledu ceny výr.faktorů (práce, půda, kapitál, technologie)
+    - Nízkonákladové lokality z pohledu daňového zatížení
+    - Lokality právně umožňující podnikání
+    - Přístup k novým technologiím - výr.náklady
+    - Logisticky výhodné místo - dopravní náklady
 
-Nízkonákladové lokality z pohledu ceny výr.faktorů (práce, půda, kapitál, technologie)
+- **Globální hodnotový řetězec**
+  - Hodnotový řetězec rozčleňuje podnik do jeho strategicky významných činností, aby bylo možné porozumět chování nákladů a poznat existující potenciální zdroje diferenciace.
+  - Konkurenční výhodu získá podnik tím, že bude tyto strategicky důležité činnosti dělat levněji a lépe než jeho konkurenti.
+  - Hodnotové řetězce předstvují vizualizaci průchodu inputu firmou a její přeměnu na output.
+  - Hodnotový řetězec si lze představit jako cestu výrobku od vstupního materiálu přes produkci a prodej až po následnou podporu zákazníkům, vše za doprovodu podpůrných aktivit.
+  - Zobrazuje tedy všechny činnost, kterými produkt projde - ukazuje efektivnost podniku etc.
+  - Globální hodnotový řetězec je pouze přenesení tohoto řetězce na mezinárodní rovinu - tzn. na základě lokalizace je někde lepší dělat 1 část procesu, jinde zase 2 -> jedná se o globalizaci
+  - Nadnárodní společnosti dnes produkují nejenom v jedné zemi, ale fungují například na základě subdodávek z různých koutů světa - to může pro ně zvyšovat efektivitu
 
-Nízkonákladové lokality z pohledu daňového zatížení
+- **Produktová inovace**
+  - Jedná se o inovaci produktů, které firma nabízí
+  - Inkrementální inovace – nové verze – iPhone 6, iPhone 6s.  
 
-Lokality právně umožňující podnikání
+- **Procesní inovace – zavedeme novou metodu.**
+  - Zavádění novým procesních metod
 
-Přístup k novým technologiím - výr.náklady
+- **PLÁN PODNIKU**
+  - Strategický
+  - Taktický
+  - Operativní
 
-Logisticky výhodné místo - dopravní náklady
-
-Sídlo firmy zde, v ČR, a danit budeme v zahraničí – př. jsou sportovci.
-Globální hodnotový řetězec – Adidas, Aliexpres,  Ikea - společnosti, které vlastní celý výrobní proces a ovládají všechny subdodavatele. Všem svým členům ručí za to, že jejich zboží se bude prodávat v lokální síti. Jsou to nadnárodní korporace. Participují na určité přidané hodnotě…   
-Produktová inovace – telefon.
-Procesní inovace – zavedeme novou metodu.
-Inkrementální inovace – nové verze – iPhone 6, iPhone 6s.  
-PLÁN PODNIKU
- Strategický
-Taktický
-Operativní
-
-
-
-- Výrobní faktory
-  - Doplnit
+~~- Výrobní faktory~~
+  ~~- Doplnit~~
 
 ----
 :::

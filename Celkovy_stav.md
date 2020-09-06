@@ -100,7 +100,7 @@ Hotovo 5/30
 - [ ] Otázka 16
 - [x] Otázka 17
 - [x] Otázka 18
-- [ ] Otázka 19
+- [x] Otázka 19
 - [ ] Otázka 20
 - [ ] Otázka 21
 - [ ] Otázka 22
