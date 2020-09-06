@@ -1910,7 +1910,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
       - služebnosti - povinnost nekonat
         - pozemkové - například právo pastvy
         - osobní - například požívací a užívací právo
-      - reálná břemena - povinnost konat
+      - reálná břemena - povinnost konat - například **výměnek**
   - Věcná práva k věci cizí obligačně právní povahy
     - zástavní právo
     - zadržovací právo - pokud dlužník nesplácí svojí pohledávku
