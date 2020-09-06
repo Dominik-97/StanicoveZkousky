@@ -5135,9 +5135,9 @@ A38. Průběh řízení obecně
 
  A39. Příprava jednání
 - po zahájení řízení (okamžikem, kdy návrh dojde na podatelnu)
-	soud postupuje tak, aby věc byla co nejrychleji projednána a rozhodnuta
-	dohlíží na splnění procesních podmínek a odstranění vad v žalobě
-	soud by měl rozhodnout nejlépe při 1. jednání
+*	soud postupuje tak, aby věc byla co nejrychleji projednána a rozhodnuta
+*	dohlíží na splnění procesních podmínek a odstranění vad v žalobě
+*	soud by měl rozhodnout nejlépe při 1. jednání
 - za tímto účelem předseda senátu: předvolá účastníky, promyslí důkazní prostředky, pokusí se o smír + další (vyměří soudní poplatek, ustanoví zástupce, vydá předběžné opatření)
 - vyjádření žalovaného:
 1. Výzva dle §114 a  
@@ -5158,7 +5158,7 @@ a)	tam, kde nelze uzavřít smír
 b)	po přípravném jednání
 c)	po 1. jednání
 -	nevyjádří-li se, nebo neuvede-li důvody proč => má se za to, že nárok uznává
-	soud vydá rozsudek pro uznání
+*	soud vydá rozsudek pro uznání
 3. přípravné jednání dle §114 c
 -	nestačí-li výzva (k zajištění rozhodnutí během jednoho jednání) a nelze-li rozhodnout bez jednání
 -	nelze:
@@ -5341,22 +5341,22 @@ A34. Důkazní prostředky
 
     A42. Soudní rozhodnutí obecně, formy rozhodnutí
 = výrok soudu, který má závazné právní důsledky stanovené objektivním právem
-	rysy:
+*	rysy:
 - 	autoritativnost - donucovací funkce
 - 	závaznost - vázanost pro všechny procesní subjekty včetně soudu
 - 	vynutitelnost – státní mocí
 - 	specifičnost - vyhrazeno pouze soudu, soud jím projevuje vůli
 - mohou ho činit osoby, které jednají „jménem soudu“ (samosoudce, senát); jiné osoby, zejména VSÚ, soudní tajemníci či asistenti a soudní vykonavatel mohou vydávat rozhodnutí, k nimž je zákon výslovně opravňuje
-	obsah:
+*	obsah:
    1. záhlaví - označení rozhodnutí, věci, soudce, datum
    2. výrok (enunciát) - závazné řešení určité situace, sporu,…
                  - meritorní (ve věci samé) X procesní (procesní situace jako průběh řízení)
          3. odůvodnění  - popis věci, závěry soudu
          4. poučení o opravných prostředcích – možnost odvolání,…
-	složky rozhodnutí:
+*	složky rozhodnutí:
     a) skutkové zjištění - výsledek přímých poznatků soudu získaných na základě dokazování
     b) právní posouzení - vyvození právních důsledků ze skutkového zjištění
-	druhy
+*	druhy
 a)	meritorní – ve věci samé
 ­	musí se vyčerpat celý předmět řízení a zároveň se předmět nesmí překročit
 ­	formy: rozsudek, r. pro zmeškání, r. pro uznání, platební rozkaz, usnesení (jen schválení smíru
@@ -5364,7 +5364,7 @@ a)	meritorní – ve věci samé
 b)	procesní
 ­	v procesních záležitostech => o vedení řízení, o průběhu řízení
 ­	forma: vždy usnesení
-	forma rozhodnutí: rozhodnutí musí mít předepsanou formou a stanovené náležitosti
+*	forma rozhodnutí: rozhodnutí musí mít předepsanou formou a stanovené náležitosti
   1. rozsudek
      - vyhlašuje se jménem republiky, vždy veřejně, rozhoduje se jím ve věci samé (výjimky v NŘ)
      - odvolací soud rozhoduje rozsudkem jen v případě potvrzení/změny rozsudku
@@ -5377,7 +5377,7 @@ b)	procesní
      - odstranění jeho účinků => včas podaný odpor (směnečný a šekový – námitky)
   4. opatření soudu
   - nejde o zvl. formu rozhodnutí, spíše označení aktivity soudu směřující k zajištění řádného průběhu říz.
-	fáze rozhodování:
+*	fáze rozhodování:
    I. vynesení rozhodnutí - stanovení obsahu výroku
    II. vyhlášení rozhodnutí - sdělení rozsudku, usnesení při jednání účastníkům                                                           
                                           - vždy veřejně a jménem republiky
@@ -5390,10 +5390,10 @@ b)	procesní
          - stejnopis, všechny rozsudky do vlastních rukou, odeslání do 30 dnů od vyhlášení (lze až 60)
          - platební rozkaz bez možnosti náhradního dor. (nemožnost doručení => zrušení rozkazu soudem)
 - doručení + vyhlášení = sdělení rozhodnutí
-	vázanost soudu:
+*	vázanost soudu:
    - u rozsudku - od vyhlášení
    - u usnesení - od vyhlášení, pokud se nevyhlašuje tak od doručení, pokud se nedoručuje, od vyhotovení
-	doplnění rozhodnutí:
+*	doplnění rozhodnutí:
    - aniž by byl měněn obsah rozhodnutí – písemné nesprávnosti, oprava odůvodnění
                                                                  - jen na návrh účastníků
    - doplňující rozhodnutí - jestliže původní rozhodnutí neobsahuje některý z výroků, kt. obsahovat mělo
@@ -5443,7 +5443,7 @@ c) mezitímní
 
 A44. Zkrácené (rozkazní) řízení
 - zjednodušené řízení soudu, bez nařízení jednání/ dokazování/ slyšení žalovaného
-	opírá se jen o tvrzení a skutečnosti, které tvrdí žalobce v žalobě
+*	opírá se jen o tvrzení a skutečnosti, které tvrdí žalobce v žalobě
 - ochrana žalovaného = po rozhodnutí
 - slouží jakýmkoli peněžním nárokům, jsou-li zřejmé (rozhodování jen na základě žaloby)
 - formou rozhodnutí je platební rozkaz (4 druhy)
@@ -6468,40 +6468,40 @@ finanční arbitráž- zákon o finančním arbitrovi
   - **obchod-A_2017_18, otázka 3**
 
   1. POJEM PRÁVNÍHO JEDNÁNÍ PODNIKATELE A ZPŮSOBY, JAKÝMI MŮŽE PODNKATEL JEDNAT
-─	OZ odňal PO způsobilost k PJ a tím vyloučil, aby mohly PO jednat osobně  všechny PO musí být při uskutečňování právních jednání zastoupeny
-─	právní jednání  právně relevantní projev vůle navenek; vyvolává vznik, změnu a zánik P@P osob
-─	rozlišení mezi přímým a nepřímým zastoupením:
+-	OZ odňal PO způsobilost k PJ a tím vyloučil, aby mohly PO jednat osobně -> všechny PO musí být při uskutečňování právních jednání zastoupeny
+-	právní jednání -> právně relevantní projev vůle navenek; vyvolává vznik, změnu a zánik P@P osob
+-	rozlišení mezi přímým a nepřímým zastoupením:
 a)	přímé zastoupení – zástupce jedná jménem a na účet zastoupeného
 b)	nepřímé zastoupení – zástupce jedná svým jménem na účet zastoupeného
-─	§ 436 OZ – zástupce = osoba oprávněná jednat jménem zastoupeného
-─	PO jsou nejčastěji zastoupeny svými orgány
-─	právní zastoupení lze také rozlišovat podle právního titulu, který zástupce opravňuje
-a)	smluvní – typicky smlouva příkazní (můžou však být i jiné typy smluv) zmocněnec
+-	§ 436 OZ – zástupce = osoba oprávněná jednat jménem zastoupeného
+-	PO jsou nejčastěji zastoupeny svými orgány
+-	právní zastoupení lze také rozlišovat podle právního titulu, který zástupce opravňuje
+a)	smluvní – typicky smlouva příkazní (můžou však být i jiné typy smluv) ->zmocněnec
 – prokura – zvláštní druh smluvního zastoupení
 b)	ze zákona – založeno přímo na základě zákona (např. statutární orgán zastupuje PO)
 c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
 
 2. OBECNÁ ÚPRAVA SVÉPRÁVNOSTI A ZASTOUPENÍ V OZ
-─	svéprávnost = způsobilost k PJ = způsobilost nabývat pro sebe vlastním PJ práva a zavazovat se k povinnostem
-─	FO nabývají plné svéprávnosti zletilostí, jinak je rozsah svéprávnosti u nezletilých osob určen přiměřeností k rozumové a volní vyspělosti dané osoby
-─	pro obchod je významný institut  souhlas zákonného zástupce daný nezletilému k provozování obchodního závodu nebo jiné obdobné výdělečné činnosti (§ 33 OZ) vázán na přivolení soudu
-─	§ 20: PO = organizovaný útvar, o němž zákon stanoví, že má právní osobnost (způsobilost mít v mezích P@P), nebo jehož osobnost zákon uzná (jen P@P, která se slučují s její povahou) + § 118 právní osobnost má od svého vzniku až do svého zániku X PO ale nemá svéprávnost, musí být při PJ vždy zastoupena
-─	[obecná úprava zastoupení je za úpravou osob, ale předchází jí zvl. úprava zastoupení pro podnikatele; navíc prokura, která se týká jen podnikatelů, je zařazena jako zvl. smluvní typ pod obecnou úpravu zastoupení > učebnice: toto řešení je omyl (tj. asi měly být §§ 430-431 jako lex specialis na konci obecných ustanovení obecné úpravy)]
-─	zastoupení je zvláštní tím, že se důsledky (relativního) smluvního závazku promítají do vztahů vůči 3. osobám
-─	smluvní typy, které zakládají zastoupení  IV. část OZ – obligace
-─	↪ jedná se o „Závazky ze smluv příkazního typu“ (§ 2430 OZ an.)
+-	svéprávnost = způsobilost k PJ = způsobilost nabývat pro sebe vlastním PJ práva a zavazovat se k povinnostem
+-	FO nabývají plné svéprávnosti zletilostí, jinak je rozsah svéprávnosti u nezletilých osob určen přiměřeností k rozumové a volní vyspělosti dané osoby
+-	pro obchod je významný institut -> souhlas zákonného zástupce daný nezletilému k provozování obchodního závodu nebo jiné obdobné výdělečné činnosti (§ 33 OZ)-> vázán na přivolení soudu
+-	§ 20: PO = organizovaný útvar, o němž zákon stanoví, že má právní osobnost (způsobilost mít v mezích P@P), nebo jehož osobnost zákon uzná (jen P@P, která se slučují s její povahou) + § 118 právní osobnost má od svého vzniku až do svého zániku X PO ale nemá svéprávnost, musí být při PJ vždy zastoupena
+-	[obecná úprava zastoupení je za úpravou osob, ale předchází jí zvl. úprava zastoupení pro podnikatele; navíc prokura, která se týká jen podnikatelů, je zařazena jako zvl. smluvní typ pod obecnou úpravu zastoupení > učebnice: toto řešení je omyl (tj. asi měly být §§ 430-431 jako lex specialis na konci obecných ustanovení obecné úpravy)]
+-	zastoupení je zvláštní tím, že se důsledky (relativního) smluvního závazku promítají do vztahů vůči 3. osobám
+-	smluvní typy, které zakládají zastoupení -> IV. část OZ – obligace
+-	-> jedná se o „Závazky ze smluv příkazního typu“ (§ 2430 OZ an.)
 -	nejvýznamnější a nejširší je příkazní smlouva, dále jde o smlouvu zprostředkovatelskou, komisionářskou, zasílatelskou, obchodní zastoupení a zájezd
 -	přímé zastoupení však zakládá pouze příkazní smlouva a smlouva o obchodním zastoupení (příkazní smlouva však může zakládat i nepřímé zastoupení, nebo z ní nemusí plynout žádné)
 -	za zvl. druh příkazní smlouvy lze považovat smlouvu o výkonu funkce – mezi členem orgánu OK a OK (§ 59 ZOK, ustanovení OZ o příkazu se na ni mají použít přiměřeně)
-─	od smlouvy o zastoupení je nutno odlišit plnou moc jako jednostranný projev vůle
+-	od smlouvy o zastoupení je nutno odlišit plnou moc jako jednostranný projev vůle
 -	deklaruje třetím osobám oprávnění zástupce jednat jménem zastoupeného
 -	povinnost vystavit příkazníkovi plnou moc (může být obsažena už ve smlouvě)
 -	vyžaduje se písemná forma, pokud se zmocnění netýká jen určitého právního jednání § 441
-─	v případech, kdy je k jednání zmocněna PO, oprávnění jednat přísluší jejímu statutárnímu orgánu nebo jiné osobě, kterou statuární orgán určí (jedna teorie: libovolně, i vně podnikatele – např. externí advokát  odchylka od § 438 OZ – jelikož se nevyžaduje předchozí dohoda se zastoupeným ani nutná potřeba)
+-	v případech, kdy je k jednání zmocněna PO, oprávnění jednat přísluší jejímu statutárnímu orgánu nebo jiné osobě, kterou statuární orgán určí (jedna teorie: libovolně, i vně podnikatele – např. externí advokát -> odchylka od § 438 OZ – jelikož se nevyžaduje předchozí dohoda se zastoupeným ani nutná potřeba)
 
 3. JEDNÁNÍ PODNIKATELE A JEHO ZASTOUPENÍ
-─	obecná pravidla § 422 OZ – podnikatel vystupuje pod svojí firmou, pokud ji nemá, tak pod vlastním jménem
-─	zvláštní pravidla: § 430-432, platí podnikatele FO i PO (tj. i zvl. úprava vůči jednání za PO)
+-	obecná pravidla ->§ 422 OZ – podnikatel vystupuje pod svojí firmou, pokud ji nemá, tak pod vlastním jménem
+-	zvláštní pravidla: § 430-432, platí podnikatele FO i PO (tj. i zvl. úprava vůči jednání za PO)
 - 	„zákonné“ zastoupení osobou pověřenou při provozu obchodního závodu určitou činností
 -	§ 430 (1) – pověří-li podnikatel někoho při provozu obchodního závodu určitou činností, zastupuje tato osoba podnikatele ve všech věcech, k nimž při této činnosti obvykle dochází
 -	formální pověření (např. zaměstnanec), nebo neformální: jakýkoli člověk (prosba podnikatele)
@@ -6509,13 +6509,13 @@ c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
 -	vnitřní omezení rozsahu zástupčího oprávnění nejsou vůči třetím osobám účinná
 -	tradiční název: obchodní plná moc (dle všeobecného ObchZ z r. 1863)
 -	hovoří se o „zákonném“ zastoupení, ale nutnost pověření i tradiční název tuto kvalifikaci zpochybňují
--	odchylka u překročení rozsahu pověření  překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
+-	odchylka u překročení rozsahu pověření -> překročení bude podnikatele přesto zavazovat, pokud o překročení třetí osoba nevěděla, ani nemusela vědět a zároveň byla v dobré víře
 -	zástupce podnikatele má vůči podnikateli zákaz konkurence (§ 432) (týká se asi i smluvních zástupců)
 - 	zákonné zastoupení zapsaným vedoucím odštěpného závodu
 -	§ 503 OZ – odštěpný závod = pobočka obchodního závodu, která je zapsána do OR
 -	jeho vedoucí je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl zapsán jako vedoucí do OR
--	zápis do OR – konstitutivní účinky  vznik zástupčího oprávnění jednat v daných věcech
--	v mezidobí  § 430 (1) OZ  oprávněn jednat v obvyklých věcech spojených s provozem
+-	zápis do OR – konstitutivní účinky -> vznik zástupčího oprávnění jednat v daných věcech
+-	v mezidobí -> § 430 (1) OZ -> oprávněn jednat v obvyklých věcech spojených s provozem
 - 	jednání nepověřené osoby v provozovně podnikatele
 -	§ 430 (2) OZ – podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna
 -	jednající osoba – nepřikázané jednatelství
@@ -6527,11 +6527,11 @@ c)	na základě soudního (opatrovnictví) nebo administrativního rozhodnutí
 -	podnikatel: v případě dobré víry třetí osoby je podnikatel zavázán vždy a bez dalšího (§ 430)
 
 4. ZASTOUPENÍ PRÁVNICKÝCH OSOB
-─	vůle PO se tvoří hlavně prostřednictvím jejích orgánů (jednatelské orgány, § 151 – 156 OZ)
-─	orgány PO = organizační útvary v rámci PO vzniklé na základě zákona nebo zakladatelského PJ, kt. vytvářejí její vůli
-─	obecně lze říci, že zastoupení PO je možné buď prostřednictvím jejích jednatelských orgánů (statutární orgán nebo v některých případech dozorčí rada), nebo prostřednictvím jiných osob (zákonní: zaměstnanci, členové PO, prokuristé, nebo jiní smluvní zástupci)
-─	PO nemají způsobilost právně jednat (svéprávnost)  musí být při všech PJ zastoupeny; jelikož nemohou díky absenci svéprávnosti nikoho samy zmocnit k zastupování  je nutno považovat orgány PO za zákonné zástupce PO (paradoxy: 1. PO může rozhodnout, jaké orgány tvoří + 2. orgány nemají p. subjektivitu ani svéprávnost)
-─	smluvní zastoupení PO – může vzniknout pouze na základě PJ jejího zástupce, tudíž jako další zastoupení > pak je otázka, zda jde o § 438? učebnice: spíš ne, protože § 438 předpokládá substituci mandátu, tady nejde ani o substituci ani o delegaci, ale o nový, odlišný mandát – zmocnění sui generis > nejedná se o zastoupení zastupujícího (statutárního) orgánu, ale o nezávislé zastoupení PO (< logický problém s nesvéprávností PO)
+-	vůle PO se tvoří hlavně prostřednictvím jejích orgánů (jednatelské orgány, § 151 – 156 OZ)
+-	orgány PO = organizační útvary v rámci PO vzniklé na základě zákona nebo zakladatelského PJ, kt. vytvářejí její vůli
+-	obecně lze říci, že zastoupení PO je možné buď prostřednictvím jejích jednatelských orgánů (statutární orgán nebo v některých případech dozorčí rada), nebo prostřednictvím jiných osob (zákonní: zaměstnanci, členové PO, prokuristé, nebo jiní smluvní zástupci)
+-	PO nemají způsobilost právně jednat (svéprávnost) -> musí být při všech PJ zastoupeny; jelikož nemohou díky absenci svéprávnosti nikoho samy zmocnit k zastupování -> je nutno považovat orgány PO za zákonné zástupce PO (paradoxy: 1. PO může rozhodnout, jaké orgány tvoří + 2. orgány nemají p. subjektivitu ani svéprávnost)
+-	smluvní zastoupení PO – může vzniknout pouze na základě PJ jejího zástupce, tudíž jako další zastoupení > pak je otázka, zda jde o § 438? učebnice: spíš ne, protože § 438 předpokládá substituci mandátu, tady nejde ani o substituci ani o delegaci, ale o nový, odlišný mandát – zmocnění sui generis > nejedná se o zastoupení zastupujícího (statutárního) orgánu, ale o nezávislé zastoupení PO (< logický problém s nesvéprávností PO)
 - 	zákonné zastoupení statutárním orgánem (jeho členem)
 -	přichází v úvahu jen u PO; statutární orgán stanoví zákon
 -	statutární orgán = výkonný orgán, náleží mu působnost řídit fungování PO v každodenních věcech
@@ -6546,7 +6546,7 @@ X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím úč
 -	podmíněné tím, že PO musí v budoucnu vzniknout a dříve učiněná jednání pro sebe schválí
 -	pokud se nenaplní alespoň jedna z podmínek – jednání zavazuje pouze jednajícího
 -	okruh osob, které mohou za PO před jejím vznikem jednat, není nijak omezen
--	pro dodatečné schválení jednání PO je daná 3 měsíční lhůta (ale lze i později podle obecné úpravy o převzetí závazku  § 1888 OZ)
+-	pro dodatečné schválení jednání PO je daná 3 měsíční lhůta (ale lze i později podle obecné úpravy o převzetí závazku -> § 1888 OZ)
 - 	opatrovnictví PO
 -	§ 457-464 se týkají FO, byť se to tak ze systematického zařazení nejeví, na PO se vztahují § 486-488
 -	soud jmenuje opatrovníka PO, která to potřebuje, aby mohly být spravovány její záležitosti nebo aby mohla být hájena její práva
@@ -6554,22 +6554,22 @@ X ZOK: - vnitřní omezení (akty, rozhodnutí OK) > nejsou vůči třetím úč
 -	P@P opatrovníka platí obdobně ustanovení o členu statutárním orgánu,
 -	působnost opatrovníka se řídí přiměřeně ustanoveními o statutárním orgánu
 5. PROKURA
-─	široká obchodní plná moc, která může být udělena jenom FO (širší než pověření v § 430)
-─	zvláštní případ smluvního zastoupení – prokuru může udělit pouze podnikatel
-─	prokura opravňuje ke všem právním jednáním, která jsou potřebná k provozu závodu, popřípadě pobočky (§ 450 OZ) = nový institut omezené prokury – lze omezit na jednání týkající se pobočky
-─	prokura je PM, která se zapisuje do OR – může ji tedy udělit pouze podnikatel, který je v OR zapsán (zápis do OR má pouze deklaratorní význam)
-─	lze ji udělit pouze písemně a s výslovným vyjádřením, že se jedná o prokuru (či omezenou p. na pobočku)
-─	při podepisování prokurista uvede – firmu, jméno, dodatek (oznámení, že se jedná o prokuru) + pobočku nebo závod v případě omezené prokury
-─	zástupčí oprávnění prokury je skoro neomezené a vůči třetím osobám neomezitelné
-─	omezení prokury:
-─	nemůže jednat ve věcech, které náleží výlučně podnikateli/statutárnímu orgánu (udělit prokuru jinému, svolat valnou hromadu apod.)
-─	nemůže činit jednání, které se dotýkají samé podstaty obchodního závodu (nesmí jej zastavit, zcizit, ledaže to bylo výslovně uvedeno)
-─	prokurista může zmocňovat další osoby a udělovat jim plné moci (omezení z §438 se asi neuplatní, nejde o substituci mandátu, ale jen pověření v jiném rozsahu)
-─	možnost paralelních prokur (pro více lidí) každý z prokuristů je oprávněn jednat samostatně
-─	zánik prokury - je třeba zapsat do OR
+-	široká obchodní plná moc, která může být udělena jenom FO (širší než pověření v § 430)
+-	zvláštní případ smluvního zastoupení – prokuru může udělit pouze podnikatel
+-	prokura opravňuje ke všem právním jednáním, která jsou potřebná k provozu závodu, popřípadě pobočky (§ 450 OZ) = nový institut omezené prokury – lze omezit na jednání týkající se pobočky
+-	prokura je PM, která se zapisuje do OR – může ji tedy udělit pouze podnikatel, který je v OR zapsán (zápis do OR má pouze deklaratorní význam)
+-	lze ji udělit pouze písemně a s výslovným vyjádřením, že se jedná o prokuru (či omezenou p. na pobočku)
+-	při podepisování prokurista uvede – firmu, jméno, dodatek (oznámení, že se jedná o prokuru) + pobočku nebo závod v případě omezené prokury
+-	zástupčí oprávnění prokury je skoro neomezené a vůči třetím osobám neomezitelné
+-	omezení prokury:
+-	nemůže jednat ve věcech, které náleží výlučně podnikateli/statutárnímu orgánu (udělit prokuru jinému, svolat valnou hromadu apod.)
+-	nemůže činit jednání, které se dotýkají samé podstaty obchodního závodu (nesmí jej zastavit, zcizit, ledaže to bylo výslovně uvedeno)
+-	prokurista může zmocňovat další osoby a udělovat jim plné moci (omezení z §438 se asi neuplatní, nejde o substituci mandátu, ale jen pověření v jiném rozsahu)
+-	možnost paralelních prokur (pro více lidí) ->každý z prokuristů je oprávněn jednat samostatně
+-	zánik prokury - je třeba zapsat do OR
 -	prokuru je možno vždy odvolat/vypovědět; dále zaniká pachtem / prodejem závodu
 -	prokura nezaniká smrtí podnikatele!
-─	ze ZOK vyplývá, že prokuristou v OK nemůže být po dobu 3 let od rozhodnutí soudu ten, jehož výkon funkce (fce člena statutárního orgánu či obdobné funkce – např. prokuristy) vedl k úpadku OK (§ 64 ZOK)
+-	ze ZOK vyplývá, že prokuristou v OK nemůže být po dobu 3 let od rozhodnutí soudu ten, jehož výkon funkce (fce člena statutárního orgánu či obdobné funkce – např. prokuristy) vedl k úpadku OK (§ 64 ZOK)
 
 - 	opatrovnictví u podnikatelů-FO: podnikatel-FO, kt. není plně svéprávný, může být zastoupen při provozu obchodního závodu; nezletilý: zákonnými zástupci podle rodinného práva, zletilý: opatrovníkem
 
@@ -6803,55 +6803,55 @@ V obchod-A_2017_18
 \|------------------------------\| <br>
 
 1. OBCHODNÍ REJSTŘÍK
-─	= informační systém veřejné správy, vede jej rejstříkový soud v elektronické podobě
-─	= veřejný rejstřík, do kterého se zapisují zákonem stanovené údaje o PO/FO
+-	= informační systém veřejné správy, vede jej rejstříkový soud v elektronické podobě
+-	= veřejný rejstřík, do kterého se zapisují zákonem stanovené údaje o PO/FO
 A) PO/FO, kterým ukládá zápis do OR zákon, a B) o podnikatelích FO, které o zápis dobrovolně požádají
 (jiné PO, než ty, kterým ukládá zápis zákon, do OR zapsat nelze)
-─	skládá se z rejstříkových vložek a sbírky listin
-─	každá osoba zapsaná do OR se považuje za podnikatele, a to i tehdy, byla-li založena za jiným účelem
-─	OR je upraven: OZ (§120-121), zák. o veřejných rejstřících, zák. o informačních systémech veřejné správy
-─	veřejný rejstřík = rejstřík osob (PO/FO), který je za VR prohlášen zákonem (OR, spolkový rejstřík, nadační rejstřík,…) X veřejný seznam = seznam věcí, do kt. může každý nahlížet (KN, patentový rejstřík) X rej. zástav
-─	rejstříkový spis = všechny dokumenty, tj. písemnosti v listinné nebo elektronické podobě, které soudu došly nebo které vydal ve vztahu ke konkrétní zapsané osobě
-─	sbírka listin = součástí OR a tvoří ji především dokumenty, jejichž uložení do této sbírky ukládá zákon
-─	§ 120 (3) OZ->změní-li se zapsaná skutečnost, oznámí zapsaná osoba, nebo ten, komu to ukládá zákon, změnu bez zbytečného odkladu tomu, kdo veřejný rejstřík vede -> návrh na změnu na předepsaném formuláři
-─	TČ: ohrožení nebo omezení jiného na právech tím, že zapsaná osoba nepodá bez zbytečného odkladu návrh na zápis zákonem stanoveného údaje do OR nebo neuloží listinu do sbírky listin, ač je k tomu podle zákona nebo smlouvy povinna, je trestným činem (dále i uvedení nepravdivých nebo hrubě zkreslených údajů)
-─	rejstříkový soud = krajský soud, v jehož obvodu je obecný soud osoby, jíž se zápis ve VR týká (u PO je to KS, v jehož obvodu má sídlo; u FO KS, v jehož obvodu má sídlo nebo bydliště)
-─	princip formální publicity – každý může dostat opis zápisu či listiny v OR (či potvrzení, že údaj v OR není)
-─	princip materiální publicity („princip dobré víry“)
-─	skutečnosti zapsané do OR jsou účinné vůči každému ode dne jejich zveřejnění
-─	ten, jehož se zápis týká, nemůže namítat, že zápis neodpovídá skutečnostem (proti dobrověrným) ani to, že je čerstvý zápis správný do uplynutí 15 dní od zápisu, když osoba v dobré víře prokáže, že o něm během těch 15 dnů nemohla vědět
-─	druhy zápisů do OR:
+-	skládá se z rejstříkových vložek a sbírky listin
+-	každá osoba zapsaná do OR se považuje za podnikatele, a to i tehdy, byla-li založena za jiným účelem
+-	OR je upraven: OZ (§120-121), zák. o veřejných rejstřících, zák. o informačních systémech veřejné správy
+-	veřejný rejstřík = rejstřík osob (PO/FO), který je za VR prohlášen zákonem (OR, spolkový rejstřík, nadační rejstřík,…) X veřejný seznam = seznam věcí, do kt. může každý nahlížet (KN, patentový rejstřík) X rej. zástav
+-	rejstříkový spis = všechny dokumenty, tj. písemnosti v listinné nebo elektronické podobě, které soudu došly nebo které vydal ve vztahu ke konkrétní zapsané osobě
+-	sbírka listin = součástí OR a tvoří ji především dokumenty, jejichž uložení do této sbírky ukládá zákon
+-	§ 120 (3) OZ->změní-li se zapsaná skutečnost, oznámí zapsaná osoba, nebo ten, komu to ukládá zákon, změnu bez zbytečného odkladu tomu, kdo veřejný rejstřík vede -> návrh na změnu na předepsaném formuláři
+-	TČ: ohrožení nebo omezení jiného na právech tím, že zapsaná osoba nepodá bez zbytečného odkladu návrh na zápis zákonem stanoveného údaje do OR nebo neuloží listinu do sbírky listin, ač je k tomu podle zákona nebo smlouvy povinna, je trestným činem (dále i uvedení nepravdivých nebo hrubě zkreslených údajů)
+-	rejstříkový soud = krajský soud, v jehož obvodu je obecný soud osoby, jíž se zápis ve VR týká (u PO je to KS, v jehož obvodu má sídlo; u FO KS, v jehož obvodu má sídlo nebo bydliště)
+-	princip formální publicity – každý může dostat opis zápisu či listiny v OR (či potvrzení, že údaj v OR není)
+-	princip materiální publicity („princip dobré víry“)
+-	skutečnosti zapsané do OR jsou účinné vůči každému ode dne jejich zveřejnění
+-	ten, jehož se zápis týká, nemůže namítat, že zápis neodpovídá skutečnostem (proti dobrověrným) ani to, že je čerstvý zápis správný do uplynutí 15 dní od zápisu, když osoba v dobré víře prokáže, že o něm během těch 15 dnů nemohla vědět
+-	druhy zápisů do OR:
 a) konstitutivní – zakládají určitou právní skutečnost (např. vznik OK)
 b) deklaratorní – pouze deklarují určitou, již existující právní skutečnost (např. udělení prokury)
-─	návrh na zápis do OR lze podat zásadně pouze na formuláři a musí být doložen listinami o skutečnostech, které mají být do OR zapsány – lze podat v listinné nebo elektronické podobě
-─	OZ ukládá zapisovat do OR o PO alespoň den vzniku, den zrušení s uvedením právního důvodu, den zániku, název, adresu sídla a předmět činnosti, jméno a adresu bydliště nebo sídla každého členu statut. orgánu
-─	rezervace firmy – zakladatelé OK mohou požádat rejstříkový soud, aby zapsal do OR obchodní firmu řádně založené, ale dosud nevzniklé obchodní korporace, do 1 měsíce ale musí dát návrh na zápis OK do OR
+-	návrh na zápis do OR lze podat zásadně pouze na formuláři a musí být doložen listinami o skutečnostech, které mají být do OR zapsány – lze podat v listinné nebo elektronické podobě
+-	OZ ukládá zapisovat do OR o PO alespoň den vzniku, den zrušení s uvedením právního důvodu, den zániku, název, adresu sídla a předmět činnosti, jméno a adresu bydliště nebo sídla každého členu statut. orgánu
+-	rezervace firmy – zakladatelé OK mohou požádat rejstříkový soud, aby zapsal do OR obchodní firmu řádně založené, ale dosud nevzniklé obchodní korporace, do 1 měsíce ale musí dát návrh na zápis OK do OR
 
 Řízení o zápisu:  
 	- na návrh
 	- bez návrhu (když má dojít ke shodě mezi stavem v OR s faktickým stavem)
-─	odmítnutí návrhu na zápis  neoprávněná osoba, nebyl podán na formuláři, neobsahuje všechny podstatné náležitosti, nesrozumitelný nebo neurčitý návrh, chybí listiny, zakázaný účel -> soud: výzva k odstranění vad
-─	účastníci řízení: navrhovatel a zapisovaná osoba (NE osoby zapisované do OR v rámci zápisu PO), příp. i SZ
+-	odmítnutí návrhu na zápis -> neoprávněná osoba, nebyl podán na formuláři, neobsahuje všechny podstatné náležitosti, nesrozumitelný nebo neurčitý návrh, chybí listiny, zakázaný účel -> soud: výzva k odstranění vad
+-	účastníci řízení: navrhovatel a zapisovaná osoba (NE osoby zapisované do OR v rámci zápisu PO), příp. i SZ
 - 	A) zápis bez rozhodnutí
-─	když je podkladem rozhodnutí soudu nebo správního orgánu
-─	je-li podkladem notářský zápis a:
-─	navrhovatel = zapisovaný (jediný účastník) / prvozápis PO / přeměna OK, všechny zúčastněné OK mají v obvodu sídlo
+-	když je podkladem rozhodnutí soudu nebo správního orgánu
+-	je-li podkladem notářský zápis a:
+-	navrhovatel = zapisovaný (jediný účastník) / prvozápis PO / přeměna OK, všechny zúčastněné OK mají v obvodu sídlo
 - 	B) zápis rozhodnutím (usnesením)
 -	zápis se provede až po nabytí právní moci usnesení (ke dni v návrhu, nejdříve ale k právní moci)
-─	lhůta pro zápis/rozhodnutí-> RS: nejpozději do 5 pracovních dnů (ode dne podání návrhu)
-  ─	 fikce zápisu – neprovede-li RS ve lhůtě zápis ani nerozhodne, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí lhůty (povinnost promítnout zápis fikcí do 2 pracovních dnů)
-─	X opravný prostředek u této fikce: oprávněné osoby mohou do 1 měsíce podat návrh na změnu či výmaz
+-	lhůta pro zápis/rozhodnutí-> RS: nejpozději do 5 pracovních dnů (ode dne podání návrhu)
+  -	 fikce zápisu – neprovede-li RS ve lhůtě zápis ani nerozhodne, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí lhůty (povinnost promítnout zápis fikcí do 2 pracovních dnů)
+-	X opravný prostředek u této fikce: oprávněné osoby mohou do 1 měsíce podat návrh na změnu či výmaz
 (to mohou i osoby zapisované v rámci zápisu PO + ty se mohou domáhat změny vždy, jsou-li vymazány z OR, i bez fikce)
-─	zápis do OR mohou vedle soudu provádět také notáři (pouze ti, co se psali podkladový NZ):
-─	mají-li zapisované skutečnosti podkladový NZ nebo NZ o rozhodnutí orgánu PO
-─	v podkladovém NZ je vyjádření notáře o tom, že obsah PJ je v souladu s právními předpisy a se zakladatelským PJ PO
-─	notáři byly předloženy všechny listiny, které zákon požaduje pro zápis do OR
+-	zápis do OR mohou vedle soudu provádět také notáři (pouze ti, co se psali podkladový NZ):
+-	mají-li zapisované skutečnosti podkladový NZ nebo NZ o rozhodnutí orgánu PO
+-	v podkladovém NZ je vyjádření notáře o tom, že obsah PJ je v souladu s právními předpisy a se zakladatelským PJ PO
+-	notáři byly předloženy všechny listiny, které zákon požaduje pro zápis do OR
 
 2. ŽIVNOSTENSKÝ REJSTŘÍK
-─	= informační systém veř. správy, evidence zákonem stanovených údajů o osobách, kt. mají živnost.oprávnění
-─	evidované údaje: např. jméno zapsané osoby, předmět podnikání, druh živnosti, provozovna(y), apod.
-─	ŽR je v rozsahu stanoveném zákonem veřejný a ve zbývajícím rozsahu neveřejný
-─	správcem ŽR je Živnostenský úřad ČR a jeho provozovateli jsou krajské a obecní živnostenské úřady
+-	= informační systém veř. správy, evidence zákonem stanovených údajů o osobách, kt. mají živnost.oprávnění
+-	evidované údaje: např. jméno zapsané osoby, předmět podnikání, druh živnosti, provozovna(y), apod.
+-	ŽR je v rozsahu stanoveném zákonem veřejný a ve zbývajícím rozsahu neveřejný
+-	správcem ŽR je Živnostenský úřad ČR a jeho provozovateli jsou krajské a obecní živnostenské úřady
 
 
 \|--------------------------------------\| <br>
@@ -6916,7 +6916,7 @@ b) deklaratorní – pouze deklarují určitou, již existující právní skute
     - *„Kdo se dostane v hospodářském styku do rozporu s dobrými mravy soutěže jednáním způsobilým přivodit újmu jiným soutěžitelům nebo zákazníkům, dopustí se nekalé soutěže.“*
     - Blíže k jednotlivým částem této definice:
       - 1- soutěžně orientované jednání v hospodářském styku (výklad: nutná existence soutěže mezi stranami)
-      - 2- rozpor s dobrými mravy soutěže (DMS≠DM) – v judikatuře spíše negativní vymezení; půjde o soubor pravidel chování (neartikulovaných zákonodárcem), kt. vznikají spontánně v hospodář. praxi a kt. odpovídají převládajícím představám o slušnosti a poctivosti (tj. chovají se tak + jsou o platnosti přesvědčeni)
+      - 2- rozpor s dobrými mravy soutěže (DMSNEROVNÁ SEDM) – v judikatuře spíše negativní vymezení; půjde o soubor pravidel chování (neartikulovaných zákonodárcem), kt. vznikají spontánně v hospodář. praxi a kt. odpovídají převládajícím představám o slušnosti a poctivosti (tj. chovají se tak + jsou o platnosti přesvědčeni)
       - 3- jednání způsobilé přivodit újmu jiným soutěžitelům/zákazníkům = obj. odpovědnost (ke vzniku práva na náhradu škody není třeba zavinění ani reálná újma); **zákazník = širší než spotřebitel (i podnikatel v nesoutěž. vztahu)**
 
 - **Občanský zákoník rovněž definuje určité přesné případy, které jsou považované za nekalou soutěž**
@@ -7153,7 +7153,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
   -	**know-how** = nepatentované zkušenosti a jiné poznatky, které jsou v soukromém zájmu utajovány-> není jasně vymezeno, často jako synonymum k „obchodnímu tajemství“, ale širší (-> musí splňovat 3 znaky: utajené, podstatné pro provozování závodu a určitelné); mohou být chráněny max. z generální klauzule nekalé soutěže, popř. držba informace
   -	OT & know-how ve smlouvách -> může být smluvně poskytováno dalším osobám
     -	když je hlavním plněním = smlouva o know-how („nepravá licence“)
-      - buď jen relativní právo OT užívat (≈obdoba nevýhradní LS), nebo na něj OT převést (≈ obdoba výhradní LS)
+      - buď jen relativní právo OT užívat (=obdoba nevýhradní LS), nebo na něj OT převést (= obdoba výhradní LS)
     -	nebo součástí smlouvy o převodu práv (např. v rámci kupní smlouvy převádějící patent)
     -	nebo součástí smlouvy o dílo, o franšíze, distribuci, výzkumu a vývoji apod.
     -	„opční smlouva“ – nabyvatel se za odměnu s utajovaným OT/know-how (pod hrozbou sankce za vyzrazení) seznámí a má čas se rozhodnout, zda jej ne/přijme (cena za licenci se pak sníží o cenu opce)
@@ -7186,7 +7186,7 @@ Občanský zákoník rozlišuje 2 druhy podplácení: aktivní a pasivní. Každ
     -	převod patentu: KS + intabulace > účinný až zápisem do patentového rejstříku
     -	pís. prohlášení o veřej. nabídce licence – vyznačí se v rejstříku (vynález může užít, kdo na ni přistoupí), udržovací poplatky se platí pak jen poloviční
     -	nucená licence – nikdy ÚPV neudělena, zájemce může žádat o uzavření LS, nevyužívá-li vlastník bezdůvodně vynález (ne dříve než 4 roky od přihlášky či 3 roky od udělení patentu)
-    -	mezin. Úmluva o udělování evropských patentů-> Evropský patentový úřad (EPÚ) [≠ orgán EU] -> jedna evropská přihláška -> 2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států -> je tedy nutno nechat patent dodatečně uznat v jednotlivých členských zemích
+    -	mezin. Úmluva o udělování evropských patentů-> Evropský patentový úřad (EPÚ) [NEROVNÁ SE orgán EU] -> jedna evropská přihláška -> 2 fáze řízení: evropská před EÚP a národní před úřady jednotl. států -> je tedy nutno nechat patent dodatečně uznat v jednotlivých členských zemích
       -	nově je: evropský patent s jednotným účinkem - EPÚ vydává jen pro zúčastněné státy EU na základě „patentového balíčku“ (nařízení o jednotné patentové ochraně + nařízení o překladech + MS o Jednotném patentovém soudu)
     - negativně vylučuje nepatentovatelné vynálezy
   - **2- užitný vzor**
@@ -7831,7 +7831,7 @@ VEDLEJŠÍ
   - Podnikatel k provozu závodu zpravidla vyčlení určité věci (majetek), provozem závodu však soustavně vstupuje do určitých právních vztahů, ze kterých mu vznikají i dluhy, obchodní závod je souhrnem majetku i dluhů (jmění)
   - Podnikatel si může zajišťovat provoz obchodního závodu buď sám (typicky v případě drobného živnostníka), nebo ve spolupráci s jeho společníky, rodinou či zaměstnanci
   - Obvyklou součástí závodu budou často i věci nehmotné (patenty, užitné vzory,) či práva k užívání určitých věcí (nájem provozovny) ochranné známky
-    - ─	závod = soubor jednotlivých věcí, movitých i nemovitých; hmotných i nehmotných (významná je klientela vázaná na závod, skutečnosti tvořící obchodní tajemství aj.)
+    - -	závod = soubor jednotlivých věcí, movitých i nemovitých; hmotných i nehmotných (významná je klientela vázaná na závod, skutečnosti tvořící obchodní tajemství aj.)
   - Zvláštností závodu je, že jednotlivé věci i dluhy, které jsou jeho součástí, z tohoto souboru vycházejí či do něho vcházejí, obchodní závod jako funkční celek však zůstává zachován
     - jedná se nikoli o **subjekt**, ale o **předmět** právních vztahů -> obchodovatelná věc (zcizení, pacht, inominátní smlouvy, vklad do zák. kap. atd.)
   - podnikatel **může mít více obchodních závodů** -> to vyplývá z možnosti udělit prokuru pro některý ze závodů, všechny ale budou provozovat pod jednou firmou (je-li v OR) nebo jménem
@@ -7841,7 +7841,7 @@ VEDLEJŠÍ
       -	podmínkou samostatnosti není zápis do OR (i nezapsaná pobočka), ale typicky půjde o odštěpný závod
       -	dle NS – podstatné pro samostatnou org. složku závodu je samostatné (oddělené) účetnictví
     -	**podstatná část závodu**
-      -	speciální právní režim pro dispozici s „podstatnou částí“ závodu taková část, jejíž převod či zastavení by znamenalo podstatnou změnu dosavadní struktury závodu nebo podstatnou změnu v předmětu podnikání obchodní korporace schválení VH a.s./s.r.o. či členskou schůzí družstva
+      -	speciální právní režim pro dispozici s „podstatnou částí“ závodu ->taková část, jejíž převod či zastavení by znamenalo podstatnou změnu dosavadní struktury závodu nebo podstatnou změnu v předmětu podnikání obchodní korporace-> schválení VH a.s./s.r.o. či členskou schůzí družstva
 
 
 **POBOČKA OBCHODNÍHO ZÁVODU**
@@ -7903,13 +7903,13 @@ VEDLEJŠÍ
 
 - **1- KOUPĚ ZÁVODU**
   - na základě kupní smlouvy, jejímž předmětem je závod či jeho část tvořící samostatnou org. složku nabývá kupující vše, co k závodu jako celku náleží
-  - v OZ není zvl. smluvním typem (X ObchZ: prodej podniku = sml. typ)  avšak máme zvláštní ustanovení o koupi závodu (§ 2175-2183 OZ) – v nepokrytém rámci se subsidiárně aplikuje obecné úprava koupě
+  - v OZ není zvl. smluvním typem (X ObchZ: prodej podniku = sml. typ) -> avšak máme zvláštní ustanovení o koupi závodu (§ 2175-2183 OZ) – v nepokrytém rámci se subsidiárně aplikuje obecné úprava koupě
   - smluvními stranami smlouvy o koupi závodu typicky podnikatelé (nemusí být vždy: např. prodává dědic)
-  - převod závodu či podstatné části (> podstatná změna struktury či předmětu podnikání/činnosti)  schválení nevyšším orgánem OK (všichni společníci / valná hromada / členská schůze); souhlas musí být s převodem – tj. základními parametry (ne nutně s obsahem smlouvy – ale může)
+  - převod závodu či podstatné části (> podstatná změna struktury či předmětu podnikání/činnosti) -> schválení nevyšším orgánem OK (všichni společníci / valná hromada / členská schůze); souhlas musí být s převodem – tj. základními parametry (ne nutně s obsahem smlouvy – ale může)
   - zákon nepředepisuje písemnou formu smlouvy o koupi závodu
   - okamžik přechodu vlastnictví na kupujícího:
-    - kupující není zapsán ve VR  uzavřením smlouvy (má translační účinek)
-    - kupující je zapsán ve VR  zveřejněním údaje, že uložil doklad o koupi závodu do sbírky listin
+    - kupující není zapsán ve VR -> uzavřením smlouvy (má translační účinek)
+    - kupující je zapsán ve VR -> zveřejněním údaje, že uložil doklad o koupi závodu do sbírky listin
   - **univerzalita** nabytí závodu (šetří transakční náklady)
     - -> kupující se stává vlastníkem jednotlivých věcí, které závod tvoří, aniž by pro jejich nabytí bylo třeba zvláštních nabývacích titulů
     - při koupi lze vyloučit jednotlivou položku, ale celek nesmí ztratit vlastnost závodu
@@ -7918,7 +7918,7 @@ VEDLEJŠÍ
     - -> kupující nastupuje do nájemních smluv, kterými mohou být dále pronajímány jednotlivé prostory závodu sloužící k podnikání (učebnice má za to, že písemný souhlas pronajímatele se neuplatní, protože nejde o převod nájmu, ale vlastně o přechod práv)
     - -> na kupujícího přecházejí i P@P z pracovněprávních vztahů a z kolektivních smluv (§ 338 ZP)
     - -> kupující nabývá i práva z duševního, zejména průmyslového vlastnictví, která jsou součástí závodu (nelze převést práva, u nichž to vylučuje jejich povaha, např. autorské právo)
-      - X nepřecházejí: veřejnoprávní oprávnění (živnost. oprávnění) či povinnosti (dluh na daních)  ty nejsou součástí závodu a ulpívají na prodávajícím
+      - X nepřecházejí: veřejnoprávní oprávnění (živnost. oprávnění) či povinnosti (dluh na daních) -> ty nejsou součástí závodu a ulpívají na prodávajícím
     - ochrana věřitelů:
       - k převzetí dluhu kupujícím se nevyžaduje souhlas věřitele (X obecná úprava §1888), nicméně nedá-li souhlas, pak bude kupující sice dlužníkem, ale prodávající bude ručitelem
       - právo věřitele domáhat se relativní neúčinnosti prodeje závodu ve stanovené době u soudu (to pomůže věřiteli tehdy, když by chtěl kupující vůči němu uplatnit námitku vzešlou ze vzáj. vztahu)
@@ -7942,7 +7942,7 @@ VEDLEJŠÍ
   - pacht závodu nemusí být schválen nejvyšším orgánem OK (jako převod, zastavení)
   - pachtýř nezapsaný ve VR > nabývá účinností smlouvy X zapsaný > zveřejněním založení pachtu do sbírky listin
   - pachtýř se stává věřitelem pohledávek souvisejících s provozem závodu; dluhy pachtýř přejímá jen za podmínky, že o jejich existenci věděl nebo je musel rozumně předpokládat
-  - ochrana věřitelů obdobně jako u koupi závodu -> informační povinnost + ručení propachtovatele za splnění dluhů souvisejících s provozem závodutoto zákonné ručení nastává pouze v případě, pokud věřitel neudělil souhlas s převzetím dluhu pachtýřem (právo odporu věřitele – na relativní neúčinnost pachtu)
+  - ochrana věřitelů obdobně jako u koupi závodu -> informační povinnost + ručení propachtovatele za splnění dluhů souvisejících s provozem závodu->toto zákonné ručení nastává pouze v případě, pokud věřitel neudělil souhlas s převzetím dluhu pachtýřem (právo odporu věřitele – na relativní neúčinnost pachtu)
   - pachtýř může závod užívat v takovém rozsahu, v jakém je to třeba k jeho řádnému provozování -> musí jednat v rámci péče řádného hospodáře
   - při zániku pachtu: odevzdání závodu ve stavu, který odpovídá běžnému opotřebení a změnám,k nimž došlo při řádném provozu závodu; ochrana věřitelů: informační povinnost pachtýře + ručí za přešlé dluhy
 
@@ -7951,7 +7951,7 @@ VEDLEJŠÍ
     - zástavní právo je právem k věci cizí (iura in re aliena)
     - není upraveno jako zvláštní smluvní typ -> aplikuje se obecná úprava zástavního práva
   - zástavním právem lze zajistit peněžitý, tak i nepeněžitý dluh, zároveň existující dluh, tak i dluh, který teprve v budoucnu vznikne + lze jím zajistit i dluh třetí osoby (praktické typicky v rámci koncernu) - KONCERN osoba ovládající několik osob ovládaných
-  - zástavní právo se zřizuje zástavní smlouvou určení závodu-předmětu zástavy + dluhu, pro nějž se ZP zřizuje
+  - zástavní právo se zřizuje zástavní smlouvou-> určení závodu-předmětu zástavy + dluhu, pro nějž se ZP zřizuje
     - toto zástavní právo vznikne až zápisem do rejstříku zástav, který vede Notářská komora ČR
   - zástavní smlouva musí být pořízena ve formě veřejné listiny
   - OK: zastavení závodu musí být schváleno nejvyšším orgánem společnosti
@@ -8204,9 +8204,9 @@ o	Profesionální zákazník
 - 	Investiční zprostředkovatel je osoba zaregistrovaná u České národní banky, která je oprávněna přijímat a předávat pokyny týkající se investičních nástrojů nebo poskytovat investiční poradenství. Investiční zprostředkovatel však:
 o	nepřijímá peněžní prostředky nebo investiční nástroje zákazníků
 o	pokyny předává pouze:
-*	■bance
-*	■obchodníkovi s cennými papíry
-*	■obhospodařovateli fondu kolektivního investování
+*	-bance
+*	-obchodníkovi s cennými papíry
+*	-obhospodařovateli fondu kolektivního investování
 - 	Vázaný zástupce je fyzická nebo právnická osoba, která je oprávněna za zastoupeného:
 o	zařídit, a popřípadě i uzavřít, obchody týkající se přijímání a předávaní pokynů týkajících se investičních nástrojů
 o	poskytovat investiční poradenství
@@ -8285,76 +8285,76 @@ Trestní odpovědností právnické osoby není dotčena trestní odpovědnost f
 1. ADMINISTRATIVNÍ ODPOVĚDNOST PODNIKATELE
 - 	soukromoprávní odpovědnost: se uplatňuje pouze na základě iniciativy oprávněného (a oprávněný tuto iniciativu velmi často nevyvine); vzniká už splněním zákonných předpokladů (PPJ, Š, KN, Z)
 - 	veřejnoprávní odpovědnost: k uplatnění se nevyžaduje iniciativa dotčené osoby; nevzniká samotným protiprávním jednáním, sankce se uplatní až na základě konstitutivního rozhodnutí ve správním řízení
-─	VP úprava zakotvuje: 1) povinnosti podnikatelů (k ochraně spotřebitelů a zákazníků), 2) orgány pověřené kontrolou, 3) řízení, umožňující odhalit PPJ a uložit sankce, 4) sankce
- v SP: plnění připadá poškozenému X u VP: plnění jdou do veřejných rozpočtů
-─	VP a SP sankce se navzájem nevylučují:
-─	 SP odpovědnost za škodu je univerzální sankcí (generální skutková podstata)
-─	X skutk. podstaty VP odpovědnosti formulovány přesně a úzce a musí být zakotveny v zákoně
-─	administrativní O. koncipována podobně jako trestní, ale rozhodují tu správní orgány (ne soudy, krom přezkumu)
-─	z. č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich + z. č. 251/2016 Sb., o některých přestupcích
-─	správní ~~delikty~~ > přestupky (do 1. 7. 2017 byly „přestupky“ jen pro FO + „jiné správní delikty“ pro FO i PO)
-─	u PO + podnikatelů: objektivní odpovědnost s možností liberace ze zákonných důvodů
-─	u nepodnikatelů: subjektivní odpovědnost (tj. nutné zavinění)
-─	administrativní O. závisí na předmětu podnikání podnikatele + na řadu z nich se vztahuje i ochrana spotřebitelů (živnostníky zavazují živnostenské předpisy, dovozce celní p., všechny: daňové p.)
+-	VP úprava zakotvuje: 1) povinnosti podnikatelů (k ochraně spotřebitelů a zákazníků), 2) orgány pověřené kontrolou, 3) řízení, umožňující odhalit PPJ a uložit sankce, 4) sankce
+-> v SP: plnění připadá poškozenému X u VP: plnění jdou do veřejných rozpočtů
+-	VP a SP sankce se navzájem nevylučují:
+-	 SP odpovědnost za škodu je univerzální sankcí (generální skutková podstata)
+-	X skutk. podstaty VP odpovědnosti formulovány přesně a úzce a musí být zakotveny v zákoně
+-	administrativní O. koncipována podobně jako trestní, ale rozhodují tu správní orgány (ne soudy, krom přezkumu)
+-	z. č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich + z. č. 251/2016 Sb., o některých přestupcích
+-	správní ~~delikty~~ > přestupky (do 1. 7. 2017 byly „přestupky“ jen pro FO + „jiné správní delikty“ pro FO i PO)
+-	u PO + podnikatelů: objektivní odpovědnost s možností liberace ze zákonných důvodů
+-	u nepodnikatelů: subjektivní odpovědnost (tj. nutné zavinění)
+-	administrativní O. závisí na předmětu podnikání podnikatele + na řadu z nich se vztahuje i ochrana spotřebitelů (živnostníky zavazují živnostenské předpisy, dovozce celní p., všechny: daňové p.)
 sankce dle § PřeZ
-─	 správní tresty (§ 35): napomenutí, pokuta, zákaz činnosti, propadnutí věci nebo náhradní hodnoty, zveřejnění rozhodnutí o přestupku
-─	ochranná opatření (§51) omezující opatření, zabrání věci nebo náhradní hodnoty
+-	 správní tresty (§ 35): napomenutí, pokuta, zákaz činnosti, propadnutí věci nebo náhradní hodnoty, zveřejnění rozhodnutí o přestupku
+-	ochranná opatření (§51) omezující opatření, zabrání věci nebo náhradní hodnoty
 	(např. uzavření provozovny nesplňující hygienické předpoklady)
 přestupky PO:
-─	§ 167 OZ: „PO zavazuje protiprávní čin, kt. se při plnění úkolů dopustil člen voleného orgánu, zaměstnanec…“
-─	§ 20/1 PřeZ: PO je pachatelem, jestliže k naplnění znaků přestupku došlo jednáním FO, kt. se... považuje za osobu,
+-	§ 167 OZ: „PO zavazuje protiprávní čin, kt. se při plnění úkolů dopustil člen voleného orgánu, zaměstnanec…“
+-	§ 20/1 PřeZ: PO je pachatelem, jestliže k naplnění znaků přestupku došlo jednáním FO, kt. se... považuje za osobu,
 -	jejíž jednání je přičitatelné PO a která porušila právní povinnost uloženou PO,
 -	a to při činnosti PO / v přímé souvislosti s činností PO / ku prospěchu PO /v zájmu PO
 		[platí i pro organizační složku nebo jiný útvar, který je součástí PO]
-─	§ 20/2 PřeZ: Za osobu, jejíž jednání je přičitatelné PO, se…. považuje
+-	§ 20/2 PřeZ: Za osobu, jejíž jednání je přičitatelné PO, se…. považuje
 -	a) statutární orgán nebo člen statutárního orgánu,
 -	b) jiný orgán PO nebo jeho člen,
 -	c) zaměstnanec nebo osoba v obdobném postavení při plnění úkolů vyplýv. z tohoto postavení,
 -	d) FO, která plní úkoly PO,
 -	e) FO, kterou PO používá při své činnosti, nebo
 -	f) FO, která za PO jednala, jestliže PO výsledku takového jednání využila.
-─	z. o některých přestupcích: § 9 přestupky na úseku podnikání - přestupkem je:
-─	FO/PO: provozování podnikání bez veřejnoprávního povolení, je-li vyžadováno
-─	PO/podnikající FO: porušování povinností v souv. se zápisu do OR, nepoužívání firmy/jména, klamavé údaje na obchodních listinách atp.
-─	promlčecí doba: 1 rok X 3 roky, jde-li přestupek s horní hranicí pokuty min. 100 tis.
-─	nově: pravomoc správního orgánu zakázat zrušení, zánik nebo přeměnu obviněné PO, existuje-li důvodné podezření, že by se chtěla vyhnout sankci / výkonu správního trestu / by mohla zmařit uspokojení nároku na náhradu Š či vydání bezdův. obohacení [X zákaz nesmí být nepřiměřený]
-─	nově: pozbytí statusu podnikatele nemá za následek zánik odpovědnosti za přestupek
+-	z. o některých přestupcích: § 9 přestupky na úseku podnikání - přestupkem je:
+-	FO/PO: provozování podnikání bez veřejnoprávního povolení, je-li vyžadováno
+-	PO/podnikající FO: porušování povinností v souv. se zápisu do OR, nepoužívání firmy/jména, klamavé údaje na obchodních listinách atp.
+-	promlčecí doba: 1 rok X 3 roky, jde-li přestupek s horní hranicí pokuty min. 100 tis.
+-	nově: pravomoc správního orgánu zakázat zrušení, zánik nebo přeměnu obviněné PO, existuje-li důvodné podezření, že by se chtěla vyhnout sankci / výkonu správního trestu / by mohla zmařit uspokojení nároku na náhradu Š či vydání bezdův. obohacení [X zákaz nesmí být nepřiměřený]
+-	nově: pozbytí statusu podnikatele nemá za následek zánik odpovědnosti za přestupek
 2. TRESTNÍ ODPOVĚDNOST PODNIKATELŮ
-─	TČ: přečiny a zločiny  přečiny = nedbalostní + úmyslné TČ s horní hranicí trestní sazby do 5 let
-─	skutkové podstaty týkající se podnikatelů hlavně mezi TČ proti majetku a dále mezi TČ hospodářskými
-─	↪ skutková podstata, kt. může naplnit jen podnikatel např. TČ ohrožování zdraví závadnými potravinami nebo jinými předměty (ale „podnikatel“ je v TZ zmíněn explicitně zřídka, spíš poznáme z popisu jednání)
-─	dvě kategorie TČ, kde nalezneme podnikatele jako možného pachatele:
+-	TČ: přečiny a zločiny -> přečiny = nedbalostní + úmyslné TČ s horní hranicí trestní sazby do 5 let
+-	skutkové podstaty týkající se podnikatelů hlavně mezi TČ proti majetku a dále mezi TČ hospodářskými
+-	-> skutková podstata, kt. může naplnit jen podnikatel ->např. TČ ohrožování zdraví závadnými potravinami nebo jinými předměty (ale „podnikatel“ je v TZ zmíněn explicitně zřídka, spíš poznáme z popisu jednání)
+-	dvě kategorie TČ, kde nalezneme podnikatele jako možného pachatele:
 - 	TČ proti majetku
-─	TČ porušení povinností při správě cizího majetku způsobí na něm škodu nikoliv malou
-─	úvěrový a dotační podvod, poškození věřitele, zvýhodnění věřitele, způsobení úpadku,…
+-	TČ porušení povinností při správě cizího majetku-> způsobí na něm škodu nikoliv malou
+-	úvěrový a dotační podvod, poškození věřitele, zvýhodnění věřitele, způsobení úpadku,…
 - 	TČ proti hospodářské soutěži
-─	př. porušení pravidel hosp. soutěže  § 248 TZ – trestní odpovědnost za nekalou soutěž
-─	TČ neoprávněného podnikání – odnětí svobody až na 2 léta nebo zákaz činnosti
-─	TČ poškozování spotřebitele  např. tím, že šidí na jakosti, uvede ve větším na trh výrobky a přitom zatají jejich podstatné vady,…
-─	TČ zkreslování údajů o stavu hospodaření a jmění
-─	TČ zneužití informace v obchodním styku
-─	TČ zneužití postavení v obchodním styku
-─	TČ zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě
-─	TČ pletichy při zadání veřejné zakázky a při veřejné soutěži
-─	TČ vystavení nepravdivého potvrzení (podnikatelem oprávněným k poskytování fin. služeb)
-─	TČ poškozování finančních zájmů EU (nesprávné dokumenty, údaje > zkrácení fin. prostředků)
-─	TČ proti průmyslovým právům a autorskému právu
-- 	 další trestné činy  úplatkářství, neoprávněné zaměstnávání cizinců apod.
+-	př. porušení pravidel hosp. soutěže -> § 248 TZ – trestní odpovědnost za nekalou soutěž
+-	TČ neoprávněného podnikání – odnětí svobody až na 2 léta nebo zákaz činnosti
+-	TČ poškozování spotřebitele -> např. tím, že šidí na jakosti, uvede ve větším na trh výrobky a přitom zatají jejich podstatné vady,…
+-	TČ zkreslování údajů o stavu hospodaření a jmění
+-	TČ zneužití informace v obchodním styku
+-	TČ zneužití postavení v obchodním styku
+-	TČ zjednání výhody při zadání veřejné zakázky, při veřejné soutěži a veřejné dražbě
+-	TČ pletichy při zadání veřejné zakázky a při veřejné soutěži
+-	TČ vystavení nepravdivého potvrzení (podnikatelem oprávněným k poskytování fin. služeb)
+-	TČ poškozování finančních zájmů EU (nesprávné dokumenty, údaje > zkrácení fin. prostředků)
+-	TČ proti průmyslovým právům a autorskému právu
+- 	 další trestné činy -> úplatkářství, neoprávněné zaměstnávání cizinců apod.
 3. TRESTNÍ ODPOVĚDNOST PO
-─	úprava v z. č. 418/2011 Sb., o trestní odpovědnosti PO a řízení proti nim
-─	t. odpovědnost PO: protiprávní čin spáchaný jejím jménem nebo v jejím zájmu nebo v rámci její činnosti
-─	§ 8(1) osoby, které mohou založit přičitatelnost PO:
-─	statutární orgán nebo jeho člen, jiná osoba oprávněná jménem nebo za PO jednat
-─	ti, kdo vykonávají u PO řídící nebo kontrolní činnost (vedoucí)
-─	osoby vykonávající rozhodující vliv na řízení
-─	zaměstnanci a osoby v obdobném postavení
-─	TO, i když se nepodaří zjistit, která konkrétní FO jednala
-─	TO i tehdy, kdy: k protiprávnímu činu došlo před vznikem PO / byla prohlášena za neplatnou po vzniku / právní úkon zakládající oprávnění k jednání je neplatný či neúčinný / jednající FO není odpovědna za své činy
-─	liberace § 8(5): PO se trestní odpovědnosti zprostí, pokud vynaložila veškeré úsilí, které na ní bylo možno spravedlivě požadovat, aby spáchání protiprávního činu osobami uvedenými v odst. 1 zabránila.
-─	při zániku PO přechází odpovědnost na jejího právního nástupce
-─	taxativní výčet trestů, jež lze uložit PO: zrušení, propadnutí věci nebo majetku, zákaz plnění veřejných zakázek, zákaz činnosti a další
-─	trestnost může zaniknout účinnou lítostí (nejde-li o některou ze skutk. podstat úplatkářství, porušení pravidel hosp. soutěže, zjednání výhody/pletichy i veř. zakázek atd.
-─	vyloučení kumulace správních a trestních sankcí za stejnou věc (ne bis in idem)
+-	úprava v z. č. 418/2011 Sb., o trestní odpovědnosti PO a řízení proti nim
+-	t. odpovědnost PO: protiprávní čin spáchaný jejím jménem nebo v jejím zájmu nebo v rámci její činnosti
+-	§ 8(1) osoby, které mohou založit přičitatelnost PO:
+-	statutární orgán nebo jeho člen, jiná osoba oprávněná jménem nebo za PO jednat
+-	ti, kdo vykonávají u PO řídící nebo kontrolní činnost (vedoucí)
+-	osoby vykonávající rozhodující vliv na řízení
+-	zaměstnanci a osoby v obdobném postavení
+-	TO, i když se nepodaří zjistit, která konkrétní FO jednala
+-	TO i tehdy, kdy: k protiprávnímu činu došlo před vznikem PO / byla prohlášena za neplatnou po vzniku / právní úkon zakládající oprávnění k jednání je neplatný či neúčinný / jednající FO není odpovědna za své činy
+-	liberace § 8(5): PO se trestní odpovědnosti zprostí, pokud vynaložila veškeré úsilí, které na ní bylo možno spravedlivě požadovat, aby spáchání protiprávního činu osobami uvedenými v odst. 1 zabránila.
+-	při zániku PO přechází odpovědnost na jejího právního nástupce
+-	taxativní výčet trestů, jež lze uložit PO: zrušení, propadnutí věci nebo majetku, zákaz plnění veřejných zakázek, zákaz činnosti a další
+-	trestnost může zaniknout účinnou lítostí (nejde-li o některou ze skutk. podstat úplatkářství, porušení pravidel hosp. soutěže, zjednání výhody/pletichy i veř. zakázek atd.
+-	vyloučení kumulace správních a trestních sankcí za stejnou věc (ne bis in idem)
 
 
 \|--------------------------------------\| <br>
@@ -8385,86 +8385,86 @@ přestupky PO:
 
 1. SMLOUVA O SPOLEČNOSTI
 	A) pojem a význam společnost
-─	zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci
-─	podstatné náležitosti: a) dohoda o společném účelu, b) ujednání o vkladu či závazku k činnosti
-─	společnost mohou založit nejméně 2 osoby (FO či PO), „společnost občanského práva“
-─	forma není předepsána (X pokud je majetkový vklad  soupis vkladu společníků s podpisy)
+-	zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci
+-	podstatné náležitosti: a) dohoda o společném účelu, b) ujednání o vkladu či závazku k činnosti
+-	společnost mohou založit nejméně 2 osoby (FO či PO), „společnost občanského práva“
+-	forma není předepsána (X pokud je majetkový vklad -> soupis vkladu společníků s podpisy)
 - 	1. nemá právní subjektivitu (jde o obligaci)
-─	podílové spoluvlastnictví společníků (vložený majetek), solidární ručení za dluhy
+-	podílové spoluvlastnictví společníků (vložený majetek), solidární ručení za dluhy
 - 	2. společný účel (výdělečný i nevýdělečný, krátkodobý i dlouhodobý, musí být dovolený)
-─	úprava v OZ převážně dispozitivní charakter (X zákaz lví společnosti, omezení p. na informace)
-─	výhoda: neformálnost založení  bez nutnosti smlouvy v kvalifikované formě a registrace v určeném rejstříku X nevýhoda: absence právní osobnosti
-─	využití: např. v oblasti veřejných zakázek  dodavatelé nejsou schopni plnit samostatně, a tak uzavřou smlouvu o společnosti; i v rámci OK: např. dohoda o hlasování akcionářů, pomocná funkce u jiných PJ (na spolek, kt. nebyl zapsán do VR, se použije úprava společnosti)
-─	i jako subsidiární úprava u OK (hlavně u osobních společností, u kapitálových max. povinnost loajality)
+-	úprava v OZ převážně dispozitivní charakter (X zákaz lví společnosti, omezení p. na informace)
+-	výhoda: neformálnost založení -> bez nutnosti smlouvy v kvalifikované formě a registrace v určeném rejstříku X nevýhoda: absence právní osobnosti
+-	využití: např. v oblasti veřejných zakázek -> dodavatelé nejsou schopni plnit samostatně, a tak uzavřou smlouvu o společnosti; i v rámci OK: např. dohoda o hlasování akcionářů, pomocná funkce u jiných PJ (na spolek, kt. nebyl zapsán do VR, se použije úprava společnosti)
+-	i jako subsidiární úprava u OK (hlavně u osobních společností, u kapitálových max. povinnost loajality)
 	B) P@P společníků
-─	členství je osobní povahy, účast nelze převést na jiného (je to obligace); obsah: vzájemná P@P
-─	povinnost podporovat dosažení společného účelu
-─	povinnost loajality vůči ostatním společníkům
-─	povinnost přispět: vnést vklad či se zavázat k určité činnosti pracovní X kapitálová X smíšená sp.
-─	za činnost > právo na podíl na zisku, u věcí > stávají se spoluvlastníky nebo právo užívat/požívat
-─	zákaz konkurence: nic, co konkuruje společnému účelu (X výslovný souhlas společníků)
-─	1. zdrží se, 2. nahradí škodu, 3. vyloučen, 4. aby jednání bylo prohlášeno „na společný účet“ , 5. postoupení práva na odměnu
-─	právo na rozdělení majetku nabytého za trvání společnosti (nejsou-li spoluvl. podíly určeny > jsou stejné) X zákaz tzv. lvího podílu (societas leonina) (= vyloučení společníka z práva na podílu)
-─	povinnost nést ztrátu – rovným dílem, lze upravit; vyloučit ji lze, ale nemá účinky proti 3. osobám
-─	právo rozhodovat o záležitostech společnosti  většina hlasů X změna smlouvy– jednomyslně; kvórum i počet hlasů na společníka lze smluvně upravit
-─	právo správy společné věci – ale mohou pověřit správce (může být i třetí osoba)
-─	právo na informace – od správce (pravidelná vyúčtování)
+-	členství-> je osobní povahy, účast nelze převést na jiného (je to obligace); obsah: vzájemná P@P
+-	povinnost podporovat dosažení společného účelu
+-	povinnost loajality vůči ostatním společníkům
+-	povinnost přispět: vnést vklad či se zavázat k určité činnosti ->pracovní X kapitálová X smíšená sp.
+-	za činnost > právo na podíl na zisku, u věcí > stávají se spoluvlastníky nebo právo užívat/požívat
+-	zákaz konkurence: nic, co konkuruje společnému účelu (X výslovný souhlas společníků)
+-	1. zdrží se, 2. nahradí škodu, 3. vyloučen, 4. aby jednání bylo prohlášeno „na společný účet“ , 5. postoupení práva na odměnu
+-	právo na rozdělení majetku nabytého za trvání společnosti (nejsou-li spoluvl. podíly určeny > jsou stejné) X zákaz tzv. lvího podílu (societas leonina) (= vyloučení společníka z práva na podílu)
+-	povinnost nést ztrátu – rovným dílem, lze upravit; vyloučit ji lze, ale nemá účinky proti 3. osobám
+-	právo rozhodovat o záležitostech společnosti -> většina hlasů X změna smlouvy– jednomyslně; kvórum i počet hlasů na společníka lze smluvně upravit
+-	právo správy společné věci – ale mohou pověřit správce (může být i třetí osoba)
+-	právo na informace – od správce (pravidelná vyúčtování)
 	C) společnost jako organizace
-─	je to obligace, přesto má určité organizační rysy:
+-	je to obligace, přesto má určité organizační rysy:
 - 	rozhodování o nejvýznamnějších otázkách – vždy všichni společníci (paralela s nejvyš. orgánem OK)
 - 	správa společnosti (spol. záležitostí) – všichni společně, popřípadě některý z nich či třetí osoba (záleží na smlouvě); vnitřní záležitosti (plánování výroby, účetnictví), nakládání se spol. majetkem
 - 	zastupování společnosti (jednání vůči 3. osobám) – všichni společně, jelikož společnost nemá právní subjektivitu, ledaže je smlouvou o zastupování pověřen některý z nich či třetí osoba
-↪ zde je výjimka – jedná-li kterýkoliv společník ve společné záležitosti se třetí osobou, považuje se za příkazníka všech společníků a jeho jednání zavazuje všechny společníky
+-> zde je výjimka – jedná-li kterýkoliv společník ve společné záležitosti se třetí osobou, považuje se za příkazníka všech společníků a jeho jednání zavazuje všechny společníky
 	D) vznik a zánik
-─	vznik: uzavřením smlouvy  není předepsaná forma (X zpřísnění formy zvl. zákony – př. z. o advokacii)
-─	zánik členství společníka > společnost trvá (krom zániku 1 ze 2 společníků > nemůže být 1 společník)
-─	vystoupit lze kdykoliv a to z jakéhokoliv či bez důvodu (omezení: nevhodná doba pro společnost, hrozící újma ostatním > pak jen když má vážný důvod)
-─	lze vyloučit (podstatné porušení povinnosti, insolvenční řízení na jeho majetek)
-─	smrtí (není-li ujednáno, že platí pro dědice jako p. nástupce)
-─	zánik společnosti – ze zákona:
-─	1. dohoda o zániku, 2. splnění podmínek smlouvy, 3. dosažení účelu, 4. dosažení účelu se stane nemožným, 5. uplynutí doby, 6. zaniklo členství 1 společníka u 2členné spol.
+-	vznik: uzavřením smlouvy -> není předepsaná forma (X zpřísnění formy zvl. zákony – př. z. o advokacii)
+-	zánik členství společníka > společnost trvá (krom zániku 1 ze 2 společníků > nemůže být 1 společník)
+-	vystoupit lze kdykoliv a to z jakéhokoliv či bez důvodu (omezení: nevhodná doba pro společnost, hrozící újma ostatním > pak jen když má vážný důvod)
+-	lze vyloučit (podstatné porušení povinnosti, insolvenční řízení na jeho majetek)
+-	smrtí (není-li ujednáno, že platí pro dědice jako p. nástupce)
+-	zánik společnosti – ze zákona:
+-	1. dohoda o zániku, 2. splnění podmínek smlouvy, 3. dosažení účelu, 4. dosažení účelu se stane nemožným, 5. uplynutí doby, 6. zaniklo členství 1 společníka u 2členné spol.
 
 2. SMLOUVA O TICHÉ SPOLEČNOSTI
 	A) obsah, forma, povaha a funkce
-─	tichý společník se zavazuje k vkladu, kterým se bude podílet po celou dobu trvání tiché společnosti na výsledcích podnikání podnikatele, a podnikatel se zavazuje platit tichému společníkovi podíl na zisku
-─	podstatné náležitosti: a) povinnost tichého společníka k vkladu
+-	tichý společník se zavazuje k vkladu, kterým se bude podílet po celou dobu trvání tiché společnosti na výsledcích podnikání podnikatele, a podnikatel se zavazuje platit tichému společníkovi podíl na zisku
+-	podstatné náležitosti: a) povinnost tichého společníka k vkladu
 b) závazek podnikatele platit mu podíl na zisku
-─	časté vedlejší náležitosti: výše podílu na zisku, splatnost, způsob vložení předmětu vkladu atd.
-─	obecný rámec jednání povinnost jednat poctivě
-─	jde o obligační vztah mezi podnikatelem a tichým společníkem (jakákoli FO/PO)
-─	forma není předepsána
-─	funkce:
-─	jedním z nástrojů financování podnikatelské činnosti
-─	diskrétní formou účasti na podnikání (kapitálová investice), „tichá účast“ není veřejně deklarována není evidována v OR či jiném rejstříku, ani se nezakládá do sbírky listin
-↪ možnost zneužití tiché smlouvy  avšak podléhá sankcím
+-	časté vedlejší náležitosti: výše podílu na zisku, splatnost, způsob vložení předmětu vkladu atd.
+-	obecný rámec jednání ->povinnost jednat poctivě
+-	jde o obligační vztah mezi podnikatelem a tichým společníkem (jakákoli FO/PO)
+-	forma není předepsána
+-	funkce:
+-	jedním z nástrojů financování podnikatelské činnosti
+-	diskrétní formou účasti na podnikání (kapitálová investice), „tichá účast“ není veřejně deklarována-> není evidována v OR či jiném rejstříku, ani se nezakládá do sbírky listin
+-> možnost zneužití tiché smlouvy -> avšak podléhá sankcím
 	B) smluvní strany
-─	osoba přijímající tichou účast musí být vždy podnikatel (výjimka: nesmí být v.o.s., musí celý zisk rozdělit mezi společníky); tichý společník: jakákoli česká/zahraniční FO/PO
-─	smlouvu může s OK uzavřít i její společník; s podnikatelem i jeho ZC
-─	podnikatel může uzavřít více smluv o tiché společnosti, nebo jednu smlouvu s více tichými společníky (pak jsou solidárními dlužníky i věřiteli)
+-	osoba přijímající tichou účast musí být vždy podnikatel (výjimka: nesmí být v.o.s., musí celý zisk rozdělit mezi společníky); tichý společník: jakákoli česká/zahraniční FO/PO
+-	smlouvu může s OK uzavřít i její společník; s podnikatelem i jeho ZC
+-	podnikatel může uzavřít více smluv o tiché společnosti, nebo jednu smlouvu s více tichými společníky (pak jsou solidárními dlužníky i věřiteli)
 	C) vklad tichého společníka
-─	vklad a předmět vkladu vkladem se rozumí peněžní vyjádření hodnoty předmětu vkladu
-─	předmět vkladu = věc, kterou t. společník vkládá do t. společnosti (peníze či jiná (ne)movitá věc)
-─	způsobilé jsou 1. obchodovatelné věci, 2. které lze ocenit v penězích, 3. s nimiž je T společník oprávněn nakládat
-─	dispozitivní pravidlo – je-li předmětem vkladu nemovitá věc  podnikatel nabývá (pouze) užívacího a požívacího práva k nemovitosti; je-li jím movitá věc > má se za to, že se stal vlastníkem
+-	vklad a předmět vkladu-> vkladem se rozumí peněžní vyjádření hodnoty předmětu vkladu
+-	předmět vkladu = věc, kterou t. společník vkládá do t. společnosti (peníze či jiná (ne)movitá věc)
+-	způsobilé jsou 1. obchodovatelné věci, 2. které lze ocenit v penězích, 3. s nimiž je T společník oprávněn nakládat
+-	dispozitivní pravidlo – je-li předmětem vkladu nemovitá věc -> podnikatel nabývá (pouze) užívacího a požívacího práva k nemovitosti; je-li jím movitá věc > má se za to, že se stal vlastníkem
 	D) P@P smluvních stran
-─	P@P tichého společníka:
-─	vkladová povinnost t. společníka: předat předmět vkladu anebo umožnit s ním nakládat, (nevyplývá-li ze smlouvy jinak) bez zbytečného odkladu po vzniku tiché společnosti
-─	povinnost ručení: NE, ani primárně ani akcesoricky (X výjimky: dojde k deklaraci spojení: 1) jeho jméno je obsaženo ve jménu či obch. firmě podnikatele > ručí za všechny dluhy; 2) deklarace jím samotným vůči konkrétní třetí osobě > ručí za dluhy ze smlouvy s touto osobou)
-─	právo kontroly: dispozitivní právo nahlížet do obchodních dokladů a účetních záznamů (kogentní jen, když prokáže, že záznamy nejsou vedeny správně, poctivě – což prokáže stěží)
-─	právo na stejnopis účetní závěrky: bez zbytečného odkladu po jejím schválení
-─	právo na podíl na zisku: není-li výše stanovena smluvně určí se vzhledem k výši jeho vkladu a zavedené praxi stran, popřípadě vzhledem ke zvyklostem (ale ty se uplatní těžko, když jsou „tiché“)
-─	povinnost nést podíl na ztrátě: kogentní: podíl na ztrátě je stejný jako podíl na zisku; jeho vklad se o podíl na ztrátě snižuje > tj. může tak dojít až ke konzumaci vkladu a tím zániku t. společnosti (mohou si ale sjednat, že vklad se nebude snižovat, že uhradí podíl na ztrátě z jiných prostředků)
-─	povinnost mlčenlivosti – mají obě strany
-─	P@P podnikatele:
-─	povinnost podnikatele podnikat – to plyne ale spíše z § 6/1: příkaz jednat v právním styku poctivě, dále z §1787/2: P@P se odvozují od účelu smlouvy, kt. má zřejmě sledovat
+-	P@P tichého společníka:
+-	vkladová povinnost t. společníka: předat předmět vkladu anebo umožnit s ním nakládat, (nevyplývá-li ze smlouvy jinak) bez zbytečného odkladu po vzniku tiché společnosti
+-	povinnost ručení: NE, ani primárně ani akcesoricky (X výjimky: dojde k deklaraci spojení: 1) jeho jméno je obsaženo ve jménu či obch. firmě podnikatele > ručí za všechny dluhy; 2) deklarace jím samotným vůči konkrétní třetí osobě > ručí za dluhy ze smlouvy s touto osobou)
+-	právo kontroly: dispozitivní právo nahlížet do obchodních dokladů a účetních záznamů (kogentní jen, když prokáže, že záznamy nejsou vedeny správně, poctivě – což prokáže stěží)
+-	právo na stejnopis účetní závěrky: bez zbytečného odkladu po jejím schválení
+-	právo na podíl na zisku: není-li výše stanovena smluvně-> určí se vzhledem k výši jeho vkladu a zavedené praxi stran, popřípadě vzhledem ke zvyklostem (ale ty se uplatní těžko, když jsou „tiché“)
+-	povinnost nést podíl na ztrátě: kogentní: podíl na ztrátě je stejný jako podíl na zisku; jeho vklad se o podíl na ztrátě snižuje > tj. může tak dojít až ke konzumaci vkladu a tím zániku t. společnosti (mohou si ale sjednat, že vklad se nebude snižovat, že uhradí podíl na ztrátě z jiných prostředků)
+-	povinnost mlčenlivosti – mají obě strany
+-	P@P podnikatele:
+-	povinnost podnikatele podnikat – to plyne ale spíše z § 6/1: příkaz jednat v právním styku poctivě, dále z §1787/2: P@P se odvozují od účelu smlouvy, kt. má zřejmě sledovat
 	E) zánik tiché společnosti
-─	obecná úprava zániku závazků v OZnapř. dohoda stran, uplynutím času, splynutím práv a povinností v jedné osobě, odstoupením ze zákonných či sjednaných důvodů, výpověď smlouvy,…
-─	↪ speciální důvody zániku:
-─	konzumace vkladu (ledaže tichý společník uhradí podíl na ztrátě jinak)
-─	ukončení podnikání, kterého se tichá společnost týká
-─	úpadek podnikatele
-─	vypořádání: pouze vklad tichého společníka  povinnost podnikatele vydat mu bez zbytečného odkladu po zániku tiché společnosti jeho vklad upravený o podíl na výsledcích svého podnikání
-─	↪ t. společníkovi tak vzniká peněžitá pohledávka ve výši vkladu snížená, případně zvýšená o podíl na ztrátě či zisku (+právo na vrácení dosud nevyplaceného podílu na zisku z minulých let)
+-	obecná úprava zániku závazků v OZ->např. dohoda stran, uplynutím času, splynutím práv a povinností v jedné osobě, odstoupením ze zákonných či sjednaných důvodů, výpověď smlouvy,…
+-	-> speciální důvody zániku:
+-	konzumace vkladu (ledaže tichý společník uhradí podíl na ztrátě jinak)
+-	ukončení podnikání, kterého se tichá společnost týká
+-	úpadek podnikatele
+-	vypořádání: pouze vklad tichého společníka -> povinnost podnikatele vydat mu bez zbytečného odkladu po zániku tiché společnosti jeho vklad upravený o podíl na výsledcích svého podnikání
+-	-> t. společníkovi tak vzniká peněžitá pohledávka ve výši vkladu snížená, případně zvýšená o podíl na ztrátě či zisku (+právo na vrácení dosud nevyplaceného podílu na zisku z minulých let)
 
 
 \|--------------------------------------\| <br>
@@ -8869,7 +8869,7 @@ o	obecně pro KS – při absenci zvláštní úpravy pro KS se přiměřeně po
 o	pro komanditistu – právní úprava SRO se použije k určení právního postavení komanditistů (výše vypořádacího podílu dle § 120 odst. 2 ZOK, přiměřeně převoditelnost podílu dle § 123 ZOK)
 - 	hospodářský význam – využití pro tzv. fond kvalifikovaných investorů, která může vydávat účastnické cenné papíry
 ZALOŽENÍ A VZNIK
-- 	založení – společenská smlouva v písemné formě s úředně ověřenými podpisy (✘§ 8 věta druhá ZOK konstatuje, že společenská smlouva při založení kapitálové společnosti vyžaduje notářský zápis – nikoliv u osobních společností)
+- 	založení – společenská smlouva v písemné formě s úředně ověřenými podpisy (**X**§ 8 věta druhá ZOK konstatuje, že společenská smlouva při založení kapitálové společnosti vyžaduje notářský zápis – nikoliv u osobních společností)
 o	podmínky pro nabytí členství v KS:
 *	(1) obecně: absence prohlášení konkursu na majetek v posledních letech, zamítnutí insolvenčního návrhu nebo zrušení konkursu pro nedostatek majetku (§ 118 odst. 2 in fine ZOK ve spojení § 95 odst. 3 ZOK)
 *	(2) pro komplementáře: povinnost splňovat požadavky dle § 46 an. ZOK (§ 125 odst. 1 ZOK)
@@ -8890,7 +8890,7 @@ o	vedle důvodů dle § 113 ZOK – KS má další důvod (§ 127 odst. 3 ZOK) �
 - 	společnost zaniká výmazem z OR – návrh na výmaz podává likvidátor
 POSTAVENÍ SPOLEČNÍKŮ
 Členství
-- 	originární členství – vznik uzavřením společenské smlouvy nebo přistoupením✘při zániku účasti společníka rozsah zákonného ručení je jen za dluhy, které vznikly během jeho účasti  
+- 	originární členství – vznik uzavřením společenské smlouvy nebo přistoupením**X**při zániku účasti společníka rozsah zákonného ručení je jen za dluhy, které vznikly během jeho účasti  
 - 	derivativní členství – pouze podíl ze strany komanditisty a za podmínek převodu podílů v poměrech SRO lze nabýt
 Práva a povinnosti
 Práva
@@ -9218,7 +9218,7 @@ Statutární orgán (§ 125 odst. 1 ZOK)
 - **Akcie jako cenný papír a její formy a druhy**
  - Rozdělení:
     - Podoba: akcie (listiná) X akcie zaknihovaná
-    - forma – akcie na majitele (cenný papír na doručitele) ✘ akcie na jméno (cenný papír na řad)
+    - forma – akcie na majitele (cenný papír na doručitele) **X** akcie na jméno (cenný papír na řad)
     - druh - kmenové a zvláštní
   - Převody akcií nelze zakázat, ale lze je omezit
 
@@ -13074,7 +13074,7 @@ AUDIT
 Audit analyzuje a diagnostikuje problémy spojené s činnostmi složitých systémů řízení za účelem podání informací o jejich funkčnosti.
 Audit je zaměřený do budoucnosti.
 Kontrola postihuje viníky. X Audit je zaměřen na zkoumání systémových nedostatků v rámci auditované činnosti. Audit prověřuje, jestli správně probíhá určitá činnost.
-Audit dělíme podle toho, kdo ho dělá na
+Audit dělíme podle toho, kdo ho dělá na->
 •	interní
 Zaměstnanci podniku, (ne ti, co tu činnost dělají) pracovníci prověřují průběh procesů. Cílem je pomáhat vrcholovým vedoucím v plnění jejich úkolů, poskytováním rozborů, hodnocení, doporučení, poradenství. Předmětem jsou všechny činnosti podniku.
 •	externí
