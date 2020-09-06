@@ -1147,6 +1147,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 
 - **Promlčení**
   - Složená právní skutečnost = je vázána na existenci jiné právní skutečnosti a tu svým během ovlivňuje
+    - Respektive jedná se o právní skutečnost, která je složena z několika dílčích právních skutečností - u promlčení - marné uplynutí lhůty + právní jednání vznesení námitky
   - **Promlčení** = následek marného uplynutí lhůty pro uplatnění práva
   - **Počátek běhu lhůty** = den dospělosti práva = například dlužník měl dnes splnit, nesplnit -> zítra můžu žalovat, pokud nebudu žalovat -> promlčení
     - lhůta se samozřejmě může stavět a přetrhnout

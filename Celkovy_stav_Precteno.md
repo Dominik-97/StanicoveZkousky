@@ -8,7 +8,7 @@
 - [x] Otázka 4
 - [x] Otázka 5
 - [x] Otázka 6
-- [ ] Otázka 7
+- [x] Otázka 7
 - [ ] Otázka 8
 - [ ] Otázka 9
 - [ ] Otázka 10
