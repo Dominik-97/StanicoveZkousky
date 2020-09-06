@@ -5012,7 +5012,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
 - musí být přípustný, bez podmínek, výslovný, možné jej odvolat
 - obsah: obecné náležitosti - označení soudu, kterému je určen; kdo je činí; které věci se týká; co sleduje (návrh, petit), podpis a datace + zvláštní náležitosti (IČO)
 
-	časová určení procesních úkonů:
+*	časová určení procesních úkonů:
 - procesní roky = určení času a místa, kdy a kde se koná jednání, stanoví soud, prakticky nepoužíváno
 - procesní lhůty = časové úseky určené pro procesní úkony účastníků, soud výjimečně (7 dní na rozhodnutí o předběžném opatření, 30 dní pro odeslání pís. Vyhotovení rozsudku,…)
     a) zákonné – určené zákonem; př. lhůta pro odvolání/ podání odporu
@@ -5023,7 +5023,7 @@ kt přiznává účinky na vznik/ změnu/ zánik procesněprávního vztahu
            II. ke splnění povinnosti => urč. sankce (vykonatelnost, pokuta)
     b) soudcovské - stanovuje k provedení úkonu soudce, lze prodloužit (nikoliv prominout zmeškání)
          - nesplnění lhůty => např. pořádková pokuta
-	počítání a běh procesní lhůty
+*	počítání a běh procesní lhůty
 - může být určena na dny, týdny, měsíce či léta (výjimečně na hodiny)
 - podle dní: lhůta počíná dnem, který následuje po rozhodné skutečnosti (např.15-denní lhůta pro
                    odvolání běží od doručení rozsudku – doručeno 3. června, běží od 4. a skončí 18.)
@@ -5120,14 +5120,14 @@ Instance
 
 A38. Průběh řízení obecně
 - zahájení řízení (+ účinky) - sporné řízení se zahajuje na návrh (žalobou) dnem, kdy soudu žaloba došla/ dnem sepsání protokolu o ústním jednání, nesmí mít vady (odmítnutí)
-	procesněprávní účinky:
+*	procesněprávní účinky:
 - vznik procesněprávního vztahu mezi žalobcem a soudem
 - doručením žalovanému vzniká trojstranný procesní vztah
 - vznik překážky litispendence
 - perpetuatio fori
 - konsumace žalobcova práva volit příslušný soud
 - povinnost soudu provést řízení i bez dalších návrhů a povinnost účastníků poskytovat součinnost
-	hmotněprávní účinky:
+*	hmotněprávní účinky:
 - lhůty po dobu řízení neběží
 - druhy žalob – statusové, na plnění, určovací, konstitutivní
 - po zahájení řízení -> přidělení věci soudci (senátu) -> postupuje ex offo bez dalších návrhů, aby věc byla co nejrychleji projednána a rozhodnuta a spor pokud možno vyřešit smírem
@@ -5222,7 +5222,7 @@ a) skutečnosti obecně známé – tj. notoriety např. že v určité obci byl
 b) skutečnosti známé soudu z jeho činnosti - většinou o nich existuje soudní spis
 c) předpisy uveřejněné nebo oznámené ve Sb.z. ČR, (NE cizí právo, obecně závazné vyhlášky)
 + §120 nesporné věci netřeba dokazovat
-	instituty usnadňující dokazování:
+*	instituty usnadňující dokazování:
 1. právní (zákonné) domněnky
 - vyvratitelné - ukládá soudu, aby považoval určitý závěr za zjištěný, přičemž připouští důkaz opaku (domněnka otcovství)
 - nevyvratitelné - nepřipouští důkaz opaku, pouze vyvrácení důkazu (protidůkaz) (nedal-li souhlas, nesouhlasí s provedením pitvy)
@@ -5234,7 +5234,7 @@ c) předpisy uveřejněné nebo oznámené ve Sb.z. ČR, (NE cizí právo, obecn
 - rozhodnutí již vydáno => soud z něj vychází, jestliže řízení o otázce probíhá => soud řízení přeruší
 3. úvaha soudu
  - v úzkém rámci – určení výše nároku (např. výše nároku na náhradu škody)
-	důkazní řízení:
+*	důkazní řízení:
   - navrhování důkazů - především povinností účastníků
   - obstarávání důkazů - navržené důkazy obstarává soud tak, aby je bylo možno provést, ediční
                                       povinnost účastníků i 3. osob
@@ -5244,7 +5244,7 @@ c) předpisy uveřejněné nebo oznámené ve Sb.z. ČR, (NE cizí právo, obecn
      - hodnotí je jednotlivě (jak je který věrohodný) a ve vzájemné souvislosti (jak do sebe „zapadají“)
      - špatně popsané a vyhodnocené důkazy => nepřezkoumatelnost rozhodnutí (odvolací důvod)         
 - lze dožádat o provedení důkazu i stát v rámci EU
-	procesní povinnosti a břemena v důkazním řízení – jen SŘ, NŘ neexistují, zásada vyšetřovací
+*	procesní povinnosti a břemena v důkazním řízení – jen SŘ, NŘ neexistují, zásada vyšetřovací
 - povinnost tvrzení – povinnost účastníka (žalobce) uvést všechny skutečnosti
 - povinnost důkazní – povinnost navrhnout/označit důkazy ke skutečnostem
 - břemeno tvrzení – procesní odpovědnost, že se soud  skutečnosti dozví a že budou prokázány
@@ -5462,9 +5462,9 @@ A. platební rozkaz
 a)	není-li znám pobyt žalovaného
 b)	má-li být platební rozkaz doručen do ciziny (=> evropský p. r.)
 ­	obsah:
-	 uložení povinnosti žalovanému zaplatit pohledávku a náklady říz. do 15 dnů od doručení
+*	 uložení povinnosti žalovanému zaplatit pohledávku a náklady říz. do 15 dnů od doručení
 NEBO
-	 podat odpor do 15 dnů od doručení (proti výroku o nákladech řízení – odvolání)
+*	 podat odpor do 15 dnů od doručení (proti výroku o nákladech řízení – odvolání)
 ­	podání odporu
 => ruší platební rozkaz v celém rozsahu a soud nařídí jednání ve věci
 - nemusí být odůvodněn, ale následně soud vydá kvalifikovanou výzvu, ke které se žalovaný vyjádřit musí
@@ -5496,9 +5496,9 @@ b)	soud II. stupně (není možné odvolání)
 2.	Materiální PM – závaznost a nezměnitelnost (vztah k předmětu řízení)
 I.	závaznost (pozitivní stránka)
 ­	rozhodnutím je třeba se řídit co do
-	 předmětu – objektivní meze
+*	 předmětu – objektivní meze
      - závazný je výrok (enunciát), nikoliv odůvodnění
-	 subjektů – subjektivní meze
+*	 subjektů – subjektivní meze
      - závazný je pouze pro účastníky řízení = inter partes
      - výjimky: statusové rozsudky => erga omnes
                      : rozhodnutí autoritativního orgánu (např. předb. otázka) => pro všechny orgány
@@ -5562,10 +5562,10 @@ b.	mimořádné - proti pravomocnému rozhodnutí
                    - pokud to zákon připouští (§ 236 OSŘ)
                    - dovolání, žaloba na obnovu řízení, žaloba pro zmatečnost
 ­	účinky:
-	suspenzivní - odkládá se právní moc a vykonatelnost rozhodnutí, dokud o odvolání
+*	suspenzivní - odkládá se právní moc a vykonatelnost rozhodnutí, dokud o odvolání
                        pravomocně nerozhodne odvolací soud
                      - u nás jen odvolání
-	devolutivní - řízení a rozhodnutí se přenáší na soud vyšší instance, odvolání, dovolání
+*	devolutivní - řízení a rozhodnutí se přenáší na soud vyšší instance, odvolání, dovolání
                    - výjimka je autoremedura (náprava vlastního rozhodnutí ve prospěch odvolatele)
 ­	přípustnost opravného prostředku
    = stanovení podmínek na straně účastníka (subjektivních a objektivních), zejména stanovení
@@ -8204,9 +8204,9 @@ o	Profesionální zákazník
 - 	Investiční zprostředkovatel je osoba zaregistrovaná u České národní banky, která je oprávněna přijímat a předávat pokyny týkající se investičních nástrojů nebo poskytovat investiční poradenství. Investiční zprostředkovatel však:
 o	nepřijímá peněžní prostředky nebo investiční nástroje zákazníků
 o	pokyny předává pouze:
-	■bance
-	■obchodníkovi s cennými papíry
-	■obhospodařovateli fondu kolektivního investování
+*	■bance
+*	■obchodníkovi s cennými papíry
+*	■obhospodařovateli fondu kolektivního investování
 - 	Vázaný zástupce je fyzická nebo právnická osoba, která je oprávněna za zastoupeného:
 o	zařídit, a popřípadě i uzavřít, obchody týkající se přijímání a předávaní pokynů týkajících se investičních nástrojů
 o	poskytovat investiční poradenství
@@ -8217,13 +8217,13 @@ o	investiční zprostředkovatel
 - 	Vázaný zástupce nesmí přijímat peněžní prostředky nebo investiční nástroje zákazníků
 - 	Vázaný zástupce je povinen jednat s vynaložením odborné péče, za výkon investičních činností vázaným zástupcem však odpovídá zastoupený
 o	Profesionálním zákazníkem rozumí zákon o podnikání na kapitálovém trhu především:
-	obchodníka s cennými papíry
-	finanční instituce (banka, spořitelní a úvěrní družstvo, pojišťovna, zajišťovna, investiční společnost, investiční fond, penzijní fond, penzijní společnost)
-	osoby provádějící sekuritizaci či hedging
-	státy nebo členské státy federace
-	národní banky
-	osoby, jejichž rozhodující činnost spočívá v obchodování na vlastní účet s investičními nástroji nebo komoditami
-	dále pak  všechny ostatní právnické osoby založené za účelem podnikání, které překračují určité ekonomické ukazatele stanovené zákonem  
+*	obchodníka s cennými papíry
+*	finanční instituce (banka, spořitelní a úvěrní družstvo, pojišťovna, zajišťovna, investiční společnost, investiční fond, penzijní fond, penzijní společnost)
+*	osoby provádějící sekuritizaci či hedging
+*	státy nebo členské státy federace
+*	národní banky
+*	osoby, jejichž rozhodující činnost spočívá v obchodování na vlastní účet s investičními nástroji nebo komoditami
+*	dále pak  všechny ostatní právnické osoby založené za účelem podnikání, které překračují určité ekonomické ukazatele stanovené zákonem  
 - 	Profesionální zákazník pak může být i kdokoliv jiný na vlastní žádost
 - 	Zákon předpokládá, že profesionální zákazník má odborné znalosti a zkušenosti v oblasti investic k tomu, aby činil vlastní investiční rozhodnutí a vyhodnocoval rizika, která podstupuje v souvislosti s investiční službou nebo obchodem s investičním nástrojem
 - 	Obchodovat s cennými papíry lze v zásadě dvěma způsoby:
@@ -8763,10 +8763,10 @@ ZÁKLADNÍ CHARAKTERISTIKA
 - 	definice (§ 95 odst. 1 ZOK): „Veřejná obchodní společnost je společnost alespoň dvou osob, které se účastní na jejím podnikání nebo správě jejího majetku a ručí za její dluhy společně a nerozdílně.“
 - 	Pojmové znaky:
 o	(1) společenství dvou osob
-	Vznik VOS pouze jedním společníkem je důvodem k prohlášení společnosti jako neplatné (§ 129 odst. 1 písm. d) NOZ)
-	Snížení minimálního počtu je důvodem pro zrušení společnosti (§ 211 odst. 2 NOZ)
+*	Vznik VOS pouze jedním společníkem je důvodem k prohlášení společnosti jako neplatné (§ 129 odst. 1 písm. d) NOZ)
+*	Snížení minimálního počtu je důvodem pro zrušení společnosti (§ 211 odst. 2 NOZ)
 o	(2) účast společníků na podnikání nebo na správě majetku společnosti
-	tento znak odkazuje na § 2 odst. 1 ZOK – osobní společnost může být založena za účelem podnikatelským ve smyslu § 420 odst. 1 NOZ nebo správou vlastního majetku  
+*	tento znak odkazuje na § 2 odst. 1 ZOK – osobní společnost může být založena za účelem podnikatelským ve smyslu § 420 odst. 1 NOZ nebo správou vlastního majetku  
 o	(3) solidární neomezené ručení společníků za dluhy společnosti
 - 	Obchodní firma (§ 96 ZOK) – musí obsahovat „veřejná obchodní společnost“/“veř. obch. spol.“/“v.o.s.“ – obsahuje-li firma jméno jednoho společníků je připouštěn dodatek „a spol.“
 - 	Ručení
@@ -8803,8 +8803,8 @@ POSTAVENÍ SPOLEČNÍKŮ
 - 	Originární vznik: uzavření společenské smlouvy jako zakladatel (§ 8 odst. 1 ZOK) a přistoupením ke smlouvě (§ 110 ZOK)
 - 	Derivativní vznik
 o	společenská smlouva musí zakotvit (§ 113 odst. 1 písm. c) a d) ZOK)
-	(1) děděním u FO – v okamžiku smrti společníka (zůstavitele) – lze odmítnout účast ve společnosti výpovědí do 3 měsíců ode dne, kdy se stal dědicem (§ 117 odst. 1 ZOK)
-	(2) přechod podílu na právního nástupce PO – v okamžiku zániku PO
+*	(1) děděním u FO – v okamžiku smrti společníka (zůstavitele) – lze odmítnout účast ve společnosti výpovědí do 3 měsíců ode dne, kdy se stal dědicem (§ 117 odst. 1 ZOK)
+*	(2) přechod podílu na právního nástupce PO – v okamžiku zániku PO
 o	Převod podílu je zakázán (§ 116 ZOK)
 - 	Obecné pravidlo pro zánik členství – zánik členství ve VOS má zpravidla důsledek zrušení společnosti
 - 	způsoby zániku členství bez zrušení společnosti
@@ -8816,24 +8816,24 @@ Práva
 - 	Majetková práva
 o	(1) právo podílet se na zisku (§ 112 ZOK) – rovným dílem, ledaže společenská smlouva stanoví jinak
 o	(2) právo na náhradu výdajů (§ 104 ZOK) – podmínky:
-	(1) výdaje vynaložené při zařizování záležitosti VOS (tj. v souvislosti s podnikáním či správou majetku)
-	(2) rozumné pokládání nákladů jako potřebných (tj. výše musí být přijatelná a hospodárná)
+*	(1) výdaje vynaložené při zařizování záležitosti VOS (tj. v souvislosti s podnikáním či správou majetku)
+*	(2) rozumné pokládání nákladů jako potřebných (tj. výše musí být přijatelná a hospodárná)
 o	(3) právo na vypořadací a podíl na likvidačním zůstatku  
 - 	Nemajetková práva
 o	(1) právo podílet se na správě společnosti
-	Změna společenské smlouvy – dohodou všech společníků (!) (§ 99 odst. 1 ZOK) a má-li být změnou dotčeno právo společníků, je nutný výslovný souhlas
-	Ostatní záležitosti – souhlas všech společníků, ledaže společenská smlouva určí jinak (§ 105 ZOK)
-	Výjimka (§ 115 odst. 2 ZOK) – souhlas pouze většiny společníků při vyloučení společníka soudem (!)
+*	Změna společenské smlouvy – dohodou všech společníků (!) (§ 99 odst. 1 ZOK) a má-li být změnou dotčeno právo společníků, je nutný výslovný souhlas
+*	Ostatní záležitosti – souhlas všech společníků, ledaže společenská smlouva určí jinak (§ 105 ZOK)
+*	Výjimka (§ 115 odst. 2 ZOK) – souhlas pouze většiny společníků při vyloučení společníka soudem (!)
 o	(2) Actio pro socio (§ 108 ZOK) – žaloba na splnění vkladové povinnosti (§ 102 ZOK), náhrada způsobené újmy vůči jinému společníkovi (§ 53 odst. 3 ZOK)
 o	(3) právo na informace – každý společník má právo být informován o všech záležitostech společnosti
-	Právo nahlížet do všech dokladů a jejich kontroly (§ 107 ZOK) – kogentní povaha
+*	Právo nahlížet do všech dokladů a jejich kontroly (§ 107 ZOK) – kogentní povaha
 Povinnosti
 - 	(1) osobní účast na podnikání/správě majetku (§ 95 odst. 1 ZOK) – kogentní ustanovení
 - 	(2) neomezené ručení za dluhy
 - 	(3) povinnost podílet se na ztrátě společnosti (§ 112 ZOK) – každý ze společníků rovným dílem
 - 	(4) Vkladová povinnost (§ 100 an. ZOK)
 o	Není zákonem stanovená povinnost – společníci mohou zakotvit ve společenské smlouvě nad rámec
-	musí být stanovena výše, způsob a lhůta pro splacení
+*	musí být stanovena výše, způsob a lhůta pro splacení
 o	jinak se prosadí subsidiární úprava – (1) v penězích, (2) bez zbytečného odkladu, (3) po vzniku účasti (§ 100 ZOK)
 o	v poměrech VOS může být nepeněžitým vkladem práce nebo služba (§ 103 ZOK) – jedná se o výjimku z § 17 odst. 3 ZOK (důvodem je, že VOS jako osobní společnost akcentuje osobní vlastnosti společníků)
 o	následky prodlení (§ 101 a § 102 NOZ) – (1) úrok z prodlení, (2) vyloučení NO VOS (musí připouštět společenská smlouva a souhlasit všichni zbývající společníci), (3) žaloba na plnění vkladové povinnosti, (4) návrh na vyloučení prodlévajícího společníka (před podáním musí být písemně vyzván k nápravě)
@@ -8845,10 +8845,10 @@ Nejvyšší orgán
 - 	NO jsou všichni společníci (§ 44 odst. 1 ZOK)
 - 	Rozhodování:
 o	(1) Změna společenské smlouvy (§ 99 odst. 1 ZOK) – obligatorní jednomyslná dohoda všech společníků – každý má pouze jeden hlas
-	Má-li být změnou dotčeno právo pouze některého ze společníků – nutnost výslovného souhlasného prohlášení ke změně (§ 99 odst. 2 ZOK)
+*	Má-li být změnou dotčeno právo pouze některého ze společníků – nutnost výslovného souhlasného prohlášení ke změně (§ 99 odst. 2 ZOK)
 o	(2) Ostatní záležitosti – dispositivně souhlas všech společníků (§ 105 ZOK)
-	Záležitosti vyžadující jednomyslnost – př. rozhodnutí o vyloučení v kadučním řízení (§ 101 odst. 2 ZOK)
-	Záležitosti vyžadující většinu – př. vyjádření souhlasu s návrhem na vyloučení k soudu (§ 115 odst. 2 ZOK)
+*	Záležitosti vyžadující jednomyslnost – př. rozhodnutí o vyloučení v kadučním řízení (§ 101 odst. 2 ZOK)
+*	Záležitosti vyžadující většinu – př. vyjádření souhlasu s návrhem na vyloučení k soudu (§ 115 odst. 2 ZOK)
 Statutární orgán
 - 	všichni společníci za předpokladu, že všichni splňují podmínky pro výkon funkce dle § 46 ZOK (bezúhonnost, neexistence překážky provozování živnosti)
 o	společenská smlouva může určit, že SO je některý nebo jediný společník
@@ -8871,11 +8871,11 @@ o	pro komanditistu – právní úprava SRO se použije k určení právního po
 ZALOŽENÍ A VZNIK
 - 	založení – společenská smlouva v písemné formě s úředně ověřenými podpisy (✘§ 8 věta druhá ZOK konstatuje, že společenská smlouva při založení kapitálové společnosti vyžaduje notářský zápis – nikoliv u osobních společností)
 o	podmínky pro nabytí členství v KS:
-	(1) obecně: absence prohlášení konkursu na majetek v posledních letech, zamítnutí insolvenčního návrhu nebo zrušení konkursu pro nedostatek majetku (§ 118 odst. 2 in fine ZOK ve spojení § 95 odst. 3 ZOK)
-	(2) pro komplementáře: povinnost splňovat požadavky dle § 46 an. ZOK (§ 125 odst. 1 ZOK)
+*	(1) obecně: absence prohlášení konkursu na majetek v posledních letech, zamítnutí insolvenčního návrhu nebo zrušení konkursu pro nedostatek majetku (§ 118 odst. 2 in fine ZOK ve spojení § 95 odst. 3 ZOK)
+*	(2) pro komplementáře: povinnost splňovat požadavky dle § 46 an. ZOK (§ 125 odst. 1 ZOK)
 o	Společenská smlouva a obsahové náležitosti
-	Náležitosti dle NOZ (§ 123 NOZ): sídlo, firma, předmět činnosti (podnikání, správa vlastního majetku)
-	Náležitosti dle ZOK (§ 124 ZOK): (i) určení komanditisty a komplementáře, (ii) určení výše vkladu komandisty, (iii) určení výše komanditní sumy, je-li stanoveno ručení do komanditní sumy (§ 129 ZOK)
+*	Náležitosti dle NOZ (§ 123 NOZ): sídlo, firma, předmět činnosti (podnikání, správa vlastního majetku)
+*	Náležitosti dle ZOK (§ 124 ZOK): (i) určení komanditisty a komplementáře, (ii) určení výše vkladu komandisty, (iii) určení výše komanditní sumy, je-li stanoveno ručení do komanditní sumy (§ 129 ZOK)
 - 	vznik – zápisem do OR
 ZRUŠENÍ A ZÁNIK
 - 	další důvody pro zrušení – lze společenskou smlouvou nad rámec upravit další důvody zániku (!)
@@ -8883,7 +8883,7 @@ ZRUŠENÍ A ZÁNIK
 - 	důvody pro zrušení dle ZOK (§ 119 ve spojení s § 113 ZOK) – viz B43
 o	hovoří-li úprava VOS o společnících, tak v poměrech se jedná o komplementáře (!)
 o	nicméně nutno vzít na vědomí odchylné postavení komanditisty – ne všechny důvody pro zrušení VOS vedou bez dalšího rovněž ke zrušení KS (!)
-	výjimky (§ 127 odst. 1 ZOK) – smrt/zánik komanditisty, prohlášení konkursu na majetek komanditisty, schválení odlužení komanditisty, neúspěšná dražba
+*	výjimky (§ 127 odst. 1 ZOK) – smrt/zánik komanditisty, prohlášení konkursu na majetek komanditisty, schválení odlužení komanditisty, neúspěšná dražba
 - 	výše uvedené výjimky způsobují pouze zánik účasti komanditisty (§ 127 odst. 2 ZOK)
 o	vedle důvodů dle § 113 ZOK – KS má další důvod (§ 127 odst. 3 ZOK) – žádný komplementářů nesplňuje § 46 ZOK
 - 	obnovení účasti komanditisty (§ 128 ZOK) – odpadnou-li důvody pro zánik účasti (viz výše) – povinnost nahradit splacený vypořádací podíl do 2 měsíců od obnovy účasti v KS
@@ -8896,19 +8896,19 @@ Práva a povinnosti
 Práva
 - 	majetková práva – právo na podíl na zisku, vypořádací podíl, likvidační zůstatek
 o	specifika při rozdělení zisku
-	(1) nejdříve se dělí mezi KS a komplementáře, a to na polovinu, není-i stanoveno jinak (§ 126 odst. 1 ZOK)
-	(2) poté část připadající na společnost se dále rozdělí mezi komanditisty dle podílů (§ 126 odst. 3 ZOK)
+*	(1) nejdříve se dělí mezi KS a komplementáře, a to na polovinu, není-i stanoveno jinak (§ 126 odst. 1 ZOK)
+*	(2) poté část připadající na společnost se dále rozdělí mezi komanditisty dle podílů (§ 126 odst. 3 ZOK)
 o	Komanditní suma (§ 129 ZOK) – společenská smlouva může určit ručení komanditistů za dluhy do výše určené částky (tzv. komanditní sumy)
-	Komanditní suma nesmí být nižší, než kolik činí vklad komanditisty (§ 129 odst. 1 in fine ZOK)
-	Povinnost hrazení ztráty KS jen do výše komanditní sumy (§ 129 odst. 2 písm. b) ZOK)
-	Zákonné ručení jen do výše komanditní sumy zapsané v OR v době, kdy věřitel vyzval k plnění (§ 129 odst. 2 písm. c) ZOK), tj. neprosadí se režim dle § 122 ZOK
-	komanditní suma se snižuje v rozsahu, ve kterém komanditista splnil svou povinnost (za situace, kdy komanditní sumy je vyšší než vkladová povinnosti)
+*	Komanditní suma nesmí být nižší, než kolik činí vklad komanditisty (§ 129 odst. 1 in fine ZOK)
+*	Povinnost hrazení ztráty KS jen do výše komanditní sumy (§ 129 odst. 2 písm. b) ZOK)
+*	Zákonné ručení jen do výše komanditní sumy zapsané v OR v době, kdy věřitel vyzval k plnění (§ 129 odst. 2 písm. c) ZOK), tj. neprosadí se režim dle § 122 ZOK
+*	komanditní suma se snižuje v rozsahu, ve kterém komanditista splnil svou povinnost (za situace, kdy komanditní sumy je vyšší než vkladová povinnosti)
 - 	nemajetková práva – obdobné jako u VOS (viz B44)
 Povinnosti  
 - 	(1) zákonné ručení
 o	Komplementáři: ručení za dluhy celým svým majetkem (neomezeně) společně a nerozdílně (§ 118 odst. 1 ZOK)
 o	Komanditisté: ručení za dluhy společně a nerozdílně do výše svého nesplaceného vkladu podle stavu zápisu v OR
-	Odlišný režim ručení u komanditní sumy (§ 129 odst. 2 písm. c) ZOK) – do výše [1] komanditní sumy [2] zapsané v OR v [3] době, kdy věřitel vyzval k plnění
+*	Odlišný režim ručení u komanditní sumy (§ 129 odst. 2 písm. c) ZOK) – do výše [1] komanditní sumy [2] zapsané v OR v [3] době, kdy věřitel vyzval k plnění
 - 	(2) vkladová povinnost – pouze komanditisté
 - 	(3) povinnost hradit ztrátu
 o	Ztráta se dělí mezi společností a komplementáři (§ 126 odst. 1 věta první ZOK)
@@ -9584,10 +9584,10 @@ Přeshraniční přeměny
 - 	české právo umožňuje přeshraniční fúze i rozdělení všech forem OK – záleží na tom, zda je to umožněno také ve členských státech, jejichž právem se řídí zúčastněné OK
 - 	obdobný proces se zakladními rozdíly:
 o	(1) osvědčení pro přeshraniční přeměnu
-	splnění uvedených podmínek potvrdí v každém členském státu pro tam sídlící zúčastněné OK určený orgán (notář), a vydá osvědčení pro přeshraniční přeměnu
+*	splnění uvedených podmínek potvrdí v každém členském státu pro tam sídlící zúčastněné OK určený orgán (notář), a vydá osvědčení pro přeshraniční přeměnu
 o	(2) zapojení zaměstnanců
-	míra účasti zaměstnanců na řízení nástupnických OK určena dohodou mezi zúčastněnými OK a vyjednávajícím výborem (zástupci zaměstnanců)
-	výsledkem dohody je smlouva o rozsahu práva vlivu zaměstnanců
+*	míra účasti zaměstnanců na řízení nástupnických OK určena dohodou mezi zúčastněnými OK a vyjednávajícím výborem (zástupci zaměstnanců)
+*	výsledkem dohody je smlouva o rozsahu práva vlivu zaměstnanců
 - 	není-li dohoda neuzavřena, o způsobu zapojení rozhodne výbor zaměstnanců
 - 	není-li rozhodnutí přijato, zvolí se způsob, který zaměstnancům poskytuje největší míru vlivu
 
