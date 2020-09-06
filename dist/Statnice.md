@@ -1624,7 +1624,7 @@ Princip legality = OVM může konat jen to, co mu ukládá zákon
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
-- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají**
+- **Před popisem vlastnictví, držby a věcných práv k věci cizí je vhodné začít popisem věcných práv, do kterých všechny 3 zmíněná práva spadají** (držba, vlastnictví, věcná práva k věci cizí)
   - Věcná práva umožňují úplné nebo částečné právní panství nad určitou hmotnou i nehmotnou věcí.
   - Postavení oprávněné osoby vylučuje kohokoliv jiného z právního působení na věc jím ovládanou, v případě porušení tohoto práva má právní nárok na ochranu před takovým jednáním.
   - Působí *erga omnes*, jedná se o práva jednoho individuálně určeného subjektu vůči mnoha neurčeným subjektům.

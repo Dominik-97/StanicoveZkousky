@@ -9,8 +9,8 @@
 - [x] Otázka 5
 - [x] Otázka 6
 - [x] Otázka 7
-- [ ] Otázka 8
-- [ ] Otázka 9
+- [x] Otázka 8
+- [x] Otázka 9
 - [ ] Otázka 10
 - [ ] Otázka 11
 - [ ] Otázka 12
