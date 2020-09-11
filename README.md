@@ -1,4 +1,5 @@
 ![Advanced Usage](https://github.com/Dominik-97/StanicoveZkousky/workflows/Advanced%20Usage/badge.svg)
+![Atestace z předmětů](https://img.shields.io/badge/St%C3%A1tn%C3%AD%20Z%C3%A1v%C4%9Bre%C4%8Dn%C3%A1%20Zkou%C5%A1ka%2C%20atestace%20z%20p%C5%99edm%C4%9Bt%C5%AF-Spln%C4%9Bno-brightgreen)
 # Repository storing my finals documentation
 
 Cloned from [Bachelors Work](https://github.com/Dominik-97/BachelorsWork/tree/Statni_Zkousky) repository, commit 407.
