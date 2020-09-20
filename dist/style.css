@@ -338,7 +338,7 @@ html {
 body {
   margin: 0;
   height: 100%;
-  background-color: grey;
+  background-color: white;
   /*min-width: 389px;*/
 }
 
@@ -364,6 +364,6 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: grey;
+  background-color: lightgrey;
   font-size: 24px;
 }
